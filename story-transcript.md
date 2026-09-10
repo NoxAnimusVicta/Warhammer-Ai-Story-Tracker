@@ -1,6 +1,6 @@
 # Malaspina — Story transcript
 
-Verbatim conversation record from the request to begin the story through the first offer of clothing. Message headings are archival labels; the message bodies retain their original wording and Markdown. Visible assistant progress notes are included separately. Tool calls and private narrator records are excluded. Parenthetical player instructions and character-information blocks are retained. Later corrections must be appended rather than silently rewriting earlier messages.
+Verbatim story conversation record from the request to begin the story onward. Message headings are archival labels; the message bodies retain their original wording and Markdown. Visible assistant progress notes accompanying story turns are included separately. Tool calls, private narrator records and intervening out-of-story planning are excluded. Parenthetical player instructions within story messages and character-information blocks are retained. Later corrections must be appended rather than silently rewriting earlier messages.
 
 ## 001 — Player · Opening request
 
@@ -332,3 +332,151 @@ Currency: None
 ## 015 — Player · Publication checkpoint (outside the scene)
 
 This would be a good point for you to update the HTML. Please take your time and record it in full please it needs to be a clear reference or if you want you can leave the HTML as more of a overview for me and then you could make an md and put it in the GitHub that has an exact transcript of the story. Every response from you and message from me that happens in the story so you have constant access to a full reference if you need to fact check anything later
+
+## 016 — Player · Accepting the cloth
+
+Ok now to continue the story. 
+
+I take the cloth and wrap it around myself like I was shown. As I do I keep mimicking words I hear them say and try to get a grasp for it. I’m already trying to figure out how to communicate and it’s pretty easy to figure out these sounds are how you do that I just need to learn to make and recognise each of them.
+
+## 017 — Assistant · Progress note
+
+I’ll resolve how much you pick up from their speech and how they respond as you accept the cloth.
+
+## 018 — Assistant · Cloth and speech
+
+Veskan lets the cloth pass into your hands.
+
+It is heavier than its loose folds suggested. Coarse fibres catch against your skin as you draw it around your shoulders and bring the edges together. The fabric holds a little warmth from his body. Much of it hangs below your knees, one corner brushing the crushed stone.
+
+He says something.
+
+You repeat what you can catch.
+
+His mouth stops moving.
+
+From behind him comes another voice, quicker and lower. You copy part of that too: a clipped beginning, a rolling sound, then two syllables that seem to belong together.
+
+The armed man looks directly at you.
+
+Veskan turns toward him and speaks. This time the man answers with only a few sounds, and lowers his weapon across the side of the vehicle. The narrow opening points away from you. His attention soon returns to the slope.
+
+Veskan crouches.
+
+He moves slowly, settling onto his heels with a faint crack from one knee. At this height, the lamp throws deeper shadows into the creases of his face.
+
+He touches the cloth near his own shoulder, though he is no longer wearing it, then points to the material around yours.
+
+A short sound.
+
+You reproduce it closely enough that he gives a small nod.
+
+But when he continues speaking, that same sound seems to disappear inside a longer sequence. The voices offer no neat spaces between things. A change in emphasis might separate two words—or merely alter one. Your memory holds the noises with remarkable clarity; what each belongs to remains much less certain.
+
+Veskan becomes easier to follow when he repeats the gesture.
+
+Cloth. Sound.
+
+His own chest.
+
+“Veskan.”
+
+There, at least, the association holds.
+
+The third occupant says something from beside the controls. Veskan answers without standing. Their exchange includes a sound repeated several times, accompanied by glances toward the ruined glasshouse. You can copy its shape. Whether it refers to the building, the falling object, or something they fear within it is still unclear.
+
+A wind moves down the railway cutting.
+
+Leaves turn their pale undersides toward the sky. High above, a loose piece of glass drops from the wrecked roof and breaks somewhere inside.
+
+All three adults look uphill.
+
+After a moment, Veskan rises. He points toward a low metal footboard on the side of the vehicle, then places one boot upon it. With a hand on the rail, he demonstrates the step before returning his foot to the ground.
+
+He repeats a brief sound and gestures toward the empty space.
+
+The engine remains silent.
+
+He waits beside the footboard, leaving the way to it clear.
+
+---
+
+Name: Unnamed  
+Age: Approximately one month; accelerated juvenile development  
+Date: Planetfall, Day 0 — evening  
+Reputation: Railway patrol showing cautious goodwill  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Oversized grey woollen cloth wrapped around body; barefoot  
+Gear/Inventory: Nothing carried; incubation pod uphill in the glasshouse  
+Currency: None
+
+## 019 — Player · Boarding with caution
+
+I do as instructed and board the vehicle. Enthralled by it and studying it as I but I am ensuring I do not let my guard down. It is not that I am hostile to these people. Very much the opposite but I am weary that they could have poor intentions for me and be feigning kindness, it is also harder to escape from a vehicle than it would be to run now. I am also aware that they could be using the vehicle to distract me while they attempt to attack me while I am unaware. All of these options are swimming through my mind as potentials but I am relying on the established physical evidence that appears to represent kindness so that is the framework I am using to base my interactions while still maintaining a more than healthy level of caution and skepticism
+
+## 020 — Assistant · Progress note
+
+I’ll resolve what your close inspection reveals while you keep track of the people around you.
+
+## 021 — Assistant · Departure by rail
+
+The footboard flexes beneath you. Above it, the vehicle’s floor is made from thick wooden planks, polished in places by boots and scored elsewhere by dragging metal.
+
+Up close, the machine offers more than noise and movement.
+
+A rod runs beneath the edge of the floor. It joins a long lever beside the controls to a set of blocks positioned against the wheels. When the occupant at the controls moves the lever, the rod moves with it. The blocks withdraw a little, then press back into place.
+
+The relationship is visible even without names for any of the parts.
+
+Near the centre, a metal cover gives off heat. Through a protective grille beneath it, you can see a broad band looped around two circular pieces. Oil has gathered along the lower edge of the housing. Someone has bound a split wooden handle with wire rather than replace it.
+
+Your attention can follow these details without losing the people around them.
+
+The armed man moves toward the rear. His weapon rests across the side rail, its opening directed away from you. The third occupant keeps both hands near the controls.
+
+Veskan climbs aboard last.
+
+A short chain lies beside the entrance. He steps over it and leaves it where it is. The vehicle has open sides above its low panels, with a rail running around the upper edge. Nothing closes across the footboard.
+
+He notices your attention on the warm housing.
+
+Holding his hand above it, he draws it back with a sharp breath and shakes his fingers. Then he points toward the cover and repeats a brief sound. His hand never reaches toward you.
+
+The person at the controls turns a small fitting.
+
+A metallic clatter comes from within the housing. The broad band jerks, stops, then begins moving too quickly for its surface to remain distinct. The engine catches with a succession of uneven knocks before settling into its familiar beat.
+
+Now the separate observations connect: the engine’s movement, the moving band, the shaft disappearing beneath the floor.
+
+Veskan grips the rail and gestures toward another section of it within your reach.
+
+The driver speaks over one shoulder. The armed man answers from the rear, still watching the glasshouse.
+
+Then the long lever moves.
+
+The wheel blocks release.
+
+The vehicle begins to roll.
+
+Slowly at first, it passes the bottom of the broken steps. The opening in the vegetation shifts past your shoulder; beyond it, the glasshouse roof catches one last strip of copper light. The pod itself is hidden inside.
+
+No one reaches for you as the wheels gather their rhythm.
+
+Ahead, the track follows the hillside through a corridor hacked from enormous roots. Farther down, lamps mark a bend above the dark water. A wire runs beside the railway from pole to pole, sagging where a branch has fallen across it.
+
+The vehicle carries you toward those lights, with its entrance still open and all three strangers close enough to watch.
+
+---
+
+Name: Unnamed  
+Age: Approximately one month; accelerated juvenile development  
+Date: Planetfall, Day 0 — evening  
+Reputation: Railway patrol showing cautious goodwill  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Oversized grey woollen cloth; barefoot  
+Gear/Inventory: Nothing carried; incubation pod left in the ruined glasshouse  
+Currency: None
+
+## 022 — Player · Publication checkpoint (outside the scene)
+
+Ok please now conduct updates to the GitHub Documentation
