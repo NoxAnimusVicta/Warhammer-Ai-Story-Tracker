@@ -480,3 +480,373 @@ Currency: None
 ## 022 — Player · Publication checkpoint (outside the scene)
 
 Ok please now conduct updates to the GitHub Documentation
+
+## 023 — Player · Learning during the journey
+
+Ok continuing the story. I sit patiently in the vehicle and watch the mechanics and try to mimic and remember the sounds each person is making to better understand the language until we arrive at wherever we are going to arrive and I can assess what is going to happen next
+
+## 024 — Assistant · Progress note
+
+I’ll resolve what you learn during the journey and the conditions at the patrol’s destination.
+
+## 025 — Assistant · Arrival at Serravonne
+
+The bench trembles beneath you as the vehicle follows the hillside.
+
+For a while, the engine dominates everything. Its rhythm changes on the steeper stretches; the driver moves a control, and the sound settles again. The brake rod shifts whenever the wheels need slowing. Those connections become familiar through repetition, although the workings beneath the hot cover remain concealed. Something inside produces an uneven knock at low speed. Watching the outside does not reveal why.
+
+The people are more forthcoming.
+
+At first, they exchange glances whenever you repeat them. Then Veskan begins making a deliberate exercise of it.
+
+He holds up his hand. Says a word.
+
+Points to yours. Says it again.
+
+He touches the grey cloth, indicates the warm engine cover, lifts a metal flask from beside the bench. With each object, another sound acquires something solid to belong to.
+
+Your pronunciation improves faster than their initial patience seems prepared for.
+
+Soon Veskan stops repeating every word twice.
+
+The driver contributes without leaving the controls. When the trolley approaches a bend, one short command accompanies Veskan’s raised palm. At a brief halt beside a fallen branch, another gesture and sound recur. Words begin separating themselves from the stream.
+
+*Hand. Cloth. Hot. Water.*
+
+*Wait.*
+
+The longer exchanges remain difficult. Familiar sounds appear inside them, but their arrangement changes what they seem to mean. Still, you can now retain a phrase, hear it again several minutes later, and recognise that it is the same phrase.
+
+Veskan watches you do this.
+
+He says something quietly to the armed man. This time, neither laughs.
+
+The jungle gradually retreats from the rails.
+
+Beyond its edge lies a broad strip of churned earth. Cut roots protrude from drainage trenches. Workers in heavy gloves feed armfuls of vegetation into smoking heaps while another pair clears a grate with long iron hooks. A wheeled machine waits beside them, its toothed cutting head thick with green pulp.
+
+Then a wall emerges through the smoke.
+
+It crosses the slope in sections of dark stone and poured concrete, patched with material of different colours. Wire crowns its upper edge. Lamps illuminate the cleared ground outside, and beneath a projecting roof, a weapon much larger than the one aboard the trolley rests between protective plates.
+
+Behind the wall rise crowded roofs, chimney stacks and the upper floors of pale buildings. Farther down, harbour lights lie scattered against black water.
+
+Veskan points.
+
+“Serravonne.”
+
+He repeats it while indicating the buildings.
+
+The trolley slows before a gate spanning the railway. Two figures approach from a sheltered doorway. Their coats bear the same small stitched device as the driver’s sleeve: three pale bars beneath a copper-coloured circle.
+
+One speaks to Veskan.
+
+His answer begins briskly. Then he gestures toward the hillside behind you.
+
+Both guards look at you.
+
+A question follows. You catch a familiar sound associated with you during the journey, but the rest comes too quickly. One guard leans slightly sideways to see your face beneath the fold of cloth. His gaze lingers on your hair.
+
+Veskan answers again.
+
+After a short pause, the guard steps clear and pulls a hanging handle. Machinery rattles within the gate housing. The barrier rises.
+
+The vehicle carries you through.
+
+Inside, the air is warmer and crowded with new smells: coal smoke, cooking fat, salt, hot grease. A bell rings somewhere beyond the nearest roofs. Workers cross the rails carrying tools and metal lunch tins.
+
+Your journey ends in a yard beside a long building with brightly lit windows.
+
+The driver cuts the engine.
+
+Through an open doorway stand benches, hanging coats and a stove with reddish light showing around its door. A woman in a dark work apron looks up from a ledger. Spectacles sit low on her nose; grease marks both sleeves.
+
+The driver calls to her.
+
+She comes to the threshold, sees you, and stops with one hand still holding the ledger open.
+
+Veskan climbs down. He indicates the room, then turns back toward you.
+
+“Come.”
+
+That one you understand.
+
+He waits beside the open footboard.
+
+---
+
+Name: Unnamed  
+Age: Approximately one month; accelerated juvenile development  
+Date: Planetfall, Day 0 — dusk  
+Reputation: Unidentified child accompanying a returning railway patrol  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Oversized grey woollen cloth; barefoot  
+Gear/Inventory: Nothing carried; incubation pod left in the ruined glasshouse  
+Currency: None
+
+## 026 — Player · Inside the room
+
+I follow him. Trying to take in everything I am seeing and figure out what everything does and what it could be for. Even the simplest things like the clothing, the walls, the windows and the more complex things like the stove. I try to understand where I am as I keep repeating words to myself over and over trying to get them right
+
+## 027 — Assistant · Progress note
+
+I’ll resolve what you can piece together from the room and the words used around you.
+
+## 028 — Assistant · Objects and their purposes
+
+The floor inside is warmer than the stones outside.
+
+Grit presses beneath your feet. Near the entrance, it lies thick in the grooves between the boards; farther into the room, repeated sweeping has left the wood pale and smooth.
+
+Veskan moves aside to let you through. The woman closes her ledger, keeping one finger between its pages.
+
+Your attention travels across the room.
+
+The hanging garments differ from your cloth. They have openings arranged around the shape of a body, narrower sections for limbs, overlapping edges fastened together. They leave hands free while keeping the covering in place. Heavy boots beneath them enclose the feet completely.
+
+The walls interrupt the wind. The windows admit light while maintaining that separation. One small pane stands open on a hinged frame, and a thin current of cool air passes through it.
+
+An enclosure whose openings can be controlled.
+
+The stove provides a more intricate version of the same principle.
+
+Through a narrow gap beneath its door comes an orange glow. Heat strengthens with proximity. A dark pipe rises from its upper surface, enters the wall, and continues outside. Around its lower edge, fine grey powder has gathered beneath a movable plate.
+
+The woman notices where you are looking.
+
+“Hot.”
+
+You repeat it.
+
+She reaches down and shifts the plate. Air whispers through the opening. The glow brightens; a faint roar develops inside.
+
+The sequence is immediate enough to follow.
+
+Opening. Moving air. Stronger fire.
+
+She watches your face, then points through the little opening in the stove door and supplies another word.
+
+You repeat that too.
+
+“Fire.”
+
+Veskan says something from beside you. You catch the sound for *hot* within it, followed by a familiar gesture toward your hand.
+
+The room begins acquiring names.
+
+The woman points to the door, the window, the bench. You repeat each sound under your breath. When she returns to the first object, the word is still there, distinct from the others.
+
+Her pace quickens.
+
+Then she deliberately points to the window after saying the word for the door.
+
+The mismatch stands out at once.
+
+She waits only a moment before giving the correct word, her gaze sharpening behind the spectacles.
+
+Veskan pulls out a bench.
+
+“Sit.”
+
+This time, the sound has an action attached to it as well as an object. Other fragments begin arranging themselves around that distinction: the thing being indicated, what someone wants done with it, the little changes that accompany a question.
+
+You cannot yet follow everything they say to one another. But their speech is becoming less like an uninterrupted current.
+
+The woman takes a folded cloth from beside the stove and uses it to lift the kettle. The metal handle is too hot for her bare hand; the cloth separates them. Another purpose for the same material.
+
+She sets the kettle aside without pouring from it.
+
+Instead, she fetches a covered jug from beneath the desk and fills a chipped enamel cup. Clear liquid strikes its bottom.
+
+“Water.”
+
+She places it on the table beside the empty bench, then raises her own empty hand toward her mouth.
+
+“Drink.”
+
+Her voice is patient. Her eyes are intent.
+
+The cup stands within reach, while beyond the window the two remaining members of the patrol begin unloading tools from the vehicle.
+
+---
+
+Name: Unnamed  
+Age: Approximately one month; accelerated juvenile development  
+Date: Planetfall, Day 0 — dusk  
+Reputation: Unidentified child displaying unusual learning ability  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Oversized grey woollen cloth; barefoot  
+Gear/Inventory: Nothing carried; water offered on the table; pod left in the glasshouse  
+Currency: None
+
+## 029 — Player · First drink
+
+I pick the water up and instinctively sniff it for anything suspicious (not like I exactly have a frame of reference yet however but my instincts may come into play) and if it smells fine I drink it all. Then repeat back “Drink.”
+
+## 030 — Assistant · Water and cup
+
+The cup is cool against your fingers.
+
+Close to its rim, there is a faint mineral smell, threaded with the metallic scent of the chipped edge. Nothing sharp or foul rises from the water. It offers none of the heavy sweetness of the fluid around the pod, nor the sour smells drifting from the yard.
+
+The woman watches you sniff it. She leaves her hands resting on the table.
+
+You drink.
+
+Cool water passes over your tongue. The first mouthful carries a slight taste from the rim; beneath it, the liquid is almost without flavour. You drain the cup, tipping it farther as the last of the water gathers against its side.
+
+“Drink.”
+
+The word comes clearly.
+
+The woman nods.
+
+“Drink,” she repeats, making the same small motion toward her mouth. Then she points to the object still in your hands.
+
+“Cup.”
+
+Her finger touches its outer surface.
+
+“Cup.”
+
+The distinction is useful: one sound belongs to what you did, another to the thing you used.
+
+Veskan speaks beside her. His voice is quieter now. He gestures toward the window, beyond which the hillside has become a dark outline against the evening sky.
+
+Her answer is brief. She looks from him to your white hair, then down at your bare feet.
+
+A longer question follows.
+
+You recognise a few sounds, but not enough to assemble its meaning. Veskan spreads his hands. Whatever she has asked, he has little to give her.
+
+The stove clicks as its metal warms.
+
+After a moment, the woman turns back to you and points once more at the empty cup, waiting to see whether its new sound has stayed with you.
+
+---
+
+Name: Unnamed  
+Age: Approximately one month; accelerated juvenile development  
+Date: Planetfall, Day 0 — dusk  
+Reputation: Unidentified child displaying unusual learning ability  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Oversized grey woollen cloth; barefoot  
+Gear/Inventory: Empty borrowed enamel cup in hand; pod left in the glasshouse  
+Currency: None
+
+## 031 — Player · Continuing to learn
+
+“Cup.” I say as I raise the Cup. Then I point to Veskan “Veskan.” Then I point to myself and Nod.  I carry on with this as long as they wish but I will not fully comprehend the language in a single night. Please continue the story as they figure out what to do with me while I keep repeating words and trying to listen and work out what they are saying as well as continuing to look around and learn things.
+
+## 032 — Assistant · Progress note
+
+I’ll carry the scene through their discussion and your continued learning, keeping tonight’s language gains to familiar words and simple phrases.
+
+## 033 — Assistant · Temporary shelter
+
+“Cup.”
+
+The woman nods as you raise it.
+
+“Veskan.”
+
+He answers with a small inclination of his head.
+
+When you point to yourself, both adults wait. Your nod leaves the silence unfilled.
+
+The woman touches her own chest.
+
+“Corva.”
+
+She repeats it once, then returns to the words you already know. There is no attempt to give you another name.
+
+For a while, the lesson continues amid their other work.
+
+Corva points, speaks, waits. Sometimes she changes the order. Sometimes she asks something that sounds almost familiar, and the expected answer remains beyond reach. You can preserve the sounds without yet understanding the differences between them.
+
+The room itself becomes easier to follow.
+
+Tools hang in groups according to their shapes. The coats nearest the stove drip into a shallow tray. A narrow shelf keeps folded cloth away from the floor, while heavy boots sit beneath it. Things repeatedly used together have been placed together.
+
+Corva retrieves her ledger.
+
+The pointed object in her hand leaves dark marks wherever she draws it across the page. She glances at the doorway, makes several marks, then looks toward a row of hooks and adds another. The marks evidently preserve something beyond the moment of speaking, although their shapes tell you nothing yet.
+
+Veskan speaks at length.
+
+He indicates the hillside, spreads his hands to show a size, and brings one sharply downward toward the other. Corva’s eyes flick to you.
+
+Her next question is directed entirely at him.
+
+He shakes his head.
+
+The exchange continues, with pauses in which both seem to consider what has been said. Neither reaches for you.
+
+Eventually Corva closes the ledger and crosses to a wooden box fixed beside the door.
+
+She turns a small handle on its side. A bell rattles faintly within it. Then she lifts a curved black object and holds one end against her ear.
+
+After a pause, a thin voice comes from it.
+
+Corva answers.
+
+The voice is distant and strangely flattened, but unmistakably resembles those of the people in the room. A cord joins the object to the box; another line disappears through the wall above it.
+
+Veskan watches Corva’s expression while she listens.
+
+Her conversation ends with a short, emphatic phrase. She replaces the black object, returns to the desk and opens a different page.
+
+Time passes in small tasks.
+
+The driver carries in a bundle of bedding. Another worker brings a folded frame from a cupboard and opens it into a low bed, its canvas surface pulled tight between metal supports. Corva directs its placement through an interior doorway, well away from the stove.
+
+Beyond that doorway is a kitchen.
+
+A pot gives off the smell of warm grain and vegetables. Shelves hold bowls, covered jars and bundles of drying leaves. Beside the kitchen, an alcove has been cleared of two stacked crates. The little bed fits beneath its wall shelf, with space to walk around one side.
+
+Corva spreads the bedding herself.
+
+Veskan steps outside for a few minutes. When he returns, one of the men from the gate accompanies him. The man remains near the entrance, speaks briefly with Corva and studies you while she answers.
+
+His attention is uncomfortable in its persistence, but his hands stay at his sides.
+
+Corva taps the ledger with one finger.
+
+The gate man looks at the prepared bed, then gives a short nod and leaves.
+
+By now, the windows reflect the room more strongly than they reveal the yard. Outside, lamps shine against full darkness.
+
+Your repetitions continue. Some familiar words come readily; unfamiliar sentences still arrive too quickly to untangle. Corva occasionally corrects a sound while her hands are occupied, but the sustained lesson has given way to practical preparations.
+
+She fills a bowl from the pot and sets it on a small stool beside the bed. A spoon follows.
+
+Veskan crouches once more near you.
+
+“Wait.”
+
+The familiar raised palm accompanies it. He speaks to Corva, receives an answer, and pulls his coat straight before heading back into the yard.
+
+Corva stays.
+
+She points through the kitchen doorway toward the cleared alcove, the bowl and the folded blanket. Whatever arrangements they have made in words, these preparations are easier to understand: a place has been made for you to remain here.
+
+“Come.”
+
+She steps aside from the doorway.
+
+The bed stands ready. A little steam rises from the bowl.
+
+---
+
+Name: Unnamed  
+Age: Approximately one month; accelerated juvenile development  
+Date: Planetfall, Day 0 — early night  
+Reputation: Foundling receiving temporary care at the railway station  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Oversized grey woollen cloth; barefoot  
+Gear/Inventory: Empty borrowed enamel cup; food and bedding offered; pod left in the glasshouse  
+Currency: None
+
+## 034 — Player · Publication checkpoint (outside the scene)
+
+Ok now please update the GitHub documentation. Please take your time and and be in-depth with your update to ensure there are no errors, issues, inconsistencies or mistakes. Please check the whole document before updating if you can

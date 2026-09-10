@@ -1,21 +1,21 @@
 {
   "format": "malaspina-dossier",
   "version": 1,
-  "revision": 14,
-  "updatedAt": "2026-09-10T17:09:18.010816+00:00",
+  "revision": 15,
+  "updatedAt": "2026-09-10T17:44:52.290042+00:00",
   "character": {
     "name": "Unnamed",
     "age": "Approximately one month chronological; accelerated juvenile development",
-    "date": "Planetfall, Day 0 \u2014 evening",
-    "reputation": "Railway patrol showing cautious goodwill",
+    "date": "Planetfall, Day 0 \u2014 early night",
+    "reputation": "Foundling receiving temporary care at the railway station",
     "weapons": "None",
     "clothing": "Oversized grey woollen cloth wrapped around body; barefoot",
-    "inventory": "Nothing carried. Incubation pod left uphill in the ruined glasshouse; last observed with chamber, life support and integrated power functioning, lid open and amniotic nutrient fluid drained.",
+    "inventory": "Empty borrowed enamel cup in hand. Incubation pod left in the ruined hillside glasshouse; last observed with chamber, life support and integrated power functioning, lid open and amniotic nutrient fluid drained.",
     "currency": "None",
-    "location": "Vesalius \u2022 Aboard a maintenance rail vehicle descending toward distant lights",
+    "location": "Serravonne, Vesalius \u2022 Railway station, outside the kitchen alcove",
     "condition": "Uninjured. Stable body\u2013soul integration. No chronic pain.",
-    "language": "Can clearly reproduce \u201cVeskan\u201d and associate it with him. Repeating other sounds; word boundaries and meanings in connected speech remain uncertain.",
-    "notes": "Aboard the moving rail vehicle with Veskan and two companions. The entrance remains open. Maintaining watch over the occupants while examining the machinery."
+    "language": "Recognises Veskan and Corva by their introductions. Familiar concrete words include hand, cloth, hot, water, fire, door, window and cup; simple commands include wait, come, sit and drink. Can imitate further sounds, but unfamiliar sentences and grammar remain only partly understood. Written marks are not yet readable.",
+    "notes": "Has drunk one cup of water. Corva remains nearby after arranging a folding bed, blanket and bowl of grain-and-vegetable food beside the kitchen. Food and bedding remain offered; the subject has not eaten, entered the alcove or slept. Veskan has returned to the yard."
   },
   "journal": [
     {
@@ -41,7 +41,7 @@
     {
       "date": "Day 0 \u2022 Evening",
       "title": "An offer of warmth",
-      "body": "The subject stopped, pointed to Veskan and repeated his name, then pointed to himself, hesitated and nodded. Veskan acknowledged the exchange without naming him. After speaking with his companions, he received a heavy grey cloth, placed the lamp on a trackside bracket and demonstrated wrapping the cloth around his shoulders. He now holds it open toward the child. The armed man keeps his weapon low and watches the vegetation."
+      "body": "The subject stopped, pointed to Veskan and repeated his name, then pointed to himself, hesitated and nodded. Veskan acknowledged the exchange without naming him. After speaking with his companions, he received a heavy grey cloth, placed the lamp on a trackside bracket and demonstrated wrapping the cloth around his shoulders. He held it open toward the child while the armed man kept his weapon low and watched the vegetation."
     },
     {
       "date": "Day 0 \u2022 Evening",
@@ -52,11 +52,31 @@
       "date": "Day 0 \u2022 Evening",
       "title": "Departure by rail",
       "body": "The subject boarded voluntarily, studying the vehicle while remaining cautious about the occupants\u2019 intentions. He observed the brake linkage and the engine\u2019s connection to the moving drive. Veskan left the entrance chain unfastened and gestured to warn of the hot cover. The driver restarted the engine and released the brakes. The trolley began descending toward distant lights, leaving the pod in the ruined glasshouse."
+    },
+    {
+      "date": "Day 0 \u2022 Dusk",
+      "title": "Serravonne",
+      "body": "During the journey the subject watched the machinery and practised speech. Repeated gestures gave familiar sounds concrete meanings, while longer exchanges remained difficult. The trolley reached Serravonne, a fortified coastal settlement with a cleared perimeter, guarded rail gate and industrial yards. Following a brief exchange with the gate guards, the patrol entered and stopped beside a lit station building."
+    },
+    {
+      "date": "Day 0 \u2022 Dusk",
+      "title": "A room of purposes",
+      "body": "The subject followed Veskan indoors. Clothing, boots, walls, windows and doors revealed practical functions through observation. The woman with the ledger demonstrated how opening the stove vent strengthened the fire and used cloth to handle the hot kettle. Words for objects and simple actions were repeated and distinguished. Water from a separate covered jug was offered in a chipped enamel cup."
+    },
+    {
+      "date": "Day 0 \u2022 Dusk",
+      "title": "The first drink",
+      "body": "The subject lifted the cup and sniffed the water. Detecting no obvious foul or irritating odour, he drank it all and repeated \u201cDrink\u201d. The woman then demonstrated \u201cCup\u201d. The subject correctly repeated that word while raising the vessel, identified Veskan and indicated himself without supplying a name. The empty cup remained in his hand."
+    },
+    {
+      "date": "Day 0 \u2022 Early night",
+      "title": "A place for the night",
+      "body": "The woman introduced herself as Corva. Lessons continued alongside a discussion the subject could only partly follow. Corva used a wall telephone and wrote in her ledger. Workers brought bedding and a folding canvas bed, which she prepared in a cleared alcove beside the kitchen. A gate man spoke with her, observed the preparations and left. Corva placed a bowl of warm grain-and-vegetable food and a spoon beside the bed. Veskan returned to the yard. Corva then invited the subject toward the alcove; the invitation remains unanswered."
     }
   ],
   "records": {
-    "relationships": "Veskan \u2014 introduced himself, offered the grey cloth and demonstrated boarding. Now aboard alongside the subject. The rifle-bearing companion watches the rear with his weapon directed away; the third adult operates the vehicle. Their conduct shows cautious goodwill.",
-    "research": "Observed the brake lever, connecting rod and wheel blocks moving together. Connected engine movement with the visible belt and drive shaft. Practical mechanical intuition is developing through observation; technical vocabulary remains unfamiliar. Speech imitation continues with gestures as context.",
-    "holdings": "No territory, organisations or forces."
+    "relationships": "Veskan \u2014 railway patrol member who brought the subject to Serravonne, provided the grey cloth and taught initial words; last seen returning to the yard. Corva \u2014 station worker in an apron and spectacles; taught words, supplied drinking water, made a telephone call and arranged temporary shelter. The driver, rifleman and gate personnel remain unnamed. One gate man briefly spoke with Corva and left after observing the prepared bed.",
+    "research": "Observed brake linkage and engine drive, controlled airflow strengthening the stove fire, insulating cloth used on a hot handle, and walls/windows/doors regulating exposure. Recognised practical groupings of tools and clothing. Observed a voice transmitted through the wall telephone and marks made in a ledger. These are early observations; engine internals, telephone engineering and written language remain unresolved.",
+    "holdings": "No territory, organisations or forces. Temporary shelter offered in a station kitchen alcove."
   }
 }
