@@ -10,11 +10,11 @@ Chronology is not uniform. Warp transit complicates elapsed time, sources disagr
 
 ## Agreed campaign benchmark
 
-**Custodian < the proto-Primarch cohort ≈ Alpha Primus < true Primarch.** The player character and all the other subjects share approximately Alpha Primus’s overall capability tier, with modest individual variation. This is the campaign’s agreed hierarchy, not a published Games Workshop ranking or automatic victory rule. The previous 6/10 and 4–5/10 estimates are superseded.
+**Custodian < the proto-Primarch cohort ≈ Alpha Primus < true Primarch.** The player character and all the other subjects share approximately Alpha Primus’s overall capability tier, with modest individual variation. This is the campaign’s agreed hierarchy, not a published Games Workshop ranking or automatic victory rule. All subjects are perfected proto-Primarchs: approximately Alpha Primus’s capabilities, without his constant pain or a compulsory congenital malfunction.
 
 Childhood affects reach, experience, endurance, precision and repeatability; it does not place the subject in an ordinary Astartes or Custodian class. He is already exceptionally dangerous. Lack of language and education is compatible with tremendous innate physical and psychic capability. Training and maturation refine this capability; they are not prerequisites to belonging to the proto-Primarch tier.
 
-Individual subjects differ in specialties, efficiency, psychic expression and flaws. The shared benchmark grants neither Alpha Primus’s acquired skills nor every canonical feat. Injuries, tactics, equipment and specialist counters still have consequences. A loyalist-derived template does not prescribe loyalist allegiance, and a traitor-derived template does not prescribe service to Chaos.
+Individual subjects differ in specialties, efficiency and psychic expression. The shared benchmark grants neither Alpha Primus’s acquired skills nor every canonical feat. Injuries, tactics, equipment and specialist counters still have consequences. A loyalist-derived template does not prescribe loyalist allegiance, and a traitor-derived template does not prescribe service to Chaos.
 
 The detailed Primarch accounts remain research context. They do not determine the subject’s power by scaling feats or casualty counts to a percentage. Daemon ascension and outside divine intervention are separate from the true Primarch comparison.
 
@@ -24,7 +24,8 @@ The detailed Primarch accounts remain research context. They do not determine th
 - The subject has his own powerful soul, but not a true Primarch soul. No automatic ownership by Slaanesh is assigned.
 - No language is learned at the beginning. Technical intuition is innate; terminology, procedures and reliable expertise require learning.
 - The intended domain is psychic technology: material engineering, logic, innovation and refinement joined to psychic ability. A restrained route paralleling Aeldari craftsmanship is possible, but no mastery, pact or discovery is pre-awarded.
-- The principal flaw is psychosomatic overload under substantial psychic strain, not constant baseline pain. Training and equipment may mitigate it; no automatic cure is promised.
+- Body and soul are stably integrated. No congenital overload disorder, fixed crisis track or compensating birth defect is assigned. Exertion, injury and psychic hazards still have consequences according to circumstances. “Perfected” does not promote the subject to true Primarch power.
+- Bile’s earlier cloning experience and Alpha Primus material support the campaign premise; the exact stabilisation mechanism is unresolved. A contribution from Pater Mutatis is possible, not confirmed.
 - Malaspina’s supplied geography, institutions and hunters replace the earlier proposed planet. The hunters’ species is not supplied and remains unassigned.
 - The dossier is written as an in-universe archive with clearly identified player/narrator annotations. No opening scene, character decision or story ending has been assumed.
 
@@ -42,6 +43,10 @@ The concealed cohort has been rolled and recorded privately; its details are exc
 ## Creator’s concealed programme
 
 The subject is approximately one chronological month old at deployment. Bile selected Malaspina in advance and established hidden, limited monitoring infrastructure nearby. He follows the experiment intermittently while pursuing other projects. Abaddon is unaware of the subject. Following successful planetary conquest, Bile plans to mentor the subject, secure his absolute loyalty, and present him to Abaddon as a gift and leader for the forces he is creating. Bile expects eventual displacement of Abaddon to be possible. This is the creator’s ambition and prediction, not narrator-certified destiny, guaranteed power or a player commitment.
+
+## Wider perfected cohort
+
+The established cohort remains intact with its existing templates. Bile envisages commanders for possible presentation to Abaddon, specialist research and engineering assistants, and covert protectors of the New Men. These are intended roles, not assigned loyalties, resolved outcomes or evidence that every subject faces the same test. The player’s existing Malaspina trial and Bile’s conditional plans for him remain in effect. Individual identities and assignments stay in narrator continuity until revealed. This programme is original campaign lore.
 ### Lion El’Jonson
 
 **Emergence / early life:** Survived alone among Caliban’s predatory, Chaos-tainted beasts before adoption. The duration and details are inconsistent across accounts; this is an early-life survival precedent, not a measured first-hour feat.

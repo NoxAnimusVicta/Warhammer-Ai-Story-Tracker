@@ -1,8 +1,8 @@
 {
   "format": "malaspina-dossier",
   "version": 1,
-  "revision": 6,
-  "updatedAt": "2026-09-10T13:55:20.753691+00:00",
+  "revision": 7,
+  "updatedAt": "2026-09-10T14:14:59.581085+00:00",
   "character": {
     "name": "Unnamed",
     "age": "Approximately one month chronological; accelerated juvenile development",
@@ -13,9 +13,8 @@
     "inventory": "Incubation pod (deployment equipment): milky amniotic nutrient fluid; life-support and circulation machinery; integrated power unit; protective psychic ward inscriptions engineered by Fabius Bile. Post-landing condition and recoverable components have not yet been determined.",
     "currency": "None; local denominations not yet encountered",
     "location": "Malaspina \u2022 Landing region unassigned",
-    "condition": "No injuries established; no constant baseline pain",
+    "condition": "Stable integration of body and soul. No constant pain or congenital malfunction. No injuries established.",
     "language": "None learned",
-    "strain": 0,
     "notes": "No scene has begun. No actions, loyalties, conquests or discoveries have been assigned to the subject."
   },
   "journal": [],

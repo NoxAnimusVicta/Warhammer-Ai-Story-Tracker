@@ -18,3 +18,5 @@ The agreed campaign benchmark places every proto-Primarch roughly alongside Alph
 
 The app uses the original ivory, gold and aquamarine warp-tech sigil. The original artwork is used for the Safari Home Screen icon and web manifest. The previous gold presentation variant, without surrounding mist but with the gem shine, appears in the header and personal-sigil panel. The app icon remains the untouched original. No Chaos god or established faction allegiance is implied.
 
+
+The whole cohort consists of perfected proto-Primarchs: Alpha Primus-level capability with stable body/soul integration, no constant pain and no compulsory congenital malfunction. There is no fixed psychic crisis track. Fatigue and injury remain possible. Bile intends different subjects as commanders, specialist assistants or covert protectors of the New Men; their choices and fates remain open. The exact stabilisation mechanism and Pater Mutatis’s possible contribution are unresolved.
