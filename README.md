@@ -16,5 +16,5 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The agreed campaign benchmark places every proto-Primarch roughly alongside Alpha Primus, with modest variation: above a Custodian and below a true Primarch. The detailed Primarch research remains context; earlier numeric scaling is superseded. This is an original campaign rule.
 
-The app uses the original ivory, gold and aquamarine warp-tech sigil. The original artwork is used for the Safari Home Screen icon and web manifest. The same untouched first rendition, including the mist and gem shine, appears in the header and dedicated personal-sigil panel. Its partially transparent outer edges reveal the slate background. No Chaos god or established faction allegiance is implied.
+The app uses the original ivory, gold and aquamarine warp-tech sigil. The original artwork is used for the Safari Home Screen icon and web manifest. The previous gold presentation variant, without surrounding mist but with the gem shine, appears in the header and personal-sigil panel. The app icon remains the untouched original. No Chaos god or established faction allegiance is implied.
 
