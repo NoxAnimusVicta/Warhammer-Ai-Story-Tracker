@@ -37,16 +37,24 @@ The main novel anchors are *To Speak As One*, *Belisarius Cawl: The Great Work* 
 
 The concealed cohort has been rolled and recorded privately; its details are excluded from this public report. Future uncertain actions and new names will use prepared choices and Python rolls, preserving established consequences and player agency.
 
+## Accepted isolation and technology revision
+
+Malaspina was colonised during the Dark Age of Technology, isolated in the Age of Strife and never incorporated into the Imperium. Its best native technology is WW1–WW2 equivalent. Functioning advanced human relics, lasrifles, automata and reactor fortresses are superseded. Broken, unrecognisable ancient fragments are exceptionally rare. Local psychic practice survives but does not imply advanced engineering; the hunters and Bile are external exceptions, not native equipment or guaranteed salvage. This is original campaign history.
+
+The Genefather theft supplied progenoid material, not a complete Cawl archive. An unspecified period of Bile’s own research precedes the cohort. Stable integration is the accepted fictional breakthrough; Pater Mutatis does not establish mastery of the Emperor’s soulcraft.
+
 ## Individual comparison
 
 
 ## Creator’s concealed programme
 
-The subject is approximately one chronological month old at deployment. Bile selected Malaspina in advance and established hidden, limited monitoring infrastructure nearby. He follows the experiment intermittently while pursuing other projects. Abaddon is unaware of the subject. Following successful planetary conquest, Bile plans to mentor the subject, secure his absolute loyalty, and present him to Abaddon as a gift and leader for the forces he is creating. Bile expects eventual displacement of Abaddon to be possible. This is the creator’s ambition and prediction, not narrator-certified destiny, guaranteed power or a player commitment.
+The subject is approximately one chronological month old at deployment. Bile selected Malaspina in advance and established hidden, limited monitoring infrastructure nearby. He follows the experiment intermittently while pursuing other projects. Abaddon is unaware of the subject. Following conquest or substantial, durable progress by the twenty-year assessment, Bile plans to mentor the subject, secure his absolute loyalty, and present him to Abaddon as a gift and leader for the forces he is creating. Bile expects eventual displacement of Abaddon to be possible. This is the creator’s ambition and prediction, not narrator-certified destiny, guaranteed power or a player commitment.
 
 ## Wider perfected cohort
 
-The established cohort remains intact with its existing templates. Bile envisages commanders for possible presentation to Abaddon, specialist research and engineering assistants, and covert protectors of the New Men. These are intended roles, not assigned loyalties, resolved outcomes or evidence that every subject faces the same test. The player’s existing Malaspina trial and Bile’s conditional plans for him remain in effect. Individual identities and assignments stay in narrator continuity until revealed. This programme is original campaign lore.
+The established cohort remains intact with its existing templates. Bile envisages commanders for possible presentation to Abaddon, specialist research and engineering assistants, and covert protectors of the New Men. These are intended roles, not assigned loyalties or resolved outcomes. Every subject faces the same foundational childhood trial before later specialisation. All cohort members undergo the same foundational validity trial: deployment as very young children in incubation pods to separate, carefully screened human worlds, accelerated maturation, and largely independent development. Bile assesses each subject twenty standard years after planetfall. He demands planetary conquest or substantial, durable headway towards it: a defensible territorial base, productive industry, organised forces and a credible path to wider control can demonstrate progress; mere survival or an isolated victory cannot. Failure to meet that standard means failing his assessment, not an automatic narrated death or a predetermined disposal decision. This is Bile’s original campaign protocol, not a deadline shared by the canonical Primarchs.
+
+Bile selects worlds without known active Imperial influence or accessible Imperial institutions, teachings and usable technological legacies. He wants to observe inherited aptitudes developing under local pressures before offering his own tutelage. Screening reduces exposure; it cannot guarantee cultural isolation, genetic obedience or future loyalty. Local upbringing still shapes every subject. The worlds need not share Malaspina’s exact geography or industrial level. Individual identities and assignments stay in narrator continuity until revealed. This programme is original campaign lore.
 ### Lion El’Jonson
 
 **Emergence / early life:** Survived alone among Caliban’s predatory, Chaos-tainted beasts before adoption. The duration and details are inconsistent across accounts; this is an early-life survival precedent, not a measured first-hour feat.
