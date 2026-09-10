@@ -11,6 +11,43 @@
 @media(max-width:760px){.masthead{padding:20px;gap:17px}.masthead .wordmark{font-size:1.12rem}.masthead .meta{display:none}.shell{padding:0 16px 36px}nav{gap:0;margin:0 -16px;padding:10px 12px}nav button{padding:8px 11px;font-size:.9rem}.hero{grid-template-columns:1fr}figure{min-height:330px;height:330px}figure img{object-position:50% 21%}.identity{padding:24px}.identity h1{font-size:3rem}.facts{gap:0 16px}.grid,.continents{grid-template-columns:1fr}.panel{padding:20px}.section-title{align-items:flex-start}.section-title h1,.section-title h2{font-size:1.7rem}.section-title button{flex-shrink:0}.form-grid{grid-template-columns:1fr}.wide{grid-column:auto}footer{flex-direction:column}.comparison{margin:0 -8px}.wordmark{letter-spacing:.1em!important}}
 @media(prefers-reduced-motion:no-preference){button{transition:background .15s}section{animation:appear .2s ease-out}@keyframes appear{from{opacity:.75}to{opacity:1}}}
 @media print{body{background:white;color:black}nav,button,footer,.toast,dialog{display:none!important}section[hidden]{display:block!important}.shell{padding:0}.panel,.hero,details{background:white;color:black;border-color:#888}.panel h2,.panel h3,dt,.muted,.fine,summary,.eyebrow,.identity .lede{color:#333}.hero{break-inside:avoid}.grid{display:block}figure{min-height:400px}.panel{margin-top:15px}a{color:#234}.detail-body{display:block}}
+
+/* Empyrean instrument / mobile archive */
+:root{--deep:#050e14;--ink:#0b1e25;--panel:#102932;--paper:#f4efdf;--gold:#dabb82;--muted:#afc5c9;--aqua:#80f5df;--line:#31525c}
+body{background:radial-gradient(ellipse at 90% 12%,#47336640,transparent 40%),radial-gradient(ellipse at 0% 35%,#137b7733,transparent 48%),var(--deep);background-attachment:fixed}
+.masthead{background:linear-gradient(100deg,#091820,#173632 65%,#201e32);border-bottom-color:#dabb8255;padding-top:calc(22px + env(safe-area-inset-top));position:relative}
+.masthead:after{content:"";position:absolute;bottom:0;left:10%;width:65%;height:1px;background:linear-gradient(90deg,transparent,var(--aqua),transparent);box-shadow:0 0 15px #80f5df88}
+.seal{border-radius:50%;outline-style:dashed;outline-offset:6px;background:radial-gradient(circle,#32675c55,transparent);box-shadow:0 0 26px #80f5df22,inset 0 0 16px #80f5df22}
+.wordmark{color:#fff5dd;text-shadow:0 0 25px #80f5df33}.eyebrow{color:var(--gold);font-size:.8rem}
+nav{background:#07151de8;backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);border-bottom-color:#80f5df33}
+nav button[aria-current="page"]{background:linear-gradient(#80f5df08,#80f5df20);box-shadow:inset 0 -10px 18px -15px var(--aqua);color:#b0ffed}
+button{border-color:#dabb8277;border-radius:6px;background:linear-gradient(135deg,#25484066,#12273144);font-size:.9rem}button:hover{background:#28514e}button:active{transform:translateY(1px)}
+.hero{position:relative;border:1px solid #dabb8277;border-radius:18px 3px 18px 3px;overflow:hidden;background:linear-gradient(135deg,#19393288,#091921 65%,#251d3566);box-shadow:0 24px 60px #0006,0 0 35px #80f5df08}
+figure{isolation:isolate}figure img{filter:contrast(1.05) saturate(.88)}
+figure:before{content:"";position:absolute;inset:15px;border:1px solid #dabb8255;border-radius:50% 50% 2px 2px;z-index:1;pointer-events:none;box-shadow:inset 0 0 35px #80f5df22}
+figure:after{content:"";position:absolute;inset:0;pointer-events:none;background:repeating-linear-gradient(0deg,transparent 0 5px,#80f5df08 6px 7px),linear-gradient(0deg,#091921,transparent 45%);z-index:1}
+figcaption{z-index:2;padding-top:45px;background:linear-gradient(transparent,#091921);font-size:.8rem;letter-spacing:.03em}
+.identity{position:relative}.identity:before{content:"";display:block;width:84px;height:3px;background:linear-gradient(90deg,var(--aqua),var(--gold),transparent);box-shadow:0 0 14px #80f5df55;margin-bottom:24px}
+.identity h1{color:#fff5df;text-shadow:0 0 40px #80f5df25;letter-spacing:-.04em}.identity .lede{color:#d1e8e2}.tag{border-color:#80f5df44;border-radius:3px;background:#80f5df08;letter-spacing:.09em}
+.facts div{border-top-color:#80f5df26}.facts dt{font-size:.875rem}.facts dd{line-height:1.5}.panel{position:relative;border-radius:12px 2px 12px 2px;background:linear-gradient(135deg,#15333cbb,#0a1a23);border-color:#50727a77;box-shadow:0 12px 30px #0002}
+.panel:before{content:"";position:absolute;left:-1px;top:18px;height:32px;width:2px;background:var(--aqua);box-shadow:0 0 12px #80f5df88}.panel h2,.panel h3{color:#f6e5c2}
+.panel dl dt:not(:first-child){margin-top:18px}.panel .eyebrow{color:var(--aqua)}
+details{border-radius:8px;background:linear-gradient(110deg,#112b33,#101c28);border-color:#50727a66}summary{line-height:1.5}details[open]{border-color:#80f5df77}details[open] summary{color:var(--aqua);border-bottom:1px solid #80f5df22;margin-bottom:14px}
+.meter{height:12px;border-radius:8px;background:repeating-linear-gradient(90deg,#80f5df12 0 calc(16.666% - 3px),transparent calc(16.666% - 3px) 16.666%);overflow:hidden}.meter span{background:linear-gradient(90deg,#67e6c6,#cfb2ff);box-shadow:0 0 16px #80f5df66}
+.continents .panel{overflow:hidden}.continents b{font-size:3.8rem;line-height:1.1;color:#80f5df77}.note{background:linear-gradient(90deg,#dabb8212,transparent)}
+dialog{border-radius:16px;background:linear-gradient(140deg,#18333b,#0a1821);box-shadow:0 24px 80px #000a}dialog::backdrop{background:#020a10cc;backdrop-filter:blur(6px)}input,textarea{border-radius:6px}.toast{border-radius:10px}
+@media(prefers-reduced-motion:no-preference){.seal{animation:resonance 7s ease-in-out infinite}main>section{animation:materialise .35s ease-out}@keyframes resonance{50%{box-shadow:0 0 34px #80f5df44,inset 0 0 22px #ac8ce833}}@keyframes materialise{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}}
+@media(max-width:760px){
+ .masthead{padding:calc(20px + env(safe-area-inset-top)) 23px 20px;gap:20px}.masthead .wordmark{font-size:1.2rem}.masthead .eyebrow{font-size:.75rem;letter-spacing:.12em}.seal{width:40px;height:40px;font-size:23px}
+ .shell{padding:0 16px 30px}main{padding-top:20px}.section-title{gap:12px;margin-bottom:18px}.section-title>.eyebrow{max-width:190px;margin:0;align-self:center}.section-title button{padding:9px 12px}
+ nav{position:fixed;top:auto;bottom:0;left:0;right:0;margin:0;padding:8px 6px calc(8px + env(safe-area-inset-bottom));border-top:1px solid #80f5df44;border-bottom:0;display:grid;grid-template-columns:repeat(5,minmax(0,1fr));overflow:visible;box-shadow:0 -12px 35px #0005}
+ nav button{min-width:0;white-space:normal;padding:8px 2px;font-size:.75rem;min-height:58px;border-radius:7px;line-height:1.4}nav button:before{display:block;font-size:20px;line-height:1.2;margin-bottom:5px;color:var(--gold)}nav button[data-page=dossier]:before{content:"◈"}nav button[data-page=physiology]:before{content:"⌬"}nav button[data-page=world]:before{content:"◎"}nav button[data-page=chronicle]:before{content:"≡"}nav button[data-page=archive]:before{content:"▱"}
+ figure{min-height:300px;height:34svh;max-height:355px}figure img{object-position:50% 23%}figcaption{padding:40px 20px 16px;font-size:.75rem}.identity{padding:20px}.identity:before{margin-bottom:14px}.identity>.eyebrow{margin:0}.identity h1{font-size:3.25rem;margin:9px 0 12px}.identity .lede{font-size:1.1rem;margin-bottom:12px}.facts{grid-template-columns:1fr;gap:0}.facts div{padding:12px 0}.facts dt{font-size:.875rem}.facts dd{margin-top:3px}
+ .panel{padding:22px}.grid{gap:16px;margin-top:16px}footer{padding:24px 20px calc(110px + env(safe-area-inset-bottom));font-size:.8rem}.toast{bottom:calc(95px + env(safe-area-inset-bottom))}dialog{padding:22px;max-height:85dvh}dialog .actions{bottom:-22px}summary{padding:17px;font-size:.95rem}
+}
+@media(max-width:360px){nav button{font-size:.7rem}.identity h1{font-size:2.6rem}.masthead .wordmark{font-size:1rem}}
+@media print{body{background:white}.hero,.panel,details{background:white;box-shadow:none}figure:before,figure:after,.identity:before,.panel:before{display:none}.identity h1,.panel h2,.panel h3{color:black;text-shadow:none}footer{padding:20px}}
+
 </style>
 </head><body>
 <header class="masthead"><div class="seal" aria-hidden="true">M</div><div><p class="wordmark">MALASPINA</p><p class="eyebrow">Private biological archive</p></div><p class="meta">CHIMERIC SUBJECT<br>Continuing record · Volume I</p></header>
