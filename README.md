@@ -1,27 +1,15 @@
-# Malaspina — the unnamed proto-Primarch
+# Malaspina — campaign data-slate
 
-A self-contained, mobile-friendly character dossier for an ongoing Warhammer 40,000 fan campaign. The portrait represents the character as an adult; its clothing and insignia are not starting equipment.
+A read-only companion to an ongoing Warhammer 40,000 fan campaign, designed for iPhone 14 Pro Max. The narrator maintains the character and chronicle and publishes updates at story milestones or at the player's request.
 
-## Open on an iPhone
+Open https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/ in Safari and use Share → Add to Home Screen. Open online once to prepare the offline archive.
 
-Once GitHub Pages is enabled, open the published address in Safari, use Share → Add to Home Screen, enable Open as Web App if offered, and tap Add. Open the app online once to prepare its offline copy.
+The app checks the publication fingerprint when opened, on returning to view, after connectivity returns and once a minute while visible. A new edition refreshes the record. Updates cannot arrive while closed or offline. A Receive latest transmission button provides a manual check. No editing, importing or exporting is required. Older device-local character saves are ignored; the published record is authoritative.
 
-## Record custody
+The adult portrait is a projected appearance reference, not acquired equipment. The character has taken no actions in play. The wider experimental programme is original campaign lore; details of other subjects are not included in this public record.
 
-Amendments are stored on the current device. Use Archive → Export backup regularly. Import backup can move the record between devices. Download HTML creates a portable dossier containing the current record and embedded portrait. No automatic synchronisation with ChatGPT or GitHub is implemented.
+Publishing source: GitHub Pages, main branch, root. Changes to the separate JSON files alone do not rebuild the HTML: publish index.html, seed.json and release.json together after rebuilding. Preserve the service worker and install assets. The embedded HTML includes the full public character state, world text and research.
 
-## Publishing
+Verification covers JavaScript syntax, assets, source-to-embedded state, publication fingerprints, update detection, offline failure and propagation-loop protection. Physical iPhone interaction has not been tested.
 
-In this repository’s Settings → Pages, choose Deploy from a branch, select main and /(root), and save. The expected project address is https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/ once deployment succeeds. This address is not proof that publication has occurred.
-
-## Continuity
-
-The founding world record is in malaspina-world.txt. The character seed is in seed.json. The researched emergence/peak comparison is in research.json and is readable inside Physiology. Changes to these separate JSON files do not automatically rebuild index.html; the HTML contains its own embedded snapshot. Preserve device backups before moving hosts or resetting browser storage.
-
-The 6/10 Alpha Primus comparison and starting capabilities are campaign estimates, not official Games Workshop statistics. Unknown chronology remains unknown. Player choices have not been pre-written; the opening scene has not begun.
-
-## Verification
-
-Local checks cover JavaScript syntax, embedded data, assets, backup validation, import schema and script-safe export encoding. Actual browser interaction, Safari installation and WebMCP execution require separate verification.
-
-Independent fan work. Warhammer 40,000 and its established characters belong to their respective rights holders. Malaspina’s founding lore and the character premise were supplied by the player.
+Independent fan work. Warhammer 40,000 and its established characters belong to their respective rights holders. The player supplied the character premise and Malaspina's founding lore.
