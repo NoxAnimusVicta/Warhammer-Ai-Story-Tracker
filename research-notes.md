@@ -1,0 +1,234 @@
+# Malaspina: emergence and power calibration
+
+The player’s intended distinction is sound: an inexperienced proto-Primarch can already be lethal. Ordinary human childhood is the wrong physical benchmark. Lack of language and education does not imply inability to run, climb, defend oneself or manifest psychic force.
+
+## What the evidence supports
+
+Angron’s early victory over numerous armed xenos and Sanguinius’s pre-adoption predator kill support dangerous early capability. Angron was grievously wounded before his human capture; this must not be used as a benchmark for overpowering a healthy child Primarch. An all-Farseer team, specific Aspect Warrior composition and an exact casualty count remain unverified. Curze’s traditional emergence account is an extreme survival precedent. Perturabo and the Lion provide examples of independent survival before adoption. Vulkan’s famous stand against Dark Eldar belongs to his fourth year, and Ferrus’s magma confrontation with Asirnoth is not securely a first-hour feat.
+
+Chronology is not uniform. Warp transit complicates elapsed time, sources disagree, and terms such as infant and youth are not precise somatic measurements. Magnus’s awareness during gestation and the later awakening depicted for Horus prevent us from presenting one universal childhood sequence. A two-to-five-year maturation schedule is an accepted premise for our character, not an exact schedule established for every canonical Primarch.
+
+## Recommended campaign shorthand
+
+Treat an unascended, mature Primarch as the **10/10 reference class**, and place adult Alpha Primus at roughly **6/10 overall**. This is an ordinal narrative estimate: an exceptionally powerful psychic transhuman who is still short of the full Primarch package. It is not a published rating, a linear physical ratio, or a probability of winning a duel.
+
+Physical combat alone can be placed in a rough **4–5/10 campaign band**. Psychic ability cannot use the same common baseline: most Primarchs do not practise overt sorcery like Magnus, and Alpha Primus is not demonstrated to possess sixty percent of Magnus’s greatest workings. Final-battle Horus, daemon manifestations, the Emperor’s intervention and Vulkan’s Perpetual resurrection must be considered separately.
+
+For the subject at emergence, use a **reduced emergence-stage analogue**, not adult Alpha Primus’s full performance. He is independently mobile, a serious threat to multiple armed humans while healthy, naturally perceptive and capable of violent psychic bursts. Transhuman or elite xenos opponents are not categorically beyond his reach, though conditions and costs matter. An ordinary person cannot safely treat him as a normal child. Conversely, his small reach, limited reserves, absence of armour, unfamiliarity with weapons, and poor control give prepared enemies possible advantages. Ordinary guards are not physical peers, and capture needs a credible mechanism such as serious injury, specialised suppression or an effective trap.
+
+Scaling should change the nature and cost of an achievement. A child who cannot reproduce Curze’s legendary excavation might still escape damaged masonry by recognising a weak point, forcing it physically and briefly supplementing the effort psychically. That is more defensible than multiplying the depth of a fictional planetary core by 0.6. Likewise, defeating one hunter in an advantageous situation does not imply routinely defeating sixty percent of an entire raiding party.
+
+## Character decisions incorporated
+
+- Fulgrim, Perturabo and Magnus form the principal chimeric templates. Bile makes a minor personal genetic contribution; the intended extra Fulgrim influence is campaign engineering rather than arithmetic proof that Bile’s whole genome equals Fulgrim’s gene-seed.
+- The subject has his own powerful soul, but not a true Primarch soul. No automatic ownership by Slaanesh is assigned.
+- No language is learned at the beginning. Technical intuition is innate; terminology, procedures and reliable expertise require learning.
+- The intended domain is psychic technology: material engineering, logic, innovation and refinement joined to psychic ability. A restrained route paralleling Aeldari craftsmanship is possible, but no mastery, pact or discovery is pre-awarded.
+- The principal flaw is psychosomatic overload under substantial psychic strain, not constant baseline pain. Training and equipment may mitigate it; no automatic cure is promised.
+- Malaspina’s supplied geography, institutions and hunters replace the earlier proposed planet. The hunters’ species is not supplied and remains unassigned.
+- The dossier is written as an in-universe archive with clearly identified player/narrator annotations. No opening scene, character decision or story ending has been assumed.
+
+## Scope and confidence
+
+This is a public-source research comparison using source indexes and accessible excerpts, not a claim to have read every complete novel during this task. The individual entries distinguish emergence from later childhood and note incomplete evidence. The two lost Primarchs cannot be responsibly scored.
+
+The main novel anchors are *To Speak As One*, *Belisarius Cawl: The Great Work* (especially chapter 13), *Genefather* (chapters 26–28), *Angel Exterminatus*, *Angron: Slave of Nuceria*, *Lorgar: Bearer of the Word*, *Lupus Daemonis*, and *Alpharius: Head of the Hydra*. Public source indexes are linked below for verification; in-universe legends and unreliable narrators are not treated as laboratory measurements.
+
+No names or story outcomes needed random selection while building this founding record. Future uncertain actions and new names will use prepared choices and Python rolls, preserving established consequences and player agency.
+
+## Individual comparison
+
+
+## Creator’s concealed programme
+
+The subject is approximately one chronological month old at deployment. Bile selected Malaspina in advance and established hidden, limited monitoring infrastructure nearby. He follows the experiment intermittently while pursuing other projects. Abaddon is unaware of the subject. Following successful planetary conquest, Bile plans to mentor the subject, secure his absolute loyalty, and present him to Abaddon as a gift and leader for the forces he is creating. Bile expects eventual displacement of Abaddon to be possible. This is the creator’s ambition and prediction, not narrator-certified destiny, guaranteed power or a player commitment.
+### Lion El’Jonson
+
+**Emergence / early life:** Survived alone among Caliban’s predatory, Chaos-tainted beasts before adoption. The duration and details are inconsistent across accounts; this is an early-life survival precedent, not a measured first-hour feat.
+
+**Mature / peak:** Supreme hunter and duellist; defeated daemon Angron after his return. Forestwalking is a later revealed ability, not a general infant Primarch trait.
+
+**Relative to Alpha Primus:** Primus has no demonstrated equivalence in swordsmanship, hunting experience, or forestwalking.
+
+[Source index](https://wh40k.lexicanum.com/wiki/Lion_El%27Jonson)
+
+### Fulgrim
+
+**Emergence / early life:** Adopted on Chemos. Angel Exterminatus presents a distinctly supernatural arrival, including contact with a finder’s mind. His industrial reforms belong to later development, not the moment the pod opens.
+
+**Mature / peak:** Exceptional duellist, craftsman and industrial reformer; killed Ferrus in circumstances involving the Laer blade. Later daemonhood changes the comparison.
+
+**Relative to Alpha Primus:** Primus is not demonstrated to match Fulgrim’s complete martial or creative repertoire. No automatic copying of Fulgrim’s emergence glamour.
+
+[Source index](https://wh40k.lexicanum.com/wiki/Fulgrim)
+
+### Perturabo
+
+**Emergence / early life:** Wandered Olympia before adoption, associated with beast-slaying. His earliest remembered scene is climbing a mountain; he exhibits extraordinary pre-existing intellectual ability. The whole wandering period cannot be labelled his first day.
+
+**Mature / peak:** Master of engineering, siegecraft and battlefield calculation; brought daemon Angron under control with preparation, firepower and disciplined tactics.
+
+**Relative to Alpha Primus:** Primus is an exceptional operative, not a demonstrated peer of Perturabo in engineering or theatre command.
+
+[Source index](https://wh40k.lexicanum.com/wiki/Perturabo)
+
+### Jaghatai Khan
+
+**Emergence / early life:** Found by Ong Khan’s people and raised among the Talskars. Became an exceptional young warrior; vengeance for his foster father and campaigns of unification occur later.
+
+**Mature / peak:** Extraordinary speed, swordsmanship and mobile warfare; banished daemon Mortarion at the cost of catastrophic injury.
+
+**Relative to Alpha Primus:** No evidence places Primus at the Khan’s peak duelling speed or campaign mastery.
+
+[Source index](https://wh40k.lexicanum.com/wiki/Jaghatai_Khan)
+
+### Leman Russ
+
+**Emergence / early life:** Raised by Fenrisian wolves. Fought human hunters but was captured, then learned human speech and weapons. Mammoth-wrestling and army-breaking stories are later feats, not verified pod-emergence events.
+
+**Mature / peak:** Primarch duellist and hunter; defeated Magnus on Prospero and wounded empowered Horus using the Emperor’s spear. Equipment and circumstances matter.
+
+**Relative to Alpha Primus:** Primus’s active psychic range does not establish physical or duelling parity with Russ.
+
+[Source index](https://wh40k.lexicanum.com/wiki/Leman_Russ_(Primarch))
+
+### Rogal Dorn
+
+**Emergence / early life:** Raised by the House of Dorn on Inwit. Detailed pod-emergence feats are poorly documented; later rulership and restoration of Phalanx cannot supply an infant strength measurement.
+
+**Mature / peak:** Master of fortification and strategic defence; personally killed Alpharius on Pluto.
+
+**Relative to Alpha Primus:** Primus has no demonstrated equivalent to Dorn’s full battlefield presence, combat record or strategic command.
+
+[Source index](https://wh40k.lexicanum.com/wiki/Rogal_Dorn)
+
+### Konrad Curze
+
+**Emergence / early life:** The traditional account has his capsule penetrate deep into Nostramo and the child escape to the surface. He then survived without a foster family. Exact depth, travel time and infant physiology are not reliable engineering measurements.
+
+**Mature / peak:** Lethal ambusher and duellist with precognition; repeatedly endangered other Primarchs through surprise and foresight.
+
+**Relative to Alpha Primus:** Primus has no established equivalent to Curze’s particular foresight or predatory stealth.
+
+[Source index](https://wh40k.lexicanum.com/wiki/Konrad_Curze)
+
+### Sanguinius
+
+**Emergence / early life:** Killed a Baalite fire scorpion before his adoption. An account describes walking within weeks and exceeding human stature within a year. This supports lethal early capability but not a universal maturation schedule.
+
+**Mature / peak:** Flight, precognition and exceptional melee power; defeated Ka’Bandha and daemon Angron during the Siege of Terra.
+
+**Relative to Alpha Primus:** Primus has not demonstrated this combination or equivalent apex victories.
+
+[Source index](https://wh40k.lexicanum.com/wiki/Sanguinius)
+
+### Ferrus Manus
+
+**Emergence / early life:** Survived Medusa’s mountains and hostile technological remnants. The defeat of Asirnoth in magma belongs to his later wandering; it is not securely dated to immediately leaving the pod. Accounts differ on his apparent development.
+
+**Mature / peak:** Exceptional strength, craftsmanship and warfare; his legendary contest with the Emperor devastated the landscape. Killed by Fulgrim at Isstvan V.
+
+**Relative to Alpha Primus:** Primus’s strength is above ordinary Astartes, but no evidence supports Ferrus-level brute force or metallurgy.
+
+[Source index](https://wh40k.lexicanum.com/wiki/Ferrus_Manus)
+
+### Angron
+
+**Emergence / early life:** Defeated numerous armed xenos shortly after arrival and was found grievously wounded among their corpses. The older account describes scores of corpses; his subsequent capture must be read in the context of severe prior injury, not as a demonstration that healthy child Angron was physically comparable to human captors. The exact number and alleged Farseer, Aspect Warrior or Ranger composition are not verified here.
+
+**Mature / peak:** Extraordinary close-combat strength; supported a descending Warhound foot briefly while severely strained. Daemon ascension later greatly changes his powers and resilience.
+
+**Relative to Alpha Primus:** Primus has no demonstrated equivalent to Angron’s peak physical feats; his psychic options make this more than a strength contest.
+
+[Source index](https://wh40k.lexicanum.com/wiki/Angron)
+[Additional account](https://warhammer40k.fandom.com/wiki/Angron)
+
+### Roboute Guilliman
+
+**Emergence / early life:** Found and adopted by Konor on Macragge. A rapidly developing prodigy; extensive learning and the Illyrian campaign belong to his upbringing, not a recorded pod-opening battle.
+
+**Mature / peak:** Primarch combatant and exceptional organiser of armies and civilisations. Divine intervention during Godblight is not a repeatable measure of his unassisted power.
+
+**Relative to Alpha Primus:** Primus is not shown to match Guilliman’s overall physical and strategic capability, although he has far more overt psychic practice.
+
+[Source index](https://wh40k.lexicanum.com/wiki/Roboute_Guilliman)
+
+### Mortarion
+
+**Emergence / early life:** Survived Barbarus’s toxic atmosphere and was taken by Necare, who tested his tolerance while raising him. His eventual rebellion and assault on Necare’s highest refuge occur later.
+
+**Mature / peak:** Exceptional endurance and attritional warfare; daemonhood adds Nurgle’s supernatural gifts and sorcery.
+
+**Relative to Alpha Primus:** Primus has no established equivalence in toxin resistance, endurance or daemon manifestations.
+
+[Source index](https://wh40k.lexicanum.com/wiki/Mortarion)
+
+### Magnus the Red
+
+**Emergence / early life:** Aware during gestation and remembers infancy; communed psychically with the Emperor before their physical reunion. Learned under Amon and surpassed his teachers. Not a blank-minded child in every respect.
+
+**Mature / peak:** The psychic outlier among Primarchs, with immense projection and sorcery. The Webway breach involved external help; later daemon feats cannot be treated as unaided mortal output.
+
+**Relative to Alpha Primus:** Primus is an exceptional Astartes psyker, but there is no sound basis for calling him sixty percent of Magnus’s greatest workings.
+
+[Source index](https://wh40k.lexicanum.com/wiki/Magnus)
+
+### Horus Lupercal
+
+**Emergence / early life:** Lupus Daemonis portrays him as Nergüi, a young Cthonian ganger whose buried knowledge and physical development awaken dramatically later. This complicates any single smooth growth curve for all Primarchs.
+
+**Mature / peak:** Exceptional commander and combatant. His final confrontation with the Emperor follows vast Chaos empowerment and is outside the ordinary Primarch baseline.
+
+**Relative to Alpha Primus:** Primus cannot meaningfully be scored as a fraction of final-battle Horus; unascended Horus remains the useful comparison.
+
+[Source index](https://wh40k.lexicanum.com/wiki/Horus_Lupercal)
+
+### Lorgar Aurelian
+
+**Emergence / early life:** Taken in by desert nomads; seventeen days later reportedly the size of a small child. Learned under Kor Phaeron and later killed mutineers to protect him. Physical power did not prevent manipulation or dependency.
+
+**Mature / peak:** Developed formidable sorcery and ritual leadership; grew substantially beyond his early-Heresy reputation. Daemonhood changes the scale again.
+
+**Relative to Alpha Primus:** Primus’s practical psychic feats do not establish superiority to mature Lorgar’s sorcery or a fixed duel outcome.
+
+[Source index](https://wh40k.lexicanum.com/wiki/Lorgar_Aurelian)
+
+### Vulkan
+
+**Emergence / early life:** Adopted by the smith N’bel. Surpassed local adults in size, strength and smithcraft within three years; the famous defence against Dark Eldar occurs in his fourth year, not at pod emergence.
+
+**Mature / peak:** Exceptional strength and craftsmanship, with Perpetual regeneration. Regeneration is a distinct capability, not simply a high durability score.
+
+**Relative to Alpha Primus:** Primus has no demonstrated Perpetual resurrection or equivalent smithing record. Neither is inherited by our subject.
+
+[Source index](https://wh40k.lexicanum.com/wiki/Vulkan)
+
+### Corvus Corax
+
+**Emergence / early life:** Found by Lycaean prisoners, hidden and educated for leadership and rebellion. Possessed extraordinary natural gifts, but the liberation campaign followed preparation and teaching.
+
+**Mature / peak:** Supernatural concealment, infiltration and Primarch combat ability. His later Warp manifestation against Lorgar is a different state from childhood.
+
+**Relative to Alpha Primus:** Primus has no demonstrated equivalent to Corax’s specific concealment or later Warp transformation.
+
+[Source index](https://wh40k.lexicanum.com/wiki/Corvus_Corax)
+
+### Alpharius / Omegon
+
+**Emergence / early life:** Origin accounts deliberately conflict. Head of the Hydra claims a Terran arrival for one twin and an isolated alien world for the other. This is weak evidence for a universal emergence benchmark.
+
+**Mature / peak:** Primarch combatants specialised in deception, covert warfare and concealment of presence; their twin nature is a distinct trait.
+
+**Relative to Alpha Primus:** There is no reliable head-to-head rating with Primus. Do not transfer twin-soul or identity powers to the subject.
+
+[Source index](https://wh40k.lexicanum.com/wiki/Alpharius_Omegon)
+
+### The II and XI Primarchs
+
+**Emergence / early life:** No reliable published emergence record sufficient for this comparison. Leave unknown.
+
+**Mature / peak:** Insufficient evidence for a peak-power comparison.
+
+**Relative to Alpha Primus:** No responsible numerical rating is possible.
+
+[Source index](https://wh40k.lexicanum.com/wiki/Two_unknown_legions)
