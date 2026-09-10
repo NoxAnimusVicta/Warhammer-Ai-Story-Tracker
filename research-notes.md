@@ -8,15 +8,15 @@ Angron’s early victory over numerous armed xenos and Sanguinius’s pre-adopti
 
 Chronology is not uniform. Warp transit complicates elapsed time, sources disagree, and terms such as infant and youth are not precise somatic measurements. Magnus’s awareness during gestation and the later awakening depicted for Horus prevent us from presenting one universal childhood sequence. A two-to-five-year maturation schedule is an accepted premise for our character, not an exact schedule established for every canonical Primarch.
 
-## Recommended campaign shorthand
+## Agreed campaign benchmark
 
-Treat an unascended, mature Primarch as the **10/10 reference class**, and place adult Alpha Primus at roughly **6/10 overall**. This is an ordinal narrative estimate: an exceptionally powerful psychic transhuman who is still short of the full Primarch package. It is not a published rating, a linear physical ratio, or a probability of winning a duel.
+**Custodian < the proto-Primarch cohort ≈ Alpha Primus < true Primarch.** The player character and all the other subjects share approximately Alpha Primus’s overall capability tier, with modest individual variation. This is the campaign’s agreed hierarchy, not a published Games Workshop ranking or automatic victory rule. The previous 6/10 and 4–5/10 estimates are superseded.
 
-Physical combat alone can be placed in a rough **4–5/10 campaign band**. Psychic ability cannot use the same common baseline: most Primarchs do not practise overt sorcery like Magnus, and Alpha Primus is not demonstrated to possess sixty percent of Magnus’s greatest workings. Final-battle Horus, daemon manifestations, the Emperor’s intervention and Vulkan’s Perpetual resurrection must be considered separately.
+Childhood affects reach, experience, endurance, precision and repeatability; it does not place the subject in an ordinary Astartes or Custodian class. He is already exceptionally dangerous. Lack of language and education is compatible with tremendous innate physical and psychic capability. Training and maturation refine this capability; they are not prerequisites to belonging to the proto-Primarch tier.
 
-For the subject at emergence, use a **reduced emergence-stage analogue**, not adult Alpha Primus’s full performance. He is independently mobile, a serious threat to multiple armed humans while healthy, naturally perceptive and capable of violent psychic bursts. Transhuman or elite xenos opponents are not categorically beyond his reach, though conditions and costs matter. An ordinary person cannot safely treat him as a normal child. Conversely, his small reach, limited reserves, absence of armour, unfamiliarity with weapons, and poor control give prepared enemies possible advantages. Ordinary guards are not physical peers, and capture needs a credible mechanism such as serious injury, specialised suppression or an effective trap.
+Individual subjects differ in specialties, efficiency, psychic expression and flaws. The shared benchmark grants neither Alpha Primus’s acquired skills nor every canonical feat. Injuries, tactics, equipment and specialist counters still have consequences. A loyalist-derived template does not prescribe loyalist allegiance, and a traitor-derived template does not prescribe service to Chaos.
 
-Scaling should change the nature and cost of an achievement. A child who cannot reproduce Curze’s legendary excavation might still escape damaged masonry by recognising a weak point, forcing it physically and briefly supplementing the effort psychically. That is more defensible than multiplying the depth of a fictional planetary core by 0.6. Likewise, defeating one hunter in an advantageous situation does not imply routinely defeating sixty percent of an entire raiding party.
+The detailed Primarch accounts remain research context. They do not determine the subject’s power by scaling feats or casualty counts to a percentage. Daemon ascension and outside divine intervention are separate from the true Primarch comparison.
 
 ## Character decisions incorporated
 
@@ -34,7 +34,7 @@ This is a public-source research comparison using source indexes and accessible 
 
 The main novel anchors are *To Speak As One*, *Belisarius Cawl: The Great Work* (especially chapter 13), *Genefather* (chapters 26–28), *Angel Exterminatus*, *Angron: Slave of Nuceria*, *Lorgar: Bearer of the Word*, *Lupus Daemonis*, and *Alpharius: Head of the Hydra*. Public source indexes are linked below for verification; in-universe legends and unreliable narrators are not treated as laboratory measurements.
 
-No names or story outcomes needed random selection while building this founding record. Future uncertain actions and new names will use prepared choices and Python rolls, preserving established consequences and player agency.
+The concealed cohort has been rolled and recorded privately; its details are excluded from this public report. Future uncertain actions and new names will use prepared choices and Python rolls, preserving established consequences and player agency.
 
 ## Individual comparison
 

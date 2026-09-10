@@ -13,3 +13,7 @@ Publishing source: GitHub Pages, main branch, root. Changes to the separate JSON
 Verification covers JavaScript syntax, assets, source-to-embedded state, publication fingerprints, update detection, offline failure and propagation-loop protection. Physical iPhone interaction has not been tested.
 
 Independent fan work. Warhammer 40,000 and its established characters belong to their respective rights holders. The player supplied the character premise and Malaspina's founding lore.
+
+The agreed campaign benchmark places every proto-Primarch roughly alongside Alpha Primus, with modest variation: above a Custodian and below a true Primarch. The detailed Primarch research remains context; earlier numeric scaling is superseded. This is an original campaign rule.
+
+The app uses an original ivory, gold and aquamarine warp-tech sigil. The square PNG is shared by the Safari Home Screen icon, web manifest and slate heading. No Chaos god or established faction allegiance is implied.
