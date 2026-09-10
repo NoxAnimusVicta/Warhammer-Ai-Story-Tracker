@@ -1,26 +1,52 @@
 {
   "format": "malaspina-dossier",
   "version": 1,
-  "revision": 12,
-  "updatedAt": "2026-09-10T16:01:06.808164+00:00",
+  "revision": 13,
+  "updatedAt": "2026-09-10T16:36:40.998811+00:00",
   "character": {
     "name": "Unnamed",
     "age": "Approximately one month chronological; accelerated juvenile development",
-    "date": "Deployment epoch \u2022 Exact date unrecorded",
-    "reputation": "Unknown on Malaspina; experimental subject to Fabius Bile",
-    "weapons": "None recorded",
-    "clothing": "No garments recorded",
-    "inventory": "Incubation pod: milky amniotic nutrient fluid, life-support machinery, integrated power unit and protective psychic wards. Landing integrity assessment pending.",
+    "date": "Planetfall, Day 0 \u2014 evening",
+    "reputation": "Unidentified child; railway patrol cautiously offering assistance",
+    "weapons": "None",
+    "clothing": "None",
+    "inventory": "Nothing carried. Incubation pod uphill in the ruined glasshouse: chamber, life support and integrated power functioning; lid open, amniotic nutrient fluid drained.",
     "currency": "None",
-    "location": "Malaspina \u2022 Landing coordinates pending",
-    "condition": "Stable body\u2013soul integration. No chronic pain. Injury assessment clear.",
-    "language": "None learned",
-    "notes": "Accelerated juvenile development. Exceptional analytical and psychic potential; language and formal education undeveloped."
+    "location": "Vesalius \u2022 Railway below the ruined hillside glasshouse",
+    "condition": "Uninjured. Stable body\u2013soul integration. No chronic pain.",
+    "language": "Speech largely unintelligible. Can clearly reproduce \u201cVeskan\u201d and associate it with the man who introduced himself.",
+    "notes": "Standing beside the railway near a halted maintenance vehicle and three adults. Veskan holds out a heavy grey cloth after demonstrating how to wear it. The cloth remains in his hands."
   },
-  "journal": [],
+  "journal": [
+    {
+      "date": "Day 0 \u2022 Evening",
+      "title": "Planetfall",
+      "body": "The incubation pod came to rest in a shattered planting bed beneath a ruined glasshouse roof. Its chamber, life support and integrated power remained functional. The fluid drained and the lid opened. Beyond the terrace lay jungle, a hillside railway and distant buildings beside dark water. Three adults approached aboard a small rail vehicle."
+    },
+    {
+      "date": "Day 0 \u2022 Evening",
+      "title": "First steps",
+      "body": "The subject climbed out, caught himself during an initial stumble and established his balance without injury. Close inspection revealed abundant sensory detail, though unfamiliar sounds and movement remained difficult to interpret. The rail vehicle stopped below and a voice called uphill."
+    },
+    {
+      "date": "Day 0 \u2022 Evening",
+      "title": "The voice below",
+      "body": "Recognising a bodily resemblance to the occupants, the subject approached and tried to imitate their call. A loose stair broke beneath him; the surviving railing prevented a fall. The first vocal imitation was distorted. A man with a lamp signalled him to stop while a companion raised a rifle. The lampholder touched his own chest and repeated \u201cVeskan\u201d."
+    },
+    {
+      "date": "Day 0 \u2022 Evening",
+      "title": "A name repeated",
+      "body": "The subject identified the wooden and metal object as a probable weapon. Two slow angled steps placed Veskan across its line; the bearer lowered the muzzle. With an open palm raised, the subject touched his own chest and reproduced \u201cVeskan\u201d clearly. Veskan repeated his stopping gesture, then demonstrated the distinction between himself and the child. The vehicle\u2019s engine was switched off."
+    },
+    {
+      "date": "Day 0 \u2022 Evening",
+      "title": "An offer of warmth",
+      "body": "The subject stopped, pointed to Veskan and repeated his name, then pointed to himself, hesitated and nodded. Veskan acknowledged the exchange without naming him. After speaking with his companions, he received a heavy grey cloth, placed the lamp on a trackside bracket and demonstrated wrapping the cloth around his shoulders. He now holds it open toward the child. The armed man keeps his weapon low and watches the vegetation."
+    }
+  ],
   "records": {
-    "relationships": "No contacts recorded.",
-    "research": "Innate aptitude for technology and psychic phenomena. Formal studies pending.",
-    "holdings": "No territory or forces recorded."
+    "relationships": "Veskan \u2014 grey-bristled man in a patched coat; introduced himself through speech and gesture. Now offering a heavy grey cloth. Two companions remain beside the vehicle: an armed man watching the slope and a third adult near the controls. The patrol remains cautious.",
+    "research": "First observations of the pod, ruined glasshouse, jungle and railway machinery. Independent movement and balance established. Recognised a probable weapon and used positioning to obstruct its line. Successful imitation of a spoken name; broader language remains unfamiliar.",
+    "holdings": "No territory, organisations or forces."
   }
 }
