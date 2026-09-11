@@ -850,3 +850,532 @@ Currency: None
 ## 034 — Player · Publication checkpoint (outside the scene)
 
 Ok now please update the GitHub documentation. Please take your time and and be in-depth with your update to ensure there are no errors, issues, inconsistencies or mistakes. Please check the whole document before updating if you can
+
+
+## 035 — Player · A week with Corva
+
+Ok, it’s a new day so let’s continue. Over the next week I stay with Corva and do the best I can to learn the language and how things work. Exploring and allowing my curiosity to guide me
+
+
+## 036 — Assistant · Progress note
+
+I’ll refresh the current scene and development notes, then resolve the week’s learning, exploration and Corva’s response.
+
+
+## 037 — Assistant · The first week
+
+By the third morning, Corva has stopped naming everything she hands you.
+
+“Put that beside the jug.”
+
+You understand.
+
+“The other side. You’ll knock it over there.”
+
+That takes a moment longer.
+
+The week develops around the station’s rhythms: the kitchen stove being lit before dawn, boots crossing the floor, the telephone interrupting meals, the yard filling with engines and voices before emptying again into darkness.
+
+Your bed remains in the kitchen alcove. Meals arrive regularly. Corva finds a plain shirt, trousers tightened with a drawstring, and shoes whose soft leather has already moulded around someone else’s feet. The grey cloth becomes a folded layer at the foot of your bedding.
+
+She is practical about these provisions.
+
+“You can’t learn much with your feet full of glass.”
+
+By the end of the week, you understand both the words and why she said them.
+
+Other things remain harder.
+
+People shorten sentences, swallow familiar sounds and refer to events you have never witnessed. A conversation about a missing delivery can become incomprehensible despite your recognising most of its individual words. When the subject returns to objects in the room, your footing returns with it.
+
+Corva adapts.
+
+She speaks normally first, then explains what you missed. Your memory saves her from repeating explanations often. Your lack of background gives her plenty of new ones to supply.
+
+“Knowing the word isn’t knowing the thing,” she tells you one evening, after a discussion involving *debt* leads through several other unfamiliar ideas. “Though you’re making a determined attempt at both.”
+
+She begins calling you *little scholar*.
+
+It is an address, spoken with increasing warmth, rather than a name entered in her ledger.
+
+Your explorations gradually extend beyond the kitchen.
+
+The station contains a storeroom of numbered shelves, a washroom whose pipes knock when the taps open, and a workshop where the air tastes of filings and hot oil. Outside, drainage channels divide the yard into strips. Men and women clear them every morning. By afternoon, wind has already returned leaves and pale seed husks to the grates.
+
+Beyond the cleared ground, the jungle presses against the perimeter.
+
+A warning bell sometimes interrupts work. When it does, conversations cease before the workers look toward the walls. You learn that this bell is different from the one that announces a vehicle approaching the gate.
+
+No attack follows during your first week.
+
+The distinction still matters to everyone.
+
+Machines prove generous with some answers and stubborn with others. Hinges, catches, pulleys and the station’s water taps reveal their relationships readily. Once someone shows you the interior of a valve, several things you have watched suddenly fit together.
+
+The yard pump is less obliging.
+
+It knocks, loses pressure, then works smoothly long enough to make its failure difficult to locate. From outside its casing, you can follow what changes without discovering the concealed cause. The mechanic working on it disagrees with another worker over the fault. Watching them makes it clear that adults can know the names of every part and still lack an answer.
+
+Once, as one of them bends over the pump, an impression of black water and a hand slipping from wet stone passes through your awareness.
+
+It has no accompanying sound.
+
+A moment later there is only the pump, the worker’s bent back, and water running along the channel. Nothing identifies where the impression came from.
+
+On the seventh morning, the mechanic finally removes the pump’s cover. He allows you to watch from the end of the bench while he lays the pieces upon an oily cloth.
+
+Corva comes to fetch you before he has finished.
+
+“Veskan’s back.”
+
+He is waiting in the maintenance room with a folded paper between his fingers. Dust whitens the seams of his coat. Corva stands beside the desk rather than returning to her ledger.
+
+“The superintendent’s heard about you,” Veskan says.
+
+Most of that is clear. The unfamiliar title draws an explanation from Corva.
+
+“He’s responsible for the railway. The people, the equipment. This station.”
+
+Veskan taps the paper.
+
+“He wants to speak to the child they brought down from the glasshouse.”
+
+“Then he can speak here,” Corva says. “Tomorrow morning. I’m not sending him across the town with someone he’s never met.”
+
+Veskan gives a small nod.
+
+“He asked whether the boy can answer questions yet.”
+
+Corva looks toward you.
+
+“He can tell you that himself.”
+
+---
+
+Name: Unnamed  
+Age: Approximately five weeks; accelerated juvenile development  
+Date: Planetfall, Day 7 — morning  
+Reputation: Unusual foundling under Corva’s care; attracting railway officials’ attention  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Plain shirt, drawstring trousers, socks and soft leather shoes  
+Gear/Inventory: Grey woollen cloth kept with station bedding; pod left in the glasshouse  
+Currency: None
+
+
+## 038 — Player · Answering for himself
+
+“The boy can.” I say simply and confidently
+
+
+## 039 — Assistant · The report
+
+Veskan looks at you over the folded paper.
+
+Then one corner of his mouth lifts.
+
+“So he can.”
+
+Corva folds her arms.
+
+“And he’s standing in the room, Veskan.”
+
+“Yes. I noticed.”
+
+He draws out the chair beside the desk and sits, resting his forearms on his knees. The movement brings his face closer to your height.
+
+“A week ago, you were saying my name back to me.”
+
+He leaves that observation between you for a moment.
+
+“I’ve met grown men who’ve worked here twenty years and listen less carefully.”
+
+Corva’s expression softens, but Veskan’s attention stays on you.
+
+“The superintendent will want to know where you came from. Whether someone is looking for you. What that thing in the glasshouse is.”
+
+Those questions are easier to understand than to answer.
+
+“He may ask them several ways,” Corva adds. “If you don’t know, say you don’t know.”
+
+“And if you don’t understand,” Veskan says, “ask.”
+
+He turns the folded paper between his hands.
+
+Outside, a wagon rattles across the yard. Someone calls for a gate to be opened. The ordinary sounds continue while the three of you stand apart from them.
+
+Veskan glances at Corva.
+
+“There’s another matter. The patrol report needs a name.”
+
+Her eyes narrow slightly.
+
+“A name isn’t an answer to where he came from.”
+
+“No. But ‘the boy’ is wearing thin.”
+
+He looks back at you.
+
+“Do you remember being called anything before you met us?”
+
+---
+
+Name: Unnamed  
+Age: Approximately five weeks; accelerated juvenile development  
+Date: Planetfall, Day 7 — morning  
+Reputation: Unusual foundling under Corva’s care; attracting railway officials’ attention  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Plain shirt, drawstring trousers, socks and soft leather shoes  
+Gear/Inventory: Grey woollen cloth kept with station bedding; pod left in the glasshouse  
+Currency: None
+
+
+## 040 — Player · Missing answers
+
+“I don’t know. I don’t have……” I stop and think about the word “question solutions.” I settle as on. “I do not know where I came from. I don’t know where I am from. I know Veskan, I know Corva. I know the alarms are due to some kind of creature that kills people, that no one seems willing to speak of around me. Because I came from the sky.” I say calmly, my brain constantly analysing and putting pieces together as I think things through while speaking them aloud
+
+
+## 041 — Assistant · The hunters
+
+“Answers,” Corva says quietly. “The word you wanted is *answers*.”
+
+Neither adult immediately addresses the rest.
+
+Veskan lays the folded paper on the desk. Corva’s gaze moves toward the open doorway, where two workers pass carrying a length of pipe. She waits until their footsteps have faded.
+
+“You’ve heard more than I thought,” she says.
+
+“You’ve understood more,” Veskan corrects.
+
+He looks back at you.
+
+“The alarms don’t all mean the same thing. Some warn of animals near the cleared ground. Some mean fire, or trouble on the line.” He pauses. “There’s another warning for the hunters.”
+
+Corva pulls a second chair toward the desk but remains standing behind it.
+
+“They come from above,” she says. “In machines that fly. They hunt people here.”
+
+“And animals,” Veskan adds. “Sometimes they come for something particular. Sometimes we never learn what.”
+
+“The walls help,” Corva says. “The watches help. When a warning sounds, people need to know where to go.”
+
+Veskan studies your face.
+
+“You coming out of that glasshouse frightened us. We’d seen something fall. Then there you were, without a stitch on you, speaking sounds back at us.” His eyes briefly settle on your white hair. “We didn’t know what we’d found.”
+
+It is the first time he has said it so plainly.
+
+Corva’s fingers tighten around the chair back.
+
+“I wasn’t keeping quiet because I’d decided you were one of them. I wanted you to have a meal and a night’s sleep before we started filling your head with everything outside those walls.”
+
+Then she exhales.
+
+“And I didn’t know how much you could understand.”
+
+For a moment, only the stove makes a sound.
+
+“You’re right that people have been talking about you,” Veskan says. “I can’t tell you what every one of them thinks. But you don’t have to make up answers to satisfy them.”
+
+Corva comes around the chair.
+
+“You know us. That’s a beginning.”
+
+Her voice remains level.
+
+“And now you know what we were reluctant to tell you. What else have you been trying to work out on your own?”
+
+---
+
+Name: Unnamed  
+Age: Approximately five weeks; accelerated juvenile development  
+Date: Planetfall, Day 7 — morning  
+Reputation: Perceptive foundling under Corva’s care; attracting railway officials’ attention  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Plain shirt, drawstring trousers, socks and soft leather shoes  
+Gear/Inventory: Grey woollen cloth kept with station bedding; pod left in the glasshouse  
+Currency: None
+
+
+## 042 — Player · Unspoken words
+
+“Sometimes I hear you all say things when your mouthes don’t move. I don’t think they are things you mean to say or I am supposed to hear.” I say calmly
+
+
+## 043 — Assistant · An example
+
+Corva’s hand stops on the back of the chair.
+
+Veskan does not look toward the doorway this time. He looks at her.
+
+“Tell me exactly what you mean,” she says.
+
+The words come carefully, each given its full shape.
+
+She pulls the chair out and sits.
+
+“Do you hear them the way you hear me now? Or do you find yourself knowing something, without hearing it?”
+
+“Corva—”
+
+“Let him answer.”
+
+Veskan falls silent. His thumb presses against the folded edge of the paper.
+
+Corva notices, reaches across the desk and puts her hand over it.
+
+“That can wait.”
+
+There is something deliberate in the movement. Veskan leaves the report where it lies.
+
+Outside, a hammer strikes metal three times. Corva waits through the noise.
+
+“There are people who perceive things other people cannot,” she says. “I’ve heard of children showing it early.”
+
+“You’ve heard stories,” Veskan says.
+
+“Yes. Which is why I’m asking him what happened.”
+
+She turns back to you.
+
+“When did you first notice? Was it here?”
+
+For an instant, before she speaks again, another impression brushes against the room: the telephone beside the door, its black receiver lifted from its cradle. Alongside it comes a fragment with the shape of Corva’s voice.
+
+*Who could I ask?*
+
+Her lips remain still.
+
+Then she speaks aloud.
+
+“Can you give me an example?”
+
+Veskan shifts in his chair. There is no movement toward a weapon, no sudden attempt to take hold of you. But both adults are watching with a concentration that has replaced the easier conversation of a moment ago.
+
+Corva keeps her voice gentle.
+
+“You haven’t done something wrong by telling us.”
+
+---
+
+Name: Unnamed  
+Age: Approximately five weeks; accelerated juvenile development  
+Date: Planetfall, Day 7 — morning  
+Reputation: Perceptive foundling; Corva and Veskan now aware of possible psychic sensitivity  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Plain shirt, drawstring trousers, socks and soft leather shoes  
+Gear/Inventory: Grey woollen cloth kept with station bedding; pod left in the glasshouse  
+Currency: None
+
+
+## 044 — Player · Borrowed memories
+
+“Well when Veskan found me I felt like he would protect me. I don’t know why. I just had this feeling even though I didn’t know anything about him. Then over these past few days I would catch glimpses of another boy. Flashes in my head of this boy and Veskan caring for him. Sometimes Corva, when you give me words I see flashes and I feel like someone else, they explain the words in a way words cannot and the flashes show me the perspective of a woman and sometimes I hear your voice in the background talking about something else when these flashes happen.” (Basically lore wise I’m hinting at the fact that Veskan had a son, key word had I’m gonna say The Hunters killed him likely in some kind of collateral thing as they dont usually target human children but Veskan wouldn’t really know or care about that. And the flashes I see when Corva speaks are her memories about the thing she explains that basically informs my knowledge. It’s not always that I have the direct and clear memory in my head but it’s like subconscious osmosis in a sense where knowledge from the memories is retained even if the memory itself isn’t fully retained.)
+
+
+## 045 — Assistant · Progress note
+
+I’ll incorporate Veskan’s loss and the fragmented memory impressions into the continuity, keeping their emotional and sensory meaning clearer than any complete memory.
+
+
+## 046 — Assistant · The boy Veskan remembers
+
+Veskan’s thumb slips from the edge of the paper.
+
+“Another boy?”
+
+The question is barely louder than the stove.
+
+Corva turns toward him. Whatever she sees in his face stops her from speaking.
+
+For a moment, Veskan looks at you with an expression you have not seen before. His mouth opens, closes. He presses both palms against his knees.
+
+“I had a son.”
+
+He watches you as he says it.
+
+“He used to come here.”
+
+His eyes move toward the yard.
+
+“The hunters struck the line. He was there when it happened.”
+
+The words are plain. Getting them out takes him several breaths.
+
+Corva draws her chair a little closer to his.
+
+“You don’t have to—”
+
+“I know.”
+
+He rubs one hand across his mouth, then looks back at you.
+
+“I hadn’t told you about him.”
+
+Something accompanies the words: a small hand, black grease caught around its nails, resting within a larger one. The impression is brief. There is warmth in it, and an attention so complete that everything outside those two hands seems unimportant.
+
+Then it is gone.
+
+Veskan remains before you, older and tired beneath the morning light.
+
+Corva gives him time before returning to what you said about her.
+
+“When I explain something,” she begins, “I sometimes remember being taught it.”
+
+She glances toward the stove.
+
+“My mother had one with a broken catch. You had to lift the door before you shut it. If you only pushed, it would swing open again.”
+
+Her fingers make a small lifting movement.
+
+“I was thinking about that when I showed you this one.”
+
+As she speaks, the shape of the action is strangely familiar. A resistance followed by a little upward movement; the weight settling into place. There is no complete room around it, no face you can summon. The relationship between the movements is clearer than the recollection itself.
+
+Corva studies your expression.
+
+“Perhaps that’s part of what reaches you.”
+
+“Can you stop it?” Veskan asks.
+
+The question comes quickly. He hears his own tone and softens it.
+
+“I don’t mean you’ve done wrong. I mean—does it happen whether you want it to or not?”
+
+Corva looks at the report beneath her hand.
+
+“We should be careful who we tell.”
+
+Veskan nods, once.
+
+She turns the paper face down, then looks back at you.
+
+“For now, tell us when it happens. If you can recognise it. We can help you work out whether someone actually spoke.”
+
+Her gaze briefly meets Veskan’s.
+
+“And if something belongs to someone else’s life, we can ask before we talk about it.”
+
+He is silent for a moment. Then he leans forward again, his attention returning to you.
+
+“The boy you saw,” he says. “Was he happy?”
+
+---
+
+Name: Unnamed  
+Age: Approximately five weeks; accelerated juvenile development  
+Date: Planetfall, Day 7 — morning  
+Reputation: Foundling under Corva’s care; psychic sensitivity disclosed privately to Corva and Veskan  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Plain shirt, drawstring trousers, socks and soft leather shoes  
+Gear/Inventory: Grey woollen cloth kept with station bedding; pod left in the glasshouse  
+Currency: None
+
+
+## 047 — Player · Helpful impressions and a pause
+
+“I can’t stop it. It just happens. All the time. But it’s helpful, I don’t want to stop it. I’m not doing anything to anyone. I am just learning.” I say stubbornly. “The boy was happy. That is why I feel safe here.” 
+
+Ok now sort of wrap up this scene and create a good mid point for finishing this convo and before the superintendent arrives so we have a good point to update the GitHub documentation
+
+
+## 048 — Assistant · A place remains
+
+Veskan lowers his head.
+
+For several breaths, he studies his hands.
+
+Then he nods.
+
+“Good.”
+
+The word comes roughly. He clears his throat, but does not try to say it again.
+
+Corva waits until he looks up before she answers you.
+
+“I believe you. I don’t think you’re trying to hurt anyone.”
+
+She draws the folded report toward herself.
+
+“But something can help you and still be difficult for the person it comes from. Veskan didn’t know you could see that. Neither did I.”
+
+“I’m glad he told me,” Veskan says.
+
+“So am I.”
+
+She turns back to you.
+
+“We’re learning something too.”
+
+Outside, the hammering resumes. A worker calls across the yard, and someone answers from farther away. Familiar sounds continue around a room that has become much quieter.
+
+Veskan sits back.
+
+“You said it happens all the time?”
+
+He lets the question rest without pressing you to repeat yourself.
+
+“Then perhaps we start with telling one thing from another. What somebody says. What you receive. What you think it means.”
+
+Corva nods.
+
+“You can keep asking us. And we can tell you when you’ve misunderstood.”
+
+Veskan’s expression softens.
+
+“As for feeling safe here…”
+
+He looks toward Corva, then back at you.
+
+“You’ve got somewhere to stay. That much isn’t changing because of this conversation.”
+
+Corva opens the ledger to the page marked with a strip of cloth. She reads the latest entry, then closes it without adding anything.
+
+“The superintendent comes tomorrow,” she says. “I’ll be here.”
+
+“So will I,” Veskan says.
+
+She gives him a brief, grateful look.
+
+“We’ll explain what we know. We won’t pretend to know the rest.”
+
+Veskan rises. This time, he leaves the report on her desk.
+
+At the doorway he pauses.
+
+“Thank you,” he says to you.
+
+He offers no explanation, and none seems necessary after the question he asked.
+
+Then he steps into the yard.
+
+Corva remains seated for a moment, listening to his boots recede. When she finally stands, she moves the report beneath the ledger and straightens the chair he has left behind.
+
+“The pump’s still in pieces,” she says. “And there’s bread in the kitchen.”
+
+Her ordinary tone returns gradually.
+
+“No more questions from me for a while, little scholar.”
+
+She leaves the choice open.
+
+Through the window, morning light catches the suspended dust above the workshop bench. The mechanic bends over the dismantled pump, arranging its parts upon the oily cloth. Beyond him, the station continues its work beneath the walls of Serravonne.
+
+The superintendent’s visit remains a matter for tomorrow.
+
+For now, there is a place for you here, two people who know a little more of what you are experiencing, and an uninterrupted morning ahead.
+
+---
+
+Name: Unnamed  
+Age: Approximately five weeks; accelerated juvenile development  
+Date: Planetfall, Day 7 — morning  
+Reputation: Trusted foundling under Corva’s care; psychic sensitivity known privately to Corva and Veskan  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Plain shirt, drawstring trousers, socks and soft leather shoes  
+Gear/Inventory: Grey woollen cloth kept with station bedding; pod left in the glasshouse  
+Currency: None
+
+
+## 049 — Player · Publication checkpoint (outside the scene)
+
+Ok now please update the GitHub documentation. Please take your time and any documents you are updating please read them in full, line by line. This ensures you do not miss any outdated info, errors, mistakes or inconsistencies. Please take your time I am more than happy to wait.

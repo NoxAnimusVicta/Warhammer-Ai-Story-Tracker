@@ -1,21 +1,21 @@
 {
   "format": "malaspina-dossier",
   "version": 1,
-  "revision": 16,
-  "updatedAt": "2026-09-10T17:57:08.404529+00:00",
+  "revision": 17,
+  "updatedAt": "2026-09-11T04:37:22.043429+00:00",
   "character": {
     "name": "Unnamed",
-    "age": "Approximately one month chronological; accelerated juvenile development",
-    "date": "Planetfall, Day 0 \u2014 early night",
-    "reputation": "Foundling receiving temporary care at the railway station",
+    "age": "Approximately five weeks chronological; accelerated juvenile development",
+    "date": "Planetfall, Day 7 \u2014 morning",
+    "reputation": "Trusted foundling under Corva\u2019s care; psychic sensitivity known privately to Corva and Veskan",
     "weapons": "None",
-    "clothing": "Oversized grey woollen cloth wrapped around body; barefoot",
-    "inventory": "Empty borrowed enamel cup in hand. Incubation pod left in the ruined hillside glasshouse; last observed with chamber, life support and integrated power functioning, lid open and amniotic nutrient fluid drained.",
+    "clothing": "Plain shirt, drawstring trousers, socks and soft leather shoes",
+    "inventory": "Grey woollen cloth kept with station bedding. Incubation pod left in the ruined hillside glasshouse; last observed on Day 0 with chamber, life support and integrated power functioning, lid open and amniotic nutrient fluid drained.",
     "currency": "None",
-    "location": "Serravonne, Vesalius \u2022 Railway station, outside the kitchen alcove",
+    "location": "Serravonne, Vesalius \u2022 Railway station, maintenance room",
     "condition": "Uninjured. Stable body\u2013soul integration. No chronic pain.",
-    "language": "Recognises Veskan and Corva by their introductions. Familiar concrete words include hand, cloth, hot, water, fire, door, window and cup; simple commands include wait, come, sit and drink. Can imitate further sounds, but unfamiliar sentences and grammar remain only partly understood. Written marks are not yet readable.",
-    "notes": "Has drunk one cup of water. Corva remains nearby after arranging a folding bed, blanket and bowl of grain-and-vegetable food beside the kitchen. Food and bedding remain offered; the subject has not eaten, entered the alcove or slept. Veskan has returned to the yard."
+    "language": "Practical conversation in familiar contexts after a week of immersion. Can describe observations, ask questions and explain experiences. Unfamiliar idioms, background references and abstract vocabulary still cause gaps; \u201cquestion solutions\u201d preceded learning \u201canswers\u201d. Literacy has not yet been demonstrated.",
+    "notes": "Has spent the week staying with Corva, receiving regular meals, clothing and a bed in the kitchen alcove. Reports frequent involuntary impressions, images and unspoken words that help him learn; cannot yet stop the reception and values its usefulness. Corva and Veskan have offered help distinguishing speech, received impressions and interpretation. Their offer has not yet been answered. Care continues. The superintendent is expected here on Day 8 morning; both adults intend to attend. Veskan has stepped into the yard. Corva has offered a pause from questions; no next activity has been chosen."
   },
   "journal": [
     {
@@ -71,12 +71,42 @@
     {
       "date": "Day 0 \u2022 Early night",
       "title": "A place for the night",
-      "body": "The woman introduced herself as Corva. Lessons continued alongside a discussion the subject could only partly follow. Corva used a wall telephone and wrote in her ledger. Workers brought bedding and a folding canvas bed, which she prepared in a cleared alcove beside the kitchen. A gate man spoke with her, observed the preparations and left. Corva placed a bowl of warm grain-and-vegetable food and a spoon beside the bed. Veskan returned to the yard. Corva then invited the subject toward the alcove; the invitation remains unanswered."
+      "body": "The woman introduced herself as Corva. Lessons continued alongside a discussion the subject could only partly follow. Corva used a wall telephone and wrote in her ledger. Workers brought bedding and a folding canvas bed, which she prepared in a cleared alcove beside the kitchen. A gate man spoke with her, observed the preparations and left. Corva placed a bowl of warm grain-and-vegetable food and a spoon beside the bed. Veskan returned to the yard. Corva then invited the subject toward the alcove."
+    },
+    {
+      "date": "Days 1\u20137 \u2022 Morning and evening",
+      "title": "A week at the station",
+      "body": "The subject stayed with Corva, learning through conversation, repetition and exploration. Meals and bedding became routine; she supplied a shirt, drawstring trousers and soft leather shoes. The grey cloth remained with the bedding. Familiar speech became usable, though unfamiliar context and abstract vocabulary still required explanation. Corva began addressing him as \u201clittle scholar\u201d, without assigning a personal name. No attack occurred during the week."
+    },
+    {
+      "date": "Day 7 \u2022 Morning",
+      "title": "Machinery and a visitor",
+      "body": "Exploration included the storeroom, washroom, workshop, drainage channels and warning bells. Hinges, catches, pulleys, taps and a demonstrated valve revealed useful relationships. The yard pump\u2019s intermittent pressure fault remained unresolved. Its mechanic removed the cover and allowed observation. Corva then brought the subject to Veskan, whose report announced the railway superintendent\u2019s interest. Corva arranged the meeting here for the following morning. The patrol report still needed a name; none was supplied."
+    },
+    {
+      "date": "Day 7 \u2022 Morning",
+      "title": "Answers and the hunters",
+      "body": "The subject answered confidently, described his missing knowledge of his origin, and explained his deductions about the alarms and people\u2019s unease at his arrival from the sky. Corva supplied the word \u201canswers\u201d. Veskan distinguished animal, fire and railway warnings from hunter alarms. Both adults explained that the hunters descend in flying machines and hunt humans and animals. The purpose of a particular visit is not always known."
+    },
+    {
+      "date": "Day 7 \u2022 Morning",
+      "title": "Words without moving mouths",
+      "body": "The subject disclosed hearing things people did not speak aloud. Corva asked for examples rather than treating the report as wrongdoing. An impression of the telephone and \u201cWho could I ask?\u201d accompanied her apparent voice while her lips remained still. Earlier in the week, a fleeting impression of black water and a slipping hand had occurred near the pump; its source remained unidentified."
+    },
+    {
+      "date": "Day 7 \u2022 Morning",
+      "title": "Memories reaching across",
+      "body": "The subject described an early sense of safety with Veskan, glimpses of another boy in his care, and fragments accompanying Corva\u2019s lessons. Veskan disclosed that he had a son, killed when the hunters struck the line. A brief impression of a small grease-marked hand within a larger hand followed. Corva described remembering her mother\u2019s stove with a broken catch while teaching about the station stove. Associated movement and meaning were clearer to the subject than any complete remembered scene. Both adults agreed to be careful whom they told."
+    },
+    {
+      "date": "Day 7 \u2022 Morning",
+      "title": "A place remains",
+      "body": "The subject said the reception happened all the time, could not be stopped and was helpful; he did not wish to stop learning through it. He told Veskan that the boy had been happy and linked this to feeling safe. Veskan was grateful. Corva explained that receiving something useful could still be difficult for the person whose memory it was. They offered help distinguishing speech, impressions and interpretation. Veskan affirmed that the subject could stay. Both adults intended to attend tomorrow\u2019s meeting. Veskan left for the yard; Corva put the report beneath her ledger and offered a pause. The pump remained dismantled, and the next activity was left open."
     }
   ],
   "records": {
-    "relationships": "Veskan \u2014 railway patrol member who brought the subject to Serravonne, provided the grey cloth and taught initial words; last seen returning to the yard. Corva \u2014 station worker in an apron and spectacles; taught words, supplied drinking water, made a telephone call and arranged temporary shelter. The driver, rifleman and gate personnel remain unnamed. One gate man briefly spoke with Corva and left after observing the prepared bed.",
-    "research": "Observed brake linkage and engine drive, controlled airflow strengthening the stove fire, insulating cloth used on a hot handle, and walls/windows/doors regulating exposure. Recognised practical groupings of tools and clothing. Observed a voice transmitted through the wall telephone and marks made in a ledger. These are early observations; engine internals, telephone engineering and written language remain unresolved.",
-    "holdings": "No territory, organisations or forces. Temporary shelter offered in a station kitchen alcove."
+    "relationships": "Corva \u2014 station caregiver and teacher; provides shelter, meals and clothing, calls the subject \u201clittle scholar\u201d, and now knows privately of his psychic experiences. Veskan \u2014 railway patrol member who brought him to safety; has reaffirmed that he can stay. His unnamed son died during a hunter attack on the line. Both adults favour discretion and intend to attend the superintendent\u2019s visit. The superintendent is an unnamed railway official expected on Day 8 morning; no meeting has occurred. The pump mechanic, patrol driver, rifleman and gate personnel remain unnamed.",
+    "research": "Observed rail drive and brake linkage, stove airflow and insulation, building functions, a wall telephone, hinges, catches, pulleys, taps and a demonstrated valve. Has watched an intermittent pump fault and the opening of its casing; no repair or diagnosis has been achieved. Literacy, telephone engineering and deeper engine workings remain unestablished. Emerging psychic reception carries fragmented sensory, emotional and verbal associations, sometimes linked to a speaker\u2019s memories. Meaning may persist without a complete memory; source and interpretation remain uncertain. No controlled telepathic technique, psychic device or new material has been demonstrated.",
+    "holdings": "No territory, organisations or forces. Ongoing shelter and care with Corva at the station; bed in the kitchen alcove. No personal tools or weapons. The enamel cup used on the first evening was borrowed station tableware."
   }
 }
