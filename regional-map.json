@@ -1,0 +1,15 @@
+{
+  "title": "Eastern Vesalius",
+  "epoch": "Planetfall + one standard year and eight days",
+  "note": "Regional disposition chart · schematic, not to scale. Shading denotes broad claims; effective control follows settlements and transport corridors.",
+  "regions": [
+    {"id":"karsenne","name":"Karsenne Compact","label":[117,278],"color":"#827653","path":"M25 45 L180 45 177 140 204 204 191 282 208 358 182 442 192 534 25 554 Z","detail":"Inland fortress and mining federation. Mountain troops, engineers and defended passes. Essential supplier and uneasy partner of Veyrasse; disputes coastal freight charges and seeks a route through Calvernis."},
+    {"id":"caldrienne","name":"Duchy of Caldrienne","label":[277,112],"color":"#77565a","path":"M180 45 L340 45 354 85 336 114 356 145 339 181 329 209 286 198 247 218 204 204 177 140 Z","detail":"Northern hereditary state. Strong infantry, artillery and the region’s largest tank concentration. Veyrasse’s principal territorial rival; commerce continues under an armed truce."},
+    {"id":"veyrasse","name":"March of Veyrasse","label":[278,308],"color":"#44745e","path":"M204 204 L247 218 286 198 329 209 347 250 332 286 355 320 343 357 358 389 339 419 286 404 252 427 208 414 208 358 191 282 Z","detail":"Galahad’s home state. A hereditary margrave shares practical power with houses, councils and industrial patrons. Serravonne is a secondary port and railway junction. Standing army, territorial garrisons and household troops defend the March."},
+    {"id":"calvernis","name":"Calvernis Republic","label":[281,496],"color":"#496f7a","path":"M208 414 L252 427 286 404 339 419 353 451 336 482 354 522 327 551 303 580 192 580 192 534 182 442 Z","detail":"Southern commercial republic dominated by shipping, banking and industrial families. Convoy escorts, coastal guns, marines and maritime aircraft. Veyrasse’s trading partner and competitor; potential outlet for Karsenne’s alternative export route."},
+    {"id":"ceralte","name":"Ceralte Admiralty","label":[451,329],"color":"#737099","path":"M440 208 L456 194 472 216 460 249 442 240 Z M468 271 L487 253 499 274 489 306 472 301 Z M426 361 L441 348 456 370 445 397 425 385 Z M475 419 L490 404 503 425 495 449 480 447 Z","detail":"Offshore island power ruled by a protector and naval council. Experienced crews, torpedo craft and minelaying. Treaty partner against piracy and hunters; allegations of sheltering privateers remain unproven."},
+    {"id":"cressault","name":"Cressault corridor","label":[276,237],"color":"#cda16c","path":"M210 200 L248 211 285 191 330 202 334 222 286 214 250 234 207 222 Z","detail":"Disputed by Veyrasse and Caldrienne. Defended valleys, a railway crossing, farmland and pumping infrastructure. An armistice ended the previous war without settling ownership. Occasional frontier fire and mutual accusations continue; renewed war is not declared."}
+  ],
+  "settlement":{"name":"Serravonne","position":[344,363],"label":[276,383]},
+  "history": [{"date":"Planetfall + one standard year and eight days","description":"Initial regional disposition; Cressault remains disputed. No territorial change recorded."}]
+}
