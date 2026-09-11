@@ -2,7 +2,7 @@ Malaspina is an isolated human death world of ancient industrial cities, fortifi
 
 Founded by human settlers during the Dark Age of Technology, Malaspina lost interstellar contact during the Age of Strife. It was never brought into Imperial Compliance and has no surviving Imperial administration, Mechanicus establishment, Ecclesiarchy or recognisable Imperial creed. Its founding civilisation collapsed through isolation and repeated local catastrophes; present societies rebuilt unevenly from the remains.
 
-Three principal continents divide its inhabited surface: Otranto, Morholt, and Vesalius. Each supports distinct human societies shaped by its terrain, resources, and exposure to the hunters. No government commands the entire planet. Authority belongs to competing city-states, hereditary houses, military strongholds, and industrial oligarchies whose territories overlap through treaties, marriages, debts, and longstanding claims.
+Three principal continents divide its inhabited surface: Otranto, Morholt, and Vesalius. Each supports distinct human societies shaped by its terrain, resources, and exposure to the hunters. No government commands the entire planet or any of its three principal continents. Authority belongs to competing city-states, hereditary houses, military strongholds, and industrial oligarchies whose territories overlap through treaties, marriages, debts, and longstanding claims.
 
 Otranto holds the greatest concentration of population and industry. Jagged mountain chains enclose broad agricultural basins, while rivers connect densely settled valleys. Its cities climb fortified terraces: ivory palaces and copper domes overlook manufactoria, workers’ districts, rail terminals, and smoking foundries. Monumental aqueducts cross crowded avenues. Armoured trains pass through mountain tunnels and over immense viaducts, carrying grain, ore, troops, and machinery between defended settlements.
 
@@ -47,3 +47,66 @@ Malaspina is held in enforced technological stagnation. Human ingenuity produces
 The shared threat has produced alliances, mutual defence arrangements, and exchanges of military knowledge. It has also encouraged secrecy, appeasement, and accusations of collaboration. Rival states continue to compete for resources and territory, each convinced that control of its own institutions is essential to survival.
 
 Malaspina remains a divided, inhabited world with substantial industrial resources, established cultures, decayed ruins, and vast territories beyond reliable human control. Its cities preserve wealth and learning behind formidable defences, while the wilderness and the skies remain contested.
+
+
+Political geography. None of Malaspina’s three principal continents is unified. States hold defended settlements, cultivated districts and the transport corridors between them; large areas within their claimed borders remain beyond effective control. Hereditary claims, municipal privileges and commercial obligations frequently overlap.
+
+Otranto contains the largest territorial powers and strongest mass armies. Morholt favours fortress leagues and dispersed forces adapted to forest and mountain terrain. Vesalius places greater weight on ports, coastal shipping and securing narrow routes inland. Overseas possessions and treaty ports are possible, but sustaining a large transcontinental empire would be exceptionally difficult.
+
+The powers surrounding Serravonne form one regional political neighbourhood, not an exhaustive division of Vesalius or the planet.
+
+March of Veyrasse. Veyrasse occupies part of Vesalius’s eastern coast: several fortified ports, cultivated coastal valleys and inland mining districts connected by railway. Serravonne is a secondary port and railway junction, strategically valuable but distant from the seat of government.
+
+A hereditary margrave rules through a charter negotiated with landed houses, municipal councils and industrial proprietors. The margrave commands the standing army and conducts foreign relations. The other institutions supply much of the money, transport and manpower, giving them considerable influence over policy and mobilisation.
+
+Engineers receive substantial professional respect, while education and patronage offer opportunities accompanied by obligations. Workshops, land and schooling are shaped by the interests of their patrons. Railway superintendent Leont Vardesca exercises authority over railway affairs and dependants; his office does not confer command of Serravonne’s government or army.
+
+Duchy of Caldrienne. North of Veyrasse along the coast, Caldrienne is a more centralised hereditary state with productive agricultural valleys and substantial armaments works. Its army combines disciplined infantry, strong field artillery and the region’s greatest concentration of tanks.
+
+Caldrienne is Veyrasse’s principal territorial rival. An armed truce restrains their dispute over the Cressault corridor, while trade continues across the frontier.
+
+Karsenne Compact. Inland beyond the coastal escarpment, Karsenne is a federation of mining towns and fortress districts whose councils jealously protect their autonomy. Its military strengths are mountain troops, engineers, demolition specialists and fortified passes.
+
+Karsenne is an essential supplier and uneasy defensive partner of Veyrasse. Its councils resent dependence on Veyrasse’s coastal export routes and are disputing freight charges. They seek an alternative route through Calvernis; Veyrasse regards that project as a threat to its revenues and strategic influence.
+
+Calvernis Republic. South along the coast, Calvernis is governed through a restricted franchise dominated by competing shipping, banking and industrial families. Its military strengths include convoy escorts, coastal artillery, marines and propeller-driven maritime aircraft.
+
+Calvernis is both a major commercial partner and a rival of Veyrasse, competing for railway contracts, harbour business and influence in smaller settlements. Its potential alternative export route for Karsenne adds to these tensions.
+
+Ceralte Admiralty. Ceralte occupies an offshore island chain. A hereditary protector shares power with a council of senior naval officers and island governors. Experienced crews, torpedo craft, minelaying and operations in difficult coastal waters are its principal military strengths.
+
+Ceralte is a treaty partner against piracy and hunter incursions. Mainland interests frequently accuse it of sheltering privateers targeting their commerce; accusation alone does not establish official complicity.
+
+Trade and dependence. None of the regional powers can afford complete economic independence. Caldrienne purchases ores from Karsenne; Karsenne needs coastal ports; Veyrasse purchases machinery and shipping services from Calvernis; Ceralte imports grain. Political enemies remain customers and suppliers.
+
+Disputes over Karsenne’s freight charges and alternative export route could end in negotiation, economic confrontation or armed conflict. No outcome has been settled.
+
+Cressault corridor. The Cressault corridor is a chain of defended valleys near the Veyrasse–Caldrienne frontier, containing a railway crossing, irrigated farmland and the pumping infrastructure sustaining them. Both states claim it. Some estates owe hereditary obligations to one government while depending on the other for transport and protection.
+
+A previous border war ended in an armistice without resolving ownership. Frontier troops exchange occasional fire and patrols sometimes fail to return. Customs inspections and railway delays serve as instruments of pressure. Both governments accuse the other of supporting armed local claimants and interfering with water supplies.
+
+Renewed war is feared, but neither government has publicly committed to it. Serravonne is away from this front; its railway carries associated supplies and returning personnel.
+
+Service and internal tensions. Conscription and industrial obligations create friction within Veyrasse. Wealthier households can secure favourable postings and protected occupations for their dependants. Poorer districts supply a disproportionate share of dangerous perimeter and field service.
+
+Railway workers possess bargaining power because transport stoppages threaten both military operations and food deliveries. The station’s stores, schedules and workshops form part of the wider military economy. Staff maintaining civilian machinery also support military transport and defensive installations.
+
+Veyrasse military institutions. The standing army fields infantry, artillery, engineers, a limited armoured force and supporting services. It fights other states and reinforces threatened districts.
+
+Territorial garrisons combine local reservists with permanent cadres responsible for walls, alarms, evacuation routes, magazines and perimeter patrols.
+
+Household forces belong to major estates and industrial patrons. Charters define their obligations to the state, but personal loyalties often remain strongest.
+
+Serravonne defences. Serravonne maintains a permanent garrison, coastal gun positions, a mobilisation depot and railway-security personnel. Surrounding districts keep reserve rolls and emergency stores. Military engineers work on bridges, drainage systems and defensive clearings.
+
+These institutions coexist with civilian railway administration. Control of transport, stores, military units and municipal affairs is divided rather than concentrated in the superintendent’s office.
+
+Defence against the hunters. Against other human states, armies can pursue military victory and territorial settlements. Against hunter incursions, defenders commonly prioritise preserving communications, evacuating exposed people, denying easy approaches and concentrating conventional fire when an attacker becomes vulnerable.
+
+Fortifications offer shelter and fighting positions, but cannot guarantee protection against attacks from above. Killing an isolated hunter is one form of success; preserving a reservoir or substantially reducing casualties can be another.
+
+Warning agreements and limited mutual assistance connect rival states. Governments still dispute whether intervention will preserve a useful buffer, exhaust their reserves or expose their own forces to attack. Their shared enemy has not abolished competition.
+
+Confirmed collaboration with hunters is rare and must be distinguished from widespread allegations. A settlement’s survival, a returning expedition or possession of a captured device may provoke suspicion without establishing collaboration.
+
+Galahad’s regional knowledge. Through the first year’s books, railway conversation and local news, Galahad has learned the broad regional political geography, the states’ military specialisations and relationships, the Cressault dispute, and the significance of freight, food and mobilisation. This is contextual knowledge of the society around him.
