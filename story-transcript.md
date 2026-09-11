@@ -1935,3 +1935,326 @@ Currency: None
 ## 067 — Player · Publication checkpoint (outside the scene)
 
 Ok now please update the GitHub documentation. Please take your time and any documents you are updating please read them in full, line by line. This ensures you do not miss any outdated info, errors, mistakes or inconsistencies. Please take your time I am more than happy to wait.
+
+
+## 068 — User — One year of study and private exploration
+
+Ok I spend the next year studying and learning everything I possibly can. Absorbing all the knowledge I possibly can like a sponge while slowly experimenting with my own inate abilities in private. However I make a point to keep most of my actual understanding hidden and I only really show Corva and Veskan. I figure if I keep my head down it will give me more time to learn and focus uninterrupted. I spend most of my time studying, tinkering with machinary and I often also start sneaking out and heading off into the wilds by myself. Usually with only a small knife so I can go exploring. I do this at night and so far no one has caught me at least as far as I am aware. I learn about every subject I can get my hands on. Math, science, history, everything I can get my hands on. And I have taken a particular interest in breaking down engines and as people are reluctant to let me near firearms I keep trying to make one myself from various bits of machinery as a challenge for myself to make my own sort of firearm without being able to properly view how they work. I know how they function and have had a few up close glimpses but I haven’t ever been able to take one apart and part of the challenge is creating one from scratch.
+
+
+## 069 — Assistant — Progress note
+
+I’ll resolve the year in stages: your studies, private experiments, workshop access and night excursions, including what you manage to conceal and what consequences emerge.
+
+
+## 070 — Assistant — The first year
+
+The first thing you exhaust is Corva’s patience with pretending you still need the same lesson twice.
+
+“You read that yesterday.”
+
+You have the book open at the beginning again.
+
+She looks over your shoulder, follows the position of your finger, then turns several pages ahead.
+
+“Start there.”
+
+Within a month, she stops reading aloud for you.
+
+Within two, she begins bringing books home that she cannot explain herself.
+
+***
+
+The year fills with ink, oil and questions.
+
+Your spoken language becomes fluent. Reading follows quickly once the written system becomes familiar; handwriting requires a little longer, chiefly because the tools were made for hands that grow at a less extraordinary pace.
+
+Arithmetic leads into algebra, geometry and the calculations used in surveying. Workshop manuals supply mechanics, heat, electricity and the behaviour of ordinary materials. Shipping tables introduce geography. Old newspapers and borrowed histories introduce rulers, wars, treaties—and the discovery that accounts of the same event can disagree so thoroughly that they scarcely seem to describe the same world.
+
+A victory in one book is a massacre in another.
+
+Maps prove more dependable about where rivers run than about who owns the land beside them.
+
+You retain what you read with a precision that soon makes access more troublesome than comprehension.
+
+The station has plenty of practical knowledge. It does not have an academy’s library.
+
+Some books arrive missing pages. Others refer to earlier volumes nobody possesses. Advanced works belong to institutions, private collections or specialists who have little reason to lend them to a railway foundling. Corva borrows what she can. Veskan brings back battered manuals from other stations.
+
+Eventually, the books they find begin repeating things you already understand.
+
+***
+
+Vardesca keeps his promise about the workshop.
+
+At first, you watch. Then you fetch tools, clean components and help with work someone can inspect afterward. Your small utility knife is issued for ordinary tasks, accompanied by a lecture about keeping its edge away from your fingers.
+
+Before long, you understand familiar engines well enough to follow faults beyond their immediate symptoms. You can explain why a machine behaves differently when hot, why an apparent failure in one part can begin elsewhere, and why replacing a worn component sometimes changes nothing.
+
+Making things meet those explanations is harder.
+
+Your hands become precise. The available materials do not become better.
+
+A discarded little engine occupies you for weeks. You restore it to motion, but under load it runs unevenly, and the parts you can obtain never quite match what you want them to be. Permission to use a machine tool, an uninterrupted afternoon and a suitable piece of metal rarely arrive together.
+
+You become useful at maintenance and small repairs. You are still working inside a railway workshop whose first duty is to keep trains moving.
+
+That distinction becomes particularly sharp after the hunters strike a pumping installation farther along the line.
+
+You do not see the attack.
+
+You see the returning vehicle, its deck crowded with injured workers. You see the empty places on the delivery schedule, and the workshop filling with damaged equipment that takes precedence over every lesson.
+
+For several weeks, understanding why something works matters chiefly because somebody needs it working again by morning.
+
+***
+
+Your growth is harder to conceal than your understanding.
+
+Clothing is altered, then replaced. The bed in the alcove is lengthened. By the year’s end, you are approaching Corva’s height, with the proportions of an adolescent still changing into something larger.
+
+People notice.
+
+You can let a question pass, leave an explanation unfinished or allow someone else to supply an answer. You cannot make Corva’s old clothing measurements agree with the new ones.
+
+Nor can you entirely conceal the speed at which you stop needing instruction.
+
+One afternoon, a mechanic examines a correction you have made in the margin of a worn manual. He looks from the page to you.
+
+“You knew that before I finished explaining it.”
+
+He does not sound angry.
+
+Afterward, he watches you more closely.
+
+Most people come to know an unusually capable, quiet boy who likes machinery. A few suspect that you allow them to see only part of what you understand. Corva and Veskan see considerably more.
+
+Neither presses you to perform for visitors.
+
+***
+
+In private, another kind of precision develops.
+
+At first, a loose washer trembles when you attend to it. Then it slides. Eventually, it lifts without tumbling, turning slowly in the air while you examine it from every side.
+
+Greater weight proves easier than delicate movement.
+
+For several breaths, you can suspend a heavy engine assembly that would ordinarily require lifting gear. Keeping a tiny object motionless while another passes beside it demands much more concentration.
+
+The achievement is real. So are its limits.
+
+Distraction spoils fine control. Sustained effort leaves you hungry and tired. Anger makes force arrive more readily than precision.
+
+The impressions from other minds also become less shapeless.
+
+You begin recognising differences between spoken words, received fragments and your own conclusions. In a quiet room, you can sometimes draw your attention inward enough for the unwanted impressions to recede. A crowded yard, an argument or another person’s sudden fear can still break through.
+
+You gain no dependable way to know that an impression is true.
+
+You gain practice in recognising that you have received one.
+
+Nothing you make yet holds these effects after you cease attending to it. The machinery moves under your influence; it does not become a new kind of machine.
+
+***
+
+Your night journeys begin close to the walls.
+
+Over time, darkness becomes a landscape of separate sounds: runoff beneath stone, insects inside dead wood, movement too heavy to belong to either. You learn short routes, sheltered approaches and places where the perimeter’s drainage works offer passage.
+
+You leave with the knife and return without anyone confronting you.
+
+That remains true throughout the year.
+
+It does not mean the wilderness grants you the same freedom.
+
+During one excursion, rain transforms a familiar crossing. The bank gives way beneath you, and the current drives you against submerged stone hard enough to open your flank.
+
+Your strength gets you out.
+
+The wound closes with remarkable speed, but for several nights afterward, twisting or climbing pulls painfully at the healing tissue. You learn the difference between a route remembered from dry weather and the route that exists during a storm.
+
+Beyond the ground you have explored, the jungle remains largely unknown.
+
+You encounter no hunter face to face. You recover no alien treasure. What you accumulate is more immediately useful: distances, landmarks, animal signs, and knowledge of how easily rain can erase all three.
+
+***
+
+The firearm remains your most frustrating private project.
+
+Your understanding advances faster than the object itself. Each attempt exposes another difference between knowing what a weapon must accomplish and making scavenged parts accomplish it reliably.
+
+By the end of the year, you have several discarded attempts and one incomplete prototype that resembles your intention much more closely.
+
+It is not a dependable weapon.
+
+You do not have a reliable ammunition supply, and the project has not earned a place beside the knife on your excursions. It remains concealed with your private work.
+
+The challenge is still unfinished.
+
+***
+
+A year after Vardesca’s visit, Corva waits for you beside the kitchen table with a letter.
+
+The room is familiar down to the worn patch where her chair scrapes the floor. You no longer need to look upward nearly so far to meet her eyes.
+
+“I asked about the books,” she says.
+
+Beside the letter lies one of the advanced texts you have been trying to obtain, its title copied onto a scrap of paper.
+
+“The academy won’t lend them on my word alone. They want to see examples of your work.”
+
+She leaves the letter on the table.
+
+“I haven’t sent anything. Your notebooks are yours.”
+
+Outside, a late train settles against its buffers. The sound travels through the floor.
+
+Corva studies you for a moment.
+
+“I know you prefer people to underestimate you. I can understand some of the reasons.”
+
+Her finger rests beside the copied title.
+
+“But you’re reaching the end of what I can find without someone asking why you need it.”
+
+She draws out a chair.
+
+“What would you be comfortable letting me tell them?”
+
+---
+
+Name: Galahad  
+Age: Approximately thirteen months; accelerated adolescent development  
+Date: Planetfall + one standard year and eight days — evening  
+Reputation: Exceptionally capable station ward; some workers suspect concealed understanding; fullest abilities remain private  
+Weapons (Equipped): Small utility knife  
+Armor/Clothing (Equipped): Fitted work shirt, trousers and leather boots  
+Gear/Inventory: Study notebooks, borrowed books, concealed incomplete firearm prototype and experimental parts; grey woollen cloth stored with belongings; pod remains at the glasshouse  
+Currency: None
+
+
+## 071 — User — Deferring to Corva’s judgement
+
+“I will do what you think is best. You keep a roof over my head. The least I can do is defer to your judgement in matters you are more experienced than I.” I say as I take the text and begin flipping through it while I speak
+
+
+## 072 — Assistant — The academy correspondence
+
+The paper beneath your fingers is the academy’s reply. Below its formal greeting, a narrow paragraph lists the subjects they want demonstrated: mathematics, mechanical reasoning, and an account of work completed.
+
+The book itself has not been sent.
+
+Corva listens while you turn the sheet over. There is nothing written on the back.
+
+“You don’t owe me your agreement because you sleep here, Galahad.”
+
+She says it gently, but without hesitation.
+
+“I asked because it’s your work they want to see.”
+
+For a moment, her eyes rest on your hands. They have outgrown another pair of gloves since the weather changed.
+
+Then she pulls the chair closer.
+
+“But if you want my judgement, I think we should answer them.”
+
+She taps the letter.
+
+“Some calculations. A drawing of something you understand. An explanation of that little engine and why it still gives you trouble. Enough that whoever reads it can see you need more than another school primer.”
+
+Her mouth tightens slightly.
+
+“I would leave out the circumstances of your arrival. They asked whether you can use the books, not where Veskan found you.”
+
+Outside, someone shuts a wagon door. The impact rattles the window in its frame.
+
+Corva smooths the edge of the letter.
+
+“I’ll tell them you’ve been studying here, that the railway has allowed you workshop time, and that you’ve gone beyond what we can teach you from the books we have. All of that is true.”
+
+She looks back at you.
+
+“They may ask to meet you. If they do, we can decide about that when it happens. Lending books and taking charge of your education are different things.”
+
+There is warmth in her expression now, mixed with something more difficult to name.
+
+“And I’ll come with you, if you want me there.”
+
+She reaches for a clean sheet from the small stack beside the ledger.
+
+“I can write the covering letter tonight. You choose which work goes with it. I wouldn’t know which of your pages tells them the most—and I’d rather not discover halfway through that I’ve sent them something you meant to keep to yourself.”
+
+---
+
+Name: Galahad  
+Age: Approximately thirteen months; accelerated adolescent development  
+Date: Planetfall + one standard year and eight days — evening  
+Reputation: Exceptionally capable station ward; Corva preparing to support an academy book request  
+Weapons (Equipped): Small utility knife  
+Armor/Clothing (Equipped): Fitted work shirt, trousers and leather boots  
+Gear/Inventory: Study notebooks, borrowed books, concealed incomplete firearm prototype and experimental parts; grey woollen cloth stored with belongings; academy reply currently in hand  
+Currency: None
+
+
+## 073 — User — Thanks, Mum
+
+“Ok, thanks Mum.” I say casually as I get up and take the new texts with me to start working on some doodles and designs that will satisfy the Academics but it’s still all massively below the level I am actually at. I would read the whole advanced text I got overnight while I made these designs at the same time. (Now I called Corva Mum because it’s what I have picked up is what you call the female parental figure through conversation and psychic flashes from people. For me it’s just pragmatic, she is my female parental figure so of course she is my mum. But Corva would likely have an emotional reaction to this as normal people do because it’s the first time I have called her that and for her it is probably a big deal.)
+
+
+## 074 — Assistant — My son
+
+“Mum.”
+
+Corva repeats it so quietly that it barely carries beyond the table.
+
+Her hand stops above the clean paper.
+
+You have used the word as naturally as any other you have learned: a name for the place someone occupies in your life. She looks at you for a moment, lips parted, before lowering her eyes.
+
+“Yes,” she says.
+
+Then she clears her throat.
+
+“You’re welcome.”
+
+She reaches toward you as you rise, touches your forearm briefly, and lets her hand fall away. There is a small smile on her face that she seems unable to put aside.
+
+As you gather your papers, warmth brushes against your awareness—sudden and difficult to separate into words. Alongside it comes a fleeting impression of the kitchen alcove as it used to be: the little canvas bed, the oversized grey cloth, a bowl cooling on a stool.
+
+Corva takes a slow breath.
+
+“Bring your work to me in the morning.”
+
+***
+
+There is one disappointment among the papers: **the academy has sent its reply, not the advanced books**. The copied title is still a request waiting to be fulfilled. You have your existing borrowed texts and notebooks to work from tonight.
+
+Those are enough to begin preparing the examples.
+
+You settle into the familiar business of making your understanding look smaller on paper: choosing what to show, what to leave unexplained, and where an ordinary student might reasonably stop.
+
+Across the room, Corva starts her covering letter.
+
+Her pencil moves for several lines, pauses, then returns to the beginning. She crosses out a word.
+
+From where you sit, the replacement is visible.
+
+*My son.*
+
+---
+
+Name: Galahad  
+Age: Approximately thirteen months; accelerated adolescent development  
+Date: Planetfall + one standard year and eight days — evening  
+Reputation: Exceptionally capable station ward; Corva now openly describing him as her son  
+Weapons (Equipped): Small utility knife  
+Armor/Clothing (Equipped): Fitted work shirt, trousers and leather boots  
+Gear/Inventory: Study notebooks, borrowed books and academy correspondence; concealed incomplete firearm prototype and experimental parts; grey woollen cloth stored with belongings  
+Currency: None
+
+
+## 075 — User — Documentation request and book correction (outside the scene)
+
+Ok now please update the GitHub documentation. Please take your time and any documents you are updating please read them in full, line by line. This ensures you do not miss any outdated info, errors, mistakes or inconsistencies. Please take your time I am more than happy to wait.
+
+Also my bad I was being retarded you told me multiple times the book didn’t arrive and I kept carrying on as if it existed. Noted and corrected. I was reading through books I already had

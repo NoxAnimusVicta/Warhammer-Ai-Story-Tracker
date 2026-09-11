@@ -1,21 +1,21 @@
 {
   "format": "malaspina-dossier",
   "version": 1,
-  "revision": 18,
-  "updatedAt": "2026-09-11T05:44:44.315989+00:00",
+  "revision": 19,
+  "updatedAt": "2026-09-11T06:32:51.804240+00:00",
   "character": {
     "name": "Galahad",
-    "age": "Approximately five weeks chronological; accelerated juvenile development",
-    "date": "Planetfall, Day 8 \u2014 morning",
-    "reputation": "Accepted station ward; Superintendent Leont Vardesca supports continued care and supervised technical learning",
-    "weapons": "None",
-    "clothing": "Plain shirt, drawstring trousers, socks and soft leather shoes",
-    "inventory": "Grey woollen cloth kept with station bedding. Incubation pod remains in the ruined hillside glasshouse, reportedly unmoved according to Veskan. Last personally observed on Day 0 with chamber, life support and integrated power functioning, lid open and amniotic nutrient fluid drained.",
+    "age": "Approximately thirteen months chronological; accelerated adolescent development",
+    "date": "Planetfall + one standard year and eight days \u2014 evening",
+    "reputation": "Exceptionally capable station ward; some workers suspect concealed understanding. Corva now describes Galahad as her son.",
+    "weapons": "Small utility knife",
+    "clothing": "Fitted work shirt, trousers and leather boots",
+    "inventory": "Study notebooks, existing borrowed books and academy correspondence. Concealed incomplete firearm prototype and experimental parts. Grey woollen cloth stored with belongings. Incubation pod last reported at the glasshouse; no portable pod equipment recovered.",
     "currency": "None",
-    "location": "Serravonne, Vesalius \u2022 Railway station, maintenance room",
-    "condition": "Uninjured. Stable body\u2013soul integration. No chronic pain.",
-    "language": "Practical conversation in familiar contexts. Described his arrival, chose his name and explained his interest in mechanical function and design. Unfamiliar idioms, background references and terminology still need explanation. Vardesca demonstrated the written form of Galahad; independent reading has not yet been demonstrated.",
-    "notes": "The Day 8 meeting has concluded. Galahad chose to remain with Corva; Vardesca authorised meals and necessary clothing on the station account and promised written confirmation. Galahad chose his name after a brief inward whisper, experienced as his own voice yet also unfamiliar; its source remains unknown. Corva and Vardesca recorded the name. Only Corva and Veskan are established as knowing about the earlier psychic reception. Vardesca intends to arrange supervised workshop explanations and an inspection of the pod. Neither arrangement has yet been carried out. He and Veskan have stepped outside; Corva has gone toward the kitchen. No next activity has been chosen."
+    "location": "Serravonne, Vesalius \u2022 Railway station, kitchen study area",
+    "condition": "No current injury recorded; the flank wound from a flooded crossing has healed. Stable body\u2013soul integration. No chronic pain.",
+    "language": "Fluent local speech and independent reading and writing. Studies arithmetic, algebra, geometry, surveying calculations, mechanics, heat, electricity, geography and local history. Access to advanced references now limits further study more than basic comprehension.",
+    "notes": "After a year of study, workshop practice and private experiments, Galahad is preparing deliberately restrained examples of his understanding for an academy book request. He is working from books already available to him. The academy has sent correspondence requesting examples in mathematics, mechanical reasoning and completed work; no requested advanced books have arrived. Corva is drafting the covering letter and has written \u201cMy son\u201d after Galahad first addressed her as Mum. No submission has been sent or assessed. The evening\u2019s work has begun; morning has not yet arrived."
   },
   "journal": [
     {
@@ -132,11 +132,51 @@
       "date": "Day 8 \u2022 Morning",
       "title": "The meeting concludes",
       "body": "Vardesca offered to speak to the workshop foreman about safe, supervised explanations when staff had time. He also intended to arrange an inspection of the pod, which was to remain undisturbed. The superintendent departed with Veskan; Corva checked Galahad\u2019s new ledger entry and carried the kettle toward the kitchen. The interview ended with continued shelter confirmed and learning opportunities promised."
+    },
+    {
+      "date": "First year after Day 8",
+      "title": "Books and concealed understanding",
+      "body": "Galahad became fluent in speech, reading and writing, rapidly absorbing the accessible books. Arithmetic led to algebra, geometry and surveying calculations; manuals supplied mechanics, heat and electricity. Maps, shipping tables, newspapers and histories expanded his knowledge of the world and exposed conflicting accounts. Corva and Veskan found further books, but advanced references remained difficult to obtain. Galahad concealed much of his understanding; rapid growth and glimpses of his work nevertheless led some workers to suspect more."
+    },
+    {
+      "date": "First year after Day 8",
+      "title": "Work among the engines",
+      "body": "Vardesca\u2019s promise led to supervised workshop access, then useful maintenance and small repairs. A small utility knife was issued for ordinary tasks. Galahad learned familiar engines and fault relationships, while equipment access and available materials constrained fabrication. A discarded small engine was restored to motion but remained uneven under load. His clothing was replaced and his alcove bed lengthened as he grew toward Corva\u2019s height."
+    },
+    {
+      "date": "First year after Day 8",
+      "title": "A damaged line",
+      "body": "Hunters struck a pumping installation farther along the railway. Galahad encountered the aftermath rather than the attack: injured workers returned, deliveries were disrupted and repairs displaced lessons for several weeks."
+    },
+    {
+      "date": "First year after Day 8",
+      "title": "Private control",
+      "body": "Solitary practice progressed from moving a washer to lifting and rotating small objects with precision, and briefly suspending a heavy engine assembly. Fine control was harder than gross lifting. Distraction reduced precision; sustained effort brought hunger and fatigue. In quiet surroundings Galahad could sometimes reduce received mental impressions, though crowds and strong emotions remained intrusive. No lasting psychic mechanism or new material resulted."
+    },
+    {
+      "date": "First year after Day 8",
+      "title": "Beyond the perimeter",
+      "body": "Repeated secret night excursions established short routes and familiar landmarks beyond the walls. No one confronted Galahad about the outings. A rain-swollen crossing collapsed beneath him and drove him against submerged stone, opening his flank. He escaped through his own strength; the wound healed quickly but hurt during movement for several nights. No hunter was encountered face to face and no alien equipment was recovered."
+    },
+    {
+      "date": "First year after Day 8",
+      "title": "An unfinished challenge",
+      "body": "Galahad privately attempted to construct a firearm from available parts without dismantling an existing example. Several attempts were discarded. The remaining prototype was incomplete and unreliable, with no dependable ammunition supply. It stayed concealed with his work rather than accompanying his night journeys."
+    },
+    {
+      "date": "Planetfall + one standard year and eight days \u2022 Evening",
+      "title": "The academy reply",
+      "body": "Corva presented the academy\u2019s reply to her request for books. It required examples of mathematics, mechanical reasoning and completed work. Galahad deferred to her experience. She proposed truthful examples and a covering letter that omitted his arrival, while leaving the selection of work to him. Any meeting remained a possibility to consider later; no admission, book loan or assessment had been granted."
+    },
+    {
+      "date": "Planetfall + one standard year and eight days \u2022 Evening",
+      "title": "Mum",
+      "body": "Galahad casually thanked Corva as Mum, recognising her parental role. She was visibly moved, touched his forearm and accepted the address. A warm impression of the old kitchen alcove accompanied the moment. Galahad began preparing restrained examples using existing books and notebooks. Corva drafted the covering letter and replaced a word near its beginning with \u201cMy son\u201d."
     }
   ],
   "records": {
-    "relationships": "Corva \u2014 caregiver and teacher; continues to provide a bed and meals, and has entered Galahad in the station ledger. Veskan \u2014 railway patrol member who brought him to safety, supports his care and recognises his chosen name. Veskan\u2019s unnamed son died in a hunter attack on the line. Corva and Veskan alone are established as knowing of the disclosed psychic experiences. Leont Vardesca \u2014 railway superintendent; conducted the Day 8 inquiry, recorded Galahad\u2019s name, authorised station-funded care and offered supervised technical learning. He has not been told about the psychic reception. The workshop foreman, pump mechanic, patrol driver, rifleman and gate personnel remain unnamed.",
-    "research": "Observed rail drive and brake linkage, stove airflow and insulation, building functions, a wall telephone, hinges, catches, pulleys, taps and a demonstrated valve. Has watched an intermittent pump fault and the opening of its casing; no repair or diagnosis has been achieved. Literacy, telephone engineering and deeper engine workings remain unestablished. Emerging psychic reception carries fragmented sensory, emotional and verbal associations, sometimes linked to a speaker\u2019s memories. Meaning may persist without a complete memory; source and interpretation remain uncertain. No controlled telepathic technique, psychic device or new material has been demonstrated. Galahad articulated an interest in how mechanisms embody ideas and why particular designs were chosen. Vardesca introduced practical constraints of materials, cost, power and maintenance. Supervised workshop explanations are promised, not yet arranged with the foreman; no formal apprenticeship has begun. The fleeting whisper associated with choosing his name has no identified source.",
-    "holdings": "No territory, organisations, forces or wages. Galahad chose to remain with Corva in the station kitchen alcove. Vardesca authorised meals and necessary clothing on the station account; written confirmation is pending. Safe workshop observation with explanations is to be arranged as staff time permits. No personal tools or weapons have been granted. Vardesca ordered the pod left undisturbed pending an inspection he intends to arrange."
+    "relationships": "Corva \u2014 mother figure, caregiver and advocate. Galahad has called her Mum; she now writes of him as her son. She supplies books and is drafting an academy covering letter while respecting his choice of what to reveal. Veskan \u2014 trusted protector who brings manuals from other stations and sees more of Galahad\u2019s understanding than most. His unnamed son died in a hunter attack on the line. Leont Vardesca \u2014 superintendent whose authorised care and supervised workshop access supported the year\u2019s development. Some workers suspect Galahad understates his understanding; no official disclosure of his psychic abilities has occurred. The academy and its correspondents remain unnamed; only correspondence has been exchanged.",
+    "research": "Strong independent learning across available mathematical, scientific, geographical and historical texts. Useful engine maintenance and small repairs; one small-engine rebuild remains uneven under load. Private telekinesis includes delicate small-object manipulation and brief heavy lifting. Receptive impressions are better distinguished from hearing, with partial quiet-setting filtering; sources and truth remain uncertain. No durable psychic device or new material. A concealed firearm prototype remains incomplete and unreliable. Familiar wilderness routes and weather hazards learned through night excursions. Academy examples are being prepared below the level of his full understanding; no assessment has occurred.",
+    "holdings": "Continued accommodation and meals with Corva at the station; bed extended for growth, clothing replaced as needed. Supervised workshop experience and access to borrowed books, without unrestricted machine use. Small utility knife, notebooks and experimental parts. No territory, organisations, forces, wages or personal currency. Advanced academy books have not arrived. Corva\u2019s covering letter and Galahad\u2019s selected work remain in preparation."
   }
 }
