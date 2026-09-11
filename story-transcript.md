@@ -2258,3 +2258,573 @@ Currency: None
 Ok now please update the GitHub documentation. Please take your time and any documents you are updating please read them in full, line by line. This ensures you do not miss any outdated info, errors, mistakes or inconsistencies. Please take your time I am more than happy to wait.
 
 Also my bad I was being retarded you told me multiple times the book didn’t arrive and I kept carrying on as if it existed. Noted and corrected. I was reading through books I already had
+
+
+## 076 — User — Waiting for the academy
+
+Over the next couple of weeks I hand my designs to Corva and continue to learn and tinker the best I can until we hear back from the academy
+
+
+## 077 — Assistant — Progress note
+
+I’ll resolve Corva’s submission and the academy’s reply, alongside your continued study and tinkering.
+
+
+## 078 — Assistant — The Collegium replies
+
+Corva clears a space beside her ledger when you bring the designs.
+
+She examines each page before putting it with the others. At one drawing she pauses, turning it slightly toward the window.
+
+“This is the one you want them to see?”
+
+She accepts the selection you have brought. Your pages go beneath her covering letter, between two pieces of stiff card. She ties the packet, writes the address in her careful hand, and enters it in the station’s outgoing correspondence.
+
+**Auvrienne Collegium of Civil Engineering.**
+
+By evening, it is aboard a northbound train.
+
+***
+
+Thirteen days pass.
+
+The station supplies a steady succession of things to investigate: a valve that behaves differently after warming, a bearing worn unevenly despite apparently correct alignment, maintenance records whose repeated entries reveal that a supposedly repaired fault has been returning for years.
+
+Your existing books remain useful as references, although increasingly their omissions are more troublesome than their contents. Tables give values without explaining how they were obtained. Diagrams show finished mechanisms while saying little about the manufacturing decisions behind them.
+
+The small engine still resists a satisfactory conclusion.
+
+It runs more evenly without a burden. Under sustained load, the irregularity returns. The parts available to you introduce enough variation that changing one thing does not produce a clean comparison with the last attempt. Workshop machinery remains occupied with railway work, and permission to use it does not always coincide with the arrival of suitable material.
+
+Your notebooks accumulate observations. The engine remains unfinished.
+
+Outside the workshop, rain settles over Serravonne for three successive days. Water descends the station steps in shallow sheets. Porters hang their coats near the stove, turning them periodically so both sides have a chance to dry.
+
+The academy’s reply arrives on the thirteenth afternoon, in a flat packet with softened corners.
+
+There is no book parcel accompanying it.
+
+Corva cuts the string.
+
+***
+
+Your drawings lie inside, accompanied by two letters and a printed sheet.
+
+The first letter is short. The Collegium will not authorise the requested loan until your work has been independently verified.
+
+Corva reads that paragraph twice.
+
+Then she unfolds the second letter.
+
+This one bears a name beneath its signature:
+
+**Odran Savel — Examiner in Mechanics.**
+
+Unlike the first, it refers to particular pages.
+
+> The numerical results on the second sheet are correct, but the intervening work is absent. On the fourth, a conclusion requiring considerably more preparation appears beside an elementary treatment of the same mechanism. I cannot establish the applicant’s present instruction from these examples.
+
+There are small pencil marks on the returned drawings. Beside one calculation, Savel has written:
+
+*Show the derivation.*
+
+Beside another:
+
+*What permits this assumption?*
+
+Farther down the letter, his concern becomes explicit.
+
+> If the work is independently produced, a supervised exercise should resolve the matter. Until then, I cannot recommend access to the restricted lending collection.
+
+He does not identify how much you understand. He is not even satisfied that he knows whose understanding he has been shown.
+
+The printed sheet contains several problems in mathematics and mechanical reasoning. One presents a machine operating under stated conditions, then asks which conclusions would cease to hold if those conditions changed. Another requires an explanation in words as well as calculations.
+
+The accompanying instructions offer a supervised assessment at the Collegium in Auvrienne. A date can be arranged by correspondence.
+
+Corva lays the letter beside your pages.
+
+“They think someone helped you.”
+
+Her voice is quiet. She looks through the examiner’s comments again, then places one finger beside the passage about independent work.
+
+“He could have asked that plainly.”
+
+For a moment she says nothing. Rain ticks against the window behind her.
+
+“I told them these were yours. Apparently they want more than my word.”
+
+She draws the printed sheet closer, reads its heading, and pushes it gently across the table toward you.
+
+“Vardesca could confirm the work you’ve done here. So could the workshop. I can ask whether they’ll accept that before we start arranging a journey.”
+
+Her gaze returns to yours.
+
+“But I’d like to hear what you make of his comments first.”
+
+Your pages are spread between you, the examiner’s neat questions standing in the margins.
+
+---
+
+Name: Galahad  
+Age: Approximately thirteen and a half months; adolescent development  
+Date: Planetfall + one standard year and twenty-one days — afternoon  
+Reputation: Exceptionally capable station ward; academy examiner requests verification of independent work  
+Weapons (Equipped): Small utility knife  
+Armor/Clothing (Equipped): Work shirt, trousers, leather boots  
+Gear/Inventory: Notebooks, existing borrowed books, academy correspondence, returned annotated designs and assessment sheet; concealed incomplete firearm prototype and experimental parts; stored grey cloth  
+Currency: None
+
+
+## 079 — User — Suspecting the examiner
+
+“I think he is upset he is not as smart as me.” I say coldly while staring at the pages. “Or he thinks I couldn’t achieve such a feat because I do not come from wealth.”
+
+
+## 080 — Assistant — What the pages show
+
+Corva looks at you rather than the pages.
+
+“He might be.”
+
+She lets the words stand for a moment.
+
+“If you’d sent those drawings beneath a wealthy patron’s letter, I suspect you’d have received a more courteous answer. Perhaps the books, too.”
+
+Her thumb moves along the softened edge of the envelope.
+
+“People are very willing to mistake an expensive education for intelligence. It saves them having to judge either.”
+
+She draws the second sheet toward her.
+
+“But I don’t know this man. I don’t know whether he’s jealous, suspicious, or simply accustomed to seeing children submit work their tutors have done for them.”
+
+Outside, a trolley rattles past the kitchen window. Corva waits until the noise recedes.
+
+“Here. He says the answer is correct.”
+
+She touches the examiner’s first note.
+
+“And here, he wants to know how you reached it.”
+
+Her finger moves to the blank space between two calculations.
+
+“I can’t follow this far enough to tell him. You know that. There are things you explain to me now that I couldn’t have taught you.”
+
+There is no embarrassment in her voice.
+
+“If the steps between those lines seem obvious to you, perhaps you haven’t realised how much someone else needs to see.”
+
+She sits back, studying your expression.
+
+“You’ve spent quite a while letting people think you understand less than you do. I’ve kept quiet about it because you asked for that space.”
+
+A small pause.
+
+“Now you’ve sent someone a few pages and asked him to judge what you’re capable of.”
+
+She turns the drawing back toward you.
+
+“That may be harder to arrange neatly than you hoped.”
+
+Corva reaches for her pencil but does not begin writing.
+
+“I’ll support you if he treats you unfairly. I won’t have you dismissed because you live here, or because there isn’t a family crest at the top of my letters.”
+
+Her voice firms.
+
+“But before I accuse him of that, I want to know whether these are reasonable questions.”
+
+She indicates the pencilled *What permits this assumption?*
+
+“What would you tell him?”
+
+---
+
+Name: Galahad  
+Age: Approximately thirteen and a half months; adolescent development  
+Date: Planetfall + one standard year and twenty-one days — afternoon  
+Reputation: Exceptionally capable station ward; academy examiner requests verification of independent work  
+Weapons (Equipped): Small utility knife  
+Armor/Clothing (Equipped): Work shirt, trousers, leather boots  
+Gear/Inventory: Notebooks, existing borrowed books, academy correspondence, returned annotated designs and assessment sheet; concealed incomplete firearm prototype and experimental parts; stored grey cloth  
+Currency: None
+
+
+## 081 — User — The engine housing
+
+I trace my finger over the paper as I speak. “It’s a design for a modified engine housing. The struts give it extra structural integrity and provide linkage points..” I point at each point on the design “here, here and here. This spreads vibrations more evenly across the engine and should leader to several decades longer under load. It seems obvious to me, trains already create far more power than is required to propel them when not fully loaded. Less than a kilogram of extra engine stabilising for several decades of extra use seems obvious to me.” I say calmly
+
+
+## 082 — Assistant — The projected service life
+
+Corva follows your finger from one linkage point to the next.
+
+“The extra weight buys you a stronger mounting,” she says slowly. “And you expect that to make the housing last longer.”
+
+She turns the page toward the window, studying the lines you have indicated. This time she spends longer looking at the drawing than at the examiner’s handwriting.
+
+“Yes. I can follow that.”
+
+Her finger comes to rest beside the projected service life.
+
+“How do you know it gives you several decades?”
+
+There is curiosity in the question, without the edge of a challenge.
+
+“I’ve seen machinery come back from the workshop with another brace on it. Sometimes it lasts. Sometimes the next thing breaks somewhere else.”
+
+She glances toward the yard.
+
+“That doesn’t mean your design is wrong. But I’d want to know what makes yours different.”
+
+Corva draws a clean sheet from beside the ledger and lays it alongside the returned drawing.
+
+“What you just told me about those three points—put that in the reply. It helps. You can show him where the weight goes and what you expect it to accomplish.”
+
+Her pencil hovers over the examiner’s note.
+
+“But the years are a promise, Galahad. A railway might buy a hundred of these because someone promised they would last.”
+
+She looks at you.
+
+“If you’ve calculated it, show him the calculation. If you’ve seen something that proves it, tell him what. And if it’s what you expect, you can say that while you find a way to test it.”
+
+For a moment, the only sound in the kitchen is the rain against the glass.
+
+“I believe you understand things I don’t,” she adds. “That’s why I’m asking you to explain this part.”
+
+She leaves the pencil beside your hand.
+
+“What tells you how long it will last?”
+
+---
+
+Name: Galahad  
+Age: Approximately thirteen and a half months; adolescent development  
+Date: Planetfall + one standard year and twenty-one days — afternoon  
+Reputation: Exceptionally capable station ward; academy examiner requests verification of independent work  
+Weapons (Equipped): Small utility knife  
+Armor/Clothing (Equipped): Work shirt, trousers, leather boots  
+Gear/Inventory: Notebooks, existing borrowed books, academy correspondence, returned annotated designs and assessment sheet; concealed incomplete firearm prototype and experimental parts; stored grey cloth  
+Currency: None
+
+
+## 083 — User — Three piles of research
+
+I get up, dawdle over to my alcove and dig out a massive stack of paper from under my bed and then come and drop it on the table and separate it into 3 piles. It is just pages and pages of notes and research formulas. I point at the first pile “First proofs that I did the first few months I was here.” I point to the middle pile “Second iterations and basic testing, 6 months ago.” I point to the third pile “Current iterations and testing. I am years ahead of the people who write the books we have here. Why should I have to prove myself to them?”
+
+
+## 084 — Assistant — The extent of the work
+
+The stack lands heavily enough to make Corva lift her cup.
+
+She watches you divide it, then sets the cup on the windowsill, away from the papers.
+
+For a while she says nothing.
+
+There are pages she recognises: scraps from the station, the backs of old forms, sheets from notebooks she found for you. Among them are drawings worked over until the original lines are difficult to distinguish from their corrections. Dates. Columns of figures. The same structures appearing again with small, deliberate differences.
+
+She lifts a sheet from the first pile and compares it with one from the third.
+
+“I knew you were keeping things back.”
+
+Her voice is quieter now.
+
+“I didn’t know there was this much.”
+
+She returns both pages carefully.
+
+“I can’t tell you whether all of this is right. I wouldn’t know where to begin with some of it.”
+
+Corva looks up at you.
+
+“But I should have asked whether you’d already done the work before I started explaining that you needed to do it.”
+
+Outside, someone calls for a porter. A door slams farther along the building.
+
+Her eyes travel across the three piles once more.
+
+“You asked why you should have to prove yourself.”
+
+She folds her hands on the cleared edge of the table.
+
+“You don’t have to prove your worth to that man. You live here whether he sends you books or never writes another word.”
+
+There is a firmness to that which requires no raised voice.
+
+“But he has something you want, and he’s responsible for deciding who gets it. He’s seen a handful of drawings. He hasn’t watched you fill these pages.”
+
+She indicates the earliest pile.
+
+“Perhaps you’re ahead of him. Perhaps you could teach him something. From where he’s sitting, how would he know?”
+
+Her gaze settles on the notes marked as testing.
+
+“And if you are ahead, I think we should be careful about what we send. Enough to answer his question. We can keep the originals here.”
+
+She pauses, then reaches toward the third pile—but stops before taking a page.
+
+“Will you show me which test supports the years you put on the drawing?”
+
+---
+
+Name: Galahad  
+Age: Approximately thirteen and a half months; adolescent development  
+Date: Planetfall + one standard year and twenty-one days — afternoon  
+Reputation: Exceptionally capable station ward; Corva has seen the extent of his private research; academy verification pending  
+Weapons (Equipped): Small utility knife  
+Armor/Clothing (Equipped): Work shirt, trousers, leather boots  
+Gear/Inventory: Extensive dated research notes, calculations and testing records; borrowed books, academy correspondence, annotated designs and assessment sheet; concealed incomplete firearm prototype and experimental parts; stored grey cloth  
+Currency: None
+
+
+## 085 — User — Other fields of study
+
+I dig out several pages and align them with the drawings. “They contain other stuff as well not just proving the designs but I don’t want to cut up my research. There are some other formulas for energy improvements, engine lubrication and aerodynamics across some of these workings. There are also some projections for military and economic projections of a unified Eastern Vesalius and some political philosophy.” I say sheepishly then turn over a different page “I also have some basic improvements that I have tested over common divination practises that I have confirmed supersede current best practises.” I don’t like revealing how much I have caught in but Corva and Vaskan are the only two I trust to do this with because they are my parental figures
+
+
+## 086 — Assistant — One government
+
+Corva’s hand stills over the papers.
+
+For a moment, her attention remains on the engine drawings. Then she looks at the page you have turned over, and back to the sheets beneath it.
+
+“Divination?”
+
+She says it softly.
+
+She knew about the things you heard. She has watched small objects shift when your attention slipped toward them. But a written investigation, with workings and comparisons laid out beside the mechanics, gives her something different to consider.
+
+She does not pull away.
+
+Instead, she moves the academy’s envelope to the far end of the table.
+
+“These stay here.”
+
+Her eyes meet yours.
+
+“For now. You brought them to show me, and I won’t put them in a parcel because a man in Auvrienne wants an explanation.”
+
+She draws a fresh sheet toward the aligned calculations.
+
+“You don’t need to cut anything up. We can copy the parts about the housing onto separate paper. Keep the working that belongs with it, leave the rest in your notebooks. You can check every line before anything leaves this room.”
+
+Then her gaze catches on another page.
+
+Veyrasse. Caldrienne. Freight figures, production estimates, connections between places whose names she usually encounters on waybills.
+
+She reads farther.
+
+“A unified eastern Vesalius,” she murmurs.
+
+The kitchen seems particularly small around the spread of paper: the stove with its worn catch, the drying coats, the window looking out over a few rain-darkened tracks.
+
+Corva leans back.
+
+“I thought you were running out of books about engines.”
+
+There is a brief, incredulous smile. It fades into an expression more searching than disapproving.
+
+“I’m glad you showed me.”
+
+She touches the edge of the nearest sheet.
+
+“I may need you to explain most of it. And I may have questions you find very ordinary.”
+
+Her finger rests beside one of the political projections.
+
+“For instance, when you write *unified*—do you mean the governments agreeing to run things together? Or all of them answering to one government?”
+
+She looks up from the figures.
+
+“And what would happen to the people who didn’t want it?”
+
+---
+
+Name: Galahad  
+Age: Approximately thirteen and a half months; adolescent development  
+Date: Planetfall + one standard year and twenty-one days — afternoon  
+Reputation: Exceptionally capable station ward; Corva now knows his research extends into politics and psychic practice; academy verification pending  
+Weapons (Equipped): Small utility knife  
+Armor/Clothing (Equipped): Work shirt, trousers, leather boots  
+Gear/Inventory: Extensive engineering research and testing records; energy, lubrication and aerodynamic workings; regional military/economic projections and political philosophy; divination research and reported test results; borrowed books and academy correspondence; concealed incomplete firearm prototype and experimental parts; stored grey cloth  
+Currency: None
+
+
+## 087 — User — Unification and infamy
+
+“Under one government. I know I’m not old Mum, but I’m not stupid. I have read the history books you gave me back to cover multiple times. If all the governments could work together they already would. As for the people that don’t want it, the same thing that has happened to those people since the dawn of history. Infamy is always more preferable to ignominy.” I say matter of factly
+
+
+## 088 — Assistant — The people who refuse
+
+Corva’s expression changes at the last sentence.
+
+“Preferable to whom?”
+
+She leaves the question between you for a moment, then looks down at the projections.
+
+“I know you’re not stupid, Galahad. I wouldn’t be asking you these things if I thought you were only repeating something you’d read.”
+
+Her finger follows a line between two of the states.
+
+“One government might keep these railways open. It might stop us paying for the same frontier war every generation. I can see why you’d want that.”
+
+She pauses.
+
+“It might also decide that Serravonne can go hungry because somewhere more important needs the grain. We’d still have people making decisions about other people. They’d just have fewer rivals.”
+
+Corva draws her hand back from the paper.
+
+“And ‘the same thing that has happened since the dawn of history’ covers a great deal. Losing an election. Losing your house. Being imprisoned. Being killed.”
+
+Her voice remains level, although the warmth has become more guarded.
+
+“I need to know which of those you mean.”
+
+Rainwater trickles down the window behind her. She glances toward it, gathering her thoughts, before returning her attention to you.
+
+“You’ve put all this work into making an engine last longer. Every part has a purpose. Every change has a reason.”
+
+She taps the political notes once.
+
+“I’d like you to be just as particular here.”
+
+There is no demand that you put the papers away. She stays seated beside you.
+
+“If a man keeps working, pays what he owes and refuses to say your single government is a good thing—what happens to him?”
+
+---
+
+Name: Galahad  
+Age: Approximately thirteen and a half months; adolescent development  
+Date: Planetfall + one standard year and twenty-one days — afternoon  
+Reputation: Exceptionally capable station ward; Corva knows his wider research and is questioning his proposed methods; academy verification pending  
+Weapons (Equipped): Small utility knife  
+Armor/Clothing (Equipped): Work shirt, trousers, leather boots  
+Gear/Inventory: Engineering research and testing records; energy, lubrication and aerodynamic workings; regional military/economic projections and political philosophy; divination research and reported test results; borrowed books and academy correspondence; concealed incomplete firearm prototype and experimental parts; stored grey cloth  
+Currency: None
+
+
+## 089 — User — Victory and morality
+
+“I don’t need people to like it. A single man is not opposition. And if he wishes to stand in my way then he is free to do so just as freely as they are to step aside. History is written by the victor. Right or wrong matters very little unless you are in the winning side. Morality is a luxury of those who are still standing to ponder such topics. A feature of hindsight that is a slave to instinct and emotion.”
+
+
+## 090 — Assistant — What government is for
+
+“Your way,” Corva repeats.
+
+Her eyes move from your face to the projections.
+
+Until now, she has been discussing a government on paper. That small phrase gives her a clearer idea of where you might stand within it.
+
+She sits quietly for several breaths.
+
+“When you say someone is free to step aside, what you’re describing depends rather heavily on what you intend to do if they don’t.”
+
+There is no anger in her voice. She sounds careful.
+
+“And people who think you’ll punish an honest answer will give you a useful one instead. You’ll have officials telling you the stores are full because they’re frightened to admit the grain is gone. Men promising a bridge will hold because the person before them was dismissed for saying it wouldn’t.”
+
+She touches the academy’s letter.
+
+“You’re angry that this man might have judged your work by where you came from. You want him to recognise what is actually on the page.”
+
+Her hand withdraws.
+
+“I would want that protection from your government.”
+
+Corva looks tired for the first time since you brought out the papers. She takes her cup from the windowsill, discovers it has gone cold, and sets it down again without drinking.
+
+“I can believe you might accomplish something extraordinary. That makes these questions matter more to me.”
+
+She straightens the edge of one sheet, leaving the three piles otherwise undisturbed.
+
+“You’re my son. I’m going to ask you questions that a frightened official might learn to keep to himself.”
+
+Then she turns the political projection so that both of you can read it.
+
+“What is this government meant to achieve, Galahad? What would make you look at it, once you had won, and say it was working?”
+
+---
+
+Name: Galahad  
+Age: Approximately thirteen and a half months; adolescent development  
+Date: Planetfall + one standard year and twenty-one days — afternoon  
+Reputation: Exceptionally capable station ward; Corva is concerned by his views on power and opposition; academy verification pending  
+Weapons (Equipped): Small utility knife  
+Armor/Clothing (Equipped): Work shirt, trousers, leather boots  
+Gear/Inventory: Engineering research and testing records; energy, lubrication and aerodynamic workings; regional military/economic projections and political philosophy; divination research and reported test results; borrowed books and academy correspondence; concealed incomplete firearm prototype and experimental parts; stored grey cloth  
+Currency: None
+
+
+## 091 — User — An everlasting future
+
+“You phrase lies as useful answers. If someone told the Margrave there was enough food for 3 years and the Margrave found out there wasn’t enough to get through the next month, how quickly do you think that person would be executed? As for when it was working…..” I think about that for a long time. “When we were safe, stable and had secured an everlasting future for our people. When our reach extends into the stars and beyond.”
+
+
+## 092 — Assistant — Where it begins
+
+Corva waits while you think.
+
+At *the stars*, her gaze lifts briefly toward the window. Rain and low cloud conceal everything beyond the roofs.
+
+Then she looks back at you.
+
+“I meant an answer useful to the person trying to survive the conversation,” she says. “You’re right. It would be a disastrous answer to govern by.”
+
+She leaves that correction plainly stated.
+
+“If the punishment comes either way, some people will gamble on being found out later. I’d want someone able to bring bad news while there was still time to act on it.”
+
+Her attention returns to the papers.
+
+“Safe. Stable.”
+
+She says those words more slowly than the others.
+
+“And a future where those things”—her eyes flick upward again—“can’t simply arrive whenever they please.”
+
+For a while she studies the figures without speaking. The familiar railway names beneath her fingers seem to occupy a much smaller part of the conversation now.
+
+“I can understand wanting that.”
+
+There is warmth in her voice again, though the concern has not left her face.
+
+“I don’t know what an everlasting future would look like. I’d be grateful for a winter when nobody had to wonder whether the next alarm meant losing someone.”
+
+She draws a breath.
+
+“But if you could give people more than that—if you could give their children somewhere better to live—I would want you to try.”
+
+Corva reaches across the papers and rests her hand beside yours.
+
+“I’d also want to be able to tell you when the people you were trying to protect had begun to fear you.”
+
+She lets the silence settle, then looks toward the engine drawing lying underneath the political projections.
+
+“You’ve a very long way to go from this table.”
+
+It is an observation, spoken without ridicule.
+
+After another moment, she draws the clean copying paper closer.
+
+“Tell me where you think it begins.”
+
+---
+
+Name: Galahad  
+Age: Approximately thirteen and a half months; adolescent development  
+Date: Planetfall + one standard year and twenty-one days — afternoon  
+Reputation: Exceptionally capable station ward; Corva understands his ambition to secure humanity’s future, while remaining concerned about his methods; academy verification pending  
+Weapons (Equipped): Small utility knife  
+Armor/Clothing (Equipped): Work shirt, trousers, leather boots  
+Gear/Inventory: Engineering research and testing records; energy, lubrication and aerodynamic workings; regional military/economic projections and political philosophy; divination research and reported test results; borrowed books and academy correspondence; concealed incomplete firearm prototype and experimental parts; stored grey cloth  
+Currency: None
+
+
+## 093 — User — Documentation checkpoint (outside the scene)
+
+Ok now please update the GitHub documentation. Please take your time and any documents you are updating please read them in full, line by line. This ensures you do not miss any outdated info, errors, mistakes or inconsistencies. Please take your time I am more than happy to wait.

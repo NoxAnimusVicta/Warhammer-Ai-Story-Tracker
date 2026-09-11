@@ -1,21 +1,21 @@
 {
   "format": "malaspina-dossier",
   "version": 1,
-  "revision": 22,
-  "updatedAt": "2026-09-11T07:50:01.247286+00:00",
+  "revision": 23,
+  "updatedAt": "2026-09-11T12:02:21.863362+00:00",
   "character": {
     "name": "Galahad",
-    "age": "Approximately thirteen months chronological; accelerated adolescent development",
-    "date": "Planetfall + one standard year and eight days \u2014 evening",
-    "reputation": "Exceptionally capable station ward; some workers suspect concealed understanding. Corva now describes Galahad as her son.",
+    "age": "Approximately thirteen and a half months chronological; accelerated adolescent development",
+    "date": "Planetfall + one standard year and twenty-one days \u2014 afternoon",
+    "reputation": "Exceptionally capable station ward; academy verification pending. Corva now knows the breadth of his private research and his ambition for a secure human future, while remaining concerned about his methods.",
     "weapons": "Small utility knife",
     "clothing": "Fitted work shirt, trousers and leather boots",
-    "inventory": "Study notebooks, existing borrowed books and academy correspondence. Concealed incomplete firearm prototype and experimental parts. Grey woollen cloth stored with belongings. Incubation pod last reported at the glasshouse; no portable pod equipment recovered.",
+    "inventory": "Extensive dated research notes, calculations and testing records; engineering designs, energy, lubrication and aerodynamic workings; regional military and economic projections, political philosophy and divination research. Existing borrowed books, academy letters, returned annotated designs and an assessment sheet. Concealed incomplete firearm prototype and experimental parts. Grey woollen cloth stored with belongings. Incubation pod last reported at the glasshouse; no portable pod equipment recovered.",
     "currency": "None",
     "location": "Serravonne, Vesalius \u2022 Railway station, kitchen study area",
     "condition": "No current injury recorded; the flank wound from a flooded crossing has healed. Stable body\u2013soul integration. No chronic pain.",
-    "language": "Fluent local speech and independent reading and writing. Studies arithmetic, algebra, geometry, surveying calculations, mechanics, heat, electricity, geography and local history. Access to advanced references now limits further study more than basic comprehension.",
-    "notes": "After a year of study, workshop practice and private experiments, Galahad is preparing deliberately restrained examples of his understanding for an academy book request. He is working from books already available to him. The academy has sent correspondence requesting examples in mathematics, mechanical reasoning and completed work; no requested advanced books have arrived. Corva is drafting the covering letter and has written \u201cMy son\u201d after Galahad first addressed her as Mum. No submission has been sent or assessed. The evening\u2019s work has begun; morning has not yet arrived."
+    "language": "Fluent local speech and independent reading and writing. Broad study of available mathematics, science, mechanics, geography and history; independent work now extends into energy, lubrication, aerodynamics, political economy and divination. Advanced references remain difficult to obtain.",
+    "notes": "The Auvrienne Collegium of Civil Engineering has returned the submitted designs. Examiner Odran Savel requests verification of independent work before recommending access to the restricted lending collection; no requested advanced books have arrived. A supervised assessment in Auvrienne is offered, with a date to be arranged.\n\nAt the kitchen table, Galahad has shown Corva three chronological groups of research and explained his aim of uniting eastern Vesalius under one government. He seeks safety, stability and an enduring future for his people reaching into the stars. Corva supports the hope of a better future and questions how he would exercise power. The original papers remain at home. She has drawn fresh copying paper closer and asked: \u201cTell me where you think it begins.\u201d"
   },
   "journal": [
     {
@@ -172,11 +172,46 @@
       "date": "Planetfall + one standard year and eight days \u2022 Evening",
       "title": "Mum",
       "body": "Galahad casually thanked Corva as Mum, recognising her parental role. She was visibly moved, touched his forearm and accepted the address. A warm impression of the old kitchen alcove accompanied the moment. Galahad began preparing restrained examples using existing books and notebooks. Corva drafted the covering letter and replaced a word near its beginning with \u201cMy son\u201d."
+    },
+    {
+      "date": "Thirteen days before the Collegium reply",
+      "title": "The selected packet",
+      "body": "Galahad handed his deliberately restrained designs to Corva. She enclosed them with her covering letter and sent the packet north to the Auvrienne Collegium of Civil Engineering. Study and tinkering continued through the following thirteen days. The small engine remained irregular under sustained load."
+    },
+    {
+      "date": "Planetfall + one standard year and twenty-one days \u2022 Afternoon",
+      "title": "Verification requested",
+      "body": "The Collegium returned the drawings with two letters and a printed assessment sheet. Examiner Odran Savel acknowledged correct results but questioned missing derivations and inconsistent levels of exposition. The advanced-book loan was withheld pending independent verification. A supervised exercise in Auvrienne was offered; Corva suggested asking whether local railway testimony could establish the work first."
+    },
+    {
+      "date": "Planetfall + one standard year and twenty-one days \u2022 Afternoon",
+      "title": "The housing and its promise",
+      "body": "Galahad suspected jealousy or class prejudice behind the response. Corva acknowledged the possibility without claiming to know Savel\u2019s motives. Galahad explained the housing\u2019s struts and linkage points, projecting several decades of additional service for less than a kilogram of extra material. Corva understood the rationale and asked what supported the lifespan estimate."
+    },
+    {
+      "date": "Planetfall + one standard year and twenty-one days \u2022 Afternoon",
+      "title": "Three piles",
+      "body": "Galahad retrieved a large body of papers from beneath his bed and divided it into first proofs, second iterations and basic testing, and current work. Corva recognised the extent of his research and apologised for assuming he had not already done the work. She proposed showing enough to answer the examiner while retaining the originals."
+    },
+    {
+      "date": "Planetfall + one standard year and twenty-one days \u2022 Afternoon",
+      "title": "Beyond the engine",
+      "body": "The aligned pages also contained energy, lubrication and aerodynamic workings, military and economic projections for a unified eastern Vesalius, political philosophy and divination research. Galahad reported successful improvements over common divination practices in his own tests. Corva promised to keep the mixed papers at home for now and proposed copying relevant engineering work onto clean sheets."
+    },
+    {
+      "date": "Planetfall + one standard year and twenty-one days \u2022 Afternoon",
+      "title": "Power and opposition",
+      "body": "Galahad specified unification under one government, doubted voluntary cooperation between the existing states and preferred infamy to ignominy. He argued that victory determines whose history endures and treated morality as subordinate to survival. Corva questioned what would happen to dissenters and how fear might distort official reports. She affirmed that she would ask difficult questions because he was her son."
+    },
+    {
+      "date": "Planetfall + one standard year and twenty-one days \u2022 Afternoon",
+      "title": "Into the stars",
+      "body": "Galahad challenged the usefulness of dishonest reports and described the desired result of his government: safety, stability and an everlasting future for his people, reaching into the stars and beyond. Corva clarified that a lie could serve a frightened official while harming government. She supported the hope of a better future, wanted to remain free to question his methods, and drew the copying paper closer. \u201cTell me where you think it begins.\u201d"
     }
   ],
   "records": {
-    "relationships": "Corva \u2014 mother figure, caregiver and advocate. Galahad has called her Mum; she now writes of him as her son. She supplies books and is drafting an academy covering letter while respecting his choice of what to reveal. Veskan \u2014 trusted protector who brings manuals from other stations and sees more of Galahad\u2019s understanding than most. His unnamed son died in a hunter attack on the line. Leont Vardesca \u2014 superintendent whose authorised care and supervised workshop access supported the year\u2019s development. Some workers suspect Galahad understates his understanding; no official disclosure of his psychic abilities has occurred. The academy and its correspondents remain unnamed; only correspondence has been exchanged.",
-    "research": "Strong independent learning across available mathematical, scientific, geographical and historical texts. Useful engine maintenance and small repairs; one small-engine rebuild remains uneven under load. Private telekinesis includes delicate small-object manipulation and brief heavy lifting. Receptive impressions are better distinguished from hearing, with partial quiet-setting filtering; sources and truth remain uncertain. No durable psychic device or new material. A concealed firearm prototype remains incomplete and unreliable. Familiar wilderness routes and weather hazards learned through night excursions. Academy examples are being prepared below the level of his full understanding; no assessment has occurred. Regional knowledge includes Veyrasse and its neighbours, the Cressault armistice, trade dependencies and local military institutions, learned through the year\u2019s reading, railway conversation and news. The regional atlas records administrative seats, kilometre distances and ordinary rail and sea passage estimates.",
-    "holdings": "Continued accommodation and meals with Corva at the station; bed extended for growth, clothing replaced as needed. Supervised workshop experience and access to borrowed books, without unrestricted machine use. Small utility knife, notebooks and experimental parts. No territory, organisations, forces, wages or personal currency. Advanced academy books have not arrived. Corva\u2019s covering letter and Galahad\u2019s selected work remain in preparation."
+    "relationships": "Corva \u2014 mother figure, caregiver and advocate; she now writes of him as her son. She posted his selected designs with her covering letter and has now been shown the three research piles and their wider political and psychic contents. She has also seen occasional small objects move under his influence. She remains protective, promises to keep these papers at home for now and offers help copying relevant calculations. His views on victory, morality and opposition concern her; she wants to be able to question him honestly.\n\nVeskan \u2014 trusted parental figure and protector who brings manuals from other stations and sees more of Galahad\u2019s understanding than most. His unnamed son died in a hunter attack on the line.\n\nLeont Vardesca \u2014 superintendent whose authorised care and supervised workshop access supported the year\u2019s development. Corva has suggested seeking his or the workshop\u2019s verification of local work.\n\nOdran Savel \u2014 Examiner in Mechanics at the Auvrienne Collegium of Civil Engineering. Correct numerical results, missing derivations and uneven exposition leave him uncertain of the submitted work\u2019s independent authorship and Galahad\u2019s level of instruction. He offers a supervised assessment. Galahad suspects jealousy or class prejudice; Corva has not met the examiner and cannot establish his motive. Some station workers already suspect concealed understanding. Psychic abilities have not been disclosed to officials.",
+    "research": "Extensive dated work arranged in three groups: first proofs from the initial months at the station; second iterations and basic testing from about six months ago; current iterations and tests. The papers combine several subjects, with corrections and repeated development across the year.\n\nEngineering: a modified engine housing uses added struts and linkage points to distribute vibration and improve structural integrity. Galahad projects several decades of additional life under load for less than a kilogram of added material. He has aligned supporting research with the drawings; Corva cannot independently assess all the calculations. Work also covers energy improvements, engine lubrication and aerodynamics. Useful maintenance and small repairs continue. The separate small-engine rebuild runs more evenly unloaded but remains irregular under sustained load; available parts and workshop access constrain fabrication.\n\nPsychic practice: controlled small-object manipulation and brief heavy lifting; partial filtering of received impressions in quiet settings. Galahad has shown divination workings and reports that personal tests improve on the common practices he has studied. Exact comparative procedures and limits have not been detailed. No lasting psychic mechanism or new material has been constructed. The concealed firearm prototype remains incomplete and unreliable, without a dependable ammunition supply.\n\nPolitical studies: military and economic projections for a unified eastern Vesalius, supported by regional histories, freight figures and production estimates. Galahad favours one government and distrusts the prospect of existing governments simply cooperating. He places victory and survival above conventional moral judgement, distinguishes personal disapproval from opposition, and envisages safety, stability and a future extending into space. His conversation with Corva has not yet produced an operational plan.\n\nRegional knowledge includes Veyrasse and its neighbours, the Cressault armistice, trade dependencies and local military institutions. The atlas records administrative seats, kilometre distances and ordinary passage estimates. Short wilderness routes and weather hazards are known from private night excursions.",
+    "holdings": "Continued accommodation and meals with Corva at the station; extended alcove bed and replacement work clothing. Supervised workshop experience and borrowed books, without unrestricted machine use. Small utility knife, extensive original research papers and experimental parts. No territory, organisations, forces, wages or personal currency.\n\nThe selected sample packet has been sent and returned with annotations. Advanced academy books have not arrived; the loan is withheld pending independent verification. Two new letters and a printed assessment sheet accompany the returned drawings. The offered assessment in Auvrienne has no arranged date. Corva has proposed local verification and copying selected engineering workings; no second submission or completed assessment is recorded."
   }
 }
