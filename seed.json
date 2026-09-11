@@ -1,21 +1,21 @@
 {
   "format": "malaspina-dossier",
   "version": 1,
-  "revision": 17,
-  "updatedAt": "2026-09-11T04:37:22.043429+00:00",
+  "revision": 18,
+  "updatedAt": "2026-09-11T05:44:44.315989+00:00",
   "character": {
-    "name": "Unnamed",
+    "name": "Galahad",
     "age": "Approximately five weeks chronological; accelerated juvenile development",
-    "date": "Planetfall, Day 7 \u2014 morning",
-    "reputation": "Trusted foundling under Corva\u2019s care; psychic sensitivity known privately to Corva and Veskan",
+    "date": "Planetfall, Day 8 \u2014 morning",
+    "reputation": "Accepted station ward; Superintendent Leont Vardesca supports continued care and supervised technical learning",
     "weapons": "None",
     "clothing": "Plain shirt, drawstring trousers, socks and soft leather shoes",
-    "inventory": "Grey woollen cloth kept with station bedding. Incubation pod left in the ruined hillside glasshouse; last observed on Day 0 with chamber, life support and integrated power functioning, lid open and amniotic nutrient fluid drained.",
+    "inventory": "Grey woollen cloth kept with station bedding. Incubation pod remains in the ruined hillside glasshouse, reportedly unmoved according to Veskan. Last personally observed on Day 0 with chamber, life support and integrated power functioning, lid open and amniotic nutrient fluid drained.",
     "currency": "None",
     "location": "Serravonne, Vesalius \u2022 Railway station, maintenance room",
     "condition": "Uninjured. Stable body\u2013soul integration. No chronic pain.",
-    "language": "Practical conversation in familiar contexts after a week of immersion. Can describe observations, ask questions and explain experiences. Unfamiliar idioms, background references and abstract vocabulary still cause gaps; \u201cquestion solutions\u201d preceded learning \u201canswers\u201d. Literacy has not yet been demonstrated.",
-    "notes": "Has spent the week staying with Corva, receiving regular meals, clothing and a bed in the kitchen alcove. Reports frequent involuntary impressions, images and unspoken words that help him learn; cannot yet stop the reception and values its usefulness. Corva and Veskan have offered help distinguishing speech, received impressions and interpretation. Their offer has not yet been answered. Care continues. The superintendent is expected here on Day 8 morning; both adults intend to attend. Veskan has stepped into the yard. Corva has offered a pause from questions; no next activity has been chosen."
+    "language": "Practical conversation in familiar contexts. Described his arrival, chose his name and explained his interest in mechanical function and design. Unfamiliar idioms, background references and terminology still need explanation. Vardesca demonstrated the written form of Galahad; independent reading has not yet been demonstrated.",
+    "notes": "The Day 8 meeting has concluded. Galahad chose to remain with Corva; Vardesca authorised meals and necessary clothing on the station account and promised written confirmation. Galahad chose his name after a brief inward whisper, experienced as his own voice yet also unfamiliar; its source remains unknown. Corva and Vardesca recorded the name. Only Corva and Veskan are established as knowing about the earlier psychic reception. Vardesca intends to arrange supervised workshop explanations and an inspection of the pod. Neither arrangement has yet been carried out. He and Veskan have stepped outside; Corva has gone toward the kitchen. No next activity has been chosen."
   },
   "journal": [
     {
@@ -102,11 +102,41 @@
       "date": "Day 7 \u2022 Morning",
       "title": "A place remains",
       "body": "The subject said the reception happened all the time, could not be stopped and was helpful; he did not wish to stop learning through it. He told Veskan that the boy had been happy and linked this to feeling safe. Veskan was grateful. Corva explained that receiving something useful could still be difficult for the person whose memory it was. They offered help distinguishing speech, impressions and interpretation. Veskan affirmed that the subject could stay. Both adults intended to attend tomorrow\u2019s meeting. Veskan left for the yard; Corva put the report beneath her ledger and offered a pause. The pump remained dismantled, and the next activity was left open."
+    },
+    {
+      "date": "Day 8 \u2022 Morning",
+      "title": "The superintendent arrives",
+      "body": "After following his usual routine and sleeping, the subject met railway superintendent Leont Vardesca in the station maintenance room on a rainy morning. Corva and Veskan attended. Vardesca asked for the earliest remembered events and explained his concern for people working near the landing site."
+    },
+    {
+      "date": "Day 8 \u2022 Morning",
+      "title": "An account of planetfall",
+      "body": "The subject recalled rumbling, crashing, a sudden stop and the draining fluid, followed by leaving the chamber and seeing Veskan. He clarified that the chamber opened by itself after it stopped moving. Veskan confirmed wet ground around the apparatus and reported that it had not been moved. Vardesca instructed the patrol to prevent entry or dismantling pending further assessment."
+    },
+    {
+      "date": "Day 8 \u2022 Morning",
+      "title": "Care authorised",
+      "body": "Asked whether he wanted to remain with Corva, the subject nodded. Vardesca authorised meals and necessary clothing on the station account, with supervision in the working yard. He retained responsibility for the report and asked to be notified before anyone seeking the child was brought to him. Written confirmation of the care arrangement was promised."
+    },
+    {
+      "date": "Day 8 \u2022 Morning",
+      "title": "Galahad",
+      "body": "A brief inward whisper preceded the choice: \u201cGalahad. I want to be called Galahad.\u201d The voice seemed both his own and unfamiliar; no source was identified. Asked whether the name was remembered or newly thought of, he answered that it was his name and the one he chose. Corva entered Galahad in her ledger, and Vardesca recorded it in his notebook and demonstrated its written form. Veskan recognised the choice. No surname was introduced."
+    },
+    {
+      "date": "Day 8 \u2022 Morning",
+      "title": "Ideas made real",
+      "body": "Galahad described machines as \u201ca web of ideas made real\u201d, explaining that he wanted to understand their purposes, functions and design choices. Vardesca discussed cost, casting, available power, repair access and copied designs, referring to an expensive old harbour pump. Galahad said he did not yet understand enough to propose improvements. No invention, diagnosis or repair was claimed."
+    },
+    {
+      "date": "Day 8 \u2022 Morning",
+      "title": "The meeting concludes",
+      "body": "Vardesca offered to speak to the workshop foreman about safe, supervised explanations when staff had time. He also intended to arrange an inspection of the pod, which was to remain undisturbed. The superintendent departed with Veskan; Corva checked Galahad\u2019s new ledger entry and carried the kettle toward the kitchen. The interview ended with continued shelter confirmed and learning opportunities promised."
     }
   ],
   "records": {
-    "relationships": "Corva \u2014 station caregiver and teacher; provides shelter, meals and clothing, calls the subject \u201clittle scholar\u201d, and now knows privately of his psychic experiences. Veskan \u2014 railway patrol member who brought him to safety; has reaffirmed that he can stay. His unnamed son died during a hunter attack on the line. Both adults favour discretion and intend to attend the superintendent\u2019s visit. The superintendent is an unnamed railway official expected on Day 8 morning; no meeting has occurred. The pump mechanic, patrol driver, rifleman and gate personnel remain unnamed.",
-    "research": "Observed rail drive and brake linkage, stove airflow and insulation, building functions, a wall telephone, hinges, catches, pulleys, taps and a demonstrated valve. Has watched an intermittent pump fault and the opening of its casing; no repair or diagnosis has been achieved. Literacy, telephone engineering and deeper engine workings remain unestablished. Emerging psychic reception carries fragmented sensory, emotional and verbal associations, sometimes linked to a speaker\u2019s memories. Meaning may persist without a complete memory; source and interpretation remain uncertain. No controlled telepathic technique, psychic device or new material has been demonstrated.",
-    "holdings": "No territory, organisations or forces. Ongoing shelter and care with Corva at the station; bed in the kitchen alcove. No personal tools or weapons. The enamel cup used on the first evening was borrowed station tableware."
+    "relationships": "Corva \u2014 caregiver and teacher; continues to provide a bed and meals, and has entered Galahad in the station ledger. Veskan \u2014 railway patrol member who brought him to safety, supports his care and recognises his chosen name. Veskan\u2019s unnamed son died in a hunter attack on the line. Corva and Veskan alone are established as knowing of the disclosed psychic experiences. Leont Vardesca \u2014 railway superintendent; conducted the Day 8 inquiry, recorded Galahad\u2019s name, authorised station-funded care and offered supervised technical learning. He has not been told about the psychic reception. The workshop foreman, pump mechanic, patrol driver, rifleman and gate personnel remain unnamed.",
+    "research": "Observed rail drive and brake linkage, stove airflow and insulation, building functions, a wall telephone, hinges, catches, pulleys, taps and a demonstrated valve. Has watched an intermittent pump fault and the opening of its casing; no repair or diagnosis has been achieved. Literacy, telephone engineering and deeper engine workings remain unestablished. Emerging psychic reception carries fragmented sensory, emotional and verbal associations, sometimes linked to a speaker\u2019s memories. Meaning may persist without a complete memory; source and interpretation remain uncertain. No controlled telepathic technique, psychic device or new material has been demonstrated. Galahad articulated an interest in how mechanisms embody ideas and why particular designs were chosen. Vardesca introduced practical constraints of materials, cost, power and maintenance. Supervised workshop explanations are promised, not yet arranged with the foreman; no formal apprenticeship has begun. The fleeting whisper associated with choosing his name has no identified source.",
+    "holdings": "No territory, organisations, forces or wages. Galahad chose to remain with Corva in the station kitchen alcove. Vardesca authorised meals and necessary clothing on the station account; written confirmation is pending. Safe workshop observation with explanations is to be arranged as staff time permits. No personal tools or weapons have been granted. Vardesca ordered the pod left undisturbed pending an inspection he intends to arrange."
   }
 }

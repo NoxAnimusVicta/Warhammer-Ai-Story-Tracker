@@ -1379,3 +1379,559 @@ Currency: None
 ## 049 — Player · Publication checkpoint (outside the scene)
 
 Ok now please update the GitHub documentation. Please take your time and any documents you are updating please read them in full, line by line. This ensures you do not miss any outdated info, errors, mistakes or inconsistencies. Please take your time I am more than happy to wait.
+
+
+## 050 — Player · Waiting for the superintendent
+
+Ok, I follow my usual routine and sleep and then wait until the superintendent arrives. (The superintendent arriving and this conversation starting is the main focus here)
+
+
+## 051 — Assistant · Progress note
+
+I’ll pick up from the recorded checkpoint and bring us to the superintendent’s arrival the following morning.
+
+
+## 052 — Assistant · Leont Vardesca arrives
+
+The remainder of the day passes within the station’s familiar rhythms. Meals, voices, the clatter of work beyond the kitchen. When night comes, you sleep in the alcove beneath the blanket Corva provided.
+
+By the following morning, rain has darkened the yard.
+
+Water ticks from the workshop gutter into an iron barrel. Beyond the windows, workers cross between buildings with their collars raised, boots disturbing the thin sheen of coal dust floating on the puddles.
+
+Veskan arrives before the superintendent. He hangs his wet coat beside the door and takes a place near Corva’s desk.
+
+Corva has cleared its surface.
+
+The ledger remains. So does the folded report.
+
+A little later, the gate bell sounds.
+
+The man who enters wears a charcoal coat with a stiff, rain-darkened shoulder cape. A small brass wheel is pinned to his collar, its spokes polished brighter than the surrounding metal. He is broad through the middle, with greying hair cut close above his ears and a pale scar running through one eyebrow.
+
+He pauses on the mat to scrape mud from his boots.
+
+“Corva.”
+
+“Superintendent.”
+
+His gaze passes over Veskan, the desk, then settles on you.
+
+For a moment, he simply looks.
+
+“You weren’t exaggerating about the hair,” he says.
+
+“Nothing in the report was an exaggeration,” Veskan replies.
+
+The superintendent accepts that with a small inclination of his head. He removes his gloves finger by finger and places them inside his coat pocket.
+
+“Leont Vardesca,” he says to you. “I look after this railway.”
+
+“The superintendent,” Corva adds, connecting the familiar title to the man.
+
+“Yes. Though you needn’t wrestle with that every time you want my attention.”
+
+He draws a chair away from the desk.
+
+“May I?”
+
+Corva gestures toward it. He sits, leaving the desk to one side rather than placing it between you.
+
+Up close, his hands look less like Corva’s than Veskan’s: thick fingers, old burns, one nail permanently split down the centre. His eyes remain attentive, moving briefly toward the alcove before returning to you.
+
+“Have you been comfortable here?”
+
+“He’s been fed and looked after,” Corva says.
+
+“I can see that.” His tone stays mild. “I was asking whether he thinks so.”
+
+She gives him a measured look, then steps back beside the desk.
+
+Vardesca rests his hands on his knees.
+
+“Veskan says you couldn’t speak to him when he found you. Now, apparently, you can explain yourself quite well.”
+
+“About things he knows,” Corva says. “There’s plenty he hasn’t encountered.”
+
+“Then we’ll take our time.”
+
+He glances at the folded report without reaching for it.
+
+“I have men asking whether it’s safe to work on that stretch of line. I have a report of something falling out of the sky, and three witnesses who found you beside it.” His gaze returns to your face. “What I don’t have is your account.”
+
+The stove gives a soft metallic click as it heats.
+
+Vardesca leans forward a little.
+
+“Tell me the first thing you remember. Before you met Veskan, if you can.”
+
+---
+
+Name: Unnamed  
+Age: Approximately five weeks; accelerated juvenile development  
+Date: Planetfall, Day 8 — morning  
+Reputation: Trusted foundling under Corva’s care; now meeting the railway superintendent  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Plain shirt, drawstring trousers, socks and soft leather shoes  
+Gear/Inventory: Grey woollen cloth with station bedding; pod left in the glasshouse  
+Currency: None
+
+
+## 053 — Player · Earliest recollection
+
+“Rumbling, crashing and a sudden stop. Then the fluid I was in drained away and I crawled out of whatever I was in. Then I saw Veskan.” I say simply and confidently
+
+
+## 054 — Assistant · How the chamber opened
+
+Vardesca listens without interrupting.
+
+At the mention of the fluid, his eyes shift briefly toward Veskan.
+
+“It was wet around the thing,” Veskan says. “Some of it running through the planting bed.”
+
+The superintendent nods.
+
+“And you were inside it.”
+
+He says this quietly, as though correcting a picture he had formed before entering the room.
+
+Rain patters against the window. Vardesca takes a small notebook from his coat, opens it and draws a pencil from the binding.
+
+“I’m going to write that down,” he tells you.
+
+The pencil moves in short, scratching strokes.
+
+“Rumbling. An impact. Fluid draining.”
+
+“A crash,” Corva says. “He may not know *impact*.”
+
+Vardesca looks up.
+
+“A crash,” he agrees.
+
+He finishes the line, then rests the pencil across the open book.
+
+“Were you hurt?”
+
+“He hasn’t shown any injury,” Corva says. “Nor complained of one.”
+
+Vardesca waits a moment, giving you room to answer for yourself, before continuing.
+
+“Veskan’s report says the lid was open when they found you. I had wondered whether someone brought you there and left before the patrol arrived.”
+
+His thumb holds the notebook open.
+
+“If you remember the journey inside it, that changes things.”
+
+“How?” Veskan asks.
+
+“It means we should stop looking for cart tracks and start being careful about what we touch.”
+
+“We haven’t moved it.”
+
+“Good. Keep it that way until we know more.”
+
+There is no accusation in his voice. He studies you again, this time with his brow slightly drawn.
+
+“The thing you came out of—did it open by itself, or did you do something to make it open?”
+
+---
+
+Name: Unnamed  
+Age: Approximately five weeks; accelerated juvenile development  
+Date: Planetfall, Day 8 — morning  
+Reputation: Trusted foundling; giving the superintendent an account of his arrival  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Plain shirt, drawstring trousers, socks and soft leather shoes  
+Gear/Inventory: Grey woollen cloth with station bedding; pod remains in the glasshouse, reportedly unmoved  
+Currency: None
+
+
+## 055 — Player · Automatic opening
+
+“Neither. It opened on its own once it had stopped moving.”
+
+
+## 056 — Assistant · An offer to remain
+
+Vardesca’s pencil pauses.
+
+Then he nods.
+
+“Once it stopped. You didn’t have to do anything.”
+
+He writes another line.
+
+Veskan shifts beside the desk. “Like a release on a coupling?”
+
+“Possibly.”
+
+The superintendent looks at him.
+
+“Keep anyone curious away from it. If they need to work nearby, they can work nearby. Nobody climbs inside or starts pulling pieces off.”
+
+“I’ll tell the patrol.”
+
+Vardesca turns back to you.
+
+“You’ve helped with something already. We know it carried you, kept you in fluid, and let you out after it landed. That gives us somewhere to start.”
+
+He closes the notebook around his pencil.
+
+His attention settles on your face again, lingering on your eyes.
+
+“Corva tells me you’ve been learning quickly.”
+
+“He remembers what I explain,” she says. “Sometimes I have to find another way to explain it first.”
+
+“And the workshop?”
+
+“He watches. Asks questions.”
+
+Vardesca rubs the split nail of his thumb against his forefinger.
+
+“I spent six months fetching tools before anyone let me near an open pump.”
+
+“You were sixteen,” Corva says.
+
+“And remarkably tiresome, according to the man teaching me.”
+
+A faint smile creases his face. It fades into a more thoughtful expression as he looks back at you.
+
+“I don’t know who sent you here. Until we find out, there are arrangements to make—somewhere for you to live, someone responsible for you.”
+
+Corva straightens slightly.
+
+“He has somewhere.”
+
+“Yes,” Vardesca says. “He does.”
+
+He leaves the notebook closed.
+
+“Do you want to stay here with Corva?”
+
+---
+
+Name: Unnamed  
+Age: Approximately five weeks; accelerated juvenile development  
+Date: Planetfall, Day 8 — morning  
+Reputation: Cooperative foundling; assisting the superintendent’s inquiry  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Plain shirt, drawstring trousers, socks and soft leather shoes  
+Gear/Inventory: Grey woollen cloth with station bedding; pod remains in the glasshouse, reportedly unmoved  
+Currency: None
+
+
+## 057 — Player · Choosing to stay
+
+I nod simply
+
+
+## 058 — Assistant · Care and a name
+
+“Then I see no reason to move you.”
+
+Corva’s shoulders settle.
+
+Vardesca turns toward her. “Keep his meals on the station account. Clothing as needed. If anyone queries the expense, send them to me.”
+
+“I’ve been putting it on the station account.”
+
+“I thought you might.”
+
+He opens his notebook again.
+
+“And someone should know where he is when he’s out in the yard. We have shunting engines, open inspection pits—”
+
+“He’s careful.”
+
+“Good. The engines aren’t.”
+
+Corva concedes that with a small nod.
+
+Vardesca writes briefly, then looks toward Veskan.
+
+“For now, the report stays with me. If anyone comes asking after him, I want to hear about it before they’re taken to see him.”
+
+Veskan nods.
+
+The superintendent turns the notebook around and checks something on the preceding page. His pencil hovers over an empty space.
+
+“There is one difficulty.”
+
+Corva follows his gaze.
+
+“The name.”
+
+“Mm.”
+
+He looks back at you.
+
+“Veskan says you don’t remember having one.”
+
+“He’s been answering to little scholar,” Corva says.
+
+“That will make an unusual entry in the wages book one day.”
+
+“It suits him.”
+
+“It does.”
+
+Vardesca lays the pencil down.
+
+“A name is something people can call you that belongs to you. Like Corva. Like Veskan.” He touches his own chest. “Leont.”
+
+He gives you a moment before continuing.
+
+“Would you like us to help you choose one?”
+
+---
+
+Name: Unnamed  
+Age: Approximately five weeks; accelerated juvenile development  
+Date: Planetfall, Day 8 — morning  
+Reputation: Accepted station ward; continued care authorised by Superintendent Vardesca  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Plain shirt, drawstring trousers, socks and soft leather shoes  
+Gear/Inventory: Grey woollen cloth with station bedding; pod remains in the glasshouse, reportedly unmoved  
+Currency: None
+
+
+## 059 — Player · Galahad
+
+I hear a whisper in my mind but it’s my voice but at the same time it is not and I speak as the thought comes through. “Galahad. I want to be called Galahad.”
+
+
+## 060 — Assistant · The name recorded
+
+Vardesca lifts his pencil, but does not put it to the page.
+
+“Galahad.”
+
+He repeats it carefully.
+
+Beside the desk, Corva smiles.
+
+“Galahad,” she says. “Yes. I can call you that.”
+
+The whisper has already passed. It leaves no explanation behind it, only the name you have spoken and that strange uncertainty about the voice.
+
+Veskan looks at you.
+
+“Good to meet you properly, Galahad.”
+
+Vardesca bends over his notebook. His pencil scratches across the paper, then stops.
+
+“Have I got that right?”
+
+He turns the book toward you and points beneath the fresh marks.
+
+“Galahad.”
+
+The shapes do not yet give you back the sound on their own. He moves his finger along them as he repeats it, linking what you said to what he has written.
+
+Corva pulls her ledger closer.
+
+“I’ll put it in here as well.”
+
+For several moments, the room is occupied by the small business of recording your choice. Vardesca dates his note. Corva finds the space she left beside the entry for your arrival.
+
+Veskan watches her fill it.
+
+Then the superintendent returns his attention to you.
+
+“You sounded very certain.”
+
+His tone is curious, without the briskness of his questions about the pod.
+
+“Is that a name you remember, Galahad, or one you’ve just thought of?”
+
+---
+
+Name: Galahad  
+Age: Approximately five weeks; accelerated juvenile development  
+Date: Planetfall, Day 8 — morning  
+Reputation: Accepted station ward; chosen name recorded by Corva and Superintendent Vardesca  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Plain shirt, drawstring trousers, socks and soft leather shoes  
+Gear/Inventory: Grey woollen cloth with station bedding; pod remains in the glasshouse, reportedly unmoved  
+Currency: None
+
+
+## 061 — Player · A chosen name
+
+I shrug. “It is just my name. That is the one I choose.”
+
+
+## 062 — Assistant · Interest in machines
+
+“Then Galahad it is.”
+
+Vardesca closes the notebook and slips it into his coat. He makes no further attempt to explain your choice.
+
+Corva blots the fresh entry in her ledger.
+
+Veskan’s mouth lifts at one corner. “Better than making you answer to ‘boy’.”
+
+“Especially when half the yard answers with him,” Corva says.
+
+The superintendent rises, smoothing the knees of his trousers.
+
+“I’ll leave you to your morning shortly. There’s one other thing I’d like to understand.”
+
+He glances through the window toward the workshop. Its broad doors stand open despite the rain; someone inside is dragging a length of chain across the floor.
+
+“You’ve spent quite a bit of time watching the men work, I’m told.”
+
+“Not only the men,” Corva says.
+
+“The people working,” he amends readily.
+
+His gaze returns to you.
+
+“When I was learning, I wanted to get my hands on everything. Usually before anyone had explained why I shouldn’t.” He flexes his scarred fingers once. “You seem rather better at watching first.”
+
+He rests a hand on the back of his chair.
+
+“What interests you about it, Galahad? The machines?”
+
+---
+
+Name: Galahad  
+Age: Approximately five weeks; accelerated juvenile development  
+Date: Planetfall, Day 8 — morning  
+Reputation: Accepted station ward; chosen name recognised by Corva, Veskan and Superintendent Vardesca  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Plain shirt, drawstring trousers, socks and soft leather shoes  
+Gear/Inventory: Grey woollen cloth with station bedding; pod remains in the glasshouse, reportedly unmoved  
+Currency: None
+
+
+## 063 — Player · Ideas made real
+
+“I’m trying to figure out why they were made to work the way they do. How they function. What they do. It’s like a web of ideas made real.”
+
+
+## 064 — Assistant · Design and its constraints
+
+Vardesca’s hand becomes still on the chair back.
+
+“A web of ideas made real,” he repeats.
+
+This time he does not reach for his notebook.
+
+“Yes. Though some of the ideas were better than others.”
+
+He draws the chair out again and sits.
+
+“Take that pump. Whoever designed it had water to move. They also had to decide what metal they could afford, what their foundry could cast, and how much power would be available to drive it.”
+
+He gestures toward the workshop.
+
+“Then someone had to repair it with the tools they actually owned. A clever arrangement can become a very foolish one when the part that wears out is buried beneath everything else.”
+
+Corva looks at him. “You’re thinking of the old harbour pump.”
+
+“I’m still paying for the old harbour pump.”
+
+Veskan gives a brief, low laugh.
+
+The superintendent leans forward, warming to the subject.
+
+“And sometimes a thing works a particular way because the man who made it copied another one. Perhaps he understood why it was made that way. Perhaps he only knew it worked.”
+
+Outside, a heavy object settles onto a bench with a wooden thump.
+
+Vardesca waits for the sound to pass.
+
+“So you’re asking a good question. Why this arrangement? Why these pieces?”
+
+His eyes remain on you.
+
+“Have you seen anything here that you think ought to have been made differently?”
+
+---
+
+Name: Galahad  
+Age: Approximately five weeks; accelerated juvenile development  
+Date: Planetfall, Day 8 — morning  
+Reputation: Accepted station ward; technical curiosity has engaged Superintendent Vardesca  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Plain shirt, drawstring trousers, socks and soft leather shoes  
+Gear/Inventory: Grey woollen cloth with station bedding; pod remains in the glasshouse, reportedly unmoved  
+Currency: None
+
+
+## 065 — Player · Understanding before changing
+
+“I don’t know yet. I’m still trying to figure out why things do what they do. I can’t come up with ideas properly until I understand what I am looking at fully.” I say simply.
+
+Ok, it’s about time to wrap this part of the story up and create a natural stopping point please
+
+
+## 066 — Assistant · The interview concludes
+
+Vardesca nods.
+
+“Fair answer. If you don’t know yet, you don’t know.”
+
+He rises again, this time reaching into his pocket for his gloves.
+
+“I’ll speak to the workshop foreman. When there’s something safe to show you, and someone has time to explain it, you can watch.”
+
+“With someone there,” Corva says.
+
+“With someone there,” he agrees. “And if they tell you to stand clear, do it. You can ask why once you’re clear.”
+
+He pulls on one glove, working the leather over his broad fingers.
+
+“I can’t promise you’ll always get a good explanation. Ask anyway.”
+
+Veskan moves toward the door with him. Before leaving, Vardesca pauses beside Corva’s desk and taps the edge of his notebook through his coat.
+
+“I’ll have the office send the authorisation for his keep.”
+
+“And the glasshouse?”
+
+“Leave the apparatus alone. I’ll arrange for someone to look at it before we decide what to do.”
+
+He turns back to you.
+
+“Thank you for speaking with me, Galahad.”
+
+Then he opens the door. Damp air enters with the smell of wet coal and timber. Veskan follows him beneath the shallow awning, where their voices become indistinct under the rain.
+
+Corva watches through the window for a moment.
+
+“Well,” she says at last. “That’s settled for now.”
+
+She returns to the desk and checks the entry she has made. Beneath the record of your arrival, where a space had remained for more than a week, there is now a name.
+
+Your name.
+
+“Galahad,” she says quietly, becoming accustomed to it.
+
+She closes the ledger.
+
+Outside, a whistle sounds from the far end of the yard. Workers step back from the rails, and a wagon begins to move with a slow clatter of buffers and wheels. Corva lifts the kettle from beside the stove and carries it toward the kitchen.
+
+The superintendent’s questions are finished. You still have your bed in the alcove, meals at Corva’s table, and the prospect of someone opening a machine and explaining what lies inside.
+
+For the moment, no one is asking anything more of you.
+
+---
+
+Name: Galahad  
+Age: Approximately five weeks; accelerated juvenile development  
+Date: Planetfall, Day 8 — morning  
+Reputation: Accepted station ward; superintendent supportive of supervised technical learning  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Plain shirt, drawstring trousers, socks and soft leather shoes  
+Gear/Inventory: Grey woollen cloth with station bedding; pod remains in the glasshouse, reportedly unmoved  
+Currency: None
+
+
+## 067 — Player · Publication checkpoint (outside the scene)
+
+Ok now please update the GitHub documentation. Please take your time and any documents you are updating please read them in full, line by line. This ensures you do not miss any outdated info, errors, mistakes or inconsistencies. Please take your time I am more than happy to wait.
