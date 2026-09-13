@@ -2828,3 +2828,615 @@ Currency: None
 ## 093 — User — Documentation checkpoint (outside the scene)
 
 Ok now please update the GitHub documentation. Please take your time and any documents you are updating please read them in full, line by line. This ensures you do not miss any outdated info, errors, mistakes or inconsistencies. Please take your time I am more than happy to wait.
+
+
+## 094 — User — Proofs, hunting and a bone sword
+
+Corva and I discuss my ambitions and the future for a bit while and we copy the relevant proofs over and I add in some extra advanced mechanical knowledge specifically to peak their interest in certain workings I have used. Not enough for any to use the work in any practical way but enough to intrigue an academic mind. I trust Corva and she believes this would be good for me so I decide that in terms of this academy I will let on a degree of my true aptitude but I will still keep my cards close enough to my chest to keep people guessing and my true abilities shrouded in conjecture. Then I wait until we hear a response back. I keep to my usual routine during this time. Learning, tinkering and sneaking out at night to hunt wildlife. During this time I also fashioned myself a sword. Nothing overly glamourous for my skill but still beyond what an average craftsman could do with tools and I made it myself, in the wilds with my bare hands. Pure white bone taken from a large reptilian creature on the planet that flew and could breath fire. It was the size of a house. Once the fight was over I extracted it's skull and broke away the bone with my bare hands which was noticeably stronger than any material I had encountered before on the planet thus far as expected, granted my experience is fairly limited. I had read about bone this strong before I had just never encountered it myself. (This isn't new or unknown to the people of the planet, some nobles might have weapons like this. Just usually it takes well trained soldiers to put something down of this size. There might be folk hero's who managed to kill one alone or with minimal help but they probably utilized artillery or a vehicle of war. Doing it barehanded is unheard of and to the people of the world unbelievable without seeing it with your own eyes. But they do not know how strong and quick I am as I make efforts to conceal this. They would assume I am rather strong due to my size and muscle density but they would have no idea just how strong and fast I am since I am not a baseline human as they believe I am. Please also come up with the name for the creature, it is essentially a variant of dragon but make it feel deathworldy and 40k like please while still adhering to the whole dragon slayer theme. We are gonna play this like I already knew what this creature was when I encountered it and that is why I knew use the bone to create a weapon and why I know the value.). I sharpen the blade by using friction against the rest of the bone in the skull and chipping at it with my finger nails. It is a single, long piece of bone with a handle at the bottom and a blade along the top. A full great sword created from a single piece of bone. No guard on the sword but its size show's that was not it's intended purpose. There are finely crafted runes I have read about that ward away bad spirits and foul omens that I have inscribed along the blade. A regular man would struggle to even lift this sword with two hands but I easily wield and swing it with one. When I bring it home I keep the blade hidden and wrapped in cloth under my bed behind stacks of formula. I only unwrap it from the cloth when I go out hunting at night as the value of this sword would be astronomical. 
+
+
+## 095 — Assistant — Progress note
+
+I’ll resolve the academy’s reply and the intervening weeks, including the hunt, the bone sword and how well your activities remain concealed.
+
+
+## 096 — Assistant — The Vordrake and the second reply
+
+Corva copies in her careful ledger hand, leaving spaces where the calculations become too elaborate for her to reproduce confidently.
+
+“These parts are yours,” she says, sliding the sheet back.
+
+Your discussion continues around the work. Occasionally she returns to something you said earlier; occasionally an explanation of machinery occupies you both long enough for the larger questions to wait. By the time the packet is ready, the stove has burned low.
+
+She checks the copies against the originals, page by page.
+
+The political projections remain on your side of the table. So do the divination workings.
+
+***
+
+The reply takes twenty-three days.
+
+During that interval, the little engine finally runs steadily under the load available in the workshop. Its old irregular beat settles into something even enough that a mechanic stops speaking halfway through a sentence and listens.
+
+He rests a hand against the bench.
+
+“Well. That’s better.”
+
+He stays through the remainder of the test.
+
+Your nights furnish a different education.
+
+Beyond the drainage cuts and familiar paths, you begin learning what happens when an animal realises that the solitary figure approaching it is dangerous. Some flee before you get close. Others conceal themselves. A few commit their entire weight to the first attack.
+
+Your speed leaves very little opportunity for a second.
+
+The **Vordrake** is different.
+
+You recognise it from a natural history whose illustration devoted almost as much space to its skull as to the living animal. *Furnace drake* was the name printed beneath the older engraving. The accompanying account described hunting parties, ammunition expenditure and the value of an undamaged cranial plate.
+
+The living creature occupies a clearing like a collapsed roof.
+
+Folded wings lie along its flanks in overlapping seams. Its throat hangs in ridged folds beneath a wedge-shaped head, and pale mineral growths follow the line of its jaw. Around its resting place, vegetation has been burned away in successive black crescents. Rainwater stands in the newest, carrying a greasy sheen.
+
+When it raises its head, the movement exposes old shot embedded beneath the scales of its neck.
+
+Something inside its throat clicks.
+
+The warning is very brief.
+
+***
+
+You kill it with your hands.
+
+That fact would be difficult to reconcile with the clearing afterward: the gouged earth, the broken vegetation, the wing driven through a young tree.
+
+Its flame catches the outside of your forearm during the struggle. Cloth burns against skin. For a moment, pain is sharp enough to obscure the smaller details of the fight.
+
+Your strength remains.
+
+At close quarters, the creature cannot bring its whole body against you without giving you something to seize. Its neck twists beneath your grip. Claws tear furrows through the ground as it tries to pull away.
+
+The sound of its death travels through the trees.
+
+Afterward, the clearing becomes remarkably quiet.
+
+Your damaged sleeve clings to the burn. The wound will close over the following days, but extracting the skull is painful work that night.
+
+Beneath the dark outer tissues, the bone is white.
+
+You already know its reputation. Feeling it resist your fingers supplies the missing comparison. Ordinary workshop materials have never required this much effort from you merely to break a piece free.
+
+***
+
+The sword takes shape across subsequent nights.
+
+A long section of the skull supplies both blade and grip. You work away the unwanted material with your hands, abrading the edge against the remaining bone and using your nails for smaller corrections.
+
+The finished surface carries a faint grain beneath its whiteness. Along the blade, the inscriptions sit cleanly enough to collect shadows even in weak light.
+
+You recognise the protective forms from your reading: signs placed above doors, around burial chambers and beside warnings against malign influences. They are carefully rendered. Whether they possess power beyond their meaning remains untested.
+
+There is no guard. The grip flows directly into the long blade.
+
+Its weight would make it an awkward burden for an ordinary man before he even attempted a stroke. In your hand, it moves readily.
+
+You learn its reach among the trees.
+
+A weapon this long changes which gaps are useful and which branches interfere. Strength lets you arrest a stroke that would drag someone else off balance; practice teaches you where to begin the next one.
+
+When you return home, the white bone disappears beneath cloth and then beneath your bed, behind the accumulated workings. In the alcove’s dimness, the wrapped length looks far less remarkable than what it contains.
+
+No one sees you bring down the Vordrake.
+
+Keeping every departure unnoticed proves harder.
+
+***
+
+The Collegium’s next envelope is thinner.
+
+Corva opens it at the kitchen table and lays the annotated copies beside the letter. This time, there are no elementary exercises attached.
+
+Savel begins with the housing calculations.
+
+> The additional working resolves my concern about the missing derivation. I withdraw the suggestion that the applicant lacks the preparation required for that portion of the submission.
+
+Farther down, he addresses one of the advanced passages.
+
+His marginal note identifies a condition under which your abbreviated treatment would need further explanation. It is a relevant question, directed at the work itself.
+
+Then comes a less accommodating paragraph.
+
+> Several later results are presented without sufficient working to permit examination. If these omissions are deliberate, further correspondence of this kind is unlikely to establish their merit. I would prefer to discuss the complete argument with its author.
+
+He has noticed the space you deliberately left around your understanding.
+
+He has not determined how far it extends.
+
+The invitation to Auvrienne remains. Savel proposes having a workshop instructor attend alongside him, so that discussion can include practical work as well as mathematics. He asks Corva to suggest suitable dates.
+
+There is still no authorisation for unrestricted borrowing, and no book parcel.
+
+Corva reads the opening paragraph again.
+
+“Well,” she says. “That is rather closer to addressing the person who wrote it.”
+
+She puts the letter down.
+
+For a moment, her fingers remain on its edge. Then she looks toward your alcove.
+
+“There’s something I need to ask before we answer him.”
+
+Her voice is quiet.
+
+“I’ve heard you leaving. More than once.”
+
+She turns back to you.
+
+“The first time, I thought you’d gone to the washroom. Then you didn’t come back for a long while.”
+
+The sword remains wrapped beneath the bed. Nothing in her words suggests she has found it.
+
+“Where have you been going after I’m asleep?”
+
+---
+
+Name: Galahad  
+Age: Approximately fourteen months; accelerated adolescent development  
+Date: Planetfall + one standard year and forty-four days — afternoon  
+Reputation: Exceptional station ward; academy recognises stronger mathematical preparation; Corva aware of night departures  
+Weapons (Equipped): Small utility knife  
+Armor/Clothing (Equipped): Work shirt, trousers, leather boots  
+Gear/Inventory: Concealed single-piece Vordrake-bone greatsword, wrapped beneath bed; extensive research, borrowed books and academy correspondence; incomplete firearm prototype and experimental parts; stored grey cloth  
+Currency: None
+
+
+## 097 — User — Hunting
+
+“Hunting.” I say simply as I take out the sword from underneath my bed and unwrap it on the table
+
+
+## 098 — Assistant — The sword on the table
+
+Corva moves the academy’s letter before you finish unwrapping the blade.
+
+The bone settles onto the table with a heavy, close sound. Her cup trembles against its saucer.
+
+For a moment, she looks at the sword as though she is still waiting for the cloth to reveal something more familiar.
+
+Then her eyes travel along its length.
+
+The white surface catches the window light. Fine inscriptions interrupt the grain, their recessed lines dark against the bone. At the near end, the blade narrows into its integral grip.
+
+Corva does not touch it.
+
+“Hunting,” she repeats.
+
+Her gaze rises to you, then returns to the weapon.
+
+“That was under your bed?”
+
+She draws the remaining papers farther away, making room around it. The movement is practical, almost automatic. When she has finished, she keeps her hands on her side of the table.
+
+“I’ve seen bone like this once. A knife belonging to a freight inspector. He kept it in a fitted case and wouldn’t let anyone handle it.”
+
+She studies the blade again.
+
+“His wasn’t anything like this size.”
+
+Outside, wheels strike a joint in the rails. The familiar clatter passes the window while Corva examines the marks left by your workmanship.
+
+“Did you make this?”
+
+Her eyes settle briefly on the inscriptions.
+
+She recognises at least one. Her finger moves toward it, stopping short of the edge.
+
+“My mother put that sign above the back door.”
+
+The recollection does little to ease her expression.
+
+Corva leans back. You have seen her confront damaged deliveries, injured workers and arguments in the yard. Usually there is something she can count, write down or ask someone to fetch.
+
+Here, she takes a breath before finding her next question.
+
+“You’ve been going outside the walls. With the little knife?”
+
+She looks at you properly now: your hands, your forearms, the breadth of your shoulders beneath your shirt.
+
+“I know you’re strong, Galahad. I know there are things you can do that I don’t understand.”
+
+Her voice tightens slightly.
+
+“But when you say *hunting*, I need you to tell me what happened.”
+
+She glances down at the enormous piece of white bone between you.
+
+“What did this come from—and was it alive when you found it?”
+
+---
+
+Name: Galahad  
+Age: Approximately fourteen months; accelerated adolescent development  
+Date: Planetfall + one standard year and forty-four days — afternoon  
+Reputation: Exceptional station ward; academy interest qualified; Corva now aware of hunting and the concealed sword  
+Weapons (Equipped): Small utility knife  
+Armor/Clothing (Equipped): Work shirt, trousers, leather boots  
+Gear/Inventory: Vordrake-bone greatsword unwrapped on the kitchen table; extensive research, borrowed books and academy correspondence; incomplete firearm prototype and experimental parts; stored grey cloth  
+Currency: None
+
+
+## 099 — User — Providing for his family
+
+“I killed it without a weapon. I knew the bone was a strong material and valuable. So I made a blade from it. I knew it would make for a useful hunting tool, alternatively it would sell for a high price so I can take care of you and Veskan if needed.”
+
+
+## 100 — Assistant — A place at home
+
+Corva’s eyes leave the sword when you mention Veskan.
+
+For a moment, she looks almost as she did when you first called her Mum. Then her gaze drops to your hands.
+
+“Take care of us,” she says quietly.
+
+She draws a breath and reaches across the table, resting her fingers against your wrist.
+
+“That you thought of us means a great deal to me.”
+
+Her thumb moves once over your skin.
+
+“But you don’t have to pay for your place here. You know that?”
+
+She leaves the question gently, without demanding an answer, and turns her attention back to the blade.
+
+Something in your explanation has made it more difficult for her to look at it as an object that simply appeared beneath your bed. Her eyes follow its length, trying to imagine the animal large enough to supply it.
+
+“You killed it with your hands.”
+
+This time she says the whole thing.
+
+She releases your wrist and sits back.
+
+“I believe you made this. I can see the work. And I’ve watched you lift things that should have taken help.”
+
+A pause.
+
+“I’m trying to understand the rest.”
+
+Outside, someone whistles for a porter. Corva glances toward the kitchen doorway, then lowers her voice.
+
+“We should be careful about selling it. An inspector with a bone knife would want to know where a blade like this came from. So would anyone with enough money to buy it.”
+
+She studies the fine inscriptions again.
+
+“They might want more than the sword.”
+
+There is no accusation in her expression. The worry has become more focused now, finding something she understands: valuable things attract questions, and questions can bring people to a door.
+
+She draws the loose wrapping away from the table’s edge before it can fall.
+
+“What was the creature, Galahad?”
+
+Her eyes return to your face.
+
+“And did it hurt you?” 
+
+---
+
+Name: Galahad  
+Age: Approximately fourteen months; accelerated adolescent development  
+Date: Planetfall + one standard year and forty-four days — afternoon  
+Reputation: Exceptional station ward; Corva has heard his claim of an unarmed kill and his wish to provide for her and Veskan  
+Weapons (Equipped): Small utility knife  
+Armor/Clothing (Equipped): Work shirt, trousers, leather boots  
+Gear/Inventory: Vordrake-bone greatsword unwrapped on the kitchen table; extensive research, borrowed books and academy correspondence; incomplete firearm prototype and experimental parts; stored grey cloth  
+Currency: None
+
+
+## 101 — User — A journey alone
+
+“It was a Vordrake and it nicked me but I am fine now. Now as for the Academy I will go alone. I would like to travel. I can make my own way.”
+
+
+## 102 — Assistant — The travel arrangements
+
+“Vordrake.”
+
+Corva looks at the sword again.
+
+She knows the name. Whatever she had been imagining, it had not been that.
+
+Her fingers stop gathering the cloth.
+
+For several breaths, she says nothing. Then her gaze moves to your sleeve.
+
+“What you call a nick and what I call a nick may be rather different.”
+
+You are standing before her without obvious difficulty. She takes that in, along with the enormous blade and the calmness of your account.
+
+When she picks up the academy’s letter, she holds it by both edges.
+
+“You want to go alone.”
+
+She reads the proposed arrangements again before looking up.
+
+“I would rather go with you. I’d like to see the place and meet the people who’ve been writing about my son.”
+
+There is disappointment in her voice, plainly expressed.
+
+“But wanting to travel isn’t something I’m going to pretend I don’t understand.”
+
+She lays the letter beside the sword.
+
+“Auvrienne is a long journey. There’s a railway all the way there. You could arrive rested, with your work dry and someone expecting you.”
+
+Her eyes briefly settle on the white bone.
+
+“If you mean walking through the country with that, I need you to say so. Those are very different arrangements.”
+
+Corva pulls her ledger closer, then pauses before opening it.
+
+“And I can ask about a seat on a northbound service. Ask, Galahad. I can’t promise one on somebody else’s account.”
+
+The practical details seem to steady her. She turns to a clean page and picks up her pencil.
+
+“We should write first, whichever way you go. Give them a date. Find out where you’re meant to present yourself, how long they expect the examination to take, and whether they have somewhere you can stay.”
+
+She taps the end of the pencil against the paper once.
+
+“Going alone doesn’t have to mean arriving with nowhere to sleep.”
+
+Then she looks directly at you.
+
+“When you say you’ll make your own way—do you mean taking the train, or travelling on foot?”
+
+---
+
+Name: Galahad  
+Age: Approximately fourteen months; accelerated adolescent development  
+Date: Planetfall + one standard year and forty-four days — afternoon  
+Reputation: Exceptional station ward; Corva now knows his account of killing a Vordrake and intends to help arrange an academy visit  
+Weapons (Equipped): Small utility knife  
+Armor/Clothing (Equipped): Work shirt, trousers, leather boots  
+Gear/Inventory: Vordrake-bone greatsword unwrapped on the kitchen table; extensive research, borrowed books and academy correspondence; incomplete firearm prototype and experimental parts; stored grey cloth  
+Currency: None
+
+
+## 103 — User — Tomorrow
+
+“I was thinking I would take a train tomorrow.”
+
+
+## 104 — Assistant — A telephone call
+
+“Tomorrow.”
+
+Corva looks down at the clean page, then sets her pencil across it.
+
+“Then a letter won’t get there before you do.”
+
+She turns Savel’s correspondence over and checks the address again.
+
+“I’ll telephone the railway office in Auvrienne. They may be able to get a message to the Collegium today. We need to know whether he can see you when you arrive.”
+
+Her eyes return to yours.
+
+“And I’ll ask about a seat. You’re travelling as a passenger, not hiding yourself among the freight.”
+
+There is a little of her ordinary firmness in that. She gathers the examiner’s letter and rises, but stops beside the table.
+
+“The sword will need to stay covered if you take it. Something that size will attract attention even wrapped.”
+
+She rests one hand on the chair back.
+
+“I’ll help you prepare. I would still rather have more than an evening.”
+
+For a moment, the practical tone falls away.
+
+“You’ve been here every morning since Veskan brought you through that door. It will be strange making breakfast without you.”
+
+Then she folds the letter once, along its existing crease.
+
+“Let me find out what’s possible before we pack anything.”
+
+Corva goes through to the maintenance room. The telephone’s little generator rattles beneath her hand; a moment later, you hear her ask for the railway office.
+
+The white sword remains on the table, with your workings and the loose cloth beside it. Through the doorway, Corva waits for the connection.
+
+---
+
+Name: Galahad  
+Age: Approximately fourteen months; accelerated adolescent development  
+Date: Planetfall + one standard year and forty-four days — afternoon  
+Reputation: Exceptional station ward; proposed solo academy visit awaiting practical arrangements  
+Weapons (Equipped): Small utility knife  
+Armor/Clothing (Equipped): Work shirt, trousers, leather boots  
+Gear/Inventory: Vordrake-bone greatsword unwrapped on the kitchen table; extensive research, borrowed books and academy correspondence; incomplete firearm prototype and experimental parts; stored grey cloth  
+Currency: None
+
+
+## 105 — User — Departure for Auvrienne
+
+I wrap the sword back up and prepare for tomorrow. Regardless of what Corva can arrange I plan to go regardless. I can make the Academy wish to see me or spend my time exploring other things. I will bring the sword with me and keep it wrapped up. If I am asked about it I will say it is a piece is artwork I am going to get appraised. I carry it around with me. Wrapped in cloth and bound  with rope I found at home so the cloth cannot fall away. The blade is the only thing I take with me aside the clothes on my back. In the morning I say goodbye to Corva and give her a kiss on the forehead and hug Veskan if he is around before boarding the train (with the freight if Corva can’t arrange anything) and I wait as the world passes around me until I can finally get out and look out around me at the city of Auvrienne
+
+
+## 106 — Assistant — Progress note
+
+I’ll resolve Corva’s arrangements and the journey to Auvrienne, including whether the wrapped sword attracts attention.
+
+
+## 107 — Assistant — Sixteen hours north
+
+Corva cannot get you a passenger seat.
+
+She comes back from the telephone with the examiner’s letter still folded in her hand.
+
+“The morning carriages are full. There’s a northbound goods service, but they won’t promise passenger accommodation on it.”
+
+Her gaze moves to the bundle you are binding.
+
+“I’ve asked them to speak to the guard.”
+
+The Collegium is less forthcoming. A message can be passed from the Auvrienne railway office, but no reply comes before the station closes its correspondence book for the evening.
+
+Savel will have notice that you intend to come. You have no appointment.
+
+***
+
+Veskan is there before dawn.
+
+His coat is buttoned badly, one fastening missed near the collar. He looks from you to the long bundle, then toward Corva.
+
+She has evidently told him enough to bring him here. How much becomes less important when you embrace him.
+
+For a moment he stands stiffly. Then his arms close around you, one broad hand pressing between your shoulders.
+
+“Find somewhere to sleep before it gets dark,” he says when you separate. “A proper place.”
+
+Corva receives the kiss on her forehead with closed eyes. When she opens them, she reaches up and straightens your collar.
+
+“You know where to come back to.”
+
+She keeps her hand there a moment longer, then lets you go.
+
+The station lamps burn above rails wet with condensation. Beyond them, the goods train stretches into darkness: covered wagons, flatbeds beneath tied tarpaulins, a brake van with yellow light showing through its small windows.
+
+You leave your knife with your other belongings. The notebooks, correspondence and experimental pieces remain behind. You carry only the wrapped sword.
+
+The guard standing beside the rear van examines you without enthusiasm.
+
+“Corva’s boy?”
+
+He glances past you. Seeing her appears to settle something.
+
+“No wandering over the wagons. No opening doors while we’re moving. You stay where I put you.”
+
+His eyes descend to the bundle.
+
+“What’s that?”
+
+You give the explanation you prepared: a piece of artwork, taken to Auvrienne for appraisal.
+
+“Long way to carry a carving.”
+
+He watches you lift it aboard. The apparent ease of the movement gives him little reason to anticipate its weight.
+
+“Keep it out of the doorway.”
+
+There is no seat to reserve. There is a narrow wooden bench beside stacked railway equipment, and just enough room to keep the bound blade close.
+
+***
+
+Serravonne recedes through a small, dirty window.
+
+First the familiar roofs, then the perimeter works. The sea appears between buildings before the curve of the line takes it away.
+
+Corva and Veskan are lost from view long before the station itself disappears.
+
+For much of the morning, the railway follows the coastal valleys. Cultivated ground lies in defended pockets beneath watchtowers. Farm buildings cluster around concrete shelters; roads cross drainage channels on bridges fitted with barriers that can be closed across them.
+
+Beyond the clearings, the vegetation rises in tangled walls.
+
+You pass a train carrying soldiers south. Faces crowd its windows. On an open wagon behind them, a field gun rocks against its restraints.
+
+The journey is slow.
+
+At one junction, your train waits nearly two hours while crews clear a failed points mechanism. From the van, you can see men working beneath a signal gantry, passing tools down into the narrow space beside the rails. A locomotive on the neighbouring track breathes steam across them until someone shouts for its driver to stop.
+
+You have brought no food. By afternoon, hunger has become an insistent companion to the vibration of the bench and the cold draught around the door.
+
+The guard eats from a tin beside his ledger. His gaze returns occasionally to the wrapped sword.
+
+He does not ask to see it.
+
+Sixteen hours after departure, the train enters Auvrienne.
+
+***
+
+The capital announces itself in layers.
+
+Freight yards first: rows of lamps, coal heaps, cranes and warehouses with their lower windows protected by steel shutters. Then workshops broad enough to swallow the little station at Serravonne, their roof vents shining dull red from furnaces within.
+
+Above them rises the city.
+
+Terraces climb inland from the railway basin. Electric lights trace roads between immense retaining walls. Higher still, pale government buildings stand beneath steep roofs and narrow towers, their façades bright against the gathering evening.
+
+The train passes through a fortified cutting. Gun positions overlook the tracks from both sides.
+
+It finally stops beneath a loading canopy.
+
+“End of the journey,” the guard says.
+
+You climb down with the bound sword.
+
+The air smells of coal smoke, rain on stone and hot cooking fat. Somewhere beyond the freight buildings, bells sound above the traffic. A tram throws blue sparks from its overhead wire as it passes the end of the yard.
+
+People move with purpose around you: porters, railway clerks, soldiers carrying leave bags, labourers bent beneath parcels. Your white hair draws glances. The length of your burden draws more.
+
+At the exit, a uniformed railway watchman steps away from his booth.
+
+His attention settles on the bundle.
+
+“Evening. Before you take that into the street—what are you carrying?”
+
+Beyond him, Auvrienne opens into a sloping avenue crowded with lamps, shopfronts and unfamiliar faces.
+
+---
+
+Name: Galahad  
+Age: Approximately fourteen months; accelerated adolescent development  
+Date: Planetfall + one standard year and forty-five days — evening  
+Reputation: Unknown visitor in Auvrienne; exceptional station ward in Serravonne  
+Weapons (Equipped): Vordrake-bone greatsword, wrapped and rope-bound; carried  
+Armor/Clothing (Equipped): Work shirt, trousers, leather boots  
+Gear/Inventory: Sword wrapping and binding rope; all other belongings left at Corva’s home  
+Currency: None
+
+
+## 108 — User — Endurance correction and the artwork explanation
+
+I have Perfected Proto-Primarch biology it takes weeks to months for me to die of starvation as a standard space marine and centuries as a Primarch. I am completely fine for a single afternoon. 
+
+I look at the watchman. “It’s artwork, I am getting it appraised.”
+
+
+## 109 — Assistant — Outside the freight yard
+
+*Understood—an afternoon without food does not impair you. The earlier hunger description overstated its significance; you arrive physically capable and alert.*
+
+The watchman looks along the bound length.
+
+“A carving?”
+
+His gaze returns to your face, then drops to the hand carrying it.
+
+Behind him, a porter pushes a trolley through the gate. Its iron wheels rattle over the threshold, briefly drowning out the street.
+
+“Keep it wrapped on the tram,” the watchman says. “And mind the corners. You catch someone with that, you’ll have an argument before you’ve found your appraiser.”
+
+He steps aside.
+
+Beyond the gate, the avenue climbs between soot-darkened buildings. Ground-floor windows shine beneath striped awnings; above them, narrow balconies carry washing that has been drawn back from the rain. A tram grinds uphill with passengers standing shoulder to shoulder behind its misted windows.
+
+Across the road, a clock hangs above a railway booking office. Beside it, a public street plan sits beneath glass, its lower half crowded with advertisements for lodgings, workshops and evening meals.
+
+Farther uphill, the traffic divides around a stone monument enclosed by iron railings. You can see the illuminated frontage of an inn beyond it and, nearer at hand, a bookseller closing wooden shutters across his display.
+
+The watchman returns to his booth.
+
+You stand outside the freight yard with the wrapped sword in your hand. The city is open before you.
+
+---
+
+Name: Galahad  
+Age: Approximately fourteen months; accelerated adolescent development  
+Date: Planetfall + one standard year and forty-five days — evening  
+Reputation: Unknown visitor in Auvrienne; exceptional station ward in Serravonne  
+Weapons (Equipped): Vordrake-bone greatsword, wrapped and rope-bound; carried  
+Armor/Clothing (Equipped): Work shirt, trousers, leather boots  
+Gear/Inventory: Sword wrapping and binding rope; all other belongings left at Corva’s home  
+Currency: None
+
+
+## 110 — User — Documentation checkpoint (outside the scene)
+
+Ok now please update the GitHub documentation. Please take your time and any documents you are updating please read them in full, line by line. This ensures you do not miss any outdated info, errors, mistakes or inconsistencies. Please take your time I am more than happy to wait.
