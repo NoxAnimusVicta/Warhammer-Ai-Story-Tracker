@@ -3440,3 +3440,655 @@ Currency: None
 ## 110 — User — Documentation checkpoint (outside the scene)
 
 Ok now please update the GitHub documentation. Please take your time and any documents you are updating please read them in full, line by line. This ensures you do not miss any outdated info, errors, mistakes or inconsistencies. Please take your time I am more than happy to wait.
+
+## 111 — User — Exploring Auvrienne
+
+I spend a few hours looking around the city until I have a decent idea of the layout while I explore and then I make my way to the Academy to see Savel
+
+
+## 112 — Assistant — Progress note
+
+I’ll resolve what you learn while exploring Auvrienne and whether Savel is available by the time you reach the Collegium.
+
+
+## 113 — Assistant — The closed Collegium
+
+The street plan outside the booking office gives you a useful beginning.
+
+Behind rain-streaked glass, Auvrienne is reduced to lines, numbered districts and small blocks of print. You study the railway basin, the roads climbing away from it and the broad curves marking the tramways. The Collegium appears among a cluster of institutions farther uphill.
+
+Then you begin putting the drawing against the city.
+
+Auvrienne’s shape becomes clear surprisingly quickly. The freight yards occupy low ground where long, comparatively level approaches accommodate the railway. Above them, roads follow terraces cut into the hillside. Stairways connect streets that wheeled traffic must reach by much longer routes. Retaining walls contain drainage mouths large enough for a man to crawl into; runoff pours through iron grilles beneath your feet.
+
+You recognise the same junction from three different approaches. After that, the surrounding streets settle into place.
+
+The lower districts remain busy long after their shops begin closing. Workers emerge through factory gates beneath lamps enclosed in wire cages. Coal dust gathers in the seams of their faces. At a tram stop, soldiers make room for a woman carrying a sleeping child, then squeeze back together when the conductor rings his bell.
+
+Higher up, the pavements widen.
+
+Here, workshops display their names on enamel plaques. Instruments stand behind glass: surveying levels, pressure gauges, polished mechanisms whose workmanship rewards closer inspection. Farther along, a public building bears fresh repairs around several upper windows. The replacement stone is conspicuously pale beneath the older soot.
+
+Your white hair and long bundle attract occasional looks. Nobody stops you.
+
+By the time you turn toward the Collegium, you have a firm grasp of the central districts you have walked through, their principal connections and several routes back to the railway. Beyond them, the city continues around folds in the hillside, its outer neighbourhoods still known chiefly from the plan.
+
+***
+
+The **Auvrienne Collegium of Civil Engineering** stands behind iron railings on a broad terrace.
+
+Its main building is severe grey stone, relieved by tall windows and a carved pediment. Through the gates, you can see a courtyard and lower workshop buildings behind it. A gantry spans one workshop entrance. Rainwater drips steadily from the suspended hook.
+
+Most windows are dark.
+
+One upper room remains lit, but the notice board beside the gate lists teaching hours that ended some time ago.
+
+Your approach draws a man from a small lodge adjoining the entrance. He wears a heavy cardigan beneath his uniform coat and carries a ring of keys.
+
+“Evening.”
+
+He glances at your bundle, then at your face.
+
+When you ask for Savel, he shakes his head.
+
+“Examiner Savel’s gone home. Teaching rooms are closed.”
+
+He looks toward the dark main doors.
+
+“You’ll want the office in the morning.”
+
+Then he pauses, considering your arrival at this hour. Instead of withdrawing, he opens the lodge door farther and reaches for a ledger resting beneath the lamp.
+
+“What name shall I put down?”
+
+His pencil waits above the page.
+
+“And was he expecting you?”
+
+---
+
+Name: Galahad  
+Age: Approximately fourteen months; accelerated adolescent development  
+Date: Planetfall + one year and forty-five days — late evening  
+Reputation: Unknown visitor in Auvrienne; exceptional station ward in Serravonne  
+Weapons (Equipped): Vordrake-bone greatsword, wrapped and rope-bound; carried  
+Armor/Clothing (Equipped): Work shirt, trousers, leather boots  
+Gear/Inventory: Sword wrapping and binding rope; other belongings at Corva’s home  
+Currency: None
+
+
+## 114 — User — An influence of trust
+
+“That’s fine. I can see him at his home. Where does he live?” I ask, subconsciously exuding psychic pressure that makes the individual in front of me feel relaxed, like he can trust me, like he should trust me
+
+
+## 115 — Assistant — Progress note
+
+I’ll resolve how the porter responds to the psychic influence, including whether it changes his willingness to give you Savel’s address.
+
+
+## 116 — Assistant — Rue Cendravel
+
+The porter’s pencil stops.
+
+“At his home?”
+
+His brows draw together. For a moment, the question appears to trouble him.
+
+Then his shoulders ease.
+
+The change is small: his grip loosens around the pencil, and the searching look leaves his face. He regards you with the comfortable attention he might give someone already introduced by a colleague.
+
+“Well. He does sometimes receive people there.”
+
+He sets the pencil across the ledger.
+
+“Thirty-seven, Rue Cendravel. Upstairs over the bookbinder’s. Use the side door; there’s a brass bell.”
+
+He leans out of the lodge and points along the railings.
+
+“Round the eastern end of this building, then the second turning on your right. Ten minutes, if you don’t take the long way.”
+
+You can fit the direction into what you have already learned of the surrounding streets. It leads behind the institutional terrace, toward a district you passed along its lower edge.
+
+The porter draws his hand back into the warmth.
+
+“He left earlier. Whether he’s actually in, I couldn’t tell you.”
+
+His gaze rests on you again. The easy confidence remains, but some ordinary caution survives within it.
+
+“And mind, giving you directions isn’t the same as saying he’ll welcome a visitor this late. If nobody answers, come back here in the morning.”
+
+He looks down at the ledger, noticing the empty line where his pencil had been waiting. A faint crease returns between his eyebrows.
+
+“I should still have your name.”
+
+There is no suspicion in the request now. If anything, he sounds mildly apologetic for remembering it.
+
+“If Mr Savel asks tomorrow, I’d rather be able to tell him who I spoke to.”
+
+---
+
+Name: Galahad  
+Age: Approximately fourteen months; accelerated adolescent development  
+Date: Planetfall + one year and forty-five days — late evening  
+Reputation: Unknown visitor in Auvrienne; Collegium porter favourably disposed  
+Weapons (Equipped): Vordrake-bone greatsword, wrapped and rope-bound; carried  
+Armor/Clothing (Equipped): Work shirt, trousers, leather boots  
+Gear/Inventory: Sword wrapping and binding rope; other belongings at Corva’s home  
+Currency: None
+
+
+## 117 — User — Knocking
+
+I head to Savel’s address and knock. I make sure not to take the door off the hinges or damage the door but my knocking creates a mighty boom as I knock, if he is asleep he will surely be roused from it.
+
+
+## 118 — Assistant — Progress note
+
+I’ll resolve the knock and who answers, keeping the door intact as you intend.
+
+
+## 119 — Assistant — Savel answers
+
+Rue Cendravel is quieter than the streets below.
+
+The bookbinder’s windows are shuttered, its hanging sign creaking faintly above the pavement. Beside the shopfront, a narrow door stands beneath the number **37**. A brass bell pull hangs against the stonework.
+
+You knock.
+
+The impact rolls through the door and into the stairwell behind it—a deep, commanding boom that breaks sharply across the sleeping street. You arrest the movement before the timber yields. The panels hold; the hinges remain seated.
+
+Across the road, a curtain moves.
+
+For several seconds, nothing answers.
+
+Then a chair scrapes overhead.
+
+A strip of light appears beneath an upstairs curtain. Footsteps follow, crossing the room before descending the stairs with increasing haste.
+
+“Coming!”
+
+The voice is muffled by the door.
+
+A bolt draws back. The door opens a hand’s breadth, checked by a short security chain.
+
+The man behind it wears a shirt with the collar unfastened and a dark waistcoat. His hair is flattened on one side, though his eyes are alert. Lamplight catches the rims of his spectacles as he looks first at your face, then past your shoulder into the street.
+
+“What’s happened?”
+
+His attention returns to you when he finds no injured person, smoke or gathering crowd.
+
+You have never met Odran Savel in person. The man examining you has likewise had only papers and correspondence by which to imagine their author.
+
+His gaze drops to the long, bound object in your hand.
+
+“Who are you looking for?”
+
+There is considerably less urgency in his voice now, and the beginnings of irritation.
+
+“Do you realise what hour it is?”
+
+---
+
+Name: Galahad  
+Age: Approximately fourteen months; accelerated adolescent development  
+Date: Planetfall + one year and forty-five days — late evening  
+Reputation: Unknown visitor in Auvrienne; late arrival has attracted notice  
+Weapons (Equipped): Vordrake-bone greatsword, wrapped and rope-bound; carried  
+Armor/Clothing (Equipped): Work shirt, trousers, leather boots  
+Gear/Inventory: Sword wrapping and binding rope; other belongings at Corva’s home  
+Currency: None
+
+
+## 120 — User — An announcement
+
+“My name is Galahad. You will be organising lodging and my attendance at the Collegium.” I say, subconsciously exuding the same psychic pressure I was before.
+
+
+## 121 — Assistant — Progress note
+
+I’ll resolve how the renewed psychic pressure affects Savel’s response to your demand.
+
+
+## 122 — Assistant — A spare room
+
+“Galahad?”
+
+Recognition interrupts the answer he was preparing.
+
+“From Serravonne. Corva’s son?”
+
+His eyes move over you again. This time, he is comparing the visitor on his doorstep with the drawings, calculations and letters that preceded him.
+
+The irritation in his face eases.
+
+Your words should have demanded an explanation. Instead, he finds himself considering the arrangements they require. His hand relaxes against the edge of the door.
+
+“Yes,” he says. “Well. We can settle that.”
+
+He closes the door just far enough to release the chain, then opens it fully.
+
+The narrow hall behind him contains a coat stand, an umbrella dripping into a metal tray and a staircase ascending beside the wall. Warm lamplight reaches down from the landing. Somewhere upstairs, a clock ticks with a slightly uneven beat.
+
+“I have a spare room. You can use it tonight.”
+
+Savel steps back from the threshold.
+
+“As for the Collegium, I’ll take you to the office in the morning. We can arrange the discussion I proposed and see when the workshop instructor is available.”
+
+He rubs a finger beneath the bridge of his spectacles.
+
+“You’ve arrived rather sooner than I anticipated.”
+
+The observation carries surprisingly little reproach. He looks almost relieved to have reached a practical solution, although his gaze briefly returns to the door where you struck it.
+
+“Next time, use the bell. I thought there’d been an accident.”
+
+Then his attention settles on your face.
+
+For the first time, there is something of the examiner in his expression: curiosity sharpened by having the author of those unusual calculations standing within reach of a conversation.
+
+“I’ve been wanting to ask you about that second packet.”
+
+He gestures toward the stairs, leaving the entrance open.
+
+“Come in.”
+
+Before turning away, he pauses.
+
+“Corva does know you’re here, doesn’t she?”
+
+---
+
+Name: Galahad  
+Age: Approximately fourteen months; accelerated adolescent development  
+Date: Planetfall + one year and forty-five days — late evening  
+Reputation: Recognised by Savel as Corva’s son and the author of the submitted work; offered overnight lodging and help arranging the Collegium visit  
+Weapons (Equipped): Vordrake-bone greatsword, wrapped and rope-bound; carried  
+Armor/Clothing (Equipped): Work shirt, trousers, leather boots  
+Gear/Inventory: Sword wrapping and binding rope; other belongings at Corva’s home  
+Currency: None
+
+
+## 123 — User — The first week
+
+I spend the rest of the night explaining things to him. I also show him the blade I crafted except I say I bought the bone off trader who realise what he had. I also discuss my theorems and formulas with him and begin showing parts of my true intellect to excite him, I have read enough but history to know if he thinks I’m gifted he will jump to mentor me as that will bring him prestige from my accomplishments. Over the next week I get myself enrolled at the Collegium and set up there with lodging. I gain access to a telephone through the Collegium and use it to contact Corva and let her know what is going on and that I will be here for some time as I study but that she should contact me immediately if she needs anything. During my time settling in I begin utilising the new stores of knowledge I have access to and spend most of my time in the libraries devouring knowledge as if it were oxygen. In my private time I tinker with small clockwork mechanisms I make from spare bits of scrap I find lying about and bend it into place with my hands. My latest creation is a small bird that is very intricately designed to the point it looks like a real bird from a distance and when you pull the gear on its back down to wind it up then stop and sit it back down it jumps around the surface it is on with little hops and the clockwork moving makes a sound that is similar to a real bird chirping. When I’m not tinkering in my lodging I read books in my I have borrowed from the Collegium’s library. Every subject I can get my hands on I seek to understand and master.
+
+
+## 124 — Assistant — Progress note
+
+I’ll resolve the week’s discussions, your enrolment and library access, the call to Corva, and the clockwork bird—along with how much Savel learns about your abilities.
+
+
+## 125 — Assistant — A place to study
+
+Savel’s clock strikes midnight while you are explaining the housing.
+
+He has supplied paper. At first, he watches from the other side of the table, occasionally interrupting to ask what permits a particular step. You fill in the workings between conclusions that seem closely connected to you.
+
+Then he moves his chair.
+
+“Wait. Go back to that substitution.”
+
+You do.
+
+He follows the argument in silence, his pencil resting against his lower lip. When you reach the result, he looks at the original expression again.
+
+“Yes,” he says quietly.
+
+He takes a fresh sheet.
+
+For the next hour, his questions become more precise. Several expose places where your explanation has skipped something he needs to see. Others concern conditions you have already considered, allowing you to draw out another part of the work.
+
+Eventually, he stops looking toward the clock.
+
+***
+
+The sword occupies most of the cleared table.
+
+Savel examines the white bone beneath the lamp without immediately touching it. When you explain that you purchased the material from a trader and fashioned the blade yourself, he studies the transition between grip and blade.
+
+“One piece?”
+
+His finger follows the shape through the air.
+
+He asks you to turn it so that the light catches the surface. The inscriptions emerge from shadow, clean and finely cut.
+
+“I’ve seen smaller examples in collections.”
+
+He looks from the bone to you.
+
+“The trader must have had an interesting journey.”
+
+Your account gives him an explanation he accepts. He has no reason, that night, to connect the weapon with an animal you killed yourself.
+
+The workmanship holds his attention longer than its provenance.
+
+“Keep this covered when you bring it to the Collegium. Preferably keep it in your room. A thing like this will attract people whose interest has very little to do with your education.”
+
+He returns to the papers afterward, but glances at the wrapped length once more before sitting down.
+
+***
+
+Your enrolment takes most of the week.
+
+Savel’s enthusiasm helps. So does his willingness to put his own name beneath a recommendation.
+
+You hear him discussing the matter through an office door.
+
+“Then record him provisionally. We can review his progress.”
+
+A quieter response follows.
+
+“No, I am not asking you to accept the calculations on my authority. I’m asking you to give him somewhere to work while we examine them.”
+
+By the end of the week, **Galahad** appears in the Collegium’s student ledger.
+
+A small bursary covers a room and meals, approved on Savel’s recommendation and subject to a review of your studies. There is no purse handed over. Your access comes through entries in ledgers, keys issued by an attendant and librarians learning which signatures accompany your requests.
+
+Your room lies in a residential annex overlooking a narrow service court. It contains a bed, a desk beneath the window, a washstand and a lamp. The door locks.
+
+The sword fits beneath the bed.
+
+***
+
+Corva answers the telephone after someone goes to fetch her.
+
+“Galahad?”
+
+Her voice reaches you through a low electrical hiss.
+
+You explain the enrolment, the lodging and your intention to remain while you study. When you tell her to contact you immediately if she needs anything, there is a short silence.
+
+“I will.”
+
+Then the questions come.
+
+A room of your own? Meals included? Who should she ask for when she calls?
+
+You give her the arrangements available through the Collegium office.
+
+“I’m glad you rang,” she says.
+
+The words are simple. Her voice makes them less so.
+
+“Don’t wait until something’s wrong to do it again.”
+
+***
+
+The library changes the scale of your days.
+
+At Serravonne, references frequently led to books nobody possessed. Here, many of those books occupy shelves a few paces apart.
+
+You follow one.
+
+Then another.
+
+An abbreviated treatment of heat leads to a fuller account of thermodynamics. A familiar mechanical approximation leads into differential methods that make its limitations easier to express. Material tables acquire context: the specimens used, the conditions of testing, the reasons one author’s figures disagree with another’s.
+
+Some gaps close in an afternoon.
+
+Others reveal that the authors themselves do not possess a satisfactory answer.
+
+Your notes multiply.
+
+You move between mathematics and mechanics most readily, bringing an existing body of work against the new material. Chemistry, biology, geography, economics and history fill the spaces around them. You retain explanations, compare accounts and begin recognising where a conclusion belongs to evidence, convention or a writer’s allegiance.
+
+A week does not exhaust the collection. It establishes how much faster you can advance with one.
+
+The ordinary shelves are open to you. Loaned volumes follow you back to your room. Certain cabinets remain locked; laboratory work and specialised collections require arrangements of their own.
+
+For now, you have more within reach than you can physically open at once.
+
+***
+
+The bird takes shape beside your growing stack of notes.
+
+Discarded metal supplies its body and mechanism. You bend, fit and adjust the pieces with your hands, returning to the smallest movements until they cease interfering with one another.
+
+Its first hops are uneven. The sound accompanying them is more rasp than birdsong.
+
+You adjust it.
+
+By the end of the week, overlapping pieces give the little body the appearance of folded plumage. From across the room, in the lamplight, it could be mistaken for a bird perched upon your desk.
+
+You draw the winding gear down its back and release it.
+
+The mechanism gathers itself.
+
+A small hop carries it across the wood. Another follows, accompanied by a brief, bright chirrup. Its body tilts as it settles, then rights itself for the next movement.
+
+Eventually, the stored motion runs out.
+
+It stands still among the papers.
+
+***
+
+Savel calls that evening.
+
+He remains outside your open doorway, holding a folded workshop schedule.
+
+“There’s a governor in the teaching workshop that behaves properly until it warms through. They’ve replaced the obvious worn parts.”
+
+He offers you the sheet.
+
+“We’re examining it tomorrow morning. I thought you might prefer something you can put your hands on after all those books.”
+
+A slight smile.
+
+“You can observe, or give us your own assessment.”
+
+---
+
+Name: Galahad  
+Age: Approximately fourteen months; accelerated adolescent development  
+Date: Planetfall + one year and fifty-two days — evening  
+Reputation: Provisionally enrolled Collegium student; Savel’s unusually gifted protégé; full capabilities concealed  
+Weapons (Equipped): None; wrapped Vordrake-bone greatsword stored in his room  
+Armor/Clothing (Equipped): Work shirt, trousers, leather boots  
+Gear/Inventory: Clockwork hopping bird; study notes, borrowed library books and small mechanical scraps; sword wrapping and rope. Earlier belongings remain at Corva’s home  
+Currency: None
+
+
+## 126 — User — Months of invention and study
+
+Over the next several months I begin my studies through the established curriculums. The standard curriculums are very easy and do not even account for 1% of the self made curriculum I have followed simply by following my own instincts. After the second month it is agreed that teachers would spend an hour a week with me for each subject one on one instead of me attending normal classes which are far too slow paced for me. By the end of these few months I have already finished the first, second and third year Curriculums and made my way through about three quarters entire library. Instead of handing me lessons, professors realised that was a poor idea and began handing me the full curriculum and syllabus to learn off directly. During this time I practise my Psychic talents in more subtle ways. When I wish to be alone instead of saying this to people I exude a pressure that causes anxiousness and unease in those who surround me until they leave. Perhaps sometimes fear. When I wish people to do as I wish I make them feel relaxed and comfortable using the same psychic pressure. And again sometimes I use fear. I am learning fear is a useful tool when applied correctly. During this period I consume knowledge at a rapid rate. I create sketches for massive buildings and monuments that dwarf what we have now albeit they cost significantly more but are structurally sound. I create small engines and very simple clockwork automata. I create a small snake that shakes along the ground with a tiny engine inside it that will allow it to sliver around and automatically change course when it finds an impassable object. Just joints and pressure. It takes a thimble of water and can run for an hour. All through pistons, joints and mechanics. The snake possess over a hundred thousands individual parts that I filed down with my fingernails under a magnifying class until they were barely larger than a grain an eighth of a fingernail and adding the fine embellishments and details to each minor piece with my blade made from bone by placing it on my bed and keeping the majority of the weight back on the bed so I can scrap the final etchings onto the snake pieces by running them across the tip. Rarely compared to what I did in Serravonne but once a week I head out into the nearby wilds to hunt prey and with my sword it is considerably easier. I rarely have to rely on my psychic powers to fight these creatures anymore if I use the sword so instead I begin to alternate. Attempting to use my powers to conjure green lighting to strike at my prey. I call Corva multiple times during this period to check up on her and Vaskan
+
+
+## 127 — Assistant — Progress note
+
+I’ll resolve four months of study, invention and private practice, including how the Collegium responds to your progress and how well your psychic influence remains concealed. For the snake, I’ll treat the water as its working fluid; its engine will also need an energy source.
+
+
+## 128 — Assistant — Four months at the Collegium
+
+By the end of the first month, attending ordinary lectures has become an exercise in waiting.
+
+You finish the assigned work, then continue with your own while the explanation proceeds around you. Occasionally, a lecturer mistakes your silence for inattention and asks a question.
+
+The answer generally creates another question.
+
+Eventually, Savel attends one of these exchanges. He listens while you explain an alternative treatment of the problem on the board, then remains behind with the lecturer after the room empties.
+
+The arrangements change during the second month.
+
+One hour each week, individually, for each subject. You receive the syllabuses, reading lists and assessment requirements directly. Those meetings become opportunities to examine what you have learned, challenge an argument or request material beyond the prescribed course.
+
+Some teachers adapt readily.
+
+Others arrive with a lesson prepared and discover, within minutes, that they need something else.
+
+***
+
+Four months fill your room with paper.
+
+The first-year requirements disappear beneath completed work. The second follows. By the time you satisfy the third-year curriculum, the staff discussing your progress have stopped comparing you with the students who enrolled alongside you.
+
+Your independent studies range considerably farther.
+
+You work through approximately three quarters of the Collegium’s library. Books that would occupy another reader for weeks pass across your desk between individual meetings. Their contents remain available to you afterward: equations, diagrams, arguments, contradictions.
+
+Understanding one subject opens approaches into another. Machinery gives practical meaning to mathematical methods; chemistry explains material behaviour that an engineering handbook merely tabulates. Economic histories acquire different implications when read beside freight statistics and accounts of military mobilisation.
+
+Some authors become more impressive as you understand them.
+
+Others become less so.
+
+The library still contains unfamiliar ground. Beyond its walls lie private collections, industrial secrets and traditions its scholars know only through disputed accounts. But the body of knowledge you can now bring to a problem is becoming extraordinary even by the Collegium’s standards.
+
+Savel’s interest grows with it.
+
+He makes introductions. He argues for access. When another lecturer praises something you have done, he listens with unmistakable satisfaction.
+
+He also spends evenings working through arguments you have given him, returning with pencilled questions of his own.
+
+***
+
+Your buildings rise first upon paper.
+
+Immense halls. Towers connected by elevated galleries. Monumental façades whose apparent weight conceals a carefully considered structure behind them.
+
+The dimensions make one lecturer check your scale twice.
+
+The calculations survive examination.
+
+Cost is another matter. So are the foundries, transport arrangements and skilled labour required to turn such drawings into inhabited structures. Beside certain estimates, the figures grow large enough to draw long silences.
+
+Yet the designs are sound. They remain on your desk because nobody has commissioned their construction.
+
+***
+
+You learn to change the atmosphere of a room.
+
+At first, creating unease is easier than confining it. Someone approaching your desk hesitates; another person several places away looks up from their reading.
+
+With practice, the effect narrows.
+
+A conversation falters. A visitor remembers something elsewhere that suddenly seems more pressing. People who had intended to linger leave you to your work.
+
+Comfort works differently. Shoulders loosen. A doubtful expression softens. Requests receive a more patient hearing.
+
+Fear can move someone faster.
+
+You become increasingly able to distinguish the moment an ordinary hesitation acquires urgency—the quickened breath, the glance toward the door, the decision to put distance between themselves and you.
+
+People still possess reasons, duties and opinions. An examiner made comfortable in your presence can remain dissatisfied with a calculation. But you discover how much of an encounter can change before anyone recognises that something has been done to them.
+
+No one confronts you with an accusation of psychic interference.
+
+There are consequences nevertheless. Some fellow students become reluctant to interrupt you. A few greet you politely and keep walking. Your solitude becomes easier to obtain.
+
+***
+
+The snake occupies weeks of your private hours.
+
+More than a hundred thousand pieces accumulate through its construction: functional components, articulated scales, tiny fittings and embellishments so small that the magnifying glass becomes indispensable.
+
+You work them between your fingers. The bone sword rests with its weight supported upon the bed, its tip serving as a fixed edge against which you finish the smallest details.
+
+The mechanism within the body drives a succession of movements through its joints. Contact at the head redirects that movement, turning the little creature away from an obstruction.
+
+Its thimbleful of water circulates as the engine’s working fluid; a separate small fuel charge supplies the heat. Returning the water through the mechanism allows it to continue far longer than simply exhausting steam into the room.
+
+There are evenings spent correcting a single persistent catch.
+
+Eventually, it runs.
+
+The snake advances across your floor in a wavering procession of articulated metal. At the leg of the washstand, its head presses against the wood. The contact changes the mechanism’s action.
+
+Its body curves.
+
+It slips away along another course.
+
+For an hour, under suitable conditions, it continues its small exploration. It cannot understand the room. It does not need to. Contact, pressure and the arrangement of its moving parts are enough.
+
+***
+
+Beyond Auvrienne, your other experiments leave different marks.
+
+The sword makes many encounters brutally brief. Its reach and weight, driven by your strength, turn attacks you once had to meet bodily into opportunities to strike.
+
+On other nights, you keep it aside.
+
+The first successful lightning comes with a sharp green illumination between the trees.
+
+For an instant, every wet leaf around your prey acquires a hard, brilliant edge. The discharge strikes with a crack that returns from the surrounding growth. Something heavy collapses beyond the fading light.
+
+The smell remains afterward: scorched flesh, disturbed earth and the sharpness of the discharge.
+
+Across subsequent excursions, you learn to call it more deliberately. Short bursts become easier to direct. Greater force remains more conspicuous, leaving scorched surfaces and noise that travels well beyond the clearing.
+
+The hunters do not appear.
+
+That absence gives you time to practise. It tells you nothing certain about what they might eventually notice.
+
+***
+
+Corva’s voice remains familiar through the telephone.
+
+She asks about your studies, your room and whether you are still remembering to call before the office closes. Veskan is available for some conversations and absent on railway work for others.
+
+Their lives continue around the calls: repairs, schedules, weather, the ordinary difficulties of keeping the station functioning.
+
+You remain part of those conversations.
+
+***
+
+At the end of the fourth month, the snake is moving beneath your desk when Savel knocks.
+
+“Galahad?”
+
+His voice comes through the door.
+
+“A works engineer is visiting tomorrow afternoon. I mentioned your larger structural designs. He’d be willing to look at them.”
+
+A pause.
+
+“If you want the introduction.”
+
+---
+
+Name: Galahad  
+Age: Approximately eighteen months; accelerated development  
+Date: Four months after Collegium enrolment — evening  
+Reputation: Exceptional independent scholar; three years of curriculum completed; regarded with growing interest and some unease  
+Weapons (Equipped): None; Vordrake-bone greatsword stored in his room  
+Armor/Clothing (Equipped): Fitted work shirt, trousers, leather boots  
+Gear/Inventory: Research archive, architectural designs, borrowed books, mechanical scraps, clockwork bird, miniature engines and articulated mechanical snake; wrapped bone greatsword. Earlier belongings remain at Corva’s home  
+Currency: None
+
+
+## 129 — User — Precision, family calls and the Margrave (outside the scene)
+
+Given my biology I probably could have made the snake without the magnifying glass. It just makes it easier. And why is Corva asking if I’m still remembering to call while I’m on the phone to her? Also quick question before we move on that we should probably put somewhere. Where does the Margrave live/govern from?
+
+
+## 130 — Assistant — Corrections and the seat of government (outside the scene)
+
+Yes—the magnifying glass was a convenience. **Galahad’s enhanced vision and fine motor control were sufficient for that work without it.** I’ll preserve that distinction in the continuity notes.
+
+And you’re right about Corva’s dialogue. She could reasonably ask you to keep calling regularly, but asking whether you remembered to call while answering your call was clumsy. Her intended meaning was: “Keep in touch. I like hearing from you.”
+
+**The Margrave governs from Auvrienne**, already established as Veyrasse’s capital. We haven’t yet named or described the actual residence.
+
+My suggestion is a **fortified palace and government precinct on the upper terraces**, overlooking the city and railway basin. The Margrave’s household occupies the palace; adjoining buildings house the chancery, treasury and military secretariat. That fits the pale government buildings you saw on arrival and Veyrasse’s mixture of hereditary rule, industrial wealth and military necessity.
+
+It would also give us a useful distinction: the Margrave holds court and makes policy there, while municipal offices administer Auvrienne itself. The Collegium has connections to that government through engineering work and patronage, without being part of the palace.
+
+---
+
+Name: Galahad  
+Age: Approximately eighteen months; accelerated development  
+Date: Four months after Collegium enrolment — evening  
+Reputation: Exceptional independent scholar; three years of curriculum completed  
+Weapons (Equipped): None; Vordrake-bone greatsword stored in his room  
+Armor/Clothing (Equipped): Fitted work shirt, trousers, leather boots  
+Gear/Inventory: Research, architectural designs, borrowed books, clockwork bird, miniature engines and mechanical snake; wrapped bone greatsword. Earlier belongings remain at Corva’s home  
+Currency: None
+
+
+## 131 — User — Documentation checkpoint (outside the scene)
+
+Ok now please update the GitHub documentation. Please take your time and any documents you are updating please read them in full, line by line. This ensures you do not miss any outdated info, errors, mistakes or inconsistencies. Please take your time I am more than happy to wait.
+
