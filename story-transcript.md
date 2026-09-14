@@ -5069,3 +5069,40 @@ The coin flip makes Veyrasse’s nobility open to men and women on equal terms; 
 
 I’m recording them as still married but living separately, and their lost son as the same child you perceived. Corva’s guarded grief will not be treated as a supernatural barrier to your perception.
 
+
+## 177 — Assistant — Progress note
+
+The family record is updated, and the checks confirm that the earlier transcript is intact. The slate now records their marriage and shared loss, along with your intended household structure. No titles have been granted and no time or money has been spent. I’m verifying the GitHub deployment now.
+
+## 178 — Assistant — Family records published (outside the scene)
+
+Published **revision 28** and verified the [live slate](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/).
+
+The records now establish:
+
+- **Corva and Veskan Orsival remain married**, living separately after losing their shared son. Their different responses to grief—and enduring affection—are preserved.
+- **Orsival is Veskan’s surname**, retained by Corva. You regard him as your father and intend to identify him accordingly in future paperwork.
+- Your intended house places **you at its head**, Corva in the Mother of the House role, and Veskan within the ennobled family. No titles or registration have been enacted yet.
+- The coin flip established **equal eligibility for men and women in Veyrasse’s nobility**. Veskan would gain family standing without automatically receiving an office or “Sir” title.
+
+The complete discussions are archived, with detailed continuity notes saved for future scenes.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately two years; 8½ feet tall  
+Date: Ten months and eleven days after Collegium enrolment — evening  
+Reputation: Celebrated scholar and commissioned technical examiner  
+Weapons (Equipped): None; bone greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Commission, research, works records, mechanical creations, charms and hunting materials; earlier possessions with Corva  
+Currency: 560 lorrats; 30 more due on report delivery
+
+
+## 179 — User — Matching parental titles and technology baseline (outside the scene)
+
+Actually now I think about it, it probably makes more sense for Veskan to get a noble title if Corva does. The noble titles don’t care who had the most active participation in my life they just care who my parents are. Please update it so they both get a title of father and mother of the house respectively. And then once you have finished that my question about technology. First a question preceding my question. When we established this world I said WW1-WW2 and you have some tech examples but I’m wondering if you can devise some kind of real world cut off date or something similar so I can get an idea for what has and has not been invented yet. I have some ideas for custom military vehicles but I do not wish to reinvent the wheel so to speak and I need to get more experience making more complex stuff than essentially toys in order to justify making any significant advancements like inventing an equivalent to a modern .50 caliber sniper right off the bat. I’m at a point where I’m very well versed in this planet’s technology so I want to improve on the technology first before I completely start skipping over large sections which will come later in the story most likely. If that makes sense.
+
+
+## 180 — Assistant — Progress note
+
+I’ll update the planned house so both parents receive matching titles, then set out a clearer technological baseline for the world. I’ll check the historical examples so the cutoff distinguishes established equipment from prototypes and later inventions.
+
