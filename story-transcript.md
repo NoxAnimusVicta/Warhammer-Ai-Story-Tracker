@@ -5407,3 +5407,41 @@ The population totals reconcile, including the disputed Serevask territories. I�
 
 Revision 30 is built and the checks pass. It includes the wider nations, population register, industrial differences, traditions of magic and Galahad’s proposed research. His current scene, equipment, finances and commission are unchanged. I’m publishing it now, including the complete discussion transcript.
 
+
+## 199 — Assistant — Publication confirmation (outside the scene)
+
+Published and verified **revision 30** on [GitHub](https://github.com/NoxAnimusVicta/Warhammer-Ai-Story-Tracker). The slate now records the agreed nations, populations, technological differences, magical traditions and proposed research. The complete discussion is preserved in the Markdown transcript.
+
+Your phone will receive the update when opened online. No story time or resources have changed.
+
+Name: Galahad  
+Age: Approximately two years; 8½ feet tall  
+Date: Ten months and eleven days after Collegium enrolment — evening  
+Reputation: Celebrated scholar; commissioned technical examiner  
+Weapons (Equipped): None; bone greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Commission records, research, mechanical creations, charms and materials; earlier belongings with Corva  
+Currency: 560 lorrats; 30 due upon report delivery
+
+## 200 — User — World atlas request
+
+Now one thing that is worth doing before continuing since we have established all this new info. We have a map for the Eastern Marches of Vesalius. But we probably need some kind of world map in the same style that you can zoom in and out of. The current design style of the map we have used should work fine we just need to extend it significantly so it matches how we have described the world. If you need to ask any questions for clarification before starting please ask.
+
+
+## 201 — Assistant — Progress note
+
+I’ll extend the existing atlas into a zoomable world map, using the agreed geography and preserving the Eastern Marches’ established locations and distances. I’ll check the current map implementation and world notes first, then build and publish the expanded atlas for the phone slate.
+
+
+## 202 — Assistant — Progress note
+
+The regional atlas is built from editable vector data, so it can support a much larger chart without losing sharpness. I’m adding a world overview with continent shortcuts, selectable political records, and pinch/drag navigation. The Eastern Marches will retain their detailed survey; the broader map will distinguish generalised claims from firmly surveyed borders.
+
+
+## 203 — Assistant — Progress note
+
+The world chart and navigation are built. I’m checking the phone layout and map controls now, including the link back to the detailed Eastern Marches survey. The new geography is stored separately so future territorial changes can be updated without redrawing the map.
+
+## 204 — Assistant — Progress note
+
+The mobile checks are working: selecting Veyrasse centres the chart and shows its population and political record. Zooming into the Eastern Marches now reveals the original survey itself, including its cities and routes. I’m finishing the interaction checks before uploading the new edition.
