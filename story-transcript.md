@@ -5445,3 +5445,54 @@ The world chart and navigation are built. I’m checking the phone layout and ma
 ## 204 — Assistant — Progress note
 
 The mobile checks are working: selecting Veyrasse centres the chart and shows its population and political record. Zooming into the Eastern Marches now reveals the original survey itself, including its cities and routes. I’m finishing the interaction checks before uploading the new edition.
+
+
+## 205 — Assistant — Progress note
+
+The atlas has been uploaded. I’m checking the GitHub commit and live deployment now. The phone layout, zoom buttons, territory selection and regional-survey link passed the browser checks; physical iPhone pinch behaviour still needs your device to confirm.
+
+## 206 — Assistant — Publication confirmation (outside the scene)
+
+The [world atlas is live](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=4cd3df640da67954a21f#world) in **revision 31**.
+
+It includes zoom and drag controls, continent shortcuts, selectable nations with population records, and the original Eastern Marches survey embedded at closer scales. Its editable geography supports future territorial changes.
+
+Published and deployment verified. Your phone updates when opened online.
+
+Name: Galahad  
+Age: Approximately two years; 8½ feet tall  
+Date: Ten months and eleven days after Collegium enrolment — evening  
+Reputation: Celebrated scholar; commissioned technical examiner  
+Weapons (Equipped): None; bone greatsword stored  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Commission records, research, mechanical creations, charms and materials  
+Currency: 560 lorrats; 30 due upon report delivery
+
+
+## 207 — User — Atlas corrections
+
+Design looks good but the Continent design is too jagged and spikey and doesn't look natural. Also the whole Continent of Vesalius looks fucked and the zoom feature needs to scale down to the original eastern marchs map. Currently its a cut zoom which defeats the purpose of the zoom feature. There is also way less detail on this map in terms of routes, cities and that sort of thing. We need to do this right. Please take your time and check your work before presenting
+
+
+## 208 — Assistant — Progress note
+
+I’ll rework the coastlines and Vesalius’s layout, then make the zoom carry through into the Eastern Marches without a boxed-off inset. I’ll also add a consistent layer of cities, terrain and transport routes, and check the map at both world and regional scales before publishing.
+
+
+## 209 — Assistant — Progress note
+
+I found the main fault in Vesalius: the renderer joined separately closed coastline sections, which produced a broken outline. The regional survey was also being drawn as a rectangular image inside the world map. I’m replacing both with continuous geometry and extending the zoom range so you can follow the same map all the way down to cities and railway lines.
+
+
+## 210 — Assistant — Progress note
+
+The rebuilt coastlines now pass geometry checks, and the atlas has 50 marked settlements and 56 transport corridors. The Eastern Marches’ existing city positions and routes are preserved. I’m now checking readability at different zoom levels and testing the controls on the phone-sized layout, where the earlier version fell short.
+
+## 211 — Assistant — Progress note
+
+The phone preview now moves from the whole continent into Auvrienne and Serravonne on one continuous map, with readable city labels and the original rail alignments. The deeper audit also caught a duplicate territory identifier in the earlier data; I’m correcting that and checking for overlapping claims, misplaced settlements and routes crossing open water.
+
+
+## 212 — Assistant — Progress note
+
+The corrected map now keeps Veyrasse, Ceralte, Auvrienne, Serravonne, Drossane and Dalmor readable at the regional view. Settlement search can zoom much closer, and there is no nested map or rectangular inset left. Geometry checks and navigation tests—including simulated pinch, drag and pointer cancellation—pass. I’m publishing this version now.
