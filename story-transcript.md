@@ -5542,3 +5542,65 @@ The atlas now has 887 settlements across the three continents, with local transp
 ## 218 — Assistant — Progress note
 
 The close views now have comparable settlement density to the Eastern Marches. Otranto is slightly denser and Morholt remains more sparsely settled. The geometry checks pass, including the original regional locations and routes; I’m finishing the phone checks and updating the atlas records.
+
+
+## 219 — Assistant — Progress note
+
+The phone preview checks passed across all three continents, and the update is now being published. I’m checking the GitHub Pages deployment and live files before calling it finished.
+
+## 220 — Assistant — Publication confirmation (outside the scene)
+
+[The expanded atlas is live](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=d9e25640bf4a563eff38#world).
+
+All three continents now have comparable regional detail: **887 settlements**, connecting roads and railways, rivers, tributaries, mountains and woodland. Detail appears progressively as you zoom, and settlement search helps you explore.
+
+I checked phone-sized views, navigation and geographic consistency, then verified the live deployment. The Eastern Marches remain intact.
+
+Name: Galahad  
+Age: Approximately two years; 8½ feet tall  
+Date: Ten months and eleven days after Collegium enrolment — evening  
+Reputation: Celebrated scholar; commissioned technical examiner  
+Weapons (Equipped): None; bone greatsword stored  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Commission records, research, mechanical creations, charms and materials  
+Currency: 560 lorrats; 30 due upon report delivery
+
+
+## 221 — User — Planetary atlas and census request (outside the scene)
+
+We should probably have annual growth numbers for each group of people since we are tracking population to account for annual growth as this story is made to go over a considerable amount of time. Also a bunch of these entries don't have any info that describes what the power or city is. Also the Political Register and Find a Settlement are nice touches. But the Register is invalidated by Find a Settlement when the Political Register should be more of a filter for the settlements. Also since we have this new map once it matches the details outlined in the old map we can get rid of the old map for just the Eastern Marchs since it will be incorporated into the world map. The world map itself also does not look like a world map or follow any of the rules of terrain and geography like mountains and how they interact with and cause biomes or tectonic plates. There are zero islands and all the land mass blobbed here with no poles is not a world map it is just a very basic and poorly designed map. We need a proper world map
+
+
+## 222 — Assistant — Progress note
+
+I’ll revise this as a coherent planetary atlas: geography shaped by mountain systems, drainage and climate; population growth records; useful descriptions; and a political filter that narrows the settlement register. I’ll also check that the world map contains the Eastern Marches’ information before removing the separate chart.
+
+
+## 223 — Assistant — Progress note
+
+I found two concrete problems: several city records still contain placeholder descriptions, and settlement search currently ignores the selected power. I’m also replacing the decorative terrain pattern with a model that links mountain belts, river catchments and climate. Annual growth will be tied to elapsed story time, with losses and migration recorded separately.
+
+
+## 224 — Assistant — Progress note
+
+The new chart now places the continents within a latitude grid, with polar seas, offshore shelves and volcanic island arcs. I’m retaining the measured Eastern Marches routes as the local reference. The population ledger will keep national totals separate from city populations, so cities and disputed territories are not counted twice.
+
+
+## 225 — Assistant — Progress note
+
+The rebuilt atlas now has physical, political and geology views. The political register narrows settlement search while keeping the power’s description visible, and the old regional journey distances are being moved into the same atlas. I caught a widescreen fitting issue that cropped the south polar area and am correcting it before the final checks.
+
+
+## 226 — Assistant — Progress note
+
+The accounting and geography checks pass: the original regional measurements are preserved, mapped land routes stay on land, and city populations reconcile with the national totals. The initial growth trend is about **0.34% annually**, with different rates by census group. I’m now checking the combined map, filters and population tables at iPhone dimensions.
+
+
+## 227 — Assistant — Progress note
+
+The phone review caught two details worth fixing: the escarpment model was making Auvrienne’s surroundings too cold, and older regional routes lacked the endpoint identifiers needed to appear in city descriptions. I’m correcting both, so the new records agree with the established setting.
+
+
+## 228 — Assistant — Progress note
+
+The final phone checks pass, including the population tables, combined filters and regional route highlighting. The separate Eastern Marches map is now replaced by its records and measured routes within the world atlas. I’m publishing this version, then checking the live deployment.
