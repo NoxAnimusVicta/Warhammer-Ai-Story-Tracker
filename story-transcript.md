@@ -4092,3 +4092,790 @@ Currency: None
 
 Ok now please update the GitHub documentation. Please take your time and any documents you are updating please read them in full, line by line. This ensures you do not miss any outdated info, errors, mistakes or inconsistencies. Please take your time I am more than happy to wait.
 
+
+
+## 132 — User — Clothing, charms and the hunters
+
+Over the last few months I have outgrown my clothes several times and the few I have had to borrow from the Collegium lost and found will no longer cut it as there is nothing there anymore that will fit me. I arrange for the Collegium to incorporate new clothing into my expenses via Saval as I cannot meet this works engineer wearing clothing that is almost comical for me to be in given the size difference. When I arrived here I was a little over 6ft, not always the tallest person in the room but I was more often than not. Now I am closer to 8ft. There is never a moment when I do not have to look down upon people and I grow more every day still. Over the next week I organise the new clothes, see the works engineer and speak with him at length about various works projects not just my own and I put across psychic pressure to make him feel comfortable and at ease so he is willing to open up to me, trust me and maintain a good impression of me. Aside from these events I continue my regular routine for the rest of the week of consuming knowledge from the Collegium, calling Corva every so often and going out occasionally to hunt. One thing that changes is I do begin collecting teeth, small parts of bone, hide or scale and I begin using them to craft extremely intricate and delicate charms and I make them into a symbol that is historically said to keep away bad luck and ill fortunes. I char them around the edges with a soft spark of emerald lighting for the following touches, using it as a way to practise the ability in a refined setting instead of an explosive one. But also to try to ensure these talismans may actually provide some benefit to the wearer instead of just playing on superstitions. I do not understand this sort of ward craft well enough and there are few books here that consider it a serious subject. But I am hoping that touching them with my own talents, whether they are inate or arcane will allow the talismans to perform the task they were designed for. (I am speaking vaguely about the warp and immaturium as this planet wouldn’t have that frame of reference for teachings and since we have gone with some King Arthur references they will just see it like magic and that’s how it will be recorded in the histories I currently learn from. I won’t really get a proper frame of reference until Bile shows up and tells me if he doesn’t try to kill me or I get my civilisation space faring and somehow manage to encounter a Drukhari or Aeldari or Imperial which is very unlikely given where Bile positioned me and the fact it is owned by the Hunters. By the way some context for the Hunters. They are literally just the Yautja from Predator. Let’s not call them that and we will tweak them very slightly so they fit in 40k but it’s functionally, aesthetically and thematically just a civilisation of Yautja that use this planet as a hunting ground. They would even look like Yautja very heavily. This should feel like an homoage and it’s very clear to someone with knowledge of the Alien and Predator franchises as to what this is. But we don’t need to give them a name at all quite yet. If we do it should be a play on the name Yautja. I haven’t really taken it further than that. I think they are probably tech focused as opposed to psycher focus since I never envisioned them bringing daemons down on the world or using powers like that. Just advanced pulse weaponry and basically all the sort of stuff predators have, active camo, that sort of thing. Maybe they hate psychers or see them as valued kills?)
+
+## 133 — Assistant — Progress note
+
+I’ll resolve the week’s clothing arrangements, engineering discussions and first attempts at warded charms. I’ll also keep the hunters close to your intended Predator homage, with their attitude toward psychic prey still unrevealed.
+
+## 134 — Assistant — Clothing, Cevrane and first charms
+
+Savel looks at your cuffs.
+
+Then at the exposed length of your wrists.
+
+“Yes,” he says. “We should have dealt with this sooner.”
+
+The borrowed coat cannot close across your chest. Its shoulders sit well inside your own, drawing the sleeves into creases whenever you move. Standing beneath the room’s lintel, you have to incline your head to see him properly.
+
+He takes off his spectacles.
+
+“I’ll speak to the bursar. Clothing ought to fall under your maintenance allowance.”
+
+***
+
+The woman who comes to measure you brings an assistant.
+
+Halfway through, she sends him back for more cloth.
+
+“Leave room through the shoulders,” Savel suggests.
+
+She looks up from the tape stretched across your back.
+
+“How much?”
+
+Neither of them immediately answers.
+
+For tomorrow’s meeting, she supplies a long, generously cut shirt and trousers altered sufficiently to fit without pulling at every seam. By the week’s end, these are joined by a charcoal coat, further shirts and larger boots. The finished garments have broad allowances inside their seams and fastenings that can be moved.
+
+The cost goes onto the Collegium’s account. No money passes through your hands.
+
+***
+
+The visiting engineer is **Ottrel Cevrane**.
+
+He has a narrow, weather-browned face and a right hand whose smallest finger will not straighten. When Savel introduces you, his gaze rises rather farther than he expects.
+
+“Galahad?”
+
+He offers that hand.
+
+“I’ve been hearing about your buildings.”
+
+His first questions concern their foundations.
+
+The drawings spread across a large table in one of the teaching rooms. Cevrane places a leather document case beside them, then begins tracing the route by which the weight of an upper gallery reaches the ground.
+
+You discuss the structure at length.
+
+His manner gradually loses its visiting formality. Under the influence you exert, the pauses become comfortable; questions follow thoughts that he might otherwise have kept to himself.
+
+He pulls out a chair.
+
+“May I show you something less handsome?”
+
+From his case comes a folded plan stained along one edge.
+
+“A pumping station. We enlarged the delivery system three years ago. Since then, we’ve been replacing things that shouldn’t be wearing out.”
+
+You examine the arrangement together. He supplies details absent from the drawing: alterations made during construction, the ground beneath one foundation, the discrepancy between the machinery specified and the machinery actually delivered.
+
+The conversation expands.
+
+Reservoirs. Railway approaches. Structures repaired repeatedly because closing them long enough to rebuild would interrupt supplies to an entire district.
+
+Cevrane speaks increasingly freely about the compromises behind them.
+
+“The specification assumes sound material,” he says at one point. “The contractor swears he supplied sound material. My men are the ones standing underneath it.”
+
+Your knowledge keeps him at the table long after he intended to leave.
+
+The psychic ease helps him remain there. It is the substance of the discussion that finally makes him take a pencil and write something in the margin of his own notes.
+
+Before departing, he asks Savel whether copies of certain works records can be sent to you.
+
+“Ordinary operating returns,” he says. “Nothing the office will object to.”
+
+Then, to you:
+
+“I’d like your opinion with the actual figures in front of you.”
+
+***
+
+The rest of the week settles around your familiar occupations.
+
+Books arrive on your desk and return to the library. The new clothing makes the change in your proportions more apparent, rather than concealing it. People who have grown accustomed to seeing you seated sometimes stop briefly when you stand.
+
+Corva hears about the tailor over the telephone.
+
+“Good,” she says. “I was wondering how long they meant to keep finding somebody else’s sleeves for you.”
+
+There is affection beneath the remark.
+
+“Leave enough cloth inside the seams. Tell them that.”
+
+***
+
+Your hunts begin furnishing materials as well as practice.
+
+A tooth cleaned of its root tissue. Thin plates of scale. Small lengths of pale bone. Hide scraped and cut into narrow cords.
+
+These are modest trophies beside the sword beneath your bed. Under your fingers, they become much finer things.
+
+One familiar protective sign appears repeatedly in the accounts you find: hooked strokes interlinked around a central lozenge. Variations occur above doorways, on travelling charms and among burial customs. The writers disagree about which details matter.
+
+Some describe a protection against hostile attention.
+
+Others promise fortunate passage.
+
+One dismisses the whole practice, then records that his grandmother would never travel without such a charm.
+
+You reproduce the forms with extraordinary delicacy.
+
+The first emerald spark splits a thin bone blank.
+
+The next leaves a blackened pit where you intended a narrow border.
+
+Eventually, you learn to hold the discharge small enough that it creeps along an edge in brief, brilliant pinpoints. The room smells of scorched horn and singed hide. Against the darkened margins, the pale incisions become sharply legible.
+
+That part of the experiment improves steadily.
+
+The warding is less certain.
+
+A charm grows warm beneath your attention. For an instant, green light catches within its smallest cuts. Once you release it, the material cools and the light disappears.
+
+You can make the object respond while you are working upon it. You cannot yet establish that it continues protecting anything afterward.
+
+Nothing in the few useful books gives you a dependable way to distinguish a successful charm from a beautifully made one.
+
+By the end of the week, several finished examples lie upon a folded cloth beside your notes. Their craftsmanship would withstand much closer examination than the claims you could currently make for them.
+
+Beside them rests the packet Cevrane promised.
+
+Pump returns. Delivery figures. Maintenance entries written in several different hands.
+
+A short accompanying note offers something the books cannot: a visit to the southern pumping works the following week, with Cevrane himself to show you where the drawings and the actual machinery differ.
+
+---
+
+Name: Galahad  
+Age: Approximately eighteen months; approaching eight feet tall  
+Date: Four months and one week after Collegium enrolment — evening  
+Reputation: Exceptional Collegium scholar; has impressed works engineer Ottrel Cevrane  
+Weapons (Equipped): None; wrapped Vordrake-bone greatsword stored in his room  
+Armor/Clothing (Equipped): Tailored charcoal coat, pale shirt, dark trousers and fitted leather boots  
+Gear/Inventory: Research, architectural designs, borrowed books, mechanical creations, experimental protective charms, small hunting materials and Cevrane’s works records; earlier belongings remain with Corva  
+Currency: None
+
+## 135 — User — Six months of scholarship and ambition
+
+Over the next 6 months I continue to story at an extraordinary pace. In the first week I visit the pumping station with several designs for material improvements and more efficient design flow while still meeting the budget quota for any potential redesigns. I do this as a point to impress Cevranne and ensure he spreads word of my work and accomplishments. I have read every book in the Collegium’s Library twice over now. I have finished every Curriculum for every year and now spend my time as an onsite scholar pursuing academic research and occasionally teaching classes at the Collegium across all subjects. This has allowed me to make many useful connections through students and faculty. During this time I have continued making my charms but I sell all of them to a local artisan who is happy to move them for me in exchange for a cut of the profits. I tell people that I have a trader contact in Ceralte who supplies me these materials from exotic apex predators. All through legal provisions of course. (This is obviously a complete lie but I make a point to hunt for value now which is usually the biggest and deadly stuff which I have no problem with due to my sword and psycher abilities but having a stable supply without clear government connections would make people think I’m doing something sketchy. This lie puts that on the trader themself who would have to keep things legal to get it across the border and the trader isn’t real so the whole thing ties itself up with no strings to follow.) I make sure the artisan I sell the talismans to ensures the people who buy them know that I created them. And I now being letting my true abilities shine and I use this influx of attention to carefully craft the persona that people see. The kind but solitary savant and genius, gifted with anything he touches, once in a generation. But one who can be just as intimidating to speak to head on even without intending to be. I use my newly established income from selling my talismans and teaching at the Collegium to send some money back to both Corva and Veskan to ensure they have enough to be comfortable and I call them at least once a fortnight. Due to my various accomplishments in such a short span of time and the eyes on me I also carefully begin seeding rumours via trusted connections I have made during this time that my long term ambition is to serve as a personal advisor to the Margrave (this isn’t true but it’s not technically a lie. I do want to do this, it’s just a stepping stone not my end goal. It’s path to power.). That way the Margrave’s intelligence network or simply members of the upper class should report this back to him or his advisors which will hopefully result in the Margrave and his people reaching out to me. One final thing I do during this period is use my new contacts to find those who more openly study the older ways of magic and the arts so that I can ingratiate myself with these communities and gain access to the knowledge and teachings that they possess. One thing that helps me with these connections aside from my psychic presence moulding them to suit my whims but my sales of Talismans ontop of my pay from the Collegium and lack of needing to pay for any expenses aside food and drinks which I rare need and only really purchase out of want and not need I effectively have a large amount of disposable income that I can spend as I see fit. By the end of this 6 month period I have grown to 8 and a half feat and I am still continuing to grow, although the pace seems to slow more the older I get.
+
+## 136 — Assistant — Progress note
+
+I’ll resolve the six months across your engineering work, academic standing, charm trade and search for magical teachers, including whether your growing reputation reaches the Margrave’s household. I’ll check the established currency before recording your earnings and the money sent home.
+
+## 137 — Assistant — A place and an hour
+
+Cevrane meets you at the pumping works with his coat already off and his sleeves rolled above the elbows.
+
+The building trembles around its machinery.
+
+You feel the irregularity through the soles of your boots before reaching the engine hall: a repeating disturbance beneath the heavier, steadier motion of the pumps.
+
+He sees the drawings beneath your arm.
+
+“You’ve brought an answer?”
+
+Several, as it turns out.
+
+***
+
+The first hour is spent comparing your designs with what actually stands inside the building.
+
+Cevrane supplies the things omitted from the records. A replacement casting came from a different foundry. One section of pipe was moved around a foundation that nobody wanted to excavate. An apparently generous maintenance allowance includes work already promised elsewhere.
+
+Your proposals survive those complications.
+
+Some require adjustment. Others become more attractive once the costs are laid beside the recurring expense of replacing damaged parts.
+
+Cevrane stands over one sheet for a considerable time.
+
+“We could do this section during the scheduled stoppage.”
+
+He moves his finger to the next.
+
+“And leave that until the following quarter.”
+
+The changes enter the works programme in stages. Over the following months, the returns supply something more persuasive than admiration: steadier delivery, reduced vibration and fewer interruptions in the altered sections.
+
+When Cevrane discusses the work elsewhere, he uses your name.
+
+***
+
+By the third month, the Collegium’s relationship with you has changed.
+
+You have completed its prescribed curricula. Every book in its library has passed through your hands twice. Your notes increasingly concern disagreements between authorities, missing explanations and questions for which the collection offers no satisfactory answer.
+
+Your room remains yours, but the payment entered against your name is now a scholar’s stipend, supplemented by the teaching expected within the arrangement.
+
+Occasional classes become part of your routine.
+
+Students arrive expecting the enormous, white-haired prodigy they have heard discussed. Then they discover how much attention an explanation can demand when the person giving it understands the subject well enough to approach it from several directions.
+
+Some return afterward with questions.
+
+Others bring acquaintances.
+
+Your connections spread through workshops, counting houses and professional households. The impression you cultivate finds willing carriers: approachable when engaged, difficult to interrupt, astonishingly capable and increasingly remote from any ordinary comparison.
+
+At eight and a half feet, you no longer disappear into a room by remaining quiet.
+
+***
+
+**Iseva Dorlac** initially takes your charms cautiously.
+
+She sells carved ornaments and small luxury goods from a narrow shop where individual objects sit against dark cloth beneath the glass.
+
+Her first concern is workmanship.
+
+Her second is whether anyone will pay what that workmanship deserves.
+
+They do, although not immediately.
+
+The earliest pieces remain in her window for days. A buyer examines one twice before returning with someone else. Another asks whether the pale material is genuine, then spends longer discussing the cord than the carving itself.
+
+Dorlac learns which customers appreciate them.
+
+She places your name beside the pieces.
+
+**Work of Galahad, scholar of the Collegium.**
+
+Your reputation begins doing part of the selling. The workmanship does the rest.
+
+She retains a quarter of each sale. Over six months, forty pieces find buyers, their prices varying with material and intricacy. They travel farther than you do: into drawing rooms, officers’ pockets and the hands of people who would never have visited the Collegium merely to meet a scholar.
+
+Your explanation of a supplier in Ceralte generally satisfies casual curiosity.
+
+It becomes less convenient when Dorlac considers larger business.
+
+“A merchant asked whether your supplier could provide a regular quantity,” she tells you one afternoon. “He wants a name to write to.”
+
+She has not accused you of anything. She regards it as an opportunity.
+
+The absence of a real trader has prevented anyone from questioning him. It has also left nobody who can answer.
+
+***
+
+Money gives your calls home another subject.
+
+Corva confirms the first remittance, then asks whether the amount was correct.
+
+When you assure her that it was, she falls quiet.
+
+“You’re looking after yourself as well?”
+
+Veskan is less comfortable discussing the money. He thanks you, changes the subject to the railway, then returns to thanking you before the call ends.
+
+You continue calling at least once a fortnight.
+
+By the end of the interval, each has received **180 lorrats**.
+
+In Veyrasse, a lorrat divides into one hundred brins. A skilled worker might earn roughly twenty-five lorrats in a month; the money you send is substantial assistance.
+
+Your six-month account stands as follows:
+
+| Account | Lorrats |
+|---|---:|
+| Collegium stipend | +360 |
+| Charm sales after Dorlac’s quarter share | +960 |
+| Sent to Corva and Veskan | −360 |
+| Clothing, materials, personal purchases and fees | −150 |
+| Books, instruction and scholarly access | −180 |
+| **Remaining funds** | **630** |
+
+Most remains on deposit through the bursar rather than filling your pockets.
+
+***
+
+The older arts prove harder to approach through institutional introductions.
+
+Several people who discuss them confidently know very little. Others become guarded as soon as they realise that your questions concern practice rather than folklore.
+
+Eventually, a connection leads you to **Valesse Orchant**.
+
+She receives you in a room crowded with old wood, hanging cords and narrow cabinets. There are no theatrical robes. Her cuffs are stained, and a chipped cup holds her brushes.
+
+She examines one of your charms beneath a window.
+
+“Who taught you the border?”
+
+You explain the sources you have consulted.
+
+“And this?”
+
+Her nail touches the scorched edge.
+
+When you describe the emerald spark, she looks at you more closely.
+
+“Show me.”
+
+The demonstration changes the conversation.
+
+Your presence makes her comfortable with you. Your precision interests her. Neither prevents her from setting the finished piece down and saying:
+
+“You’ve learned to burn it very carefully. What have you asked it to keep?”
+
+***
+
+Her instruction gives your experiments a different structure.
+
+Attention. Association. Repetition. The relationship between the sign, the material and the purpose held while making it.
+
+Her explanations are not uniformly convincing. Some belong to inherited practice whose original reasoning has been lost. Others produce distinctions you can test.
+
+You begin finding those distinctions.
+
+A few pieces retain something after you withdraw your attention: a faint impression that remains perceptible for hours, weakening gradually rather than vanishing at once.
+
+That is progress.
+
+It is not yet evidence that their wearers enjoy better fortune.
+
+Orchant refuses to confuse the two.
+
+“Keeping a mark is the beginning,” she says. “Now you must learn what the mark does.”
+
+Your sales continue alongside the experiments. So do your hunts, which provide valuable materials without bringing you face to face with the hunters themselves.
+
+***
+
+The ambition you allow others to hear travels through the same channels as your accomplishments.
+
+A promising scholar wishes to advise the Margrave.
+
+A useful engineer has broader interests than machinery.
+
+An extraordinary young man might be worth bringing closer before somebody else offers him a position.
+
+You cannot follow every repetition. You see the result at the end of the sixth month.
+
+Savel brings the letter himself.
+
+It bears the seal of the chancery.
+
+“They’ve asked you to present your work,” he says.
+
+The invitation is to the upper government precinct in four days, before an official concerned with public works and expenditure. It requests a concise account of your studies and examples of improvements that can be examined in practice.
+
+There is no appointment to office enclosed.
+
+There is, however, a place, an hour, and someone within the Margrave’s administration who now wishes to hear you speak.
+
+Savel lays the letter on your desk.
+
+“I would take Cevrane’s operating returns.”
+
+---
+
+Name: Galahad  
+Age: Approximately two years; eight and a half feet tall, still growing  
+Date: Ten months and one week after Collegium enrolment — evening  
+Reputation: Celebrated resident scholar, occasional teacher and inventive craftsman; attracting government interest  
+Weapons (Equipped): None; wrapped Vordrake-bone greatsword stored in his room  
+Armor/Clothing (Equipped): Refitted charcoal coat, pale shirt, dark trousers and leather boots  
+Gear/Inventory: Research, works records, architectural designs, mechanical creations, magical-study notes, experimental charms and hunting materials; chancery invitation. Earlier belongings remain with Corva  
+Currency: 630 Veyrasse lorrats, principally held on deposit
+
+## 138 — User — Missing continuous recording (outside the scene)
+
+Why have you stopped recording every exchange to the Markdown? This is how things get missed during compactions
+
+## 139 — Assistant — Recording correction (outside the scene)
+
+You’re right. I slipped into updating the full Markdown transcript only when publishing to GitHub, while keeping summaries between updates. That leaves the exact exchanges vulnerable during compaction and does not meet your requirement.
+
+I should append **every story message and response verbatim to the local Markdown as we go**, independently of GitHub publication. The recent clothing, charms and six-month advancement exchanges still need backfilling. I’m sorry—that was my mistake.
+
+## 140 — User — Backfill request (outside the scene)
+
+Ok well maybe you could start by doing it please?
+
+## 141 — Assistant — Progress note
+
+I’ll backfill the missing exchanges verbatim into the local Markdown now and update the project instructions so recording happens after each exchange, independently of GitHub publication.
+
+
+## 142 — Assistant — Recording restored (outside the scene)
+
+Done. The missing exchanges are now recorded verbatim in [story-transcript.md](C:/Users/jaked/.codex/.chatgpt-projects/g-p-6aa2968d9064819187658a67ddce35b3/tracker/story-transcript.md), including both full story responses and your parenthetical details. I verified that the earlier archive is unchanged.
+
+The project instructions now require recording each story turn immediately, before sending the response. This repair is saved locally; GitHub publication is separate.
+
+Name: Galahad  
+Age: Approximately two years; eight and a half feet tall  
+Date: Ten months and one week after Collegium enrolment — evening  
+Reputation: Celebrated scholar and craftsman; attracting government interest  
+Weapons (Equipped): None; bone greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers and leather boots  
+Gear/Inventory: Research, works records, mechanical creations, magical-study notes, charms, hunting materials and chancery invitation; earlier belongings with Corva  
+Currency: 630 Veyrasse lorrats
+
+
+## 143 — User — The chancery and family standing
+
+Over the next few days my schedule remains the same as it has been for months now. I tell Dorlac that my contact is an old friend and isn’t willing to do business with others as he makes what he needs dealing with me and doesn’t like dealing with people he doesn’t know. On the day of my meeting with the Chancery I take my operating returns and several advancements I have made in exisiting formula during my time at the Collegium. When I arrive I am intentionally exuding a wave of calming and easing presence in a large radius of me so people feel able to warm open to me and be open and give me what I want. There may be people here that this could be useful on who I do not directly know so ensuring I consciously maintain a decent radius of this pressure will ensure that I affect more than just my focus of attention. Compared to conjuring emerald lightning or trying to read someone’s mind. This is less intensive. Like focusing on breathing manually instead of letting it be automatic and taking deep breaths. When I arrive I present my letter and wait for the offical to come and meet with me as I observe and admire the architecture and decorum. (Now this will be a big thing. There is a class system. You have noble families. Then you have regular families who aren’t noble but still get a name. Then you have people with no last name at the bottom of the barrel. That’s me. Most highborn would be horrified of a person so low class as me. Now Vaskan is my father figure and I don’t know his last name but we will say Corva’s last name was that last name we originally had for Galahad, should be in the documentation somewhere. Now Corva considered me her son so it’s fair to say she would gladly give me her last name but it was never legally formalised. So technically I have no last name currently.)
+
+## 144 — Assistant — Progress note
+
+I’ll resolve Dorlac’s response and your reception at the chancery, including the influence of your calming presence and the distinction between family belonging and legal standing. I’ll record this exchange before sending the scene.
+
+## 145 — Assistant — An empty household column
+
+Dorlac listens to your explanation with a small nod.
+
+“Then I’ll tell him the supply is exclusive.”
+
+She turns one of the charms beneath the window light.
+
+“It may help the price. I won’t promise quantities you haven’t brought me.”
+
+For now, she leaves the proposed introduction there.
+
+***
+
+Four days after Savel brought the invitation, you climb into Auvrienne’s upper terraces.
+
+The streets broaden as they approach the government precinct. Retaining walls give way to dressed stone, their drainage outlets concealed beneath carved bronze grilles. Here, utility has been made to serve appearance without entirely surrendering its purpose.
+
+You can follow the loads through the buildings: heavy corners, deep window recesses, the buttressing concealed within projecting stair towers. Decorative masonry disguises several practical accommodations to the hillside.
+
+The palace stands beyond an inner court. Your destination occupies its eastern approach, joined to neighbouring offices by a roofed gallery.
+
+Above the chancery doors, generations of rain have darkened an elaborate stone achievement of arms. The bronze beneath it has been polished wherever a hand might touch.
+
+Your arrival interrupts a conversation between two attendants.
+
+One looks at your face. The other looks up at the doorway, calculating whether you will clear it.
+
+Then the influence moving outward from you begins to settle over them.
+
+Their surprise remains. Its sharper edge softens.
+
+“Your letter, sir?”
+
+The attendant receives it carefully.
+
+***
+
+Maintaining the presence is easier than calling lightning.
+
+There is no violent gathering and release. You sustain an even pressure while other things occupy your attention: the tiles beneath your feet, the workmanship of a balustrade, a clerk’s voice beyond an open door.
+
+Nearby conversations become less guarded as you pass. An attendant who initially hurried to intercept you instead slows and offers directions.
+
+The effect is strongest around you. Farther along the hall, people continue their business untouched or scarcely affected; you cannot tell what occurs behind every closed door.
+
+At the reception desk, the clerk compares your invitation with a list.
+
+“Galahad. From the Collegium.”
+
+He finds the entry and makes a mark beside it.
+
+“Your family name?”
+
+His finger returns to the invitation before you answer.
+
+There is no second name there.
+
+“Ah.”
+
+He looks at the signature authorising your visit, then sets the letter beside his ledger.
+
+“You are expected. Please wait here.”
+
+His manner remains pleasant. Nevertheless, the visitor slip he prepares leaves the household column empty.
+
+***
+
+The waiting gallery displays lineage as carefully as wealth.
+
+Portraits bear names, offices and dates. Several surnames recur across centuries. Beneath one painting, a later descendant’s military distinction has been added on a separate brass plate, making an ancestor’s wall space serve the living family as well.
+
+The chairs are upholstered in dark green leather. Their carved arms leave little room for someone of your breadth.
+
+Across the gallery, a gentleman with a silver-headed cane watches the clerk carry your slip away.
+
+“No household?” he asks his companion, quietly enough for ordinary discretion.
+
+Her eyes move from your papers to your coat.
+
+“Apparently the Collegium sent him.”
+
+Neither sounds frightened now. That does not make the empty column less significant to them.
+
+A person can find your company strangely agreeable and still believe that you have entered through a door intended for better families.
+
+***
+
+You wait less than a quarter of an hour.
+
+A man emerges from an interior passage carrying your invitation and the visitor slip together. His dark coat bears a narrow braid at the cuffs. Ink has collected beside one thumbnail.
+
+“Galahad?”
+
+He stops before you, taking in your height without attempting to conceal the assessment.
+
+“Cyrrel Vaust. Deputy assessor for works expenditure.”
+
+His gaze drops to the operating returns.
+
+“Mr Cevrane speaks well of your contribution. I have the summaries from his office.”
+
+Within your presence, the introduction comes readily. He seems inclined to hear more.
+
+Then he turns the visitor slip slightly between his fingers.
+
+“Before we begin, I should settle how you are to be entered in our records.”
+
+He does not ask the question loudly enough for the entire gallery.
+
+“The Collegium identifies you by one name. Are you attached to a recognised family, or should we record you under the institution’s sponsorship alone?”
+
+---
+
+Name: Galahad; no legally registered surname  
+Age: Approximately two years; eight and a half feet tall  
+Date: Ten months and eleven days after Collegium enrolment — morning  
+Reputation: Accomplished Collegium scholar; invited to the chancery despite low birth status  
+Weapons (Equipped): None; bone greatsword remains in his room  
+Armor/Clothing (Equipped): Refitted charcoal coat, pale shirt, dark trousers and leather boots  
+Gear/Inventory: Chancery invitation, operating returns and selected mathematical advancements; other possessions at his lodging and Corva’s home  
+Currency: 630 Veyrasse lorrats, principally on deposit
+
+## 146 — User — Corva’s family name
+
+I inform him of Corva’s family name which is the one we established for Galahad previously that should be somewhere in the documentation
+
+## 147 — Assistant — The Orsival connection
+
+“Orsival,” Vaust repeats.
+
+He draws a pencil from his coat and writes the name beside the empty household column.
+
+“Corva Orsival. Your mother.”
+
+His eyes return briefly to the Collegium’s introduction.
+
+“Their letter should have included that.”
+
+He adds a small notation beneath what he has written. You can read it from where you stand: *family connection stated; institutional sponsor confirmed.*
+
+“If you enter service here, the registry will need the supporting particulars. For today, the Collegium’s recommendation is sufficient.”
+
+There is no sudden deference. Orsival has supplied a family connection, not a noble title. But he has stopped treating the blank space as something requiring explanation before you can proceed.
+
+Vaust turns toward the passage.
+
+“This way, please.”
+
+He opens a door a short distance along it and steps aside. Within, tall windows illuminate a broad table covered with plans. A map of Veyrasse occupies the opposite wall, its railway lines picked out in coloured thread. Several small paper slips have been pinned beside reservoirs and junctions.
+
+“We’ve allowed the morning,” he says. “I would rather understand one improvement properly than leave with a list of ten I cannot explain.”
+
+He rests your visitor slip beside an open folder.
+
+“Shall we begin with the pumping works? Mr Cevrane’s returns show a useful change. I’d like to hear which part of it you consider most significant.”
+
+---
+
+Name: Galahad; Orsival family connection stated, legal registration unresolved  
+Age: Approximately two years; eight and a half feet tall  
+Date: Ten months and eleven days after Collegium enrolment — morning  
+Reputation: Collegium-sponsored scholar; received by Deputy Assessor Vaust  
+Weapons (Equipped): None; bone greatsword remains in his room  
+Armor/Clothing (Equipped): Refitted charcoal coat, pale shirt, dark trousers and leather boots  
+Gear/Inventory: Chancery invitation, operating returns and selected mathematical advancements; other possessions at his lodging and Corva’s home  
+Currency: 630 Veyrasse lorrats, principally on deposit
+
+## 148 — User — Money and influence
+
+I make an extra effort to create a pressure of calming ease to lull the Deputy Inspector into a sense of comfort. Enough that I could pacify a Vordrake. For a human this is easy for me. “Ah, yes. I was afraid we may hit this little snag.” I say pleasantly as I pull out of pouch of coin and place it on the table. It’s a significant amount which I have been saving over the past 6 months. Significant for political bribery that is, which is what I am doing. I slide the coin towards the Inspector. “As you can see I am a means as well as of intellect. My gift should convince you of such. But I am afraid without offering me a role of service I cannot divulge the numerous points of improvement I have prepared for you. That would be poor form, wouldn’t you agree?” I say pleasantly while smiling so instead of feeling threatened his outlook is embarrassment for assuming I would dim witted enough to work without payment or assurances of privilege.
+
+## 149 — Assistant — Progress note
+
+I’ll resolve how Vaust responds to the stronger influence and the offered money, keeping the amount within your recorded savings.
+
+## 150 — Assistant — A proposed commission
+
+The pouch settles against the table with a heavy, compact sound.
+
+You brought **one hundred lorrats** from your savings for this purpose. Even through the leather, the weight is difficult to mistake.
+
+Vaust looks at it.
+
+Then at you.
+
+The stronger influence reaches him while his hand is still resting upon the open folder. His fingers loosen. The little crease between his brows smooths, and the silence loses the tension that might otherwise have accompanied your offer.
+
+“I see,” he says.
+
+He does not immediately touch the money.
+
+His eyes move toward the door.
+
+“A moment.”
+
+He rises and closes it. When he returns, he draws his chair closer to the table rather than resuming his place behind the folder.
+
+“I had understood that you wished to demonstrate your suitability for service. You are proposing that we settle terms before examining the work.”
+
+There is no reprimand in his voice. Under your influence, the distinction appears to him as something that should have been clarified earlier, an awkwardness in the arrangements rather than an affront.
+
+He lifts the pouch’s mouth just enough to inspect its contents.
+
+For a few seconds, his attention stays there.
+
+Then he closes it.
+
+“You should certainly be paid for work we commission.”
+
+The pouch moves from the table into the drawer beside his chair.
+
+He closes that too.
+
+No receipt follows.
+
+***
+
+Vaust turns to a clean sheet.
+
+“I cannot make you the Margrave’s personal adviser. That appointment is not mine to give.”
+
+He says it readily, almost confidentially.
+
+“But there is a route that does not require us to begin there.”
+
+His pencil moves beneath a printed heading.
+
+“A paid technical examination. Commissioned through this office. You retain your place at the Collegium and undertake a defined piece of work for us.”
+
+He looks up.
+
+“Your recommendations would bear your name. You would receive the relevant departmental records and permission to inspect the installation concerned. If the report warrants further employment, I would submit that recommendation myself.”
+
+He leaves the pencil resting across the paper.
+
+“That gives you recognised work for the chancery, payment, and something upon which a continuing appointment can be based.”
+
+Your calming pressure remains around him. He appears comfortable making the offer, and considerably more interested in finding an arrangement that will satisfy you than when he opened the folder.
+
+He still chooses his promises carefully.
+
+“I can put forward sixty lorrats for the initial report. Thirty on authorisation, thirty on delivery against an agreed scope. I will need approval for the expenditure, but Cevrane’s figures give me grounds to request it.”
+
+His hand rests briefly on the closed drawer.
+
+“As for the family particulars, the registry can examine those while the commission is being arranged. They need not prevent us discussing terms today.”
+
+He pushes the clean sheet into the space between you.
+
+“Would that be a sufficient beginning?”
+
+---
+
+Name: Galahad; Orsival family connection stated, legal registration unresolved  
+Age: Approximately two years; eight and a half feet tall  
+Date: Ten months and eleven days after Collegium enrolment — morning  
+Reputation: Collegium scholar; has privately secured Vaust’s support for a proposed technical commission  
+Weapons (Equipped): None; bone greatsword remains in his room  
+Armor/Clothing (Equipped): Refitted charcoal coat, pale shirt, dark trousers and leather boots  
+Gear/Inventory: Chancery invitation, operating returns and selected mathematical advancements; other possessions at his lodging and Corva’s home  
+Currency: 530 Veyrasse lorrats remaining; 100 paid to Vaust. Proposed commission unpaid and unapproved
+
+## 151 — User — Accepting the examination
+
+“That will do for now. Thank you Vaust.” I say as I stand and shake his hand over the desk with a polite smile as I tower over him. I spend the rest of the afternoon receiving the documentation and specifics for the technical examination I am to conduct. I gather as much information as I can and take many notes before returning back to the Collegium to begin the work.
+
+## 152 — Assistant — Progress note
+
+I’ll resolve the commission’s approval and scope, then record the full exchange before continuing.
+
+## 153 — Assistant — The delivery main
+
+Vaust rises to meet your hand.
+
+His grip is firm, though the difference in size makes the gesture look almost ceremonial. He has to tilt his head back to return your smile.
+
+“Then let us put it in writing.”
+
+***
+
+The afternoon gives you a clearer view of how the chancery accomplishes things.
+
+Vaust writes a recommendation. A clerk carries it away. Another returns with a question about which account should bear the expense. Cevrane’s operating summaries are attached, detached for copying, and finally placed beneath a document bearing a second signature.
+
+Your examination is approved before the offices close.
+
+The commission concerns the **southern pumping works and its uphill delivery main**: the installation you have already visited, together with the connected system whose behaviour its own records only partly describe.
+
+The improvements made with Cevrane have reduced vibration and interruptions within the altered sections. Beyond them, the returns still show inconsistent delivery to an upper service reservoir. Some days require considerably more pumping for much the same recorded demand.
+
+“The works superintendent attributes it to consumption,” Vaust explains. “The reservoir office disputes his figures. Both have requested money.”
+
+He places their submissions side by side.
+
+“We need to know what we are paying to correct.”
+
+Your task is to examine the discrepancy, distinguish necessary repairs from desirable improvements, and present a costed recommendation. The existing installation must continue supplying the district during any proposed work.
+
+The agreed fee remains sixty lorrats. A payment order for the first thirty is issued with the authorisation; the remaining thirty is due upon delivery of a report meeting the written scope. The document requests delivery within three weeks, with provision to report any delay caused by access or missing records.
+
+It names you as **Galahad, technical examiner commissioned through the Auvrienne Collegium**.
+
+Below that description, the permissions are specific: access to the relevant machinery and works records, accompanied inspections, and questions to the staff responsible. Authority to alter equipment or direct the workforce is not included.
+
+***
+
+You spend the remaining hours gathering what the office can provide.
+
+Plans of the main. Pumping logs. Fuel returns. Reservoir readings. Repair accounts whose descriptions range from precise measurements to an unhelpful *attention to fittings*.
+
+Your notes fill several sheets.
+
+One difficulty becomes apparent before you leave: the pump house and reservoir do not always close their daily returns at the same hour. Some apparent discrepancies may simply lie across the boundary between one day’s account and the next.
+
+That does not explain everything.
+
+It does explain why accepting either office’s totals without examination would be premature.
+
+Vaust supplies a signed letter for the works superintendent and has the missing measurement records requested. Copies of the documents you need are assembled into a tied packet.
+
+“Send questions through this office if anyone makes access troublesome,” he says as you prepare to leave. “Refer them to the commission.”
+
+***
+
+By the time you return to the Collegium, lamplighters are working along the lower terraces.
+
+The bursar enters the thirty-lorrat advance against the chancery’s payment order. Your balance rises to **560 lorrats**.
+
+In your room, the packet occupies the centre of the desk. You lay out the returns, your notes and the delivery-main plan beneath the lamp.
+
+The first comparisons begin to take shape: which figures measure the same interval, which instruments supplied them, and where the records cease to describe what the water actually did.
+
+Beyond the window, the service court darkens. On the paper before you, the pumping works has become part of a larger system—one whose missing explanations now belong to your examination.
+
+---
+
+Name: Galahad; Orsival family connection stated, legal registration unresolved  
+Age: Approximately two years; eight and a half feet tall  
+Date: Ten months and eleven days after Collegium enrolment — evening  
+Reputation: Collegium scholar and commissioned technical examiner for the chancery  
+Weapons (Equipped): None; bone greatsword stored in his room  
+Armor/Clothing (Equipped): Refitted charcoal coat, pale shirt, dark trousers and leather boots  
+Gear/Inventory: Commission and inspection authorisation, pumping and reservoir records, delivery-main plans, research notes and existing possessions  
+Currency: 560 Veyrasse lorrats; a further 30 due upon delivery of the commissioned report
+
+## 154 — User — Documentation checkpoint (outside the scene)
+
+Ok now please update the GitHub documentation. Please take your time and any documents you are updating please read them in full, line by line. This ensures you do not miss any outdated info, errors, mistakes or inconsistencies. Please take your time I am more than happy to wait.
+
+
+## 155 — Assistant — Progress note
+
+I’ll read the documents in full, update the slate through the approved chancery commission, and check the chronology, finances, family name and research status before publishing.
+
+
+## 156 — Assistant — Progress note
+
+I found stale references to your student status, the pending Cevrane meeting and having no money. The current balance reconciles to 560 lorrats: 630 saved, minus 100 paid to Vaust, plus the 30-lorrat advance. The other 30 remains due on delivery. I’ll also distinguish the newly stated Orsival family connection from completed legal registration.
+
+
+## 157 — Assistant — Progress note
+
+The chronology is consistent through the move to Auvrienne. I’m preserving the older scenes exactly as recorded, while updating the overview to distinguish completed achievements from proposals and claims—especially the commission, the trader cover story and the experimental charms.
+
