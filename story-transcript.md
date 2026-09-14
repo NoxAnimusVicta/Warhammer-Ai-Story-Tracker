@@ -5106,3 +5106,304 @@ Actually now I think about it, it probably makes more sense for Veskan to get a 
 
 I’ll update the planned house so both parents receive matching titles, then set out a clearer technological baseline for the world. I’ll check the historical examples so the cutoff distinguishes established equipment from prototypes and later inventions.
 
+
+## 181 — Assistant — Progress note
+
+The title correction is ready: both parents receive matching honours in the planned grant, with household responsibilities assigned separately. For technology, I recommend a late-1938 industrial baseline. That leaves room for substantial improvements to existing engines, vehicles and manufacturing before introducing later wartime or modern systems.
+
+
+## 182 — Assistant — Progress note
+
+The correction is committed; GitHub is deploying it now. One useful distinction for your designs: large-calibre anti-armour rifles already existed in WW1. A modern precision rifle’s advancement lies in the complete weapon and manufacturing standards, rather than its calibre alone. Galahad also already has successful pumping-work improvements behind him, so his engineering experience extends beyond his mechanical toys.
+
+
+## 183 — Assistant — Titles published and technology proposal (outside the scene)
+
+Updated and published to the [live slate](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/). The intended grant now includes **Lady Corva Orsival, Mother of the House**, and **Sir Veskan Orsival, Father of the House**. Their honours follow parentage; household responsibilities are assigned separately. Neither title has been acquired in the story yet.
+
+For technology, **I recommend 31 December 1938 as our reference ceiling for reproducible native human industry.** Most equipment would resemble 1914–early-1930s technology, with the wealthiest industries approaching that ceiling. This gives you a useful reference without making every invention from Earth automatically present.
+
+That would mean:
+
+| Field | Established technological territory |
+|---|---|
+| Industry | Precision machine tools, steel and aluminium alloys, welding, casting, interchangeable components and organised production lines. Quality varies considerably. |
+| Ground vehicles | Petrol and diesel engines, trucks, tractors, armoured cars and tanks. Improving reliability, mobility and maintenance remains valuable. |
+| Weapons | Bolt-action and some self-loading rifles, machine guns, submachine guns, mortars, artillery, optical sights and heavy anti-armour rifles. |
+| Aircraft | Propeller aircraft, including capable monoplanes in advanced services; older aircraft remain common. No operational jet fleets. |
+| Communications and control | Telephones, radio, vacuum-tube electronics, mechanical calculators and analogue or electromechanical controls. No modern digital computers or semiconductor electronics. |
+| Maritime technology | Steel ships, steam and diesel propulsion, naval guns, torpedoes and mines. |
+
+**Frontier technology needs its own category.** Early radar belongs near this boundary: British Chain Home stations were operational in 1938. That supports our existing experimental radio-detection work without giving every state a sophisticated detection network. The first jet aircraft flew in 1939, illustrating how close a prototype can sit to our cutoff while still being far from routine service. [Science Museum](https://collection.sciencemuseumgroup.org.uk/objects/co8628489/radar-oscillator-used-to-test-chain-home-receivers), [National Museum of the USAF](https://www.nationalmuseum.af.mil/Upcoming/Photos/igphoto/2000571921/).
+
+Regional differences still matter. Veyrasse’s railway and civil-engineering strengths need not make it the leader in Caldrienne’s armaments or Ceralte’s maritime specialities. Galahad can understand the general principles while still needing access to particular factories, unpublished research and practical expertise.
+
+Your .50-calibre example is useful because **large calibre alone would not be a technological leap**. Anti-tank rifles existed in 1918. A modern precision rifle represents a much more developed combination of manufacturing consistency, ammunition, optics and weapon design. You would be improving an established category, rather than inventing the idea of a powerful rifle. [National Army Museum](https://www.nam.ac.uk/explore/attack-tanks).
+
+And you already have more experience than “essentially toys”: your pumping-work improvements have been implemented. I would make your next substantial step something like a **rough-terrain engineering tractor or recovery vehicle**, drawing together engines, transmission, structure and practical field requirements. You could then demonstrate something harder than producing one extraordinary object: a design that ordinary workshops can manufacture, crews can operate, and mechanics can maintain.
+
+That progression suits Galahad. His intellect can run ahead of local engineering, while building an industry capable of realising his ideas remains meaningful work. The 1938 reference would describe where the world starts; your achievements can move it forward.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately two years; 8½ feet tall  
+Date: Ten months and eleven days after Collegium enrolment — evening  
+Reputation: Celebrated scholar and commissioned technical examiner  
+Weapons (Equipped): None; bone greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Commission, works records, research, mechanical creations, charms and hunting materials; earlier possessions with Corva  
+Currency: 560 lorrats; 30 more due on report delivery
+
+
+## 184 — User — Civil works, rifle concept and wider world (outside the scene)
+
+For the next step I was thinking about doing the pumping station work and civil work and maybe some kind of overhaul to the sewerage and water systems. But on the side I was thinking since I had that little firearm I was trying to make when I lived back with Corva and worked from no reference. Now I’m a lot more knowledgeable and I was looking at guns from WW1 and WW2 and saw the Browning M1919. And I thought ok well what if we take that, add some more modern design elements Galahad would have figured out to help with recoil. Still has a tripod and isn’t intended to be fired consistently at the shoulder but it lets you get off several shots from the shoulder with minimal difficulty, inaccurate hip firing but relatively easy due to weight distribution and very accurate with the Bipod due to barrel upgrades that are slightly more modern. Basically turning the Browning M1919 in a semi automatic rifle. Say 10 shots in a clip/mag whatever the right terminology is here. And get rid of the belt feeding to make it a more portable and easy to use rifle that does require a decent marksmen but is absolutely devastating and also allows for use as anti-armor? Ok well this brings me to another topicI think we need to establish the world as a whole and tech levels so this means other nations and continents as well. All fitting in with the sort of Arthurian sprinkling in European Culture, I think it was Austrian we used as the basis but if that’s wrong the correct basis country should be in the notes somewhere. And they all need to fit along the same tech line with different areas excelling at certain areas like you just used as an example with the British. You have to remember when I attended the Collegium as well I didn’t just learn about civil engineering. That would have been their libraries focus but it’s still a library, this is why I’m so well versed in so many different areas and I spent my own money acquiring books and stuff and given my physiology I don’t think I really need access to anything to achieve my goals, it’s really just a matter of how long do I want to wait to see them come to fruition. I could have started a cult or a revolution or taken some different path to power that would have allowed me to gain an industrial base sooner. But this path seems like the one Galahad would take as a character due to Corva’s influence and the Fulgrim part of him going “Beat them at their own game.” Because I could probably take this nation by force by myself but it’s a matter of trying to be loved before feared
+
+
+## 185 — Assistant — Progress note
+
+I’ll check the world notes for the cultural basis and existing geography, then expand the wider world around the agreed technology range. I’ll also distinguish what Galahad can make himself from what a national industry can produce, and assess the rifle concept at a fictional capability level.
+
+
+## 186 — Assistant — Progress note
+
+The original world text doesn’t name Austria as its basis. It describes courtly, industrial Europe broadly, so an Austro-Hungarian influence fits, alongside the French and Italian flavour already present in the names.
+
+You’re also right about Galahad’s education: civil engineering is the Collegium’s speciality, not the limit of his knowledge. Access to its workshops is an advantage he has chosen to use, not a prerequisite for his inventiveness.
+
+
+## 187 — Assistant — Wider world proposal and development direction (outside the scene)
+
+Yes—the pumping commission followed by wider water and sewerage work fits your chosen path particularly well. Clean water, reliable drainage and fewer industrial stoppages would give people practical reasons to value Galahad. It also puts him in contact with budgets, contractors, neighbourhoods and government: the workings of the country he eventually wants to lead.
+
+And you’re right about his education. **Galahad is broadly learned across the Collegium’s subjects and his independent reading, not merely a civil engineer.** I should not make institutional access a compulsory gate on his inventiveness. He can derive things independently, experiment and personally accomplish fabrication that ordinary engineers cannot. Resources and collaborators affect how quickly he can make his ideas widespread; they do not determine whether he is allowed to have them.
+
+“Beat them at their own game” also fits the direction you have chosen. Corva’s influence and his inherited dispositions can contribute without dictating his decisions. His physical power makes direct coercion a credible alternative, although defeating a government’s defenders and keeping a whole country functioning are different undertakings. Public affection gives him something strength alone cannot supply: people willing to carry out his ambitions when he is elsewhere.
+
+**The rifle idea works as a fictional development project, with one important distinction.** The M1919 is a .30-calibre machine gun, not the .50-calibre Browning. Its appearance can inspire your design, but a heavy, magazine-fed, self-loading precision rifle would have its own identity and purpose. “Magazine” is the term you want for the proposed ammunition container. [National Army Museum](https://collection.nam.ac.uk/detail.php?acc=1985-08-49-1).
+
+At campaign level, I would describe your intended result as:
+
+- A substantial, ten-round, self-loading rifle, visually recalling an industrial support weapon.
+- Primarily used from a supported position; accurate deliberate fire is its strength.
+- Manageable for Galahad with exceptional ease, while ordinary human handling remains something to establish through trials.
+- A possible anti-materiel weapon, with effectiveness against particular armour assessed separately. It would not automatically defeat tanks or Hunter protection.
+
+Historical anti-tank rifles were useful against early thin armour but lost that role as protection improved. A weapon can be devastating against some targets without being a universal answer to armour. [Small Arms Survey](https://www.smallarmssurvey.org/resource/anti-materiel-rifles-research-note-7).
+
+That leaves room for an impressive Galahad-designed weapon without declaring all its desired performance proven before he makes and tests it. The earlier unfinished firearm remains at Corva’s home; this would be a new project drawing on what he learned from it.
+
+For the wider world, **the original text never specifies Austria**. It describes a broader courtly, industrial European culture. I would give it an Austro-Hungarian influence in its dynastic politics, uniforms, academies and ceremonial administration, with the French and Italian flavour already present in the names. Arthurian influence would appear in household traditions, sworn service, heraldry and old tales—not by turning every country into another Camelot.
+
+We already have three principal continents. I would retain them and establish the following major powers around the late-1938 reference. These are prominent states, not an exhaustive list of every principality or independent city. I rolled the new names after excluding each first candidate.
+
+**Otranto: the largest industrial and population centre.** Mountain-enclosed agricultural basins support dense cities, extensive railways and substantial armies.
+
+| Proposed power | Character and technical strengths |
+|---|---|
+| **Crown of Veldrassen** | A composite monarchy of historic provinces and powerful estates. Leads in heavy machine tools, locomotives and large-scale armaments production. Its factories are formidable; competing provincial standards and patronage complicate coordination. |
+| **Rovessaran Republic** | A wealthy southern coastal republic dominated by commercial houses and technical institutions. Excels in electrical equipment, precision instruments, optical manufacture and aircraft engines. Depends heavily on imported fuel and food. |
+| **Brannervaux Covenant** | A federation of river cities and landed principalities across the central basins. Excels in waterworks, agricultural machinery, industrial chemistry and public sanitation. Its wealth depends on river access and carefully negotiated water rights. |
+
+Veldrassen seeks influence over Brannervaux’s grain and river routes. Rovessara finances smaller states to prevent the Crown dominating continental trade. All three nevertheless buy essential goods from one another. Their conflicts include customs wars, disputed river diversions and struggles over railway concessions.
+
+**Morholt: fortress societies amid cold forests and mountains.** Its strengths come from surviving difficult conditions, not possessing forgotten advanced reactors.
+
+| Proposed power | Character and technical strengths |
+|---|---|
+| **Kingdom of Rovengard** | A monarchy centred on southern valleys and fortified forest clearings. Excels in tracked transport, cold-weather machinery and district heating. Keeping remote communities supplied consumes much of its surplus. |
+| **Varnesk Foundry League** | A compact of mining and industrial fortress cities in the eastern mountain belt. Excels in specialist steels, bearings and durable industrial components. Food imports give its trading partners considerable leverage. |
+| **Galdresk Wardenship** | Western fortress districts governed through chartered military orders and civilian estates. Strong in field medicine, wilderness communications and organised study of the older arts. Its magical traditions are real but uneven, dependent on practitioners rather than industrial production. |
+
+Rovengard wants a permanent military transit agreement through Varnesk; the League fears that troops admitted for mutual defence would never leave. Galdresk maintains rescue and warning agreements with both, while quarrelling with their logging interests over inhabited forest territories and protected sites.
+
+**Vesalius: ports, volcanic uplands and contested routes inland.** Your existing eastern neighbourhood remains intact:
+
+| Established power | Principal strengths |
+|---|---|
+| **Veyrasse** | Railway engineering, civil infrastructure and maintenance organisations. |
+| **Caldrienne** | Armaments, field artillery and the strongest concentration of tanks in the eastern region. |
+| **Karsenne** | Mining, mountain engineering and fortified transport corridors. |
+| **Calvernis** | Commercial shipbuilding, maritime aircraft, finance and industrial contracting. |
+| **Ceralte** | Coastal navigation, torpedo craft, minelaying and experienced naval crews. |
+
+I would add two major powers beyond that neighbourhood:
+
+| Proposed power | Character and technical strengths |
+|---|---|
+| **Principality of Tervayne** | A western coastal state of sheltered harbours and competing noble dockyards. Excels in oceangoing marine engines, pumps and long-distance merchant shipping. Its shipping interests compete with Calvernis for intercontinental contracts. |
+| **Serevask Federation** | Southern river-mouth cities and defended plantation districts. Excels in rubber processing, tropical medicine, filtration and machinery adapted to humid conditions. Disputes over upriver water and plantation labour frequently strain its federal government. |
+
+These specialities represent **depth of expertise and production capacity**, not exclusive inventions. Veyrasse has physicians; Rovessara has sewers; Varnesk has radios. An outstanding engineer in any of them can exceed the national average. None receives a blanket technological advantage across every field.
+
+This gives Galahad a substantial world to understand and eventually influence. Brannervaux offers a useful comparison for his sanitation ambitions; Veldrassen represents industrial scale; Rovessara represents precision. He can surpass their achievements through his own work without first obtaining their permission or visiting each country. Their existence simply means other capable people have been working on these problems too.
+
+I’ve saved this proposed framework and the discussion in the local continuity archive. No new weapon, completed civil project, journey or political outcome has been enacted.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately two years; 8½ feet tall  
+Date: Ten months and eleven days after Collegium enrolment — evening  
+Reputation: Celebrated scholar and commissioned technical examiner  
+Weapons (Equipped): None; bone greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Commission, works records, research, mechanical creations, charms and hunting materials; earlier possessions with Corva  
+Currency: 560 lorrats; 30 more due on report delivery
+
+
+## 188 — User — Rifle clarification, political geography and psyker demographics (outside the scene)
+
+I know what Browning I’m talking about. Newer 30 cals use shorter cartridges. My browning variant would be 30 cal using the old longer more destructive cartridges. And since I’m removing the belt feeding to make it portable I have cut it to semi auto since fully auto as a machine gun was already viable so I don’t have to go all the way to bolt action. This creates a gun with a lot of stopping power that is somewhat unwieldy to use when untrained but once perfected it’s close to a WW1 or WW2 version of what we would use a 50 cal sniper for in modern military operations, it fills a cross between a sniper role and a standard infantry rifle that fits WW1 and WW2 without blowing past them entirely. It would be fireable due to improvements made by Galahad that function as some of the more modern recoil improvement technology that has advanced in real life since WW2 allowing for this weapon to be possible and effective in a military setting. This would be a replacement for whatever the military currently uses as the standard rifle. Galahad would have a custom one that’s like twice the size of a normal one, fires .50 or .60 cal bullets at the same length as the .30’s and he would appear to fire it with practically no recoil due to his physiology and he could achieve no recoil if he used he/I use Psycher powers to achieve this. Now your proposed nations are too clean. Exactly 3 for each continent besides mine? And you are leaving the lands currently created to sub in for the 3rd faction you would have put on this continent otherwise but that creates a glaring logic gap. How on earth do the current nations we have established exist with two major nations on the border that would have gobbled them all up? You are trying to be too symmetrical and aligned. Try looking at continental makeups for say Europe and 2 other prominent Continents during WW1 and WW2 and use that to give you some ideas to keep things feeling real within the confines of the setting. We also need to consider magic, as the arcane isn’t disregarded in this world it’s just not taken very seriously where I currently am and knowledge is scattered but I believe there are references in the Malaspina original document that say there are some academies and such that actively try to maintain and grow this knowledge so that needs to be consider as a blanket over everything else. I don’t want this to be a super magic based planet because we have to adhere to psycher population rules. That is another point we need to establish populations for nations/states as well as the planet as a whole. So the established canon psycher population percentages are essential here because it determines how many people could use sorcery and how much the ideas propagate. I think for current earth population numbers it’s like 8 people max who would be not alpha level or anything but strong enough that it was noticeable and I think like 5k people across the planet that could actually be considered an imperial sanctioned psycher with training and the rest of the population are below the reasonable threshold and it’s more like an unconscious 6th sense instead of an ability that can be trained. You will likely need to do some internet research on a host of topics to correctly sort through this information to present ideas we are both happy with
+
+
+## 189 — Assistant — Progress note
+
+I misunderstood the rifle’s intended role. I’ll treat it as a proposed full-power .30-calibre service rifle, with a separate oversized version for Galahad. I’ll also revisit the political geography using historical examples and check whether the psyker population figures have a reliable canon source before building population estimates around them.
+
+
+## 190 — Assistant — Progress note
+
+The psyker figures need a distinction: the “one in a billion” figure is associated with a much stronger category than “anyone with noticeable powers,” and a birth rate is not a guaranteed count of living, trained psykers. I’m tracing those figures to their book references.
+
+For the map, the useful historical lessons are unequal sovereignty, competing claims, foreign concessions and fragmented authority—not simply adding more equally sized countries.
+
+
+## 191 — Assistant — Progress note
+
+I found the relevant passage in *The Outcast Dead*: it estimates latent talent at roughly one child in a million, with about a tenth having power the speaker considers worth harnessing. That is considerably rarer than the common online shorthand of “one trained psyker per million.”
+
+The original Malaspina text also supports organised arcane study. Academies can have many historians, physicians and ritual scholars but only a few practising psykers. That lets magical knowledge matter culturally without filling armies with battle-mages.
+
+
+## 192 — Assistant — Progress note
+
+The revised population draft comes to about 1.21 billion people, unevenly distributed across the three continents. I’ve made Serevask a disputed federation with several separately governed territories, and kept Tervayne a western maritime power rather than an oversized neighbour of Veyrasse.
+
+The eastern states now have specific reasons to remain independent: difficult approaches, rival interests and a regional population large enough to resist outside conquest. Those constraints make conquest costly, not impossible.
+
+
+## 193 — Assistant — Progress note
+
+The research and revised population ledger are complete, and the totals reconcile without counting disputed territories twice. I’ve kept the new geography provisional and left the live slate unchanged while we discuss it. The main unresolved lore point is that canon supplies several psyker rarity estimates, but not one universal percentage for living, trained practitioners.
+
+
+## 194 — Assistant — Research findings and revised world proposal (outside the scene)
+
+I understand now: **the ordinary weapon is intended to replace the service rifle**, using a full-power, long .30-calibre cartridge, semi-automatic operation and Galahad’s improvements to handling. His oversized personal weapon is a separate .50–.60-calibre derivative. I incorrectly treated your comparison with a modern .50 rifle as confusion about the Browning itself.
+
+That broad service-rifle concept fits the period. Full-power .30-calibre self-loading infantry rifles already had real-world precedents before WW2; Galahad’s achievement would be his particular design and its performance, rather than making semi-automatic infantry fire possible for the first time. [Springfield Armory history](https://home.nps.gov/articles/springfieldarmoryww2.htm).
+
+I would preserve the intended overlap between ordinary infantry use and accurate, deliberate long-range fire. I would not equate its destructive effect with a modern .50 anti-materiel rifle merely because its cartridge is long. That comparison can describe its **place in your military doctrine** without making the two ballistically identical. Galahad handling his personal version with scarcely visible movement is entirely plausible; telekinetic stabilisation also fits his fictional capabilities. Those remain proposed developments, not completed weapons.
+
+Your criticism of the countries is fair. I gave them tidy specialities and diplomatic relationships before establishing the geography and history that would make those relationships believable. Simply adding more names would not fix that.
+
+**The psyker research changes the population question substantially.**
+
+There are useful canonical figures, but they describe different things:
+
+| Reference | What it actually supports |
+|---|---|
+| *The Outcast Dead* | Gregoras estimates latent psychic power in roughly **one child per million**, and power worth harnessing in approximately **one tenth of those**. This is a Heresy-era character’s estimate. |
+| *The Inquisition*, p. 67 | The reproduced passage associates the **top four ordinary Assignment grades—Delta through Alpha—with master-level talent occurring around once per billion humans**. It does not restrict all noticeable psychic ability to that frequency. |
+| Imperial sanctioning | This is approval following assessment and training, not a power grade that follows automatically from being born psychic. |
+
+I checked the *Outcast Dead* passage directly in an online reproduction. For *The Inquisition*, I found a transcribed passage and its book reference, rather than independently inspecting the original printed page. Some wiki summaries blur its wording, especially “humans” versus “births.” [*The Outcast Dead* passage](https://readli.net/chitat-online/?b=301550&pg=31), [*The Inquisition* transcription](https://www.reddit.com/r/40kLore/comments/15686v2/background_book_the_inquisition_the_assignment/).
+
+For a **hypothetical population of eight billion**, applying those estimates very approximately gives 8,000 with latent potential, 800 in the narrower “worth harnessing” category, and an expectation around eight master-level talents under the separate billion-person heuristic. **Eight is neither a maximum nor the number capable of visibly using powers.** I could not substantiate 5,000 sanctioned-capable people as a fixed canonical figure.
+
+Birth incidence, survival, manifestation, training and the number alive now are different quantities. We should use these passages as demographic guides, not pretend they form a universal census equation valid on every world and in every era.
+
+**For Malaspina, I recommend approximately 1.21 billion inhabitants.**
+
+The proposed ledger totals **1,209.2 million**, distributed as follows. These are rounded campaign estimates, not implausibly precise local census knowledge:
+
+| Continent | Population | Political structure |
+|---|---:|---|
+| Otranto | 757 million | Large territorial powers, smaller states, composite monarchies and a densely populated former crown divided among competing authorities. |
+| Vesalius | 340.4 million | Several separate coastal and inland political regions; independent states, contested federations, islands and commercial enclaves. |
+| Morholt | 111.8 million | A few substantial governments amid numerous fortress jurisdictions, concession districts and sparsely connected communities. |
+
+This supports major industrial civilisation while leaving immense wilderness. Death-world conditions do not require a tiny population; they make the food, water and transport systems sustaining it unusually demanding.
+
+For the established eastern region, I propose:
+
+| State | Population |
+|---|---:|
+| Veyrasse | 15.7 million |
+| Caldrienne | 23.9 million |
+| Karsenne | 8 million |
+| Calvernis | 18.1 million |
+| Ceralte | 2.9 million |
+
+That is **68.6 million people across five separate states**. They are substantial political societies, not little settlements awaiting absorption by the first country outside the map. Their populations do not imply they act together.
+
+**For the political geography, I used three different historical patterns.**
+
+- **Europe:** large empires coexisting with smaller sovereign states, contested national boundaries and demands for access to ports. The period’s diplomatic documents show how much independence depended on surrounding interests and guarantees. [Fourteen Points, 1918](https://www.archives.gov/milestone-documents/president-woodrow-wilsons-14-points).
+- **Asia:** nominal sovereignty could coexist with foreign railway, mining and commercial privileges. A country’s name on a map did not imply unrestricted control of everything inside its border. [Twenty-One Demands documentation, 1915](https://china.usc.edu/node/20643).
+- **Africa:** overseas claims and externally negotiated administrations created another layer of authority above local populations. The 1919 discussions about dividing former German Cameroon provide a concrete example. [Paris Peace Conference records](https://history.state.gov/historicaldocuments/frus1919Parisv05/d50).
+
+These are structural inspirations, not instructions to transplant historical peoples or assign one Earth continent to each Malaspinan continent.
+
+For **Otranto**, the revised proposal has two large, functioning continental monarchies: **Veldrassen, 161.9 million**, and **Ostrevain, 116.2 million**. Both have diversified economies and substantial armies. Veldrassen’s older provincial bargains complicate mobilisation; Ostrevain’s centralising government is trying to bring a large agricultural hinterland under tighter administration.
+
+Alongside them are **Rovessara, 70.6 million; Brannervaux, 47.4 million; Cervaud, 31.5 million; and Veylac, 29.9 million**, with different political histories and varying degrees of independence from larger patrons.
+
+The largest complication is **Ossavren’s former crownlands: 167.3 million people divided among rival governments**. Several authorities claim the old crown, provincial commanders retain armies, and some ports administer their customs separately. Veldrassen and Ostrevain support different claimants. Neither can simply collect the entire population and industrial base by capturing one palace. Another 132.2 million inhabit smaller states and autonomous territories elsewhere on Otranto.
+
+For **Morholt**, I would retain Rovengard, Varnesk and Galdresk but add **Halskert**, a river republic, alongside numerous independent or partly dependent fortress districts. Their respective populations are **29.3, 19.7, 11.2 and 18.7 million**, with another **32.9 million** in the remaining jurisdictions. Some mining districts owe money and concession rights to Otrantan interests while retaining local governments. Control follows inhabited valleys, river traffic and supply routes; enormous forest claims do not automatically become enormous usable armies.
+
+For **Vesalius**, the two proposed additions should never have been treated as continent-sized neighbours:
+
+- **Tervayne: 36.2 million**, on the western coast. I would place roughly 2,000 kilometres of uplands, forest and intervening jurisdictions between its main territory and eastern Veyrasse, with no continuous transcontinental railway. It is a maritime competitor, not an army conveniently standing at Auvrienne’s border.
+- **Vardol: 64 million**, farther north beyond Caldrienne’s northern approaches. It is dangerous, but has its own contested frontier with **Averholt, 48.9 million**, an inland realm of several populated basins.
+- **Serevask: 58.4 million collectively**, but only **13 million** remain under the federal seat’s effective administration. **Varnelle, 20.8 million; Kelbrun, 17.6 million; and Gavrel, 7 million** retain separate armed forces and dispute federal authority. The federation’s name conceals political fragmentation.
+- Another **64.3 million** live in smaller independent states, ports and other territories, rather than one conveniently unified remaining faction.
+
+Those populations are counted once. Serevask’s claim is not added again on top of its constituent territories.
+
+Veyrasse survives because invasion has concrete costs and consequences: its own army and revenue, Karsenne’s difficult approaches, Calvernis’s interest in preventing one power monopolising the coast, and existing maritime partnerships. **None guarantees survival.** Smaller states can lose wars, become clients or be annexed. The Hunters increase the cost of maintaining civilisation for everyone; they should not conveniently enforce borders to protect our starting country.
+
+**Magic needs institutions throughout this political world, not a single “magic nation.”**
+
+Your original document explicitly establishes scholarly, hereditary and religious traditions of psychic practice, including attempts to combine machinery with psychic effects. The Collegium’s attitude cannot stand in for the entire planet’s.
+
+At the conservative *Outcast Dead* scale, Malaspina’s population suggests an order of magnitude around **1,200 people with latent potential and 120 with more substantial harnessable potential**, before making assumptions about survival and discovery. Those are modelling estimates—not 120 trained adult battle-psykers. The separate master-level heuristic suggests an expectation near one, with considerable uncertainty; Galahad is an engineered arrival outside that natural population calculation.
+
+That still permits serious institutions. An academy might employ dozens of historians, physicians, scribes and instrument makers while having only a handful of actual psychic practitioners. A school can preserve centuries of observations even during a generation with no exceptional pupil. Skilled practitioners may travel or be recruited abroad, so each country does not receive a neat quota.
+
+I would distribute the traditions through court examination offices in Veldrassen, documented case studies in Rovessaran institutes, estate archives in Brannervaux, small teaching houses among Galdresk’s wardens, and maritime and private circles across Vesalius. They would disagree internally about methods, patronage and what their results prove. Orchant remains part of that real tradition; she is not retroactively dismissed because we establish a population estimate.
+
+There is also a canonical distinction worth preserving: **not every sorcerer begins as an innate psyker**. An official Chaos Space Marines publication explicitly describes powers bestowed by Warp gods. Consequently, natural psyker frequency does not limit everyone who can participate in occult scholarship or every possible sorcerous exception. It also does not mean ordinary schooling lets anyone safely become a wizard. [Official faction pack, page 4](https://assets.warhammer-community.com/eng_22-10_warhammer40000_faction_pack_chaos_space_marines-0ws5waulee-r2blvzk7hh.pdf).
+
+I favour this conservative population model: **magic is rare in practice, substantial in accumulated knowledge, and politically valuable wherever reliable talent appears.** Galahad can encounter genuine teaching without finding a world full of people remotely comparable to him.
+
+The full [proposed population ledger](C:/Users/jaked/.codex/.chatgpt-projects/g-p-6aa2968d9064819187658a67ddce35b3/tracker/private/world-population-ledger.md) and research are saved locally, alongside the exact discussion. This replaces my earlier proposal for consideration; it has not overwritten the live slate or advanced the story.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately two years; 8½ feet tall  
+Date: Ten months and eleven days after Collegium enrolment — evening  
+Reputation: Celebrated scholar and commissioned technical examiner  
+Weapons (Equipped): None; bone greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Commission, works records, research, mechanical creations, charms and hunting materials; earlier possessions with Corva  
+Currency: 560 lorrats; 30 more due on report delivery
+
+
+## 195 — User — Documentation approval (outside the scene)
+
+That all sounds great to me. Please put it in the GitHub documentation so it isn’t forgotten later on please
+
+
+## 196 — Assistant — Progress note
+
+I’ll add the agreed world geography, population estimates, arcane institutions and rifle plans to the documentation, then publish and verify the update. I’ll keep plans distinct from events that have happened in the story.
+
+
+## 197 — Assistant — Progress note
+
+The population totals reconcile, including the disputed Serevask territories. I’m adding the wider political reference to the slate while keeping the existing regional map intact. The rifle remains a proposed project, and the uncertain psyker estimates will stay in narrator notes.
+
+
+## 198 — Assistant — Progress note
+
+Revision 30 is built and the checks pass. It includes the wider nations, population register, industrial differences, traditions of magic and Galahad’s proposed research. His current scene, equipment, finances and commission are unchanged. I’m publishing it now, including the complete discussion transcript.
+
