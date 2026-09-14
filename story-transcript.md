@@ -5496,3 +5496,49 @@ The phone preview now moves from the whole continent into Auvrienne and Serravon
 ## 212 — Assistant — Progress note
 
 The corrected map now keeps Veyrasse, Ceralte, Auvrienne, Serravonne, Drossane and Dalmor readable at the regional view. Settlement search can zoom much closer, and there is no nested map or rectangular inset left. Geometry checks and navigation tests—including simulated pinch, drag and pointer cancellation—pass. I’m publishing this version now.
+
+
+## 213 — Assistant — Publication confirmation (outside the scene)
+
+The [corrected atlas is live — revision 32](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=fb1dccea4eb54741746a#world).
+
+- Smoother coastlines and a repaired Vesalius outline.
+- Continuous zoom into the Eastern Marches, with the boxed inset removed.
+- 50 settlements, 56 transport corridors, rivers and mountain ranges.
+- Settlement search, expanded viewing and labels that adjust as you zoom.
+
+I checked the phone-sized layout, navigation and map geometry, then verified the live deployment. Original regional positions and distances are preserved. Use **Eastern Marches**, then **+**, or select a settlement to inspect it closely.
+
+Name: Galahad  
+Age: Approximately two years; 8½ feet tall  
+Date: Ten months and eleven days after Collegium enrolment — evening  
+Reputation: Celebrated scholar; commissioned technical examiner  
+Weapons (Equipped): None; bone greatsword stored  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Commission records, research, mechanical creations, charms and materials  
+Currency: 560 lorrats; 30 due upon report delivery
+
+
+## 214 — User — Atlas detail request (outside the scene)
+
+That is better but now the Eastern Marchs look hyper detailed compared to everywhere else on every other continent. We need to populate the map like the Eastern Marchs are populated
+
+
+## 215 — Assistant — Progress note
+
+I’ll use the Eastern Marches as the reference for detail across the whole atlas: more settlements, connected transport networks, rivers and terrain at comparable zoom levels. I’ll preserve the established locations and make the added detail appear progressively, so the world view stays readable.
+
+
+## 216 — Assistant — Progress note
+
+The gap is in the underlying map data: most of the world has only major centres and trunk routes. I’m adding the towns, connecting roads, branch railways and smaller terrain features that make a close view worth exploring, while keeping the continental overview readable.
+
+
+## 217 — Assistant — Progress note
+
+The atlas now has 887 settlements across the three continents, with local transport links and finer relief. I’m checking close views on each continent, along with route placement, label crowding and phone navigation, before publishing.
+
+
+## 218 — Assistant — Progress note
+
+The close views now have comparable settlement density to the Eastern Marches. Otranto is slightly denser and Morholt remains more sparsely settled. The geometry checks pass, including the original regional locations and routes; I’m finishing the phone checks and updating the atlas records.
