@@ -4879,3 +4879,193 @@ I found stale references to your student status, the pending Cevrane meeting and
 
 The chronology is consistent through the move to Auvrienne. I’m preserving the older scenes exactly as recorded, while updating the overview to distinguish completed achievements from proposals and claims—especially the commission, the trader cover story and the experimental charms.
 
+
+## 158 — Assistant — Progress note
+
+The full transcript review is complete. I’m now updating the slate through your return from the chancery, including the six months of scholarship, the new contacts, growth, finances and magical practice. The original scenes will remain intact in the archive.
+
+
+## 159 — Assistant — Progress note
+
+The updated files pass the continuity, encoding and app-update checks. Publishing has hit a connection issue: the browser tool reports no available browsers, including Codex’s in-app browser. I’ll finish the final file review while the connection is restored.
+
+
+## 160 — Assistant — Browser reconnection request
+
+Please reopen the signed-in GitHub page in this task’s Codex browser panel. The browser tool currently reports no connected browsers, so I cannot upload the verified update yet. Let me know when it is open.
+
+
+## 161 — User — Browser reconnected
+
+Done
+
+
+## 162 — Assistant — Progress note
+
+The signed-in Codex browser is available again. I’m checking the final slate layout, then I’ll upload the five publication files and verify the live site as well as the commit.
+
+
+## 163 — Assistant — Progress note
+
+The commit is in GitHub and the Pages deployment succeeded. I’m now comparing the live files with the checked local build to confirm the phone app will receive the complete update.
+
+
+## 164 — Assistant — Publication verified (outside the scene)
+
+Updated and published **revision 27**. I read the documents in full, preserved the complete story exchanges, and verified all five deployed files against the checked build.
+
+The [live slate](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/) now covers your development, contacts, finances, Orsival connection and approved chancery commission. Your phone will receive it when opened online.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately two years; 8½ feet tall  
+Date: Ten months and eleven days after Collegium enrolment — evening  
+Reputation: Celebrated scholar and commissioned technical examiner  
+Weapons (Equipped): None; bone greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Commission, works records, research, mechanical creations, charms and hunting materials; earlier possessions with Corva  
+Currency: 560 lorrats; 30 more due on report delivery
+
+
+## 165 — User — Engineering company costs (outside the scene)
+
+Ok now, how much would it cost me to open my own engineering company?
+
+
+## 166 — Assistant — Progress note
+
+I’ll check the established currency and local industry before estimating what Galahad could afford, from a design office to a workshop.
+
+
+## 167 — Assistant — Engineering company planning estimate (outside the scene)
+
+**You could afford to establish an engineering design and consultancy business now.** A staffed machine shop would require more capital, but Galahad has unusually little need for employees simply to develop and demonstrate his ideas.
+
+We have established **560 lorrats available**, with a skilled worker earning roughly **25 a month**. Property and equipment prices have not previously been fixed, so these are proposed Auvrienne planning estimates—not quotations you have obtained in the story.
+
+| Business | Opening cost | Monthly overhead |
+|---|---:|---:|
+| Small design office: calculations, drawings, inspections and consulting | 150–250 lorrats | 15–30 |
+| Personal prototype workshop: rented space, benches, instruments and modest equipment | 350–600 | 30–60 |
+| Small staffed engineering workshop: used machine tools and several employees | 1,200–2,500 | 100–180 |
+| Substantial manufacturing works | 10,000+ | 500+ |
+
+Opening costs include an allowance for premises deposits, business paperwork, equipment and initial supplies. Monthly overhead covers rent, ordinary utilities and—in the staffed workshop—wages. Project materials, subcontracting and major repairs would be additional; opening costs do not include a reserve for several months of operation.
+
+**My recommendation is the design office, with prototype work kept small initially.** Spending around **200 lorrats** would leave **360 in reserve**. You could sell designs, investigate faults and supervise agreed improvements, commissioning existing workshops to manufacture components when needed. Your current chancery examination is already an example of work such a firm could undertake, although transferring that personal commission to a company would need agreement.
+
+Your hands, eyesight, memory and ability to make intricate mechanisms greatly reduce your dependence on specialist tools and assistants. They do not supply raw materials, production capacity or enough hours to manufacture everything personally. A successful company would eventually need people who can reproduce your work while you develop the next thing.
+
+Savel and Cevrane give you credible introductions; your operating results give prospective customers something concrete to judge. Before opening, you would need to settle how independent commercial work fits your Collegium arrangement. Its rooms, equipment and funding are not automatically company assets. Your legal identity would also need clarifying in the business paperwork; the unresolved surname does not by itself establish that you are forbidden to own a firm.
+
+You have enough to begin selling engineering expertise without seeking an investor. Building a manufacturing concern would be the next financial step.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately two years; 8½ feet tall  
+Date: Ten months and eleven days after Collegium enrolment — evening  
+Reputation: Celebrated scholar and commissioned technical examiner  
+Weapons (Equipped): None; bone greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Commission, works records, research, mechanical creations, charms and hunting materials; earlier possessions with Corva  
+Currency: 560 lorrats; 30 more due on report delivery
+
+
+## 168 — User — House Orsival ennoblement (outside the scene)
+
+What about buying my way into house nobility by raising Corva’s house to a noble house?
+
+
+## 169 — Assistant — Progress note
+
+I’ll distinguish the cost of supporting a noble household from obtaining the title itself, and check how that would affect Corva and your place in the family.
+
+
+## 170 — Assistant — Ennoblement planning (outside the scene)
+
+**Yes—raising Corva’s family into the nobility is a plausible ambition, and potentially a more valuable investment than buying premises.** It would give your advancement a recognised household behind it while rewarding the woman who raised you.
+
+We have not established Veyrasse’s ennoblement procedure yet. My proposed arrangement is that **the Margrave can create a minor hereditary noble house by formal grant**, within the existing charter. Land, military privileges and political seats would require separate provisions; a new title would not automatically supply all three.
+
+Money could help secure that grant through patronage, financing public works or furnishing a substantial endowment. It would still require someone with authority to approve it. Vaust could help put a petition before the right people; he cannot simply sell you a valid title himself.
+
+For planning, I would use these distinctions:
+
+| Route | Likely financial scale |
+|---|---:|
+| Petition supported by exceptional service | Hundreds of lorrats in associated expenses; the service provides the principal justification |
+| Wealth-backed elevation of a minor house | Roughly **2,500–6,000 lorrats** committed in contributions, property or an income-producing endowment |
+| Establishing a substantial landed noble household | **10,000+ lorrats**, potentially much more |
+
+These are proposed campaign estimates, not an established tariff or guaranteed purchase price. Buying an estate alone would not make its owner noble.
+
+**With your present 560 lorrats, the strongest route would be earning an elevation and negotiating its terms.** A major engineering achievement that saves the March substantial money, protects a district or improves military supply could be worth considerably more to the Margrave than your current savings. You could seek recognition for **House Orsival** as part of the reward for a larger undertaking. The present examination is an opening into that relationship; completing a sixty-lorrat report would not ordinarily warrant hereditary nobility on its own.
+
+The family arrangements matter. Corva would need to agree, and the grant would need to specify who belongs to the newly ennobled branch and how its status descends. **Your recognised place as her son would need to be formalised or explicitly included in the grant.** Her elevation would not automatically settle your unresolved legal identity, ennoble everyone sharing her surname or include Veskan.
+
+My preference would be to pursue a hereditary grant that recognises Corva as the head of the new house and explicitly includes you as her son and successor. That gives you a family foundation for later power, rather than leaving your status dependent solely on a job at court. It would also bring obligations and scrutiny: established houses could acknowledge your legal rank while continuing to regard you as newcomers.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately two years; 8½ feet tall  
+Date: Ten months and eleven days after Collegium enrolment — evening  
+Reputation: Celebrated scholar and commissioned technical examiner  
+Weapons (Equipped): None; bone greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Commission, works records, research, mechanical creations, charms and hunting materials; earlier possessions with Corva  
+Currency: 560 lorrats; 30 more due on report delivery
+
+
+## 171 — User — Head of House Orsival (outside the scene)
+
+Could I not establish a house with me as the house head and Corva basically getting a role similar to Queen-Mother? Not a regent but still holding considerably sway for the familial affairs?
+
+
+## 172 — Assistant — Progress note
+
+I’ll record that distinction: Galahad as head of the house, with Corva holding recognised authority over family affairs without acting as regent.
+
+
+## 173 — Assistant — Proposed household roles (outside the scene)
+
+**Yes. That arrangement fits your intentions better than making Corva the ruling head.** You would found the noble branch of House Orsival and become its head; Corva would receive recognised standing as your mother and the household’s senior family figure.
+
+Something like **“Lady Corva Orsival, Mother of the House”** would suit the role. That is a proposed local designation, not an existing title we have already established. It carries the familial significance you mean by *Queen Mother*, without implying royalty or a regency.
+
+Her position could combine three things:
+
+- **Personal rank:** the founding grant explicitly includes her in the ennobled family, giving her status independent of merely being your employee.
+- **Household authority:** you entrust her with domestic appointments, household welfare, family correspondence and the reception of relatives or dependants. Staff answer to her in those matters.
+- **Family influence:** she has a recognised place in family deliberations and direct access to you. Her judgement carries weight because she raised you, knows you and has your confidence.
+
+You retain leadership of the house, its external commitments and its political direction. She does not govern in your absence by default, approve your decisions as a guardian or exercise a regent’s powers. Any authority beyond household affairs would depend on what you expressly entrusted to her.
+
+That also suits the relationship already established: **Corva can disagree with Galahad without needing to rule him.** Other members of the household would understand that dismissing her concerns is unlikely to be a good way of retaining his confidence—provided that is how you choose to support her.
+
+The petition would therefore seek recognition of **you as founder and head**, while formally recognising Corva as your mother and including her in the grant. The precise household arrangements could then be recorded separately. This does not inherently require a more expensive class of nobility than the one we discussed; obtaining the grant remains the main obstacle.
+
+It is a workable structure. Corva’s willingness to accept that public role is something you could discuss with her in the story.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately two years; 8½ feet tall  
+Date: Ten months and eleven days after Collegium enrolment — evening  
+Reputation: Celebrated scholar and commissioned technical examiner  
+Weapons (Equipped): None; bone greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Commission, works records, research, mechanical creations, charms and hunting materials; earlier possessions with Corva  
+Currency: 560 lorrats; 30 more due on report delivery
+
+
+## 174 — User — Orsival family history and future household (outside the scene)
+
+I think we work that in. I have also had a bit of head canon that Corva and Vaskan used to be married and the child I see in Vaskan’s memories is also Corva’s child. But Corva locks that shit down right where as Vaskan constantly relives the guilt as some kind of fucked I’ll atonement for not being all knowing and able to save his child from a danger that could not be predicted. So when we have the house come together Corva will probably bring Vaskan along. I think after the kid died they basically drifted apart due to the pain cause Corva shut down and Vaskan obviously wants to acknowledge and remember it but they still care for each other deeply and this is part of the reason I think Vaskan brought me to her in the first place. So it’s actually Vaskan’s last name that Corva kept because they are still married despite living separately. I like all of these lore ideas you have established they all sit very nicely. Vaskan didn’t actively raise me like Corva did but he was still a close figure in my life so he might not get a title like Corva does, depends if the society is male dominated which is a coin flip. If he does it would be the same title as her but like Father of the House and a Sir title. If not he would still gain some kind of noble prestige due to being part of the house and if any paperwork comes up asking I would list him as my father. Could you please establish this lore and the personal details that may come up in the future within the GitHub documentation please to ensure we do not forget this stuff and then I have a couple more questions I would like to ask about technology on the world and the region which the known states/nations exist in
+
+
+## 175 — Assistant — Progress note
+
+I’ll establish Corva and Veskan’s marriage, their shared loss and the Orsival family connection, then update the documentation. I’ll also resolve the coin flip for noble society and keep the proposed household roles separate from titles that have actually been granted.
+
+
+## 176 — Assistant — Progress note
+
+The coin flip makes Veyrasse’s nobility open to men and women on equal terms; lineage and wealth remain the main barriers. Corva’s proposed household authority would come from the role you give her, rather than from her sex. Veskan can be included as your recognised father and a member of the ennobled family, without automatically receiving a household office.
+
+I’m recording them as still married but living separately, and their lost son as the same child you perceived. Corva’s guarded grief will not be treated as a supernatural barrier to your perception.
+
