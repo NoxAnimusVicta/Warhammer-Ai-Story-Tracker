@@ -5722,3 +5722,65 @@ Vouressan now replaces the old name in the current dossier and chronicle. The ex
 The checks now pass for mainland road connectivity, river confluences and downstream flow, the original Eastern Marches measurements, and population accounting. I also corrected labels that were drifting outside the map at phone size.
 
 I’m preparing the GitHub publication. Bile’s timer, assessment order and travel plan remain in the private narrator notes; the visible slate contains the revised world details.
+
+
+## 245 — Assistant — Progress note
+
+The files are committed and GitHub is processing the deployment. I’m checking the published files against the tested version before calling this finished.
+
+The timeline notes preserve your intended distinction: Malaspina runs at ten times the reference rate, other systems have their own rates, and Bile plans his collection circuit around those differences.
+
+
+## 246 — Assistant — Publication confirmation (outside the scene)
+
+[Revision 35 is live](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=ad5d88d8737cb95836a1#world).
+
+- **Atlas:** northern and southern polar land, distinct surrounding seas, irregular islands, revised mountain relief and climate, 18 principal rivers with smaller tributaries, and connected mainland road networks.
+- **World lore:** the Earth-like hunting reserve, engineered wildlife and human quarry, collaborators, status-based trophies and destructive suppression raids are recorded.
+- **Vouressan:** renamed throughout the current dossier and chronicle; the original transcript remains intact.
+- **Private continuity:** Malaspina’s ten-to-one clock, twenty-local-year trial and staggered collection plan are saved. Other systems have independent rates. No story time has advanced.
+
+Bile’s Webway access has a published precedent. I found no confirmation that he knows Malcador’s Titan procedure, so our version has him independently exploiting existing temporal distortions. [Bile’s Webway access](https://wh40k.lexicanum.com/wiki/Key), [Titan precedent](https://wh40k.lexicanum.com/wiki/Titan_(Moon)). Baal likewise supports unequal clocks—local weeks against external years—without establishing a universal ratio. [Baal reference](https://warhammer40k.fandom.com/wiki/Devastation_of_Baal).
+
+The phone-sized preview, continuity checks and live deployment passed; all eight published files match the tested release.
+
+Name: Galahad  
+Age: Approximately two local years; 8½ feet tall  
+Date: Ten months and eleven days after Collegium enrolment — evening  
+Reputation: Celebrated scholar; commissioned technical examiner  
+Weapons (Equipped): None; Vouressan-bone greatsword stored  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Commission records, research, mechanical creations, charms and materials  
+Currency: 560 lorrats; 30 due upon report delivery
+
+
+
+## 247 — User — Eastern Marches and account handover request (outside the scene)
+
+All the original areas in the Eastern March need to be looked at as well because they are all significantly less detailed now in comparison to the rest of the map. You have done a nice job on settlement detail and the population growth variation without me asking you about those and I appreciate that. One other thing we need is some kind of instructional documentation on Github for running this Story as we have been as I am approaching weekly limits and will have to swap to a new account to continue for a whole and I will need the new version of Astra to have a solid understanding of the Story and how we are telling it. Also I see you noted the earth like hunting reserve and that is great but please ensure there are no stale references in the documentation to this planet being a Death World since we have retconned that and it is just a world curated by The Hunters
+
+
+## 248 — Assistant — Progress note
+
+I’ll bring the Eastern Marches up to the surrounding map’s level of detail while preserving its established geography and journeys. I’ll also prepare a GitHub handover guide for the next narrator and audit the active documentation for stale Death World references. Original transcript wording will remain intact, with the retcon clearly recorded for continuity.
+
+
+## 249 — Assistant — Progress note
+
+I found a stale “death-world hazards” label in the population rules, plus Eastern Marches descriptions that still quote terrain from an older map revision. I’ll correct those together.
+
+For the account handover, I’ll put the operating guide on GitHub and prepare a separate private download containing concealed continuity and editable source files. That lets the next narrator continue without exposing unrevealed story details publicly.
+
+
+## 250 — Assistant — Progress note
+
+The original Marches had only one mapped settlement in several states. I’ve added 69 district settlements and 127 road links, and expanded the records for all seven original places and six regional powers. The new population entries come from existing rural totals; they don’t increase the census.
+
+I’m now checking placement, connections and phone readability. The handover also distinguishes current facts from future plans, so the next narrator won’t accidentally grant a title, finish the commission or advance the clock.
+
+
+## 251 — Assistant — Progress note
+
+The atlas checks pass: original journeys and locations are preserved, mainland road networks remain connected, and population totals reconcile. The phone-sized preview also shows the added settlements without horizontal page overflow.
+
+The handover guide is ready. I’ve corrected the stale terminology in active population, research and physiology notes; historical transcripts and backups retain their original wording and are explicitly marked as superseded where relevant.
