@@ -442,5 +442,6 @@
     "subsets": "City populations and Cressault are included within the listed census groups. No double counting.",
     "time": "Advance only with elapsed story time; opening the phone app never advances the census.",
     "review": "Rates are current annual trends, reviewed when conditions change; they are not an automatic centuries-long forecast."
-  }
+  },
+  "time_basis": "Local Malaspina elapsed years"
 }

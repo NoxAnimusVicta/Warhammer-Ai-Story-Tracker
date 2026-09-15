@@ -5604,3 +5604,121 @@ The phone review caught two details worth fixing: the escarpment model was makin
 ## 228 — Assistant — Progress note
 
 The final phone checks pass, including the population tables, combined filters and regional route highlighting. The separate Eastern Marches map is now replaced by its records and measured routes within the world atlas. I’m publishing this version, then checking the live deployment.
+
+
+## 229 — Assistant — Progress note
+
+The revised files are uploading to GitHub. The annual rates are starting estimates for the campaign, so I’ll revise them when events change living conditions rather than compound them unchanged indefinitely.
+
+
+## 230 — Assistant — Progress note
+
+The new revision is committed to GitHub. I’m checking that Pages deploys it successfully and that the live atlas and census files match the tested version.
+
+
+## 231 — Assistant — Publication confirmation (outside the scene)
+
+[The rebuilt atlas and census are live — revision 34](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=c628d9047ba75dffd6cd#world).
+
+- **Planetary geography:** both poles, oceans, 148 islands, mountain systems, drainage and climate zones, with physical, political and geology views.
+- **Population:** annual rates and growth numbers for every census group, plus city estimates. Initial worldwide growth is approximately **0.34% annually**; major events can change those rates.
+- **Useful records:** descriptions for every power and settlement. The Political Register now filters settlement search.
+- **One atlas:** the Eastern Marches’ measured routes and territorial records are integrated; the separate map card is removed.
+
+I verified the phone-sized layout, population accounting, navigation and live deployment.
+
+Name: Galahad  
+Age: Approximately two years; 8½ feet tall  
+Date: Ten months and eleven days after Collegium enrolment — evening  
+Reputation: Celebrated scholar; commissioned technical examiner  
+Weapons (Equipped): None; bone greatsword stored  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Commission records, research, mechanical creations, charms and materials  
+Currency: 560 lorrats; 30 due upon report delivery
+
+
+## 232 — User — Atlas and lore revision request (outside the scene)
+
+Couple of issues still. There are Polar Seas but no actual Polar Landmass which makes very little sense. Also a bunch of these islands look good and that makes the ones that are clearly copy pasted ovals. The other designs you at least varied but the plain ovals as islands and glaciers stand out like Dog's Balls. Mountain Ranges also look pretty sketchy and a lot of the rivers you have made appear to be salt water with no mountain origin. Finally the routes system is pretty fucked. There are a bunch of spots scattered all throughout each continent that are just not connected at all by road which doesn't really make sense for this tech level there should be land routes of some kind even if they are dangerous or badly maintained. These people have been here since the Dark Age of Technology and this story takes place sometime after the events of the Genefather books although I have not decided how far forward. Depends on how long it would reasonably take Bile to create me and my Cohort. Then I have some lore changes. First the Vordrake, I am not a fan of the name, it doesn't fit the naming conventions we have used for everything else. Second we haven't once touched on deadly Flora only Fauna so I think the best idea is to retcon this being a Death World by Imperium standards and change it so it is a fairly regular world and decent earth-like world, probably the reason it was originally settled during Humanities Golden Age. But then sometime during the Dark Age of Technology the Hunters basically coopeted the planet as a game reserve. Originally it was probably just humans in a pretty decent environment but reset to around the WW1-WW2 era of tech by the time the hunters found them. The Hunters would have gotten bored with Humans eventually so they start conducting biological experiments on both the humans and the wildlife. Over time this makes a lot of the wildlife very deadly, human subjects usually die or go feral, leading to rumors' amongst the humans of the planet speaking of Savage tribes of large hulking humans that kill anything they come across. Functionally equivalent to a Yeti or a Sasquatch but made using Hunter Engineering to make them as deadly as possible to provide the most challenging hunt. Probably 80% or more of the wildlife on the planet being biological mutants created by the Hunters. Humans have largely been able to resist this for two main reasons. One their current level of technology and pack mentality has allowed humanity to survive despite the hostile conditions and Two the Hunters use humans as a test demographic for the effectiveness of new mutant creatures they have crafted and the Hunters require a large testing population. So not a Death World just a game reserve for Hunters who Biologically and Genetically Modify Creatures and some humans into horrible and deadly monstrosities to provide more exhilarating hunting targets. But human culture in itself is part of the hunting culture as a Hunter is seen favorably to kill say a head of state over a common merchant. Hunters regularly conduct purges on Human Settlements to ensure the technology levels never advance too far from the WW1 to WW2 Area. The Hunters instead of operating from stealth by themselves or in pairs as they usually do they send a small strike force and multiple ships. They decimate settlements, kill or capture 50-75% of the population and then leave. Due to collaborators and their advanced technology they have no trouble staying on top of human technological development and research accumulation and use this to actively target areas. One other rather important piece of lore I probably should have mentioned. This star system is in Nihilus. Bile specifically would have found some way to navigate Nililus with minimal issues likely by using the webway. He would have selected the planets of myself and my Cohort specifically as due to the Chronostrife time is all over the place in Nihilus. Easiest way to track that is each Star System basically runs on its own time, I have nothing canon to establish this but as long as it is not directly contradicted by canon that is how I want to run it, time by system. So Bile would have selected each planet and system he sent each Proto-Primarch to have accelerated time compared to the other side of the galaxy to the scale of 10 years in the Nihilus Systems being equivalent to 1 year in Imperium Sanctus. Functionally copying Malcador's trick with the Grey Knights, I am unsure if he knows what Malcador did as far as canon goes so fact check that and if it is ambiguous it is up to you if Bile knows what Malcador did with Titan or he developed the idea of manipulating timescales independently. I wouldn't be the first of my Cohort he finds but I would not be the last either. He would have it set up so not every one of us would finish our 20 year test at the same time due to the chronostrife and finding exact chronological configurations that meet the planet requirements for every Cohort member is difficult so he basically figured out a way to do it in Order which should only take about a month in Sanctus time for him to check up on his Cohort and either retrieve or exterminate us.
+
+
+## 233 — Assistant — Progress note
+
+I’ll update the lore and atlas together, including the trial’s local-time deadline. I’ll check the canon around Nihilus, Bile’s Webway access and Titan first, and audit the disconnected routes and terrain.
+
+I’ll also propose a replacement for “Vordrake” before changing it throughout the records. The creature and your encounter with it will remain established.
+
+
+## 234 — Assistant — Progress note
+
+The main lore distinction is sound: Bile can exploit existing time distortions without having created them. I’m treating the system-wide clocks and roughly ten-to-one ratio as our campaign’s rules, while checking the published precedent separately.
+
+For the map, I’m replacing the decorative mountain marks with continuous relief and checking route connectivity settlement by settlement. The southern pole will have an ice-covered landmass; its population won’t be added to the existing census.
+
+
+## 235 — Assistant — Naming question
+
+For the creature’s replacement name, my preference is “Vaurenne furnace-drake”: it fits the local naming style while retaining an immediately recognisable common name. Which do you prefer?
+
+Options: Vaurenne furnace-drake; Cendreval drake; Keep “furnace drake” as the common name only.
+
+
+## 236 — Assistant — Progress note
+
+The route audit found 29 separate mainland road networks. They now connect into one overland network per continent, with sea passages retained for islands. These links don’t imply safe travel or a new transcontinental railway.
+
+I also found a terminology correction: the **Chronostrife** is the dispute over Imperial dating; the regional time distortions are a related but separate phenomenon. I’ll preserve your time-by-system approach without presenting it as a universal canon rule. [Chronostrife reference](https://wh40k.lexicanum.com/wiki/Chronostrife)
+
+
+## 237 — User — Naming and time clarification
+
+No see these names are clearly just plain english. They need to be inspired by the original language. Furnace Drake shouldn't be anywhere near the name for a species of dragon like creature. Also please keep in mind with Nihilus is every System runs at different speeds, some faster, some slower. The Blood Angels fought the Tyranids for years but to them it only felt like Months I believe but fact check that so you can get an idea of what I am talking about. The System Malaspina sits in runs at 10x the speed of Imperium Sanctus but that does not mean all systems in Nihilus run at that speed.
+
+
+## 238 — Assistant — Progress note
+
+Understood—the English epithet was the wrong direction. I’ll use a name drawn from the setting’s naming roots, without “furnace” or “drake” attached.
+
+The time record already distinguishes the systems: **Malaspina is ten-to-one**, while other systems can run faster or slower. I’ll check Baal’s example as well; it won’t become a uniform rule for Nihilus.
+
+
+## 239 — Assistant — Naming question
+
+The established naming influence is French/Italian within an Austro-Hungarian-style culture. I’d favour “Vouressan” (voo-REH-sahn) for this animal. “Scalviero” (skal-vee-EH-ro) is a more Italian-sounding alternative. Both would stand alone as the species name.
+
+Options: Vouressan; Scalviero.
+
+
+## 240 — Assistant — Progress note
+
+Baal supports the distinction you mean: accounts describe **weeks for the participants while years passed elsewhere**. The exact outside interval is muddied by the revised Indomitus chronology, so I’ll use it as evidence of unequal time flow rather than copy a fixed number. Malaspina’s ten-to-one clock remains specific to its system. [Devastation of Baal](https://warhammer40k.fandom.com/wiki/Devastation_of_Baal)
+
+The visual review also caught mountain belts that still looked too uniform. I’m breaking them into uneven massifs, spurs and passes, with the river network following the revised terrain.
+
+
+## 241 — User — Terrain clarification and species name confirmed
+
+There are too many large rivers and none of them follow any of the rules of terrain or geography. The mountain ranges look for worse, again for the same reason you are not following the actual realistic rules of terrain and geography that must be adhered to. You also there are massive issues with the poles. There is no Northern landmass still and you wiped the entire South Polar Sea and replaced it with landmass but if you are gonna do that according to the laws of temperature you must do it to the top as well which should also move the polar sea out and affects the temperature and biomes of the continents. You need to stop half assing this. We are not playing fantasy map generator. Even though Warhammer 40k is not real that does not mean you can slouch on other important details. Actually cool you caught the mountain thing on your own. Good job there. Just make sure to look at rivers too. Vouressan will be the name of the Dragon Beast
+
+
+## 242 — Assistant — Progress note
+
+Vouressan is confirmed.
+
+The rivers still need a clearer hierarchy: a limited number of major catchments, with smaller tributaries visible as you zoom in. I’ll check their sources, confluences and outlets against the terrain.
+
+One physical distinction matters here: temperature determines ice cover, while geology determines whether land lies beneath it. The poles don’t have to match. But Malaspina can certainly have land at both poles, so I’ll add a northern landmass and keep distinct polar seas around both, with coastlines separated from floating ice.
+
+
+## 243 — Assistant — Progress note
+
+The atlas now distinguishes **18 principal rivers, including the established Ressant, from 60 smaller tributaries**. Both polar landmasses have separate coastlines, ice shelves and surrounding seas. I’ve also recalculated the climate zones against the revised relief.
+
+Vouressan now replaces the old name in the current dossier and chronicle. The exact transcript keeps the original wording, with the rename recorded separately so the earlier encounter remains traceable.
+
+
+## 244 — Assistant — Progress note
+
+The checks now pass for mainland road connectivity, river confluences and downstream flow, the original Eastern Marches measurements, and population accounting. I also corrected labels that were drifting outside the map at phone size.
+
+I’m preparing the GitHub publication. Bile’s timer, assessment order and travel plan remain in the private narrator notes; the visible slate contains the revised world details.
