@@ -13,3 +13,5 @@ Open https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/ in Safari and 
 The slate checks for new editions when opened, brought back into view, reconnected, and once a minute while visible. Updates require a connection; the last received edition remains available offline.
 
 Independent fan work. Warhammer 40,000 and its established characters belong to their respective rights holders.
+
+The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the Long Culling. Editable sources are food-cultures.json and purge-history.json.

@@ -666,7 +666,7 @@ Scattered practitioners and private records; no dependable standing magical arm.
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
 
-## Serevask federal seat and loyal districts
+## Serevask Republic
 
 National return. Population: 13,000,000.
 

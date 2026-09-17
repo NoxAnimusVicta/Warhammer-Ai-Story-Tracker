@@ -1,6 +1,6 @@
-# Current continuity — revision 38
+# Current continuity — revision 39
 
-This is an out-of-character handover checkpoint, separate from the immersive slate. Read later transcript entries for subsequent developments. The present update adds national capacity returns and balances atlas detail: no story time passes.
+This is an out-of-character handover checkpoint, separate from the immersive slate. Read later transcript entries for subsequent developments. The present update corrects actual atlas sampling and through routes, expands civic and food records, and establishes the last major Hunter Culling: no story time passes.
 
 ## Current scene
 
@@ -52,7 +52,7 @@ The active continuous atlas is `world-map.json`; the separate old regional map i
 
 Three inhabited continents: Otranto, Morholt and Vesalius. Boreal and Austral polar landmasses have no recorded permanent population. World circumference is approximately 36,000 km. Coordinates use an equirectangular projection; polar distortion is expected. Rivers, relief and climate must remain physically coherent when editing.
 
-Present population is **1,209,200,000**, across 33 non-overlapping census groups. Current combined annual trend: **+4,147,120**. Cities are subsets, not extra population. Cressault's 180,000 are already included in Veyrasse. Serevask's collective figure is already split among its administrations. New settlements draw from uncharted/rural returns. Demographic time begins at the current scene and has not advanced during the map work.
+Present population is **1,209,200,000**, across 33 non-overlapping census groups. Current combined annual trend: **+4,147,120**. Cities are subsets, not extra population. Cressault's 180,000 are already included in Veyrasse. The former southern Serevask federation’s figure is split among four independent administrations; it never governed Vesalius. New settlements draw from uncharted/rural returns. Demographic time begins at the current scene and has not advanced during the map work.
 
 All character ages, local history and population rates use **local elapsed years**. The system is in Imperium Nihilus; there is no uniform clock ratio across Nihilus. The private handover preserves agreed offworld timing and concealed experiments. Do not divide Galahad's existing age or history by a time-conversion ratio.
 
@@ -75,4 +75,20 @@ The national-register.json file records 33 disjoint national or geographic retur
 
 Divided jurisdictions remain divided and are excluded from default rankings. Cressault is already included within Veyrasse accounting without deciding sovereignty. Serevask does not command its former federal partners. Rare practitioners and captured devices have no manufactured national quotas. No mobilisation or equipment award has occurred.
 
-Map detail now appears by settlement significance, population and screen spacing throughout the atlas; all 956 sites and 2036 routes remain. Population and original measured routes are unchanged. Read private/national-capacity38.md for future update rules when the private handover is available.
+Map detail now appears by settlement significance, population and screen spacing throughout the atlas; the current atlas has 897 sites and 1928 routes. Population and original measured routes are unchanged. Read private/national-capacity38.md for future update rules when the private handover is available.
+
+## World revision 39 — controlling update
+
+The actual map now has 897 settlements and 1928 transport segments. The 59 excessive revision36 Marches markers and redundant incident roads were removed from the chart; their population returns to uncharted/rural accounting, with no deaths, movement or elapsed time. All 887 pre-revision36 sites remain, alongside ten retained Marches centres. Original seven story sites and measured segments are unchanged. Northern road access runs from Valdrec toward Vardol, southern access from Miravelle toward Kelbrun, and western access from Drossane toward Averholt. The proposed Karsenne–Calvernis railway is not open. Removal of the measured-route accordion is presentation only; regional-map.json remains the historical measured source.
+
+The current Serevask Republic has thirteen million inhabitants. Its former federation was confined to the southern basin partners Serevask, Varnelle, Kelbrun and Gavrel; it never governed Vesalius. Post-Culling reconstruction disputes broke the effective union. Four separate returns total58.4million. Forty-three repetitive, unvisited principal-city names have been corrected with fixed Python rolls in private/name-corrections39.json. Stable IDs remain; old names in historical transcripts are aliases, not additional cities or events.
+
+Vouressan bone generally is prized. Galahad used jaw/skull bone for his particular sword; cranial bone is not a uniquely valuable material or separate species trait.
+
+Read food-cultures.json and CULTURE-AND-HISTORY.md for the thirty-three regional food returns. Shared geography, trade and former unions explain overlap; class, season and access change the table. Use food and drink naturally when it supports a scene, setting or relationship, not as mandatory decoration. Do not choose Galahad’s tastes or actions for him. He may eat for pleasure without ordinary-human hunger penalties. Most food comes from conventional cultivated crops, managed livestock and fisheries, not trophy predators.
+
+The Long Culling ended67local years before the present return after3years of overlapping campaigns. Approximately56%of1.54billion were removed:37%killed and19%captured, leaving677.6million on-world. These are uncertain retrospective estimates. The67-year recovery reaches today’s1.2092billion through initially faster growth that slowed toward current conditions; present annual rates must not be projected backward unchanged. See purge-history.json and private/purge39-demographic-model.json. Historical major-purge intervals average about100years, commonly50–150, with a24-year shortest correlated interval. This is a responsive hunting policy, not a timer or guaranteed imminent event. Individual hunts, selective settlement suppression and rare preserve-wide cullings are separate scales. Captured people are not automatically dead. Do not retroactively assign the Orsivals’ son to the major Culling or invent an NPC’s personal experience of it.
+
+No story time, character power, inventory, money, commission progress or demography has advanced.
+
+Revision39 also replaces509repeated-root, unvisited district names. See private/district-name-corrections39.json for exact old-name aliases and fixed Python choices. Historical transcript names are preserved; IDs, populations and positions remain unchanged.

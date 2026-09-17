@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": 38,
-  "epoch": "Ten months and eleven days after Collegium enrolment \u2014 evening",
+  "revision": 39,
+  "epoch": "Ten months and eleven days after Collegium enrolment — evening",
   "elapsed_story_years": 0,
   "unit": "Millions of constant-price Veyrasse lorrat-equivalents per local year",
   "profiles": [
@@ -679,7 +679,7 @@
     },
     {
       "id": "serevask",
-      "name": "Serevask federal seat and loyal districts",
+      "name": "Serevask Republic",
       "continent": "vesalius",
       "population": 13000000,
       "scope": "state",

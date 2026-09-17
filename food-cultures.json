@@ -1,0 +1,341 @@
+{
+  "edition": 39,
+  "general": [
+    "Most calories come from familiar cultivated grains, pulses, roots and oil crops descended from colonial agriculture. Managed livestock, fisheries, dairies and defended market gardens supply the ordinary table. Hunter-altered wildlife is not the population’s staple meat; wild carcasses require local inspection, and rare trophy flesh is no guarantee of safe food.",
+    "Cuisine follows climate, altitude, waterways, migration, former political unions and trade. National borders do not separate every recipe. Protected irrigation, terraces and greenhouses supply particular districts; they do not make every crop grow everywhere. Coffee, citrus, spices and good cooking oil may be imported luxuries far from their producing districts.",
+    "Smoking, salting, drying, fermenting and pickling are widespread. Canneries, commercial ice houses and some refrigerated warehouses exist at the established industrial level, but household refrigeration is uncommon. Freshness, butter, sugar, refined flour and meat portions reveal means and access more reliably than a dish’s name alone.",
+    "Public dining includes workers’ canteens, station kitchens, street stalls, inns, cafés, household suppers and formal court service. Meals can carry negotiation, affection, class distinctions, grief or scarcity without becoming a ceremony every time. The same broth can be generous at home and thin under rationing."
+  ],
+  "profiles": [
+    {
+      "id": "veyrasse",
+      "name": "March of Veyrasse",
+      "tradition": "Eastern rail-and-coast",
+      "history": "Old coastal markets and the railway labour settlements exchange recipes with Caldrienne and Calvernis despite customs quarrels.",
+      "everyday": "Ressant pot: white beans, leeks and barley, enriched with smoked pork when wages permit. Railway kitchens keep it warm for staggered shifts.",
+      "hospitality": "Auvrienne veal in mustard cream, with buttered noodles; pear pastries follow at prosperous tables.",
+      "drink": "Chicory coffee in workshops; real coffee, apple cider and dry valley wine in better-supplied houses.",
+      "daily_life": "Fresh fish is ordinary near Serravonne, expensive uphill after a disrupted train. Station households stretch yesterday’s bread into broth dumplings."
+    },
+    {
+      "id": "caldrienne",
+      "name": "Duchy of Caldrienne",
+      "tradition": "Eastern rail-and-coast",
+      "history": "Agricultural estates feed the northern arsenals; ducal kitchens and barracks draw on the same cattle and grain districts at very different prices.",
+      "everyday": "Valdrec sour-pot: cabbage, potato and beef simmered with caraway; soldiers receive more cabbage and less beef.",
+      "hospitality": "Roast goose with apple stuffing and buckwheat cakes, served at estate weddings and officers’ banquets.",
+      "drink": "Dark malt beer; plum spirit poured in small glasses.",
+      "daily_life": "Army purchasing can empty market stalls before a mobilisation. Housewives argue over whether a proper sour-pot should contain tomato, an imported coastal habit."
+    },
+    {
+      "id": "karsenne",
+      "name": "Karsenne Compact",
+      "tradition": "Escarpment dairies and mining towns",
+      "history": "Pass commerce carried dairy and grain dishes between otherwise stubbornly independent mining councils. Food is compact enough for a shift or a winter ascent.",
+      "everyday": "Drossane cheese dumplings: stale bread, sharp mountain cheese and onion, browned and served in broth.",
+      "hospitality": "Covered rye pie of smoked goat and mushrooms; the richest versions have a deep butter crust.",
+      "drink": "Whey drinks and small beer during work; juniper spirit after the shift.",
+      "daily_life": "Lower valleys supply potatoes and cabbage, upland pastures cheese. Bought flour and coastal salt become costly when freight negotiations fail."
+    },
+    {
+      "id": "calvernis",
+      "name": "Calvernis Republic",
+      "tradition": "Eastern rail-and-coast",
+      "history": "The banking ports absorbed recipes from their merchant crews, while inland households retained grain-and-bean cooking.",
+      "everyday": "Miravelle fish pot: firm coastal fish, onions, white beans and wine broth, ladled over yesterday’s bread.",
+      "hospitality": "Saffron rice with shellfish and a separately served herb oil; expensive spice marks a host’s means.",
+      "drink": "Dry white wine, anise cordial and strong coffee.",
+      "daily_life": "Dockside stalls sell fried small fish in paper. A merchant’s citrus preserves may have travelled farther than the guests eating them."
+    },
+    {
+      "id": "ceralte",
+      "name": "Ceralte Admiralty",
+      "tradition": "Island stores and convoy cooking",
+      "history": "Limited grain land and long sea passages made imported flour, preserved fish and safe drinking water matters of government.",
+      "everyday": "Dalmor soaked biscuit: ship’s bread softened with fish broth, oil and onions; ashore it gains tomatoes and herbs.",
+      "hospitality": "Whole baked rockfish under a salt crust, opened at the table; almond-and-citrus cakes for shore leave and family feasts.",
+      "drink": "Weak beer, diluted island wine and lemon syrup when supplies allow.",
+      "daily_life": "Islanders know several preparations of the same catch. Grain shortages change the size of a loaf before they change a naval ration."
+    },
+    {
+      "id": "vardol",
+      "name": "Vardol",
+      "tradition": "Northern Vesalian grain belt",
+      "history": "Refinery and arsenal towns share a strong canteen tradition with their farming hinterland. Winter provisions matter more inland than at the ports.",
+      "everyday": "Rye parcels filled with potato, onion and smoked sausage, baked in communal ovens.",
+      "hospitality": "Beef in dark beer with prune gravy and steamed bread; elaborate layered honey cake.",
+      "drink": "Rye beer and sour cherry cordial.",
+      "daily_life": "Shift whistles govern supper in the industrial wards. Kitchen gardens and pickled cabbage cushion disruptions to the grain trains."
+    },
+    {
+      "id": "averholt",
+      "name": "Averholt",
+      "tradition": "Northern Vesalian grain belt",
+      "history": "Provincial land bargains preserve different kitchens inside the same realm; grain taxes and shared fairs link the basins.",
+      "everyday": "Barley risotto with mushrooms and hard cheese; peasant versions use dripping instead of butter.",
+      "hospitality": "Stuffed river pike and pastry filled with poppy seed, served when a provincial house receives important guests.",
+      "drink": "Apple wine in orchard districts; malt beer in the colder basins.",
+      "daily_life": "Public ovens are meeting places as well as fuel economies. A dispute over milling rights can be discussed for an entire supper without anyone naming its political purpose."
+    },
+    {
+      "id": "tervayne",
+      "name": "Tervayne",
+      "tradition": "Western Vesalian seaways",
+      "history": "Western ports face a different trading sea from Veyrasse and share more food traffic with southern islands and Otrantian merchants.",
+      "everyday": "Fish-and-potato bake beneath an oat crust, with pickled onions.",
+      "hospitality": "Mussels in cream and white wine, followed by baked custard scented with imported spice.",
+      "drink": "Coastal cider, amber beer and port-house coffee.",
+      "daily_life": "Sailors’ inexpensive meals favour salted fish; fresh shellfish signals a short journey from water to table. Inland villages are less maritime than the national reputation suggests."
+    },
+    {
+      "id": "serevask",
+      "name": "Serevask Republic",
+      "tradition": "Southern charter basin",
+      "history": "The old Serevask customs federation joined four southern basins, never Vesalius as a whole. Its divided successors still recognise one another’s dishes.",
+      "everyday": "Serevask sour rice: rice and lentils finished with soured milk, toasted seed and browned onion.",
+      "hospitality": "Duck with bitter orange, accompanied by layered rice scented with preserved peel.",
+      "drink": "Strong black tea; fermented rice drink at harvest gatherings.",
+      "daily_life": "The remnant government maintains public grain kitchens near its ministries. Former federal recipes outlast the tax union, while each successor claims its own version is the original."
+    },
+    {
+      "id": "varnelle",
+      "name": "Varnelle",
+      "tradition": "Southern charter basin",
+      "history": "Delta rice, fisheries and freight markets furnished the former federation’s export table; incoming crews introduced sour, hot and sweet condiments.",
+      "everyday": "Varnelle red rice with river fish, pepper and beans, cooked in one broad pan.",
+      "hospitality": "Crab broth with fine rice noodles and citrus leaf; confectioners sell sesame brittle.",
+      "drink": "Iced citrus water where ice can be bought; tea and light cane spirit.",
+      "daily_life": "Fish sauce is an everyday seasoning rather than a luxury. Flood years alter rice prices across all four successor states."
+    },
+    {
+      "id": "kelbrun",
+      "name": "Kelbrun",
+      "tradition": "Southern charter basin",
+      "history": "Upriver gardens and plantation labour communities mix basin rice dishes with tubers, legumes and orchard fruit.",
+      "everyday": "Steamed tuber cakes with black beans and a sharp herb relish.",
+      "hospitality": "Pork braised in cane syrup and sour fruit; rice cakes filled with ground nuts for festivals.",
+      "drink": "Roasted-grain coffee substitutes and cane spirit; estate houses serve imported coffee.",
+      "daily_life": "Labourers eat at field shelters from wrapped parcels. Plantation owners’ lavish fruit tables conceal the uneven access to meat and purchased grain."
+    },
+    {
+      "id": "gavrel",
+      "name": "Gavrel",
+      "tradition": "Southern charter basin",
+      "history": "March-house kitchens descend from basin customs but favour portable grain and smoked provisions for retainers travelling between estates.",
+      "everyday": "Millet cakes with goat stew and sour plum relish.",
+      "hospitality": "Spit-roasted kid with nut paste, followed by dense dried-fruit bread.",
+      "drink": "Sour milk, herbal tea and plum wine.",
+      "daily_life": "Hospitality includes bread broken by the host, but its quality distinguishes an honoured guest from a hired messenger. Poor tenants substitute lentils for goat."
+    },
+    {
+      "id": "veldrassen",
+      "name": "Veldrassen",
+      "tradition": "Otrantian plateau and basin",
+      "history": "A composite crown includes humid lowlands, high terraces and temperate uplands; imperial-looking court service conceals many provincial kitchens.",
+      "everyday": "Maize polenta with beans and mushroom gravy in the uplands; rice replaces maize in irrigated lowland districts.",
+      "hospitality": "Braised beef with red wine and layered herb pasta; provincial delegates insist on different cheeses.",
+      "drink": "Plateau beer, lowland cane drink and coffee at the court.",
+      "daily_life": "Altitude matters as much as latitude. Mountain towns import much of their grain, while court menus display produce from every province as a claim to unity."
+    },
+    {
+      "id": "ostrevain",
+      "name": "Ostrevain",
+      "tradition": "Otrantian grain-and-estate belt",
+      "history": "Cereal estates, cattle districts and newly industrial towns trade large quantities of durable staples. Central purchasing has spread army dishes across provincial boundaries.",
+      "everyday": "Pepper bean stew thickened with maize meal, with smoked beef on paydays.",
+      "hospitality": "Stuffed roast fowl, squash dumplings and nut pastries.",
+      "drink": "Brown beer and lightly fermented fruit drinks.",
+      "daily_life": "Soldiers carry toasted grain and hard cheese; wealthy tables emphasise fresh meat and fruit that has not endured a convoy journey."
+    },
+    {
+      "id": "rovessara",
+      "name": "Rovessara",
+      "tradition": "Otrantian western ports",
+      "history": "Maritime commerce joins a mild western coast to upland cheese districts and distant spice markets. Restaurant fashion changes faster than village food.",
+      "everyday": "Bean-and-greens soup with flatbread and olive oil; tiny fried fish at the quays.",
+      "hospitality": "Rice cooked in seafood stock, fine stuffed pasta and chilled fruit creams in wealthy city cafés.",
+      "drink": "Bitter coffee, aperitif wine and citrus cordial.",
+      "daily_life": "Fresh oil, mountain butter and imported spice coexist rather than defining one uniform national cuisine. Ice houses and refrigerated warehouses support the richest urban tables."
+    },
+    {
+      "id": "brannervaux",
+      "name": "Brannervaux",
+      "tradition": "Otrantian river kitchens",
+      "history": "Unequal river cities share barges, mill customs and periodic floods. Grain, pulses and freshwater fish travel more readily than political loyalty.",
+      "everyday": "Lentils with smoked carp and flat noodles; poorer bowls omit fish and add greens.",
+      "hospitality": "River-fish dumplings in herb butter and plum-filled pastries.",
+      "drink": "Pear cider, mild beer and roasted-barley drinks.",
+      "daily_life": "Floodplain gardens supply onions and beans. Fish smoking and grain warehouses make the river ports vital even to communities beyond the floodplain."
+    },
+    {
+      "id": "cervaud",
+      "name": "Cervaud",
+      "tradition": "Otrantian grain-and-estate belt",
+      "history": "Border garrisons borrow cooking from both larger patrons, while local families argue over which dishes predate foreign influence.",
+      "everyday": "Cabbage rolls stuffed with rice or barley and a little minced meat.",
+      "hospitality": "Roast pork with sour cherries and crisp potato cakes.",
+      "drink": "Dark beer, cherry spirit and heavily sweetened coffee for visitors.",
+      "daily_life": "Ration bread and pickled vegetables dominate remote posts. Market-day sausages are a small luxury that survives frequent changes of uniform."
+    },
+    {
+      "id": "veylac",
+      "name": "Veylac",
+      "tradition": "Otrantian southern workshops",
+      "history": "Industrial towns link cooler uplands to river farms. Working households value meals that can be reheated when factory shifts end at different hours.",
+      "everyday": "Baked beans beneath an onion-and-breadcrumb crust, with smoked sausage when affordable.",
+      "hospitality": "Cheese-filled pasta browned in butter; orchard-fruit tart at civic dinners.",
+      "drink": "Pale beer, plum cordial and café coffee.",
+      "daily_life": "Cooperative dining rooms compete with private factory canteens. Imported coastal fish is popular but more expensive than the local root-and-grain staples."
+    },
+    {
+      "id": "ossavren",
+      "name": "Ossavren successor territories",
+      "tradition": "Ossavren divided crownlands",
+      "history": "Former royal roads carried recipes across a realm now divided by customs barriers and rival armies. Shared dishes remain a language of kinship across hostile borders.",
+      "everyday": "Red lentil pot with flatbread in warm valleys; barley-and-turnip broth in higher districts.",
+      "hospitality": "Lamb with preserved lemon and almonds; former court households still serve rosewater rice pudding.",
+      "drink": "Mint tea in warm valleys, mountain beer inland and sweet wine in surviving vineyard districts.",
+      "daily_life": "Smuggling brings salt, oil and family recipes across front lines. An abundant banquet may conceal shortages in a neighbouring claimant’s territory."
+    },
+    {
+      "id": "rovengard",
+      "name": "Rovengard",
+      "tradition": "Morholt southern hearths",
+      "history": "Sheltered southern valleys support oats, rye, roots and dairy herds; forest preserves add berries and inspected game.",
+      "everyday": "Rye-crust fish loaf with potato and onion, carried cold or warmed beside a stove.",
+      "hospitality": "Venison with sour red berries and cream, followed by baked curd cheese.",
+      "drink": "Small beer, berry cordial and hot herb infusions.",
+      "daily_life": "A winter pantry matters more than a fashionable fresh ingredient. Household drying racks and communal bake days bind city relatives to valley farms."
+    },
+    {
+      "id": "varnesk",
+      "name": "Varnesk",
+      "tradition": "Morholt foundry kitchens",
+      "history": "Mining leagues inherit northern preservation techniques but rely heavily on imported grain and valley dairy produce.",
+      "everyday": "Potato-and-rye dumplings with smoked pork and fermented cabbage.",
+      "hospitality": "Beef baked beneath a thick salt-and-rye crust, opened for foundry feasts.",
+      "drink": "Dark rye beer; strong black tea bought through concession merchants.",
+      "daily_life": "Canteens portion meat by shift entitlement. A late supply train can turn dumplings into thin flour soup without stopping the furnaces."
+    },
+    {
+      "id": "galdresk",
+      "name": "Galdresk",
+      "tradition": "Morholt wardens’ tables",
+      "history": "Order houses preserve remedies and practical cookery alongside the older arts. Most food is ordinary, nourishing and carefully stored.",
+      "everyday": "Oat broth with roots, mushrooms and dried fish; kitchens adjust texture for the sick.",
+      "hospitality": "Trout in cream with dill-like herbs, served with small sourdough loaves and berry compote.",
+      "drink": "Unsweetened herbal tea and berry wine on feast days.",
+      "daily_life": "Healing traditions do not make every herb magical. Supplies are dated and inspected; winter hospitality can impose a serious obligation on an isolated house."
+    },
+    {
+      "id": "halskert",
+      "name": "Halskert",
+      "tradition": "Morholt river kitchens",
+      "history": "Seasonal river traffic sustains mills, fisheries and gardens in comparatively sheltered valleys. Boat families carry recipes between rival towns.",
+      "everyday": "Barley baked with lake fish and onion in covered crocks.",
+      "hospitality": "Butter-fried freshwater fish, green peas and a layered berry cake during the short summer.",
+      "drink": "Oat beer and tart orchard cider where fruit grows.",
+      "daily_life": "Smokehouses fill before freeze-up. Spring fish suppers mark reopened navigation and the arrival of news as much as the season’s catch."
+    },
+    {
+      "id": "other-otranto-400",
+      "name": "Northwestern Otrantian jurisdictions",
+      "tradition": "Western island-and-estuary tables",
+      "history": "These are neighbouring independent jurisdictions, not a nation with one compulsory cuisine. Trade, climate and local harvests connect their tables.",
+      "everyday": "Bean flatbreads, salt fish and pepper relish accompany coastal market trade; inland families substitute smoked river fish. Nut-and-honey pastries are bought for marriages. Light fruit wine and weak beer vary by port.",
+      "hospitality": "Feast food depends on the host’s stores, season and means; the chartered cities and poorer rural households differ sharply.",
+      "drink": "Local staples and luxuries are described with the regional dishes.",
+      "daily_life": "Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest."
+    },
+    {
+      "id": "other-otranto-700",
+      "name": "Western Otrantian jurisdictions",
+      "tradition": "Southwestern upland tables",
+      "history": "These are neighbouring independent jurisdictions, not a nation with one compulsory cuisine. Trade, climate and local harvests connect their tables.",
+      "everyday": "Maize porridge with hard cheese and stewed greens feeds mining and pastoral households. Smoked goat pie is a festival dish, with pear spirit in orchard valleys. Snowbound districts depend on grain purchases rather than self-sufficiency.",
+      "hospitality": "Feast food depends on the host’s stores, season and means; the chartered cities and poorer rural households differ sharply.",
+      "drink": "Local staples and luxuries are described with the regional dishes.",
+      "daily_life": "Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest."
+    },
+    {
+      "id": "other-otranto-1100",
+      "name": "Southern Otrantian jurisdictions",
+      "tradition": "Northern dry-basin tables",
+      "history": "These are neighbouring independent jurisdictions, not a nation with one compulsory cuisine. Trade, climate and local harvests connect their tables.",
+      "everyday": "Millet, lentils and flatbread underpin dry-country meals, with yoghurt and preserved citrus where irrigation permits. Wealthy caravan patrons serve spiced lamb and nut rice. Mint tea is offered widely, with sugar signalling means.",
+      "hospitality": "Feast food depends on the host’s stores, season and means; the chartered cities and poorer rural households differ sharply.",
+      "drink": "Local staples and luxuries are described with the regional dishes.",
+      "daily_life": "Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest."
+    },
+    {
+      "id": "other-otranto-1450",
+      "name": "Eastern Otrantian jurisdictions",
+      "tradition": "Eastern coastal tables",
+      "history": "These are neighbouring independent jurisdictions, not a nation with one compulsory cuisine. Trade, climate and local harvests connect their tables.",
+      "everyday": "Steamed rice, sour fish broth and pickled greens suit the wet coastal districts; upland markets sell tuber cakes and smoked pork. Feast tables add shellfish and fragrant fruit. Tea houses and cane-drink stalls serve very different customers.",
+      "hospitality": "Feast food depends on the host’s stores, season and means; the chartered cities and poorer rural households differ sharply.",
+      "drink": "Local staples and luxuries are described with the regional dishes.",
+      "daily_life": "Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest."
+    },
+    {
+      "id": "other-morholt-1880",
+      "name": "Western Morholt concessions",
+      "tradition": "Concession camp tables",
+      "history": "These are neighbouring independent jurisdictions, not a nation with one compulsory cuisine. Trade, climate and local harvests connect their tables.",
+      "everyday": "Company stores supply rye flour, peas, salted meat and tea. Thick pea soup and flat griddle cakes fill shift tins; smoked fish and berry buns distinguish family Sundays. Company credit can make even ordinary provisions a source of debt.",
+      "hospitality": "Feast food depends on the host’s stores, season and means; the chartered cities and poorer rural households differ sharply.",
+      "drink": "Local staples and luxuries are described with the regional dishes.",
+      "daily_life": "Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest."
+    },
+    {
+      "id": "other-morholt-2190",
+      "name": "Central Morholt fortress jurisdictions",
+      "tradition": "Northern fortress tables",
+      "history": "These are neighbouring independent jurisdictions, not a nation with one compulsory cuisine. Trade, climate and local harvests connect their tables.",
+      "everyday": "Preserved roots, oats and dried fish dominate long winters. Goat cheese and rye pastry filled with mushrooms appear when convoys arrive. Hot berry infusions are commonplace; imported coffee is an officer’s luxury.",
+      "hospitality": "Feast food depends on the host’s stores, season and means; the chartered cities and poorer rural households differ sharply.",
+      "drink": "Local staples and luxuries are described with the regional dishes.",
+      "daily_life": "Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest."
+    },
+    {
+      "id": "other-morholt-2630",
+      "name": "Eastern Morholt estates",
+      "tradition": "Eastern estate tables",
+      "history": "These are neighbouring independent jurisdictions, not a nation with one compulsory cuisine. Trade, climate and local harvests connect their tables.",
+      "everyday": "Tenants eat barley, cabbage and fish from managed waters; manor houses serve roast waterfowl, cream sauces and layered fruit preserves. Shared rye bread hides a sharp difference in access to butter and meat. Small beer accompanies workday meals.",
+      "hospitality": "Feast food depends on the host’s stores, season and means; the chartered cities and poorer rural households differ sharply.",
+      "drink": "Local staples and luxuries are described with the regional dishes.",
+      "daily_life": "Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest."
+    },
+    {
+      "id": "other-vesalius-2790",
+      "name": "Western Vesalian small states",
+      "tradition": "Western small-state tables",
+      "history": "These are neighbouring independent jurisdictions, not a nation with one compulsory cuisine. Trade, climate and local harvests connect their tables.",
+      "everyday": "Cider orchards and pasture districts favour cheese pie, onion broth and oat bread; ports add salt fish and borrowed Tervayne recipes. Weddings bring roast goose and apple pastry. Individual towns disagree over crusts and spice rather than sharing a single state cuisine.",
+      "hospitality": "Feast food depends on the host’s stores, season and means; the chartered cities and poorer rural households differ sharply.",
+      "drink": "Local staples and luxuries are described with the regional dishes.",
+      "daily_life": "Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest."
+    },
+    {
+      "id": "other-vesalius-2790-1410",
+      "name": "Southern Vesalian small states",
+      "tradition": "Southern small-state tables",
+      "history": "These are neighbouring independent jurisdictions, not a nation with one compulsory cuisine. Trade, climate and local harvests connect their tables.",
+      "everyday": "Rice, beans and vegetable stews mingle with maize cakes in the warm inland districts. Coastal households serve sour fish broth; formal hospitality adds roast pork and candied peel. Cane drinks, tea and fruit wine follow local harvests.",
+      "hospitality": "Feast food depends on the host’s stores, season and means; the chartered cities and poorer rural households differ sharply.",
+      "drink": "Local staples and luxuries are described with the regional dishes.",
+      "daily_life": "Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest."
+    },
+    {
+      "id": "other-vesalius-3160",
+      "name": "Southeastern Vesalian jurisdictions",
+      "tradition": "Southeastern border tables",
+      "history": "These are neighbouring independent jurisdictions, not a nation with one compulsory cuisine. Trade, climate and local harvests connect their tables.",
+      "everyday": "Kelbrun-style tuber cakes meet Varnelle rice dishes along the border markets. Fish preserved in sour brine travels inland; bean-filled pastries travel the other way. Tea, cane spirit and seasonal citrus drinks accompany a trade conducted under several customs seals.",
+      "hospitality": "Feast food depends on the host’s stores, season and means; the chartered cities and poorer rural households differ sharply.",
+      "drink": "Local staples and luxuries are described with the regional dishes.",
+      "daily_life": "Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest."
+    }
+  ]
+}

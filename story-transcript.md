@@ -6541,3 +6541,64 @@ The phone preview also fits without horizontal overflow. I’m finishing the com
 ## 307 — Assistant — Progress note
 
 The update is ready: all 33 national and regional returns are documented, comparisons and ranking filters work, and zooming into Karsenne restores its smaller settlements without crowding the wider view. I’m uploading revision 38 and checking the live deployment next.
+
+
+## 308 — Assistant — Publication confirmation
+
+Published [revision 38](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=096fc1424b0517957423#world).
+
+- **Karsenne:** reduced map crowding; smaller settlements and roads appear as you zoom closer.
+- **National profiles:** economic output, revenue, defence spending, troops, reserves, armour, aircraft, artillery and fleets.
+- **Industrial strengths:** eight technology fields, plus readiness, logistics, food and fuel dependence.
+- **Comparison tools:** side-by-side figures and sortable rankings, with divided territories clearly identified.
+
+Checked the phone layout, accounting and live publication. Population totals and story progress remain unchanged.
+
+Name: Galahad  
+Age: Approximately two local years  
+Date: Ten months and eleven days after enrolment — evening  
+Reputation: Celebrated scholar; commissioned technical examiner  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Stored Vouressan-bone greatsword, commission records, research, mechanical creations and charms  
+Currency: 560 lorrats; 30 due upon report delivery
+
+
+
+## 309 — User — World revision request
+
+No no you muppet you just changed how it looks at zoom. I am telling you the whole original area we made around the Karsenne Escarpment is way too densely routed and populated compared to literally every single other part of the map and there is only one route that leads in. You cannot exist the cluster from the north or the south. It is clear you are making minor edits without actually looking at the wider whole like I keep asking. Also the whole eastern marches measured routes and territorial accords thing is redundant now we have the map and is just adding bloat. Also why is the Regional and Political Achieve for Eastern Vesalius just smack bang in the middle of a bunch of drop down menus? Same with Family, standing and Service as well as Continents Powers and the Older Arts. If these are supposed to be headers it is not clear. With the Vouressan section it also specifically mentions cranial bone being prized but I never said that I said the bone was prized. I just used Cranial bone because I happened to take part of the jaw to create my blade. I also do not understand some of these nations like the Serevask Federal Seat and Loyal Districts. Vesalius is clearly established to have no unified rule so there can be no federal seat nor administration? Also a lot of the descriptions for all these towns are very simplified and do not tell me much about any given area. Worst of all you have given many areas copy pasted names and descriptions which is frankly just lazy. Finally I have realized one crucial piece of world building that this setting is lacking that is making it feel hollow. Food. Even though my character does not need to eat often other people do and I likely eat partly for enjoyment as opposed to need, depending on the food available. We should look at real world examples of culturally distinct foods and map these into the nations themselves. Some cuisine would be similar likely due to distance. Others would be very different from each other. Please do some research on the modern world and food culture to get an idea of how to transplant it for this setting. Every good setting has food scenes. Hell Jurassic Park the movie famous for dinosaurs, one of the most well known scenes involves no dinosaurs and is a discussion taking place over lunch. The lunch itself is never really mentioned but it sets the background and creates relatability for the audience. Then you have the melted Icecream scene with the flee circus backstory and that allows the food to be used symbolically. Then we have games of thrones, lord of the rings, harry potter, hell the Caiphas Cain novels even have multiple references of food and drink. It makes the worlds feel alive and real in my opinion and it is a relatively easy shortcut to make the worlds feel that way. I am not saying you need to force food in to every scene now but I do want cultural dishes by nation, you can group some nations by history if you work on the lore and make that a little better for the nations and more cohesive. But ensure food is recognized in some scenes and when you can use it as a way to tell the story without making it feel forced please do so. But this is part of the reason we need to establish dishes and food types by nation so we make it feel real. The Caiphas Cain novels do this rather well as Caiphas usually has multiple scenes involving food and drink that change wildly based on his circumstances because that changes the food and drink he has access to. We also would need to set a decent time for the last major reset where the Hunters came through and culled the population and infrastructure. They would likely do this on less than a 100 year clock but it isn't enough to cause full on tech regression. They probably wipe out a little over half the population and would hit key industries and places of learning to remove any technologies we may have reverse engineered. It would not be 100 years on the dot as it depends highly on humanities rate of advancement and the perception of humanity by the Hunters but it would be 100 years on average give or take say 50 but there would be outliers. Perhaps the shortest span was in the 20-30 year range. If the Hunters make errors, die in the field, get captured and let their tech fall into human hands it happens faster. The less of a fight the humans put up the longer it takes because the Hunters are letting them redevelop to the point of reasonable challenge. Like fattening a pig for slaughter. So people would live with the knowledge over their head that if they haven't lived through a purge yet they are likely to within their lifetime which is a daunting prospect which shapes planetary world view. 
+
+
+
+## 310 — Assistant — Progress note
+
+You’re right—I treated a world-building problem as a display problem. I’ll inspect the actual settlement distribution and connections across Vesalius, remove the redundant regional panel, and reorganise the world entries into clear sections. I’ll also correct the Vouressan description, clarify Serevask’s history, and research cuisine before adding regional food cultures and a coherent history of Hunter purges.
+
+
+## 311 — Assistant — Progress note
+
+The underlying problem is now clear: the atlas added 69 extra towns and 127 roads inside the original small regional survey without giving the wider map comparable coverage. Hiding those at different zoom levels did not fix that imbalance. I’m correcting the settlement and road data itself, including northern and southern connections.
+
+Serevask was intended as the remnant of a smaller federation, not a government of Vesalius. Its current name and description fail to make that distinction clear; I’ll replace them with an explicit account of its limited territory and former partners.
+
+
+## 312 — Assistant — Progress note
+
+The map correction now removes 59 of the excessive local markers while preserving the original places and all settlements elsewhere. Northern, southern and western roads now connect the Marches to separate neighbouring networks; these are overland routes, not new railways.
+
+For food, I’m using geography and shared history as the basis: mountain dairying and preserved provisions, river-grain cooking, coastal fish and oil, and differences between household, military and wealthy tables. The purge history also needs recovery periods built into it—today’s low population growth cannot explain rebuilding after repeated losses of more than half the population.
+
+
+## 313 — Assistant — Progress note
+
+The new history places the **Long Culling 67 local years before the current story**, with roughly 56% of the population killed or taken over three years. Earlier intervals average about a century, including one of just 24 years. It leaves living witnesses and inherited dread without turning the next purge into a predictable countdown.
+
+I’ve also replaced the repetitive principal-city names, expanded the settlement records, and added food traditions for every national or regional return. I’m now checking the revised routes, population accounting and phone layout together.
+
+
+## 314 — Assistant — Progress note
+
+The checks now confirm that the Marches have roads into Vardol, Kelbrun and Averholt, and that the remaining mainland settlements connect to their wider networks. Population totals and Galahad’s current state are unchanged.
+
+The phone preview also shows the archive headings as clear enclosing sections, and the redundant regional panel is gone. I’m publishing the revised slate and the food, history and narrator records now.
