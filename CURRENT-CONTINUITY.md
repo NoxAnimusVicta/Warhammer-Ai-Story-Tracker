@@ -1,6 +1,6 @@
-# Current continuity — revision 36
+# Current continuity — revision 37
 
-This is an out-of-character handover checkpoint, separate from the immersive slate. Read later transcript entries for subsequent developments. The present update expands reference material only: no story time passes.
+This is an out-of-character handover checkpoint, separate from the immersive slate. Read later transcript entries for subsequent developments. The present update clarifies the founder origin and capability reference only: no story time passes.
 
 ## Current scene
 
@@ -59,3 +59,12 @@ All character ages, local history and population rates use **local elapsed years
 ## Superseded statements
 
 Earlier references to a Death World, the species name Vordrake, mandatory chronic pain or a replacement birth defect, a true Primarch power level, strict genetic obedience, completed nobility, a functioning direct Karsenne–Calvernis railway, or absent world geography must not re-enter current prose. Preserve the original archive and read these corrections alongside it. Galahad is a perfected proto-Primarch; the detailed accepted physiology and concealed programme are in the private handover.
+
+
+## Accepted founder clarification — revision 37
+
+Galahad remains a perfected proto-Primarch with a stable, independently developed soul and no chronic integration pain. At comparable maturity, his overall physical, cognitive, resilience and psychic potential modestly exceed the campaign’s Alpha Primus benchmark. Psychic engineering remains his specialisation. This does not confer mastery of every discipline or advance his current abilities. No full-Primarch promotion or new defect has been enacted.
+
+The accepted origin treats Bile’s work as integrated development of a distinct founder, building on the achievement represented by Primus alongside Bile’s cloning and New Men research. Reliability, rather than deliberate weakening for controllability, explains the design choice. Genetic dispositions matter without dictating identity or player decisions. Detailed source distinctions remain in the private handover; do not revive the earlier proposed reduction to only Primus’s demonstrated feats.
+
+The Auvrienne 762 image is future firearm concept art, not a manufactured weapon. Ammunition discussions remain design discussion, not tested armour penetration, a completed breakthrough or awarded equipment.
