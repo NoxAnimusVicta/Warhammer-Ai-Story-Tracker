@@ -252,7 +252,7 @@
     },
     {
       "id": "other-otranto-700",
-      "name": "Western Otrantian jurisdictions",
+      "name": "Southwestern Otrantian jurisdictions",
       "continent": "otranto",
       "population": 21800000,
       "births_per_1000": 30.5,
@@ -265,7 +265,7 @@
     },
     {
       "id": "other-otranto-1100",
-      "name": "Southern Otrantian jurisdictions",
+      "name": "Northern Otrantian basin states",
       "continent": "otranto",
       "population": 29600000,
       "births_per_1000": 29.0,

@@ -670,9 +670,9 @@ Scattered practitioners and private records; no dependable standing magical arm.
 
 National return. Population: 13,000,000.
 
-Federal administration, repair shops and commercial services.
+Civil administration, filtration and chemical workshops, repair shops and commercial services.
 
-Only loyal districts support these returns; federal claims convey no access to successor forces or revenues.
+The republic controls only its own districts. Varnelle, Kelbrun and Gavrel have separate forces and revenues; old charter claims confer no authority over them.
 
 Scattered practitioners and private records; no dependable standing magical arm.
 
@@ -891,7 +891,7 @@ Scattered practitioners and private records; no dependable standing magical arm.
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
 
-## Western Otrantian jurisdictions
+## Southwestern Otrantian jurisdictions
 
 Combined geographic return; separate authorities. Population: 21,800,000.
 
@@ -936,7 +936,7 @@ Scattered practitioners and private records; no dependable standing magical arm.
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
 
-## Southern Otrantian jurisdictions
+## Northern Otrantian basin states
 
 Combined geographic return; separate authorities. Population: 29,600,000.
 

@@ -344,7 +344,7 @@ Local staples and luxuries are described with the regional dishes.
 
 Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest.
 
-## Western Otrantian jurisdictions
+## Southwestern Otrantian jurisdictions
 
 Tradition: Southwestern upland tables
 
@@ -358,7 +358,7 @@ Local staples and luxuries are described with the regional dishes.
 
 Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest.
 
-## Southern Otrantian jurisdictions
+## Northern Otrantian basin states
 
 Tradition: Northern dry-basin tables
 

@@ -92,3 +92,5 @@ The Long Culling ended67local years before the present return after3years of ove
 No story time, character power, inventory, money, commission progress or demography has advanced.
 
 Revision39 also replaces509repeated-root, unvisited district names. See private/district-name-corrections39.json for exact old-name aliases and fixed Python choices. Historical transcript names are preserved; IDs, populations and positions remain unchanged.
+
+Geographic label correction: the old Southern Otrantian aggregate is the Northern Otrantian basin states, and the old Western Otrantian aggregate is Southwestern Otrantian jurisdictions. Stable census IDs, boundaries and totals are unchanged; labels now follow their actual positions.

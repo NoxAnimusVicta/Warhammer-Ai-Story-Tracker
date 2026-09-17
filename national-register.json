@@ -721,8 +721,8 @@
       "readiness": 3,
       "logistics": 2,
       "cohesion": 2,
-      "specialties": "Federal administration, repair shops and commercial services",
-      "constraints": "Only loyal districts support these returns; federal claims convey no access to successor forces or revenues.",
+      "specialties": "Civil administration, filtration and chemical workshops, repair shops and commercial services",
+      "constraints": "The republic controls only its own districts. Varnelle, Kelbrun and Gavrel have separate forces and revenues; old charter claims confer no authority over them.",
       "older_arts": "Scattered practitioners and private records; no dependable standing magical arm."
     },
     {
@@ -919,7 +919,7 @@
     },
     {
       "id": "other-otranto-700",
-      "name": "Western Otrantian jurisdictions",
+      "name": "Southwestern Otrantian jurisdictions",
       "continent": "otranto",
       "population": 21800000,
       "scope": "aggregate",
@@ -967,7 +967,7 @@
     },
     {
       "id": "other-otranto-1100",
-      "name": "Southern Otrantian jurisdictions",
+      "name": "Northern Otrantian basin states",
       "continent": "otranto",
       "population": 29600000,
       "scope": "aggregate",
