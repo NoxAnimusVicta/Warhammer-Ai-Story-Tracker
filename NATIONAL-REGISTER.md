@@ -40,11 +40,15 @@ Return epoch matches the current census. Annual output trend describes ordinary 
 
 National return. Population: 161,900,000.
 
+The crown is a compact among old provinces: its armies and foundries are enormous, but provincial estates bargain over every exceptional levy. Rail contracts and coal exports hold the monarchy together more reliably than court ceremony.
+
 Heavy engineering, railway equipment and general manufactures; coal and processed fuel exports.
 
 Provincial consent slows concentration; major arsenals and railway junctions remain irreplaceable targets.
 
 Court examination offices and provincial registries preserve records; access varies by patron.
+
+Table and hospitality. A composite crown includes humid lowlands, high terraces and temperate uplands; imperial-looking court service conceals many provincial kitchens. Maize polenta with beans and mushroom gravy in the uplands; rice replaces maize in irrigated lowland districts. Braised beef with red wine and layered herb pasta; provincial delegates insist on different cheeses. Plateau beer, lowland cane drink and coffee at the court. Altitude matters as much as latitude. Mountain towns import much of their grain, while court menus display produce from every province as a claim to unity.
 
 | Measure | Estimate |
 |---|---:|
@@ -85,11 +89,15 @@ Court examination offices and provincial registries preserve records; access var
 
 National return. Population: 116,200,000.
 
+Royal commissioners are consolidating an agricultural monarchy into an arsenal state. Landowners favour grain exports; army purchasers want controlled prices and labour for new factories. The resulting dispute reaches from village granaries to the court.
+
 Grain distribution, military stores and arsenal production.
 
 Mass manpower outstrips motor transport; imported precision machinery constrains arsenal expansion.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Estate households preserve healing and harvest observances; arsenal physicians record unusual cases, usually through the patron who brings the subject to them.
+
+Table and hospitality. Cereal estates, cattle districts and newly industrial towns trade large quantities of durable staples. Central purchasing has spread army dishes across provincial boundaries. Pepper bean stew thickened with maize meal, with smoked beef on paydays. Stuffed roast fowl, squash dumplings and nut pastries. Brown beer and lightly fermented fruit drinks. Soldiers carry toasted grain and hard cheese; wealthy tables emphasise fresh meat and fruit that has not endured a convoy journey.
 
 | Measure | Estimate |
 |---|---:|
@@ -130,11 +138,15 @@ Scattered practitioners and private records; no dependable standing magical arm.
 
 National return. Population: 70,600,000.
 
+Merchant councils govern a commercial republic whose banks finance shipping and precision workshops. Foreign clients need its instruments and engines, but the republic depends on open sea lanes and negotiated access to raw materials.
+
 Precision instruments, electrical apparatus and overseas commerce.
 
 Trade interruption threatens fuel and food imports; its skilled workforce is difficult to replace.
 
 Institutes and hospitals collect documented cases; evidence is better organised than practitioner supply.
+
+Table and hospitality. Maritime commerce joins a mild western coast to upland cheese districts and distant spice markets. Restaurant fashion changes faster than village food. Bean-and-greens soup with flatbread and olive oil; tiny fried fish at the quays. Rice cooked in seafood stock, fine stuffed pasta and chilled fruit creams in wealthy city cafés. Bitter coffee, aperitif wine and citrus cordial. Fresh oil, mountain butter and imported spice coexist rather than defining one uniform national cuisine. Ice houses and refrigerated warehouses support the richest urban tables.
 
 | Measure | Estimate |
 |---|---:|
@@ -175,11 +187,15 @@ Institutes and hospitals collect documented cases; evidence is better organised 
 
 National return. Population: 47,400,000.
 
+City charters, landed estates and river authorities divide power in a federation confined to its own basins. Locks, flood protection and water allocation bind members together while producing repeated disputes about who pays upstream and who benefits downstream.
+
 Water engineering, agricultural processing and industrial chemistry.
 
 Water allocation and estate vetoes complicate mobilisation; river freight is sensitive to damaged locks.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Water boards retain old records of divination and flood omens beside their engineering archives. Practical credibility depends on repeated results, not an inherited title.
+
+Table and hospitality. Unequal river cities share barges, mill customs and periodic floods. Grain, pulses and freshwater fish travel more readily than political loyalty. Lentils with smoked carp and flat noodles; poorer bowls omit fish and add greens. River-fish dumplings in herb butter and plum-filled pastries. Pear cider, mild beer and roasted-barley drinks. Floodplain gardens supply onions and beans. Fish smoking and grain warehouses make the river ports vital even to communities beyond the floodplain.
 
 | Measure | Estimate |
 |---|---:|
@@ -220,11 +236,15 @@ Scattered practitioners and private records; no dependable standing magical arm.
 
 National return. Population: 31,500,000.
 
+A hereditary border duchy buys security by bargaining with Veldrassen and Ostrevain. Its fortified frontier supports a substantial officer class; competing patrons and military purchasing make nominal independence expensive.
+
 Frontier logistics, armaments repair and estate agriculture.
 
 Arms and credit depend on competing patrons; prolonged mobilisation drains agricultural labour.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Border houses keep private warding manuscripts and employ occasional itinerant readers. Rival patrons make access political and discourage sharing successful practice.
+
+Table and hospitality. Border garrisons borrow cooking from both larger patrons, while local families argue over which dishes predate foreign influence. Cabbage rolls stuffed with rice or barley and a little minced meat. Roast pork with sour cherries and crisp potato cakes. Dark beer, cherry spirit and heavily sweetened coffee for visitors. Ration bread and pickled vegetables dominate remote posts. Market-day sausages are a small luxury that survives frequent changes of uniform.
 
 | Measure | Estimate |
 |---|---:|
@@ -265,11 +285,15 @@ Scattered practitioners and private records; no dependable standing magical arm.
 
 National return. Population: 29,900,000.
 
+An industrial republic governed through municipal and commercial representation, with a long argument over labour’s place in that settlement. Machine-tool exports pay for essential imports; disputed frontiers consume revenue that towns want spent on housing and power.
+
 Metallurgy, machine tools and factory production.
 
 Exposed frontier factories and food imports limit a long war despite excellent machine-tool output.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Factory reading societies debate arcane reports alongside medicine and natural philosophy. Private experiments remain scattered, with no dependable industrial application.
+
+Table and hospitality. Industrial towns link cooler uplands to river farms. Working households value meals that can be reheated when factory shifts end at different hours. Baked beans beneath an onion-and-breadcrumb crust, with smoked sausage when affordable. Cheese-filled pasta browned in butter; orchard-fruit tart at civic dinners. Pale beer, plum cordial and café coffee. Cooperative dining rooms compete with private factory canteens. Imported coastal fish is popular but more expensive than the local root-and-grain staples.
 
 | Measure | Estimate |
 |---|---:|
@@ -310,11 +334,15 @@ Scattered practitioners and private records; no dependable standing magical arm.
 
 Combined geographic return; separate authorities. Population: 167,300,000.
 
+These are the successor territories of a broken crown, not a single nation. Rival palaces, provincial commands and autonomous ports divide its large coal and petroleum resources. Shared roads and kinship survive beneath customs barriers and foreign-backed claimants.
+
 Competing provincial administrations, workshops and military supply; divided coalfields and petroleum districts.
 
 Combined rival returns; no common treasury, staff or army. Rail gauges, tolls and civil fighting fragment capacity.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+The fallen crown’s collections are divided among rival courts and displaced teachers. Competing claims to authentic manuscripts matter more than any central school.
+
+Table and hospitality. Former royal roads carried recipes across a realm now divided by customs barriers and rival armies. Shared dishes remain a language of kinship across hostile borders. Red lentil pot with flatbread in warm valleys; barley-and-turnip broth in higher districts. Lamb with preserved lemon and almonds; former court households still serve rosewater rice pudding. Mint tea in warm valleys, mountain beer inland and sweet wine in surviving vineyard districts. Smuggling brings salt, oil and family recipes across front lines. An abundant banquet may conceal shortages in a neighbouring claimant’s territory.
 
 | Measure | Estimate |
 |---|---:|
@@ -355,11 +383,15 @@ Scattered practitioners and private records; no dependable standing magical arm.
 
 National return. Population: 29,300,000.
 
+The southern valley monarchy holds the largest single government in Morholt. Its crown must secure food routes between farming basins and scattered fortresses; huge forest claims do not translate into a dense tax base or a freely deployable army.
+
 Valley agriculture, timber and stronghold supply.
 
 Winter supply and dispersed valley garrisons consume most available transport.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Valley households preserve protective rites and stories of gifted healers. Winter isolation keeps instruction local, and court inquiries rarely reach every settlement.
+
+Table and hospitality. Sheltered southern valleys support oats, rye, roots and dairy herds; forest preserves add berries and inspected game. Rye-crust fish loaf with potato and onion, carried cold or warmed beside a stove. Venison with sour red berries and cream, followed by baked curd cheese. Small beer, berry cordial and hot herb infusions. A winter pantry matters more than a fashionable fresh ingredient. Household drying racks and communal bake days bind city relatives to valley farms.
 
 | Measure | Estimate |
 |---|---:|
@@ -400,11 +432,15 @@ Scattered practitioners and private records; no dependable standing magical arm.
 
 National return. Population: 19,700,000.
 
+Mining councils and foundry proprietors govern a league rather than a royal province. Specialist steel and machinery create wealth, but imported food and negotiated convoy protection limit how far the league can act alone.
+
 Ore processing, specialist steels, bearings and durable machinery.
 
 Specialist foundries are strong; grain imports and seasonal routes make an extended blockade dangerous.
 
 Guarded workshops sometimes collaborate with rare practitioners; no standardised arcane production.
+
+Table and hospitality. Mining leagues inherit northern preservation techniques but rely heavily on imported grain and valley dairy produce. Potato-and-rye dumplings with smoked pork and fermented cabbage. Beef baked beneath a thick salt-and-rye crust, opened for foundry feasts. Dark rye beer; strong black tea bought through concession merchants. Canteens portion meat by shift entitlement. A late supply train can turn dumplings into thin flour soup without stopping the furnaces.
 
 | Measure | Estimate |
 |---|---:|
@@ -445,11 +481,15 @@ Guarded workshops sometimes collaborate with rare practitioners; no standardised
 
 National return. Population: 11,200,000.
 
+A wardenship of chartered orders, estates and civilian towns. Houses of medicine and the older arts preserve useful learning without supplying a large magical army. Obligations of shelter and patrol compete with each district’s limited stores.
+
 Field medicine, communications and scholarly traditions.
 
 Small arsenals and scattered teaching houses constrain scale; trained wardens excel locally rather than in mass campaigns.
 
 Small warden teaching houses preserve field traditions; skilled practitioners remain exceptionally rare.
+
+Table and hospitality. Order houses preserve remedies and practical cookery alongside the older arts. Most food is ordinary, nourishing and carefully stored. Oat broth with roots, mushrooms and dried fish; kitchens adjust texture for the sick. Trout in cream with dill-like herbs, served with small sourdough loaves and berry compote. Unsweetened herbal tea and berry wine on feast days. Healing traditions do not make every herb magical. Supplies are dated and inspected; winter hospitality can impose a serious obligation on an isolated house.
 
 | Measure | Estimate |
 |---|---:|
@@ -490,11 +530,15 @@ Small warden teaching houses preserve field traditions; skilled practitioners re
 
 National return. Population: 18,700,000.
 
+River towns and mill proprietors govern a republic tied to seasonal navigation. Its food valleys are valuable to colder neighbours; spring flood control, pilotage and grain contracts dominate political bargaining.
+
 River freight, milling and agricultural exchange.
 
 Seasonal navigation and dependence on imported fuels limit sustained operations away from rivers.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Pilots and mill communities preserve water omens and inherited household protections. Navigation still relies on soundings, charts and experienced crews.
+
+Table and hospitality. Seasonal river traffic sustains mills, fisheries and gardens in comparatively sheltered valleys. Boat families carry recipes between rival towns. Barley baked with lake fish and onion in covered crocks. Butter-fried freshwater fish, green peas and a layered berry cake during the short summer. Oat beer and tart orchard cider where fruit grows. Smokehouses fill before freeze-up. Spring fish suppers mark reopened navigation and the arrival of news as much as the season’s catch.
 
 | Measure | Estimate |
 |---|---:|
@@ -535,11 +579,15 @@ Scattered practitioners and private records; no dependable standing magical arm.
 
 National return. Population: 36,200,000.
 
+A western Vesalian maritime power whose interests face the western ocean. Roughly two thousand kilometres of uplands and intervening governments separate its principal sphere from Veyrasse; it competes with eastern merchants overseas without sharing their local frontier.
+
 Maritime freight, ship maintenance and naval supply.
 
 Sea lanes carry its power; inland movement is slow and there is no through railway to eastern Vesalius.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Port archives collect travellers’ accounts and sea traditions; private patrons sponsor a few readers, whose conflicting methods do not form a naval service.
+
+Table and hospitality. Western ports face a different trading sea from Veyrasse and share more food traffic with southern islands and Otrantian merchants. Fish-and-potato bake beneath an oat crust, with pickled onions. Mussels in cream and white wine, followed by baked custard scented with imported spice. Coastal cider, amber beer and port-house coffee. Sailors’ inexpensive meals favour salted fish; fresh shellfish signals a short journey from water to table. Inland villages are less maritime than the national reputation suggests.
 
 | Measure | Estimate |
 |---|---:|
@@ -580,11 +628,15 @@ Scattered practitioners and private records; no dependable standing magical arm.
 
 National return. Population: 64,000,000.
 
+A northern realm of arsenals, fuel processing and grain districts. Rivalry with Averholt and the bargaining power of military suppliers occupy its government. Road access to Caldrienne exists, but does not turn the eastern Marches into a Vardolian province.
+
 Northern arsenals, estate production and military provisioning; coalfields and fuel refining.
 
 The Averholt frontier and northern garrisons tie down formations; large armies cannot simply redeploy to the Marches.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Military physicians record unusual perception when it comes to their attention. Household and estate traditions survive outside those files, often deliberately.
+
+Table and hospitality. Refinery and arsenal towns share a strong canteen tradition with their farming hinterland. Winter provisions matter more inland than at the ports. Rye parcels filled with potato, onion and smoked sausage, baked in communal ovens. Beef in dark beer with prune gravy and steamed bread; elaborate layered honey cake. Rye beer and sour cherry cordial. Shift whistles govern supper in the industrial wards. Kitchen gardens and pickled cabbage cushion disruptions to the grain trains.
 
 | Measure | Estimate |
 |---|---:|
@@ -625,11 +677,15 @@ Scattered practitioners and private records; no dependable standing magical arm.
 
 National return. Population: 48,900,000.
 
+An inland realm held together by provincial arrangements and productive basins. It contests influence with Vardol and trades through defended passes toward Karsenne. Provincial councils resist campaigns that would strip local defences to fund distant annexations.
+
 Basin agriculture, internal trade and provincial engineering.
 
 Provincial bargains and the Vardol frontier absorb resources; interior transport has limited spare capacity.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Provincial collections preserve distinct healing and warding customs. Teachers exchange access through local patrons rather than a realm-wide curriculum.
+
+Table and hospitality. Provincial land bargains preserve different kitchens inside the same realm; grain taxes and shared fairs link the basins. Barley risotto with mushrooms and hard cheese; peasant versions use dripping instead of butter. Stuffed river pike and pastry filled with poppy seed, served when a provincial house receives important guests. Apple wine in orchard districts; malt beer in the colder basins. Public ovens are meeting places as well as fuel economies. A dispute over milling rights can be discussed for an entire supper without anyone naming its political purpose.
 
 | Measure | Estimate |
 |---|---:|
@@ -670,11 +726,15 @@ Scattered practitioners and private records; no dependable standing magical arm.
 
 National return. Population: 13,000,000.
 
+The Serevask Republic administers thirteen million people around its surviving civic and industrial districts. It is the remnant of a southern customs federation, never a continental government. Varnelle, Kelbrun and Gavrel administer their own territory, taxation and armed forces. The old federal charter remains an argument over debt and water, not effective authority over them.
+
 Civil administration, filtration and chemical workshops, repair shops and commercial services.
 
 The republic controls only its own districts. Varnelle, Kelbrun and Gavrel have separate forces and revenues; old charter claims confer no authority over them.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Republican archives retain fragments of the former basin federation’s case records. Its clerks cannot compel the successor authorities to supply missing material.
+
+Table and hospitality. The old Serevask customs federation joined four southern basins, never Vesalius as a whole. Its divided successors still recognise one another’s dishes. Serevask sour rice: rice and lentils finished with soured milk, toasted seed and browned onion. Duck with bitter orange, accompanied by layered rice scented with preserved peel. Strong black tea; fermented rice drink at harvest gatherings. The remnant government maintains public grain kitchens near its ministries. Former federal recipes outlast the tax union, while each successor claims its own version is the original.
 
 | Measure | Estimate |
 |---|---:|
@@ -715,11 +775,15 @@ Scattered practitioners and private records; no dependable standing magical arm.
 
 National return. Population: 20,800,000.
 
+The delta authorities gained effective independence from Serevask as rebuilding debts and customs disputes broke the old basin federation. Port and water boards bargain with merchants and troops; river access makes their policies consequential far upstream.
+
 Delta freight, customs, filtration and processing trades.
 
 Delta channels, customs dependence and disputed upstream water access constrain resilience.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+River pilots and household healers trade practical lore around the delta. Port boards occasionally investigate a useful claim without endorsing an entire tradition.
+
+Table and hospitality. Delta rice, fisheries and freight markets furnished the former federation’s export table; incoming crews introduced sour, hot and sweet condiments. Varnelle red rice with river fish, pepper and beans, cooked in one broad pan. Crab broth with fine rice noodles and citrus leaf; confectioners sell sesame brittle. Iced citrus water where ice can be bought; tea and light cane spirit. Fish sauce is an everyday seasoning rather than a luxury. Flood years alter rice prices across all four successor states.
 
 | Measure | Estimate |
 |---|---:|
@@ -760,11 +824,15 @@ Scattered practitioners and private records; no dependable standing magical arm.
 
 National return. Population: 17,600,000.
 
+Upriver councils and plantation interests govern separately from Serevask. Rubber chemistry, filtration and agricultural exports bring revenue, while estate labour obligations and downstream water demands provoke persistent disputes.
+
 Upriver freight, plantation produce and agricultural machinery.
 
 Plantation levies are numerous but unevenly equipped; imported engines and fuel remain essential.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Estate remedies coexist with workers’ inherited protective practices. Private collections are accessible through personal trust, while plantation authorities are wary of independent followings.
+
+Table and hospitality. Upriver gardens and plantation labour communities mix basin rice dishes with tubers, legumes and orchard fruit. Steamed tuber cakes with black beans and a sharp herb relish. Pork braised in cane syrup and sour fruit; rice cakes filled with ground nuts for festivals. Roasted-grain coffee substitutes and cane spirit; estate houses serve imported coffee. Labourers eat at field shelters from wrapped parcels. Plantation owners’ lavish fruit tables conceal the uneven access to meat and purchased grain.
 
 | Measure | Estimate |
 |---|---:|
@@ -805,11 +873,15 @@ Scattered practitioners and private records; no dependable standing magical arm.
 
 National return. Population: 7,000,000.
 
+Chartered march houses retain their own levies and recognise only limited common obligations. Their earlier partnership in the southern federation left shared debts and roads, not obedience to Serevask. Small industrial centres depend on negotiated access through their neighbours.
+
 March provisioning, rural estates and frontier workshops.
 
 Household loyalties divide command; repair workshops cannot replace large losses of imported equipment.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+March houses preserve family books of omens and protections. Their secrecy divides instruction as effectively as the frontier divides military command.
+
+Table and hospitality. March-house kitchens descend from basin customs but favour portable grain and smoked provisions for retainers travelling between estates. Millet cakes with goat stew and sour plum relish. Spit-roasted kid with nut paste, followed by dense dried-fruit bread. Sour milk, herbal tea and plum wine. Hospitality includes bread broken by the host, but its quality distinguishes an honoured guest from a hired messenger. Poor tenants substitute lentils for goat.
 
 | Measure | Estimate |
 |---|---:|
@@ -846,15 +918,19 @@ Scattered practitioners and private records; no dependable standing magical arm.
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 2 |
 
-## Northwestern Otrantian jurisdictions
+## Bellacosta Cantons
 
 Combined geographic return; separate authorities. Population: 32,400,000.
 
-Local agriculture, small workshops and guarded overland exchange.
+The cantons grew out of harbour and plantation charters left without a royal guarantor after the Long Culling. Jougrenne convenes the coastal toll assembly; Nantac administers a separate inland land court. Neither can tax the other’s households. Harbour dues fund escorts while plantation owners pay for roads and demand control of the checkpoints. Veldrassen buys tropical produce and timber here, but its purchasing agents face competing canton tariffs rather than a single ministry. Tenant disputes centre on debt and access to cleared farmland; the assembly meets over commercial quarrels, not to command a national army.
 
-Separate authorities and incompatible systems; these geographic totals cannot be commanded as one force.
+Tropical produce, timber concessions, harbour handling and coastal escorts.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Canton tolls and planter credit divide the export trade. Escort flotillas answer to their sponsors; the combined manpower is not one army.
+
+Canton healers inherit plant lore and protective observances. Port subscribers occasionally pay to compare case records, but inland custodians resist giving away family knowledge.
+
+Table and hospitality. Rice cooked in coconut milk accompanies peppered fish near the coast; inland labourers eat cassava cakes and bean relish. At Jougrenne, prosperous hosts serve fish wrapped in aromatic leaves, followed by cane syrup fritters. Sour fruit drinks and weak cane beer are ordinary; imported wine belongs to charter banquets.
 
 | Measure | Estimate |
 |---|---:|
@@ -891,15 +967,19 @@ Scattered practitioners and private records; no dependable standing magical arm.
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
 
-## Southwestern Otrantian jurisdictions
+## Cavressa Principalities
 
 Combined geographic return; separate authorities. Population: 21,800,000.
 
-Local agriculture, small workshops and guarded overland exchange.
+A chain of small courts and charter towns occupies the southwestern approaches. Collengo’s market charter protects merchants from estate levies, while the lords around Peregia claim payment for escorting their wagons. Winter fodder and access through the uplands matter more than distant dynastic titles. Albaret brokers wool and preserved food between the courts. Marriage contracts frequently change toll rights without moving a border; merchants employ local advocates to interpret them. Southern sea trade offers an alternative to the roads, but only to houses able to finance a shipment.
 
-Separate authorities and incompatible systems; these geographic totals cannot be commanded as one force.
+Wool, preserved provisions, upland cartage and small estate workshops.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Rights of passage change between courts. Winter fodder and incompatible toll privileges limit concentration more than nominal levy strength.
+
+Court chapbooks mix household wards with dynastic histories. Independent practitioners move between patrons and market fairs, carrying techniques that rival courts claim as their own.
+
+Table and hospitality. Barley noodles with browned cabbage are everyday food in the cooler districts. Shepherds carry hard cheese and sour rye loaves; court cooks serve mutton with dried plums and a crust of toasted grain. Albaret inns are known for pear pastries. Dark beer and plum spirit travel better than fresh milk.
 
 | Measure | Estimate |
 |---|---:|
@@ -936,15 +1016,19 @@ Scattered practitioners and private records; no dependable standing magical arm.
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
 
-## Northern Otrantian basin states
+## Vaulcerre Basin Leagues
 
 Combined geographic return; separate authorities. Population: 29,600,000.
 
-Local agriculture, small workshops and guarded overland exchange.
+Anselleuil’s reservoir command, Jarnan’s commercial council and the estate assemblies around Votane share a drainage basin but not a government. Their water compact survived the destruction of the authority that first imposed it. Gates must open in an agreed order; delaying an upstream release can destroy a downstream planting season. Brannervaux engineers are employed as arbitrators and suspected of favouring their own merchants. Grain barges, mill repair and fertiliser works sustain the towns. Disputes usually begin as inspections, impoundments and unpaid maintenance bills before soldiers become involved.
 
-Separate authorities and incompatible systems; these geographic totals cannot be commanded as one force.
+Irrigated grain, mill machinery, fertiliser works and inland water freight.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Water commands hold separate troops. A damaged gate or withheld release can disable production without an invading army taking the towns.
+
+Reservoir communities preserve water-divining traditions. Boards test useful claims against measured flows; most inherited observances remain unverified.
+
+Table and hospitality. Millet porridge with greens and groundnut sauce feeds field crews; fish dried beside the canals enriches stews. Jarnan serves spiced rice with river fish on market days. Fermented grain drink is inexpensive, while sweet tea signals a household with access to imported leaves. Drought changes recipes before it changes official water allocations.
 
 | Measure | Estimate |
 |---|---:|
@@ -981,15 +1065,19 @@ Scattered practitioners and private records; no dependable standing magical arm.
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
 
-## Eastern Otrantian jurisdictions
+## Seravelle Littoral
 
 Combined geographic return; separate authorities. Population: 48,400,000.
 
-Local agriculture, small workshops and guarded overland exchange.
+Astrellac’s harbour republic and the inland estate courts share the eastern littoral with smaller free ports. Their commercial convention standardises bills of lading but leaves taxes and criminal law local. Shipping families advance money against harvests; rural houses resent foreclosures by creditors who never leave the coast. Rovessaran insurers and instrument makers are influential customers. Port patrols cooperate against raiders, yet seize one another’s cargo when a debt dispute turns political. Hinterland towns depend on export warehouses for salt, tools and credit, which gives the harbours power beyond their formal borders.
 
-Separate authorities and incompatible systems; these geographic totals cannot be commanded as one force.
+Export warehousing, coastal shipping, food processing and commercial credit.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Port conventions facilitate cargo, not military command. Inland debt disputes and foreign shipping insurance expose the region to commercial pressure.
+
+Harbour families collect foreign protective charms and accounts of unusual perception. Commercial correspondence circulates stories faster than competent teachers.
+
+Table and hospitality. Astrellac cooks fish in tomato and fennel broth and lays yesterday’s bread beneath it. Bean-filled pastries and olives travel inland with merchants. Wealthy harbour tables add citrus-roasted poultry and almond cakes; dockworkers buy chickpea fritters. Coastal wine is plentiful locally, while coffee is sold in small, strong cups.
 
 | Measure | Estimate |
 |---|---:|
@@ -1026,15 +1114,19 @@ Scattered practitioners and private records; no dependable standing magical arm.
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
 
-## Western Morholt concessions
+## Haldrevik Concessions
 
 Combined geographic return; separate authorities. Population: 8,700,000.
 
-Local agriculture, small workshops and guarded overland exchange; coal export concessions.
+Concession houses hold time-limited rights to timber, minerals and fuel rather than sovereignty over every inhabitant. Asanetz keeps the surviving charter archive; Alauvenne houses one of the armed inspection posts. A house can own a railway and still owe rent to the community beneath it. Varnesk firms provide machinery and credit, exchanging technical dependence for preferred ore contracts. Charter renewals provoke strikes, armed intimidation and lawsuits over restoration bonds. Settlements outside a concession bargain for patrols in return for provisions; a company’s withdrawal can be more frightening than its arrival.
 
-Separate authorities and incompatible systems; these geographic totals cannot be commanded as one force.
+Coal export concessions, timber, extraction machinery and contract transport.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Company forces protect particular assets. Charter disputes, imported food and dependence on Varnesk equipment undermine any combined mobilisation.
+
+Mining crews preserve warning rites and private accounts of uncanny perception. Concession managers value a useful warning but rarely fund research that might interrupt extraction.
+
+Table and hospitality. Workers eat oat flatbread, pea soup and smoked fish at company canteens. Mushroom pies and berry preserves mark a well-stocked household. Managers import white flour and wine for renewal dinners; crews drink malt beer or roasted-grain coffee. An interrupted supply convoy can make the company shop the only source of food and deepen wage debt.
 
 | Measure | Estimate |
 |---|---:|
@@ -1071,15 +1163,19 @@ Scattered practitioners and private records; no dependable standing magical arm.
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
 
-## Central Morholt fortress jurisdictions
+## Dreissen Wardholds
 
 Combined geographic return; separate authorities. Population: 13,100,000.
 
-Local agriculture, small workshops and guarded overland exchange.
+Dananske, Dreinvar and Ferorvik anchor separate wardholds along the northern approaches. Each warden owes shelter to the villages that provision a fortress, but the obligation is disputed when stores run short. Their annual muster negotiates convoy schedules and exchanges hostages against broken promises; it does not elect a king. Galdresk medical houses maintain small hospices by invitation. Imported grain is strategically more important than ceremonial claims to the iceward interior. Officers measure influence in serviceable engines and winter stores, while civilian assemblies try to keep temporary requisitions from becoming permanent rent.
 
-Separate authorities and incompatible systems; these geographic totals cannot be commanded as one force.
+Convoy staging, cold-weather stores, fortress repair and imported-grain distribution.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Most personnel guard their own supply districts. Winter fuel and food reserves impose strict limits on campaigning beyond the wardholds.
+
+Hospices hold copied warding and healing texts obtained from Galdresk visitors. The copies outnumber people able to demonstrate any effect.
+
+Table and hospitality. Rye-and-oat bread, dried fish and sour cabbage dominate fortress kitchens. Venison is a costly addition to barley stew, not an everyday entitlement. Festival tables offer potato dumplings with browned butter and tart berry sauce. Hot malt drinks and strong grain spirit accompany winter hospitality; fuel scarcity limits baking as much as flour scarcity does.
 
 | Measure | Estimate |
 |---|---:|
@@ -1116,15 +1212,19 @@ Scattered practitioners and private records; no dependable standing magical arm.
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
 
-## Eastern Morholt estates
+## Varneselle Estates
 
 Combined geographic return; separate authorities. Population: 11,100,000.
 
-Local agriculture, small workshops and guarded overland exchange.
+The eastern estates descend from competing settlement grants, with Varkessant’s port charter carved out of the landed claims. Estate bailiffs administer courts and patrol obligations; the port elects its own commercial officers. Fishing communities resist attempts to classify their customary shore access as a landlord’s concession. Halskert buys fish and timber and sells grain, giving its merchants leverage in disputes over freight. Family alliances cross estate borders, but succession cases repeatedly fragment holdings. Seasonal workers move between shore crews and inland workshops, carrying news faster than the formal post.
 
-Separate authorities and incompatible systems; these geographic totals cannot be commanded as one force.
+Fishing, timber, estate workshops and seasonal coastal freight.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Port and estate forces obey different officers. Agricultural limits and dependence on Halskert grain make freight disruption especially costly.
+
+Fishing households and estate infirmaries preserve separate traditions. Port scribes collect storm accounts; families conceal gifts they fear a landlord might appropriate.
+
+Table and hospitality. Fish baked under a rye crust is shared along the shore; inland tables favour potato cakes with cultured cream and mushrooms. A formal estate meal adds roast poultry and sour-berry pudding. Small beer accompanies workday suppers, while herb spirits are offered to guests. The port’s fresh bread distinguishes it from outlying households that bake only when fuel permits.
 
 | Measure | Estimate |
 |---|---:|
@@ -1161,15 +1261,19 @@ Scattered practitioners and private records; no dependable standing magical arm.
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
 
-## Western Vesalian small states
+## Bressavelle Marches
 
 Combined geographic return; separate authorities. Population: 27,900,000.
 
-Local agriculture, small workshops and guarded overland exchange.
+The western marches form a belt of fortified lordships, town liberties and cultivated valleys between larger powers. Temevaux’s command guards a road junction; Malinne’s council controls a different customs district. Neither speaks for the entire belt. Tervayne merchants finance road repairs in exchange for bonded warehouses, while inland patrons subsidise rival toll houses. Small rulers survive by alternating clients and keeping neighbouring courts divided. Textile finishing, estate agriculture and wagon repair support a population far larger than its thinly charted principal towns suggest. A traveller’s permit may be valid for one bridge and useless at the next.
 
-Separate authorities and incompatible systems; these geographic totals cannot be commanded as one force.
+Textile finishing, estate produce, bonded warehousing and wagon repair.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Foreign clients subsidise rival toll houses. Local garrisons cannot be added together as an expeditionary force without renegotiating their obligations.
+
+Travelling readers find patrons among rival march houses. Books cross borders as gifts or contraband, leaving local collections partial and politically guarded.
+
+Table and hospitality. Households bake bean-and-onion pies and stretch broth with torn bread. Market inns serve pork with apples and coarse mustard; better tables add freshwater fish in butter and herb sauce. Cider is common in orchard districts, ale elsewhere. Customs officers are notorious for accepting imported coffee as hospitality while charging duty on the next sack.
 
 | Measure | Estimate |
 |---|---:|
@@ -1206,15 +1310,19 @@ Scattered practitioners and private records; no dependable standing magical arm.
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
 
-## Southern Vesalian small states
+## Vallessia Cantons
 
 Combined geographic return; separate authorities. Population: 20,200,000.
 
-Local agriculture, small workshops and guarded overland exchange.
+Southern market cantons rebuilt around local granaries after the Long Culling. Margeuil’s elected grain board, Darnenne’s military governor and the landed councils around Galigny compete over transport dues. Common measures for grain survived; a common treasury did not. Merchants connect warm lowland crops with cooler interior districts, using brokers who can guarantee passage through several authorities. Kelbrun buyers seek plantation produce and seasonal labour. Municipal councils resist the governors’ claim that every warehouse is a military asset, particularly after poor harvests make requisitions politically dangerous.
 
-Separate authorities and incompatible systems; these geographic totals cannot be commanded as one force.
+Grain storage, warm-climate produce, food processing and inter-canton brokerage.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Military governors and elected market boards compete for transport and stores. Requisition disputes can immobilise a nominally available reserve.
+
+Granary towns maintain household protection rites alongside practical medicine. Market festivals bring teachers together briefly, without creating a permanent regional academy.
+
+Table and hospitality. Rice-and-bean dishes with sharp green relish are common in the warmer cantons; upland tables add maize bread and soft cheese. Galigny market stalls sell stuffed peppers when in season. Feast days bring roast poultry with sour fruit, and sweet fritters. Light beer and fruit cordials are ordinary; imported coffee is concentrated in commercial houses.
 
 | Measure | Estimate |
 |---|---:|
@@ -1251,15 +1359,19 @@ Scattered practitioners and private records; no dependable standing magical arm.
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
 
-## Southeastern Vesalian jurisdictions
+## Rivessac Coast
 
 Combined geographic return; separate authorities. Population: 16,200,000.
 
-Local agriculture, small workshops and guarded overland exchange.
+Saultac is the best-charted inland market in a southeastern coastal region of small port communes and hereditary agricultural districts. The survey’s single principal marker is not its only inhabited place. Pilots’ guilds set practical terms for coastal travel; inland houses control cultivated land and the roads supplying the harbours. Ceralte brokers buy provisions here without governing the coast. Rival communes share storm warnings but guard their harbour soundings. The region’s political disputes concern port fees, seasonal labour and who funds guarded access to inland markets, rather than a single national succession.
 
-Separate authorities and incompatible systems; these geographic totals cannot be commanded as one force.
+Pilotage, coastal provisions, fishing and inland agricultural markets.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Small communes lack a shared naval command. Poorly charted harbours, seasonal labour and interrupted inland roads limit the usable export surplus.
+
+Pilot families pass down sea omens and protective marks. Inland healers keep different records, and neither tradition offers a reliable substitute for ordinary seamanship or medicine.
+
+Table and hospitality. Coastal kitchens combine fish, white beans, garlic and local greens; inland families make herb dumplings and barley bread. Saultac’s market speciality is poultry braised with olives and sour citrus. Hosts offer almond biscuits with coffee when they can afford it; diluted wine or herbal infusions are more usual. Fresh fish becomes a luxury only a short disrupted journey inland.
 
 | Measure | Estimate |
 |---|---:|
@@ -1300,11 +1412,15 @@ Scattered practitioners and private records; no dependable standing magical arm.
 
 National return. Population: 8,000,000.
 
+Drossane hosts common business for autonomous mining councils and fortress districts. The Compact is a federation rather than a unified hereditary realm. Ores, engineering skills and defended approaches sustain its bargaining power, but coastal freight charges consume export income. Valley workshops and cultivated pockets support the upland economy. Veyrasse remains an uneasy defensive partner and vital outlet. A direct railway toward Calvernis is sought, not operating; existing roads do not provide an equivalent bulk-freight service.
+
 Mining, military engineering and defended-pass supply.
 
 Strong pass defence and mining; food and coastal export access depend on neighbours. Councils control separate contingents.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Mining communities preserve protective marks, warning dreams and accounts of unusual perception underground. Council archives collect accidents; practical instruction remains within small trusted circles.
+
+Table and hospitality. Pass commerce carried dairy and grain dishes between otherwise stubbornly independent mining councils. Food is compact enough for a shift or a winter ascent. Drossane cheese dumplings: stale bread, sharp mountain cheese and onion, browned and served in broth. Covered rye pie of smoked goat and mushrooms; the richest versions have a deep butter crust. Whey drinks and small beer during work; juniper spirit after the shift. Lower valleys supply potatoes and cabbage, upland pastures cheese. Bought flour and coastal salt become costly when freight negotiations fail.
 
 | Measure | Estimate |
 |---|---:|
@@ -1345,11 +1461,15 @@ Scattered practitioners and private records; no dependable standing magical arm.
 
 National return. Population: 23,900,000.
 
+Valdrec houses the ducal administration and principal army depots. Productive valleys support estate agriculture and armament towns; the state fields strong infantry, artillery and a comparatively large armoured force. Ducal supervision is more centralised than in Veyrasse, though estate and arsenal interests still compete for resources. The unresolved Cressault claim strains an armed truce. Northern obligations and imports of Karsenne ore prevent its government from directing every resource against the March.
+
 Agriculture, artillery production and armoured-vehicle workshops.
 
 Largest eastern tank arm, but fuel imports and the armed truce impose costs; offensive forces cannot strip all garrisons.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Estate collections and military medical records preserve different accounts of unusual gifts. Ducal patronage can secure access, but also encourages custodians to conceal what they hold.
+
+Table and hospitality. Agricultural estates feed the northern arsenals; ducal kitchens and barracks draw on the same cattle and grain districts at very different prices. Valdrec sour-pot: cabbage, potato and beef simmered with caraway; soldiers receive more cabbage and less beef. Roast goose with apple stuffing and buckwheat cakes, served at estate weddings and officers’ banquets. Dark malt beer; plum spirit poured in small glasses. Army purchasing can empty market stalls before a mobilisation. Housewives argue over whether a proper sour-pot should contain tomato, an imported coastal habit.
 
 | Measure | Estimate |
 |---|---:|
@@ -1390,11 +1510,15 @@ Scattered practitioners and private records; no dependable standing magical arm.
 
 National return. Population: 15,700,000.
 
+The charter balances the Margrave, landed houses, municipal councils and industrial proprietors. Auvrienne holds the court and government; Serravonne is a secondary port and rail junction. Coastal agriculture and workshops depend on inland ores and imported machinery. Railway unions can disrupt mobilisation, and poorer households bear disproportionate service obligations. Caldrienne remains the principal territorial rival; Karsenne is an essential supplier, while Calvernis and Ceralte provide competing maritime connections. The Margrave commands the standing army and foreign relations, while chartered institutions provide much of the money, manpower and transport. Education and engineering offer advancement through patronage. Railway superintendent Leont Vardesca governs railway affairs and dependants, not Serravonne’s government or army.
+
 Railway engineering, port trade and municipal industry.
 
 Chartered houses, municipal funding and freight bottlenecks constrain command; machinery and fuel imports matter.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Private circles and inherited manuscripts sustain the older arts outside the Collegium’s main priorities. Proven gifts are rare; most scholars judge claims cautiously rather than treating every charm as effective.
+
+Table and hospitality. Old coastal markets and the railway labour settlements exchange recipes with Caldrienne and Calvernis despite customs quarrels. Ressant pot: white beans, leeks and barley, enriched with smoked pork when wages permit. Railway kitchens keep it warm for staggered shifts. Auvrienne veal in mustard cream, with buttered noodles; pear pastries follow at prosperous tables. Chicory coffee in workshops; real coffee, apple cider and dry valley wine in better-supplied houses. Fresh fish is ordinary near Serravonne, expensive uphill after a disrupted train. Station households stretch yesterday’s bread into broth dumplings.
 
 | Measure | Estimate |
 |---|---:|
@@ -1435,11 +1559,15 @@ Scattered practitioners and private records; no dependable standing magical arm.
 
 National return. Population: 18,100,000.
 
+Miravelle is the seat of a republic whose restricted franchise favours shipping, banking and industrial families. Harbour revenues, ship maintenance and manufacturing support convoy escorts, coastal guns, marines and maritime aircraft. Smaller towns supply its commercial ports without erasing rival patronage networks. Veyrasse is a customer and competitor; an alternative outlet for Karsenne could redirect freight and toll income. No agreement has completed that proposed railway.
+
 Shipping, banking, shipyards and maritime manufactures.
 
 Strong finance and convoy support; imported food and fuel expose it to interdiction and merchant-family disputes.
 
-Scattered practitioners and private records; no dependable standing magical arm.
+Merchant households collect texts through maritime contacts. Private teaching and discreet patronage flourish more readily than a publicly accountable academy.
+
+Table and hospitality. The banking ports absorbed recipes from their merchant crews, while inland households retained grain-and-bean cooking. Miravelle fish pot: firm coastal fish, onions, white beans and wine broth, ladled over yesterday’s bread. Saffron rice with shellfish and a separately served herb oil; expensive spice marks a host’s means. Dry white wine, anise cordial and strong coffee. Dockside stalls sell fried small fish in paper. A merchant’s citrus preserves may have travelled farther than the guests eating them.
 
 | Measure | Estimate |
 |---|---:|
@@ -1480,11 +1608,15 @@ Scattered practitioners and private records; no dependable standing magical arm.
 
 National return. Population: 2,900,000.
 
+Dalmor is the fortified harbour and seat of a hereditary protector, senior naval council and island governors. Fishing, pilotage, convoy services and repair yards sustain the chain, while imported grain remains essential. Torpedo craft, mine warfare and knowledge of difficult waters offset limited land resources. Island communities depend on shipping rather than a mainland-style road network. Treaty cooperation coexists with accusations of privateering; no allegation proves official sponsorship.
+
 Coastal trade, fishing, naval maintenance and convoy services.
 
 Experienced coastal crews and minelayers; small population, grain imports and fuel dependence rule out a large land war.
 
 Maritime traditions and itinerant teachers preserve fragmentary practice; crews cannot rely on a gifted escort.
+
+Table and hospitality. Limited grain land and long sea passages made imported flour, preserved fish and safe drinking water matters of government. Dalmor soaked biscuit: ship’s bread softened with fish broth, oil and onions; ashore it gains tomatoes and herbs. Whole baked rockfish under a salt crust, opened at the table; almond-and-citrus cakes for shore leave and family feasts. Weak beer, diluted island wine and lemon syrup when supplies allow. Islanders know several preparations of the same catch. Grain shortages change the size of a loaf before they change a naval ration.
 
 | Measure | Estimate |
 |---|---:|

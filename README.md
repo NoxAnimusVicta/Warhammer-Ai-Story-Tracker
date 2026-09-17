@@ -15,3 +15,7 @@ The slate checks for new editions when opened, brought back into view, reconnect
 Independent fan work. Warhammer 40,000 and its established characters belong to their respective rights holders.
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the Long Culling. Editable sources are food-cultures.json and purge-history.json.
+
+## Revision 40
+
+One political entry now combines government, economy, military, older arts and cuisine. Ten generic geographic entries and 328 repetitive settlement names have been replaced; stable identifiers retain continuity. The 51 remaining exact duplicate settlement descriptions have also been rewritten. The World view no longer embeds duplicate nation catalogues or the complete reference. Short-road zoom visibility, gesture rendering and portrait caching have been revised. Publish portrait.png and sw.js alongside the new index and records.

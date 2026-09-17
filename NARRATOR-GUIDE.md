@@ -1,3 +1,11 @@
+## Revision 40 — consolidated atlas and political records
+
+The ten former direction-only geographic placeholders now have distinctive names and histories, without changing borders, population or military totals. They remain divided authorities, not ten newly unified states. Read world-map.json for political and settlement identities, national-register.json for capacity and older arts, and food-cultures.json for the table. Each national profile contains its current political description and food record; keep these synchronised. private/political-names40.json and private/settlement-names40.json preserve aliases and rolls. The latter replaces 328 remaining names from the repetitive original naming grid. Stable IDs, established story names and historical transcripts are unchanged. The 51 remaining exact duplicate settlement accounts have also been individually rewritten; all 897 settlement names and descriptions are distinct. See private/settlement-description-audit40.json.
+
+The reader has one visible political selector and an integrated national entry, including cuisine. Comparison and census detail open on demand. Do not restore a standalone Food Cultures panel, duplicate nation accordions or an embedded copy of the complete planetary reference. The full reference remains downloadable. Important Auvrienne/Serravonne details now reside in their settlement entries. No story time, character state, inventory, money or population has changed.
+
+Short district roads no longer disappear solely because they occupy fewer than 48 screen pixels. Lucaune–Lucegno uses the same district visibility threshold as other local roads. Route extents reject offscreen work. Zoom caches viewport dimensions, batches gestures and avoids the world-wide blur. The portrait is separately cached for the installed app instead of repeating its base64 data in every edition. Current atlas: 897 settlements, 1928 segments.
+
 # Malaspina — narrator handover
 
 This is an ongoing, player-led Warhammer 40,000 campaign, not a completed story. The phone data-slate is the player's read-only reference. This guide is outside the fiction and is not displayed in the slate.

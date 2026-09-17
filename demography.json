@@ -239,7 +239,7 @@
     },
     {
       "id": "other-otranto-400",
-      "name": "Northwestern Otrantian jurisdictions",
+      "name": "Bellacosta Cantons",
       "continent": "otranto",
       "population": 32400000,
       "births_per_1000": 32.7,
@@ -252,7 +252,7 @@
     },
     {
       "id": "other-otranto-700",
-      "name": "Southwestern Otrantian jurisdictions",
+      "name": "Cavressa Principalities",
       "continent": "otranto",
       "population": 21800000,
       "births_per_1000": 30.5,
@@ -265,7 +265,7 @@
     },
     {
       "id": "other-otranto-1100",
-      "name": "Northern Otrantian basin states",
+      "name": "Vaulcerre Basin Leagues",
       "continent": "otranto",
       "population": 29600000,
       "births_per_1000": 29.0,
@@ -278,7 +278,7 @@
     },
     {
       "id": "other-otranto-1450",
-      "name": "Eastern Otrantian jurisdictions",
+      "name": "Seravelle Littoral",
       "continent": "otranto",
       "population": 48400000,
       "births_per_1000": 31.6,
@@ -291,7 +291,7 @@
     },
     {
       "id": "other-morholt-1880",
-      "name": "Western Morholt concessions",
+      "name": "Haldrevik Concessions",
       "continent": "morholt",
       "population": 8700000,
       "births_per_1000": 36.0,
@@ -304,7 +304,7 @@
     },
     {
       "id": "other-morholt-2190",
-      "name": "Central Morholt fortress jurisdictions",
+      "name": "Dreissen Wardholds",
       "continent": "morholt",
       "population": 13100000,
       "births_per_1000": 35.1,
@@ -317,7 +317,7 @@
     },
     {
       "id": "other-morholt-2630",
-      "name": "Eastern Morholt estates",
+      "name": "Varneselle Estates",
       "continent": "morholt",
       "population": 11100000,
       "births_per_1000": 33.7,
@@ -330,7 +330,7 @@
     },
     {
       "id": "other-vesalius-2790",
-      "name": "Western Vesalian small states",
+      "name": "Bressavelle Marches",
       "continent": "vesalius",
       "population": 27900000,
       "births_per_1000": 31.7,
@@ -343,7 +343,7 @@
     },
     {
       "id": "other-vesalius-2790-1410",
-      "name": "Southern Vesalian small states",
+      "name": "Vallessia Cantons",
       "continent": "vesalius",
       "population": 20200000,
       "births_per_1000": 35.1,
@@ -356,7 +356,7 @@
     },
     {
       "id": "other-vesalius-3160",
-      "name": "Southeastern Vesalian jurisdictions",
+      "name": "Rivessac Coast",
       "continent": "vesalius",
       "population": 16200000,
       "births_per_1000": 30.3,

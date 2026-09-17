@@ -330,145 +330,145 @@ Oat beer and tart orchard cider where fruit grows.
 
 Smokehouses fill before freeze-up. Spring fish suppers mark reopened navigation and the arrival of news as much as the season’s catch.
 
-## Northwestern Otrantian jurisdictions
+## Bellacosta Cantons
 
 Tradition: Western island-and-estuary tables
 
-These are neighbouring independent jurisdictions, not a nation with one compulsory cuisine. Trade, climate and local harvests connect their tables.
 
-Bean flatbreads, salt fish and pepper relish accompany coastal market trade; inland families substitute smoked river fish. Nut-and-honey pastries are bought for marriages. Light fruit wine and weak beer vary by port.
 
-Feast food depends on the host’s stores, season and means; the chartered cities and poorer rural households differ sharply.
+Rice cooked in coconut milk accompanies peppered fish near the coast; inland labourers eat cassava cakes and bean relish. At Jougrenne, prosperous hosts serve fish wrapped in aromatic leaves, followed by cane syrup fritters. Sour fruit drinks and weak cane beer are ordinary; imported wine belongs to charter banquets.
 
-Local staples and luxuries are described with the regional dishes.
 
-Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest.
 
-## Southwestern Otrantian jurisdictions
+
+
+
+
+## Cavressa Principalities
 
 Tradition: Southwestern upland tables
 
-These are neighbouring independent jurisdictions, not a nation with one compulsory cuisine. Trade, climate and local harvests connect their tables.
 
-Maize porridge with hard cheese and stewed greens feeds mining and pastoral households. Smoked goat pie is a festival dish, with pear spirit in orchard valleys. Snowbound districts depend on grain purchases rather than self-sufficiency.
 
-Feast food depends on the host’s stores, season and means; the chartered cities and poorer rural households differ sharply.
+Barley noodles with browned cabbage are everyday food in the cooler districts. Shepherds carry hard cheese and sour rye loaves; court cooks serve mutton with dried plums and a crust of toasted grain. Albaret inns are known for pear pastries. Dark beer and plum spirit travel better than fresh milk.
 
-Local staples and luxuries are described with the regional dishes.
 
-Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest.
 
-## Northern Otrantian basin states
+
+
+
+
+## Vaulcerre Basin Leagues
 
 Tradition: Northern dry-basin tables
 
-These are neighbouring independent jurisdictions, not a nation with one compulsory cuisine. Trade, climate and local harvests connect their tables.
 
-Millet, lentils and flatbread underpin dry-country meals, with yoghurt and preserved citrus where irrigation permits. Wealthy caravan patrons serve spiced lamb and nut rice. Mint tea is offered widely, with sugar signalling means.
 
-Feast food depends on the host’s stores, season and means; the chartered cities and poorer rural households differ sharply.
+Millet porridge with greens and groundnut sauce feeds field crews; fish dried beside the canals enriches stews. Jarnan serves spiced rice with river fish on market days. Fermented grain drink is inexpensive, while sweet tea signals a household with access to imported leaves. Drought changes recipes before it changes official water allocations.
 
-Local staples and luxuries are described with the regional dishes.
 
-Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest.
 
-## Eastern Otrantian jurisdictions
+
+
+
+
+## Seravelle Littoral
 
 Tradition: Eastern coastal tables
 
-These are neighbouring independent jurisdictions, not a nation with one compulsory cuisine. Trade, climate and local harvests connect their tables.
 
-Steamed rice, sour fish broth and pickled greens suit the wet coastal districts; upland markets sell tuber cakes and smoked pork. Feast tables add shellfish and fragrant fruit. Tea houses and cane-drink stalls serve very different customers.
 
-Feast food depends on the host’s stores, season and means; the chartered cities and poorer rural households differ sharply.
+Astrellac cooks fish in tomato and fennel broth and lays yesterday’s bread beneath it. Bean-filled pastries and olives travel inland with merchants. Wealthy harbour tables add citrus-roasted poultry and almond cakes; dockworkers buy chickpea fritters. Coastal wine is plentiful locally, while coffee is sold in small, strong cups.
 
-Local staples and luxuries are described with the regional dishes.
 
-Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest.
 
-## Western Morholt concessions
+
+
+
+
+## Haldrevik Concessions
 
 Tradition: Concession camp tables
 
-These are neighbouring independent jurisdictions, not a nation with one compulsory cuisine. Trade, climate and local harvests connect their tables.
 
-Company stores supply rye flour, peas, salted meat and tea. Thick pea soup and flat griddle cakes fill shift tins; smoked fish and berry buns distinguish family Sundays. Company credit can make even ordinary provisions a source of debt.
 
-Feast food depends on the host’s stores, season and means; the chartered cities and poorer rural households differ sharply.
+Workers eat oat flatbread, pea soup and smoked fish at company canteens. Mushroom pies and berry preserves mark a well-stocked household. Managers import white flour and wine for renewal dinners; crews drink malt beer or roasted-grain coffee. An interrupted supply convoy can make the company shop the only source of food and deepen wage debt.
 
-Local staples and luxuries are described with the regional dishes.
 
-Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest.
 
-## Central Morholt fortress jurisdictions
+
+
+
+
+## Dreissen Wardholds
 
 Tradition: Northern fortress tables
 
-These are neighbouring independent jurisdictions, not a nation with one compulsory cuisine. Trade, climate and local harvests connect their tables.
 
-Preserved roots, oats and dried fish dominate long winters. Goat cheese and rye pastry filled with mushrooms appear when convoys arrive. Hot berry infusions are commonplace; imported coffee is an officer’s luxury.
 
-Feast food depends on the host’s stores, season and means; the chartered cities and poorer rural households differ sharply.
+Rye-and-oat bread, dried fish and sour cabbage dominate fortress kitchens. Venison is a costly addition to barley stew, not an everyday entitlement. Festival tables offer potato dumplings with browned butter and tart berry sauce. Hot malt drinks and strong grain spirit accompany winter hospitality; fuel scarcity limits baking as much as flour scarcity does.
 
-Local staples and luxuries are described with the regional dishes.
 
-Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest.
 
-## Eastern Morholt estates
+
+
+
+
+## Varneselle Estates
 
 Tradition: Eastern estate tables
 
-These are neighbouring independent jurisdictions, not a nation with one compulsory cuisine. Trade, climate and local harvests connect their tables.
 
-Tenants eat barley, cabbage and fish from managed waters; manor houses serve roast waterfowl, cream sauces and layered fruit preserves. Shared rye bread hides a sharp difference in access to butter and meat. Small beer accompanies workday meals.
 
-Feast food depends on the host’s stores, season and means; the chartered cities and poorer rural households differ sharply.
+Fish baked under a rye crust is shared along the shore; inland tables favour potato cakes with cultured cream and mushrooms. A formal estate meal adds roast poultry and sour-berry pudding. Small beer accompanies workday suppers, while herb spirits are offered to guests. The port’s fresh bread distinguishes it from outlying households that bake only when fuel permits.
 
-Local staples and luxuries are described with the regional dishes.
 
-Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest.
 
-## Western Vesalian small states
+
+
+
+
+## Bressavelle Marches
 
 Tradition: Western small-state tables
 
-These are neighbouring independent jurisdictions, not a nation with one compulsory cuisine. Trade, climate and local harvests connect their tables.
 
-Cider orchards and pasture districts favour cheese pie, onion broth and oat bread; ports add salt fish and borrowed Tervayne recipes. Weddings bring roast goose and apple pastry. Individual towns disagree over crusts and spice rather than sharing a single state cuisine.
 
-Feast food depends on the host’s stores, season and means; the chartered cities and poorer rural households differ sharply.
+Households bake bean-and-onion pies and stretch broth with torn bread. Market inns serve pork with apples and coarse mustard; better tables add freshwater fish in butter and herb sauce. Cider is common in orchard districts, ale elsewhere. Customs officers are notorious for accepting imported coffee as hospitality while charging duty on the next sack.
 
-Local staples and luxuries are described with the regional dishes.
 
-Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest.
 
-## Southern Vesalian small states
+
+
+
+
+## Vallessia Cantons
 
 Tradition: Southern small-state tables
 
-These are neighbouring independent jurisdictions, not a nation with one compulsory cuisine. Trade, climate and local harvests connect their tables.
 
-Rice, beans and vegetable stews mingle with maize cakes in the warm inland districts. Coastal households serve sour fish broth; formal hospitality adds roast pork and candied peel. Cane drinks, tea and fruit wine follow local harvests.
 
-Feast food depends on the host’s stores, season and means; the chartered cities and poorer rural households differ sharply.
+Rice-and-bean dishes with sharp green relish are common in the warmer cantons; upland tables add maize bread and soft cheese. Galigny market stalls sell stuffed peppers when in season. Feast days bring roast poultry with sour fruit, and sweet fritters. Light beer and fruit cordials are ordinary; imported coffee is concentrated in commercial houses.
 
-Local staples and luxuries are described with the regional dishes.
 
-Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest.
 
-## Southeastern Vesalian jurisdictions
+
+
+
+
+## Rivessac Coast
 
 Tradition: Southeastern border tables
 
-These are neighbouring independent jurisdictions, not a nation with one compulsory cuisine. Trade, climate and local harvests connect their tables.
 
-Kelbrun-style tuber cakes meet Varnelle rice dishes along the border markets. Fish preserved in sour brine travels inland; bean-filled pastries travel the other way. Tea, cane spirit and seasonal citrus drinks accompany a trade conducted under several customs seals.
 
-Feast food depends on the host’s stores, season and means; the chartered cities and poorer rural households differ sharply.
+Coastal kitchens combine fish, white beans, garlic and local greens; inland families make herb dumplings and barley bread. Saultac’s market speciality is poultry braised with olives and sour citrus. Hosts offer almond biscuits with coffee when they can afford it; diluted wine or herbal infusions are more usual. Fresh fish becomes a luxury only a short disrupted journey inland.
 
-Local staples and luxuries are described with the regional dishes.
 
-Border closures, convoy losses and military requisition change what reaches a household, even during a good harvest.
+
+
+
+
 
 ## The Long Culling
 

@@ -1,3 +1,11 @@
+## Revision 40 — consolidated atlas and political records
+
+The ten former direction-only geographic placeholders now have distinctive names and histories, without changing borders, population or military totals. They remain divided authorities, not ten newly unified states. Read world-map.json for political and settlement identities, national-register.json for capacity and older arts, and food-cultures.json for the table. Each national profile contains its current political description and food record; keep these synchronised. private/political-names40.json and private/settlement-names40.json preserve aliases and rolls. The latter replaces 328 remaining names from the repetitive original naming grid. Stable IDs, established story names and historical transcripts are unchanged. The 51 remaining exact duplicate settlement accounts have also been individually rewritten; all 897 settlement names and descriptions are distinct. See private/settlement-description-audit40.json.
+
+The reader has one visible political selector and an integrated national entry, including cuisine. Comparison and census detail open on demand. Do not restore a standalone Food Cultures panel, duplicate nation accordions or an embedded copy of the complete planetary reference. The full reference remains downloadable. Important Auvrienne/Serravonne details now reside in their settlement entries. No story time, character state, inventory, money or population has changed.
+
+Short district roads no longer disappear solely because they occupy fewer than 48 screen pixels. Lucaune–Lucegno uses the same district visibility threshold as other local roads. Route extents reject offscreen work. Zoom caches viewport dimensions, batches gestures and avoids the world-wide blur. The portrait is separately cached for the installed app instead of repeating its base64 data in every edition. Current atlas: 897 settlements, 1928 segments.
+
 # Current continuity — revision 39
 
 This is an out-of-character handover checkpoint, separate from the immersive slate. Read later transcript entries for subsequent developments. The present update corrects actual atlas sampling and through routes, expands civic and food records, and establishes the last major Hunter Culling: no story time passes.
@@ -93,4 +101,4 @@ No story time, character power, inventory, money, commission progress or demogra
 
 Revision39 also replaces509repeated-root, unvisited district names. See private/district-name-corrections39.json for exact old-name aliases and fixed Python choices. Historical transcript names are preserved; IDs, populations and positions remain unchanged.
 
-Geographic label correction: the old Southern Otrantian aggregate is the Northern Otrantian basin states, and the old Western Otrantian aggregate is Southwestern Otrantian jurisdictions. Stable census IDs, boundaries and totals are unchanged; labels now follow their actual positions.
+Geographic label correction: the old Southern Otrantian aggregate is the Vaulcerre Basin Leagues, and the old Western Otrantian aggregate is Cavressa Principalities. Stable census IDs, boundaries and totals are unchanged; labels now follow their actual positions.
