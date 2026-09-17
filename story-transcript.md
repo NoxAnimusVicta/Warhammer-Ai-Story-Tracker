@@ -6663,3 +6663,13 @@ The short road now stays visible through the regional zoom levels, including whe
 ## 322 — Assistant — Progress note
 
 The checks pass: all 33 political entries load correctly, all 897 settlement names and descriptions are distinct, and the short-road zoom test passes. The main HTML is about 36% smaller, with the portrait cached separately. Story state, population totals, borders and military figures are unchanged. I’m publishing this version now, then checking the live page.
+
+
+## 323 — Assistant — Progress note
+
+The revised files are committed to GitHub. The browser reset during upload, but I recovered the signed-in session and completed it. GitHub Pages is deploying now; I’m checking the published files before calling this finished.
+
+
+## 324 — Assistant — Progress note
+
+Revision 40 is live. I’ve checked the repaired route, the combined political/food record and the portrait on the published page. I’m finishing the transcript and handover package so the next session has the corrected names and structure.
