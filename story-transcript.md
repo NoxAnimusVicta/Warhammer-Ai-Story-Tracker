@@ -6468,3 +6468,76 @@ The signed-in Codex browser is working. I’m keeping the agreed classification 
 ## 296 — Assistant — Progress note
 
 The origin and physiology wording is updated. I also recovered 31 missing visible messages from this conversation into the exact transcript, including the recent lore and firearm discussions. No story time, funds, inventory or demonstrated abilities have changed.
+
+
+## 297 — Assistant — Progress note
+
+The checks pass, including archive preservation, update detection and map navigation. The revised physiology text also fits the phone-sized preview. I’m uploading revision 37 now, then checking that GitHub Pages serves the new edition.
+
+
+## 298 — Assistant — Progress note
+
+The commit is on GitHub and the Pages build passed. Deployment is still running. I’ve also refreshed the private handover package so the accepted explanation and source caveats can carry over to another narrator session.
+
+
+## 299 — Assistant — Progress note
+
+GitHub is still processing the Pages deployment; the updated files are already committed. I’m waiting for the live version before calling the update complete.
+
+
+## 300 — Assistant — Publication confirmation
+
+Updated and published [revision 37](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=2ba2da3b56600450233a#physiology). The slate and narrator references now reflect the agreed origin, stable body–soul integration and improvements over Alpha Primus. Missing discussion exchanges are restored to the transcript.
+
+Deployment succeeded, and all eleven live files match the checked version. Open your phone app online to receive the update.
+
+Name: Galahad  
+Age: Approximately two local years  
+Date: Ten months and eleven days after enrolment — evening  
+Reputation: Celebrated scholar; commissioned technical examiner  
+Weapons (Equipped): None  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Stored Vouressan-bone greatsword, commission records, research, mechanical creations and charms  
+Currency: 560 lorrats; 30 due upon report delivery
+
+
+
+## 301 — User — Atlas and national capacity request
+
+Now the map of the Karsenne Escarpment area is way too populated now compared to the rest of the map. We should also probably give each nation some kind of military and economic numbers so we can see who is stronger than who and in what. Maybe include tech, military, economy and whatever else you think is applicable
+
+
+## 302 — Assistant — Progress note
+
+I’ll check the Karsenne area against the rest of the map, then add national profiles that let you compare economic strength, military capacity, technology and their practical limitations.
+
+
+## 303 — Assistant — Progress note
+
+The atlas is showing minor roads and settlement markers too early around Karsenne, which makes that small region look disproportionately crowded. I’m adjusting how detail appears as you zoom, while preserving established places and population totals.
+
+For the national comparisons, I’m separating troops, reserves, equipment and supply capacity. Economic output and technological strengths will sit alongside them, so a wealthy trading state and a large land army can have visibly different advantages.
+
+
+## 304 — Assistant — Progress note
+
+The national figures now follow the existing lore: Caldrienne leads the eastern tank forces, Karsenne favours mining and mountain defence, and Calvernis and Ceralte invest more heavily at sea. Divided territories such as Ossavren are recorded as combined estimates, not as a single army.
+
+I’m adding a side-by-side comparison and sortable rankings, with clear units and supply constraints so the numbers remain useful as the story develops.
+
+
+## 305 — Assistant — Progress note
+
+The comparison panel is working, and the existing checks still pass. Karsenne’s smaller settlements now appear at closer zoom levels; its main cities and transport links remain visible at regional scale. I’m checking the phone layout, rankings and population accounting before publishing.
+
+
+## 306 — Assistant — Progress note
+
+The accounting check caught an important issue: too many countries depended on imported fuel without enough exporters to supply them. I’ve reconciled the planetary totals and recorded the producing regions. Food and fuel now balance globally, while individual nations retain meaningful import dependencies.
+
+The phone preview also fits without horizontal overflow. I’m finishing the comparison controls and archive checks, then publishing the update.
+
+
+## 307 — Assistant — Progress note
+
+The update is ready: all 33 national and regional returns are documented, comparisons and ranking filters work, and zooming into Karsenne restores its smaller settlements without crowding the wider view. I’m uploading revision 38 and checking the live deployment next.

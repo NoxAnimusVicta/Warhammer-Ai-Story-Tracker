@@ -72,3 +72,9 @@ Research uncertain lore before asserting it. Prefer original published material 
 Malaspina is an originally habitable, Earth-like colony curated by the Hunters as a game reserve. **Historical Death World descriptions are superseded.** The animal formerly called Vordrake is now **Vouressan**; it is the same animal and same recorded hunt. The exact archive retains old wording solely as history.
 
 Read related passages together when assessing lore implications. Distinguish explicit facts, strong cumulative implications and adopted campaign explanations. Do not repeatedly rebut a narrower claim than the player made, dismiss supported inference merely because it is indirect, or quietly change accepted character potential. Consult the revision37 founder clarification before further power-scale discussion.
+
+## National capacity returns
+
+Read national-register.json for the current numerical baseline. Its scope, units and qualifications are part of the record: annual output is not money in a treasury; reserves are additional trained people; sustainable field strength is a subset of standing forces. Divided geographic returns are not united armies. Technology ratings measure industrial capability in separate domains, not an overall combat score. Rare psychic talent has no fixed national quota.
+
+When local story time advances, preserve a prior snapshot and revise production, population, revenues and capacity together. Apply extraordinary losses and investment explicitly. Equipment does not automatically grow at the population rate. No numerical comparison guarantees victory or grants Galahad precise intelligence about every formation. Run verify-national.py alongside the reader and navigation checks when these files change.

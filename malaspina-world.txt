@@ -228,3 +228,8 @@ Overland connections. Every charted mainland settlement connects to its continen
 
 
 Eastern Marches district survey. Additional market boroughs, workshop towns, estate centres and road junctions fill the spaces between the principal cities. Their district roads feed the established transport network. Ceralte’s home-island roads remain distinct from its sea passages. Newly charted inhabitants were already included in existing population returns.
+
+
+Comparative staff returns. National returns distinguish annual economic production, public revenue, defence expenditure, standing personnel, trained reserves and forces supportable away from permanent garrisons. Serviceable armour, aircraft, artillery and fleet displacement are recorded separately. Veldrassen holds the largest unified industrial base; Rovessara excels in precision manufacture and electrical work. Caldrienne maintains the strongest eastern armoured concentration; Karsenne specialises in mines and defended passes, while Calvernis and Ceralte favour maritime capabilities. Veldrassen coalfields, the divided coal and petroleum districts of Ossavren, Vardol refining and Morholt concessions sustain much of the fuel trade. Local shortages can persist despite sufficient planetary production.
+
+Staff valuations express economic flows in comparable Veyrasse lorrat purchasing power; national currencies and treasuries remain separate. Divided jurisdictions are combined geographic returns, without a single command. Cressault is included within Veyrasse accounting without settling its disputed status. The numerical register accompanies the planetary atlas.
