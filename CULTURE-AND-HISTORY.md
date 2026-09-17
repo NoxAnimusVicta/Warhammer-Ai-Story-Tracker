@@ -180,7 +180,7 @@ Hospitality includes bread broken by the host, but its quality distinguishes an 
 
 Tradition: Otrantian plateau and basin
 
-A composite crown includes humid lowlands, high terraces and temperate uplands; imperial-looking court service conceals many provincial kitchens.
+A composite crown includes humid lowlands, high terraces and temperate uplands; formal court service conceals many provincial kitchens.
 
 Maize polenta with beans and mushroom gravy in the uplands; rice replaces maize in irrigated lowland districts.
 

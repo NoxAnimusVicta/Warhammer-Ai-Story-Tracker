@@ -1,5 +1,5 @@
 {
-  "edition": 40,
+  "edition": "41",
   "general": [
     "Most calories come from familiar cultivated grains, pulses, roots and oil crops descended from colonial agriculture. Managed livestock, fisheries, dairies and defended market gardens supply the ordinary table. Hunter-altered wildlife is not the population’s staple meat; wild carcasses require local inspection, and rare trophy flesh is no guarantee of safe food.",
     "Cuisine follows climate, altitude, waterways, migration, former political unions and trade. National borders do not separate every recipe. Protected irrigation, terraces and greenhouses supply particular districts; they do not make every crop grow everywhere. Coffee, citrus, spices and good cooking oil may be imported luxuries far from their producing districts.",
@@ -131,7 +131,7 @@
       "id": "veldrassen",
       "name": "Veldrassen",
       "tradition": "Otrantian plateau and basin",
-      "history": "A composite crown includes humid lowlands, high terraces and temperate uplands; imperial-looking court service conceals many provincial kitchens.",
+      "history": "A composite crown includes humid lowlands, high terraces and temperate uplands; formal court service conceals many provincial kitchens.",
       "everyday": "Maize polenta with beans and mushroom gravy in the uplands; rice replaces maize in irrigated lowland districts.",
       "hospitality": "Braised beef with red wine and layered herb pasta; provincial delegates insist on different cheeses.",
       "drink": "Plateau beer, lowland cane drink and coffee at the court.",

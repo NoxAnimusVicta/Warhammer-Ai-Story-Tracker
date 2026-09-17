@@ -40,7 +40,7 @@ Return epoch matches the current census. Annual output trend describes ordinary 
 
 National return. Population: 161,900,000.
 
-The crown is a compact among old provinces: its armies and foundries are enormous, but provincial estates bargain over every exceptional levy. Rail contracts and coal exports hold the monarchy together more reliably than court ceremony.
+Veldrassen is a composite monarchy whose mountain court at Cavrelisse presides over provinces ranging from tropical cultivation to cold industrial uplands. Mondessore's locomotive works and a large railway economy give the crown considerable military weight; provincial estates nevertheless control much of the revenue and recruitment on which it depends. The lowlands sell food and forest products uphill, while machinery and government contracts travel back down. Coal exports and heavy engineering sustain foreign influence. Court ceremony presents this diversity as unity, but extraordinary levies still require bargaining. Cervaud is a neighbouring buffer and customer, not a province awaiting effortless annexation.
 
 Heavy engineering, railway equipment and general manufactures; coal and processed fuel exports.
 
@@ -48,7 +48,7 @@ Provincial consent slows concentration; major arsenals and railway junctions rem
 
 Court examination offices and provincial registries preserve records; access varies by patron.
 
-Table and hospitality. A composite crown includes humid lowlands, high terraces and temperate uplands; imperial-looking court service conceals many provincial kitchens. Maize polenta with beans and mushroom gravy in the uplands; rice replaces maize in irrigated lowland districts. Braised beef with red wine and layered herb pasta; provincial delegates insist on different cheeses. Plateau beer, lowland cane drink and coffee at the court. Altitude matters as much as latitude. Mountain towns import much of their grain, while court menus display produce from every province as a claim to unity.
+Table and hospitality. A composite crown includes humid lowlands, high terraces and temperate uplands; formal court service conceals many provincial kitchens. Maize polenta with beans and mushroom gravy in the uplands; rice replaces maize in irrigated lowland districts. Braised beef with red wine and layered herb pasta; provincial delegates insist on different cheeses. Plateau beer, lowland cane drink and coffee at the court. Altitude matters as much as latitude. Mountain towns import much of their grain, while court menus display produce from every province as a claim to unity.
 
 | Measure | Estimate |
 |---|---:|
@@ -89,7 +89,7 @@ Table and hospitality. A composite crown includes humid lowlands, high terraces 
 
 National return. Population: 116,200,000.
 
-Royal commissioners are consolidating an agricultural monarchy into an arsenal state. Landowners favour grain exports; army purchasers want controlled prices and labour for new factories. The resulting dispute reaches from village granaries to the court.
+Ostrevain is an agricultural monarchy attempting to turn crop surpluses and a large population into industrial military strength. Orsevigne holds the royal administration; Tessarone concentrates arsenal work, supported by plantation and farming railways. Landed families retain influence over recruitment and produce, while royal commissioners favour factories and central procurement. Its armed forces can draw many soldiers, but transport and imported precision equipment constrain their deployment. Cervaud offers a market and a political buffer. In daily life the contrast is between estate authority, regimented industrial wards and expanding commercial towns, rather than between a uniformly modern capital and an empty countryside.
 
 Grain distribution, military stores and arsenal production.
 
@@ -138,7 +138,7 @@ Table and hospitality. Cereal estates, cattle districts and newly industrial tow
 
 National return. Population: 70,600,000.
 
-Merchant councils govern a commercial republic whose banks finance shipping and precision workshops. Foreign clients need its instruments and engines, but the republic depends on open sea lanes and negotiated access to raw materials.
+Rovessara is a merchant republic governed through commercial councils. Bellacenne houses finance and administration, Avellori supplies precision instruments and electrical apparatus, and Pellavore connects both to overseas buyers. Temperate farming districts, seasonal lowlands and a dry interior give its domestic economy several distinct faces. Banks and shipping houses can finance projects far beyond the republic, but they cannot manufacture uninterrupted sea lanes or unlimited raw materials. Its strength lies in skilled production, credit and trade rather than the largest army. Inland towns consequently matter as food suppliers and customers, not merely as lesser copies of its fashionable port cities.
 
 Precision instruments, electrical apparatus and overseas commerce.
 
@@ -187,7 +187,7 @@ Table and hospitality. Maritime commerce joins a mild western coast to upland ch
 
 National return. Population: 47,400,000.
 
-City charters, landed estates and river authorities divide power in a federation confined to its own basins. Locks, flood protection and water allocation bind members together while producing repeated disputes about who pays upstream and who benefits downstream.
+Brannervaux is a federation of basin cities, landed districts and water authorities. Rivessole hosts common government; Molessac's pumping and engineering works turn the management of scarce or badly timed water into a major export industry. Productive cultivation coexists with dry rain-shadow districts dependent on imported food and controlled supplies. Members cooperate over transport, maintenance and defence while retaining powers that can delay a common decision. Trade with Veldrassen's factories and neighbouring agricultural states is extensive. The federation is confined to its own territories: neither its river institutions nor its name imply rule over Otranto as a whole.
 
 Water engineering, agricultural processing and industrial chemistry.
 
@@ -236,7 +236,7 @@ Table and hospitality. Unequal river cities share barges, mill customs and perio
 
 National return. Population: 31,500,000.
 
-A hereditary border duchy buys security by bargaining with Veldrassen and Ostrevain. Its fortified frontier supports a substantial officer class; competing patrons and military purchasing make nominal independence expensive.
+Cervaud is a hereditary duchy whose court and officer institutions occupy Charvessant. Vezarolle's workshops support an army unusually important to public life, but cultivated lowlands, forest produce and upland farming sustain the civilian population. The duke bargains with larger Veldrassen and Ostrevain rather than enjoying complete strategic independence. Their credit and arms help preserve the frontier while giving foreign purchasers influence. Border markets also connect Cervaud with smaller neighbouring authorities. Rank and military service carry prestige, yet merchants, farmers and workshop households have livelihoods extending across the same boundaries that officers are expected to defend.
 
 Frontier logistics, armaments repair and estate agriculture.
 
@@ -285,7 +285,7 @@ Table and hospitality. Border garrisons borrow cooking from both larger patrons,
 
 National return. Population: 29,900,000.
 
-An industrial republic governed through municipal and commercial representation, with a long argument over labour’s place in that settlement. Machine-tool exports pay for essential imports; disputed frontiers consume revenue that towns want spent on housing and power.
+Veylac is an industrial republic centred on Alescogne's councils, Bellorante's machine-tool works and Rionvesse's ocean trade. Municipal and commercial representation gives organised towns influence, while labour's place in government remains contested. Temperate farming districts provision cold upland factories; dry interior towns specialise in transport and practical manufacturing. Skilled metallurgy gives the republic valuable exports and military equipment, but imported food and fuel remain strategic dependencies. Ossavren's divided neighbours create both markets and frontier risks. The republic's cities are linked by production and commerce, without sharing one uniform climate, social hierarchy or relationship with factory employers.
 
 Metallurgy, machine tools and factory production.
 
@@ -334,7 +334,7 @@ Table and hospitality. Industrial towns link cooler uplands to river farms. Work
 
 Combined geographic return; separate authorities. Population: 167,300,000.
 
-These are the successor territories of a broken crown, not a single nation. Rival palaces, provincial commands and autonomous ports divide its large coal and petroleum resources. Shared roads and kinship survive beneath customs barriers and foreign-backed claimants.
+Ossavren denotes the territories of a broken crown, not a functioning nation with one army. Ossendrienne remains a vast former capital, while provincial commands, rival courts and autonomous commercial cities control their own taxation and troops. Tressavio trades through Veylac; other districts face Ostrevain or the Seravelle markets. Coal and petroleum resources give competing rulers valuable assets, but tolls, incompatible arrangements and local fighting divide their use. Shared food, family ties and railway habits survive the political fracture. Aggregate military and economic figures measure the whole region's resources; no claimant can simply issue orders to that combined total.
 
 Competing provincial administrations, workshops and military supply; divided coalfields and petroleum districts.
 
@@ -383,7 +383,7 @@ Table and hospitality. Former royal roads carried recipes across a realm now div
 
 National return. Population: 29,300,000.
 
-The southern valley monarchy holds the largest single government in Morholt. Its crown must secure food routes between farming basins and scattered fortresses; huge forest claims do not translate into a dense tax base or a freely deployable army.
+Rovengard is Morholt's largest single monarchy, governed from Arvendal and linked to overseas trade through Halsavik. Eslovanne supplies general engineering, while productive southern districts support farming, food processing and timber industries. Cold northern towns depend on transport from those warmer basins. The crown's practical task is to keep provisions and obligations moving between communities separated by difficult country. Varnesk sells specialist machinery; Halskert and Galdresk are connected through local trade and provisioning routes. Large territorial claims and a substantial population therefore do not translate into an army free to abandon domestic roads, stores and defended settlements.
 
 Valley agriculture, timber and stronghold supply.
 
@@ -432,7 +432,7 @@ Table and hospitality. Sheltered southern valleys support oats, rye, roots and d
 
 National return. Population: 19,700,000.
 
-Mining councils and foundry proprietors govern a league rather than a royal province. Specialist steel and machinery create wealth, but imported food and negotiated convoy protection limit how far the league can act alone.
+Varnesk is a league of mining councils and industrial proprietors meeting at Corsavik. Norsavia's specialist steel and machinery are valued across Morholt, and southern cultivated towns supply part of the league's food. Cold extraction districts still depend on imported grain and negotiated transport. Commercial relationships with Rovengard and the Haldrevik concessions give its firms influence beyond league borders. Industrial owners and municipal councils can agree on a profitable contract more readily than a prolonged foreign campaign. Technical skill is concentrated in workshops and training networks, not evenly distributed through every settlement or available without fuel, materials and labour.
 
 Ore processing, specialist steels, bearings and durable machinery.
 
@@ -481,7 +481,7 @@ Table and hospitality. Mining leagues inherit northern preservation techniques b
 
 National return. Population: 11,200,000.
 
-A wardenship of chartered orders, estates and civilian towns. Houses of medicine and the older arts preserve useful learning without supplying a large magical army. Obligations of shelter and patrol compete with each district’s limited stores.
+Galdresk is a wardenship of chartered orders, estates and civilian towns. Grevallier's medical and teaching institutions and Verniselle's instrument makers give it influence disproportionate to its small industrial base. Farming districts below the colder uplands help provision isolated communities; railways and negotiated access remain essential. Some houses preserve the older arts alongside practical medicine, but genuine practitioners are scarce and do not constitute a mass magical army. Neighbouring rulers value trained personnel and advice. Within Galdresk, obligations of shelter, patrol and care give institutions social authority without making every resident an initiate or every town a monastery.
 
 Field medicine, communications and scholarly traditions.
 
@@ -530,7 +530,7 @@ Table and hospitality. Order houses preserve remedies and practical cookery alon
 
 National return. Population: 18,700,000.
 
-River towns and mill proprietors govern a republic tied to seasonal navigation. Its food valleys are valuable to colder neighbours; spring flood control, pilotage and grain contracts dominate political bargaining.
+Halskert is a republic of river towns, agricultural districts and commercial authorities. Orsendal coordinates government and grain trade; Tresselund manufactures equipment for farms and water works. Productive temperate districts make the republic an important supplier to colder neighbours, while warmer pockets add different crops to its exports. Mill owners, merchants and water authorities bargain over maintenance, freight and taxation. Its transport experience supports defence, but fuel imports and seasonal conditions constrain distant operations. Galdresk buys provisions and trades specialist goods, while Rovengard is both a customer and competitor. Civilian food production is a source of power here, not background scenery.
 
 River freight, milling and agricultural exchange.
 
@@ -579,7 +579,7 @@ Table and hospitality. Seasonal river traffic sustains mills, fisheries and gard
 
 National return. Population: 36,200,000.
 
-A western Vesalian maritime power whose interests face the western ocean. Roughly two thousand kilometres of uplands and intervening governments separate its principal sphere from Veyrasse; it competes with eastern merchants overseas without sharing their local frontier.
+Tervayne is a western Vesalian maritime state whose government and commercial houses occupy Tervessac. Tervassin handles ocean shipping; Brescalle builds marine and civil machinery. Cultivated districts supply provisions while upland towns provide timber and manufactured goods. Its trading networks face Otranto and Morholt across the western ocean, with only indirect connections to the eastern Marches through intervening governments and difficult country. Maritime wealth supports naval supply and overseas influence, not unrestricted inland conquest. Port families, industrial firms and agricultural districts consequently have different priorities, even when foreign merchants describe them collectively as a seafaring people.
 
 Maritime freight, ship maintenance and naval supply.
 
@@ -628,7 +628,7 @@ Table and hospitality. Western ports face a different trading sea from Veyrasse 
 
 National return. Population: 64,000,000.
 
-A northern realm of arsenals, fuel processing and grain districts. Rivalry with Averholt and the bargaining power of military suppliers occupy its government. Road access to Caldrienne exists, but does not turn the eastern Marches into a Vardolian province.
+Vardol is a northern realm centred on Estrevigne's royal and military administration. Caldovre and surrounding cold-country cities concentrate arsenals, engineering and fuel processing; productive southern districts around Belmerac help feed them. The state can support a large military establishment but must also defend long supply routes and its rivalry with Averholt. Caldrienne is reached by the Valdrec road, not held as a subordinate province. Army procurement gives industrial suppliers political influence, while landed and commercial interests negotiate the cost. Its apparent strength therefore rests on maintaining a demanding system of food, fuel and transport rather than manpower alone.
 
 Northern arsenals, estate production and military provisioning; coalfields and fuel refining.
 
@@ -677,7 +677,7 @@ Table and hospitality. Refinery and arsenal towns share a strong canteen traditi
 
 National return. Population: 48,900,000.
 
-An inland realm held together by provincial arrangements and productive basins. It contests influence with Vardol and trades through defended passes toward Karsenne. Provincial councils resist campaigns that would strip local defences to fund distant annexations.
+Averholt is an inland realm held together by provincial bargains. Avercenne conducts common government, Rocavane concentrates mountain engineering, and lower cultivated districts supply the cold upland towns. Rivalry with Vardol competes with domestic defence for resources. Western rail links support trade with Tervayne, while Chalicchio's road reaches Karsenne and the eastern Marches. Provincial institutions protect their own stores and troops, limiting what the central government can concentrate elsewhere. Agricultural merchants, upland industrial firms and landed councils thus contribute different kinds of strength. The realm is a substantial neighbour with internal commitments, not a continent-wide power waiting to absorb every smaller state.
 
 Basin agriculture, internal trade and provincial engineering.
 
@@ -726,7 +726,7 @@ Table and hospitality. Provincial land bargains preserve different kitchens insi
 
 National return. Population: 13,000,000.
 
-The Serevask Republic administers thirteen million people around its surviving civic and industrial districts. It is the remnant of a southern customs federation, never a continental government. Varnelle, Kelbrun and Gavrel administer their own territory, taxation and armed forces. The old federal charter remains an argument over debt and water, not effective authority over them.
+The Serevask Republic governs its own mountain, upland and forest districts from Serevienne. Vallorise remains an important engineering city, connected commercially to the states that once shared a southern basin federation. Varnelle, Kelbrun and Gavrel now levy their own taxes and command their own forces; old charters create claims over debts and water, not effective Serevask sovereignty. The republic retains archives, technical institutions and useful workshops, but has neither the population nor authority of the former union. Its citizens include mountain households dependent on lower provisions and lowland manufacturers dependent on cross-border customers. It has never governed Vesalius as a whole.
 
 Civil administration, filtration and chemical workshops, repair shops and commercial services.
 
@@ -775,7 +775,7 @@ Table and hospitality. The old Serevask customs federation joined four southern 
 
 National return. Population: 20,800,000.
 
-The delta authorities gained effective independence from Serevask as rebuilding debts and customs disputes broke the old basin federation. Port and water boards bargain with merchants and troops; river access makes their policies consequential far upstream.
+Varnelle is a delta state administered through port, water and commercial authorities centred on Varnessa. Serravole's shipping and Ceralvigne's engineering connect cultivated forest districts with overseas markets. Independence from Serevask followed disputes over reconstruction debts and customs after the former federation ceased functioning. Railway and business relationships survived that break. Merchants and water boards have considerable influence, while military establishments defend strategic approaches rather than replace civilian government everywhere. Rivessac, Kelbrun and Gavrel supply neighbouring markets. Control of freight and water makes Varnelle consequential to inland customers, but those customers remain separate political communities.
 
 Delta freight, customs, filtration and processing trades.
 
@@ -824,7 +824,7 @@ Table and hospitality. Delta rice, fisheries and freight markets furnished the f
 
 National return. Population: 17,600,000.
 
-Upriver councils and plantation interests govern separately from Serevask. Rubber chemistry, filtration and agricultural exports bring revenue, while estate labour obligations and downstream water demands provoke persistent disputes.
+Kelbrun is an independent state of councils and powerful plantation interests governed from Kelbrienne. Oreviano's rubber chemistry and filtration industries turn cultivated resources into valuable manufactured exports. Seasonal uplands supply grain and livestock alongside the wetter districts' plantation products. Estate labour obligations and commercial access shape politics as much as formal council debates. Serevask is a former federal partner and continuing industrial customer; Varnelle and Calvernis provide other trading connections. Army posts secure routes and production districts, but the country's influence chiefly rests on useful materials, technical knowledge and agricultural trade. Its population does not share one estate, employer or social standing.
 
 Upriver freight, plantation produce and agricultural machinery.
 
@@ -873,7 +873,7 @@ Table and hospitality. Upriver gardens and plantation labour communities mix bas
 
 National return. Population: 7,000,000.
 
-Chartered march houses retain their own levies and recognise only limited common obligations. Their earlier partnership in the southern federation left shared debts and roads, not obedience to Serevask. Small industrial centres depend on negotiated access through their neighbours.
+Gavrel is a group of chartered march houses with limited common institutions at Gavrielle. Each house retains its own courts and levies; Mesrienne's workshops and local markets connect their economies without erasing that autonomy. Former federal links to Serevask survive as railways, debts and commercial relationships. Varnelle and the southern cantons offer additional buyers for agricultural and forest products. Local guarantors and patronage matter to travel and trade because no single ministry controls every transaction. The combined return describes their shared resources, while actual military cooperation depends on agreements among houses rather than an automatic unified command.
 
 March provisioning, rural estates and frontier workshops.
 

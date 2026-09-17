@@ -19,3 +19,7 @@ The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tabl
 ## Revision 40
 
 One political entry now combines government, economy, military, older arts and cuisine. Ten generic geographic entries and 328 repetitive settlement names have been replaced; stable identifiers retain continuity. The 51 remaining exact duplicate settlement descriptions have also been rewritten. The World view no longer embeds duplicate nation catalogues or the complete reference. Short-road zoom visibility, gesture rendering and portrait caching have been revised. Publish portrait.png and sw.js alongside the new index and records.
+
+## Revision 41
+
+All settlement and political descriptions reviewed; random civic notes replaced with individual place accounts. Map detail uses one global visibility hierarchy, and nearby settlements no longer suppress each other. Existing geography, routes, census, capacity figures and story state are preserved. Cuisine remains within political records.

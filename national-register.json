@@ -52,17 +52,18 @@
       "specialties": "Heavy engineering, railway equipment and general manufactures; coal and processed fuel exports",
       "constraints": "Provincial consent slows concentration; major arsenals and railway junctions remain irreplaceable targets.",
       "older_arts": "Court examination offices and provincial registries preserve records; access varies by patron.",
-      "description": "The crown is a compact among old provinces: its armies and foundries are enormous, but provincial estates bargain over every exceptional levy. Rail contracts and coal exports hold the monarchy together more reliably than court ceremony.",
+      "description": "Veldrassen is a composite monarchy whose mountain court at Cavrelisse presides over provinces ranging from tropical cultivation to cold industrial uplands. Mondessore's locomotive works and a large railway economy give the crown considerable military weight; provincial estates nevertheless control much of the revenue and recruitment on which it depends. The lowlands sell food and forest products uphill, while machinery and government contracts travel back down. Coal exports and heavy engineering sustain foreign influence. Court ceremony presents this diversity as unity, but extraordinary levies still require bargaining. Cervaud is a neighbouring buffer and customer, not a province awaiting effortless annexation.",
       "food": {
         "id": "veldrassen",
         "name": "Veldrassen",
         "tradition": "Otrantian plateau and basin",
-        "history": "A composite crown includes humid lowlands, high terraces and temperate uplands; imperial-looking court service conceals many provincial kitchens.",
+        "history": "A composite crown includes humid lowlands, high terraces and temperate uplands; formal court service conceals many provincial kitchens.",
         "everyday": "Maize polenta with beans and mushroom gravy in the uplands; rice replaces maize in irrigated lowland districts.",
         "hospitality": "Braised beef with red wine and layered herb pasta; provincial delegates insist on different cheeses.",
         "drink": "Plateau beer, lowland cane drink and coffee at the court.",
         "daily_life": "Altitude matters as much as latitude. Mountain towns import much of their grain, while court menus display produce from every province as a claim to unity."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "ostrevain",
@@ -111,7 +112,7 @@
       "specialties": "Grain distribution, military stores and arsenal production",
       "constraints": "Mass manpower outstrips motor transport; imported precision machinery constrains arsenal expansion.",
       "older_arts": "Estate households preserve healing and harvest observances; arsenal physicians record unusual cases, usually through the patron who brings the subject to them.",
-      "description": "Royal commissioners are consolidating an agricultural monarchy into an arsenal state. Landowners favour grain exports; army purchasers want controlled prices and labour for new factories. The resulting dispute reaches from village granaries to the court.",
+      "description": "Ostrevain is an agricultural monarchy attempting to turn crop surpluses and a large population into industrial military strength. Orsevigne holds the royal administration; Tessarone concentrates arsenal work, supported by plantation and farming railways. Landed families retain influence over recruitment and produce, while royal commissioners favour factories and central procurement. Its armed forces can draw many soldiers, but transport and imported precision equipment constrain their deployment. Cervaud offers a market and a political buffer. In daily life the contrast is between estate authority, regimented industrial wards and expanding commercial towns, rather than between a uniformly modern capital and an empty countryside.",
       "food": {
         "id": "ostrevain",
         "name": "Ostrevain",
@@ -121,7 +122,8 @@
         "hospitality": "Stuffed roast fowl, squash dumplings and nut pastries.",
         "drink": "Brown beer and lightly fermented fruit drinks.",
         "daily_life": "Soldiers carry toasted grain and hard cheese; wealthy tables emphasise fresh meat and fruit that has not endured a convoy journey."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "rovessara",
@@ -170,7 +172,7 @@
       "specialties": "Precision instruments, electrical apparatus and overseas commerce",
       "constraints": "Trade interruption threatens fuel and food imports; its skilled workforce is difficult to replace.",
       "older_arts": "Institutes and hospitals collect documented cases; evidence is better organised than practitioner supply.",
-      "description": "Merchant councils govern a commercial republic whose banks finance shipping and precision workshops. Foreign clients need its instruments and engines, but the republic depends on open sea lanes and negotiated access to raw materials.",
+      "description": "Rovessara is a merchant republic governed through commercial councils. Bellacenne houses finance and administration, Avellori supplies precision instruments and electrical apparatus, and Pellavore connects both to overseas buyers. Temperate farming districts, seasonal lowlands and a dry interior give its domestic economy several distinct faces. Banks and shipping houses can finance projects far beyond the republic, but they cannot manufacture uninterrupted sea lanes or unlimited raw materials. Its strength lies in skilled production, credit and trade rather than the largest army. Inland towns consequently matter as food suppliers and customers, not merely as lesser copies of its fashionable port cities.",
       "food": {
         "id": "rovessara",
         "name": "Rovessara",
@@ -180,7 +182,8 @@
         "hospitality": "Rice cooked in seafood stock, fine stuffed pasta and chilled fruit creams in wealthy city cafés.",
         "drink": "Bitter coffee, aperitif wine and citrus cordial.",
         "daily_life": "Fresh oil, mountain butter and imported spice coexist rather than defining one uniform national cuisine. Ice houses and refrigerated warehouses support the richest urban tables."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "brannervaux",
@@ -229,7 +232,7 @@
       "specialties": "Water engineering, agricultural processing and industrial chemistry",
       "constraints": "Water allocation and estate vetoes complicate mobilisation; river freight is sensitive to damaged locks.",
       "older_arts": "Water boards retain old records of divination and flood omens beside their engineering archives. Practical credibility depends on repeated results, not an inherited title.",
-      "description": "City charters, landed estates and river authorities divide power in a federation confined to its own basins. Locks, flood protection and water allocation bind members together while producing repeated disputes about who pays upstream and who benefits downstream.",
+      "description": "Brannervaux is a federation of basin cities, landed districts and water authorities. Rivessole hosts common government; Molessac's pumping and engineering works turn the management of scarce or badly timed water into a major export industry. Productive cultivation coexists with dry rain-shadow districts dependent on imported food and controlled supplies. Members cooperate over transport, maintenance and defence while retaining powers that can delay a common decision. Trade with Veldrassen's factories and neighbouring agricultural states is extensive. The federation is confined to its own territories: neither its river institutions nor its name imply rule over Otranto as a whole.",
       "food": {
         "id": "brannervaux",
         "name": "Brannervaux",
@@ -239,7 +242,8 @@
         "hospitality": "River-fish dumplings in herb butter and plum-filled pastries.",
         "drink": "Pear cider, mild beer and roasted-barley drinks.",
         "daily_life": "Floodplain gardens supply onions and beans. Fish smoking and grain warehouses make the river ports vital even to communities beyond the floodplain."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "cervaud",
@@ -288,7 +292,7 @@
       "specialties": "Frontier logistics, armaments repair and estate agriculture",
       "constraints": "Arms and credit depend on competing patrons; prolonged mobilisation drains agricultural labour.",
       "older_arts": "Border houses keep private warding manuscripts and employ occasional itinerant readers. Rival patrons make access political and discourage sharing successful practice.",
-      "description": "A hereditary border duchy buys security by bargaining with Veldrassen and Ostrevain. Its fortified frontier supports a substantial officer class; competing patrons and military purchasing make nominal independence expensive.",
+      "description": "Cervaud is a hereditary duchy whose court and officer institutions occupy Charvessant. Vezarolle's workshops support an army unusually important to public life, but cultivated lowlands, forest produce and upland farming sustain the civilian population. The duke bargains with larger Veldrassen and Ostrevain rather than enjoying complete strategic independence. Their credit and arms help preserve the frontier while giving foreign purchasers influence. Border markets also connect Cervaud with smaller neighbouring authorities. Rank and military service carry prestige, yet merchants, farmers and workshop households have livelihoods extending across the same boundaries that officers are expected to defend.",
       "food": {
         "id": "cervaud",
         "name": "Cervaud",
@@ -298,7 +302,8 @@
         "hospitality": "Roast pork with sour cherries and crisp potato cakes.",
         "drink": "Dark beer, cherry spirit and heavily sweetened coffee for visitors.",
         "daily_life": "Ration bread and pickled vegetables dominate remote posts. Market-day sausages are a small luxury that survives frequent changes of uniform."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "veylac",
@@ -347,7 +352,7 @@
       "specialties": "Metallurgy, machine tools and factory production",
       "constraints": "Exposed frontier factories and food imports limit a long war despite excellent machine-tool output.",
       "older_arts": "Factory reading societies debate arcane reports alongside medicine and natural philosophy. Private experiments remain scattered, with no dependable industrial application.",
-      "description": "An industrial republic governed through municipal and commercial representation, with a long argument over labour’s place in that settlement. Machine-tool exports pay for essential imports; disputed frontiers consume revenue that towns want spent on housing and power.",
+      "description": "Veylac is an industrial republic centred on Alescogne's councils, Bellorante's machine-tool works and Rionvesse's ocean trade. Municipal and commercial representation gives organised towns influence, while labour's place in government remains contested. Temperate farming districts provision cold upland factories; dry interior towns specialise in transport and practical manufacturing. Skilled metallurgy gives the republic valuable exports and military equipment, but imported food and fuel remain strategic dependencies. Ossavren's divided neighbours create both markets and frontier risks. The republic's cities are linked by production and commerce, without sharing one uniform climate, social hierarchy or relationship with factory employers.",
       "food": {
         "id": "veylac",
         "name": "Veylac",
@@ -357,7 +362,8 @@
         "hospitality": "Cheese-filled pasta browned in butter; orchard-fruit tart at civic dinners.",
         "drink": "Pale beer, plum cordial and café coffee.",
         "daily_life": "Cooperative dining rooms compete with private factory canteens. Imported coastal fish is popular but more expensive than the local root-and-grain staples."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "ossavren",
@@ -406,7 +412,7 @@
       "specialties": "Competing provincial administrations, workshops and military supply; divided coalfields and petroleum districts",
       "constraints": "Combined rival returns; no common treasury, staff or army. Rail gauges, tolls and civil fighting fragment capacity.",
       "older_arts": "The fallen crown’s collections are divided among rival courts and displaced teachers. Competing claims to authentic manuscripts matter more than any central school.",
-      "description": "These are the successor territories of a broken crown, not a single nation. Rival palaces, provincial commands and autonomous ports divide its large coal and petroleum resources. Shared roads and kinship survive beneath customs barriers and foreign-backed claimants.",
+      "description": "Ossavren denotes the territories of a broken crown, not a functioning nation with one army. Ossendrienne remains a vast former capital, while provincial commands, rival courts and autonomous commercial cities control their own taxation and troops. Tressavio trades through Veylac; other districts face Ostrevain or the Seravelle markets. Coal and petroleum resources give competing rulers valuable assets, but tolls, incompatible arrangements and local fighting divide their use. Shared food, family ties and railway habits survive the political fracture. Aggregate military and economic figures measure the whole region's resources; no claimant can simply issue orders to that combined total.",
       "food": {
         "id": "ossavren",
         "name": "Ossavren successor territories",
@@ -416,7 +422,8 @@
         "hospitality": "Lamb with preserved lemon and almonds; former court households still serve rosewater rice pudding.",
         "drink": "Mint tea in warm valleys, mountain beer inland and sweet wine in surviving vineyard districts.",
         "daily_life": "Smuggling brings salt, oil and family recipes across front lines. An abundant banquet may conceal shortages in a neighbouring claimant’s territory."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "rovengard",
@@ -465,7 +472,7 @@
       "specialties": "Valley agriculture, timber and stronghold supply",
       "constraints": "Winter supply and dispersed valley garrisons consume most available transport.",
       "older_arts": "Valley households preserve protective rites and stories of gifted healers. Winter isolation keeps instruction local, and court inquiries rarely reach every settlement.",
-      "description": "The southern valley monarchy holds the largest single government in Morholt. Its crown must secure food routes between farming basins and scattered fortresses; huge forest claims do not translate into a dense tax base or a freely deployable army.",
+      "description": "Rovengard is Morholt's largest single monarchy, governed from Arvendal and linked to overseas trade through Halsavik. Eslovanne supplies general engineering, while productive southern districts support farming, food processing and timber industries. Cold northern towns depend on transport from those warmer basins. The crown's practical task is to keep provisions and obligations moving between communities separated by difficult country. Varnesk sells specialist machinery; Halskert and Galdresk are connected through local trade and provisioning routes. Large territorial claims and a substantial population therefore do not translate into an army free to abandon domestic roads, stores and defended settlements.",
       "food": {
         "id": "rovengard",
         "name": "Rovengard",
@@ -475,7 +482,8 @@
         "hospitality": "Venison with sour red berries and cream, followed by baked curd cheese.",
         "drink": "Small beer, berry cordial and hot herb infusions.",
         "daily_life": "A winter pantry matters more than a fashionable fresh ingredient. Household drying racks and communal bake days bind city relatives to valley farms."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "varnesk",
@@ -524,7 +532,7 @@
       "specialties": "Ore processing, specialist steels, bearings and durable machinery",
       "constraints": "Specialist foundries are strong; grain imports and seasonal routes make an extended blockade dangerous.",
       "older_arts": "Guarded workshops sometimes collaborate with rare practitioners; no standardised arcane production.",
-      "description": "Mining councils and foundry proprietors govern a league rather than a royal province. Specialist steel and machinery create wealth, but imported food and negotiated convoy protection limit how far the league can act alone.",
+      "description": "Varnesk is a league of mining councils and industrial proprietors meeting at Corsavik. Norsavia's specialist steel and machinery are valued across Morholt, and southern cultivated towns supply part of the league's food. Cold extraction districts still depend on imported grain and negotiated transport. Commercial relationships with Rovengard and the Haldrevik concessions give its firms influence beyond league borders. Industrial owners and municipal councils can agree on a profitable contract more readily than a prolonged foreign campaign. Technical skill is concentrated in workshops and training networks, not evenly distributed through every settlement or available without fuel, materials and labour.",
       "food": {
         "id": "varnesk",
         "name": "Varnesk",
@@ -534,7 +542,8 @@
         "hospitality": "Beef baked beneath a thick salt-and-rye crust, opened for foundry feasts.",
         "drink": "Dark rye beer; strong black tea bought through concession merchants.",
         "daily_life": "Canteens portion meat by shift entitlement. A late supply train can turn dumplings into thin flour soup without stopping the furnaces."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "galdresk",
@@ -583,7 +592,7 @@
       "specialties": "Field medicine, communications and scholarly traditions",
       "constraints": "Small arsenals and scattered teaching houses constrain scale; trained wardens excel locally rather than in mass campaigns.",
       "older_arts": "Small warden teaching houses preserve field traditions; skilled practitioners remain exceptionally rare.",
-      "description": "A wardenship of chartered orders, estates and civilian towns. Houses of medicine and the older arts preserve useful learning without supplying a large magical army. Obligations of shelter and patrol compete with each district’s limited stores.",
+      "description": "Galdresk is a wardenship of chartered orders, estates and civilian towns. Grevallier's medical and teaching institutions and Verniselle's instrument makers give it influence disproportionate to its small industrial base. Farming districts below the colder uplands help provision isolated communities; railways and negotiated access remain essential. Some houses preserve the older arts alongside practical medicine, but genuine practitioners are scarce and do not constitute a mass magical army. Neighbouring rulers value trained personnel and advice. Within Galdresk, obligations of shelter, patrol and care give institutions social authority without making every resident an initiate or every town a monastery.",
       "food": {
         "id": "galdresk",
         "name": "Galdresk",
@@ -593,7 +602,8 @@
         "hospitality": "Trout in cream with dill-like herbs, served with small sourdough loaves and berry compote.",
         "drink": "Unsweetened herbal tea and berry wine on feast days.",
         "daily_life": "Healing traditions do not make every herb magical. Supplies are dated and inspected; winter hospitality can impose a serious obligation on an isolated house."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "halskert",
@@ -642,7 +652,7 @@
       "specialties": "River freight, milling and agricultural exchange",
       "constraints": "Seasonal navigation and dependence on imported fuels limit sustained operations away from rivers.",
       "older_arts": "Pilots and mill communities preserve water omens and inherited household protections. Navigation still relies on soundings, charts and experienced crews.",
-      "description": "River towns and mill proprietors govern a republic tied to seasonal navigation. Its food valleys are valuable to colder neighbours; spring flood control, pilotage and grain contracts dominate political bargaining.",
+      "description": "Halskert is a republic of river towns, agricultural districts and commercial authorities. Orsendal coordinates government and grain trade; Tresselund manufactures equipment for farms and water works. Productive temperate districts make the republic an important supplier to colder neighbours, while warmer pockets add different crops to its exports. Mill owners, merchants and water authorities bargain over maintenance, freight and taxation. Its transport experience supports defence, but fuel imports and seasonal conditions constrain distant operations. Galdresk buys provisions and trades specialist goods, while Rovengard is both a customer and competitor. Civilian food production is a source of power here, not background scenery.",
       "food": {
         "id": "halskert",
         "name": "Halskert",
@@ -652,7 +662,8 @@
         "hospitality": "Butter-fried freshwater fish, green peas and a layered berry cake during the short summer.",
         "drink": "Oat beer and tart orchard cider where fruit grows.",
         "daily_life": "Smokehouses fill before freeze-up. Spring fish suppers mark reopened navigation and the arrival of news as much as the season’s catch."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "tervayne",
@@ -701,7 +712,7 @@
       "specialties": "Maritime freight, ship maintenance and naval supply",
       "constraints": "Sea lanes carry its power; inland movement is slow and there is no through railway to eastern Vesalius.",
       "older_arts": "Port archives collect travellers’ accounts and sea traditions; private patrons sponsor a few readers, whose conflicting methods do not form a naval service.",
-      "description": "A western Vesalian maritime power whose interests face the western ocean. Roughly two thousand kilometres of uplands and intervening governments separate its principal sphere from Veyrasse; it competes with eastern merchants overseas without sharing their local frontier.",
+      "description": "Tervayne is a western Vesalian maritime state whose government and commercial houses occupy Tervessac. Tervassin handles ocean shipping; Brescalle builds marine and civil machinery. Cultivated districts supply provisions while upland towns provide timber and manufactured goods. Its trading networks face Otranto and Morholt across the western ocean, with only indirect connections to the eastern Marches through intervening governments and difficult country. Maritime wealth supports naval supply and overseas influence, not unrestricted inland conquest. Port families, industrial firms and agricultural districts consequently have different priorities, even when foreign merchants describe them collectively as a seafaring people.",
       "food": {
         "id": "tervayne",
         "name": "Tervayne",
@@ -711,7 +722,8 @@
         "hospitality": "Mussels in cream and white wine, followed by baked custard scented with imported spice.",
         "drink": "Coastal cider, amber beer and port-house coffee.",
         "daily_life": "Sailors’ inexpensive meals favour salted fish; fresh shellfish signals a short journey from water to table. Inland villages are less maritime than the national reputation suggests."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "vardol",
@@ -760,7 +772,7 @@
       "specialties": "Northern arsenals, estate production and military provisioning; coalfields and fuel refining",
       "constraints": "The Averholt frontier and northern garrisons tie down formations; large armies cannot simply redeploy to the Marches.",
       "older_arts": "Military physicians record unusual perception when it comes to their attention. Household and estate traditions survive outside those files, often deliberately.",
-      "description": "A northern realm of arsenals, fuel processing and grain districts. Rivalry with Averholt and the bargaining power of military suppliers occupy its government. Road access to Caldrienne exists, but does not turn the eastern Marches into a Vardolian province.",
+      "description": "Vardol is a northern realm centred on Estrevigne's royal and military administration. Caldovre and surrounding cold-country cities concentrate arsenals, engineering and fuel processing; productive southern districts around Belmerac help feed them. The state can support a large military establishment but must also defend long supply routes and its rivalry with Averholt. Caldrienne is reached by the Valdrec road, not held as a subordinate province. Army procurement gives industrial suppliers political influence, while landed and commercial interests negotiate the cost. Its apparent strength therefore rests on maintaining a demanding system of food, fuel and transport rather than manpower alone.",
       "food": {
         "id": "vardol",
         "name": "Vardol",
@@ -770,7 +782,8 @@
         "hospitality": "Beef in dark beer with prune gravy and steamed bread; elaborate layered honey cake.",
         "drink": "Rye beer and sour cherry cordial.",
         "daily_life": "Shift whistles govern supper in the industrial wards. Kitchen gardens and pickled cabbage cushion disruptions to the grain trains."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "averholt",
@@ -819,7 +832,7 @@
       "specialties": "Basin agriculture, internal trade and provincial engineering",
       "constraints": "Provincial bargains and the Vardol frontier absorb resources; interior transport has limited spare capacity.",
       "older_arts": "Provincial collections preserve distinct healing and warding customs. Teachers exchange access through local patrons rather than a realm-wide curriculum.",
-      "description": "An inland realm held together by provincial arrangements and productive basins. It contests influence with Vardol and trades through defended passes toward Karsenne. Provincial councils resist campaigns that would strip local defences to fund distant annexations.",
+      "description": "Averholt is an inland realm held together by provincial bargains. Avercenne conducts common government, Rocavane concentrates mountain engineering, and lower cultivated districts supply the cold upland towns. Rivalry with Vardol competes with domestic defence for resources. Western rail links support trade with Tervayne, while Chalicchio's road reaches Karsenne and the eastern Marches. Provincial institutions protect their own stores and troops, limiting what the central government can concentrate elsewhere. Agricultural merchants, upland industrial firms and landed councils thus contribute different kinds of strength. The realm is a substantial neighbour with internal commitments, not a continent-wide power waiting to absorb every smaller state.",
       "food": {
         "id": "averholt",
         "name": "Averholt",
@@ -829,7 +842,8 @@
         "hospitality": "Stuffed river pike and pastry filled with poppy seed, served when a provincial house receives important guests.",
         "drink": "Apple wine in orchard districts; malt beer in the colder basins.",
         "daily_life": "Public ovens are meeting places as well as fuel economies. A dispute over milling rights can be discussed for an entire supper without anyone naming its political purpose."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "serevask",
@@ -878,7 +892,7 @@
       "specialties": "Civil administration, filtration and chemical workshops, repair shops and commercial services",
       "constraints": "The republic controls only its own districts. Varnelle, Kelbrun and Gavrel have separate forces and revenues; old charter claims confer no authority over them.",
       "older_arts": "Republican archives retain fragments of the former basin federation’s case records. Its clerks cannot compel the successor authorities to supply missing material.",
-      "description": "The Serevask Republic administers thirteen million people around its surviving civic and industrial districts. It is the remnant of a southern customs federation, never a continental government. Varnelle, Kelbrun and Gavrel administer their own territory, taxation and armed forces. The old federal charter remains an argument over debt and water, not effective authority over them.",
+      "description": "The Serevask Republic governs its own mountain, upland and forest districts from Serevienne. Vallorise remains an important engineering city, connected commercially to the states that once shared a southern basin federation. Varnelle, Kelbrun and Gavrel now levy their own taxes and command their own forces; old charters create claims over debts and water, not effective Serevask sovereignty. The republic retains archives, technical institutions and useful workshops, but has neither the population nor authority of the former union. Its citizens include mountain households dependent on lower provisions and lowland manufacturers dependent on cross-border customers. It has never governed Vesalius as a whole.",
       "food": {
         "id": "serevask",
         "name": "Serevask Republic",
@@ -888,7 +902,8 @@
         "hospitality": "Duck with bitter orange, accompanied by layered rice scented with preserved peel.",
         "drink": "Strong black tea; fermented rice drink at harvest gatherings.",
         "daily_life": "The remnant government maintains public grain kitchens near its ministries. Former federal recipes outlast the tax union, while each successor claims its own version is the original."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "varnelle",
@@ -937,7 +952,7 @@
       "specialties": "Delta freight, customs, filtration and processing trades",
       "constraints": "Delta channels, customs dependence and disputed upstream water access constrain resilience.",
       "older_arts": "River pilots and household healers trade practical lore around the delta. Port boards occasionally investigate a useful claim without endorsing an entire tradition.",
-      "description": "The delta authorities gained effective independence from Serevask as rebuilding debts and customs disputes broke the old basin federation. Port and water boards bargain with merchants and troops; river access makes their policies consequential far upstream.",
+      "description": "Varnelle is a delta state administered through port, water and commercial authorities centred on Varnessa. Serravole's shipping and Ceralvigne's engineering connect cultivated forest districts with overseas markets. Independence from Serevask followed disputes over reconstruction debts and customs after the former federation ceased functioning. Railway and business relationships survived that break. Merchants and water boards have considerable influence, while military establishments defend strategic approaches rather than replace civilian government everywhere. Rivessac, Kelbrun and Gavrel supply neighbouring markets. Control of freight and water makes Varnelle consequential to inland customers, but those customers remain separate political communities.",
       "food": {
         "id": "varnelle",
         "name": "Varnelle",
@@ -947,7 +962,8 @@
         "hospitality": "Crab broth with fine rice noodles and citrus leaf; confectioners sell sesame brittle.",
         "drink": "Iced citrus water where ice can be bought; tea and light cane spirit.",
         "daily_life": "Fish sauce is an everyday seasoning rather than a luxury. Flood years alter rice prices across all four successor states."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "kelbrun",
@@ -996,7 +1012,7 @@
       "specialties": "Upriver freight, plantation produce and agricultural machinery",
       "constraints": "Plantation levies are numerous but unevenly equipped; imported engines and fuel remain essential.",
       "older_arts": "Estate remedies coexist with workers’ inherited protective practices. Private collections are accessible through personal trust, while plantation authorities are wary of independent followings.",
-      "description": "Upriver councils and plantation interests govern separately from Serevask. Rubber chemistry, filtration and agricultural exports bring revenue, while estate labour obligations and downstream water demands provoke persistent disputes.",
+      "description": "Kelbrun is an independent state of councils and powerful plantation interests governed from Kelbrienne. Oreviano's rubber chemistry and filtration industries turn cultivated resources into valuable manufactured exports. Seasonal uplands supply grain and livestock alongside the wetter districts' plantation products. Estate labour obligations and commercial access shape politics as much as formal council debates. Serevask is a former federal partner and continuing industrial customer; Varnelle and Calvernis provide other trading connections. Army posts secure routes and production districts, but the country's influence chiefly rests on useful materials, technical knowledge and agricultural trade. Its population does not share one estate, employer or social standing.",
       "food": {
         "id": "kelbrun",
         "name": "Kelbrun",
@@ -1006,7 +1022,8 @@
         "hospitality": "Pork braised in cane syrup and sour fruit; rice cakes filled with ground nuts for festivals.",
         "drink": "Roasted-grain coffee substitutes and cane spirit; estate houses serve imported coffee.",
         "daily_life": "Labourers eat at field shelters from wrapped parcels. Plantation owners’ lavish fruit tables conceal the uneven access to meat and purchased grain."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "gavrel",
@@ -1055,7 +1072,7 @@
       "specialties": "March provisioning, rural estates and frontier workshops",
       "constraints": "Household loyalties divide command; repair workshops cannot replace large losses of imported equipment.",
       "older_arts": "March houses preserve family books of omens and protections. Their secrecy divides instruction as effectively as the frontier divides military command.",
-      "description": "Chartered march houses retain their own levies and recognise only limited common obligations. Their earlier partnership in the southern federation left shared debts and roads, not obedience to Serevask. Small industrial centres depend on negotiated access through their neighbours.",
+      "description": "Gavrel is a group of chartered march houses with limited common institutions at Gavrielle. Each house retains its own courts and levies; Mesrienne's workshops and local markets connect their economies without erasing that autonomy. Former federal links to Serevask survive as railways, debts and commercial relationships. Varnelle and the southern cantons offer additional buyers for agricultural and forest products. Local guarantors and patronage matter to travel and trade because no single ministry controls every transaction. The combined return describes their shared resources, while actual military cooperation depends on agreements among houses rather than an automatic unified command.",
       "food": {
         "id": "gavrel",
         "name": "Gavrel",
@@ -1065,7 +1082,8 @@
         "hospitality": "Spit-roasted kid with nut paste, followed by dense dried-fruit bread.",
         "drink": "Sour milk, herbal tea and plum wine.",
         "daily_life": "Hospitality includes bread broken by the host, but its quality distinguishes an honoured guest from a hired messenger. Poor tenants substitute lentils for goat."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "other-otranto-400",
@@ -1125,7 +1143,8 @@
         "drink": "",
         "daily_life": ""
       },
-      "government": "Coastal canton assemblies and inland land courts; shared toll negotiations, separate treasuries and troops."
+      "government": "Coastal canton assemblies and inland land courts; shared toll negotiations, separate treasuries and troops.",
+      "editorial_revision": 41
     },
     {
       "id": "other-otranto-700",
@@ -1185,7 +1204,8 @@
         "drink": "",
         "daily_life": ""
       },
-      "government": "Independent principalities, free market charters and estate courts; no common sovereign."
+      "government": "Independent principalities, free market charters and estate courts; no common sovereign.",
+      "editorial_revision": 41
     },
     {
       "id": "other-otranto-1100",
@@ -1245,7 +1265,8 @@
         "drink": "",
         "daily_life": ""
       },
-      "government": "Three principal water authorities with smaller charter towns; a binding water compact but no unified army."
+      "government": "Three principal water authorities with smaller charter towns; a binding water compact but no unified army.",
+      "editorial_revision": 41
     },
     {
       "id": "other-otranto-1450",
@@ -1305,7 +1326,8 @@
         "drink": "",
         "daily_life": ""
       },
-      "government": "Harbour republics and estate courts linked by a maritime commercial convention."
+      "government": "Harbour republics and estate courts linked by a maritime commercial convention.",
+      "editorial_revision": 41
     },
     {
       "id": "other-morholt-1880",
@@ -1365,7 +1387,8 @@
         "drink": "",
         "daily_life": ""
       },
-      "government": "Rival concession houses under separate charters; settlement councils retain residence and market law."
+      "government": "Rival concession houses under separate charters; settlement councils retain residence and market law.",
+      "editorial_revision": 41
     },
     {
       "id": "other-morholt-2190",
@@ -1425,7 +1448,8 @@
         "drink": "",
         "daily_life": ""
       },
-      "government": "Independent fortress wardens bound to civilian provisioning charters and a seasonal convoy muster."
+      "government": "Independent fortress wardens bound to civilian provisioning charters and a seasonal convoy muster.",
+      "editorial_revision": 41
     },
     {
       "id": "other-morholt-2630",
@@ -1485,7 +1509,8 @@
         "drink": "",
         "daily_life": ""
       },
-      "government": "Hereditary estate courts, independent fishing charters and Varkessant’s municipal port government."
+      "government": "Hereditary estate courts, independent fishing charters and Varkessant’s municipal port government.",
+      "editorial_revision": 41
     },
     {
       "id": "other-vesalius-2790",
@@ -1545,7 +1570,8 @@
         "drink": "",
         "daily_life": ""
       },
-      "government": "Fortified lordships and town liberties; overlapping foreign patronage, no regional crown."
+      "government": "Fortified lordships and town liberties; overlapping foreign patronage, no regional crown.",
+      "editorial_revision": 41
     },
     {
       "id": "other-vesalius-2790-1410",
@@ -1605,7 +1631,8 @@
         "drink": "",
         "daily_life": ""
       },
-      "government": "Market cantons, landed councils and surviving military governorships; a common weights agreement only."
+      "government": "Market cantons, landed councils and surviving military governorships; a common weights agreement only.",
+      "editorial_revision": 41
     },
     {
       "id": "other-vesalius-3160",
@@ -1665,7 +1692,8 @@
         "drink": "",
         "daily_life": ""
       },
-      "government": "Port communes and agricultural districts linked by pilotage agreements; separate administrations."
+      "government": "Port communes and agricultural districts linked by pilotage agreements; separate administrations.",
+      "editorial_revision": 41
     },
     {
       "id": "karsenne",
@@ -1724,7 +1752,8 @@
         "hospitality": "Covered rye pie of smoked goat and mushrooms; the richest versions have a deep butter crust.",
         "drink": "Whey drinks and small beer during work; juniper spirit after the shift.",
         "daily_life": "Lower valleys supply potatoes and cabbage, upland pastures cheese. Bought flour and coastal salt become costly when freight negotiations fail."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "caldrienne",
@@ -1783,7 +1812,8 @@
         "hospitality": "Roast goose with apple stuffing and buckwheat cakes, served at estate weddings and officers’ banquets.",
         "drink": "Dark malt beer; plum spirit poured in small glasses.",
         "daily_life": "Army purchasing can empty market stalls before a mobilisation. Housewives argue over whether a proper sour-pot should contain tomato, an imported coastal habit."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "veyrasse",
@@ -1842,7 +1872,8 @@
         "hospitality": "Auvrienne veal in mustard cream, with buttered noodles; pear pastries follow at prosperous tables.",
         "drink": "Chicory coffee in workshops; real coffee, apple cider and dry valley wine in better-supplied houses.",
         "daily_life": "Fresh fish is ordinary near Serravonne, expensive uphill after a disrupted train. Station households stretch yesterday’s bread into broth dumplings."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "calvernis",
@@ -1901,7 +1932,8 @@
         "hospitality": "Saffron rice with shellfish and a separately served herb oil; expensive spice marks a host’s means.",
         "drink": "Dry white wine, anise cordial and strong coffee.",
         "daily_life": "Dockside stalls sell fried small fish in paper. A merchant’s citrus preserves may have travelled farther than the guests eating them."
-      }
+      },
+      "editorial_revision": 41
     },
     {
       "id": "ceralte",
@@ -1960,7 +1992,8 @@
         "hospitality": "Whole baked rockfish under a salt crust, opened at the table; almond-and-citrus cakes for shore leave and family feasts.",
         "drink": "Weak beer, diluted island wine and lemon syrup when supplies allow.",
         "daily_life": "Islanders know several preparations of the same catch. Grain shortages change the size of a loaf before they change a naval ration."
-      }
+      },
+      "editorial_revision": 41
     }
   ],
   "qualifications": {
@@ -1972,5 +2005,6 @@
     "coverage": "Food and fuel coverage compare normal domestic annual supply to normal domestic consumption; above 100 percent permits exports. These are not stored months of supply, and import partners or transport may fail. National food and fuel returns reconcile against planetary production. Fuel is coal-equivalent energy and food is grain-equivalent nourishment; these aggregates do not make fuel grades or foods interchangeable. Distribution losses and reserve replenishment absorb the modest global surplus.",
     "scope": "Ossavren and smaller-jurisdiction entries are geographic sums across separate authorities, not united states. Cressault is already within Veyrasse population and resources; the disputed corridor has no additional national army or treasury. Serevask counts loyal districts only.",
     "updates": "Return epoch matches the current census. Annual output trend describes ordinary net capacity change, not guaranteed growth. War, closures, purges, investment, losses and political changes require revised returns."
-  }
+  },
+  "edition": "41"
 }
