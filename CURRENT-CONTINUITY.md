@@ -1,10 +1,12 @@
-# Current continuity — revision 42
+# Current continuity — revision 43
 
 This checkpoint records the latest enacted scene. Read later exact transcript entries before continuing. Documentation work itself advances no story time.
 
 ## Current scene and clock
 
-At the Collegium council room in Auvrienne, Galahad has received the noble grant and expedition approval. Four weeks (28 local days) have passed since the petition meeting, which occurred ten months and eighteen days after enrolment. The current scene is therefore 35 days after revision 41’s checkpoint, not 35 days after the petition. Departure is twenty-one days after this approval. No departure has happened.
+Galahad is at the Serravonne railway-yard standoff. He returned by train, bought coffee and a snack, and found Corva supporting injured Veskan. Orvasse and the Scerault gang threaten an indebted railway-patrol subordinate; Veskan was shot in the upper arm and struck across the face after respectfully intervening and offering his week's wages. Conscious; possible concussion, no definitive examination. Galahad is uninjured and unarmed and has demanded an explanation. No retaliation, new gunshot, treatment or fight resolution has occurred. No police are visible; the player established corrupt protection, but exact recipients and evidence remain unidentified.
+
+The prior approval checkpoint was 35 local days after revision 41. Departure was set for 21 days after approval and is now approximately three weeks away. Exact elapsed travel days and fare are unrecorded; do not invent a new month/date or apply population growth twice.
 
 He is approximately two local years old and still growing. The last exact measurement was eight and a half feet (2.59 m); no new measurement has been supplied. All ageing and local dates use local time. Do not assume a thirty-day month or invent an absolute galactic date.
 
@@ -12,13 +14,13 @@ He is approximately two local years old and still growing. The last exact measur
 
 The grant recognises **Lord Galahad Orsival**, founder and head of a minor hereditary noble house; **Lady Corva Orsival, Mother of the House**; and **Sir Veskan Orsival, Father of the House**. Both parents are legally included. Neither is regent; familial titles do not confer troop command or a separate knighthood.
 
-The estate comprises **56 hectares near Serravonne**, including meadow, woodland, cultivated ground, an older dwelling and outbuildings needing attention. Lawful tenancies and existing occupancies are protected. No ownership of inhabitants or independent military jurisdiction is granted. The estate has not been visited; exact boundaries, repair costs, household staff and estate income remain unestablished. No family move or reconciliation has been enacted.
+The estate comprises **56 hectares near Serravonne**, including meadow, woodland, cultivated ground, an older dwelling and outbuildings needing attention. Lawful tenancies and existing occupancies are protected. No ownership of inhabitants or independent military jurisdiction is granted. The estate has not been visited; exact boundaries, repair costs, household staff and estate income remain unestablished. No family move or reconciliation has been enacted. Neither parent knows about the petition or grant; the visit was intended as a surprise.
 
 Corva and Veskan remain married but live separately after the death of their shared, unnamed son in the established Hunter railway attack. Orsival is Veskan’s surname retained by Corva; her birth surname remains unknown. Corva contains grief and invests in practical care; Veskan revisits guilt over an unforeseeable loss. Neither reaction proves fault or unequal affection. Galahad is their son, not a replacement for the child who died. Corva was his principal daily caregiver; Veskan remained a trusted paternal presence. Calls continue at least fortnightly, and each has received 180 lorrats to date.
 
 ## Expedition and service
 
-The Margrave sponsors a **one-year worldwide Collegium expedition**, with Galahad as **scholarly director**. First leg: **Ceralte**. The wider plan covers all three inhabited continents, subject to foreign access and transport arrangements. Departure is in twenty-one days. No complete route, booked passage, additional escort or travel equipment has yet been awarded.
+The Margrave sponsors a **one-year worldwide Collegium expedition**, with Galahad as **scholarly director**. First leg: **Ceralte**. The wider plan covers all three inhabited continents, subject to foreign access and transport arrangements. Departure is approximately three weeks away, anchored to the approval date. No complete route, booked passage, additional escort or travel equipment has yet been awarded.
 
 The **6,000-lorrat appropriation** is a separate accountable fund for transport, instruments, salaries and expenses. Nothing has yet been charged against it. Findings go to the Chancery and are preserved at the Collegium under confidentiality restrictions; military and diplomatic reports receive separate handling. There is no blanket transfer of every future independent invention. Galahad offered service conditional on the patronage now granted; do not fabricate additional signed oaths or obligations.
 
@@ -52,9 +54,9 @@ One lorrat equals 100 brins. A skilled worker’s approximate 25-lorrat monthly 
 | Four-week stipend | +60 |
 | Three charms: 60 gross less Dorlac’s 15 | +45 |
 | Materials and incidental expenses | −12 |
-| **Personal balance** | **473** |
+| **Balance before return-travel expenses** | **473** |
 
-The earlier 100-lorrat bribe was already deducted before the 560 balance; do not deduct it again. Patronage replaces the original 60-lorrat commission fee: its advance stays returned and the remaining 30 is cancelled. There is no outstanding fee or restored advance. Three new sales bring the recorded total to 43 charms. Other pieces are consigned, not cash. No new family remittance or estate income is credited. Expedition funds are not personal wealth.
+The earlier 100-lorrat bribe was already deducted before the 560 balance; do not deduct it again. Patronage replaces the original 60-lorrat commission fee: its advance stays returned and the remaining 30 is cancelled. There is no outstanding fee or restored advance. Three new sales bring the recorded total to 43 charms. Other pieces are consigned, not cash. No new family remittance or estate income is credited. Expedition funds are not personal wealth. Train fare, coffee and snack must be reconciled once, without inventing a previously agreed price; 473 is the last settled balance, not a claim that the journey was free.
 
 ## Possessions and research
 
@@ -92,7 +94,7 @@ The active continuous atlas is `world-map.json`; the separate old regional map i
 
 Three inhabited continents: Otranto, Morholt and Vesalius. Boreal and Austral polar landmasses have no recorded permanent population. World circumference is approximately 36,000 km. Coordinates use an equirectangular projection; polar distortion is expected. Rivers, relief and climate must remain physically coherent when editing.
 
-The dated census population is **1,209,200,000**, across 33 non-overlapping census groups. Current combined annual trend: **+4,147,120**. Cities are subsets, not extra population. Cressault's 180,000 are already included in Veyrasse. The former southern Serevask federation’s figure is split among four independent administrations; it never governed Vesalius. New settlements draw from uncharted/rural returns. The census epoch is the evening ten months and eleven days after enrolment. The current scene is 35 local days later; see the dated demographic projection rather than treating an estimate as a new enumeration.
+The dated census population is **1,209,200,000**, across 33 non-overlapping census groups. Current combined annual trend: **+4,147,120**. Cities are subsets, not extra population. Cressault's 180,000 are already included in Veyrasse. The former southern Serevask federation’s figure is split among four independent administrations; it never governed Vesalius. New settlements draw from uncharted/rural returns. The census epoch is the evening ten months and eleven days after enrolment. The latest numerical projection is at 35 local days after that epoch; return travel has since occurred without a precise day count; see the dated demographic projection rather than treating an estimate as a new enumeration.
 
 All character ages, local history and population rates use **local elapsed years**. The system is in Imperium Nihilus; there is no uniform clock ratio across Nihilus. The private handover preserves agreed offworld timing and concealed experiments. Do not divide Galahad's existing age or history by a time-conversion ratio.
 
@@ -106,3 +108,8 @@ Galahad remains a perfected proto-Primarch with stable integration and a modest 
 The exact archive preserves earlier errors and proposals verbatim. This checkpoint supersedes earlier claims of pending nobility, unresolved surname registration, an unfinished examination and 560 current funds. Historical reports remain historical; do not rewrite dialogue to fit later developments.
 
 The 35-day trend estimate is **1,209,597,666** people, recorded in population-current.json. The map’s original census remains a dated reference, not an assertion that no births occurred. Future projections must start at that original epoch or deliberately rebase once.
+
+
+## Physiology and leadership references
+
+The reader physiology now records integrated Primaris-derived functions and explicit endurance estimates. Private physiology43.md distinguishes campaign assumptions from canon. The leadership and noble legal reference is VEYRASSE-LEADERSHIP.md; concealed characterisation and dark-protagonist tone remain in the private handover. No coup, succession crisis or Hunter attack is scheduled.

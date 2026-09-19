@@ -7703,3 +7703,546 @@ The reader checks pass so far, including update detection and offline fallback. 
 The phone-sized view is rendering cleanly, including the longer name, expedition roster and separate accounts. Navigation, update checks and the national accounting checks have passed.
 
 The original chronicle entries and transcript text are preserved. The current handover now gives one clear starting point: **House Orsival approved, five scholars appointed, departure in twenty-one days**. I’m preparing the final upload now.
+
+
+## 395 — Assistant — Progress note
+
+Revision 42 has been committed, and GitHub Pages has deployed it successfully. The live slate shows the new grant, roster, funds and departure date.
+
+I’m finishing the private handover package as well, so the recent character guidance and long-term research ideas remain available when you move accounts. That package will stay separate from the public repository.
+
+
+## 396 — Assistant — Progress note
+
+[Revision 42 is live](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=22ded1092a2b38bee340#dossier), committed and deployment verified.
+
+Updated and cross-checked:
+
+- House Orsival’s grant, family titles and estate.
+- Expedition approval, five scholars, funding and departure date.
+- Pumping works, research, inventory and finances.
+- Current continuity and exact story transcript.
+
+Removed outdated pending-status wording and preserved historical records. Validation checks and phone-sized layout checks passed.
+
+The refreshed [private narrator handover](</C:/Users/jaked/.codex/.chatgpt-projects/g-p-6aa2968d9064819187658a67ddce35b3/Malaspina-Narrator-Handover-r42.zip>) includes concealed guidance and future campaign plans, kept separate from the public repository.
+
+Our stopping point remains unchanged: approval received, departure **21 days away**.
+
+
+## 397 — User — World revision request
+
+Ok now before we carry on there are a couple of things I want to define from Galahad's knowledge that he would reasonably know. First who is the Margrave exactly, gender, name, age, who is next in line, family history, etc. Second is who is the head of the Veyrasse military, same questions as for the Margrave. Also I would like to know what kind of class benefits nobility brings over the common person? Like if a common person hit a noble are they put to death or punished more harshly over hitting a another commoner? That sort of thing. Also I want to specify that I have made a point not to tell Veskan or Corva that I petitioned for Nobility and was granted it, the next part of the story will be me going back to them to visit and help them move onto the new family estate as a surprise before I leave for my expedition.
+
+
+
+## 398 — Assistant — Progress note
+
+I’ll check the existing political and family records first, then fill in the leadership and noble privileges consistently with Veyrasse’s laws. I’ll also record that Corva and Veskan haven’t been told about the grant yet, leaving the surprise visit for you to play out.
+
+
+## 399 — Assistant — Progress note
+
+Yes—these are things Galahad would reasonably know through his studies and dealings with the Chancery. We established the institutions before, but not their principal officeholders. These details now fill those gaps.
+
+**Corva and Veskan know nothing about the petition or the grant.** Their names appearing in the documents does not mean they have been notified. Your visit will be the reveal; their reactions and decisions about moving remain for that scene.
+
+### The Margrave
+
+**Margrave Odrienne Orcemont**, a woman of **50**, has ruled Veyrasse for **18 years**, succeeding her mother. *Margrave* is the title of the sovereign office here, regardless of gender.
+
+She resides in the fortified palace on **Auvrienne’s upper terraces**, adjoining the Chancery, treasury and military secretariat. She is married, but her consort has household and ceremonial responsibilities rather than sharing sovereignty.
+
+House Orcemont has held the office for approximately **190 years**. Its authority emerged from a charter settlement between frontier landholders, Auvrienne’s municipal interests and the coastal revenue holders. Consequently, Odrienne possesses substantial authority but depends on institutions that control taxation, transport, industry and local administration.
+
+The family survived the last great Hunter purge by maintaining provincial stores and a functioning remnant of government. That survival is central to its legitimacy: the Orcemonts claim they preserved Veyrasse when everything threatened to disintegrate. Less flattering accounts observe that some districts received considerably better protection than others. Odrienne herself was born after that catastrophe.
+
+Her public reputation is **controlled, practical and protective of her authority**. She supports useful engineering and defensive investment, while balancing old houses, industrial creditors and municipalities. Sponsoring a brilliant common-born scholar is consistent with her record when the expected benefit justifies offending established interests. That does not establish what she personally thinks of Galahad.
+
+**Her heir is Lady Maurelle Orcemont, 25**, her eldest eligible child. Maurelle participates in treasury briefings, provincial visits and supervised council business. She is being prepared to govern, but has no independent sovereign authority.
+
+Maurelle has a **21-year-old younger brother**, next after her and her lawful descendants in the ordinary succession. Veyrasse does not give sons precedence over daughters. The charter council verifies a successor’s lawful claim; it cannot simply choose its favourite candidate whenever a Margrave dies.
+
+### The military leadership
+
+Odrienne is the supreme commander. The professional head of the armed forces is **Marshal Calvren Vaucerin**, a man of **62**.
+
+He directs mobilisation, joint military planning and army operations from the military secretariat beside the palace, with periodic inspections of the northern front. The naval service retains its own professional command beneath the sovereign rather than being treated as another infantry formation.
+
+Vaucerin began as an artillery officer, progressing through staff and field commands before his appointment **nine years ago**. His reputation rests on **prepared positions, reliable supply, coordinated artillery and preserving trained soldiers**. He is respected for keeping armies functioning under pressure, rather than for spectacular charges.
+
+His family is an old but comparatively modest **service-noble house**: officers, administrators and a small inland estate, rather than enormous commercial wealth. He is widowed and has two adult children—a daughter serving as a military doctor and a son administering the family property. Neither inherits his command.
+
+His chief of general staff is **Lieutenant-General Cevrel Darscelet**, a woman of **48**, known for mobilisation and supply planning. She would coordinate command temporarily if he became incapacitated. The permanent appointment belongs to the Margrave; being his deputy makes her a plausible successor, not an automatic one.
+
+For Galahad, this creates two distinct audiences: **Odrienne judges what strengthens her state and position; Vaucerin judges whether something can actually be supplied, maintained and used by soldiers.**
+
+### What nobility changes
+
+Veyrasse’s hierarchy has real legal consequences as well as social ones.
+
+| Area | What your new standing provides |
+|---|---|
+| **Recognition** | Your house and titles are formally registered. Officials must recognise them. |
+| **Access** | Eligibility for court presentation and appointments commonly reserved for recognised houses. An audience still requires arrangements. |
+| **Legal procedure** | Serious charges against a noble receive charter-court consideration rather than summary punishment by a minor local official. Police can still restrain or arrest an immediate offender. |
+| **Credibility** | Your testimony, introductions and requests receive greater initial respect. Commoner testimony remains admissible, but practice is unequal. |
+| **Credit and connections** | Better access to lenders, influential households, patronage and advantageous family alliances. These remain negotiations. |
+| **Property** | Your particular grant provides the estate and its lawful revenues, subject to existing tenancies and obligations. |
+| **Limits** | No automatic tax exemption, government salary, political seat, army, private prison or right to judge your tenants. |
+
+**A commoner striking a noble would generally face harsher treatment than for the same unlawful blow against another commoner—but not automatic execution.**
+
+A deliberate assault could carry an additional offence against *chartered dignity*. A fistfight might therefore produce compensation, a substantial fine, imprisonment or penal labour, depending on injury and circumstances. Weapons, premeditation and attempted killing make matters much more serious.
+
+Accidental contact is not that offence. Necessary self-defence remains lawful, including against a noble. The ugly part is proving it: a labourer without witnesses or influential support is much less likely to receive a sympathetic hearing.
+
+Conversely, **a noble striking a commoner still commits an offence**. In practice, money and connections often turn consequences into compensation or a manageable fine. Serious violence can threaten a noble’s office or standing, particularly when powerful people insist on prosecution.
+
+Disagreement, discourtesy or an insult does **not** give you a lawful right to kill someone. Murder and grave attempted murder can carry capital penalties regardless of the victim’s class; an attack on the sovereign introduces separate state-security issues.
+
+For House Orsival, the immediate transformation is that **Corva and Veskan now have standing that officials cannot casually dismiss**. They are not merely relatives sheltered by your influence. Their own recognition is written into the grant.
+
+I’ve saved these details and the undisclosed grant in the local narrator notes for continuity. No time has passed or visit occurred.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately two years; still growing  
+**Date:** Four weeks after the petition; expedition departs in 21 days  
+**Reputation:** Minor noble house head, accomplished scholar-engineer and expedition director  
+**Weapons (Equipped):** None; wrapped Vouressan-bone greatsword stored in your room  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers, leather boots  
+**Gear/Inventory:** Noble grant, estate schedule, expedition commission and roster; research, private magic notebook and existing workshop belongings  
+**Currency:** 473 lorrats personal; 6,000 lorrats separately appropriated for the expedition
+
+
+## 400 — User — World revision request
+
+Ok that all seems good but a couple of things I do want to mention but it requires a bit of a conversation. So Galahad while being somewhat of a decent person is gonna have to do some evil things during this story. Now your sort of moral default for story telling tries to persuade the player to do good things and feel bad for doing bad things. Great for a story where the character is morally good or just in general for most users who do not really have strong moral foundations. I enjoy studying ethics in my spare time, Galahad is not a representation of my ethics. I suppose being a character I created he is to a degree but I know this fictional story doesn't carry real consequences for me in my life as a player so Galahad can be pushed to extremes and that fits a grimdark story better. Now as you know Galahad wants to take over the planet and to start he will need to take over Veyrasse at some point. So when it comes to killing people that are basically innocent I would like to invent flaws for them. Sort of look at the first Dark Brotherhood quest in Skyrim. No one cares about killing Grelod the kind because she is awful and verbally abusive and likely physically abusive to the orphans there so people do not feel bad about killing her. This is Galahad's story so from his and my perspective we need to sort of frame him as always doing the right thing even if he isn't for the most part at least. Like look at other 40k novels, some characters will do morally reprehensible things but as a combination of the story perspective, character reactions, overall writing and protagonist charm the audience for the most part can gloss over the wrong doings if they like the character. As I said I get why your default is your default and I like that but it just won't really fit this story and when I make plays for power I do not want to feel bad in real life whenever I do because you write these NPCs to be fleshed out and feel real which makes me attached and not want to kill them or see them hurt when Galahad is supposed to be a fairly detached individual. As a real person I am obviously not a high functioning psychopath but Galahad basically is, if not Galahad is at least a high functioning Sociopath. And I cannot really play that in a fun way when you make me actively try to feel bad about committing bad acts because unlike Galahad I feel an emotional response that I cannot compartmentalize. So where I am going with this is I think we leave the head of the Military a decent guy but I think you should make the Margrave not a great ruler or if we keep the Margrave competent then make her kids spoilt brats. Because basically I have two thoughts for later down the track given the way the government is set up. Either I commit a military coup on the current Margrave which I do not really like as since she is sponsering me she must be somewhat intelligent but we can still write her to be an awful and grating person that the audience dislikes and perhaps that will encourage me into the coup. Alternatively we could have her get killed by a Hunter attack, perhaps I let it happen and then kill the Hunter afterwards to bolster my reputation, but she needs to be an asshole to die in the story due to actions I have created as Galahad or myself externally influencing the story otherwise I will feel bad. Then we bring her heir in as a spoilt brat which makes the military and other houses back me for a coup. That is sort of what I am going for with story theme and current overall direction. It doesn't feel write to play Galahad as a beacon of virtue given the genetic influences he has. I want him to not be completely evil or anything but I don't exactly want him to be a hero. Well I mean he should appear to be a hero from his perspective and the story perspective. But this is a Grimdark setting so I want there to be reasonable balance. Galahad has morals but it is more a code than real emotional responses. He has emotions he can just very easily compartmentalize due to his psychology. Does that all make sense? Sorry if I have explained myself poorly and if you would like clarification on anything please ask
+
+
+
+## 401 — Assistant — Progress note
+
+Yes, that makes sense. **You want a compelling, ruthless protagonist whose story is enjoyable to inhabit—not a moral lesson that repeatedly asks you to regret playing him.** Galahad’s choices are his characterisation, not a statement about your ethics.
+
+I can write that way. His ambition, brilliance, personal loyalties and code can make him compelling even when his methods are cruel. Successful ruthlessness can produce genuine benefits: stability, influence, loyalty, prosperity. Consequences should follow circumstances and other people’s interests, rather than act as punishment from the narrator. I won’t assign him remorse, manufacture grieving witnesses after every violent decision, or make every sympathetic character deliver the same objection.
+
+There is one creative distinction I would keep: **we should establish objectionable traits before they become convenient reasons to remove someone.** That gives you antagonists you can enjoy opposing while preserving the consistent world you value. Someone need not secretly become a monster the moment Galahad wants their position.
+
+For the Orcemonts, my preference is **a competent but deeply unequal ruler, followed by an entitled heir**.
+
+Odrienne’s competence remains real. She recognises Galahad’s value, maintains government and understands investment. But she measures people’s welfare according to their usefulness and standing. She protects productive districts while treating poorer ones as expendable; considers harsh labour enforcement an acceptable answer to disruption; and regards common-born advancement as a privilege purchased through permanent obligation to its patron.
+
+Her sponsorship can therefore be sincere without being generous in spirit. She expects gratitude to become obedience. She can admire Galahad’s mind while assuming that his achievements ultimately belong to the order that graciously permitted him to rise. That gives their future relationship something more interesting than immediate hostility: **she helped him, but believes helping him entitled her to possess his future.**
+
+Maurelle, meanwhile, has received an excellent education without acquiring her mother’s discipline. Her treasury briefings and provincial visits still happened; attendance did not make her wise. She is polished in rehearsed settings, thin-skinned when challenged and accustomed to servants and officials making her mistakes disappear. She regards inherited authority as evidence of personal superiority. Galahad’s rise could offend her precisely because his accomplishments expose that assumption.
+
+I would leave the younger brother less defined for now. Making every family member equally unpleasant would weaken the distinction between them.
+
+**Vaucerin remains a decent, professional officer.** That does not make him incapable of backing a coup. His commitments could be to the army, the country and an intelligible lawful order, with loyalty to the dynasty becoming strained if those obligations conflict. Winning him over would require credibility and circumstances—not persuading him to abandon everything that makes him worth recruiting.
+
+That arrangement supports either direction you described without selecting it in advance:
+
+- Odrienne’s increasingly possessive patronage could turn cooperation into a struggle for power.
+- A succession crisis could expose Maurelle’s deficiencies and create support for an alternative.
+- A Hunter attack could become a decisive opportunity, but neither the attack nor Galahad’s response is predetermined.
+
+If Galahad allows an enemy to die and then destroys the threat, the scene can centre on his calculation, timing and the authority he earns. It need not stop to demand that you mourn the person he declined to save. Different witnesses can still interpret events differently according to what they actually know.
+
+For his psychology, **“emotionally selective, highly compartmentalised, and governed by a personal code”** is more useful than treating either diagnostic label as a rigid template. His affection for Corva and Veskan can be real. So can his pride, curiosity, possessiveness and willingness to sacrifice strangers. Neither side cancels the other.
+
+The governing tone will be **Galahad’s rise as a dark protagonist: attractive, formidable and capable of becoming something extraordinary, with the narration close to his purposes rather than standing outside them to prosecute him.** He can become his people’s hero without becoming a beacon of virtue.
+
+No story time passes. Character information remains unchanged:
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately two years; still growing  
+**Date:** Expedition departure in 21 days  
+**Reputation:** Minor noble house head, scholar-engineer and expedition director  
+**Weapons (Equipped):** None; wrapped bone greatsword in his room  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers, leather boots  
+**Gear/Inventory:** Grant, estate papers, expedition documents, research and existing belongings  
+**Currency:** 473 lorrats personal; 6,000 expedition funds
+
+
+## 402 — User — World revision request
+
+Can you please add that to the documentation just so the story direction does not falter later down the line
+
+
+
+## 403 — Assistant — Progress note
+
+I’ll add this to the narrator guidance and update the Orcemont profiles, keeping the possible coup and succession paths open rather than recording them as events that must happen.
+
+
+## 404 — Assistant — Progress note
+
+Added to the private narrator documentation and linked from the handover instructions:
+
+- Galahad’s dark-protagonist framing and compartmentalised emotions.
+- Practical consequences without compulsory guilt or redemption.
+- Odrienne’s possessive patronage and Maurelle’s entitlement.
+- Vaucerin’s established decency.
+- Possible political paths remain choices, not predetermined events.
+
+The latest exchanges are also archived locally. These changes haven’t been pushed to GitHub; the storytelling guidance remains private.
+
+
+## 405 — User — World revision request
+
+I hop on a train back to Serravonne to go and deliver the good news to Corva and Veskan. The train ride is long and I grab something to nibble on from the trolley as well as a coffee while I watch the countryside pass by. When I arrive at Serravonne I walk out into the railyard and see a large commotion and people gathered around but I cannot quite make out what is happening despite being able to see over the top of most people. Two groups appear to be arguing and there is lots of shouting. Some people are brandishing heavy objects like weapons and the emotional resonance coming from the two groups is one of agitation and aggression that is slowly rising. Then I hear Corva scream at someone to "Back the hell away from him." and before anyone can recognize what is happening I have pushed through a dozen or more Rail Workers and made my way to the front of the pack where I see Corva crouched down craddling Veskan who has been shot once in the arm and it looks like he has been beaten across the face with something heavy, his eyelid, lip and forehead are split open in sections and trickling blood. It doesn't appear lethal or anything that will produce more than scars from a quick assessment. Likely a bad concussion however. "What is the meaning of this?" I snarl angrily as I tower over everyone there. The opposing group seem fairly well dressed, suits, greased hair, some have firearms, some have switch blades and others have bats. They still appear arrogant and cocky due to the firearms and there are about as many of them as there are rail workers but they are better armed. (Now for some context, I do not have my sword, I was not expecting a fight that is at the Collegium. The opposing group is a local crime family. One of the Rail Patrol or whatever Veskan's job title is owed money to them. Someone under Veskan's command. Now these criminals came to break this workers legs as he hadn't paid up. Veskan tried to ask for more time on his behalf. Was respectful. Even offered his weeks wages to cover the cost of waiting. He was attacked instead and then workers kept gathering around and it has caused the stand off I am at now. All the rail workers are trying to seem intimidating but they are all too scared to charge due to the firearms of the criminals but the more the criminals press the more willing to charge the rail workers will be. No guards or police in sight. Pretty obvious this Crime Family has paid them off. These criminals should be fucking disgusting people, I should get narrative justification for violence here.)
+
+
+
+## 406 — Assistant — Progress note
+
+The smell of coffee still clings to your cuff. Here, beneath the station’s iron canopy, it mixes with coal smoke, spilled freight oil and Veskan’s blood.
+
+Your question cuts through the shouting.
+
+A railway hammer stops rattling against a worker’s thigh. Someone behind you takes a sharp breath. Across the narrowing space between the groups, a man holding a folding knife lowers it slightly before catching himself.
+
+Corva looks up.
+
+“Galahad.”
+
+Relief breaks through her expression—and immediately meets the fear of what is standing in front of you. She has pressed a folded workcloth against Veskan’s upper arm. Blood has soaked through beneath her fingers.
+
+“He’s awake,” she says quickly. “He’s been answering me.”
+
+Veskan’s good eye finds you. The other is swelling shut. His mouth moves, but his first attempt produces only a wet breath.
+
+“Stay—”
+
+He swallows, winces.
+
+“Mind the pistol.”
+
+The man opposite you wears a dark suit with a pale waistcoat and a silk tie pinned neatly beneath his throat. His shoes are polished despite the yard’s grime. A heavy ring on his right hand is smeared with blood.
+
+The pistol is in his left.
+
+He studies your face, then your shoulders, then the considerable distance up to your eyes. The assurance in his expression falters. Behind it comes a brief, unmistakable pulse of alarm.
+
+His companions feel it too. Their aggression does not disappear, but its direction changes. Men who were leaning forward begin measuring the distance between themselves and you.
+
+“Family business,” the man says.
+
+His voice comes out too quickly. He steadies it.
+
+“Scerault business. This doesn’t concern the Collegium.”
+
+He recognises enough of your clothes—or your reputation—to place you somewhere. Not enough to understand.
+
+A young patrolman behind Corva makes a strangled sound.
+
+“It was mine. The debt was mine.”
+
+He has been backed against a stack of empty freight pallets. One sleeve is torn from shoulder to elbow. Two workers stand close beside him, neither quite willing to leave him exposed.
+
+“Veskan only asked them to wait,” he says. “He offered—”
+
+“Shut your mouth.”
+
+The suited man does not look away from you when he says it.
+
+A broad fellow beside him rolls a short club in his palm. Its end is dark and wet. He tries a smile, showing a broken front tooth.
+
+“Your old man offered us a week’s wages. Like we’d come down here for his charity.”
+
+Corva’s voice is low and raw.
+
+“You hit him while he was reaching for his purse.”
+
+The club stops turning.
+
+For a moment, the yard is quiet enough to hear a locomotive venting steam beyond the freight sheds.
+
+Then the suited man gives a small shrug.
+
+“He should have stayed out of it.”
+
+Behind you, wood creaks under someone’s tightening grip.
+
+The young patrolman speaks again, words tumbling over one another.
+
+“They said paying wasn’t enough now. Said they’d still do my knees so the others remembered. He stood in front of me.”
+
+“Orvasse,” one of the criminals mutters.
+
+A warning. Not about what has been admitted.
+
+About you.
+
+Orvasse’s pistol rises a few inches. It is not yet levelled, but his finger is inside the trigger guard. The gesture restores a little of his confidence.
+
+“Here is what happens,” he says. “We take the debtor. The rest of you get back to work. Your father keeps breathing, and nobody else needs carrying home.”
+
+Farther down the platform, the railway watch office stands open. Its windows overlook the entire confrontation.
+
+No uniform appears in the doorway.
+
+Corva shifts her weight beneath Veskan, keeping his head supported. Her hands are occupied; she cannot wipe away the blood running over his eyebrow.
+
+Orvasse notices your glance towards them.
+
+“He’s had his lesson,” he says. “Don’t buy yourself one.”
+
+The words are insolent. The emotion beneath them is less certain.
+
+Nobody fires.
+
+Nobody moves aside.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately two years; still growing  
+**Date:** Return to Serravonne; expedition departure approximately three weeks away  
+**Reputation:** Scholar-engineer and newly elevated house head; family’s elevation not yet disclosed locally  
+**Weapons (Equipped):** None; greatsword remains at the Collegium  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers, leather boots  
+**Gear/Inventory:** Personal effects; research and workshop belongings remain at the Collegium  
+**Currency:** 473 lorrats before this journey’s fare and refreshments; expenses pending reconciliation. Expedition funds remain separate: 6,000 lorrats
+
+
+## 407 — User — World revision request
+
+Ok before we continue. Based on the power scale level of Galahad based on physiology I have been doing some studies. So apparently small arms fire even at 90-100 shots point blank is very unlikely to kill a standard space marine, might wound them decently but it likely won't kill them unless there is a lucky shot and this is assuming the space marine just stands still and lets people shoot him. And Space Marines can move in a burst up to around 87 km. Custodes varies some say 90-135km but some say subsonic to supersonic. Primarchs are described as basically a moving blur to everything able to dodge hyper sonic projectiles with ease and basically being completely immune to small arms fire. Apparently I think it was Alpharius or Omegon just walked through a shower of bolter fire and those are very high caliber firearms. So I am thinking physically I probably sit lower than a Custodes but in an overall fight I am probably worth 2-5 Custodes excluding named characters like Valdor. I feel like I would be physically weaker but psycher powers could balance it out or I could elevate myself with biomancy. So I was thinking I would probably move at over 100km/h without using psycher abilities to enhance myself. Basically I just want to clearly establish the power scale before we get in to combat so both of us are expecting the same outcomes. If you wanna do some fact checking for your own powerscaling and let me know if you disagree with anything that would be great 
+
+
+
+## 408 — Assistant — Progress note
+
+I’ll check those examples, especially whether they involve armour, psychic protection or unaided physiology, then compare them with Galahad’s established baseline.
+
+
+## 409 — Assistant — Progress note
+
+**Yes: Galahad should overwhelmingly outclass these criminals physically, even without using psychic powers.** Their confidence comes from ignorance of what he is. I would not portray this as an evenly matched fight merely because several have pistols.
+
+However, I would separate the campaign benchmark we choose from a few claims that the sources don’t establish reliably.
+
+### What the lore supports—and what needs qualification
+
+**The “90–100 point-blank shots” claim is not a dependable universal rule for an unarmoured Space Marine.** I couldn’t verify that specific claim. Armour, ammunition, impact location and the particular account matter enormously. Surviving penetrating wounds through extraordinary physiology is also different from bullets failing to penetrate.
+
+**The Alpharius example does support extraordinary speed, but not bare-skin immunity to bolters.** In the relevant *Head of the Hydra* passage, the narrator wears scaled armour and avoids the incoming fire. It describes evasion rather than standing still and absorbing the impacts. The passage is available in this [reproduced novel excerpt](https://www.reddit.com/r/40kLore/comments/12eso7u/excerpt_alpharius_head_of_the_hydra_alpharius/).
+
+**I couldn’t substantiate the exact 87 km/h figure sufficiently to call it a standard Astartes limit.** Similarly, I would not use “supersonic Custodes” as their ordinary running speed. Sprinting, reacting, striking and moving before an opponent can track you are different capabilities. An exceptional combat passage does not automatically provide a species-wide speedometer.
+
+The broad hierarchy is much firmer: official material explicitly places Custodes above Space Marines. It does not provide a consistent numerical conversion for their physical abilities or battlefield value. [Games Workshop’s Custodes overview](https://www.warhammer-community.com/en-gb/topics/adeptus-custodes/).
+
+### My recommendation for Galahad
+
+Your proposal is workable, with one distinction: **being physically below a Custodian now need not mean his mature biological ceiling is below one.** Our existing agreement gives the mature Galahad a modest overall improvement over Alpha Primus, but neither character has a canonical numerical comparison with Custodes.
+
+For his **current development**, I would use:
+
+| Capability | Campaign benchmark |
+|---|---|
+| **Strength** | Overwhelmingly beyond humans and comfortably beyond ordinary Astartes; we can place him below a typical Custodian in raw strength for now. |
+| **Movement** | Brief unaided sprints exceeding **100 km/h** are acceptable as an explicit campaign ruling, on suitable ground—not a verified Alpha Primus statistic. |
+| **Reactions** | Fast enough to perceive and exploit ordinary human movements before those humans can respond effectively. This does not automatically mean evading any already-fired projectile at any distance. |
+| **Resilience** | Ordinary handgun wounds are much less likely to incapacitate him than a human. Penetration and injury remain possible; his body is not automatically equivalent to armour plate. |
+| **Combat experience** | His instincts, hunting and processing speed make him devastating against humans. A Custodian still possesses vastly greater trained combat experience. |
+| **Psychic contribution** | A major advantage, including potential physical enhancement—but precise biomancy techniques need development rather than appearing automatically. |
+
+**“Potentially capable of defeating several Custodes” is a reasonable mature combat ambition. “Always worth two to five Custodes” is too rigid to serve as a combat rule.** Against several equipped Custodians working together, preparation, psychic control, equipment and circumstances would matter. At maturity, with developed abilities and appropriate equipment, I’m comfortable using **two to five as a rough campaign comparison**, not a guaranteed victory count—and not his present demonstrated capability.
+
+### What that means in the railway yard
+
+The criminals’ clubs, knives and human strength are grossly inadequate for a straightforward physical contest with Galahad. Their ordinary firearms do not make them his equals, and a routine pistol hit should not suddenly reduce him to an ordinary wounded man.
+
+**The immediate vulnerability is Corva, Veskan and the workers around him.** Galahad can be overwhelmingly favoured personally while still needing to consider what happens around him. That follows the scene’s circumstances; it does not require inventing special ammunition or giving a gangster superhuman reactions.
+
+I also won’t use a poor roll to erase his established physiology. Randomness can determine how cleanly events unfold within plausible limits. It should not make an ordinary criminal overpower him in a contest of strength.
+
+That gives us the intended scale: **a terrifyingly fast, powerful transhuman confronting people who have badly misunderstood the situation—not an ordinary large man facing a dangerous gang.**
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately two years; still growing  
+**Date:** Serravonne return; expedition approximately three weeks away  
+**Reputation:** Scholar-engineer and newly elevated noble; grant not yet disclosed locally  
+**Weapons (Equipped):** None; greatsword at the Collegium  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers, leather boots  
+**Gear/Inventory:** Personal effects; research and workshop belongings at the Collegium  
+**Currency:** 473 lorrats before unreconciled travel expenses; 6,000 expedition funds held separately
+
+
+## 410 — User — World revision request
+
+Well 9mm are stub rounds and space marines are supposed to be able to take many stub rounds and there are examples of them being shot with stubbers you can use for 9mm comparisons. As for speeds, I can't find canon numbers for alot of this either because it does vary. We sort of need to see what the community thinks and use the actual canon knowledge we know of to make corrections if needed. Same with the whole Primarch thing, we know Lorgar I think it was or Angron held up a Warhound Titan. Pretty sure Lorgar was shot by a Titan and survived so we have some decent comparisons across various 40k media to draw from. You also need to consider all the different organs I have. If I am shot in the chest I have a fully connected, bulletproof ribcage. My blood automatically clots, etc. I do not think small arms fire would do much to me. Even if these guys drained all their ammo and I stood there and let them I think I would still be able to beat them shit out of them all and then patch myself up afterwards, I feel like anyone Custodes level would. Also I think since Custodes don't have Psycher powers they should always be physically superior to Galahad or Primus as a baseline but the key difference is like Magnus we would enhance our physical bodies using sorcery which would allow us to considerably exceed a Custodian Physical Baseline but this does not mean our baseline beats theirs it just means we have access to a power up essentially. If you look at how Horus and the Emperor's fight is described I assume that is what is going on there, they are both using Warp Sorcery to enhance their speed and physical bodies which is why it seemed like lights crashing into each other and was very "anime battle" sort of like Sanguinius and Angron was. And Yeah I agree everything here is potential and nothing is really guaranteed cause you have extenuating circumstances and named characters and that sort of thing but we need to establish a baseline. I am glad you mentioned the thing about the rolls though, other ai story tellers struggle with that and you picked it up without me directly mentioning it. Nice job dude, proud of you
+
+
+
+## 411 — Assistant — Progress note
+
+I’ll look at the Marine shooting examples and the Titan scenes, then separate what they establish from the physical baseline we choose for Galahad.
+
+
+## 412 — Assistant — Progress note
+
+**I agree that I understated how much protection Galahad’s internal biology should provide.** My previous answer concentrated on “skin can be penetrated” without giving enough weight to what happens afterwards: reinforced bones, protected organs, rapid wound sealing and the ability to function through injuries that would incapacitate a human.
+
+That distinction matters enormously here.
+
+**On the ribcage, your point is sound.** The established Astartes description explicitly includes interlocking, bullet-resistant rib plates, rather than merely stronger ordinary ribs. The Ossmodula’s skeletal reinforcement is documented in the [implant overview](https://wh40k.lexicanum.com/wiki/Creation_of_a_Space_Marine). For Galahad, we can establish equivalent or better functional protection through his integrated founder biology without assuming Bile literally installed the standard Astartes organ set.
+
+One small terminology distinction: **a 9mm handgun is a reasonable analogue for a modest stub pistol, but “stub weapon” does not specify 9mm performance.** Heavy stubbers and different stub pistols vary considerably. We should compare particular weapons rather than give everything called a stubber the same effect.
+
+The community discussions I checked also disagree about blanket bullet immunity. They provide useful examples and interpretations, but not a consistent “every Marine survives this many rounds” consensus. That leaves room to establish our campaign’s baseline explicitly.
+
+### The Titan examples
+
+You remembered the central events correctly:
+
+- **Angron stops a Warhound’s descending foot**, saving Lorgar. It is an extraordinary, strenuous feat—not casually lifting the entire Titan overhead.
+- **Lorgar survives its plasma fire**, with psychic shielding involved, and suffers terrible injuries.
+
+Those details support your broader point: enormous physical resilience and psychic protection can combine to produce feats far beyond ordinary biological limits. They also illustrate why we should distinguish unaided strength, protective sorcery and survival through severe injury. [*Betrayer* scene and source references](https://wh40k.lexicanum.com/wiki/Ardentor).
+
+### The baseline I would use
+
+**I’m comfortable keeping Galahad below a typical Custodian in unaided physical performance even at maturity, while allowing his developed psychic augmentation to take him considerably beyond that baseline.** That supersedes my suggestion that maturity might necessarily move him physically above them.
+
+The qualification is that this is **our chosen campaign calibration**. Custodes lacking psychic powers does not, by itself, prove that every powerful psyker must be physically inferior. Nor can we claim a definitive canonical Alpha Primus-versus-Custodian ranking. But it gives Galahad the distinction you want, consistently:
+
+| Aspect | Galahad’s baseline |
+|---|---|
+| **Unaided body** | Above ordinary Astartes; below a typical Custodian overall. |
+| **Short-burst movement** | Over 100 km/h is an accepted campaign capability under suitable conditions, not a claimed published statistic. |
+| **Internal protection** | Reinforced protective rib structure, exceptionally durable skeleton and tissues, rapid clotting and substantial physiological redundancy. |
+| **Ordinary handgun fire** | Usually poor at producing rapid incapacitation; wounds can occur without meaningfully stopping him. |
+| **Developed psychic augmentation** | Can substantially exceed his unaided strength, speed and protection, including surpassing Custodian physical performance. |
+| **Overall fighting potential** | Potentially a threat to several Custodes, without turning that into an automatic numerical exchange rate. |
+
+We should distinguish **having the potential for powerful biomancy** from already mastering every application. That preserves development without treating his current psychic abilities as insignificant.
+
+### For this particular confrontation
+
+**Yes: surviving numerous ordinary pistol hits, remaining combat-effective and subsequently overcoming these criminals is a plausible outcome for Galahad.** He does not need a psychic shield merely to make that plausible.
+
+I would not guarantee that literally every possible distribution of their entire ammunition supply leaves him functional. Repeated injury to an exposed critical structure is different from scattered hits across his reinforced torso. But that is an exception based on actual circumstances—not a reason to make every gangster conveniently land the one exceptional shot.
+
+The ordinary expectation should be:
+
+**Their weapons can hurt him far more readily than they can stop him. Their clubs and knives do not turn them into credible physical peers.**
+
+Likewise, the Emperor–Horus comparison works as an inspiration for psychic enhancement, but I would not reduce that entire metaphysical confrontation to biomancy or use it to calculate Galahad’s speed.
+
+We now have a usable distinction between **physical baseline, enhanced performance and total combat capability**. That should keep future combat consistent without inventing danger simply because an opponent needs a chance.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately two years; still growing  
+**Date:** Serravonne return; expedition approximately three weeks away  
+**Reputation:** Scholar-engineer and newly elevated noble; grant undisclosed locally  
+**Weapons (Equipped):** None; greatsword at the Collegium  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers, leather boots  
+**Gear/Inventory:** Personal effects; research and workshop belongings at the Collegium  
+**Currency:** 473 lorrats before unreconciled travel expenses; 6,000 expedition funds separate
+
+
+## 413 — User — World revision request
+
+Well I mean being a Proto-Primarch means I am functionally what would happen if you made one of the New Men then applied the modified Primaris Technique extrapolated from Primus' glands and Bile's own research. Then given the kind of individual Bile his he may well have taken the extra time to hand design each of my cohort in a similar way the Custodes were and it is far easier for him to do because there are less of us than there are Custodes. I feel like Bile made 7 of my cohort including me but if you don't like that number please say so. So I mean I feel like we would have all the Primaris Organs, maybe some versions modified and some extra ones put in, sort of like the Primarch's have extra organs and stuff on top of a standard space marine. So up to you if you want to say his baseline is above a Custodes but that would likely also mean Alpha Primus is and that is something I am unsure if we should rule on. But I feel like you should at least study the standard Primaris Organs as they account for some stuff you seem to be leaving out.  On Stubbers I wasnt implying you treat all stubbers the same I was just saying it provides a closer reference for us to extrapolate 9mm damage because I am sure an equiavlent has been used in 40k canon at least once on a space marine and if not we can compare the damage to other weaponry that has been used. 
+
+
+
+## 414 — Assistant — Progress note
+
+I’ll review the Primaris organs and check the existing cohort notes. That should let us define Galahad’s biology more clearly without inventing a firm canon ranking for Alpha Primus versus Custodes.
+
+
+## 415 — Assistant — Progress note
+
+**Yes—an individually engineered New Man incorporating the full Primaris enhancement suite is a more useful foundation than leaving Galahad’s organs vaguely unspecified.** My earlier caution about assuming identical anatomy should not have meant omitting the actual advantages those systems provide.
+
+Your distinction about stub weapons is also clear now: **you want comparable ballistic examples, not every stub weapon treated as equivalent to a 9mm pistol.** That is a reasonable approach.
+
+### What the Primaris systems contribute
+
+I reviewed the implant descriptions. The three Primaris additions are especially relevant:
+
+- **Sinew coils:** metallic reinforcement of tendons and ligaments, increasing strength and internal durability. These are partly mechanical enhancements, not simply another naturally growing gland.
+- **Magnificat:** amplifies growth and the functioning of other enhancements, particularly skeletal and muscular development.
+- **Belisarian furnace:** an emergency response to extreme trauma, releasing substances that support continued function and regeneration. It requires recovery between activations; it is not continuous instant healing.
+
+Games Workshop’s account of the Rubicon explicitly identifies these three additions and their roles. [*Psychic Awakening: Enmity’s Edge*](https://www.warhammer-community.com/en-gb/articles/zZ8jYAjt/psychic-awakening-enmitys-edge/).
+
+The underlying Astartes suite also includes **a secondary heart, reinforced skeleton and rib plates, enhanced blood and wound sealing, additional respiratory capacity, toxin processing, heightened senses and mechanisms for surviving adverse conditions**. Those are overlapping protections: a wound has to overcome considerably more than unusually tough skin. The broader nineteen-organ foundation is confirmed in [Games Workshop’s anatomy overview](https://www.warhammer-community.com/en-gb/articles/Du2wvip7/the-anatomy-of-power-armour/).
+
+### How I would define Galahad
+
+My preferred campaign wording is:
+
+> **Bile individually engineered each founder from a modified New Men foundation, incorporating adapted versions of the complete Primaris enhancement suite alongside his own biological refinements. These systems developed as an integrated organism from gestation, rather than being applied through ordinary adolescent Astartes implantation. Their precise anatomy differs from a standard Primaris Marine, but their established protective and performance functions are present.**
+
+That accommodates your childhood deployment and accelerated growth. For sinew coils specifically, we can say Bile incorporated a deliberately engineered reinforcing system during development; possession of genetic material alone would not spontaneously manufacture the standard surgical hardware.
+
+It also avoids inadvertently importing things we have already rejected for your founders: standard Astartes reproductive limitations, Imperial conditioning or genetic obedience. **Having the enhancement functions does not require being a conventional Space Marine.**
+
+I would include the familiar specialised functions too, rather than only remembering the useful ones during combat. Some—such as deliberate suspended animation or an armour interface—require appropriate control or equipment to use. Their existence would not mean Galahad already knows their names or every application.
+
+I would leave *additional unique organs* unspecified until we define their purposes. Bile’s refinements can be substantial without adding a mystery organ whenever the plot needs one.
+
+### Custodes and individual craftsmanship
+
+**Bile personally tailoring a small cohort is entirely appropriate for our premise.** “Comparable attention to individual construction” works; “therefore the same process as Custodes” would be a separate claim.
+
+It also does not force a ranking. More organs do not automatically mean greater strength than a Custodian, whose transformation is fundamentally different. Likewise, being somewhat stronger than Alpha Primus would not logically require **both** to sit above Custodes—you could straddle that comparison.
+
+For consistency, **I would retain the baseline we just selected: Galahad below a typical Custodian in overall unaided physical performance, with psychic enhancement capable of taking him beyond it.** The organ review strengthens our understanding of his resilience; it need not trigger another power increase. Alpha Primus’s exact position remains unconfirmed rather than becoming a supposed canon fact.
+
+Consequently, ordinary handgun fire should generally have **poor stopping effect** against Galahad. Reinforced internal structures, wound sealing and physiological redundancy are active reasons for that—not merely narrative generosity.
+
+### Cohort size
+
+**Seven including Galahad works well.** There is no lore-based reason to prefer six over seven.
+
+The existing concealed record actually contains **six total**, so seven would be a small, explicit revision rather than a recovered fact. I’m happy to adopt your preferred seven while preserving the existing members and leaving their identities undisclosed. Nothing already played depends on the old count.
+
+No combat or story time advances during this clarification.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately two years; still growing  
+**Date:** Serravonne return; expedition approximately three weeks away  
+**Reputation:** Scholar-engineer and newly elevated noble; grant undisclosed locally  
+**Weapons (Equipped):** None; greatsword at the Collegium  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers, leather boots  
+**Gear/Inventory:** Personal effects; research and workshop belongings at the Collegium  
+**Currency:** 473 lorrats before unreconciled travel expenses; 6,000 expedition funds separate
+
+
+## 416 — User — World revision request
+
+Ok now please update the GitHub documentation. Please take your time and any documents you are updating please read them in full, line by line. This ensures you do not miss any outdated info, errors, mistakes or inconsistencies. Please take your time I am more than happy to wait. In the Web App please make sure there is no outdated information or double up. For example in physiology there is a section that states an afternoon with no food had no effect but surely there is a better spot somewhere that we can put in a thing for how long he can go without food, drink and sleep and use the lore established for Space Marines, Custodes and Primarchs to figure out a baseline for Galahad.
+
+
+
+## 417 — Assistant — Progress note
+
+I’ll read through the current records and physiology section in full, reconcile the new agreements, and replace the one-off hunger note with a clear endurance reference. I’ll distinguish lore-supported abilities from campaign estimates for food, water and sleep, then check the updated app before publishing.
+
+
+## 418 — Assistant — Progress note
+
+I found two things to fix: Physiology repeats the planetary introduction, and its Custodian comparison doesn’t distinguish unaided biology from psychic enhancement.
+
+The sources support exceptional endurance, but not a reliable food-and-water timetable for Primarchs or Custodes. I’ll use clearly labelled campaign estimates: roughly two weeks of useful activity without food, several further weeks of declining reserves, and a shorter water limit. Sleep will distinguish ordinary restorative rest from the catalepsean ability to rest parts of the brain while remaining active. These won’t be automatic death timers.
+
+
+## 419 — Assistant — Progress note
+
+The records now stop at the railway-yard confrontation, with no fight outcome added. Corva and Veskan still haven’t been told about the grant.
+
+The physiology update is consolidated, including the adapted Primaris systems and separate estimates for active endurance and survival. I’ve also preserved the existing cohort members while changing the total to seven. The first checks pass; I’m checking the phone layout and publication files next.

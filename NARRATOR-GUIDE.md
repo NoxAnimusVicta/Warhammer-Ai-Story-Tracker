@@ -85,6 +85,10 @@ Read food-cultures.json and purge-history.json alongside the world record. Use m
 
 Revision39 removes redundant local map additions and provides real northern/southern/western roads. Current counts:897settlements,1928routes. Unvisited repetitive principal names have corrected aliases in the private handover; retain stable IDs and established story names. The old measured-route accordion is retired, but source measurements remain. Read private/map-maintenance.md before editing.
 
-## Revision 42 checkpoint
+## Revision 43 checkpoint
 
-House Orsival and the expedition are approved; the scene is paused twenty-one days before departure. Read CURRENT-CONTINUITY.md for the full roster, 56-hectare grant, 473-lorrat personal balance, separate 6,000-lorrat fund and staged pumping work. Do not resume the old pending commission. The private handover includes later research horizons and player psychology; these are not current public discoveries. Preserve the distinction between the dated census and subsequent projections.
+Scene paused in Serravonne railway yard: Veskan wounded, Corva supporting him, Galahad unarmed confronting Orvasse and Scerault men. Neither parent knows of the noble grant. No fight has been resolved. Departure approximately three weeks away; last settled personal balance473, return-travel costs pending; expedition6000 separate and unspent. Read CURRENT-CONTINUITY.md, VEYRASSE-LEADERSHIP.md and the latest exact transcript.
+
+The private handover controls the dark-protagonist tone, concealed leadership characterisation, updated seven-founder cohort and physiology calibration. Do not manufacture guilt or penalise ruthless choices through arbitrary consequences. Preserve agency and practical uncertainty. Physical advantages constrain dice outcomes. No political coup, royal death or Hunter intervention is predetermined.
+
+Physiology distinguishes unaided performance from psychic augmentation. Food/water/sleep ranges are conditional campaign estimates, not canonical universal figures or automatic death timers. Never conflate suspended survival with active endurance, armour recycling with unaided metabolism, or skin injury with incapacitation.

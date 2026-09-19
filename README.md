@@ -27,3 +27,7 @@ All settlement and political descriptions reviewed; random civic notes replaced 
 ## Revision 42
 
 House Orsival is formally recognised, with matching parental titles and a 56-hectare grant near Serravonne. The one-year Collegium expedition has five appointed scholars and a departure date twenty-one days after approval. The records distinguish personal funds from the expedition appropriation, document the completed network design and first working module, and retain the full recent exchanges. Current continuity has been consolidated rather than layered over obsolete checkpoints.
+
+## Revision 43
+
+Serravonne return and unresolved railway-yard confrontation recorded. Physiology consolidates integrated organ functions, physical/psychic performance and food, water and sleep reserves. Duplicate planetary introduction and one-off hunger wording removed. Court and command biographies, succession and noble legal standing are available in VEYRASSE-LEADERSHIP.md. Family notification remains pending; return travel costs await reconciliation.
