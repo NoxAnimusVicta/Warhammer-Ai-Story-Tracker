@@ -1,23 +1,3 @@
-## Revision 41 — settlement descriptions and consistent atlas detail
-
-The controlling atlas contains 897 settlements and 34 political territories, with 33 disjoint capacity returns. All were reviewed. Individual prose replaces 890 settlement accounts; seven established scene/location records were retained after review. The random civic_profile fields are removed. Never rerun gazetteer39.py, settlements40.py or other historical generators to rebuild current descriptions. The individual revision41 text and review are in private/settlement-text41.tsv and private/editorial-audit41.json. A unique string is not evidence that a description is meaningful. Describe a place through its actual setting, function, connections and local society; do not assign interchangeable crises to create apparent detail.
-
-World-map.json is the authoritative settlement and political prose. National-register.json mirrors political descriptions and retains its military/economic figures; food remains within each political profile. The downloadable planetary reference now includes the same settlement gazetteer. No new reader panel or second food catalogue has been added. Stable names, identifiers, coordinates, borders, routes, populations, annual growth, capacity figures and campaign state are unchanged. Obsolete state seat-name fields were aligned to the established current city names.
-
-The map uses a global hierarchy: sea routes at world scale; capitals, seats, ports and railways from 1.5x; every ordinary settlement, road and proposed line from 4x. Markers are not hidden because another marker is nearby. Text alone is collision-managed. Region of origin, population and survey_detail are not visibility criteria. Route bounds are cached and used for viewport culling; no route is hidden merely for being short. Tributaries and woodland detail use the regional threshold. Tests cover actual rendered features across all 34 territories at seven scales and phone/desktop widths, alongside interaction tests. Physical iPhone Safari has not been directly tested.
-
-Terrain metadata describes the surrounding survey district, not a claim that houses are built on moving glaciers. Existing ice-district settlements occupy stable exposed ground and depend on imported provisions. Their population and placement have not been silently moved during this editorial revision.
-
-No story time has elapsed. The technical commission remains unresolved at the previous checkpoint.
-
-## Revision 40 — consolidated atlas and political records
-
-The ten former direction-only geographic placeholders now have distinctive names and histories, without changing borders, population or military totals. They remain divided authorities, not ten newly unified states. Read world-map.json for political and settlement identities, national-register.json for capacity and older arts, and food-cultures.json for the table. Each national profile contains its current political description and food record; keep these synchronised. private/political-names40.json and private/settlement-names40.json preserve aliases and rolls. The latter replaces 328 remaining names from the repetitive original naming grid. Stable IDs, established story names and historical transcripts are unchanged. The 51 remaining exact duplicate settlement accounts have also been individually rewritten; all 897 settlement names and descriptions are distinct. See private/settlement-description-audit40.json.
-
-The reader has one visible political selector and an integrated national entry, including cuisine. Comparison and census detail open on demand. Do not restore a standalone Food Cultures panel, duplicate nation accordions or an embedded copy of the complete planetary reference. The full reference remains downloadable. Important Auvrienne/Serravonne details now reside in their settlement entries. No story time, character state, inventory, money or population has changed.
-
-Short district roads no longer disappear solely because they occupy fewer than 48 screen pixels. Lucaune–Lucegno uses the same district visibility threshold as other local roads. Route extents reject offscreen work. Zoom caches viewport dimensions, batches gestures and avoids the world-wide blur. The portrait is separately cached for the installed app instead of repeating its base64 data in every edition. Current atlas: 897 settlements, 1928 segments.
-
 # Malaspina — narrator handover
 
 This is an ongoing, player-led Warhammer 40,000 campaign, not a completed story. The phone data-slate is the player's read-only reference. This guide is outside the fiction and is not displayed in the slate.
@@ -101,6 +81,10 @@ When local story time advances, preserve a prior snapshot and revise production,
 
 ## Food and the Culling
 
-Read food-cultures.json and purge-history.json alongside the world record. Use meals organically to convey class, circumstance, hospitality, scarcity or affection. Do not force food into every scene or assign player tastes. The Long Culling ended67local years before the present return. Present growth rates do not describe the entire recovery. Purges respond to developments and Hunter interests; no fixed countdown forces the next one. Distinguish killed, captured and displaced. No new loss or personal memory is assigned to an existing character by these historical notes.
+Read food-cultures.json and purge-history.json alongside the world record. Use meals organically to convey class, circumstance, hospitality, scarcity or affection. Do not force food into every scene or assign player tastes. The Long Culling ended approximately 67 local years before the original census epoch. Present growth rates do not describe the entire recovery. Purges respond to developments and Hunter interests; no fixed countdown forces the next one. Distinguish killed, captured and displaced. No new loss or personal memory is assigned to an existing character by these historical notes.
 
 Revision39 removes redundant local map additions and provides real northern/southern/western roads. Current counts:897settlements,1928routes. Unvisited repetitive principal names have corrected aliases in the private handover; retain stable IDs and established story names. The old measured-route accordion is retired, but source measurements remain. Read private/map-maintenance.md before editing.
+
+## Revision 42 checkpoint
+
+House Orsival and the expedition are approved; the scene is paused twenty-one days before departure. Read CURRENT-CONTINUITY.md for the full roster, 56-hectare grant, 473-lorrat personal balance, separate 6,000-lorrat fund and staged pumping work. Do not resume the old pending commission. The private handover includes later research horizons and player psychology; these are not current public discoveries. Preserve the distinction between the dated census and subsequent projections.

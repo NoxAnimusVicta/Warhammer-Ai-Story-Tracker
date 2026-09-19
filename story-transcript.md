@@ -6738,3 +6738,968 @@ All 897 settlement records have now been reviewed. I’ve replaced the random ci
 The cross-map checks pass: ordinary settlements and roads now appear at the same scale everywhere, and nearby markers no longer erase smaller places. I’ve also inspected Otranto, Morholt and Vesalius at iPhone-sized dimensions. Names still avoid overlapping, but the underlying settlement points and routes remain visible as you zoom.
 
 I’m finishing the consistency checks and publication records before uploading.
+
+
+## 333 — Assistant — Progress note
+
+Revision 41 is now live. I verified the deployed site’s new settlement and national descriptions, and the map checks pass across all 34 political areas. The review covered all 897 settlements; the recurring generated shortage notes are gone, and settlement points and routes now use consistent zoom thresholds across continents.
+
+I also checked the layout at iPhone-sized dimensions, though I haven’t tested it on a physical iPhone.
+
+
+
+## 334 — Assistant — Progress note
+
+[Revision 41 is live](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=abe8b352bc13670bc876#world).
+
+- Reviewed **all 897 settlements**: rewrote 890 individually and retained seven established story records.
+- Reviewed every nation’s description against its geography, economy and neighbours.
+- Removed the generated shortage notes.
+- Standardised zoom visibility across continents. Nearby settlements no longer disappear simply because another marker is close.
+- Kept cuisine within national profiles, without adding more sections.
+
+Deployment verified. Map checks passed across all 34 political areas, including phone-sized layouts.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately 2 local years  
+Date: Ten months and eleven days after Collegium enrolment; evening  
+Reputation: Celebrated scholar, inventor and commissioned technical examiner  
+Weapons (Equipped): None; wrapped Vouressan-bone greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Research, examination papers, books, mechanical creations, crafting materials and charms; unchanged  
+Currency: 560 lorrats; 30 owed upon report delivery
+
+
+## 335 — User — World revision request
+
+So remember that conversation we had about bullet design and stopping power and you told me the older longer WW2 Browning 30-06 rounds didn’t have much more stopping power than a modern 30 cal? Wanna explain to me why the US military unveiled they are beginning to swap over to 6.8x55mm rounds over 5.56x45mm specifically because they get more stopping power due to more gunpowder from the longer bullet? Care to explain yourself there?
+
+
+## 336 — Assistant — Progress note
+
+I’ll check the Army’s stated reasons for the change and the cartridge specifications, then address where my earlier explanation was unclear or wrong.
+
+
+
+## 337 — Assistant — Progress note
+
+**Your underlying point is valid: greater propellant capacity can support substantially greater projectile energy. If my earlier explanation suggested otherwise, it was wrong.** Where I needed to be more precise was *which cartridges we were comparing*, rather than treating “modern .30 calibre” as one ammunition type.
+
+The Army’s new cartridge is **6.8×51mm**, rather than 6.8×55mm. The Army explicitly attributes its increased performance to **both increased cartridge size and increased operating pressure**, producing greater energy on target at extended ranges. You are correct that gaining substantially more performance than 5.56mm is central to the programme. [Army briefing](https://www.army.mil/article/255909/army_officials_brief_the_media_on_the_next_generation_squad_weapon), [SIG cartridge identification](https://www.sigsauer.com/blog/sig-sauer-launches-commercial-variant-of-us-army-next-generation-squad-weapon-ngsw-mcx-spear-and-277-sig-fury-ammunition).
+
+However, **6.8×51 versus 5.56×45 is a different comparison from .30-06 versus 7.62×51 NATO/.308.** The latter are both full-power rifle cartridges with substantially overlapping performance. Manufacturer ballistic tables show that .30-06 can outperform .308, but the difference depends on the particular ammunition—it is not automatically an enormous jump because its case is longer. [Hornady ammunition catalogue](https://static.hornady.media/presscenter/docs/1410998446-Hornady-2023-Product-Catalog1669844760.pdf).
+
+One terminology correction matters here: the second measurement describes the **case length**, not the bullet’s length. The case holds the propellant. A larger case can provide more capacity, but length alone does not establish capacity, operating pressure, projectile velocity or what happens when it hits something.
+
+**What I should have told you originally:** your reasoning about a larger cartridge offering more power was sound. A .30-06-based rifle is a credible, powerful service weapon for our setting. But comparing it with another cartridge requires specifying that cartridge, and greater energy does not automatically establish the ability to penetrate vehicle armour. I should have explained those distinctions without dismissing the premise you were working from.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately 2 local years  
+Date: Ten months and eleven days after Collegium enrolment; evening  
+Reputation: Celebrated scholar, inventor and commissioned technical examiner  
+Weapons (Equipped): None; greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Research, examination papers, books, mechanical creations, crafting materials and charms; unchanged  
+Currency: 560 lorrats; 30 owed upon report delivery
+
+
+## 338 — User — World revision request
+
+So you are telling me my proposed rifle wouldn’t pierce the side of a WW2 Jeep from say 100 metres out? Are you sure? Because this is what you are basing your whole argument on. I say light Armor vehicles and maybe some medium. Fair enough if medium is out the window but you side light penetration wasn’t reliable which I disagree with based on my findings
+
+
+## 339 — Assistant — Progress note
+
+I’ll check the distinction between a WWII Jeep’s bodywork and an armoured vehicle. That distinction matters here, and I should have made it explicit earlier.
+
+
+
+## 340 — Assistant — Progress note
+
+**Yes—a conventional .30-06 rifle would ordinarily penetrate the thin sheet-metal side bodywork of a standard WWII Jeep at 100 metres. You do not need Galahad’s innovations or special ammunition to make that plausible.** If my earlier answer implied otherwise, that was incorrect.
+
+The misunderstanding is that a standard Jeep is an **unarmoured utility vehicle**. Its metal bodywork is not protective armour plate. Contemporary Army discussion explicitly distinguishes the Jeep’s vulnerability from purpose-built armoured vehicles. [U.S. Army’s *ARMOR*, March–April 1951](https://www.benning.army.mil/Armor/eARMOR/content/issues/1951/MAR_APR/1951MarchApril.pdf).
+
+I should have established what vehicles you meant before making a broad statement:
+
+- **Jeeps, ordinary trucks and cars:** penetrating their thin body panels is entirely credible. That does not automatically mean disabling the whole vehicle.
+- **Lightly armoured military vehicles:** some protection can be vulnerable to rifle ammunition, especially armour-piercing ammunition. “Lightly armoured” covers too many different vehicles to give one universal answer.
+- **Medium tanks:** reliably penetrating their principal armour is beyond the role of a conventional .30-06 service rifle.
+
+**Your Jeep example is correct. My blanket wording about unreliable “light vehicle” penetration was too broad.** We should portray the proposed rifle as dangerous to unarmoured transport, with effectiveness against actual armour depending on the particular protection—not dismiss its capability against vehicles altogether.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately 2 local years  
+Date: Ten months and eleven days after Collegium enrolment; evening  
+Reputation: Celebrated scholar, inventor and commissioned technical examiner  
+Weapons (Equipped): None; greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Research, examination papers, books, mechanical creations, crafting materials and charms; unchanged  
+Currency: 560 lorrats; 30 owed upon report delivery
+
+
+## 341 — User — World revision request
+
+I’m not talking about standard jeeps I’m talking about WW2 military issue ones you are twisting what I’m talking about. You are confusing an armored military vehicle with a civilian vehicle. Jeeps were made originally to be combat vehicles. I also specifically asked if armor piercing ammo would make a difference and you said no earlier. Why are you going back and forth?
+
+
+## 342 — Assistant — Progress note
+
+I mean the WWII military-issue Willys MB and Ford GPW, but I’ll check their protection explicitly. I also need to correct the earlier blanket answer about armour-piercing ammunition.
+
+
+
+## 343 — Assistant — Progress note
+
+**You’re right to challenge the changing answer about armour-piercing ammunition. A blanket “it would make no difference” was wrong.** AP ammunition can materially improve penetration, including against some lightly armoured vehicles. The Army explicitly identifies lightly armoured targets as a role for rifle-calibre AP ammunition. [Army ammunition procurement documentation](https://www.asafm.army.mil/Portals/72/Documents/BudgetMaterial/20082009/fy07%20supplemental/sup07-ammo.pdf).
+
+However, **I was referring to the WWII military-issue Willys MB and Ford GPW—not civilian Jeeps.** They were military vehicles developed for reconnaissance, transport and other battlefield duties, but their standard configuration did **not** have ballistic armour. Being designed for military service, or carrying a machine gun, does not necessarily mean a vehicle is armoured. The military Jeep’s development and intended roles are documented by the [US Air Force Museum](https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/579673/willys-quarter-ton-jeep/). Some received added armour; those modifications must be considered separately.
+
+The corrected position is:
+
+- **Ordinary WWII military Jeep bodywork:** your .30-06 rifle could penetrate it.
+- **Some genuinely lightly armoured vehicles:** appropriate AP ammunition could make penetration possible where ordinary ammunition would fail.
+- **All light armour, or medium-tank armour generally:** that capability cannot be assumed.
+
+**Your proposed rifle having a useful capability against some light armour is plausible. I was too categorical in rejecting that.** The inconsistency came from treating a broad limitation—“not a general-purpose anti-tank weapon”—as though it ruled out narrower capabilities that it does not. That was my mistake, not a problem with asking for historically grounded fiction.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately 2 local years  
+Date: Ten months and eleven days after Collegium enrolment; evening  
+Reputation: Celebrated scholar, inventor and commissioned technical examiner  
+Weapons (Equipped): None; greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Research, examination papers, books, mechanical creations, crafting materials and charms; unchanged  
+Currency: 560 lorrats; 30 owed upon report delivery
+
+
+## 344 — User — World revision request
+
+I just had another cool idea for a weapon design Galahad could reasonably come up with. So coupled with the Auvrienne 762 which I have given 7.62x63mm ammo for extra stopping power what about the Starlight Night Vision Scopes from the Vietnam Era? Cause we said the equivalent tech year for this world is 1938 which means I have about 7 years before the battery pack and black light searchlight night vision scopes come out and 22 away from the starlight scopes. Now I don’t understand how the actual advancements in Night Vision scope tech works but it seems to mostly be physics and material sciences right? I figure that is something Galahad could make generation one style starlight night vision scopes while everyone else is still working on viable forms of generation 0 battery pack and black light night visions. This sit ok?
+
+
+## 345 — Assistant — Progress note
+
+I’ll check the development timeline and what separated early infrared sights from Vietnam-era starlight scopes, then assess how plausible that leap would be for Galahad.
+
+
+
+## 346 — Assistant — Progress note
+
+**Yes—an early starlight sight is a plausible major invention for Galahad.** It fits his strengths in physics, materials and precision engineering, and it advances one specialised field without requiring Malaspina to acquire an entire 1960s industrial economy.
+
+Your historical comparison is broadly right, with two adjustments: early active infrared equipment was already being developed before and during WWII, rather than beginning in 1945; practical military starlight equipment arrived during the 1960s. Also, the earlier illuminators used **infrared**, rather than ultraviolet “black light.” The Marine Corps’ historical overview describes the transition from bulky active infrared equipment to first-generation image intensification, with equipment issued in Vietnam in 1964. [Marine Corps night-optics overview](https://www.trngcmd.marines.mil/Portals/207/Docs/TBS/B2A0221XQ-B2E0301%20Introduction%20to%20Observation%20Theory%20and%20Night%20Optics.pdf).
+
+The underlying distinction is straightforward:
+
+| Earlier active infrared | First-generation starlight |
+|---|---|
+| Illuminates the scene with an infrared lamp, then makes the reflected light visible. | Amplifies faint existing light sufficiently to produce a useful image. |
+| Depends on its illuminator. | Can operate without an illuminator when sufficient ambient light exists. |
+| Requires electrical power. | **Still requires electrical power**—“passive” means it does not need to illuminate the scene. |
+
+**And yes, the challenge is largely physics and materials science, together with electronics and specialised manufacturing.** Understanding the principle is only part of it: producing sufficiently sensitive, consistent optical-electronic components and making the whole instrument durable is the difficult transition from laboratory achievement to useful equipment. It does not fundamentally require digital computers or modern microprocessors.
+
+For our story, I would distinguish three achievements:
+
+- **A working experimental instrument:** very credible for Galahad once he deliberately pursues the research and obtains suitable laboratory resources.
+- **A dependable portable sight:** a substantial follow-on engineering achievement, rather than an automatic consequence of the first successful experiment.
+- **Affordable production for ordinary soldiers:** an industrial project involving trained workers, suppliers and quality control. His exceptional ability can accelerate its development, but other people must be able to reproduce his results.
+
+I would retain early-generation limitations: a bulky instrument, imperfect image quality, sensitivity to bright lights, and sharply reduced usefulness when very little light is available. **It would not see through solid objects, reveal heat like a thermal camera, or function perfectly in total darkness.**
+
+The 1938 benchmark is a description of Malaspina’s general capabilities, not a countdown obliging Galahad to wait twenty-six years. **My recommendation is to accept passive night vision as a credible research ambition and potential signature invention, with prototype success and widespread availability treated as separate milestones.** That gives his intelligence room to matter while preserving the significance of the industry he is trying to build.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately 2 local years  
+Date: Ten months and eleven days after Collegium enrolment; evening  
+Reputation: Celebrated scholar, inventor and commissioned technical examiner  
+Weapons (Equipped): None; greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Research, examination papers, books, mechanical creations, crafting materials and charms; unchanged  
+Currency: 560 lorrats; 30 owed upon report delivery
+
+
+## 347 — User — World revision request
+
+I have you wide scale battlefield deployment years not when the work started. I am aware generation 0 scopes were worked on around 1927 hence why I specifically said Galahad would make Gen 1 stuff while everyone else worked on Gen 0 not before everyone got to Gen 0. And you are correct, Infared lights not black light, my bad. And honestly the starlights are still pretty bulky, I have seen them on the M40s or M60s I think they are, whatever the American service rifle was during the nam era. The are pretty bulky but the Auvrienne 762 is already bigger than a standard rifle from the vietnam era so I think the starlight scopes actually sits pretty well with its established proportions, so it shouldn’t really feel all that bulkier than the Auvrienne already is. It’s bulkier than the average service rifle but it has more stopping power, accuracy and range which evens out, especially once you get night vision.
+
+
+## 348 — Assistant — Progress note
+
+**Understood—you were comparing widespread deployment dates, not when research began.** Your proposed contrast was already clear: other researchers are trying to make active infrared equipment practical while Galahad develops passive starlight equipment. I misread that and corrected something you weren’t claiming.
+
+I agree about the proportions. **A bulky early starlight sight would look convincing on the Auvrienne 762’s substantial frame.** It could feel like a coherent piece of equipment rather than an oversized attachment on a slender rifle. Its actual weight and effect on handling would still matter, even if it looks proportionate.
+
+The resulting identity works: **a heavy, deliberate-fire service rifle whose users accept greater carrying weight in exchange for its intended performance and, when fitted with the sight, useful night observation and aiming.** Those benefits can justify the burden for a military that values them.
+
+The one distinction I would preserve is that weight and size don’t automatically establish greater accuracy or range; those remain qualities Galahad must demonstrate through the finished weapon. Likewise, the starlight sight improves what the soldier can see at night—it doesn’t increase the cartridge’s power. That leaves plenty of room for the Auvrienne to fulfil your vision without giving it benefits simply because it is larger.
+
+**Visually and narratively, the pairing fits.** We can retain it as a planned development without treating either the rifle or its night sight as already completed.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately 2 local years  
+Date: Ten months and eleven days after Collegium enrolment; evening  
+Reputation: Celebrated scholar, inventor and commissioned technical examiner  
+Weapons (Equipped): None; greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Research, examination papers, books, mechanical creations, crafting materials and charms; unchanged  
+Currency: 560 lorrats; 30 owed upon report delivery
+
+
+## 349 — User — World revision request
+
+You have to remember Galahad is like Magnus in the sense that he will pull his culture forward. The story might not go this way but in my head I want Galahad to unite the planet and have space travel about cracked even if it is only with Stolen Hunter Ships and basically having an inter system war with The Hunters for when Bile pulls up at the 20 year mark. Not sure if I wanna put the Hunter homeworld in this system or in a nearby system. Still on the fence about that
+
+
+## 350 — Assistant — Progress note
+
+**Yes—that is the scale of transformation I should be allowing for.** Galahad is intended to change what his civilisation can achieve, not merely produce unusually good inventions within its existing limits. I’ve been placing too much emphasis on ordinary development timelines when his ability to compress those timelines is central to the character.
+
+A united Malaspina with an emerging space capability and an active war against the Hunters by Bile’s twenty-year assessment is a credible **campaign ambition**. It isn’t a guaranteed outcome, but it belongs within the possibilities we are playing toward. Captured ships make that particularly compelling: humanity could possess working spacecraft before it possesses the industry to reproduce every component. Operating them, maintaining them and eventually building replacements would be distinct accomplishments.
+
+That also gives Galahad’s civil engineering, teaching and political work a purpose beyond personal prestige. He is developing the people and institutions that could eventually sustain his inventions. His discoveries can advance much faster than ordinary human research; how widely those discoveries spread becomes part of the story.
+
+**My preference is a Hunter stronghold within this system, with their homeworld in a nearby system.** That gives us:
+
+- A local centre of captivity, biological experimentation and fleet support tied directly to Malaspina.
+- A substantial first opponent that humanity could reach without already mastering travel between stars.
+- A larger civilisation beyond it, allowing a planetary liberation to grow into an interstellar war.
+
+Putting their homeworld in Malaspina’s system would make the conflict more immediate and concentrated. The nearby-system option gives us more room for discoveries, escalating stakes and different Hunter interests. It also leaves the local system’s established time distortion simpler to track before travel introduces other systems’ clocks.
+
+We can keep the homeworld’s location undecided for now. **I’ll treat planetary unification and a developing space war as your intended horizon, while letting Galahad’s choices and their consequences determine whether—and how—he reaches it.** Bile arriving to discover that his experiment has begun dismantling the civilisation that maintained its testing ground is a strong possibility to build toward.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately 2 local years  
+Date: Ten months and eleven days after Collegium enrolment; evening  
+Reputation: Celebrated scholar, inventor and commissioned technical examiner  
+Weapons (Equipped): None; greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Research, examination papers, books, mechanical creations, crafting materials and charms; unchanged  
+Currency: 560 lorrats; 30 owed upon report delivery
+
+
+## 351 — User — World revision request
+
+I mean shit if you need a sort of reference for timescale. Imagine if Galahad basically did the entire job of Stargate Command by himself and with people following his direction. That is sorta what I’m going for. From SG-1 to be specific. And let’s go with homeworld in a nearby system, let’s lock it in incase it makes sense to influence future events
+
+
+## 352 — Assistant — Progress note
+
+That reference makes the intended pace much clearer. I’ll record the SG-1 comparison as guidance for Galahad’s potential rate of advancement, and lock in the Hunters’ homeworld as being in a nearby star system.
+
+
+
+## 353 — Assistant — Progress note
+
+**That gives me a much clearer reference: Galahad as the driving intelligence behind an SG-1-scale transformation, with people learning from him and carrying his work forward.** Discoveries and captured technology could change humanity’s position dramatically within years. I should allow that pace when his achievements support it, rather than continually defaulting to ordinary historical timelines.
+
+**Locked in: the Hunters’ homeworld lies in a nearby star system, outside Malaspina’s system.** Its distance, name and local time differential remain open. That geography can now inform future events without Galahad automatically knowing it.
+
+I’ve saved this in the local narrator notes and updated the transcript. It has not yet been pushed to GitHub.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately 2 local years  
+Date: Ten months and eleven days after Collegium enrolment; evening  
+Reputation: Celebrated scholar, inventor and commissioned technical examiner  
+Weapons (Equipped): None; greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Research, examination papers, books, mechanical creations, crafting materials and charms; unchanged  
+Currency: 560 lorrats; 30 owed upon report delivery
+
+
+## 354 — User — World revision request
+
+That SG-1 reference was in relation to how fast humanity advances once they get access to alien tech and start reverse engineering and using the knowledge to make their own tech, sorry if that wasn’t super clear, not an overall observation on generational tech levels.
+
+
+## 355 — Assistant — Progress note
+
+Understood—the SG-1 comparison is specifically about the acceleration after gaining access to alien technology: studying it, reverse-engineering it and using those discoveries in human-made equipment. I’ll correct the narrator note to keep that distinction clear.
+
+
+
+## 356 — Assistant — Progress note
+
+**Understood—I broadened the comparison beyond what you meant.** SG-1 is the reference for how quickly access to alien technology can accelerate human development through reverse-engineering, understanding its principles and incorporating those discoveries into human-built equipment.
+
+Galahad’s independent inventions remain a separate question, judged through his abilities and available resources. I’ve corrected the local narrator notes accordingly; the nearby-system Hunter homeworld remains locked in.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately 2 local years  
+Date: Ten months and eleven days after Collegium enrolment; evening  
+Reputation: Celebrated scholar, inventor and commissioned technical examiner  
+Weapons (Equipped): None; greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Research, examination papers, books, mechanical creations, crafting materials and charms; unchanged  
+Currency: 560 lorrats; 30 owed upon report delivery
+
+
+## 357 — User — World revision request
+
+That is another thing I wanna note about Galahad. So you know how Perturabo can basically see any mechanical object and take it apart of put it back together? And how Magnus can basically learn anything? And how Fulgrim strives to be perfect in everything? Well Galahad’s sort of personality ability I suppose you could call it would be reverse engineering and deconstruction. It is how he learns, even with theory he just takes it apart in his head and breaks it down and shifts parts around and just explores possibility’s for unknown efficiencies. So let’s take Cawl or Bile for instance, some of the peak of intelligence in the 40k universe at the current point of canon. Now peak Galahad probably couldn’t make new stuff faster than them and may not work as quickly. But if he had an example to break down with no reference and so did Cawl and Bile he would be able to figure out how it works in most cases faster. More of an overall observation at deconstruction. Because obviously Cawl is gonna be faster if the source thing you are taking apart is from the Dark Age of tech and is very mankind focused and Bile would likely be ahead on biological stuff like genetics and cloning. I wouldn’t be able to figure out how to make a Primarch faster than Bile or Cawl, but let’s look at the Necron Pylon’s cause that is a relevant example. Now Cawl doesn’t really have the ability to take one of the Pylon’s apart as they are too important and it might cause issues and he doesn’t really have time. But let’s say Cawl, Bile and Galahad had a Pylon each they could deconstruct and had to race to see who could reconstruct a working version the fastest and understand the mechanisms behind the Pylon. Galahad would win. Everyone has focuses but Galahad is very broad range and he is good at copying what is established and then rearranging his knowledge for unique innovation. Like Galahad might watch Alpha Primus teleport, reverse engineer what he did and how then refine the process for example to a degree someone else couldn’t cause maybe Galahad also chucks in some stuff from less developed and unknown worlds he has explored or maybe he implements Aeldari knowledge he has been taught or discovered. It’s not that he is smarter but he can build his knowledge base faster across all disciplines whether mechanical or psychic. Another goal I have for this story is for Galahad to eventually learn and deconstruct how to Bonesing which would make him the only non Aeldari to do so. How he gets this whether through hostility or agreeability with the Aeldari I haven’t decided yet.
+
+
+## 358 — Assistant — Progress note
+
+That gives Galahad a distinct speciality: working backwards from something that exists to understand its principles, then combining those principles in new ways. I’ll record that distinction and check the bonesinging lore so we can separate his intended potential from anything canon leaves uncertain.
+
+
+
+## 359 — Assistant — Progress note
+
+**Yes—this gives Galahad a distinctive intellectual speciality, rather than simply making him “the smartest.”** He is exceptionally good at working backwards from an existing result to discover the principles that produced it.
+
+It also connects naturally with how you have already played him: studying machinery, dismantling arguments, comparing traditions and describing mechanisms as “a web of ideas made real.” He learns by discovering relationships, then asking which relationships can be changed.
+
+The distinction from Cawl and Bile makes sense. Their accumulated knowledge, specialist experience and original research remain formidable advantages. **Galahad’s particular advantage is how quickly he can make an unfamiliar example intelligible—and connect that understanding to apparently unrelated knowledge.** At his developed peak, I accept your equal-access pylon example as the intended benchmark for that speciality in our campaign. That is our character definition, rather than an established canonical ranking.
+
+The psychic application fits the same principle. Observing Primus teleport could give Galahad something to investigate through his psychic perception: a process to understand, rather than merely an effect to imitate. Eventually combining that understanding with another tradition could produce something distinctive. The interesting progression is **observation → understanding → adaptation**, with his exceptional aptitude making that progression unusually fast.
+
+**Bonesinging is an excellent long-term expression of this identity.** It joins his technological and psychic interests in one craft. Official material describes Aeldari shaping and repairing wraithbone through music and psychic ability. Learning to participate in that process would be more substantial than copying the audible song. [Official Aeldari overview](https://www.warhammer-community.com/en-gb/articles/mf5t32uk/warhammer-40000-faction-focus-aeldari/).
+
+I’m comfortable treating genuine bonesinging as an achievable campaign ambition for him. I would leave “the only non-Aeldari ever” unconfirmed rather than claim we have established that across all canon. His achievement could still be extraordinary—and profoundly significant to the Aeldari who encounter it.
+
+I’ve recorded this speciality and the bonesinging ambition in the local narrator notes. Neither grants him those accomplishments now, and the means of acquiring Aeldari knowledge remain yours to choose.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately 2 local years  
+Date: Ten months and eleven days after Collegium enrolment; evening  
+Reputation: Celebrated scholar, inventor and commissioned technical examiner  
+Weapons (Equipped): None; greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Research, examination papers, books, mechanical creations, crafting materials and charms; unchanged  
+Currency: 560 lorrats; 30 owed upon report delivery
+
+
+## 360 — User — World revision request
+
+Oh yeah one final thing this is basically very late game campaign. Reversing engineering what the shaman’s did with the Emperor and using a modified version of the technique combined with Wraithbone and Spirit Stone tech if his own design combined with his own unique forms of Sorcery allow him to bind, trap and then absorb souls at a safe rate. Basically becoming a minor warp god but still somewhat bound to the materium which is basically how I look at the Emperor except big E was a major god but I think that’s cause of worship as opposed to the Shaman ritual and whatever he did on Molech. Plus Molech is where a lot of the power comes from and I’m not trying to replicate that. More so just the minor warp god thing. But like I said this is very very late game story for Galahad and he needs to learn about the galaxy and its history before he can reasonably have these ambitions
+
+
+## 361 — Assistant — Progress note
+
+I’ll record this as a very late-game possibility, separate from Galahad’s present knowledge or ambitions. I’ll also check the shaman-origin account and the soul technology involved so we distinguish established lore from the process he might eventually invent.
+
+
+
+## 362 — Assistant — Progress note
+
+**Yes—as a very late-game research ambition, this fits Galahad’s defining speciality exceptionally well.** He would be drawing connections between several traditions and developing something original from their underlying principles.
+
+The shaman fusion is an actual published account of the Emperor’s origin, from *Realm of Chaos: The Lost and the Damned*. It provides a precedent for many souls combining into a powerful being, although it does not provide a fully explained, reproducible procedure. [Source summary and references](https://wh40k.lexicanum.com/mediawiki/index.php?redirect=no&title=Emperor_of_Mankind).
+
+**The particular breakthrough Galahad would need is preserving himself through that process.** The shamans’ collective rebirth into a new being differs from an existing person incorporating additional souls while retaining his identity, intentions and material existence. That difference gives his proposed combination of containment technology and sorcery a meaningful purpose.
+
+Spirit stones and Infinity Circuits provide relevant examples of preserving souls and bringing them into a collective psychic structure. They do not themselves establish safe absorption, but they give him something substantial to study. His own devices and integration method would be original campaign developments. [Spirit-stone lore and references](https://wh40k.lexicanum.com/wiki/Soul_stone).
+
+I would therefore accept **gradual, controlled soul integration leading toward an independent, materially anchored minor divinity** as a possible destination. “Safe” would be something he learns to achieve, rather than a property we assume from the outset. We can leave whether incorporated souls remain distinct, merge with him, or contribute in some other way unresolved until he understands enough to investigate—and you decide what he wants.
+
+On the Emperor comparison, I would keep your explanation as a hypothesis. We cannot confidently separate how much of his present power comes from his original nature, Molech, worship and subsequent existence, or treat “minor” and “major” gods as fixed numerical categories.
+
+**I’ve recorded this privately as a distant possibility, not a current ambition or predetermined ascension.** Galahad first needs reasons and opportunities to discover these ideas. Nothing here commits him to a method of acquiring souls, a moral direction, or an ending.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately 2 local years  
+Date: Ten months and eleven days after Collegium enrolment; evening  
+Reputation: Celebrated scholar, inventor and commissioned technical examiner  
+Weapons (Equipped): None; greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Research, examination papers, books, mechanical creations, crafting materials and charms; unchanged  
+Currency: 560 lorrats; 30 owed upon report delivery
+
+
+## 363 — User — World revision request
+
+# Files mentioned by the user:
+
+## Photo 1.jpg: C:\Users\jaked\.codex\codex-remote-attachments\01a08b2f-2787-7ae3-b22a-ce1063d0d74e\FADB4A4D-9DC5-4D20-9318-5449C2D5B4A6\1-Photo-1.jpg
+
+## My request:
+Well the thought process is the Shaman’s combined their souls by mass self sacrifice but they were all willing. Not everyone Galahad uses will be. Now there are ways to eat and consume souls but it’s usually temporary or has backlash based on the individual or a whole host of issues and Galahad wasn’t made from conception to functionally be as large a soul container as the emperor is even though he is exceptionally large compared to the average human or even space marine. He may even outclass some of the less Psychically inclined Primarch’s but they have unique wards and stuff that makes that hard to calculate. So the idea is you basically reap the unwilling souls into the spirit stones into your own little infinity circuit warded to work like Aeldari technology that funnels the souls through Safeish channels and lets you absorb the souls gradually and at a safe rate. Now I didn’t originally intend for this idea as I was just gonna sacrifice criminals and such with psychic potential and I probably still will but this process opens another avenue that sold me on this. Tyranids have souls. Absorb enough of them and I see no reason why you couldn’t produce your own shadow in the warp through psychic channels either by absorbing the tyranid souls or maybe making technology that’s stores them to use as batteries to produce the shadow in the warp. Stuff like that. Plus I have toyed with the idea of potentially gathering Spirit Stones for my own research as well as to bargain with the Aeldari to learn Bone Singing Techniques. Now these are in the Clone worlds but there is a slight hiccup. Aeldari get torn apart because it is Slaanesh’s realm. Which works out well for me because unless Slaanesh decides to break its deal with Bile it cannot move against me as long as I just harvest the stones and don’t go on a killing spree due to the fact I have new men genetics and thus am protected by Slaanesh due to Bile’s bargain. Now Slaanesh would understand my late term intentions, I can’t hide those kind of ambitions in any chaos realm nevermind Slaanesh’s so if they don’t attack me directly and break the deal they may well let independent daemons or daemons from say Khorne or something enter the Crone Worlds to attack me with like an assurance of safe passage from Slaanesh. Cause if I pull this off I basically become a Soul Scavenger and I wouldn’t act like Vashtor and pay a tithe. I have an idea about making my own functional warp realm by kitting out a world with gellar fields and copying what Malcador did with Titan. So the current Chaos Gods would see me as a scavenger god. Because I would basically try to snatch up all the souls that aren’t already claimed. A Minor Warp God of lost souls is my sort of long term idea of this. I even did up some concept art. I used the seal or Oricalcos from Yugioh as the Soul Binding visual cause I always thought it was the coolest shit as a kid.
+<image name=[Image #1] path="C:\Users\jaked\.codex\codex-remote-attachments\01a08b2f-2787-7ae3-b22a-ce1063d0d74e\FADB4A4D-9DC5-4D20-9318-5449C2D5B4A6\1-Photo-1.jpg">
+</image>
+
+
+## 364 — Assistant — Progress note
+
+The art makes the direction clear: the ivory, dark green and aquamarine remain recognisably Galahad’s, while the binding marks and captive spirits suggest what he could become. I’ll check Bile’s bargain, Tyranid souls and the Crone Worlds before treating any of those as reliable protections or resources.
+
+
+
+## 365 — Assistant — Progress note
+
+There are useful precedents here, especially Titan’s protection and the psychic network behind the Tyranid Shadow. The point I couldn’t verify is the proposed safe passage: Bile’s bargain concerns protecting his children, but the material I found does not establish that anyone carrying New Men genetics can enter Slaanesh’s territory unharmed. I’ll preserve that as a possible interpretation to investigate, rather than quietly make it a guaranteed immunity.
+
+
+
+## 366 — Assistant — Progress note
+
+**The external soul network makes your proposal more coherent.** Galahad would first contain souls outside himself, then attempt controlled integration, rather than simply consume everything and hope his existing nature can accommodate it. That gives bonesinging, containment devices and his own sorcery distinct purposes. It remains an original breakthrough to achieve, but I understand the intended mechanism now—including unwilling souls.
+
+The art conveys that destination well. His original colours and appearance remain recognisable, while the emerald spirits, ritual halo and binding marks suggest a ruler whose authority extends beyond death. The Orichalcos-inspired geometry fits that visual language without needing to import its fictional mechanics.
+
+There are several places where the lore supports the direction, with a few distinctions worth preserving.
+
+**Tyranids are a legitimate avenue of investigation.** Their psychic existence is bound into the Hive Mind, and the Shadow is associated with that immense interconnected presence. Your proposal to study and reproduce that organisation through an external network is stronger than assuming that eating Tyranid souls automatically grants the ability. Galahad would need to discover what produces the effect and how to reproduce it under his own control. Separating what he captures from the greater gestalt would itself be significant research. [Shadow in the Warp overview and references](https://wh40k.lexicanum.com/mediawiki/index.php?mobileaction=toggle_view_desktop&title=Shadow_in_the_Warp).
+
+**Recovering waystones could give him something genuinely valuable to offer the Aeldari.** Empty waystones and stones containing Aeldari dead would have different significance, but both could create opportunities for negotiation. Neither automatically purchases instruction: the particular Aeldari’s interests, trust and knowledge of his research would matter. Crone World expeditions are dangerous, but Aeldari do undertake them successfully; entering one does not mean automatic destruction. [Spirit-stone origins and recovery](https://wh40k.lexicanum.com/wiki/Soul_stone).
+
+**Bile’s bargain is the part I would not yet treat as guaranteed safe passage.** The *Manflayer* material I checked establishes his bargain to protect his children, but does not establish the stronger rule that New Men ancestry prevents Slaanesh from moving against any such individual, wherever they go. Coverage of Galahad’s later-created cohort—and the limits of that coverage—needs either firmer textual support or an explicit campaign interpretation. Your proposed proxy attacks are an interesting possible complication, but we should establish the actual protection before inventing loopholes around it. [Reproduced *Manflayer* passage](https://www.reddit.com/r/40kLore/comments/zej8vp/).
+
+Also, Crone Worlds lie within the Eye of Terror; they are not all interchangeable with Slaanesh’s personal realm. I would make concealment and psychic exposure depend on the place and circumstances, rather than assume Slaanesh automatically knows every detail of Galahad’s future plans.
+
+**Titan is a particularly good precedent for the sanctuary idea.** Its concealment involved both macro-Geller fields and sigilic rites. That supports the possibility of a protected material world within the Warp. Turning such a refuge into the enduring domain of an independent divinity would be Galahad’s further achievement, rather than something the fields alone accomplish. [Titan’s concealment](https://wh40k.lexicanum.com/mediawiki/index.php?mobileaction=toggle_view_desktop&title=Malcador_the_Sigillite).
+
+The resulting “god of lost souls” has a compelling ambiguity: **some souls might seek his protection; others would be his prisoners.** Calling a soul unclaimed would not make it willing. That distinction could shape his relationships, followers and enemies without dictating which direction you take him.
+
+I’ve recorded these as private, very late-game possibilities, including the artwork reference. No present abilities or guaranteed divine protections have been added.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately 2 local years  
+Date: Ten months and eleven days after Collegium enrolment; evening  
+Reputation: Celebrated scholar, inventor and commissioned technical examiner  
+Weapons (Equipped): None; greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Research, examination papers, books, mechanical creations, crafting materials and charms; unchanged  
+Currency: 560 lorrats; 30 owed upon report delivery
+
+
+## 367 — User — World revision request
+
+On the Tyranid stuff. Well it depends how it works, if the souls get surpressed within me but it’s still sort of Hoehenheim style where I can pull them back up it makes sense for me to be able to pull of the Shadow in the Warp Ability myself or even usurp control of Nids from active Hivefleets or at least contest control. Plus Tyranid souls are just an easy and morally ethical group of souls to consume that can be done on a massive scale. Kill billions of humans and absorb the souls and you are a villain. Kill a billion Tyranids and absorb their souls and you are heralded as a hero for thousands of years. Respected even by enemies. Now on the spirit stones I know Aeldari still get them themselves but to have someone pull up with a bunch of stones. Give them to you out of good will and then request only knowledge in return without demand. I feel like the Aeldari would fuck with that. Not guarenteed and I’m not trying to say it would be. But hell if a strong Farseer sees what he might become they might see him at the very least as useful fodder to buy time for them to find a way to kill Slaanesh and give it and the other Chaos Gods another target to chase. Makes for interesting narrative potential. Now on Bile’s bargain I would argue that’s more in my favour, if anyone could be described as Bile’s direct children it would be me and my cohort. We are the class made to lead. The ones Bile will want to take personal care and attention of. We are to him what the Primarch’s were to the Emperor. Yet the difference, despite how horrific of a being Bile can be I do think he has more concern for his creations than the Emperor did for the Primarch’s and where the Emperor saw tools I think Bile might actually see family in my cohort but that’s again up for interpretation. But I mean I feel I am protected if anyone is by Bile’s deal though. Maybe walking into Slaanesh’s realm itself is grounds for all bets being called off. I dunno. But Bile’s protection would at least need to be recognised in some way as I would be encompassed by it. If the New Men are Bile’s Children then the Cohort are his favourite Children. Now I know the Crone Worlds are in the eye of Terror but being former Aeldari homeworld so thought they would be firmly overrun as daemon worlds controlled by Slaanesh and I think the lore supports that. And I mean for regular daemon’s I wouldn’t assume they know my plans. And maybe I could take some measures to conceal it but these are gods we are talking about. I’m not sure if concealment is possible from entities like that until I’m a minor god myself.
+
+
+## 368 — Assistant — Progress note
+
+Your distinction matters: retaining souls as accessible minds would give Galahad different possibilities from consuming them purely for power. I’ll check the precedents for contesting Tyranid control and concealing things from the gods, and clarify how we should recognise Bile’s bargain for the cohort.
+
+
+
+## 369 — Assistant — Progress note
+
+**Yes—those clarifications strengthen the idea, especially the distinction between destroying souls for energy and retaining them as accessible parts of an organised whole.** I was treating too many of your proposed mechanisms as though you were claiming the result happened automatically.
+
+With the Hohenheim comparison, Galahad could potentially become the living centre of that network himself. An external apparatus would then be one approach, rather than a requirement. **Preserving and understanding Tyranid psychic structures could plausibly lead toward reproducing a Shadow-like effect or contesting local synaptic control in our campaign.** Those would be related but distinct achievements: disrupting a network, addressing its creatures and overcoming its controlling intelligence are different problems. Established lore gives us psychic contact with the Hive Mind—Tigurius is the relevant example—but not proof that absorbing Tyranid souls transfers command authority. That last step would be Galahad’s discovery. [Tigurius lore and references](https://wh40k.lexicanum.com/wiki/Tigurius).
+
+Your point about public reception also holds. Saving inhabited worlds by destroying Tyranids gives him a much stronger claim to gratitude than harvesting human populations. People could celebrate their deliverer while knowing little about his methods. Those who discover the soul absorption might react differently, but I shouldn’t make everyone recoil automatically or deny him the reputation his victories earn. **Tyranids offer a politically and morally different source of souls; acquiring them safely would still be a formidable undertaking.**
+
+On the Aeldari, **a freely offered gift followed by a request for teaching is a credible opening**, and your Farseer scenario works. A seer might see several possible futures in which helping Galahad benefits their people, even without trusting him completely. Gratitude, curiosity and strategic calculation could coexist. There is no reason every such relationship must become a refusal, betrayal or cynical manipulation.
+
+**On Bile’s bargain, I agree that the cohort should count as his children for our campaign.** Excluding his deliberately created successors while including the wider New Men would be an unnecessarily narrow interpretation. I’ve recorded that they are intended beneficiaries and that the protection must have meaningful consequences.
+
+That establishes **who is covered**, while leaving the precise protection to be established. I won’t invent an “entering this place cancels everything” clause—or a convenient proxy loophole—merely to negate it. Equally, the published bargain does not give us enough detail to promise unrestricted passage or immunity to every danger. Bile’s sacrifice to preserve his children supports genuine attachment, even though attachment can coexist with possessiveness, experimentation and horrific expectations. The simple contrast of an entirely loving Bile against an entirely unfeeling Emperor would flatten both characters. [Bile and the New Men](https://wh40k.lexicanum.com/wiki/Gland-Hound).
+
+You are also right about the **strong Slaaneshi association of the Crone Worlds**. They are daemon worlds, and explicitly Slaanesh-controlled examples exist. My distinction was about treating *every* Crone World as uniformly governed by Slaanesh or equivalent to entering its personal divine realm; the lore describes broader occupation by the Ruinous Powers and their servants. [Crone Worlds](https://wh40k.lexicanum.com/wiki/Crone_world).
+
+Finally, **being a god does not establish unlimited knowledge, and being concealed does not require first becoming a god yourself.** Protection, wards, misleading appearances and another power’s intervention can matter; Cegorach’s protection of mortal Harlequins illustrates how a mortal’s security need not depend solely on their own power. That does not prove Galahad can personally conceal his plans from focused divine scrutiny. [Cegorach](https://wh40k.lexicanum.com/mediawiki/index.php?mobileaction=toggle_view_mobile&title=Cegorach).
+
+For the story, I’d treat entering a Slaaneshi domain as a serious risk of exposure, without automatically handing Slaanesh a complete transcript of Galahad’s thoughts and future research. **Attention, discovery and understanding should matter—even for gods.**
+
+These distinctions are now in the local narrator notes; nothing has advanced in the present-day story.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately 2 local years  
+Date: Ten months and eleven days after Collegium enrolment; evening  
+Reputation: Celebrated scholar, inventor and commissioned technical examiner  
+Weapons (Equipped): None; greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Research, examination papers, books, mechanical creations, crafting materials and charms; unchanged  
+Currency: 560 lorrats; 30 owed upon report delivery
+
+
+## 370 — User — World revision request
+
+Well all new men are covered that is explicitly defined in Bile’s deal to my knowledge so since we are the Kings and Queens of the New Men we also benefit as do any other New Men. Bile bargained. Slaanesh wanted his soul and wanted an in on the new men species with offers to empower them and Bile just gave them his soul in exchange for protecting the New Men but not influencing them. They can join Slaanesh but Slaanesh cannot influence them. So I guess maybe Slaanesh could try and kill me but I’m not sure. Assuming it knows the full extent of my ambitions, that level of pride and hubris, Slaanesh may very well prefer to let me have my way and watch until a later point.
+
+
+## 371 — Assistant — Progress note
+
+I’ll check the wording around protection and influence specifically. Those are different terms, and I shouldn’t substitute a general assumption about Chaos bargains for what Bile actually negotiated.
+
+
+
+## 372 — Assistant — Progress note
+
+**You were right about the substance of the bargain. I found a fuller reproduced passage, and my earlier account was incomplete.** Bile explicitly says:
+
+> “The bargain is for their safety. From you, as well as my other foes.”
+
+He then specifies that **all his creations** must be left unmolested to choose their own fate. He rejects Fulgrim’s proposed instruction and guidance, permits voluntary service, and Fulgrim agrees. This is a reproduced *Manflayer* excerpt rather than a complete edition I independently checked, but it directly supports the distinction you were making. [Passage reproduced here](https://www.reddit.com/r/40kLore/comments/1g4wcna/).
+
+Consequently, **Galahad and the cohort benefit because they are among Bile’s creations—not because we need to award them special favourite-child status.** For our campaign, the agreement protects their autonomy and safety. I should not casually assume that Slaanesh can deliberately attack them, force their corruption or arrange an obvious proxy attack while somehow respecting that promise. Nor should I invent a clause cancelling it because Galahad visits a particular place.
+
+That still differs from being invulnerable to independent enemies or every hazard of the Warp, but the protection itself is real and should matter.
+
+**Your suggestion that Slaanesh might prefer to watch is a convincing possible interpretation.** Galahad could freely pursue perfection, accumulate souls and attempt divinity while Slaanesh finds the spectacle fascinating—or expects his ambitions eventually to lead somewhere pleasing. That requires neither direct interference nor certainty about the outcome.
+
+Crucially, **Slaanesh enjoying his choices would not mean it owns those choices, or that he has secretly consented to serve it.** That tension is much more interesting than automatically declaring every ambitious character a puppet.
+
+I’ve corrected the local narrator notes so the fuller bargain supersedes my earlier, overly narrow account.
+
+Name: Galahad; Orsival registration unresolved  
+Age: Approximately 2 local years  
+Date: Ten months and eleven days after Collegium enrolment; evening  
+Reputation: Celebrated scholar, inventor and commissioned technical examiner  
+Weapons (Equipped): None; greatsword stored in his room  
+Armor/Clothing (Equipped): Charcoal coat, pale shirt, dark trousers, leather boots  
+Gear/Inventory: Research, examination papers, books, mechanical creations, crafting materials and charms; unchanged  
+Currency: 560 lorrats; 30 owed upon report delivery
+
+
+## 373 — User — World revision request
+
+Over the next week I fully redesign the entire pumping works system to be more efficient than the current one. Not just the south section. I visit all the sections personally to ensure my designs hit the mark. I set all the upgrade work out into fully modular and insert able upgrade sections that allow the work to be completed in parts with the upgraded sections working with the older sections seemlessly. I also ensure the budget of each section is less than the annual repair costs for each section being replaced by using more efficient design tolerances. Once I have finished this full redesign I go to see Vaust. I have two proposals I wish for as payment instead of the agreed upon amount. I want myself recognised as head of the Orsival Family us elevated to a Minor Noble Family and given a small amount of land near Serravonne. I also ask that he lobby the Margrave to Sponsor the Collegium for a world wide expedition over the next year for myself a collection of my colleagues under my guidance to travel the world and collect knowledge to be stored by the Chancery to advance Veyrasse above its rival powers. I ensure to use my psychic abilities to ensure a sense of ease and comfort as I do this. I also present Vaust with the money back he originally gave me for the commission plus an extra 150 as grease the wheels money.
+
+
+## 374 — Assistant — Progress note
+
+I’ll refresh the commission, Vaust’s authority and the local rules for noble recognition before resolving the week’s work and your meeting.
+
+
+
+## 375 — Assistant — The pumping works and two petitions
+
+By the third morning, the works staff have stopped bringing you only the drawings they think you need.
+
+They bring the amended ones. The abandoned ones. A maintenance book with a scorched corner and a succession of repairs entered in three different hands.
+
+Cevrane helps secure accompanied access beyond the original southern commission. You walk the other pumping halls, climb the reservoir stairs and examine installations whose replacements were fitted decades apart. Beneath the pounding machinery, men have to shout to make themselves heard. Your questions become familiar enough that some begin preparing answers before you arrive.
+
+The conflicting daily returns explain part of the southern discrepancy. Worn equipment and poor coordination between stages explain the rest. There is genuine waste, but the records do not support an accusation of theft.
+
+Your redesign reaches beyond that fault.
+
+By the end of the week, the papers describe the entire pumping network as a connected system. Each proposed replacement has its own drawings, cost schedule and installation sequence. Existing sections can remain in service alongside the new ones. The works can advance through the programme without waiting for one enormous closure or appropriation.
+
+The financial test holds, too. Against the recorded annual repair expenditure for each section, your estimated replacement modules come in below the corresponding allowance. Much of the advantage comes from preserving serviceable infrastructure and making components easier to produce, fit and maintain. The estimates include installation and temporary arrangements to keep water moving. They are credible estimates awaiting procurement and a working demonstration, not savings already realised.
+
+Cevrane spends a long time on the cost sheets.
+
+“I expected you to find the fault,” he says at last. “You appear to have found a different way of running the place.”
+
+He supplies a covering statement confirming your inspections and recommending a witnessed trial of the first module.
+
+***
+
+Vaust has a cup of coffee beside his elbow when you enter. A crescent of bread, spread with something dark and sweet, rests untouched on its saucer.
+
+He looks at the thickness of the bundle.
+
+“That is either a very thorough explanation or very expensive news.”
+
+As you set out the redesign and your requests, the tension leaves his shoulders. Your psychic influence settles over him without extinguishing his attention. He listens readily, asking you to unfold the sheets rather than searching for a reason to end the interview.
+
+The thirty-lorrat advance and the additional hundred and fifty lie separately beside the drawings.
+
+“The advance goes back through accounts,” he says. “You will have a receipt.”
+
+He draws the other money beneath a folded memorandum. There is no receipt for that.
+
+Then he returns to the proposal.
+
+“A house. Land. And a year abroad under the Margrave’s patronage.”
+
+He says it thoughtfully, without the little smile such a request might ordinarily earn from him.
+
+For several minutes, he moves between your cost schedules and Cevrane’s statement. One finger traces the boundaries between the proposed stages.
+
+“This is the useful part,” he says. “They can authorise one section. They can watch it work. They need not believe every promise at once.”
+
+He turns a clean sheet towards himself.
+
+“I cannot ennoble you. I can put a recommendation before someone who can, and I will.”
+
+His pen begins moving.
+
+“Galahad Orsival. Founder and head of a proposed minor hereditary house. A modest landed grant near Serravonne, subject to the estate register. Your family relationship will need to be recorded in the petition. We can address that in the same submission.”
+
+He leaves space beneath it.
+
+“I will recommend that the grant be considered against the demonstrated value of these works. A successful first installation gives the petition something much harder to dismiss than my enthusiasm.”
+
+At the expedition request, he pauses again.
+
+“The Collegium gives it scholarly standing. The Chancery receives the collected knowledge. The March gains people who know how to use it.”
+
+He taps the pen against his thumb.
+
+“Yes. There is an argument there.”
+
+His agreement is accompanied by a fresh sheet, not a dismissal.
+
+“A worldwide expedition requires foreign permissions, transport and a budget. I will sponsor the request for consideration, with you proposed as its scholarly director. The Collegium must provide its own endorsement; I cannot promise their people on their behalf. Nor can I promise a departure date before the court has seen what it is being asked to support.”
+
+He places the two petitions beside one another.
+
+“I will have acceptance of your report entered today. The unpaid thirty can remain on account while we seek approval for your proposed replacement reward. Returning the advance does not, by itself, oblige the Margrave to grant either request.”
+
+He looks up at you, comfortably meeting your eyes now.
+
+“I can carry this forward, Galahad. But I need one answer before I write the recommendation.”
+
+His hand rests on the expedition sheet.
+
+“What rights are you offering the March in the designs and knowledge it pays to obtain? Permission to use them—or exclusive ownership?”
+
+---
+
+Name: Galahad; petition for House Orsival being prepared, no title granted  
+Age: Approximately 2 local years; eight and a half feet tall  
+Date: Ten months and eighteen days after Collegium enrolment — daytime  
+Reputation: Accomplished Collegium scholar; complete pumping redesign submitted; Vaust backing petitions for ennoblement and an expedition  
+Weapons (Equipped): None; Vouressan-bone greatsword stored in his room  
+Armor/Clothing (Equipped): Refitted charcoal coat, pale shirt, dark trousers and leather boots  
+Gear/Inventory: Pumping-network redesign, modular installation plans, cost schedules and Cevrane’s endorsement submitted for review; existing research and possessions retained  
+Currency: 380 lorrats after returning the 30-lorrat advance and paying Vaust 150; remaining 30-lorrat fee held pending reward negotiations
+
+
+## 376 — User — World revision request
+
+I smile, the same way a predator would. The calm and comfort doesn’t drop away but from Vaust would feel a palpable sense of presence. “I am offering the Chancery the ability to catch up and level the playing field. I will take details notes of all the advancements of other countries and provide this knowledge to the Chancery and if I were to be made an Advisor to the Margrave I could use this knowledge to elevate Veyrasse into a nation that stands above all others. As well as that I do not plan to solely study academia. Military technology and research would go a long way to helping with the northern border. As well as studying the movements and intrigue of foreign governments and providing reports to the Chancery. Creating relationships that I can use on the Nations behalf to further our causes. I am offering the single greatest opportunity any nation has ever had to build a better future. A stronger future. One where we must bow to no other. Knowledge is the only path forwards and I intend to gather it. Whether the Chancery wishes to become the sole beneficiary of this knowledge and welcome me into the fold or leave me in the cold to be collected by another eager and opportunistic nation is what we currently discuss. I can offer the Chancery all the knowledge in the world by applying that knowledge is another skill entirely and for that you require someone like me. We could sit around, wait for the Northern Border to collapse and flee as the nation falls down around us. But I believe I know which option the Margrave would prefer.”
+
+
+## 377 — Assistant — Progress note
+
+I’ll resolve how Vaust responds to the offer and the implied possibility of losing you to a rival, while keeping his authority distinct from the Margrave’s.
+
+
+
+## 378 — Assistant — Terms of service
+
+Vaust’s pen stops halfway through a word.
+
+The ease you have settled over him remains. He does not recoil from your smile. Instead, his attention becomes unusually still; the small movements of a man conducting routine business disappear.
+
+When you finish, he looks down at the pumping plans, then back at you.
+
+“I believe you intend every word of that.”
+
+He sets the pen down carefully.
+
+“And I believe we would regret letting another government discover what Cevrane has already found.”
+
+For a moment, only the corridor is audible: footsteps, a closing door, the muffled scrape of furniture from the adjoining office.
+
+Vaust rises and shuts his own door.
+
+“The northern border is under pressure. It has not collapsed. I would be careful about predicting that before men whose sons are posted there.”
+
+There is no reprimand in his voice. He returns to his chair and shifts the expedition sheet away from the engineering report.
+
+“But foreign machinery, military practice, useful acquaintances—yes. Those are things the court pays to obtain. Someone who can understand what he sees is worth considerably more than someone who merely sends home a description.”
+
+He studies you for another few seconds.
+
+“You have changed the proposal. You are asking us to invest in you as a servant of the state, with rank sufficient to make that service attractive. That is something I can explain.”
+
+He pulls a fresh sheet from the drawer and writes a heading. This time he keeps the page close to him.
+
+“I will support the house petition. I will support the expedition. I can also make a confidential recommendation that your talents deserve consideration for service beyond municipal works.”
+
+The pen remains poised above the paper.
+
+“I cannot yet recommend your appointment as the Margrave’s adviser. I have seen enough to recommend that you be heard. That is the distinction I can defend.”
+
+Your presence holds his attention, but the suggestion of another country acquiring you has introduced something the comfortable atmosphere cannot remove: a decision for which his name would be accountable.
+
+“And I cannot put an ultimatum before him on your behalf. A man who might become valuable elsewhere is a reason to act. A man who might carry our confidence elsewhere is a reason to hesitate.”
+
+He opens one hand over the documents.
+
+“You are entitled to want a proper place here. I am willing to help you obtain it. But ‘sole beneficiary’ needs to mean something when the enthusiasm has cooled.”
+
+His eyes meet yours again.
+
+“Suppose the Margrave grants the house, the land and the expedition, with a paid scholarly appointment—but reserves an advisory office until you have proved yourself in his service. Would you undertake not to sell or disclose the expedition’s military and state-confidential findings to another government?”
+
+He waits, leaving the recommendation unfinished beneath his hand.
+
+---
+
+Name: Galahad; House Orsival petition pending, no title granted  
+Age: Approximately 2 local years; eight and a half feet tall  
+Date: Ten months and eighteen days after Collegium enrolment — daytime  
+Reputation: Accomplished scholar and engineer; Vaust supports further consideration for state service  
+Weapons (Equipped): None; Vouressan-bone greatsword stored in his room  
+Armor/Clothing (Equipped): Refitted charcoal coat, pale shirt, dark trousers and leather boots  
+Gear/Inventory: Submitted pumping redesign and supporting papers; existing research and possessions retained  
+Currency: 380 lorrats; remaining 30-lorrat fee held pending reward negotiations
+
+
+## 379 — User — World revision request
+
+“I say this so those men can see their sons once more. To remove them from the battlefield and put an end to this constant fighting once and for all and in order to achieve that plan this is a part of it. If the Chancery and the Margrave are willing to grant me a position of the head of a Minor Noble House with the lands and titles befitting it for myself and my family and are willing to find the expedition which I have no doubt the Collegium will agree to with my instruction. Then that retains my service. According to the dictated social protocols, if I then went out and sold state secrets or attempted to leverage this information with rival powers that would be treason. I am no traitor and I am sure you would never insinuate I would pursue such a path, would you Vaust my friend?” I say as I laugh with a pleasant smile, showing no hostility at all but making it clear that a line has been crossed. (It’s not that Galahad really cares about this hence the social convention stuff. He is basically a high functioning Psychopath in the same way that Dexter is. He isn’t devoid of emotion or anything but because of Corva’s teachings he uses society as basically a guide for what you can and can’t do and he is currently committed to working within the confines of the law and morality because if he disregarded those he could very easily usurp power and the pride in him won’t allow him to because he will always wonder if he could have done it this way. The hard way. Galahad doesn’t have a moral or even personal objection to treason he just knows that being a law abiding individual and trying to fit within the lines he wants to achieve the things he wants the best course of action is for him to appear to be vehemently opposed and even somewhat offended at the insinuation. It’s not that Galahad wouldn’t, it’s just the current handicap/set of rules he is working with won’t let him and he can’t drop the rules without feeling like cheating and if you cheat your way to perfection and your goals you don’t really achieve them.)
+
+
+## 380 — Assistant — Progress note
+
+I’ll preserve that distinction: Galahad’s response is deliberate social positioning, and his commitment to these rules comes from pride and Corva’s influence rather than an assumed moral aversion to treason.
+
+
+
+## 381 — Assistant — The recommendation
+
+Vaust answers your laugh with a smaller one. His pen lowers to the desk.
+
+“No, Galahad. I would not.”
+
+He inclines his head, acknowledging the correction without making a ceremony of it.
+
+“I asked for an undertaking. You have given me one, conditional upon the patronage you seek. I should have put the question more carefully.”
+
+He draws the unfinished recommendation towards him. This time, the pen moves steadily.
+
+“And I take your point about the soldiers. I will present your ambition as strengthening the March sufficiently to secure a lasting peace.”
+
+The wording comes more easily now. Your assertion gives him something he can put before his superiors: a prospective relationship of service and patronage, expressed in terms they already recognise.
+
+He reads the central passage aloud.
+
+“‘The petitioner seeks recognition as founder and head of a minor hereditary House Orsival, with a modest landed establishment in the vicinity of Serravonne and provision for his recognised parents. In return for this patronage and sponsorship of the proposed Collegium expedition, he offers his service to the March and undertakes to reserve its confidential findings for the sponsoring authority.’”
+
+He looks up briefly, then adds a separate line beneath it.
+
+“‘The precise grant, expedition commission and subsequent office are to be settled by the competent authorities.’”
+
+The great promises of your speech have become a paragraph that can travel through the Chancery without its first reader dismissing it as a young scholar’s extravagance. Beside it lie the pumping plans: something measurable to support the claim.
+
+Vaust turns to the family particulars.
+
+“Corva Orsival. And your father’s name?”
+
+He leaves the space open rather than guessing.
+
+“Their inclusion should be explicit from the beginning. It saves an unpleasant argument later about whether a grant honours the household or merely its new head.”
+
+From another drawer he takes a narrow folder and places the recommendation inside, with Cevrane’s endorsement and the summary of projected works expenditure. The larger drawings remain on the desk.
+
+“I will request a preliminary hearing through the Chancery. The works proposal gives me grounds to ask that it be considered promptly. The Collegium’s endorsement and an expedition outline can follow; we need not leave this sitting here until every port and railway fare has been settled.”
+
+He rests his hand on the folder.
+
+“I will also request particulars of land available near Serravonne. That is an inquiry, you understand, not an allocation.”
+
+There is more warmth in his expression when he looks back at you.
+
+“As for an advisory office, I will record your interest. Let them hear you before they decide where to put you.”
+
+He returns the pen to the blank beneath Corva’s name.
+
+“Your father?”
+
+---
+
+Name: Galahad; House Orsival petition in preparation, no title granted  
+Age: Approximately 2 local years; eight and a half feet tall  
+Date: Ten months and eighteen days after Collegium enrolment — daytime  
+Reputation: Accomplished scholar and engineer; Vaust preparing a favourable recommendation for patronage and a preliminary hearing  
+Weapons (Equipped): None; Vouressan-bone greatsword stored in his room  
+Armor/Clothing (Equipped): Refitted charcoal coat, pale shirt, dark trousers and leather boots  
+Gear/Inventory: Submitted pumping redesign and supporting papers; existing research and possessions retained  
+Currency: 380 lorrats; remaining 30-lorrat fee held pending reward negotiations
+
+
+## 382 — User — World revision request
+
+“Veskan Orsival.” (I know the name from basically memory leakage. I don’t need to try and read people’s minds I can’t help but notice surface thoughts so I know his full name and the approximate shape of his and Corva’s history without them directly telling me. But I also know how to distinguish between what is spoken and what isn’t now so I make a habit of waiting until people actually tell me things in most cases because of Corva and Veskan’s earlier teachings around the ability.)
+
+
+## 383 — Assistant — Progress note
+
+I’ll record that Galahad can now distinguish spoken words from involuntary psychic impressions, and usually waits for people to share personal information themselves.
+
+
+
+## 384 — Assistant — The petition leaves the office
+
+“Veskan Orsival.”
+
+Vaust writes the name beneath Corva’s, then draws a fine line connecting both entries to yours.
+
+“Both parents included in the proposed grant,” he says. “With you as head of the new house.”
+
+He makes no inquiry about how you learned the name. There is nothing remarkable, to him, in a son knowing it.
+
+The nib scratches through the last few lines. Vaust sands the page, tips the excess into its tray and signs beneath his recommendation. His signature commits his own support; the space reserved for a superior’s decision remains empty.
+
+He rings the small bell beside his desk.
+
+When the clerk enters, Vaust closes the confidential folder before handing it across.
+
+“For preliminary consideration. The supporting works report is to remain available here. Please have accounts acknowledge the returned advance, and send the estate office an inquiry concerning small holdings near Serravonne.”
+
+The clerk checks the destination written on the folder, gives you a brief glance and departs with it held flat against his chest.
+
+Vaust watches the door close.
+
+“Now it is moving.”
+
+He reaches for his coffee, discovers it has gone cold, and sets it down again.
+
+“I will send word to your rooms at the Collegium when I have an answer. In the meantime, speak to the colleagues you would actually want beside you. A list of people willing to travel will serve us better than a list of distinguished names.”
+
+He gathers the cost summaries into a separate pile, leaving the expedition papers clear of them.
+
+“And have Cevrane keep the first installation proposal ready. If someone asks what warrants all this attention, I want to be able to show them.”
+
+Beyond the office door, the clerk’s footsteps recede along the passage. For the first time, the request for House Orsival is travelling through the Chancery under someone else’s signature.
+
+---
+
+Name: Galahad; House Orsival petition submitted for preliminary consideration, no title granted  
+Age: Approximately 2 local years; eight and a half feet tall  
+Date: Ten months and eighteen days after Collegium enrolment — daytime  
+Reputation: Accomplished scholar and engineer; formally recommended by Vaust for patronage and further consideration  
+Weapons (Equipped): None; Vouressan-bone greatsword stored in his room  
+Armor/Clothing (Equipped): Refitted charcoal coat, pale shirt, dark trousers and leather boots  
+Gear/Inventory: Pumping redesign and supporting papers lodged with the Chancery; existing research and possessions retained  
+Currency: 380 lorrats; remaining 30-lorrat fee held pending reward negotiations
+
+
+## 385 — User — World revision request
+
+I thank Vaust for his service and return to the Collegium. Then I gather all the Professors and the Headmaster and push them to accept the proposal which I suspect will take little to no effort once combined with my calming and comforting psychic pressure. I ask the gathered Academics to select individuals they believe or are actively helping to become their successor. This will ensure the next generation has an advantage on the previous and creates a solid academic foundation for continuance (which given the planet’s history with the Hunters would be very culturally relevant). Then I continue to follow my standard routine of learning, hunting, crafting and selling as well as teaching. One extra thing I add is I begin taking notes and creating documentation about my Psycher abilities which from my reference from planetary history and culture it is just Magic. I do this because Magic does not appear to be well documented in Veyrasse so I will begin documenting and experimenting in secret and recording the results. I continue this routine until the expedition and my petition for Minor Noble House status is approved and members of the expedition have been chosen and a date selected.
+
+
+## 386 — Assistant — Progress note
+
+I’ll resolve the Collegium’s response and the court’s decisions, including the expedition’s personnel and departure date, then record the elapsed time and your accounts.
+
+
+
+## 387 — Assistant — Progress note
+
+The Collegium and court both respond favourably, with the successful first installation giving Vaust concrete evidence for the petition. I’m keeping the expedition’s funds separate from your personal money, and treating your private magical notes as early experimental findings rather than immediate mastery of new abilities.
+
+
+
+## 388 — Assistant — House Orsival and the expedition
+
+The Collegium lends you its council room, then discovers that its longest table is insufficient.
+
+Professors arrive carrying notebooks, proposed destinations and objections they have already begun answering themselves. Your calming influence softens the usual territorial disputes. A question about whose department will receive credit becomes a discussion of whose assistant can best take the measurements.
+
+It is the proposal to send their successors that settles the room.
+
+“We keep copies of our books in separate buildings,” the Headmaster says. “We ought to exercise the same care with the people who understand them.”
+
+No one needs the reference to the Hunters explained.
+
+Savel agrees to remain behind. He argues that someone must preserve the teaching programme and receive whatever you send home, rather than allowing the expedition to empty the Collegium of its future and its present together. The other professors begin naming people they have trusted with more work than their modest appointments suggest.
+
+The endorsement is signed that afternoon. Choosing the travellers takes longer.
+
+***
+
+Four weeks pass.
+
+At the pumping works, the first authorised replacement section goes into service beside machinery it was never originally designed to accompany. The transition proceeds without interrupting the district’s supply. Cevrane records the expenditure, the running behaviour and the reduced waste; the results support your calculations closely enough that the next stage is authorised.
+
+Vaust sends copies of the witnessed return upstairs with his recommendation.
+
+Your own evenings remain divided between work that can be shown and work that cannot.
+
+In a separate notebook, you begin recording your magic: what you intended, what you actually observed, how long an impression lasted, whether a repeated attempt produced the same result. You distinguish the sharpening of your own attention from something changing outside you. The distinction makes several earlier observations more useful—and exposes a few apparent successes that will not repeat reliably.
+
+The small emerald discharges become easier to reproduce consistently. The charms remain less certain. Some retain a perceptible impression after your attention leaves them; that alone does not establish that they avert misfortune. You now have dated observations against which later experiments can be compared.
+
+No one at the Collegium is given these pages.
+
+Your hunts bring back material, but Dorlac cannot sell every new piece as quickly as you can make it. Three charms find buyers during the month. Others remain with her on consignment. Their value has not vanished, but it is not money in your account yet.
+
+Teaching continues. So do your calls home.
+
+***
+
+The approval arrives in a long, stiff packet bearing two different seals.
+
+The first document formally recognises **Galahad Orsival as founder and head of a minor hereditary noble house**. Corva and Veskan are expressly included as your recognised parents, with the styles **Lady Corva Orsival, Mother of the House**, and **Sir Veskan Orsival, Father of the House**. Neither is appointed your regent.
+
+The land schedule grants **fifty-six hectares near Serravonne**: a modest estate comprising meadow, woodland and cultivated ground, with an older dwelling and outbuildings requiring attention. Existing occupancies and lawful tenancies remain protected. The grant conveys an estate, not ownership of its inhabitants or independent military jurisdiction.
+
+The second seal authorises the expedition.
+
+You are named its **scholarly director**, with the Collegium responsible for its academic records and the Chancery its sponsor. A year of travel is approved, with **6,000 lorrats appropriated to the expedition account**. Transport, instruments, salaries and other expenses are to be paid from that account against records. It is not a personal purse.
+
+The findings are to be deposited with the Chancery and preserved at the Collegium under the agreed confidentiality restrictions. Military and diplomatic reports receive separate handling. No exclusive claim over every future invention you might independently produce has been inserted into the commission.
+
+Your request for an advisory office is acknowledged, but no such appointment is granted. The expedition itself is your first substantial state commission.
+
+The original sixty-lorrat examination fee is formally superseded by the approved patronage: the returned advance remains returned, and the outstanding thirty is cancelled.
+
+***
+
+By then, the nominated scholars have accepted their places:
+
+- **Osselin Varcet**, Savel’s nominee in mechanics: an assistant lecturer with workshop experience who asks how foreign machines are maintained, not merely how they perform when new.
+- **Iselle Rouvant**, chemistry and materials: an exacting laboratory demonstrator, trusted to distinguish a useful sample from an impressive-looking contaminant.
+- **Elvire Sarnot**, surveying and waterworks: a field instructor accustomed to reconciling elegant plans with awkward ground.
+- **Rovain Tessier**, languages and political history: a junior lecturer who will carry correspondence and compare accounts without assuming official explanations are complete.
+- **Darsenne Aubrel**, natural history: a curator’s deputy concerned with cultivation, useful materials and the differences between what local people know and what visiting scholars think they know.
+
+They are successors in training, not five established masters displaced from their chairs. Their patrons have agreed to remain available for correspondence and to preserve duplicate reports at home.
+
+The approved first leg runs through **Ceralte**, where onward passage can be arranged. The wider itinerary allows travel across all three inhabited continents, subject to access and transport; a charter from Veyrasse does not compel foreign governments to open their laboratories.
+
+Departure is fixed for **twenty-one days after the approval**.
+
+In the council room, Savel reads the date twice before laying the commission flat.
+
+“Three weeks,” he says.
+
+Beyond him, the selected scholars are already discussing specimen cases, notebooks and the quantity of baggage that can reasonably be called essential.
+
+Beside the expedition commission lies the land schedule. At its head, in the same formal hand as the Margrave’s other grants, stands a name that has never appeared on such a document before.
+
+**House Orsival.**
+
+---
+
+Name: Lord Galahad Orsival; founder and head of House Orsival  
+Age: Approximately 2 local years; still growing  
+Date: Four weeks after the Chancery petition meeting; expedition departs in twenty-one days  
+Reputation: Newly ennobled engineer and Collegium scholar; director of a Margrave-sponsored expedition  
+Weapons (Equipped): None; Vouressan-bone greatsword stored in his room  
+Armor/Clothing (Equipped): Refitted charcoal coat, pale shirt, dark trousers and leather boots  
+Gear/Inventory: Noble grant and 56-hectare estate near Serravonne; expedition commission and roster; private experimental magic notebook; existing research, creations and possessions; unsold charms with Dorlac  
+Currency: 473 lorrats personal funds: 380 + 60 stipend + 45 net charm sales − 12 materials and incidental expenses. Separate expedition appropriation: 6,000 lorrats. Former 30-lorrat balance cancelled under replacement reward
+
+
+## 389 — User — World revision request
+
+Ok now please update the GitHub documentation. Please take your time and any documents you are updating please read them in full, line by line. This ensures you do not miss any outdated info, errors, mistakes or inconsistencies. Please take your time I am more than happy to wait. This should be quite a bit so please take your time and check everything. Again I am more than happy to wait. I would prefer to wait and have you been in depth and go through each section of the updated documentation to ensure it is done correctly.
+
+
+## 390 — Assistant — Progress note
+
+I’ll read the current documents in full, reconcile them with the transcript and latest approvals, then check the data-slate before publishing through the signed-in Codex browser. I’ll also verify the live update and keep private campaign notes out of the public files.
+
+
+## 391 — Assistant — Progress note
+
+The old checkpoint still has the commission unfinished, Galahad’s surname unregistered, and nobility only proposed. I’m replacing that stale state throughout the current records, rather than adding another correction on top.
+
+The financial distinction is also important: Galahad has **473 lorrats personally**; the **6,000-lorrat expedition appropriation** is a separate account. The first pumping upgrade is working, but the full network has not yet been rebuilt.
+
+
+## 392 — Assistant — Progress note
+
+The GitHub session is available and signed in. I’ve also recovered the complete recent exchanges for the archive, including the five expedition appointments and the conditions attached to the grant.
+
+I’m checking the less visible continuity too: the estate has not been visited, Corva and Veskan have not moved or reconciled, and the newer magical research remains private and experimental. The late-campaign ambitions will stay in the narrator handover rather than appearing as abilities Galahad already has.
+
+
+## 393 — Assistant — Progress note
+
+The updated records now distinguish the completed design, the working first upgrade, and the remaining construction. I’ve consolidated the handover checkpoint so a new session won’t mistake old pending petitions for the present situation.
+
+The reader checks pass so far, including update detection and offline fallback. I’m now checking the phone layout, archive completeness and remaining stale references before uploading.
+
+
+## 394 — Assistant — Progress note
+
+The phone-sized view is rendering cleanly, including the longer name, expedition roster and separate accounts. Navigation, update checks and the national accounting checks have passed.
+
+The original chronicle entries and transcript text are preserved. The current handover now gives one clear starting point: **House Orsival approved, five scholars appointed, departure in twenty-one days**. I’m preparing the final upload now.

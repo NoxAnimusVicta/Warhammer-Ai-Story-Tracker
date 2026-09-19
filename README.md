@@ -23,3 +23,7 @@ One political entry now combines government, economy, military, older arts and c
 ## Revision 41
 
 All settlement and political descriptions reviewed; random civic notes replaced with individual place accounts. Map detail uses one global visibility hierarchy, and nearby settlements no longer suppress each other. Existing geography, routes, census, capacity figures and story state are preserved. Cuisine remains within political records.
+
+## Revision 42
+
+House Orsival is formally recognised, with matching parental titles and a 56-hectare grant near Serravonne. The one-year Collegium expedition has five appointed scholars and a departure date twenty-one days after approval. The records distinguish personal funds from the expedition appropriation, document the completed network design and first working module, and retain the full recent exchanges. Current continuity has been consolidated rather than layered over obsolete checkpoints.

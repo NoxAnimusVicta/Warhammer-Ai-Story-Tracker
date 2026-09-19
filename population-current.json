@@ -1,0 +1,177 @@
+{
+  "revision": 42,
+  "basis": "35 local days after the dated census; 365-day accounting year, not a defined month calendar",
+  "elapsed_local_days": 35,
+  "census_epoch": "Ten months and eleven days after Collegium enrolment \u2014 evening",
+  "estimate_epoch": "Expedition approval; four weeks after petition",
+  "census_population": 1209200000,
+  "estimated_population": 1209597666,
+  "groups": [
+    {
+      "id": "veldrassen",
+      "name": "Veldrassen",
+      "population": 161985386
+    },
+    {
+      "id": "ostrevain",
+      "name": "Ostrevain",
+      "population": 116280226
+    },
+    {
+      "id": "rovessara",
+      "name": "Rovessara",
+      "population": 70625725
+    },
+    {
+      "id": "brannervaux",
+      "name": "Brannervaux",
+      "population": 47429089
+    },
+    {
+      "id": "cervaud",
+      "name": "Cervaud",
+      "population": 31504229
+    },
+    {
+      "id": "veylac",
+      "name": "Veylac",
+      "population": 29906308
+    },
+    {
+      "id": "ossavren",
+      "name": "Ossavren successor territories",
+      "population": 167280749
+    },
+    {
+      "id": "rovengard",
+      "name": "Rovengard",
+      "population": 29311519
+    },
+    {
+      "id": "varnesk",
+      "name": "Varnesk",
+      "population": 19703400
+    },
+    {
+      "id": "galdresk",
+      "name": "Galdresk",
+      "population": 11203544
+    },
+    {
+      "id": "halskert",
+      "name": "Halskert",
+      "population": 18709504
+    },
+    {
+      "id": "tervayne",
+      "name": "Tervayne",
+      "population": 36216662
+    },
+    {
+      "id": "vardol",
+      "name": "Vardol",
+      "population": 64019025
+    },
+    {
+      "id": "averholt",
+      "name": "Averholt",
+      "population": 48920632
+    },
+    {
+      "id": "serevask",
+      "name": "Serevask Republic",
+      "population": 13002119
+    },
+    {
+      "id": "varnelle",
+      "name": "Varnelle",
+      "population": 20807180
+    },
+    {
+      "id": "kelbrun",
+      "name": "Kelbrun",
+      "population": 17609788
+    },
+    {
+      "id": "gavrel",
+      "name": "Gavrel",
+      "population": 7000805
+    },
+    {
+      "id": "other-otranto-400",
+      "name": "Bellacosta Cantons",
+      "population": 32407146
+    },
+    {
+      "id": "other-otranto-700",
+      "name": "Cavressa Principalities",
+      "population": 21802299
+    },
+    {
+      "id": "other-otranto-1100",
+      "name": "Vaulcerre Basin Leagues",
+      "population": 29607664
+    },
+    {
+      "id": "other-otranto-1450",
+      "name": "Seravelle Littoral",
+      "population": 48405569
+    },
+    {
+      "id": "other-morholt-1880",
+      "name": "Haldrevik Concessions",
+      "population": 8702336
+    },
+    {
+      "id": "other-morholt-2190",
+      "name": "Dreissen Wardholds",
+      "population": 13105778
+    },
+    {
+      "id": "other-morholt-2630",
+      "name": "Varneselle Estates",
+      "population": 11104364
+    },
+    {
+      "id": "other-vesalius-2790",
+      "name": "Bressavelle Marches",
+      "population": 27911236
+    },
+    {
+      "id": "other-vesalius-2790-1410",
+      "name": "Vallessia Cantons",
+      "population": 20202324
+    },
+    {
+      "id": "other-vesalius-3160",
+      "name": "Rivessac Coast",
+      "population": 16206369
+    },
+    {
+      "id": "karsenne",
+      "name": "Karsenne Compact",
+      "population": 8001534
+    },
+    {
+      "id": "caldrienne",
+      "name": "Duchy of Caldrienne",
+      "population": 23908250
+    },
+    {
+      "id": "veyrasse",
+      "name": "March of Veyrasse",
+      "population": 15707076
+    },
+    {
+      "id": "calvernis",
+      "name": "Calvernis Republic",
+      "population": 18109025
+    },
+    {
+      "id": "ceralte",
+      "name": "Ceralte Admiralty",
+      "population": 2900806
+    }
+  ],
+  "method": "Existing group trends prorated by 35/365 and rounded once per group. No exceptional losses or migration enacted. Original enumerated returns remain dated in demography.json and national-register.json. Recompute from that same epoch on the next update; do not add this interval twice."
+}
