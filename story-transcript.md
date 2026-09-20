@@ -9326,3 +9326,23 @@ Verified deployment, all nine published files and the phone layout.
 ## 454 — User — Out-of-character atlas maintenance
 
 So I have noticed most of the Sea Passages and Railways do not make a great deal of sense. Alot of Railway Networks seem to function in isoation. I suppose that may have been your intention and if it was that is fine it just seemed odd to me given the inter nation trade. The biggest issue issue is the Sea Passages. It looks like the vast majority of port cities are completely skipped by Sea Passage Routes. I also feel like some of these island chains should be nations of some kind or perhaps colonies of other nations with sea routes that go there. Some of the closer islands like the ones to the east of Otranto really should be colonized or in the borders of some country or be their own given the proximity to the mainland and it's idea position as a restock and refuel point. Unsure if the Polar Land masses need any kind of territory claims, that is entirely up to you
+
+
+## 455 — Assistant — Out-of-character atlas maintenance
+
+[Revision 47 is live](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/#world). You were right: many gaps were mapping omissions.
+
+- **Sea passages:** expanded from 8 to 82, connecting all 52 charted harbours through ocean, coastal and island services.
+- **Railways:** connected missing branches and freight interchanges. Seven distinct systems remain, with customs and transfers where appropriate.
+- **Islands:** ownership now appears on 69 islands. Added 21 island harbour towns, including **Cortessia, Vasselac and Rovellisse** east of Otranto, with refuelling, provisioning and onward passages.
+- **Polar lands:** remain without permanent settlements or generally recognised sovereign borders.
+
+Updated the political records, gazetteer and narrator guidance. Verified route geometry, population accounting, phone layout and deployment. Your booked journeys, funds and story date remain unchanged.
+
+[Updated private narrator handover](C:/Users/jaked/Documents/Codex/2026-09-19/if-we-are-writing-a-40k/outputs/Malaspina-Narrator-Handover-r47.zip).
+
+## 456 — User — Estate artwork and maintenance
+
+I made some art for the estate as it looks now. Would you be able to add it to the web app using the same sort of data slate effect you had for Galahad’s portrait? And place it in the estate section, but for this image I would like to be able to zoom in on the image in the web app so I can browse the finer details in the app. We do not need defined zoom levels like the world maps shows just the ability for me to zoom in and out with a scroll wheel when the mouse is on the image or to pinch in and out to zoom in and out as is the natural phone standard for zooming. Please also use this reference art for yourself in the story. Depending on how the estate grows will depend on how this image changes
+
+Attachment: Photo 1.jpg. Original supplied image retained as assets/estate-r48.jpg in the private handover and estate-r48.jpg in the public app.

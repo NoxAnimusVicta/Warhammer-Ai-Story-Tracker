@@ -85,7 +85,7 @@ Read food-cultures.json and purge-history.json alongside the world record. Use m
 
 Revision39 removes redundant local map additions and provides real northern/southern/western roads. Earlier revisions charted 897 settlements, then 899 after the two Ceralte ports. The current revision47 atlas has 940 settlements and 2,148 routes; use TRANSPORT-REFERENCE.md for the connected shipping network and island administrations. Unvisited repetitive principal names have corrected aliases in the private handover; retain stable IDs and established story names. The old measured-route accordion is retired, but source measurements remain. Read private/map-maintenance.md before editing.
 
-## Revision 47 checkpoint
+## Revision 48 checkpoint
 
 The current scene is the evening before expedition departure at the Auvrienne Collegium, twenty local days after approval (transcript443). Personal cash is 378, with 264 earmarked and 114 uncommitted; expedition cash is 5,490 after 510 paid, including 2,100 reserved for scholarly salaries and 3,390 for other expedition costs. Opening passage via Serravonne to Dalmor and Ceralte permissions are arranged; later foreign requests remain pending. Veskan continues recovering at the estate; Corva retains household authority. Read CURRENT-CONTINUITY.md and the latest exact exchanges.
 
@@ -98,3 +98,7 @@ Apply PHYSIOLOGY-REFERENCE.md before resolving fatigue, injury or combat. Never 
 ## Transport continuity
 
 The current atlas contains 940 settlements and 2,148 routes, including 82 sea passages joining all 52 charted harbours. Regional rail omissions are filled along established transport corridors; seven connected systems remain, including the separate Lelene–Bellisio local branch. Vesalius still has no continuous transcontinental railway, and the direct Karsenne–Calvernis line remains proposed. Political shading now identifies 69 administered islands, including the six existing Ceralte islands; unshaded outer islands have no settled sovereignty shown. Astrellac’s Cortessia, Vasselac and Rovellisse dependencies provide replenishment east of Otranto. Polar lands remain without permanent population or a generally recognised sovereign partition. Read TRANSPORT-REFERENCE.md and world-map.json. No story time, original measured journey, existing settlement position, mainland border, national census or capacity total changes. The revised atlas clarifies existing infrastructure rather than enacting construction during the expedition preparations. New place names and claims are fixed; do not reroll them. Do not infer an operating service merely from a road crossing a railway, and do not treat a graph connection as a single-gauge through train.
+
+## Estate visual continuity
+
+Read ESTATE-REFERENCE.md and assets/estate-r48.jpg before narrating the estate. The player’s image establishes its current visual appearance, including house and courtyard, arcaded service/workshop building, walled gardens, fields, pasture, orchard, wooded slopes and wet lower ground. The existing 56-hectare land account, interior, household, funds and pending repairs remain controlling. Surrounding distant scenery is not automatically owned property. Preserve this dated image; future visuals should follow enacted changes.

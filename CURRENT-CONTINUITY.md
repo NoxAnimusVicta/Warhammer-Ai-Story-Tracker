@@ -1,4 +1,4 @@
-# Current continuity — revision 47
+# Current continuity — revision 48
 
 This checkpoint records the latest enacted scene. Read later exact transcript entries before continuing. Documentation work itself advances no story time.
 
@@ -15,6 +15,8 @@ Approval was 35 local days after the census epoch. The latest scene is twenty da
 He is approximately **two local years and three months old**, leaving roughly **nine months until age three**. Full bodily maturity is reached **around age three**, at **3 metres (about 9 ft 10 in)**. The last actual measurement remains eight and a half feet (2.59 m); the mature target is not his present measurement. Growth need not be linear. Local years, rotation and day/night cycles are broadly Earth-like without fixed exact conversions. All ageing uses local elapsed time; do not invent a thirty-day month or absolute galactic date.
 
 ## House Orsival
+
+Read ESTATE-REFERENCE.md and assets/estate-r48.jpg before narrating the estate. The player’s image establishes its current visual appearance, including house and courtyard, arcaded service/workshop building, walled gardens, fields, pasture, orchard, wooded slopes and wet lower ground. The existing 56-hectare land account, interior, household, funds and pending repairs remain controlling. Surrounding distant scenery is not automatically owned property. Preserve this dated image; future visuals should follow enacted changes.
 
 The grant recognises **Lord Galahad Orsival**, founder and head of a minor hereditary noble house; **Lady Corva Orsival, Mother of the House**; and **Sir Veskan Orsival, Father of the House**. Both parents are legally included. Neither is regent; familial titles do not confer troop command or a separate knighthood.
 
