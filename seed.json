@@ -1,137 +1,137 @@
 {
   "format": "malaspina-dossier",
   "version": 1,
-  "revision": 44,
-  "updatedAt": "2026-09-20T05:07:47.065407+00:00",
+  "revision": 45,
+  "updatedAt": "2026-09-20T07:09:32.894328+00:00",
   "character": {
     "name": "Lord Galahad Orsival",
-    "age": "Approximately two years chronological; still growing. Last measured height: eight and a half feet (2.59 m)",
-    "date": "Three days after arriving at the Orsival estate; expedition departure approximately two and a half weeks away",
+    "age": "Approximately two years and three months in local years; still growing. Last measured height: 2.59 m. Full bodily maturity around age three, at 3 metres (about 9 ft 10 in).",
+    "date": "Evening before expedition departure; twenty local days after approval",
     "reputation": "Founder and head of minor hereditary House Orsival; accomplished engineer, resident scholar and occasional teacher; scholarly director of a Margrave-sponsored worldwide expedition.",
     "weapons": "None equipped; Vouressan-bone greatsword remains wrapped beneath the bed in his Collegium room",
     "clothing": "Cleaned charcoal coat, pale shirt, dark trousers and leather boots",
-    "inventory": "Estate accounts, land schedule and repair priorities. Private study and library/archive room designated; storehouse assigned as future workshop. Books, research, mechanical creations, tools and the bone greatsword remain at the Collegium unless expressly transferred. Earlier station belongings remain in Corva\u2019s keeping.",
-    "currency": "402 personal lorrats held: 282 earmarked and 120 uncommitted. Separate expedition appropriation: 6,000 lorrats, unspent.",
-    "location": "Orsival estate near Serravonne \u2014 household and estate affairs",
-    "condition": "Uninjured and alert. Earlier wounds healed. Stable body\u2013soul integration. No chronic pain.",
+    "inventory": "Expedition papers, first-leg tickets, packed field supplies and measuring hand tools. Selected survey instruments, a microscope and balances are inventoried Collegium loans. Personal research, mechanical creations and the wrapped bone greatsword remain in his Collegium room unless expressly packed. Earlier station belongings remain in Corva’s keeping. Study, library and future workshop remain designated at the estate.",
+    "currency": "378 personal lorrats held: 264 earmarked and 114 uncommitted. Separate expedition fund: 5,490 held after 510 spent; 2,100 reserved for scholars’ pay and 3,390 available for other expedition costs.",
+    "location": "Auvrienne Collegium — final expedition preparations",
+    "condition": "Uninjured and alert. Earlier wounds healed. Stable body–soul integration. No chronic pain.",
     "language": "Fluent local speech and independent reading and writing. All Collegium curricula completed and every book in its library read twice. Resident research and occasional teaching span its subjects; further study pursues private collections, industrial practice and the older magical arts.",
-    "notes": "Veskan is recovering at the estate after the railway-yard attack. The surgeon found a through-flesh upper-arm wound without fracture, alongside concussion, cuts and bruising. He can sit and eat; his arm still needs rest and care. Galahad has demonstrated repeatable repair of small superficial cuts while tending him.\n\nCorva and Veskan know about their titles and the one-year expedition. This estate is now their home. Corva has Galahad\u2019s authority to manage house finances, staffing and maintenance during his absence. Lucette Marcenay continues as live-in caretaker.\n\nThe watch initially accepted the witnesses\u2019 account of a Hunter attack after Galahad killed Orvasse and the Scerault men present. No actual Hunter appeared. The account is not a completed investigation or immunity from later scrutiny."
+    "notes": "Veskan is recovering at the estate after the railway-yard attack. The surgeon found a through-flesh upper-arm wound without fracture, alongside concussion, cuts and bruising. He has improved enough to sit in the garden-facing sitting room; his arm remains supported and still needs rest and care. Galahad has demonstrated repeatable repair of small superficial cuts while tending him.\n\nCorva and Veskan know about their titles and the one-year expedition. This estate is now their home. Corva has Galahad’s authority to manage house finances, staffing and maintenance during his absence. Lucette Marcenay continues as live-in caretaker.\n\nThe watch initially accepted the witnesses’ account of a Hunter attack after Galahad killed Orvasse and the Scerault men present. No actual Hunter appeared. The account is not a completed investigation or immunity from later scrutiny."
   },
   "journal": [
     {
-      "date": "Day 0 \u2022 Evening",
+      "date": "Day 0 • Evening",
       "title": "Planetfall",
       "body": "The incubation pod came to rest in a shattered planting bed beneath a ruined glasshouse roof. Its chamber, life support and integrated power remained functional. The fluid drained and the lid opened. Beyond the terrace lay jungle, a hillside railway and distant buildings beside dark water. Three adults approached aboard a small rail vehicle."
     },
     {
-      "date": "Day 0 \u2022 Evening",
+      "date": "Day 0 • Evening",
       "title": "First steps",
       "body": "The subject climbed out, caught himself during an initial stumble and established his balance without injury. Close inspection revealed abundant sensory detail, though unfamiliar sounds and movement remained difficult to interpret. The rail vehicle stopped below and a voice called uphill."
     },
     {
-      "date": "Day 0 \u2022 Evening",
+      "date": "Day 0 • Evening",
       "title": "The voice below",
-      "body": "Recognising a bodily resemblance to the occupants, the subject approached and tried to imitate their call. A loose stair broke beneath him; the surviving railing prevented a fall. The first vocal imitation was distorted. A man with a lamp signalled him to stop while a companion raised a rifle. The lampholder touched his own chest and repeated \u201cVeskan\u201d."
+      "body": "Recognising a bodily resemblance to the occupants, the subject approached and tried to imitate their call. A loose stair broke beneath him; the surviving railing prevented a fall. The first vocal imitation was distorted. A man with a lamp signalled him to stop while a companion raised a rifle. The lampholder touched his own chest and repeated “Veskan”."
     },
     {
-      "date": "Day 0 \u2022 Evening",
+      "date": "Day 0 • Evening",
       "title": "A name repeated",
-      "body": "The subject identified the wooden and metal object as a probable weapon. Two slow angled steps placed Veskan across its line; the bearer lowered the muzzle. With an open palm raised, the subject touched his own chest and reproduced \u201cVeskan\u201d clearly. Veskan repeated his stopping gesture, then demonstrated the distinction between himself and the child. The vehicle\u2019s engine was switched off."
+      "body": "The subject identified the wooden and metal object as a probable weapon. Two slow angled steps placed Veskan across its line; the bearer lowered the muzzle. With an open palm raised, the subject touched his own chest and reproduced “Veskan” clearly. Veskan repeated his stopping gesture, then demonstrated the distinction between himself and the child. The vehicle’s engine was switched off."
     },
     {
-      "date": "Day 0 \u2022 Evening",
+      "date": "Day 0 • Evening",
       "title": "An offer of warmth",
       "body": "The subject stopped, pointed to Veskan and repeated his name, then pointed to himself, hesitated and nodded. Veskan acknowledged the exchange without naming him. After speaking with his companions, he received a heavy grey cloth, placed the lamp on a trackside bracket and demonstrated wrapping the cloth around his shoulders. He held it open toward the child while the armed man kept his weapon low and watched the vegetation."
     },
     {
-      "date": "Day 0 \u2022 Evening",
+      "date": "Day 0 • Evening",
       "title": "Cloth and speech",
-      "body": "The subject accepted the heavy grey cloth and wrapped it around himself as demonstrated. He continued copying the patrol\u2019s speech. Isolated sounds could be reproduced, but connected speech remained difficult to divide and interpret. Veskan repeated gestures alongside sounds. The rifleman lowered his weapon away from the subject, and Veskan demonstrated the trolley footboard."
+      "body": "The subject accepted the heavy grey cloth and wrapped it around himself as demonstrated. He continued copying the patrol’s speech. Isolated sounds could be reproduced, but connected speech remained difficult to divide and interpret. Veskan repeated gestures alongside sounds. The rifleman lowered his weapon away from the subject, and Veskan demonstrated the trolley footboard."
     },
     {
-      "date": "Day 0 \u2022 Evening",
+      "date": "Day 0 • Evening",
       "title": "Departure by rail",
-      "body": "The subject boarded voluntarily, studying the vehicle while remaining cautious about the occupants\u2019 intentions. He observed the brake linkage and the engine\u2019s connection to the moving drive. Veskan left the entrance chain unfastened and gestured to warn of the hot cover. The driver restarted the engine and released the brakes. The trolley began descending toward distant lights, leaving the pod in the ruined glasshouse."
+      "body": "The subject boarded voluntarily, studying the vehicle while remaining cautious about the occupants’ intentions. He observed the brake linkage and the engine’s connection to the moving drive. Veskan left the entrance chain unfastened and gestured to warn of the hot cover. The driver restarted the engine and released the brakes. The trolley began descending toward distant lights, leaving the pod in the ruined glasshouse."
     },
     {
-      "date": "Day 0 \u2022 Dusk",
+      "date": "Day 0 • Dusk",
       "title": "Serravonne",
       "body": "During the journey the subject watched the machinery and practised speech. Repeated gestures gave familiar sounds concrete meanings, while longer exchanges remained difficult. The trolley reached Serravonne, a fortified coastal settlement with a cleared perimeter, guarded rail gate and industrial yards. Following a brief exchange with the gate guards, the patrol entered and stopped beside a lit station building."
     },
     {
-      "date": "Day 0 \u2022 Dusk",
+      "date": "Day 0 • Dusk",
       "title": "A room of purposes",
       "body": "The subject followed Veskan indoors. Clothing, boots, walls, windows and doors revealed practical functions through observation. The woman with the ledger demonstrated how opening the stove vent strengthened the fire and used cloth to handle the hot kettle. Words for objects and simple actions were repeated and distinguished. Water from a separate covered jug was offered in a chipped enamel cup."
     },
     {
-      "date": "Day 0 \u2022 Dusk",
+      "date": "Day 0 • Dusk",
       "title": "The first drink",
-      "body": "The subject lifted the cup and sniffed the water. Detecting no obvious foul or irritating odour, he drank it all and repeated \u201cDrink\u201d. The woman then demonstrated \u201cCup\u201d. The subject correctly repeated that word while raising the vessel, identified Veskan and indicated himself without supplying a name. The empty cup remained in his hand."
+      "body": "The subject lifted the cup and sniffed the water. Detecting no obvious foul or irritating odour, he drank it all and repeated “Drink”. The woman then demonstrated “Cup”. The subject correctly repeated that word while raising the vessel, identified Veskan and indicated himself without supplying a name. The empty cup remained in his hand."
     },
     {
-      "date": "Day 0 \u2022 Early night",
+      "date": "Day 0 • Early night",
       "title": "A place for the night",
       "body": "The woman introduced herself as Corva. Lessons continued alongside a discussion the subject could only partly follow. Corva used a wall telephone and wrote in her ledger. Workers brought bedding and a folding canvas bed, which she prepared in a cleared alcove beside the kitchen. A gate man spoke with her, observed the preparations and left. Corva placed a bowl of warm grain-and-vegetable food and a spoon beside the bed. Veskan returned to the yard. Corva then invited the subject toward the alcove."
     },
     {
-      "date": "Days 1\u20137 \u2022 Morning and evening",
+      "date": "Days 1–7 • Morning and evening",
       "title": "A week at the station",
-      "body": "The subject stayed with Corva, learning through conversation, repetition and exploration. Meals and bedding became routine; she supplied a shirt, drawstring trousers and soft leather shoes. The grey cloth remained with the bedding. Familiar speech became usable, though unfamiliar context and abstract vocabulary still required explanation. Corva began addressing him as \u201clittle scholar\u201d, without assigning a personal name. No attack occurred during the week."
+      "body": "The subject stayed with Corva, learning through conversation, repetition and exploration. Meals and bedding became routine; she supplied a shirt, drawstring trousers and soft leather shoes. The grey cloth remained with the bedding. Familiar speech became usable, though unfamiliar context and abstract vocabulary still required explanation. Corva began addressing him as “little scholar”, without assigning a personal name. No attack occurred during the week."
     },
     {
-      "date": "Day 7 \u2022 Morning",
+      "date": "Day 7 • Morning",
       "title": "Machinery and a visitor",
-      "body": "Exploration included the storeroom, washroom, workshop, drainage channels and warning bells. Hinges, catches, pulleys, taps and a demonstrated valve revealed useful relationships. The yard pump\u2019s intermittent pressure fault remained unresolved. Its mechanic removed the cover and allowed observation. Corva then brought the subject to Veskan, whose report announced the railway superintendent\u2019s interest. Corva arranged the meeting here for the following morning. The patrol report still needed a name; none was supplied."
+      "body": "Exploration included the storeroom, washroom, workshop, drainage channels and warning bells. Hinges, catches, pulleys, taps and a demonstrated valve revealed useful relationships. The yard pump’s intermittent pressure fault remained unresolved. Its mechanic removed the cover and allowed observation. Corva then brought the subject to Veskan, whose report announced the railway superintendent’s interest. Corva arranged the meeting here for the following morning. The patrol report still needed a name; none was supplied."
     },
     {
-      "date": "Day 7 \u2022 Morning",
+      "date": "Day 7 • Morning",
       "title": "Answers and the hunters",
-      "body": "The subject answered confidently, described his missing knowledge of his origin, and explained his deductions about the alarms and people\u2019s unease at his arrival from the sky. Corva supplied the word \u201canswers\u201d. Veskan distinguished animal, fire and railway warnings from hunter alarms. Both adults explained that the hunters descend in flying machines and hunt humans and animals. The purpose of a particular visit is not always known."
+      "body": "The subject answered confidently, described his missing knowledge of his origin, and explained his deductions about the alarms and people’s unease at his arrival from the sky. Corva supplied the word “answers”. Veskan distinguished animal, fire and railway warnings from hunter alarms. Both adults explained that the hunters descend in flying machines and hunt humans and animals. The purpose of a particular visit is not always known."
     },
     {
-      "date": "Day 7 \u2022 Morning",
+      "date": "Day 7 • Morning",
       "title": "Words without moving mouths",
-      "body": "The subject disclosed hearing things people did not speak aloud. Corva asked for examples rather than treating the report as wrongdoing. An impression of the telephone and \u201cWho could I ask?\u201d accompanied her apparent voice while her lips remained still. Earlier in the week, a fleeting impression of black water and a slipping hand had occurred near the pump; its source remained unidentified."
+      "body": "The subject disclosed hearing things people did not speak aloud. Corva asked for examples rather than treating the report as wrongdoing. An impression of the telephone and “Who could I ask?” accompanied her apparent voice while her lips remained still. Earlier in the week, a fleeting impression of black water and a slipping hand had occurred near the pump; its source remained unidentified."
     },
     {
-      "date": "Day 7 \u2022 Morning",
+      "date": "Day 7 • Morning",
       "title": "Memories reaching across",
-      "body": "The subject described an early sense of safety with Veskan, glimpses of another boy in his care, and fragments accompanying Corva\u2019s lessons. Veskan disclosed that he had a son, killed when the hunters struck the line. A brief impression of a small grease-marked hand within a larger hand followed. Corva described remembering her mother\u2019s stove with a broken catch while teaching about the station stove. Associated movement and meaning were clearer to the subject than any complete remembered scene. Both adults agreed to be careful whom they told."
+      "body": "The subject described an early sense of safety with Veskan, glimpses of another boy in his care, and fragments accompanying Corva’s lessons. Veskan disclosed that he had a son, killed when the hunters struck the line. A brief impression of a small grease-marked hand within a larger hand followed. Corva described remembering her mother’s stove with a broken catch while teaching about the station stove. Associated movement and meaning were clearer to the subject than any complete remembered scene. Both adults agreed to be careful whom they told."
     },
     {
-      "date": "Day 7 \u2022 Morning",
+      "date": "Day 7 • Morning",
       "title": "A place remains",
-      "body": "The subject said the reception happened all the time, could not be stopped and was helpful; he did not wish to stop learning through it. He told Veskan that the boy had been happy and linked this to feeling safe. Veskan was grateful. Corva explained that receiving something useful could still be difficult for the person whose memory it was. They offered help distinguishing speech, impressions and interpretation. Veskan affirmed that the subject could stay. Both adults intended to attend tomorrow\u2019s meeting. Veskan left for the yard; Corva put the report beneath her ledger and offered a pause. The pump remained dismantled, and the next activity was left open."
+      "body": "The subject said the reception happened all the time, could not be stopped and was helpful; he did not wish to stop learning through it. He told Veskan that the boy had been happy and linked this to feeling safe. Veskan was grateful. Corva explained that receiving something useful could still be difficult for the person whose memory it was. They offered help distinguishing speech, impressions and interpretation. Veskan affirmed that the subject could stay. Both adults intended to attend tomorrow’s meeting. Veskan left for the yard; Corva put the report beneath her ledger and offered a pause. The pump remained dismantled, and the next activity was left open."
     },
     {
-      "date": "Day 8 \u2022 Morning",
+      "date": "Day 8 • Morning",
       "title": "The superintendent arrives",
       "body": "After following his usual routine and sleeping, the subject met railway superintendent Leont Vardesca in the station maintenance room on a rainy morning. Corva and Veskan attended. Vardesca asked for the earliest remembered events and explained his concern for people working near the landing site."
     },
     {
-      "date": "Day 8 \u2022 Morning",
+      "date": "Day 8 • Morning",
       "title": "An account of planetfall",
       "body": "The subject recalled rumbling, crashing, a sudden stop and the draining fluid, followed by leaving the chamber and seeing Veskan. He clarified that the chamber opened by itself after it stopped moving. Veskan confirmed wet ground around the apparatus and reported that it had not been moved. Vardesca instructed the patrol to prevent entry or dismantling pending further assessment."
     },
     {
-      "date": "Day 8 \u2022 Morning",
+      "date": "Day 8 • Morning",
       "title": "Care authorised",
       "body": "Asked whether he wanted to remain with Corva, the subject nodded. Vardesca authorised meals and necessary clothing on the station account, with supervision in the working yard. He retained responsibility for the report and asked to be notified before anyone seeking the child was brought to him. Written confirmation of the care arrangement was promised."
     },
     {
-      "date": "Day 8 \u2022 Morning",
+      "date": "Day 8 • Morning",
       "title": "Galahad",
-      "body": "A brief inward whisper preceded the choice: \u201cGalahad. I want to be called Galahad.\u201d The voice seemed both his own and unfamiliar; no source was identified. Asked whether the name was remembered or newly thought of, he answered that it was his name and the one he chose. Corva entered Galahad in her ledger, and Vardesca recorded it in his notebook and demonstrated its written form. Veskan recognised the choice. No surname was introduced."
+      "body": "A brief inward whisper preceded the choice: “Galahad. I want to be called Galahad.” The voice seemed both his own and unfamiliar; no source was identified. Asked whether the name was remembered or newly thought of, he answered that it was his name and the one he chose. Corva entered Galahad in her ledger, and Vardesca recorded it in his notebook and demonstrated its written form. Veskan recognised the choice. No surname was introduced."
     },
     {
-      "date": "Day 8 \u2022 Morning",
+      "date": "Day 8 • Morning",
       "title": "Ideas made real",
-      "body": "Galahad described machines as \u201ca web of ideas made real\u201d, explaining that he wanted to understand their purposes, functions and design choices. Vardesca discussed cost, casting, available power, repair access and copied designs, referring to an expensive old harbour pump. Galahad said he did not yet understand enough to propose improvements. No invention, diagnosis or repair was claimed."
+      "body": "Galahad described machines as “a web of ideas made real”, explaining that he wanted to understand their purposes, functions and design choices. Vardesca discussed cost, casting, available power, repair access and copied designs, referring to an expensive old harbour pump. Galahad said he did not yet understand enough to propose improvements. No invention, diagnosis or repair was claimed."
     },
     {
-      "date": "Day 8 \u2022 Morning",
+      "date": "Day 8 • Morning",
       "title": "The meeting concludes",
-      "body": "Vardesca offered to speak to the workshop foreman about safe, supervised explanations when staff had time. He also intended to arrange an inspection of the pod, which was to remain undisturbed. The superintendent departed with Veskan; Corva checked Galahad\u2019s new ledger entry and carried the kettle toward the kitchen. The interview ended with continued shelter confirmed and learning opportunities promised."
+      "body": "Vardesca offered to speak to the workshop foreman about safe, supervised explanations when staff had time. He also intended to arrange an inspection of the pod, which was to remain undisturbed. The superintendent departed with Veskan; Corva checked Galahad’s new ledger entry and carried the kettle toward the kitchen. The interview ended with continued shelter confirmed and learning opportunities promised."
     },
     {
       "date": "First year after Day 8",
@@ -141,7 +141,7 @@
     {
       "date": "First year after Day 8",
       "title": "Work among the engines",
-      "body": "Vardesca\u2019s promise led to supervised workshop access, then useful maintenance and small repairs. A small utility knife was issued for ordinary tasks. Galahad learned familiar engines and fault relationships, while equipment access and available materials constrained fabrication. A discarded small engine was restored to motion but remained uneven under load. His clothing was replaced and his alcove bed lengthened as he grew toward Corva\u2019s height."
+      "body": "Vardesca’s promise led to supervised workshop access, then useful maintenance and small repairs. A small utility knife was issued for ordinary tasks. Galahad learned familiar engines and fault relationships, while equipment access and available materials constrained fabrication. A discarded small engine was restored to motion but remained uneven under load. His clothing was replaced and his alcove bed lengthened as he grew toward Corva’s height."
     },
     {
       "date": "First year after Day 8",
@@ -164,14 +164,14 @@
       "body": "Galahad privately attempted to construct a firearm from available parts without dismantling an existing example. Several attempts were discarded. The remaining prototype was incomplete and unreliable, with no dependable ammunition supply. It stayed concealed with his work rather than accompanying his night journeys."
     },
     {
-      "date": "Planetfall + one standard year and eight days \u2022 Evening",
+      "date": "Planetfall + one standard year and eight days • Evening",
       "title": "The academy reply",
-      "body": "Corva presented the academy\u2019s reply to her request for books. It required examples of mathematics, mechanical reasoning and completed work. Galahad deferred to her experience. She proposed truthful examples and a covering letter that omitted his arrival, while leaving the selection of work to him. Any meeting remained a possibility to consider later; no admission, book loan or assessment had been granted."
+      "body": "Corva presented the academy’s reply to her request for books. It required examples of mathematics, mechanical reasoning and completed work. Galahad deferred to her experience. She proposed truthful examples and a covering letter that omitted his arrival, while leaving the selection of work to him. Any meeting remained a possibility to consider later; no admission, book loan or assessment had been granted."
     },
     {
-      "date": "Planetfall + one standard year and eight days \u2022 Evening",
+      "date": "Planetfall + one standard year and eight days • Evening",
       "title": "Mum",
-      "body": "Galahad casually thanked Corva as Mum, recognising her parental role. She was visibly moved, touched his forearm and accepted the address. A warm impression of the old kitchen alcove accompanied the moment. Galahad began preparing restrained examples using existing books and notebooks. Corva drafted the covering letter and replaced a word near its beginning with \u201cMy son\u201d."
+      "body": "Galahad casually thanked Corva as Mum, recognising her parental role. She was visibly moved, touched his forearm and accepted the address. A warm impression of the old kitchen alcove accompanied the moment. Galahad began preparing restrained examples using existing books and notebooks. Corva drafted the covering letter and replaced a word near its beginning with “My son”."
     },
     {
       "date": "Thirteen days before the Collegium reply",
@@ -179,37 +179,37 @@
       "body": "Galahad handed his deliberately restrained designs to Corva. She enclosed them with her covering letter and sent the packet north to the Auvrienne Collegium of Civil Engineering. Study and tinkering continued through the following thirteen days. The small engine remained irregular under sustained load."
     },
     {
-      "date": "Planetfall + one standard year and twenty-one days \u2022 Afternoon",
+      "date": "Planetfall + one standard year and twenty-one days • Afternoon",
       "title": "Verification requested",
       "body": "The Collegium returned the drawings with two letters and a printed assessment sheet. Examiner Odran Savel acknowledged correct results but questioned missing derivations and inconsistent levels of exposition. The advanced-book loan was withheld pending independent verification. A supervised exercise in Auvrienne was offered; Corva suggested asking whether local railway testimony could establish the work first."
     },
     {
-      "date": "Planetfall + one standard year and twenty-one days \u2022 Afternoon",
+      "date": "Planetfall + one standard year and twenty-one days • Afternoon",
       "title": "The housing and its promise",
-      "body": "Galahad suspected jealousy or class prejudice behind the response. Corva acknowledged the possibility without claiming to know Savel\u2019s motives. Galahad explained the housing\u2019s struts and linkage points, projecting several decades of additional service for less than a kilogram of extra material. Corva understood the rationale and asked what supported the lifespan estimate."
+      "body": "Galahad suspected jealousy or class prejudice behind the response. Corva acknowledged the possibility without claiming to know Savel’s motives. Galahad explained the housing’s struts and linkage points, projecting several decades of additional service for less than a kilogram of extra material. Corva understood the rationale and asked what supported the lifespan estimate."
     },
     {
-      "date": "Planetfall + one standard year and twenty-one days \u2022 Afternoon",
+      "date": "Planetfall + one standard year and twenty-one days • Afternoon",
       "title": "Three piles",
       "body": "Galahad retrieved a large body of papers from beneath his bed and divided it into first proofs, second iterations and basic testing, and current work. Corva recognised the extent of his research and apologised for assuming he had not already done the work. She proposed showing enough to answer the examiner while retaining the originals."
     },
     {
-      "date": "Planetfall + one standard year and twenty-one days \u2022 Afternoon",
+      "date": "Planetfall + one standard year and twenty-one days • Afternoon",
       "title": "Beyond the engine",
       "body": "The aligned pages also contained energy, lubrication and aerodynamic workings, military and economic projections for a unified eastern Vesalius, political philosophy and divination research. Galahad reported successful improvements over common divination practices in his own tests. Corva promised to keep the mixed papers at home for now and proposed copying relevant engineering work onto clean sheets."
     },
     {
-      "date": "Planetfall + one standard year and twenty-one days \u2022 Afternoon",
+      "date": "Planetfall + one standard year and twenty-one days • Afternoon",
       "title": "Power and opposition",
       "body": "Galahad specified unification under one government, doubted voluntary cooperation between the existing states and preferred infamy to ignominy. He argued that victory determines whose history endures and treated morality as subordinate to survival. Corva questioned what would happen to dissenters and how fear might distort official reports. She affirmed that she would ask difficult questions because he was her son."
     },
     {
-      "date": "Planetfall + one standard year and twenty-one days \u2022 Afternoon",
+      "date": "Planetfall + one standard year and twenty-one days • Afternoon",
       "title": "Into the stars",
-      "body": "Galahad challenged the usefulness of dishonest reports and described the desired result of his government: safety, stability and an everlasting future for his people, reaching into the stars and beyond. Corva clarified that a lie could serve a frightened official while harming government. She supported the hope of a better future, wanted to remain free to question his methods, and drew the copying paper closer. \u201cTell me where you think it begins.\u201d"
+      "body": "Galahad challenged the usefulness of dishonest reports and described the desired result of his government: safety, stability and an everlasting future for his people, reaching into the stars and beyond. Corva clarified that a lie could serve a frightened official while harming government. She supported the hope of a better future, wanted to remain free to question his methods, and drew the copying paper closer. “Tell me where you think it begins.”"
     },
     {
-      "date": "Following the first reply \u2022 Twenty-three days",
+      "date": "Following the first reply • Twenty-three days",
       "title": "The copied proofs",
       "body": "Corva and Galahad copied relevant engineering proofs and added selective advanced passages to interest the Collegium. Originals, political projections and divination workings remained at home. The packet was sent."
     },
@@ -226,82 +226,82 @@
     {
       "date": "Subsequent nights",
       "title": "White bone",
-      "body": "Galahad fashioned a guardless greatsword and integral grip from one piece of the Vouressan\u2019s exceptionally strong white cranial bone. He inscribed protective forms from his reading, practised its use on night hunts and kept it wrapped beneath his bed behind the papers."
+      "body": "Galahad fashioned a guardless greatsword and integral grip from one piece of the Vouressan’s exceptionally strong white cranial bone. He inscribed protective forms from his reading, practised its use on night hunts and kept it wrapped beneath his bed behind the papers."
     },
     {
-      "date": "Planetfall + one standard year and forty-four days \u2022 Afternoon",
+      "date": "Planetfall + one standard year and forty-four days • Afternoon",
       "title": "A different reply",
       "body": "Savel accepted the supplied housing derivation and withdrew his concern about preparation for that portion. He questioned the conditions governing an advanced result and recognised deliberate omissions. He proposed fuller discussion with a workshop instructor attending. No advanced books or unrestricted loan accompanied the reply."
     },
     {
-      "date": "Planetfall + one standard year and forty-four days \u2022 Afternoon",
+      "date": "Planetfall + one standard year and forty-four days • Afternoon",
       "title": "Hunting",
       "body": "When Corva asked about his night departures, Galahad unwrapped the sword on the kitchen table. He described killing its source without a weapon and making a useful, valuable blade to provide for her and Veskan if necessary. Corva was moved, affirmed his place at home and warned that prospective buyers might take an interest in him as well as the sword."
     },
     {
-      "date": "Planetfall + one standard year and forty-four days \u2022 Afternoon and evening",
+      "date": "Planetfall + one standard year and forty-four days • Afternoon and evening",
       "title": "Tomorrow",
       "body": "Galahad identified the creature as a Vouressan, said the injury had healed and chose to travel alone by train the next day. Corva telephoned for arrangements. No passenger seat was available; she asked the goods-train guard to help. A message to the Collegium could be passed through the railway office, but no reply arrived."
     },
     {
-      "date": "Planetfall + one standard year and forty-five days \u2022 Before dawn",
+      "date": "Planetfall + one standard year and forty-five days • Before dawn",
       "title": "Leaving home",
-      "body": "Galahad bound the wrapped sword with household rope and left his other belongings at home. Veskan returned his farewell embrace and urged him to find proper lodging. Galahad kissed Corva\u2019s forehead; she reminded him where he could return. The guard admitted him to the brake van and accepted his explanation that the bundle was artwork for appraisal."
+      "body": "Galahad bound the wrapped sword with household rope and left his other belongings at home. Veskan returned his farewell embrace and urged him to find proper lodging. Galahad kissed Corva’s forehead; she reminded him where he could return. The guard admitted him to the brake van and accepted his explanation that the bundle was artwork for appraisal."
     },
     {
-      "date": "Planetfall + one standard year and forty-five days \u2022 Evening",
+      "date": "Planetfall + one standard year and forty-five days • Evening",
       "title": "Auvrienne",
-      "body": "A sixteen-hour goods-train journey carried Galahad through defended coastal valleys, with a lengthy junction delay. Auvrienne\u2019s freight yards, furnace-lit workshops, terraces and fortified railway cutting gave way to a busy unloading canopy. He arrived alert and physically capable, carrying the covered sword."
+      "body": "A sixteen-hour goods-train journey carried Galahad through defended coastal valleys, with a lengthy junction delay. Auvrienne’s freight yards, furnace-lit workshops, terraces and fortified railway cutting gave way to a busy unloading canopy. He arrived alert and physically capable, carrying the covered sword."
     },
     {
-      "date": "Planetfall + one standard year and forty-five days \u2022 Evening",
+      "date": "Planetfall + one standard year and forty-five days • Evening",
       "title": "Through the gate",
       "body": "Galahad told the railway watchman that the bundle was artwork being appraised. The watchman advised keeping it wrapped on the tram and let him pass. Outside lay a sloping avenue, booking office, public street plan, trams, an uphill monument and inn, and a bookseller closing for the evening. No next destination has been chosen."
     },
     {
-      "date": "Planetfall + one standard year and forty-five days \u2022 Late evening",
+      "date": "Planetfall + one standard year and forty-five days • Late evening",
       "title": "Reading the city",
-      "body": "Several hours of walking connected the street plan with central Auvrienne\u2019s rail basin, terraced roads, stairs, drainage and tramways. Galahad reached the Collegium after teaching hours; the porter said Savel had gone home."
+      "body": "Several hours of walking connected the street plan with central Auvrienne’s rail basin, terraced roads, stairs, drainage and tramways. Galahad reached the Collegium after teaching hours; the porter said Savel had gone home."
     },
     {
-      "date": "Planetfall + one standard year and forty-five days \u2022 Late evening",
+      "date": "Planetfall + one standard year and forty-five days • Late evening",
       "title": "An address freely offered",
-      "body": "Subconscious psychic pressure eased the porter into trust. He gave Savel\u2019s address: 37 Rue Cendravel, upstairs over the bookbinder, with a side door and brass bell. He cautioned that an address did not guarantee a welcome and still asked for a name."
+      "body": "Subconscious psychic pressure eased the porter into trust. He gave Savel’s address: 37 Rue Cendravel, upstairs over the bookbinder, with a side door and brass bell. He cautioned that an address did not guarantee a welcome and still asked for a name."
     },
     {
-      "date": "Planetfall + one standard year and forty-five days \u2022 Late evening",
+      "date": "Planetfall + one standard year and forty-five days • Late evening",
       "title": "The late knock",
-      "body": "Galahad\u2019s powerful knock boomed through the stairwell without damaging the door. A curtain moved across the street. Savel answered, initially alarmed and then irritated by the late hour."
+      "body": "Galahad’s powerful knock boomed through the stairwell without damaging the door. A curtain moved across the street. Savel answered, initially alarmed and then irritated by the late hour."
     },
     {
-      "date": "Planetfall + one standard year and forty-five days \u2022 Late evening",
+      "date": "Planetfall + one standard year and forty-five days • Late evening",
       "title": "Savel opens the door",
-      "body": "Galahad named himself and declared that Savel would organise lodging and Collegium attendance. A renewed influence of trust softened the response. Savel recognised Corva\u2019s son, offered his spare room for the night and help at the office the following morning."
+      "body": "Galahad named himself and declared that Savel would organise lodging and Collegium attendance. A renewed influence of trust softened the response. Savel recognised Corva’s son, offered his spare room for the night and help at the office the following morning."
     },
     {
-      "date": "Planetfall + one standard year and forty-five days \u2022 Late evening",
+      "date": "Planetfall + one standard year and forty-five days • Late evening",
       "title": "Proofs beneath the lamp",
-      "body": "Galahad spent the night explaining selected mathematics and engineering. Savel followed the missing steps, became absorbed and asked more precise questions. He also saw the sword, accepting the account of raw bone bought from a trader; he advised keeping the valuable blade covered and in Galahad\u2019s room."
+      "body": "Galahad spent the night explaining selected mathematics and engineering. Savel followed the missing steps, became absorbed and asked more precise questions. He also saw the sword, accepting the account of raw bone bought from a trader; he advised keeping the valuable blade covered and in Galahad’s room."
     },
     {
-      "date": "Planetfall + one standard year and fifty-two days \u2022 Evening",
+      "date": "Planetfall + one standard year and fifty-two days • Evening",
       "title": "A place at the Collegium",
       "body": "During the week Savel secured provisional enrolment and a small bursary covering a room and meals. Ordinary library access and loans became available. Galahad moved into a lockable room in the residential annex; the sword went beneath the bed."
     },
     {
-      "date": "Planetfall + one standard year and fifty-two days \u2022 Evening",
+      "date": "Planetfall + one standard year and fifty-two days • Evening",
       "title": "Calling home",
       "body": "Galahad telephoned Corva with his enrolment and lodging arrangements, explained his intention to stay and study, and asked her to contact him immediately if needed. She could reach him through the Collegium office and asked him to keep calling."
     },
     {
-      "date": "Planetfall + one standard year and fifty-two days \u2022 Evening",
+      "date": "Planetfall + one standard year and fifty-two days • Evening",
       "title": "A bird among the papers",
       "body": "Library study rapidly expanded available mathematical, mechanical and scientific references. In private, Galahad fashioned an intricate wind-up bird from scrap. It hopped and chirped until its stored energy ran out. Savel offered a next-morning workshop exercise involving a faulty governor; no response to that offer was recorded."
     },
     {
       "date": "Four months after Collegium enrolment",
       "title": "An independent course",
-      "body": "After the second month, each subject received a weekly individual hour instead of ordinary classes. Full curricula and syllabuses supported self-directed work. By four months, Galahad had completed three years of curriculum and read approximately three quarters of the Collegium\u2019s library."
+      "body": "After the second month, each subject received a weekly individual hour instead of ordinary classes. Full curricula and syllabuses supported self-directed work. By four months, Galahad had completed three years of curriculum and read approximately three quarters of the Collegium’s library."
     },
     {
       "date": "Four months after Collegium enrolment",
@@ -316,7 +316,7 @@
     {
       "date": "Four months after Collegium enrolment",
       "title": "The mechanical snake",
-      "body": "More than a hundred thousand tiny functional and decorative pieces formed a piston-driven articulated snake. Contact pressure redirected it at obstacles. Recirculating water served as working fluid with a separate fuel charge, allowing an hour\u2019s operation under suitable conditions. His enhanced vision and dexterity made magnification helpful rather than necessary."
+      "body": "More than a hundred thousand tiny functional and decorative pieces formed a piston-driven articulated snake. Contact pressure redirected it at obstacles. Recirculating water served as working fluid with a separate fuel charge, allowing an hour’s operation under suitable conditions. His enhanced vision and dexterity made magnification helpful rather than necessary."
     },
     {
       "date": "Four months after Collegium enrolment",
@@ -324,9 +324,9 @@
       "body": "Weekly hunts around Auvrienne alternated sword use and psychic practice. Green lightning manifested lethally against prey and became easier to direct. Larger discharges left conspicuous sound and scorched surfaces. No hunter appeared. Calls to Corva and Veskan continued throughout the months."
     },
     {
-      "date": "Four months after Collegium enrolment \u2022 Evening",
+      "date": "Four months after Collegium enrolment • Evening",
       "title": "An introduction offered",
-      "body": "With the snake moving beneath Galahad\u2019s desk, Savel knocked and offered to introduce a visiting works engineer the following afternoon. The engineer was willing to examine the larger structural designs. Galahad has not yet answered."
+      "body": "With the snake moving beneath Galahad’s desk, Savel knocked and offered to introduce a visiting works engineer the following afternoon. The engineer was willing to examine the larger structural designs. Galahad has not yet answered."
     },
     {
       "date": "Four months and one week after Collegium enrolment",
@@ -336,7 +336,7 @@
     {
       "date": "Four months and one week after Collegium enrolment",
       "title": "Ottrel Cevrane",
-      "body": "The works engineer examined Galahad\u2019s structural drawings and discussed practical installations. Calming influence eased the meeting; substantial technical understanding sustained it. Cevrane supplied operating returns and offered a pumping-works visit."
+      "body": "The works engineer examined Galahad’s structural drawings and discussed practical installations. Calming influence eased the meeting; substantial technical understanding sustained it. Cevrane supplied operating returns and offered a pumping-works visit."
     },
     {
       "date": "Four months and one week after Collegium enrolment",
@@ -379,27 +379,27 @@
       "body": "Galahad told Dorlac that his supposed old friend would deal only with him. She accepted exclusivity for now, hoping it would support prices, and declined to promise unavailable quantities."
     },
     {
-      "date": "Ten months and eleven days after Collegium enrolment \u2022 Morning",
+      "date": "Ten months and eleven days after Collegium enrolment • Morning",
       "title": "The upper precinct",
       "body": "Galahad presented his invitation, returns and selected mathematical advancements while sustaining a broad calming presence. His absent surname drew class-conscious scrutiny despite the welcoming influence."
     },
     {
-      "date": "Ten months and eleven days after Collegium enrolment \u2022 Morning",
+      "date": "Ten months and eleven days after Collegium enrolment • Morning",
       "title": "The Orsival connection",
-      "body": "Galahad supplied Corva\u2019s family name. Cyrrel Vaust noted \u201cfamily connection stated; institutional sponsor confirmed.\u201d Legal surname registration remained unresolved; Collegium sponsorship sufficed for the meeting."
+      "body": "Galahad supplied Corva’s family name. Cyrrel Vaust noted “family connection stated; institutional sponsor confirmed.” Legal surname registration remained unresolved; Collegium sponsorship sufficed for the meeting."
     },
     {
-      "date": "Ten months and eleven days after Collegium enrolment \u2022 Morning",
+      "date": "Ten months and eleven days after Collegium enrolment • Morning",
       "title": "Money and influence",
       "body": "Galahad intensified his calming pressure and offered 100 lorrats. Vaust accepted the money privately without receipt, then proposed a sixty-lorrat technical commission subject to expenditure approval. Savings fell to 530."
     },
     {
-      "date": "Ten months and eleven days after Collegium enrolment \u2022 Afternoon",
+      "date": "Ten months and eleven days after Collegium enrolment • Afternoon",
       "title": "A commission authorised",
       "body": "Galahad accepted. Approval arrived before closing. The assignment covers the southern pumping works and uphill delivery main, with an attributed costed report requested within three weeks and access to relevant records and accompanied inspections."
     },
     {
-      "date": "Ten months and eleven days after Collegium enrolment \u2022 Evening",
+      "date": "Ten months and eleven days after Collegium enrolment • Evening",
       "title": "The delivery main",
       "body": "Galahad returned to his room with plans, operating logs, repair accounts and authorisation. Different daily reporting cutoffs were identified; the broader discrepancy remains unresolved. The bursar credited the thirty-lorrat advance, bringing funds to 560; thirty more is due on delivery."
     },
@@ -409,7 +409,7 @@
       "body": "Accompanied access expanded to every section. Galahad submitted a full modular redesign preserving useful infrastructure and district supply. Differing daily cutoffs, wear and poor coordination explain the southern discrepancy, without demonstrated theft. Estimated installed cost for each module is below its corresponding annual repair allowance. Cevrane endorsed a witnessed first installation."
     },
     {
-      "date": "Same day \u2022 Chancery",
+      "date": "Same day • Chancery",
       "title": "Patronage sought",
       "body": "Galahad returned the 30-lorrat advance and paid Vaust a further 150. He requested minor hereditary House Orsival, land near Serravonne and a sponsored worldwide Collegium expedition in place of the fee. Vaust supported the requests; funds fell to 380."
     },
@@ -421,7 +421,7 @@
     {
       "date": "Same meeting",
       "title": "Both parents",
-      "body": "Galahad supplied Veskan Orsival\u2019s name. Vaust included both parents beneath Galahad as proposed house head, signed his recommendation and sent it for preliminary consideration."
+      "body": "Galahad supplied Veskan Orsival’s name. Vaust included both parents beneath Galahad as proposed house head, signed his recommendation and sent it for preliminary consideration."
     },
     {
       "date": "Following four weeks",
@@ -436,7 +436,7 @@
     {
       "date": "Four weeks after the petition",
       "title": "House Orsival",
-      "body": "The Margrave\u2019s grant recognised Lord Galahad Orsival as founder and head of a minor hereditary house, Lady Corva as Mother of the House and Sir Veskan as Father of the House. A 56-hectare estate near Serravonne was granted with existing tenancies protected."
+      "body": "The Margrave’s grant recognised Lord Galahad Orsival as founder and head of a minor hereditary house, Lady Corva as Mother of the House and Sir Veskan as Father of the House. A 56-hectare estate near Serravonne was granted with existing tenancies protected."
     },
     {
       "date": "Approval day",
@@ -446,7 +446,7 @@
     {
       "date": "Return to Serravonne",
       "title": "Railway-yard standoff",
-      "body": "Galahad travelled home by train, taking coffee and a snack. At the yard he found Corva holding Veskan, shot in the upper arm and beaten across the face after offering a week\u2019s wages and asking for time for an indebted subordinate. Orvasse and armed Scerault men confront frightened railway workers. Galahad pushed to the front and demanded an explanation. His sword remains at the Collegium; no retaliation, further shot, treatment or resolution has occurred. The family has not yet heard about its elevation."
+      "body": "Galahad travelled home by train, taking coffee and a snack. At the yard he found Corva holding Veskan, shot in the upper arm and beaten across the face after offering a week’s wages and asking for time for an indebted subordinate. Orvasse and armed Scerault men confront frightened railway workers. Galahad pushed to the front and demanded an explanation. His sword remains at the Collegium; no retaliation, further shot, treatment or resolution has occurred. The family has not yet heard about its elevation."
     },
     {
       "date": "Return to Serravonne",
@@ -456,22 +456,27 @@
     {
       "date": "Estate arrival",
       "title": "A home for the Orsivals",
-      "body": "The responding watch initially accepted the witnesses\u2019 account. Railway transport brought the family to the estate without a personal charge. Galahad carried Veskan inside and summoned a surgeon, who assessed the arm wound, concussion and facial injuries. Lucette Marcenay received a 25-lorrat gift for her prompt care and prepared a light meal."
+      "body": "The responding watch initially accepted the witnesses’ account. Railway transport brought the family to the estate without a personal charge. Galahad carried Veskan inside and summoned a surgeon, who assessed the arm wound, concussion and facial injuries. Lucette Marcenay received a 25-lorrat gift for her prompt care and prepared a light meal."
     },
     {
       "date": "Three days at the estate",
       "title": "Recovery and household authority",
-      "body": "Veskan improved with rest, medical care and Galahad\u2019s attention; small superficial cuts responded to repeated psychic healing. Corva received authority over house finances, staffing and maintenance. Both parents heard the one-year expedition plan and were told that the estate was their home. Galahad designated a study, library/archive room and future workshop, and reviewed the land and repair needs with Corva and Lucette."
+      "body": "Veskan improved with rest, medical care and Galahad’s attention; small superficial cuts responded to repeated psychic healing. Corva received authority over house finances, staffing and maintenance. Both parents heard the one-year expedition plan and were told that the estate was their home. Galahad designated a study, library/archive room and future workshop, and reviewed the land and repair needs with Corva and Lucette."
     },
     {
-      "date": "Three days at the estate \u00b7 corrected accounts",
+      "date": "Three days at the estate · corrected accounts",
       "title": "The first household budget",
-      "body": "The reconciled ledger records 402 lorrats held, of which 282 are earmarked and 120 uncommitted. The separate expedition appropriation is untouched. Lucette\u2019s pay is 14 per month plus room and meals. The central estate forecast leaves 218 annually after working, shared and household allowances; rents, harvests, timber and payment dates still need verification. No projected revenue has been credited as cash."
+      "body": "The reconciled ledger records 402 lorrats held, of which 282 are earmarked and 120 uncommitted. The separate expedition appropriation is untouched. Lucette’s pay is 14 per month plus room and meals. The central estate forecast leaves 218 annually after working, shared and household allowances; rents, harvests, timber and payment dates still need verification. No projected revenue has been credited as cash."
+    },
+    {
+      "date": "Evening before departure · twenty days after approval",
+      "title": "Ready for the first passage",
+      "body": "After further days with his parents, Galahad returned to Auvrienne and completed the opening expedition arrangements. Rail passage through Serravonne and sea passage to Dalmor are booked with space appropriate to his size. Ceralte entry and declared-instrument permissions are secured; later foreign requests remain pending. The five scholars have parallel academic assignments and Savel will receive duplicate reports. Equipment and opening transport cost 510 from the expedition fund. Limited estate repairs cost 18 and his personal return journey cost 6, leaving personal cash of 378. No projected revenue has been credited as cash. The expedition has not departed."
     }
   ],
   "records": {
-    "relationships": "Corva Orsival \u2014 Galahad\u2019s mother and principal caregiver; she now writes of him as her son. Still married to Veskan Orsival, whose surname she took and retained. They had lived separately after drifting apart in grief following their shared son\u2019s death in a Hunter strike on the railway. Both now reside at the estate; their shared home does not erase that grief or establish a complete marital reconciliation. Corva contains painful recollections and turns toward practical work and care; her reserve does not diminish her loss. She and Veskan still care deeply for each other.\n\nCorva knows Galahad\u2019s wider station research, psychic reception, occasional moving objects, political ambitions and account of killing a Vouressan unarmed. She supports his education while questioning his methods of government. He calls at least fortnightly and has sent her 180 lorrats. The noble grant now formally recognises her as Lady Corva Orsival, Mother of the House.\n\nVeskan Orsival \u2014 Corva\u2019s husband and Galahad\u2019s trusted father figure and protector. Their deceased son is the boy glimpsed in his memories. Veskan repeatedly revisits the loss and blames himself for being unable to prevent an unforeseeable danger. His need to remember and Corva\u2019s withdrawal from painful recollection contributed to their separation. His continuing bond with her partly informed his decision to bring the foundling into her care.\n\nVeskan was a close paternal presence rather than Galahad\u2019s principal daily caregiver. The noble grant recognises him as Sir Veskan Orsival, Father of the House. He joins calls when railway duties permit and has received 180 lorrats. Both parents are included in the grant with Galahad as house head; neither holds a regency.\n\nTheir lost son remains unnamed in this record. Galahad\u2019s arrival has created a new family bond without erasing the earlier loss.\n\nLeont Vardesca \u2014 railway superintendent whose authorised care and workshop access supported Galahad\u2019s early education at Serravonne.\n\nOdran Savel \u2014 Examiner in Mechanics at the Auvrienne Collegium of Civil Engineering, mentor and academic sponsor. He secured the initial enrolment and bursary, advocated access, arranged the works-engineer introduction and delivered the chancery invitation. He has seen the bone sword and accepts the account of purchased raw bone; its unarmed kill provenance remains undisclosed to him.\n\nOttrel Cevrane \u2014 works engineer; his right little finger does not straighten. After examining the structural designs and discussing practical works problems, he provided operating records and accompanied Galahad to the southern pumping works. Budgeted changes were implemented in stages, reducing vibration and interruptions. He credits Galahad\u2019s contribution and supports his professional reputation.\n\nIseva Dorlac \u2014 artisan and luxury-goods seller. She has sold forty-three attributed charms, retaining one quarter of retail receipts. Galahad says his Ceralte supplier is an old friend dealing exclusively with him. She has accepted that explanation for now and will not promise quantities he has not supplied.\n\nValesse Orchant \u2014 practitioner and teacher of the older arts. She has witnessed a controlled emerald spark and guides experiments involving attention, association, repetition, signs and materials. She distinguishes lingering impressions from proven protection. Her knowledge of this talent does not extend to his origin or full capabilities.\n\nCyrrel Vaust \u2014 Deputy assessor for works expenditure. Under intensified calming influence he privately accepted 100 lorrats without a receipt, advocated a technical commission and secured its approval. He provides access letters and requests missing records. He later accepted a further 150 lorrats privately, arranged the return of the 30-lorrat advance, and successfully advocated the house and expedition petitions. He has not secured a personal advisory appointment with the Margrave.\n\nCollegium faculty now work with Galahad as a resident scholar and occasional teacher. Students, professional households and workshops carry his growing reputation. Some people remain reluctant to interrupt him. No one has confronted him with an accusation of psychic interference.\n\nSavel remains at the Collegium to sustain teaching and receive duplicate expedition reports. The five accepted travellers are Osselin Varcet (mechanics, Savel\u2019s nominee), Iselle Rouvant (chemistry and materials), Elvire Sarnot (surveying and waterworks), Rovain Tessier (languages and political history), and Darsenne Aubrel (natural history). They are nominated successors, not displaced chairholders.\n\nLucette Marcenay \u2014 experienced caretaker living in the estate\u2019s service wing. She holds the keys and repair notes, oversees household supplies and domestic arrangements, and works with Corva. Her agreed pay is 14 lorrats per pay month plus her existing room and meals. The 25-lorrat gift was separate from wages. Field labour, forestry and skilled repairs require their own arrangements.\n\nCorva has explicit authority over house finances, staffing and routine operating decisions in Galahad\u2019s absence. Both parents have heard his expedition plans. Veskan remains a recovering railway man; no resignation or retirement has been enacted. In their private discussion of the yard killings, Galahad acknowledged that he may have gone too far and explained the difficulty of restraining his strength and the danger firearms posed to bystanders. Corva understood his protective motive and asked him to learn control so that he has a choice.",
-    "research": "At the year-one review with Corva, extensive dated station work was arranged in three groups: proofs from the initial months; second iterations and basic testing from roughly six months before that review; and the latest iterations and tests available at the time. These original station papers remain with Corva. New research has accumulated in Auvrienne.\n\nEngineering: a modified engine housing uses added struts and linkage points to distribute vibration and improve structural integrity. Galahad projects several decades of additional life under load for less than a kilogram of added material. He has aligned supporting research with the drawings; Corva cannot independently assess all the calculations. Work also covers energy improvements, engine lubrication and aerodynamics. Useful maintenance and small repairs continue. The separate small-engine rebuild now runs steadily through the load test available in the station workshop, witnessed by a mechanic. The test was limited to the station\u2019s available load; the decades-long housing-life projection remains an estimate. Corva helped copy the relevant proofs, including selected advanced passages, for the Collegium before enrolment.\n\nPsychic practice: controlled small-object manipulation and brief heavy lifting; partial filtering of received impressions in quiet settings. Galahad has shown divination workings and reports that personal tests improve on the common practices he has studied. Exact comparative procedures and limits have not been detailed. At that station-stage checkpoint, no lasting psychic mechanism or new material had been constructed. The concealed firearm prototype remains incomplete and unreliable, without a dependable ammunition supply.\n\nPolitical studies: military and economic projections for a unified eastern Vesalius, supported by regional histories, freight figures and production estimates. Galahad favours one government and distrusts the prospect of existing governments simply cooperating. He places victory and survival above conventional moral judgement, distinguishes personal disapproval from opposition, and envisages safety, stability and a future extending into space. No operational unification campaign has been undertaken.\n\nRegional knowledge includes Veyrasse and its neighbours, the Cressault armistice, trade dependencies and local military institutions. The atlas records administrative seats, kilometre distances and ordinary passage estimates. Short wilderness routes and weather hazards are known from private night excursions.\n\nPractical hunting now includes an unarmed Vouressan kill and subsequent handling of a greatsword fashioned from a piece of its jaw bone. Bare hands, nails and abrasion against the remaining bone shaped the single-piece weapon. Fine protective inscriptions reproduce signs from local reading; their supernatural effectiveness remains untested.\n\nCollegium studies: all curricula completed and every library book read twice. Individual weekly discussions replaced classes after the initial months. Galahad continues multidisciplinary research and occasional teaching. Private collections, industrial secrets and traditions outside the library remain separate sources; specialised facilities still require arrangements.\n\nArchitectural work: monumental halls, towers, elevated galleries and fa\u00e7ades supported by sound structural calculations. Costs, industrial capacity, transport and skilled labour are substantial constraints. The designs are unbuilt.\n\nMechanical creations: a naturalistic wind-up bird hops and chirps until its stored spring energy is spent. Small engines and automata accompany an articulated snake with more than a hundred thousand functional and decorative components. Its tiny heat engine circulates a thimbleful of water as working fluid, supplied by a separate fuel charge; it can run for an hour under suitable conditions. Pistons, joints and contact pressure redirect it at obstacles. Fingers, nails and the supported bone-blade tip finish the tiny parts. Enhanced vision and motor control suffice without magnification, which makes the work easier.\n\nPsychic development: increasingly targeted comfort, trust, unease and fear influence social encounters and obtain solitude. Private wilderness practice has produced destructive green lightning; short bursts grow easier to aim, while forceful discharges leave noise, heat and scorched surfaces. Weekly sword hunts continue around Auvrienne. No hunter has been confronted. Mental influence does not remove other people\u2019s knowledge, duties or objections. \n\nPumping-network redesign: accompanied inspections expanded to every section through Cevrane. Differing daily accounting cutoffs, worn machinery and poor coordination account for the southern discrepancy; no theft is demonstrated. The submitted modular plan retains serviceable infrastructure and allows new and old sections to operate together. Each module\u2019s estimated installed cost, including continuity arrangements, is below the corresponding annual repair allowance. Staff installed the first authorised module during the four-week petition interval. Witnessed operation preserved district supply and supported the cost and performance estimates; the next stage is authorised. Full-network reconstruction remains in progress. Earlier staged material and flow improvements had already reduced vibration and interruptions in altered sections.\n\nCharms and older arts: delicate carvings in hunted teeth, bone, hide and scale use interlinked hooked strokes around a central lozenge, a traditional protective sign. Fine emerald sparks char borders with increasing control. Orchant\u2019s instruction has helped some pieces retain a faint psychic impression for hours after attention is withdrawn. Reliable protection against misfortune remains unproven. Galahad works in the vocabulary and traditions of local magic, without an offworld education in the Warp.\n\nSocial influence: Galahad can maintain a calming presence affecting multiple nearby people while attending to conversation and surroundings. It is less intensive than lightning, strongest nearby and not evidence of building-wide control. Intensified influence eased Vaust\u2019s response to the bribe and request for paid work. Other people retain expertise, duties and limits on their authority.\n\nFurther research direction: knowledge spans the Collegium's full range of subjects and independently acquired books, including mathematics, science, history, economics, politics and mechanical design. Galahad can derive and fabricate new work independently; industrial adoption depends on materials, production capacity and ordinary operators. His current intended route builds public standing through pumping, water, sewerage and other civil improvements. The examination is complete; the approved expedition is the next major undertaking.\n\nProspective arms study: a full-power, long .30-calibre self-loading service rifle with a ten-round magazine, intended for ordinary infantry replacement as well as accurate deliberate fire. Portability, supported accuracy and manageable handling are design aims. A separate oversized personal derivative in .50 or .60 calibre is contemplated for Galahad; the calibre is not yet chosen. His strength could make its recoil scarcely visible, with psychic stabilisation a further possibility. These are research intentions; no new rifle, tested performance or manufacturing programme has been established. The earlier station prototype remains incomplete.\n\n\nExperimental magic notebook: dated private observations separate intention, sensation and external change, recording repetition and duration. Small emerald discharges are more consistently reproducible. Some charm impressions persist, but reliable protection against misfortune is not demonstrated. These pages have not been shared with the Collegium.\n\nLearning method: deconstruction of mechanisms, theories and observed magical processes, followed by comparison and recombination across disciplines. New evidence accelerates discovery; observing an effect is not the same as understanding its entire mechanism.\n\nExpedition: one year authorised across all three inhabited continents, first leg through Ceralte. Galahad is scholarly director. Findings are to be deposited with the Chancery and preserved at the Collegium under confidentiality restrictions; military and diplomatic reports receive separate handling. The commission does not take exclusive ownership of every future independent invention. Foreign access and onward transport remain to be arranged.\n\nHealing: during Veskan\u2019s three-day recovery, psychic comfort developed into repeatable closure of small superficial cuts at the brow and lip. Galahad also learned ordinary wound care by watching and consulting the surgeon. Deep tissue repair and complete recovery from concussion have not been demonstrated.",
-    "holdings": "The 56-hectare Orsival estate near Serravonne is now the family home: 20 hectares tenanted arable, 12 meadow and pasture, 14 woodland, 6 orchard and market ground, and 4 occupied by buildings, cottages, tracks and domestic gardens. The soil is generally good loam; a lower heavy, wet strip needs drainage. Existing lawful tenancies and occupancies are protected. The two cottages may be included in farm leases; separate rent must be verified. The grant confers neither ownership of inhabitants nor independent military jurisdiction.\n\nThe two-storey grey masonry house has a tiled roof and service wing. Veskan occupies a ground-floor guest bedroom. The drive-facing room is Galahad\u2019s private study; an upstairs bedroom is designated for the library and archives. Furnishings are usable but will be replaced gradually. The long low storehouse across the service yard is assigned as his workshop. Roof, lock, light and floor repairs are planned; benches, specialist tools, machinery and power equipment are separate decisions. No completed machine shop or major rebuilding has been awarded.\n\nThe corrected personal account and operating forecast are recorded in the household ledger. Repairs, furniture and an operating reserve are allocations rather than completed purchases. Rents, productive orchard area, dues, seasonal labour, harvest timing and a sustainable woodland cut remain to be confirmed. No estate income has yet been collected. Dependable local customers and a productive workshop are objectives, not accomplished commercial influence.\n\nA single room in the Auvrienne Collegium\u2019s residential annex remains available, with meals under the resident scholar arrangement. It overlooks a service court and contains a bed, window desk, washstand, lamp and locking door. Library borrowing and the institutional telephone remain available; specialised collections and laboratories require arrangements. Research, architectural drawings, books, automata, experimental charms, tools and hunting materials remain there, with the wrapped greatsword beneath the bed. Its bone is unappraised and unsold. The estate\u2019s new room designations have not moved these possessions.\n\nOriginal station papers, earlier books and correspondence, the utility knife, incomplete firearm prototype, experimental parts and grey cloth remain in Corva\u2019s keeping; no unrecorded transfer is assumed. The noble grant, estate schedule, expedition commission, submitted pumping report and retained research remain part of the documentary record.\n\nThe original commission advance remains returned and the unpaid 30-lorrat balance was cancelled when patronage replaced the fee. Forty-three charms have sold; unsold pieces remain on consignment, with no cash credited. Dorlac\u2019s supposed exclusive Ceralte trader remains Galahad\u2019s cover story, not an actual supplier or import licence.\n\nThe expedition appropriation remains separate from household and estate money. No engineering company, personal court advisory office or troop command has been acquired."
+    "relationships": "Corva Orsival — Galahad’s mother and principal caregiver; she now writes of him as her son. Still married to Veskan Orsival, whose surname she took and retained. They had lived separately after drifting apart in grief following their shared son’s death in a Hunter strike on the railway. Both now reside at the estate; their shared home does not erase that grief or establish a complete marital reconciliation. Corva contains painful recollections and turns toward practical work and care; her reserve does not diminish her loss. She and Veskan still care deeply for each other.\n\nCorva knows Galahad’s wider station research, psychic reception, occasional moving objects, political ambitions and account of killing a Vouressan unarmed. She supports his education while questioning his methods of government. He calls at least fortnightly and has sent her 180 lorrats. The noble grant now formally recognises her as Lady Corva Orsival, Mother of the House.\n\nVeskan Orsival — Corva’s husband and Galahad’s trusted father figure and protector. Their deceased son is the boy glimpsed in his memories. Veskan repeatedly revisits the loss and blames himself for being unable to prevent an unforeseeable danger. His need to remember and Corva’s withdrawal from painful recollection contributed to their separation. His continuing bond with her partly informed his decision to bring the foundling into her care.\n\nVeskan was a close paternal presence rather than Galahad’s principal daily caregiver. The noble grant recognises him as Sir Veskan Orsival, Father of the House. He joins calls when railway duties permit and has received 180 lorrats. Both parents are included in the grant with Galahad as house head; neither holds a regency.\n\nTheir lost son remains unnamed in this record. Galahad’s arrival has created a new family bond without erasing the earlier loss.\n\nLeont Vardesca — railway superintendent whose authorised care and workshop access supported Galahad’s early education at Serravonne.\n\nOdran Savel — Examiner in Mechanics at the Auvrienne Collegium of Civil Engineering, mentor and academic sponsor. He secured the initial enrolment and bursary, advocated access, arranged the works-engineer introduction and delivered the chancery invitation. He has seen the bone sword and accepts the account of purchased raw bone; its unarmed kill provenance remains undisclosed to him.\n\nOttrel Cevrane — works engineer; his right little finger does not straighten. After examining the structural designs and discussing practical works problems, he provided operating records and accompanied Galahad to the southern pumping works. Budgeted changes were implemented in stages, reducing vibration and interruptions. He credits Galahad’s contribution and supports his professional reputation.\n\nIseva Dorlac — artisan and luxury-goods seller. She has sold forty-three attributed charms, retaining one quarter of retail receipts. Galahad says his Ceralte supplier is an old friend dealing exclusively with him. She has accepted that explanation for now and will not promise quantities he has not supplied.\n\nValesse Orchant — practitioner and teacher of the older arts. She has witnessed a controlled emerald spark and guides experiments involving attention, association, repetition, signs and materials. She distinguishes lingering impressions from proven protection. Her knowledge of this talent does not extend to his origin or full capabilities.\n\nCyrrel Vaust — Deputy assessor for works expenditure. Under intensified calming influence he privately accepted 100 lorrats without a receipt, advocated a technical commission and secured its approval. He provides access letters and requests missing records. He later accepted a further 150 lorrats privately, arranged the return of the 30-lorrat advance, and successfully advocated the house and expedition petitions. He has not secured a personal advisory appointment with the Margrave.\n\nCollegium faculty now work with Galahad as a resident scholar and occasional teacher. Students, professional households and workshops carry his growing reputation. Some people remain reluctant to interrupt him. No one has confronted him with an accusation of psychic interference.\n\nSavel remains at the Collegium to sustain teaching and receive duplicate expedition reports. The five accepted travellers are Osselin Varcet (mechanics, Savel’s nominee), Iselle Rouvant (chemistry and materials), Elvire Sarnot (surveying and waterworks), Rovain Tessier (languages and political history), and Darsenne Aubrel (natural history). They are nominated successors, not displaced chairholders.\n\nLucette Marcenay — experienced caretaker living in the estate’s service wing. She holds the keys and repair notes, oversees household supplies and domestic arrangements, and works with Corva. Her agreed pay is 14 lorrats per pay month plus her existing room and meals. The 25-lorrat gift was separate from wages. Field labour, forestry and skilled repairs require their own arrangements.\n\nCorva has explicit authority over house finances, staffing and routine operating decisions in Galahad’s absence. Both parents have heard his expedition plans. Veskan remains a recovering railway man; no resignation or retirement has been enacted. In their private discussion of the yard killings, Galahad acknowledged that he may have gone too far and explained the difficulty of restraining his strength and the danger firearms posed to bystanders. Corva understood his protective motive and asked him to learn control so that he has a choice.",
+    "research": "At the year-one review with Corva, extensive dated station work was arranged in three groups: proofs from the initial months; second iterations and basic testing from roughly six months before that review; and the latest iterations and tests available at the time. These original station papers remain with Corva. New research has accumulated in Auvrienne.\n\nEngineering: a modified engine housing uses added struts and linkage points to distribute vibration and improve structural integrity. Galahad projects several decades of additional life under load for less than a kilogram of added material. He has aligned supporting research with the drawings; Corva cannot independently assess all the calculations. Work also covers energy improvements, engine lubrication and aerodynamics. Useful maintenance and small repairs continue. The separate small-engine rebuild now runs steadily through the load test available in the station workshop, witnessed by a mechanic. The test was limited to the station’s available load; the decades-long housing-life projection remains an estimate. Corva helped copy the relevant proofs, including selected advanced passages, for the Collegium before enrolment.\n\nPsychic practice: controlled small-object manipulation and brief heavy lifting; partial filtering of received impressions in quiet settings. Galahad has shown divination workings and reports that personal tests improve on the common practices he has studied. Exact comparative procedures and limits have not been detailed. At that station-stage checkpoint, no lasting psychic mechanism or new material had been constructed. The concealed firearm prototype remains incomplete and unreliable, without a dependable ammunition supply.\n\nPolitical studies: military and economic projections for a unified eastern Vesalius, supported by regional histories, freight figures and production estimates. Galahad favours one government and distrusts the prospect of existing governments simply cooperating. He places victory and survival above conventional moral judgement, distinguishes personal disapproval from opposition, and envisages safety, stability and a future extending into space. No operational unification campaign has been undertaken.\n\nRegional knowledge includes Veyrasse and its neighbours, the Cressault armistice, trade dependencies and local military institutions. The atlas records administrative seats, kilometre distances and ordinary passage estimates. Short wilderness routes and weather hazards are known from private night excursions.\n\nPractical hunting now includes an unarmed Vouressan kill and subsequent handling of a greatsword fashioned from a piece of its jaw bone. Bare hands, nails and abrasion against the remaining bone shaped the single-piece weapon. Fine protective inscriptions reproduce signs from local reading; their supernatural effectiveness remains untested.\n\nCollegium studies: all curricula completed and every library book read twice. Individual weekly discussions replaced classes after the initial months. Galahad continues multidisciplinary research and occasional teaching. Private collections, industrial secrets and traditions outside the library remain separate sources; specialised facilities still require arrangements.\n\nArchitectural work: monumental halls, towers, elevated galleries and façades supported by sound structural calculations. Costs, industrial capacity, transport and skilled labour are substantial constraints. The designs are unbuilt.\n\nMechanical creations: a naturalistic wind-up bird hops and chirps until its stored spring energy is spent. Small engines and automata accompany an articulated snake with more than a hundred thousand functional and decorative components. Its tiny heat engine circulates a thimbleful of water as working fluid, supplied by a separate fuel charge; it can run for an hour under suitable conditions. Pistons, joints and contact pressure redirect it at obstacles. Fingers, nails and the supported bone-blade tip finish the tiny parts. Enhanced vision and motor control suffice without magnification, which makes the work easier.\n\nPsychic development: increasingly targeted comfort, trust, unease and fear influence social encounters and obtain solitude. Private wilderness practice has produced destructive green lightning; short bursts grow easier to aim, while forceful discharges leave noise, heat and scorched surfaces. Weekly sword hunts continue around Auvrienne. No hunter has been confronted. Mental influence does not remove other people’s knowledge, duties or objections. \n\nPumping-network redesign: accompanied inspections expanded to every section through Cevrane. Differing daily accounting cutoffs, worn machinery and poor coordination account for the southern discrepancy; no theft is demonstrated. The submitted modular plan retains serviceable infrastructure and allows new and old sections to operate together. Each module’s estimated installed cost, including continuity arrangements, is below the corresponding annual repair allowance. Staff installed the first authorised module during the four-week petition interval. Witnessed operation preserved district supply and supported the cost and performance estimates; the next stage is authorised. Full-network reconstruction remains in progress. Earlier staged material and flow improvements had already reduced vibration and interruptions in altered sections.\n\nCharms and older arts: delicate carvings in hunted teeth, bone, hide and scale use interlinked hooked strokes around a central lozenge, a traditional protective sign. Fine emerald sparks char borders with increasing control. Orchant’s instruction has helped some pieces retain a faint psychic impression for hours after attention is withdrawn. Reliable protection against misfortune remains unproven. Galahad works in the vocabulary and traditions of local magic, without an offworld education in the Warp.\n\nSocial influence: Galahad can maintain a calming presence affecting multiple nearby people while attending to conversation and surroundings. It is less intensive than lightning, strongest nearby and not evidence of building-wide control. Intensified influence eased Vaust’s response to the bribe and request for paid work. Other people retain expertise, duties and limits on their authority.\n\nFurther research direction: knowledge spans the Collegium's full range of subjects and independently acquired books, including mathematics, science, history, economics, politics and mechanical design. Galahad can derive and fabricate new work independently; industrial adoption depends on materials, production capacity and ordinary operators. His current intended route builds public standing through pumping, water, sewerage and other civil improvements. The examination is complete; the approved expedition is the next major undertaking.\n\nProspective arms study: a full-power, long .30-calibre self-loading service rifle with a ten-round magazine, intended for ordinary infantry replacement as well as accurate deliberate fire. Portability, supported accuracy and manageable handling are design aims. A separate oversized personal derivative in .50 or .60 calibre is contemplated for Galahad; the calibre is not yet chosen. His strength could make its recoil scarcely visible, with psychic stabilisation a further possibility. These are research intentions; no new rifle, tested performance or manufacturing programme has been established. The earlier station prototype remains incomplete.\n\n\nExperimental magic notebook: dated private observations separate intention, sensation and external change, recording repetition and duration. Small emerald discharges are more consistently reproducible. Some charm impressions persist, but reliable protection against misfortune is not demonstrated. These pages have not been shared with the Collegium.\n\nLearning method: deconstruction of mechanisms, theories and observed magical processes, followed by comparison and recombination across disciplines. New evidence accelerates discovery; observing an effect is not the same as understanding its entire mechanism.\n\nExpedition: one year authorised across all three inhabited continents, first leg through Ceralte. Galahad is scholarly director. Findings are to be deposited with the Chancery and preserved at the Collegium under confidentiality restrictions; military and diplomatic reports receive separate handling. The commission does not take exclusive ownership of every future independent invention. Foreign access and onward transport remain to be arranged.\n\nHealing: during Veskan’s three-day recovery, psychic comfort developed into repeatable closure of small superficial cuts at the brow and lip. Galahad also learned ordinary wound care by watching and consulting the surgeon. Deep tissue repair and complete recovery from concussion have not been demonstrated.",
+    "holdings": "The 56-hectare Orsival estate near Serravonne is now the family home: 20 hectares tenanted arable, 12 meadow and pasture, 14 woodland, 6 orchard and market ground, and 4 occupied by buildings, cottages, tracks and domestic gardens. The soil is generally good loam; a lower heavy, wet strip needs drainage. Existing lawful tenancies and occupancies are protected. The two cottages may be included in farm leases; separate rent must be verified. The grant confers neither ownership of inhabitants nor independent military jurisdiction.\n\nThe two-storey grey masonry house has a tiled roof and service wing. Veskan occupies a ground-floor guest bedroom. The drive-facing room is Galahad’s private study; an upstairs bedroom is designated for the library and archives. Furnishings are usable but will be replaced gradually. The long low storehouse across the service yard is assigned as his workshop. Roof, lock, light and floor repairs are planned; benches, specialist tools, machinery and power equipment are separate decisions. No completed machine shop or major rebuilding has been awarded.\n\nThe corrected personal account and operating forecast are recorded in the household ledger. Eighteen lorrats of limited roof and drainage work have been paid from the initial repair allocation. The remaining 72 repair allowance, 152 operating reserve and 40 furniture allowance remain unspent earmarks. Rents, productive orchard area, dues, seasonal labour, harvest timing and a sustainable woodland cut remain to be confirmed. No estate income has yet been collected. Dependable local customers and a productive workshop are objectives, not accomplished commercial influence.\n\nA single room in the Auvrienne Collegium’s residential annex remains available, with meals under the resident scholar arrangement. It overlooks a service court and contains a bed, window desk, washstand, lamp and locking door. Library borrowing and the institutional telephone remain available; specialised collections and laboratories require arrangements. Research, architectural drawings, books, automata, experimental charms, tools and hunting materials remain there, with the wrapped greatsword beneath the bed. Its bone is unappraised and unsold. The estate’s new room designations have not moved these possessions.\n\nOriginal station papers, earlier books and correspondence, the utility knife, incomplete firearm prototype, experimental parts and grey cloth remain in Corva’s keeping; no unrecorded transfer is assumed. The noble grant, estate schedule, expedition commission, submitted pumping report and retained research remain part of the documentary record.\n\nThe original commission advance remains returned and the unpaid 30-lorrat balance was cancelled when patronage replaced the fee. Forty-three charms have sold; unsold pieces remain on consignment, with no cash credited. Dorlac’s supposed exclusive Ceralte trader remains Galahad’s cover story, not an actual supplier or import licence.\n\nThe expedition appropriation remains separate from household and estate money. Opening passage and equipment invoices total 510; 5,490 remains, including a 2,100 reserve for the five scholars’ pay. Borrowed Collegium instruments are expedition loans, not personal property. No engineering company, personal court advisory office or troop command has been acquired."
   }
 }

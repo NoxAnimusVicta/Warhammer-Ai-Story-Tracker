@@ -429,15 +429,16 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.29,
       "annual_change_people": 8410,
-      "charted_settlements_population": 986000,
-      "other_population": 1914000
+      "charted_settlements_population": 1032000,
+      "other_population": 1868000
     }
   ],
   "events": [],
   "history": [
     {
       "event": "Survey VII: additional Eastern Marches settlements identified within existing census returns; no elapsed time or population growth applied."
-    }
+    },
+    "Revision45 charts Bellavara (28,000) and Montelisse (18,000) within Ceralte’s existing census return. 46,000 residents move from uncharted accounting to named settlements; no population growth, migration or elapsed time is enacted."
   ],
   "rules": {
     "annual_step": "Next population = present population + rounded births - rounded ordinary deaths + recorded net migration + exceptional event adjustments.",

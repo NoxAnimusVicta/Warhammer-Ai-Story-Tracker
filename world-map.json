@@ -1,5 +1,5 @@
 {
-  "edition": "41",
+  "edition": 45,
   "extent": [
     3600,
     1800
@@ -33703,6 +33703,10 @@
     {
       "revision": 39,
       "change": "Removed 59 over-sampled invented district markers and their redundant links; retained the original seven centres and ten separated district centres. Added independent northern, southern and western overland gateways. No population loss, migration, territorial change or elapsed story time."
+    },
+    {
+      "revision": 45,
+      "change": "Two Ceralte island ports and two sea passages added on existing coastlines; census and political totals, established settlements and measured regional routes preserved. No travel or elapsed time enacted."
     }
   ],
   "relief_seed": 310915,
@@ -35836,7 +35840,7 @@
       "state": "veyrasse",
       "continent": "vesalius",
       "kind": "home",
-      "detail": "A fortified secondary port and railway junction in the March of Veyrasse on eastern Vesalius, reached by the hillside railway. Cleared ground, drainage works and guarded rail access protect its industrial yards. Dark stone and concrete walls overlook crowded roofs, chimneys and harbour lights. The station contains a maintenance room with benches, work clothing, a stove, a ledger desk and a wall telephone. Galahad lived under Corva’s care from his first night until leaving for Auvrienne, sleeping in an alcove adjoining the kitchen. The station was his first family home. His parents now reside at the 56-hectare Orsival estate nearby, where Galahad is staying before the expedition; his Collegium room remains available. Superintendent Leont Vardesca authorised his early meals and necessary clothing on the station account. A storeroom, washroom and workshop support the station’s daily work. The alcove bed was lengthened during his childhood at the station. During the year, a hunter strike on a pumping installation farther along the line disrupted deliveries and made emergency repairs the workshop’s priority.",
+      "detail": "A fortified secondary port and railway junction in the March of Veyrasse on eastern Vesalius, reached by the hillside railway. Cleared ground, drainage works and guarded rail access protect its industrial yards. Dark stone and concrete walls overlook crowded roofs, chimneys and harbour lights. The station contains a maintenance room with benches, work clothing, a stove, a ledger desk and a wall telephone. Galahad lived under Corva’s care from his first night until leaving for Auvrienne, sleeping in an alcove adjoining the kitchen. The station was his first family home. His parents now reside at the 56-hectare Orsival estate nearby, Galahad has returned to his Collegium room in Auvrienne to complete expedition preparations. Superintendent Leont Vardesca authorised his early meals and necessary clothing on the station account. A storeroom, washroom and workshop support the station’s daily work. The alcove bed was lengthened during his childhood at the station. During the year, a hunter strike on a pumping installation farther along the line disrupted deliveries and made emergency repairs the workshop’s priority.",
       "regional": true,
       "geography": {
         "latitude": 35.0,
@@ -36139,6 +36143,16 @@
         {
           "id": "serravonne",
           "name": "Serravonne",
+          "mode": "sea"
+        },
+        {
+          "id": "bellavara",
+          "name": "Bellavara",
+          "mode": "sea"
+        },
+        {
+          "id": "montelisse",
+          "name": "Montelisse",
           "mode": "sea"
         }
       ],
@@ -78937,6 +78951,72 @@
       ],
       "food_tradition": "Eastern rail-and-coast",
       "editorial_revision": 41
+    },
+    {
+      "id": "bellavara",
+      "name": "Bellavara",
+      "point": [
+        1970.63531,
+        526.85
+      ],
+      "state": "ceralte",
+      "continent": "vesalius",
+      "kind": "port",
+      "detail": "A northern island port whose pilots guide coasters through the archipelago. Small repair slips handle fishing boats and coastal traders; heavy naval refits still go to Dalmor. Fish auctions and chandlers cluster above the landing, while imported grain reaches the surrounding island communities by sea.",
+      "geography": {
+        "latitude": 37.315,
+        "longitude": 17.06353,
+        "biome": "Seasonal woodland and savanna",
+        "elevation_m": 50,
+        "nearest_range": "Ceralte island uplands",
+        "terrain_scope": "Surrounding island district; harbour marker lies on the surveyed coast."
+      },
+      "census_group": "ceralte",
+      "growth_rate_percent": 0.29,
+      "population": 28000,
+      "annual_change_people": 81,
+      "connections": [
+        {
+          "id": "dalmor",
+          "name": "Dalmor",
+          "mode": "sea"
+        }
+      ],
+      "food_tradition": "Island stores and convoy cooking",
+      "editorial_revision": 45
+    },
+    {
+      "id": "montelisse",
+      "name": "Montelisse",
+      "point": [
+        1976.20732,
+        582.39
+      ],
+      "state": "ceralte",
+      "continent": "vesalius",
+      "kind": "port",
+      "detail": "A southern island harbour serving fishing villages and small orchard holdings. Salting sheds, net lofts and produce stores supply visiting coasters; fresh water and provisions are taken aboard here before longer passages. A sea connection to Dalmor carries flour, tools and outbound preserved fish. It is a working island town rather than a second admiralty seat.",
+      "geography": {
+        "latitude": 31.761,
+        "longitude": 17.62073,
+        "biome": "Seasonal woodland and savanna",
+        "elevation_m": 50,
+        "nearest_range": "Ceralte island uplands",
+        "terrain_scope": "Surrounding island district; harbour marker lies on the surveyed coast."
+      },
+      "census_group": "ceralte",
+      "growth_rate_percent": 0.29,
+      "population": 18000,
+      "annual_change_people": 52,
+      "connections": [
+        {
+          "id": "dalmor",
+          "name": "Dalmor",
+          "mode": "sea"
+        }
+      ],
+      "food_tradition": "Island stores and convoy cooking",
+      "editorial_revision": 45
     }
   ],
   "routes": [
@@ -116112,6 +116192,66 @@
       ],
       "status": "Maintained district road; local freight and farm traffic, guarded at exposed stretches.",
       "survey_revision": 39
+    },
+    {
+      "id": "dalmor-bellavara",
+      "from": "dalmor",
+      "to": "bellavara",
+      "mode": "sea",
+      "points": [
+        [
+          1962.43382,
+          555
+        ],
+        [
+          1959,
+          547
+        ],
+        [
+          1966,
+          539
+        ],
+        [
+          1969,
+          528
+        ],
+        [
+          1970.63531,
+          526.85
+        ]
+      ],
+      "status": "Established island coaster passage; sailings depend on weather and harbour conditions.",
+      "survey_revision": 45
+    },
+    {
+      "id": "dalmor-montelisse",
+      "from": "dalmor",
+      "to": "montelisse",
+      "mode": "sea",
+      "points": [
+        [
+          1962.43382,
+          555
+        ],
+        [
+          1960,
+          560
+        ],
+        [
+          1961,
+          574
+        ],
+        [
+          1970,
+          580
+        ],
+        [
+          1976.20732,
+          582.39
+        ]
+      ],
+      "status": "Established island coaster passage; sailings depend on weather and harbour conditions.",
+      "survey_revision": 45
     }
   ],
   "coastline_method": "Continuous smooth coast; eastern surveyed coast vertices retained exactly.",
@@ -336002,15 +336142,16 @@
         "net_migration_people_per_year": 0,
         "annual_rate_percent": 0.29,
         "annual_change_people": 8410,
-        "charted_settlements_population": 986000,
-        "other_population": 1914000
+        "charted_settlements_population": 1032000,
+        "other_population": 1868000
       }
     ],
     "events": [],
     "history": [
       {
         "event": "Survey VII: additional Eastern Marches settlements identified within existing census returns; no elapsed time or population growth applied."
-      }
+      },
+      "Revision45 charts Bellavara (28,000) and Montelisse (18,000) within Ceralte’s existing census return. 46,000 residents move from uncharted accounting to named settlements; no population growth, migration or elapsed time is enacted."
     ],
     "rules": {
       "annual_step": "Next population = present population + rounded births - rounded ordinary deaths + recorded net migration + exceptional event adjustments.",

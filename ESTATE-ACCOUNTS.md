@@ -1,6 +1,6 @@
 # House Orsival — estate accounts
 
-Revision 44 · Three days after arrival · Accepted pricing correction: transcript439
+Revision 45 · Evening before expedition departure · Pricing baseline: transcript439; subsequent payments: transcript443
 
 The established land account remains **20 ha tenanted arable + 12 meadow/pasture + 14 woodland + 6 orchard/market ground + 4 buildings/tracks/domestic ground = 56 ha**. Existing occupancies and tenancies remain protected.
 
@@ -48,22 +48,22 @@ Thus the estate can plausibly support the household, but a first-year surplus is
 
 ### Cash timing and current money
 
-The settled opening balance of **473** less the **25** gift, **6** return travel and refreshments, **12** surgeon visits and supplies, and **28** initial pantry/household essentials leaves **402 lorrats held**. These expenses are reconciled and paid. The railway emergency truck carries no personal charge.
+The settled opening balance of **473** less the **25** gift, **6** return travel and refreshments, **12** surgeon visits and supplies, and **28** initial pantry/household essentials left **402 lorrats** at the first estate checkpoint. Subsequently, **18** was paid for limited roof/drainage work and **6** for Galahad’s return to Auvrienne, leaving **378 lorrats held**. These expenses are reconciled and paid. The railway emergency truck carries no personal charge.
 
 | Cash position | Lorrats |
 |---|---:|
-| Cash held | **402** |
-| Earmarked: limited initial repairs | 90 |
+| Cash held | **378** |
+| Earmarked: remaining initial repairs | 72 |
 | Earmarked: operating reserve | 152 |
 | Earmarked: first furniture purchases | 40 |
-| **Total unspent earmarks** | **282** |
-| **Uncommitted cash** | **120** |
+| **Total unspent earmarks** | **264** |
+| **Uncommitted cash** | **114** |
 
-Earmarks are still cash, not payments. The repair allowance is 35 house/drainage + 20 gates/outbuildings + 35 for making the existing storehouse workshop dry and secure. Benches, machinery, specialist tools and structural rebuilding are excluded. Furniture purchases remain gradual and prospective.
+Earmarks are still cash, not payments. The initial 90 repair allowance was 35 house/drainage + 20 gates/outbuildings + 35 for making the existing storehouse workshop dry and secure. The paid 18 reduces the house/drainage portion to 17, leaving 17 + 20 + 35 = 72 unspent. Benches, machinery, specialist tools and structural rebuilding are excluded. Furniture purchases remain gradual and prospective.
 
 The **152** operating reserve covers approximately three accounting months of shared and household allowances: (368 + 240) / 12 = 50.67 per month. It does not cover an entire growing season. Corva will confirm due dates for rents, wages, invoices and harvest sales before committing seasonal expenditure. Existing inputs must be accounted for once, not assumed free or paid twice.
 
-The separate **6,000-lorrat expedition appropriation is untouched and unavailable for private estate spending**. Corva's authority over house finances does not change that restriction.
+The separate **6,000-lorrat expedition appropriation has paid 510**, leaving **5,490**. Paid bundles: 64 cases/paper/packing + 72 weather clothing + 90 sample supplies/reagents + 70 medical supplies + 130 measuring/hand tools + 84 first passage/baggage. Of the remaining cash, **2,100** is reserved for five scholars at 35 per accounting month for twelve months; **3,390** remains for other expedition costs. Reserved salaries are not already paid. Borrowed instruments are separately inventoried. Expedition money is **unavailable for private estate spending**. Corva's authority over house finances does not change that restriction.
 
 
 General wages and prices: [ECONOMIC-REFERENCE.md](ECONOMIC-REFERENCE.md). These accounts supersede the earlier provisional 620/144 forecast and 190/212 allocation. The exact transcript retains those historical passages; they are not the current budget.

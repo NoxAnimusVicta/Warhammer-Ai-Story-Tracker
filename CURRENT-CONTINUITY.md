@@ -1,18 +1,18 @@
-# Current continuity — revision 44
+# Current continuity — revision 45
 
 This checkpoint records the latest enacted scene. Read later exact transcript entries before continuing. Documentation work itself advances no story time.
 
 ## Current scene and clock
 
-Galahad is at the Orsival estate near Serravonne, three days after arrival. Veskan is recovering; Corva and Lucette are managing the household with him. Study, library/archive room and a storehouse workshop have been designated. The latest financial passages are the accepted replacement in transcript 439; the rest of the three-day scene remains intact.
+Galahad is at the Auvrienne Collegium on the evening before the appointed expedition departure. After further days with his parents he returned to complete preparations (transcript443). Veskan remains at the estate recovering, with Corva and Lucette managing the household. Study, library/archive room and a future workshop have been designated. The accepted pricing correction in transcript439 remains the baseline; transcript443 adds subsequent payments and bookings.
 
 In the railway yard Galahad killed Orvasse and all the Scerault men present. Their number is not established. He used psychic fear, then calm, and prompted a Hunter-attack account. Witnesses repeated it and the responding watch initially accepted it. No actual Hunter attacked; no final legal immunity, memory erasure or completed investigation has been established. The exact archive retains the declared actions and dialogue.
 
 The surgeon found a through-flesh upper-arm gunshot wound without fracture, plus concussion, facial cuts and bruising. Veskan can sit and eat but is not completely healed. Galahad has demonstrated repeatable repair of small superficial cuts at the brow and lip, alongside comfort and ordinary care learned from the surgeon. Deep healing mastery is not established.
 
-The prior approval checkpoint was 35 local days after revision 41. Departure was set for 21 days after approval and is now approximately two and a half weeks away. Three estate days are explicit; the preceding rail journey has no exact elapsed-day entry. Do not invent an absolute calendar date or apply population growth twice. Documentation and the replacement pricing passages advance no additional time.
+Approval was 35 local days after the census epoch. The latest scene is twenty days after approval, the evening before the appointed departure on day21. This is 55 days after the census epoch. No expedition travel has yet occurred. Do not invent an absolute calendar date or apply population growth twice. Documentation work advances no additional time.
 
-He is approximately two local years old and still growing. The last exact measurement was eight and a half feet (2.59 m); no new measurement has been supplied. All ageing and local dates use local time. Do not assume a thirty-day month or invent an absolute galactic date.
+He is approximately **two local years and three months old**, leaving roughly **nine months until age three**. Full bodily maturity is reached **around age three**, at **3 metres (about 9 ft 10 in)**. The last actual measurement remains eight and a half feet (2.59 m); the mature target is not his present measurement. Growth need not be linear. Local years, rotation and day/night cycles are broadly Earth-like without fixed exact conversions. All ageing uses local elapsed time; do not invent a thirty-day month or absolute galactic date.
 
 ## House Orsival
 
@@ -30,9 +30,9 @@ Corva and Veskan remain married and had lived separately after the death of thei
 
 ## Expedition and service
 
-The Margrave sponsors a **one-year worldwide Collegium expedition**, with Galahad as **scholarly director**. First leg: **Ceralte**. The wider plan covers all three inhabited continents, subject to foreign access and transport arrangements. Departure is approximately two and a half weeks away, anchored to the approval date. No complete route, booked passage, additional escort or travel equipment has yet been awarded.
+The Margrave sponsors a **one-year worldwide Collegium expedition**, with Galahad as **scholarly director**. First leg: **Ceralte**. The wider plan covers all three inhabited continents, subject to foreign access and transport arrangements. Departure is the following day. The opening Auvrienne–Serravonne rail leg and Serravonne–Dalmor sea leg are booked, with space suited to Galahad. Ceralte entry, declared-instrument permissions and a harbour-administration introduction are secured. Later foreign requests remain pending. Visiting all major cities is the planning objective; the wider timetable is provisional, with no automatic extension beyond one year.
 
-The **6,000-lorrat appropriation** is a separate accountable fund for transport, instruments, salaries and expenses. Nothing has yet been charged against it. Findings go to the Chancery and are preserved at the Collegium under confidentiality restrictions; military and diplomatic reports receive separate handling. There is no blanket transfer of every future independent invention. Galahad offered service conditional on the patronage now granted; do not fabricate additional signed oaths or obligations.
+The **6,000-lorrat appropriation** is a separate accountable fund for transport, instruments, salaries and expenses. Equipment and opening transport cost **510**, leaving **5,490 held**. A **2,100** salary reserve covers five scholars at 35 per accounting month for twelve months; **3,390** remains for other expedition costs. Salaries are reserved, not prepaid. Selected survey instruments, microscope and balances are inventoried Collegium loans. See ESTATE-ACCOUNTS.md for the paid bundle breakdown. Findings go to the Chancery and are preserved at the Collegium under confidentiality restrictions; military and diplomatic reports receive separate handling. There is no blanket transfer of every future independent invention. Galahad offered service conditional on the patronage now granted; do not fabricate additional signed oaths or obligations.
 
 The five nominated successors have accepted:
 
@@ -44,7 +44,7 @@ The five nominated successors have accepted:
 | Rovain Tessier | Languages and political history | Junior lecturer comparing accounts and handling correspondence. |
 | Darsenne Aubrel | Natural history | Curator’s deputy studying cultivation, useful materials and local knowledge. |
 
-Odran Savel remains to sustain teaching and receive duplicate reports. The Headmaster remains unnamed. No personal appointment as adviser to the Margrave or personal audience has been granted. No engineering company exists yet.
+Each scholar now has academic task lists for parallel research, with source, measurement and expense records. Odran Savel remains to sustain teaching and receive duplicate reports. The Headmaster remains unnamed. No personal appointment as adviser to the Margrave or personal audience has been granted. No engineering company exists yet.
 
 ## Pumping works
 
@@ -63,11 +63,13 @@ One lorrat equals 100 brins. [ECONOMIC-REFERENCE.md](ECONOMIC-REFERENCE.md) fixe
 | Return journey and refreshments | −6 |
 | Surgeon’s short series of visits and supplies | −12 |
 | Initial pantry and household essentials | −28 |
-| **Cash held** | **402** |
+| Limited roof/drainage work | −18 |
+| Return to Auvrienne | −6 |
+| **Cash held** | **378** |
 
-Earmarks: **90 initial repairs + 152 operating reserve + 40 furniture = 282**. **120 remains uncommitted**. Earmarks remain owned cash until paid. Repair scope: 35 house/drainage, 20 gates/outbuildings, 35 to make the existing workshop building dry and secure. Larger work requires reprioritisation. The railway emergency truck incurred no personal charge.
+Earmarks: **72 remaining repairs + 152 operating reserve + 40 furniture = 264**. **114 remains uncommitted**. Earmarks remain owned cash until paid. Initial repair scope: 35 house/drainage, 20 gates/outbuildings, 35 to make the existing workshop building dry and secure. The paid 18 reduces the first portion to 17; no complete workshop has been delivered. Larger work requires reprioritisation. The railway emergency truck incurred no personal charge.
 
-The 152 reserve is about three accounting months of the shared and household allowances, not all seasonal cultivation costs. Actual payment dates and crop working capital need checking. The separate **6,000 expedition appropriation is untouched**. Earlier bribes and the returned commission advance are already reflected in the 473 opening balance; do not deduct them again. The remaining commission fee was cancelled. No new family remittance or estate income has been credited.
+The 152 reserve is about three accounting months of the shared and household allowances, not all seasonal cultivation costs. Actual payment dates and crop working capital need checking. The separate expedition fund now holds **5,490** after **510** paid. Earlier bribes and the returned commission advance are already reflected in the 473 opening balance; do not deduct them again. The remaining commission fee was cancelled. No new family remittance or estate income has been credited.
 
 The central annual estate projection is **1,780 gross receipts − 954 direct costs − 368 shared allowances − 240 household = 218 remainder**. It is conditional, not earned income or a guaranteed return. The complete breakdown and sensitivities are in [ESTATE-ACCOUNTS.md](ESTATE-ACCOUNTS.md). Verify leases, cottage inclusion, productive orchard area, dues, labour and forestry inventory before turning allowances into commitments. The 4 ha orchard / 2 ha vegetable split is a modelling assumption within the six-hectare block, not a completed survey. Produce consumed at home is not also sold; tenant harvests are not the landlord’s revenue.
 
@@ -107,14 +109,14 @@ The active continuous atlas is `world-map.json`; the separate old regional map i
 
 Three inhabited continents: Otranto, Morholt and Vesalius. Boreal and Austral polar landmasses have no recorded permanent population. World circumference is approximately 36,000 km. Coordinates use an equirectangular projection; polar distortion is expected. Rivers, relief and climate must remain physically coherent when editing.
 
-The dated census population is **1,209,200,000**, across 33 non-overlapping census groups. Current combined annual trend: **+4,147,120**. Cities are subsets, not extra population. Cressault's 180,000 are already included in Veyrasse. The former southern Serevask federation’s figure is split among four independent administrations; it never governed Vesalius. New settlements draw from uncharted/rural returns. The census epoch is the evening ten months and eleven days after enrolment. The latest numerical projection is at 35 local days after that epoch; return travel and three estate days have since occurred, but the travel interval has no precise day count; see the dated demographic projection rather than treating an estimate as a new enumeration.
+The dated census population is **1,209,200,000**, across 33 non-overlapping census groups. Current combined annual trend: **+4,147,120**. Cities are subsets, not extra population. Cressault's 180,000 are already included in Veyrasse. The former southern Serevask federation’s figure is split among four independent administrations; it never governed Vesalius. New settlements draw from uncharted/rural returns. The census epoch is the evening ten months and eleven days after enrolment. The latest numerical projection is at 35 local days after that epoch; the latest scene is now 55 days after that epoch, so this older projection excludes the following twenty days; see the dated demographic projection rather than treating an estimate as a new enumeration.
 
 All character ages, local history and population rates use **local elapsed years**. The system is in Imperium Nihilus; there is no uniform clock ratio across Nihilus. The private handover preserves agreed offworld timing and concealed experiments. Do not divide Galahad's existing age or history by a time-conversion ratio.
 
 
 ## Atlas, capacity and narrator records
 
-The atlas retains 897 settlements and 1,928 routes; cuisine is integrated with each political record. Every ordinary settlement and road appears from the same regional zoom threshold; names and geography are not rerolled. Capacity figures are dated staff returns, not treasury holdings or automatic victory scores. Equipment changes require events, not demographic multiplication.
+Ceralte now has Dalmor plus Bellavara (28,000; pilotage and repair port) and Montelisse (18,000; fishing and provisioning town), each connected to Dalmor by sea on existing islands. The 46,000 residents are drawn from its existing 2.9-million census, not added population. The atlas contains 899 settlements and 1,930 routes; cuisine is integrated with each political record. Every ordinary settlement and road appears from the same regional zoom threshold; names and geography are not rerolled. Capacity figures are dated staff returns, not treasury holdings or automatic victory scores. Equipment changes require events, not demographic multiplication.
 
 Galahad remains a perfected proto-Primarch with stable integration and a modest overall mature advantage over the campaign’s Alpha Primus benchmark, below a true Primarch. The private handover contains the full accepted origin, future possibilities, family nuance and concealed programme. Future aspirations confer neither present knowledge nor achievements.
 

@@ -9048,3 +9048,197 @@ She has your authority to do so. The estate now has a budget she can work from, 
 ---
 
 **Corrected financial state:** 402 personal lorrats held; 282 earmarked and 120 uncommitted. Expedition appropriation: 6,000, unspent. Central estate forecast: 218 lorrats annual surplus after operating and household allowances, conditional on the assumptions above; no estate income collected yet.
+
+
+## 440 — User — Documentation maintenance
+
+Ok now please update the GitHub documentation. Please take your time and any documents you are updating please read them in full, line by line. This ensures you do not miss any outdated info, errors, mistakes or inconsistencies. Please take your time I am more than happy to wait. In the Web App please make sure there is no outdated information or double up.  
+
+## 441 — Assistant — Publication completed
+
+[Revision 44 is live](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/).
+
+- Updated continuity through the estate scene and corrected accounts.
+- Consolidated repeated records and replaced outdated current-state information.
+- Added economic price ranges and the estate ledger.
+- Preserved the exact transcript as history.
+- Verified all twelve published files, deployment, phone layout and map controls.
+
+[Updated private narrator handover](C:/Users/jaked/Documents/Codex/2026-09-19/if-we-are-writing-a-40k/outputs/Malaspina-Narrator-Handover-r44.zip) is ready for the next instance.
+
+## 442 — User — Expedition preparations
+
+I spend the next few days getting things in order and spending time with my parents before returning to Auvrienne and the Collegium and spending my remaining time before the expedition finalising things. Arranging travel schedules and organising diplomatic permissions from the Chancery. Spending some of the expedition money to ensure myself and the scholars under me have the required equipment to effectively research and gather information. We will be heading to all the major cities of each nation or territory and spending time in each. I devise lists of places and subjects I would like each of the scholars under me to pursue. I have my own itinerary which includes my own personal engineering curiosities especially around foreign firearms and munitions. I cut out significant chunks of my time to dedicate to developing political allies and friends that can assist me in the future. I also use these connections for information gathering on arcane texts and objects as well as advanced technology recovered from hunters. I require considerably less food, drink or sleep as opposed to the average person and so I factor that in to my private itinerary. I can accomplish far more than any average person could within this time frame and if I make a point of focusing on my goals this will be a very productive learning experience for me. I keep the Scholars set at academic tasks and keep them away from the high society and political manoeuvring I intend to be undergoing during our journeys as to ensure there is a level of subtly and tact to the operation that I can implicitly control. Any valuable information that can be leveraged against foreign nations that I am able to pick up could also be used as useful leverage against the Chancery for Political Manoeuvring once I return home. I will also be carving out a small amount of time on my itinerary to observe local workshops, businesses and estates to see where I can improve my current foundations of power.
+
+## 443 — Assistant — Expedition preparations
+
+By the time you leave the estate, Veskan has begun finding reasons to be out of bed.
+
+The first is that the sitting room receives better light. The second is that Lucette makes the tea too strong unless someone supervises her. By the third morning, Corva simply puts his cup beside the garden-facing chair before he can construct another argument.
+
+His arm remains supported. The worst swelling has subsided, and the small cuts you have worked on are closing cleanly. You continue the surgeon’s ordinary care alongside your own efforts, learning how the damaged flesh feels as it changes. Improvement comes steadily enough that your departure no longer feels like leaving him in the middle of an emergency.
+
+There are quieter hours, too. Breakfast with the windows open. Corva showing you which cupboard now contains the household papers. Veskan listening while you describe the expedition, then asking questions about ships that reveal how long he has been thinking about it.
+
+“Find out who maintains them,” he says. “A captain can tell you anything about his vessel. The men keeping her running usually know what she actually does.”
+
+Corva looks up from her ledger.
+
+“That advice applies to estates as well.”
+
+The first limited house repairs begin before you leave: clearing the troublesome drain and patching the accessible roof defects. Eighteen lorrats are paid from the existing repair allocation. The workshop work awaits the next quotation; Corva keeps the remaining money against the agreed priorities.
+
+At the door, she holds your hand between both of hers.
+
+“You have given us somewhere to live, Galahad. Let us do some of the living in it. You needn’t carry every loose tile away with you.”
+
+Veskan embraces you carefully with his good arm.
+
+“Come back with stories.”
+
+Then, after a moment:
+
+“And yourself.”
+
+***
+
+Your return to Auvrienne takes most of a day and part of the night. The railway arranges suitable space for your size; the fare and refreshments cost six lorrats from your personal account. Your Collegium room is much as you left it: crowded desk, locked papers, the wrapped white blade beneath the bed.
+
+The expedition soon occupies a considerably larger room.
+
+Maps cover the council table. Shipping circulars arrive with corrections pencilled across their margins. Each scholar brings a list of things considered indispensable; Rouvant is the first to ask how many of them can survive being dropped onto a quay.
+
+You turn the lists into assignments.
+
+| Scholar | Principal work |
+|---|---|
+| **Osselin Varcet** | Workshops, engines, machine tools, maintenance practice and the organisation of skilled labour. Record what ordinary operators can reproduce and keep running. |
+| **Iselle Rouvant** | Metallurgy, industrial chemistry, material testing and properly documented samples. Compare local claims with observable processes and results. |
+| **Elvire Sarnot** | Water supply, drainage, sanitation, surveys, roads and harbour works. Gather measured examples and the practical costs of maintaining them. |
+| **Rovain Tessier** | Languages, legal and institutional history, public archives and the expedition’s formal correspondence. Establish who actually holds authority where the maps simplify it. |
+| **Darsenne Aubrel** | Agriculture, forestry, useful organisms, cultivation and preservation. Pay particular attention to methods that could improve the estate and the communities around it. |
+
+Each receives a destination list matched to those subjects, space for local recommendations, and a common way to record sources, measurements, costs and unresolved questions. Duplicate reports will go back to Savel whenever reliable carriage permits.
+
+Varcet turns a page, then another.
+
+“You intend us to work separately in the cities.”
+
+“We would accomplish very little otherwise,” Rouvant says, examining the sample register.
+
+Their days acquire a rhythm: separate appointments and fieldwork, a short meeting to compare findings, then time to prepare the next enquiries. You can review their work much faster than they can produce it. Questions that might have occupied a department for an afternoon become a few annotations in your hand before breakfast.
+
+Your own programme runs alongside theirs.
+
+***
+
+The first route is booked: **Auvrienne to Serravonne by rail, then sea passage to Dalmor**. The railway normally takes eleven to seventeen hours; the crossing adds twelve to twenty-one under ordinary conditions. You allow a connection margin rather than build the opening around the fastest possible journey. Your dimensions are included in the booking, with suitable space arranged instead of a berth you could never use.
+
+Beyond Ceralte, you build the circuit around ports and connected groups of cities. The master register includes the major centres of every nation and territory. Capitals receive political and archival appointments; industrial cities receive workshop days; ports provide onward passage and opportunities to send material home. In divided territories, you identify the separate authorities whose permission will actually matter.
+
+The scale becomes apparent when Tessier spreads the completed city register across the table.
+
+“We can prepare enquiries for every one of these,” he says. “For the sailing dates, I suggest we keep a confirmed column and a provisional one. Otherwise a letter arriving late in one country will make the next six pages false.”
+
+The broad circuit remains your objective. The working timetable distinguishes booked stages from proposed visits and gives priority stops enough time to produce something worthwhile. Parallel work makes the coverage far more ambitious than an ordinary six-person tour; the distant stages still depend on passage schedules and replies that have not yet arrived. Your year is planned as a travelling research programme, with decisions available at each junction, rather than spent in advance on inflexible bookings.
+
+***
+
+The Chancery proves helpful with the opening arrangements.
+
+Vaust secures certified copies of your commission and the necessary introductions. Ceralte’s reply recognises the visiting party and accepts the declared scholarly purpose and listed instruments. It also supplies an introduction to the appropriate harbour administration in Dalmor, giving you a practical contact for onward travel and institutional enquiries.
+
+Requests to more distant governments leave in successive packets. Public collections and ordinary scholarly visits are separated from requests concerning naval establishments, armaments works or privately held material. That makes each request easier to answer without requiring a foreign office to approve the whole expedition at once.
+
+“These will get you received,” Vaust says, checking the seals. “What happens after that will depend considerably on you.”
+
+Your scholars see the correspondence relevant to their work. Invitations to dinners, introductions to patrons and your private appointments remain in your own book. Tessier handles the expedition’s public business without becoming secretary to conversations you intend to conduct alone.
+
+You establish this division as an ordinary part of your directorship. The scholars have substantial work, clear responsibilities and access to you when they need it. They are not required to accompany their director through every drawing room in which he might prove useful company.
+
+***
+
+Equipment fills the council room in stages.
+
+The Collegium lends selected surveying instruments, a microscope and balances against an inventory. Borrowing the expensive durable pieces leaves more money for travel and the consumables that fieldwork will exhaust.
+
+Purchased equipment is checked, packed and entered into the expedition ledger:
+
+| Paid from the expedition account | Lorrats |
+|---|---:|
+| Cases, document boxes, notebooks and packing materials | 64 |
+| Practical travel clothing and weather protection for the party | 72 |
+| Sampling vessels, reagents and preservation supplies | 90 |
+| Medical chest and ordinary field consumables | 70 |
+| Portable measuring equipment, hand tools and repair supplies | 130 |
+| Opening rail and sea passage, including agreed baggage handling | 84 |
+| **Total paid** | **510** |
+
+The suppliers’ invoices describe the quantities and contents; the figures are for this assembled travelling outfit, not a new universal tariff for scientific equipment. Rouvant rejects two poorly closing sample containers before accepting their replacements. Varcet repacks the tools so that a damaged latch will not scatter them across a platform.
+
+That leaves **5,490 lorrats in the expedition account**. The scholars’ cash pay is settled at **35 lorrats each per accounting month**, with expedition travel and subsistence paid separately. You reserve **2,100** for their full year’s pay; it remains in the account until due. The other **3,390** must cover subsequent transport, accommodation, research expenses and contingencies.
+
+Personal purchases will retain their own entries. The distinction gives you a clear view of what the expedition can sustain while leaving your private intentions in your own hands.
+
+***
+
+Your private itinerary is more demanding than the programme distributed to the others.
+
+You give foreign firearms and munitions their own pages: collections that permit examination, manufacturers willing to receive visitors, proving establishments that might admit a sponsored engineer, and officers or purchasing agents who know why one design succeeds while another languishes. Your enquiries concern whole systems of manufacture, supply and use as well as the objects themselves.
+
+Beside those pages are lists of hosts, commercial families, patrons and officials worth meeting. You note what each might value in a visiting engineer: an informed opinion, an introduction, a solution to an expensive inconvenience, or simply conversation with someone whose appearance guarantees a memorable evening.
+
+Orchant helps with the arcane enquiries. One useful lead emerges from her correspondence: a privately held collection in Dalmor containing older maritime warding texts. Its custodian has previously allowed scholarly consultation through introductions. Orchant gives you a letter requesting a meeting; permission to examine the collection will be the custodian’s decision.
+
+Enquiries concerning recovered Hunter equipment move more slowly. There are references to guarded collections and naval custody, but nothing yet solid enough to enter as an appointment. You keep a separate column for who supplied each claim. An object someone has personally examined is worth a different kind of attention from a story repeated over dinner.
+
+For political information, your private notes distinguish documents, direct observations, interested accounts and rumours. The names attached to the information matter as much as its apparent importance. Material useful to the Chancery, and material that might increase your own bargaining power with it, may sometimes be the same thing. You prepare to recognise that value without placing your private assessments among the scholars’ circulating reports.
+
+Workshops, commercial premises and estates receive shorter visits throughout the programme. You make room to see how proprietors organise labour, keep accounts, find customers and maintain equipment. Aubrel’s agricultural reports and Varcet’s workshop observations will give those visits further substance. Improvements to House Orsival need not wait upon a single spectacular discovery.
+
+Your reduced need for sleep gives the schedule room that the others simply do not possess. Three or four hours of ordinary rest leave much of the night available for reading and synthesis. Meals can be appointments when company is useful, brief necessities when it is not. Travel hours become working hours. While the scholars sleep, you compare their notes with your own observations and prepare questions for the following day.
+
+There is still a distinction between your hours and everyone else’s. Workshops close; archivists go home; prospective hosts dine at appointed times. You arrange the private reading around those constraints and preserve the daylight and evening hours for access to people and places.
+
+By the last evening before departure, the council table is clear enough to see its polished surface again.
+
+Cases stand along one wall. The first tickets and Ceralte papers lie together in a leather folder. Five sets of academic instructions have been distributed. Your own notebook closes over a much wider collection of purposes.
+
+Savel weighs the folder in his hand before passing it to you.
+
+“Send us what you learn,” he says. His eyes move to the waiting cases. “And tell them to write down what surprised them. That is usually where the worthwhile work begins.”
+
+Outside, the lower city’s railway lamps burn through the gathering dark.
+
+Tomorrow, the expedition leaves.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately two local years; last measured height eight and a half feet, still growing  
+**Date:** Evening before the appointed expedition departure; twenty days after approval  
+**Reputation:** Head of House Orsival; accomplished scholar-engineer and director of the sponsored expedition  
+**Weapons (Equipped):** None; Vouressan-bone greatsword remains wrapped in your Collegium room  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots  
+**Gear/Inventory:** Expedition papers, opening tickets, public research programme and private itinerary; purchased field supplies and inventoried Collegium instruments packed for departure; existing personal research and possessions retained  
+**Currency:** Personal/house funds: **378 lorrats held**, with **264 earmarked** and **114 uncommitted**, after 18 in house repairs and 6 for your return journey. Expedition: **5,490 held** after 510 paid; **2,100 reserved for scholars’ annual pay**, leaving **3,390 for remaining expedition expenses**. No projected estate income credited.
+
+
+## 444 — User — Local age clarification
+
+Before we continue, how much longer until I turn 3 in local years (which are similar to earth's years, rotation period and day/night cycle. Although not quite the same but within acceptable parameters.)
+
+## 445 — Assistant — Age reckoning
+
+**Roughly nine local months until you turn three.** Adding up the recorded intervals puts Galahad at approximately **two years and three months old** on the eve of departure. My repeated “approximately two years” status line had become too imprecise.
+
+That includes your roughly one-month age at planetfall, the first year at Serravonne, the additional weeks before enrolment, your Collegium time, and the subsequent commission and expedition preparations.
+
+You should therefore turn three **around nine months into the one-year expedition**, returning at approximately three years and three months old if it runs to schedule.
+
+I’ll use your clarification that Malaspina’s local year and day/night cycle are broadly Earth-like. Exact month lengths and your calendar birthday remain unspecified, so nine months is an estimate rather than an exact countdown.
+
+
+## 446 — User — Ceralte settlements and mature height
+
+I feel like the Ceralte Admiralty needs one or two more minor towns. One City for a whole nation is a tad odd even for an island nation. I feel like one or maybe two more cities or towns with sea passage routes are needed. Also please note that around age 3 I will reach my full state of bodily maturity and will be 3 meters tall, just under 10ft. So I am just under Dorn's Height but still taller than a Custodes and even some of the smaller Primarchs like Alpharius or Russ.

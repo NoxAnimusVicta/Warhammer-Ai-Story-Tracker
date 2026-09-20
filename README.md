@@ -16,10 +16,14 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the Long Culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition — revision 44
+## Current edition — revision 45
 
-The record now covers the railway-yard confrontation, arrival at the estate, Veskan’s first three days of recovery, Corva’s household authority and the accepted accounting correction. Cash held is 402 lorrats; 282 is earmarked and 120 uncommitted. The separate 6,000-lorrat expedition fund is untouched. The estate’s 218-lorrat annual remainder is a conditional forecast, not collected income.
+The current scene is the evening before expedition departure at the Auvrienne Collegium. Opening passage through Serravonne to Dalmor is booked and Ceralte permissions secured. Personal cash is 378 lorrats, with 264 earmarked and 114 uncommitted. The separate expedition fund holds 5,490 after 510 paid, including 2,100 reserved for scholars’ pay. The estate’s 218-lorrat annual remainder remains a conditional forecast.
 
-[Economic reference](ECONOMIC-REFERENCE.md) gives consistent wage and price bands with regional, seasonal and quality adjustments. [Estate accounts](ESTATE-ACCOUNTS.md) separates paid expenses, allocations and projected operating returns.
+[Economic reference](ECONOMIC-REFERENCE.md) gives wage and price bands with regional, seasonal and quality adjustments. [Estate accounts](ESTATE-ACCOUNTS.md) separates paid expenses, allocations and projected returns.
 
-Current summaries and handover instructions supersede older checkpoints. The exact transcript preserves past wording, including the rejected estate estimates. The atlas retains 897 settlements and 1,928 routes, with integrated political and food records. Its census and 35-day population projection are explicitly dated; the later journey and estate stay do not fabricate a new precise census date.
+Ceralte now includes Bellavara and Montelisse, with sea connections to Dalmor. The atlas contains 899 settlements and 1,930 routes. Their populations are drawn from existing census totals. The dated 35-day population estimate remains explicitly historical; the current scene is 55 days after its census epoch.
+
+Galahad’s full bodily maturity is expected around three local years at 3 metres (about 9 ft 10 in). He is approximately two years and three months old; his last measured height remains 2.59 metres.
+
+Current summaries supersede older checkpoints. The exact transcript preserves historical wording, including superseded proposals. The private handover must not be uploaded to this public repository.
