@@ -13,8 +13,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.55,
       "annual_change_people": 890450,
-      "charted_settlements_population": 55045000,
-      "other_population": 106855000
+      "charted_settlements_population": 55110000,
+      "other_population": 106790000
     },
     {
       "id": "ostrevain",
@@ -26,8 +26,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.72,
       "annual_change_people": 836640,
-      "charted_settlements_population": 39511000,
-      "other_population": 76689000
+      "charted_settlements_population": 39601000,
+      "other_population": 76599000
     },
     {
       "id": "rovessara",
@@ -39,8 +39,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.38,
       "annual_change_people": 268280,
-      "charted_settlements_population": 24006000,
-      "other_population": 46594000
+      "charted_settlements_population": 24041000,
+      "other_population": 46559000
     },
     {
       "id": "brannervaux",
@@ -78,8 +78,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.22,
       "annual_change_people": 65780,
-      "charted_settlements_population": 10168000,
-      "other_population": 19732000
+      "charted_settlements_population": 10200000,
+      "other_population": 19700000
     },
     {
       "id": "ossavren",
@@ -91,8 +91,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": -0.12,
       "annual_change_people": -200760,
-      "charted_settlements_population": 56885000,
-      "other_population": 110415000
+      "charted_settlements_population": 56951000,
+      "other_population": 110349000
     },
     {
       "id": "rovengard",
@@ -104,8 +104,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.41,
       "annual_change_people": 120130,
-      "charted_settlements_population": 9963000,
-      "other_population": 19337000
+      "charted_settlements_population": 9985000,
+      "other_population": 19315000
     },
     {
       "id": "varnesk",
@@ -117,8 +117,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.18,
       "annual_change_people": 35460,
-      "charted_settlements_population": 6700000,
-      "other_population": 13000000
+      "charted_settlements_population": 6755000,
+      "other_population": 12945000
     },
     {
       "id": "galdresk",
@@ -130,8 +130,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.33,
       "annual_change_people": 36960,
-      "charted_settlements_population": 3810000,
-      "other_population": 7390000
+      "charted_settlements_population": 3828000,
+      "other_population": 7372000
     },
     {
       "id": "halskert",
@@ -143,8 +143,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.53,
       "annual_change_people": 99110,
-      "charted_settlements_population": 6358000,
-      "other_population": 12342000
+      "charted_settlements_population": 6470000,
+      "other_population": 12230000
     },
     {
       "id": "tervayne",
@@ -156,8 +156,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.48,
       "annual_change_people": 173760,
-      "charted_settlements_population": 12308000,
-      "other_population": 23892000
+      "charted_settlements_population": 12332000,
+      "other_population": 23868000
     },
     {
       "id": "vardol",
@@ -169,8 +169,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.31,
       "annual_change_people": 198400,
-      "charted_settlements_population": 21761000,
-      "other_population": 42239000
+      "charted_settlements_population": 21815000,
+      "other_population": 42185000
     },
     {
       "id": "averholt",
@@ -182,8 +182,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.44,
       "annual_change_people": 215160,
-      "charted_settlements_population": 16626000,
-      "other_population": 32274000
+      "charted_settlements_population": 16663000,
+      "other_population": 32237000
     },
     {
       "id": "serevask",
@@ -208,8 +208,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.36,
       "annual_change_people": 74880,
-      "charted_settlements_population": 7073000,
-      "other_population": 13727000
+      "charted_settlements_population": 7101000,
+      "other_population": 13699000
     },
     {
       "id": "kelbrun",
@@ -221,8 +221,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.58,
       "annual_change_people": 102080,
-      "charted_settlements_population": 5983000,
-      "other_population": 11617000
+      "charted_settlements_population": 6061000,
+      "other_population": 11539000
     },
     {
       "id": "gavrel",
@@ -234,8 +234,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.12,
       "annual_change_people": 8400,
-      "charted_settlements_population": 2379000,
-      "other_population": 4621000
+      "charted_settlements_population": 2441000,
+      "other_population": 4559000
     },
     {
       "id": "other-otranto-400",
@@ -247,8 +247,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.23,
       "annual_change_people": 74520,
-      "charted_settlements_population": 11018000,
-      "other_population": 21382000
+      "charted_settlements_population": 11078000,
+      "other_population": 21322000
     },
     {
       "id": "other-otranto-700",
@@ -260,8 +260,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.11,
       "annual_change_people": 23980,
-      "charted_settlements_population": 7411000,
-      "other_population": 14389000
+      "charted_settlements_population": 7461000,
+      "other_population": 14339000
     },
     {
       "id": "other-otranto-1100",
@@ -273,8 +273,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.27,
       "annual_change_people": 79920,
-      "charted_settlements_population": 10064000,
-      "other_population": 19536000
+      "charted_settlements_population": 10133000,
+      "other_population": 19467000
     },
     {
       "id": "other-otranto-1450",
@@ -286,8 +286,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.12,
       "annual_change_people": 58080,
-      "charted_settlements_population": 16457000,
-      "other_population": 31943000
+      "charted_settlements_population": 16562000,
+      "other_population": 31838000
     },
     {
       "id": "other-morholt-1880",
@@ -299,8 +299,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.28,
       "annual_change_people": 24360,
-      "charted_settlements_population": 2960000,
-      "other_population": 5740000
+      "charted_settlements_population": 2992000,
+      "other_population": 5708000
     },
     {
       "id": "other-morholt-2190",
@@ -312,8 +312,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.46,
       "annual_change_people": 60260,
-      "charted_settlements_population": 4456000,
-      "other_population": 8644000
+      "charted_settlements_population": 4472000,
+      "other_population": 8628000
     },
     {
       "id": "other-morholt-2630",
@@ -325,8 +325,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.41,
       "annual_change_people": 45510,
-      "charted_settlements_population": 3774000,
-      "other_population": 7326000
+      "charted_settlements_population": 3790000,
+      "other_population": 7310000
     },
     {
       "id": "other-vesalius-2790",
@@ -338,8 +338,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.42,
       "annual_change_people": 117180,
-      "charted_settlements_population": 9486000,
-      "other_population": 18414000
+      "charted_settlements_population": 9533000,
+      "other_population": 18367000
     },
     {
       "id": "other-vesalius-2790-1410",
@@ -351,8 +351,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.12,
       "annual_change_people": 24240,
-      "charted_settlements_population": 6869000,
-      "other_population": 13331000
+      "charted_settlements_population": 6944000,
+      "other_population": 13256000
     },
     {
       "id": "other-vesalius-3160",
@@ -364,8 +364,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.41,
       "annual_change_people": 66420,
-      "charted_settlements_population": 5508000,
-      "other_population": 10692000
+      "charted_settlements_population": 5563000,
+      "other_population": 10637000
     },
     {
       "id": "karsenne",
@@ -390,8 +390,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.36,
       "annual_change_people": 86040,
-      "charted_settlements_population": 8287000,
-      "other_population": 15613000
+      "charted_settlements_population": 8316000,
+      "other_population": 15584000
     },
     {
       "id": "veyrasse",
@@ -416,8 +416,8 @@
       "net_migration_people_per_year": 0,
       "annual_rate_percent": 0.52,
       "annual_change_people": 94120,
-      "charted_settlements_population": 6358000,
-      "other_population": 11742000
+      "charted_settlements_population": 6434000,
+      "other_population": 11666000
     },
     {
       "id": "ceralte",
@@ -438,7 +438,8 @@
     {
       "event": "Survey VII: additional Eastern Marches settlements identified within existing census returns; no elapsed time or population growth applied."
     },
-    "Revision45 charts Bellavara (28,000) and Montelisse (18,000) within Ceralte’s existing census return. 46,000 residents move from uncharted accounting to named settlements; no population growth, migration or elapsed time is enacted."
+    "Revision45 charts Bellavara (28,000) and Montelisse (18,000) within Ceralte’s existing census return. 46,000 residents move from uncharted accounting to named settlements; no population growth, migration or elapsed time is enacted.",
+    "Revision47 identifies 41 existing harbour settlements within their national returns. 1408000 residents are reclassified from uncharted to charted; no growth, migration, conquest or elapsed time."
   ],
   "rules": {
     "annual_step": "Next population = present population + rounded births - rounded ordinary deaths + recorded net migration + exceptional event adjustments.",

@@ -9308,3 +9308,21 @@ I understand your intended distinction: he remains below a true Primarch overall
 ## 452 — User — Out-of-character continuity and maintenance
 
 Fantastic can you make some edits to the GitHub documentation and the web app to prevent this issue from reoccurring please
+
+
+## 453 — Assistant — Out-of-character continuity and maintenance
+
+[Revision 46 is live](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/#physiology).
+
+- Updated sleep, stamina, injury tolerance, psychic reserves and the mature Custodian comparison.
+- Added a controlling physiology reference and required future narrators to follow it.
+- Marked conflicting older estimates as superseded.
+- Added checks against restoring the old sleep limits.
+
+Verified deployment, all nine published files and the phone layout.
+
+[Updated private narrator handover](C:/Users/jaked/Documents/Codex/2026-09-19/if-we-are-writing-a-40k/outputs/Malaspina-Narrator-Handover-r46.zip).
+
+## 454 — User — Out-of-character atlas maintenance
+
+So I have noticed most of the Sea Passages and Railways do not make a great deal of sense. Alot of Railway Networks seem to function in isoation. I suppose that may have been your intention and if it was that is fine it just seemed odd to me given the inter nation trade. The biggest issue issue is the Sea Passages. It looks like the vast majority of port cities are completely skipped by Sea Passage Routes. I also feel like some of these island chains should be nations of some kind or perhaps colonies of other nations with sea routes that go there. Some of the closer islands like the ones to the east of Otranto really should be colonized or in the borders of some country or be their own given the proximity to the mainland and it's idea position as a restock and refuel point. Unsure if the Polar Land masses need any kind of territory claims, that is entirely up to you

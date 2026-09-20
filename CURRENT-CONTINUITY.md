@@ -1,4 +1,4 @@
-# Current continuity — revision 46
+# Current continuity — revision 47
 
 This checkpoint records the latest enacted scene. Read later exact transcript entries before continuing. Documentation work itself advances no story time.
 
@@ -105,6 +105,8 @@ Magic is a real but rare set of locally interpreted practices. Schools can conta
 
 ## Atlas and population
 
+The current atlas contains 940 settlements and 2,148 routes, including 82 sea passages joining all 52 charted harbours. Regional rail omissions are filled along established transport corridors; seven connected systems remain, including the separate Lelene–Bellisio local branch. Vesalius still has no continuous transcontinental railway, and the direct Karsenne–Calvernis line remains proposed. Political shading now identifies 69 administered islands, including the six existing Ceralte islands; unshaded outer islands have no settled sovereignty shown. Astrellac’s Cortessia, Vasselac and Rovellisse dependencies provide replenishment east of Otranto. Polar lands remain without permanent population or a generally recognised sovereign partition. Read TRANSPORT-REFERENCE.md and world-map.json. No story time, original measured journey, existing settlement position, mainland border, national census or capacity total changes.
+
 The active continuous atlas is `world-map.json`; the separate old regional map is no longer the phone interface. Original Eastern Marches sites, distances and journey times are retained through a coordinate transform. Added district settlements do not move established cities or create a transcontinental railway. The direct Karsenne–Calvernis railway remains proposed. Cressault remains disputed.
 
 Three inhabited continents: Otranto, Morholt and Vesalius. Boreal and Austral polar landmasses have no recorded permanent population. World circumference is approximately 36,000 km. Coordinates use an equirectangular projection; polar distortion is expected. Rivers, relief and climate must remain physically coherent when editing.
@@ -116,7 +118,7 @@ All character ages, local history and population rates use **local elapsed years
 
 ## Atlas, capacity and narrator records
 
-Ceralte now has Dalmor plus Bellavara (28,000; pilotage and repair port) and Montelisse (18,000; fishing and provisioning town), each connected to Dalmor by sea on existing islands. The 46,000 residents are drawn from its existing 2.9-million census, not added population. The atlas contains 899 settlements and 1,930 routes; cuisine is integrated with each political record. Every ordinary settlement and road appears from the same regional zoom threshold; names and geography are not rerolled. Capacity figures are dated staff returns, not treasury holdings or automatic victory scores. Equipment changes require events, not demographic multiplication.
+Ceralte now has Dalmor plus Bellavara (28,000; pilotage and repair port) and Montelisse (18,000; fishing and provisioning town), each connected to Dalmor by sea on existing islands. The 46,000 residents are drawn from its existing 2.9-million census, not added population. The atlas contains 940 settlements and 2,148 routes; cuisine is integrated with each political record. Every ordinary settlement and road appears from the same regional zoom threshold; names and geography are not rerolled. Capacity figures are dated staff returns, not treasury holdings or automatic victory scores. Equipment changes require events, not demographic multiplication.
 
 Galahad remains a perfected proto-Primarch with stable integration and a modest overall mature advantage over the campaign’s Alpha Primus benchmark, below a true Primarch. The private handover contains the full accepted origin, future possibilities, family nuance and concealed programme. Future aspirations confer neither present knowledge nor achievements.
 
