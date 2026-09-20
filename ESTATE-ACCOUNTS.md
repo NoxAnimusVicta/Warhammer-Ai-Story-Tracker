@@ -1,0 +1,69 @@
+# House Orsival — estate accounts
+
+Revision 44 · Three days after arrival · Accepted pricing correction: transcript439
+
+The established land account remains **20 ha tenanted arable + 12 meadow/pasture + 14 woodland + 6 orchard/market ground + 4 buildings/tracks/domestic ground = 56 ha**. Existing occupancies and tenancies remain protected.
+
+The following is a **transparent worked operating model**, not newly signed leases or guaranteed revenue. Verify tenancy coverage, productive ground, actual rents and available workers in play. For modelling only, divide the 6 ha market/orchard block into **4 productive orchard hectares and 2 vegetable hectares**. That division is not yet a surveyed story fact.
+
+| Activity | Gross annual receipts | Direct costs | Contribution before shared costs |
+|---|---:|---:|---:|
+| 20 ha arable leased at 12/ha | 240 | 0 here | 240 |
+| Two cottages at 2/month each, if separately let | 48 | 0 here | 48 |
+| Meadow: hay/grazing equivalent | 216 | 84 | 132 |
+| Orchard and vegetable sales | 1,096 | 780 | 316 |
+| Managed roadside timber/fuelwood sales | 180 | 90 | 90 |
+| **Total** | **1,780** | **954** | **826** |
+
+Orchard calculation: **4 ha × 8 t × 15/t = 480**. Vegetables: **2 ha × 14 t × 22/t = 616**. Both use saleable quantities after household retention and ordinary unsaleable produce. The 780 direct-cost allowance comprises **450 hired field/harvest labour, 180 inputs and equipment/draft-power use, and 150 packing/haulage/market costs**. These are planning allowances requiring local validation, not pay already disbursed. Lucette's household work is separate.
+
+The meadow line is an equivalent plan of **12 ha × 3 t hay × 6/t = 216**; replace rather than add this income if land is instead let for grazing. Its 84 cost allowance must cover mowing, handling and delivery within the chosen sale basis.
+
+Forestry example: **30 solid m³ roadside sawlogs × 4 = 120**, plus **30 stacked m³ roadside fuelwood × 2 = 60**. Fuelwood uses about **19.5 solid m³**, making total annual removal **49.5 solid m³**, or **3.54 m³/woodland ha**. This is near the upper part of the planning growth band: a forester must confirm it. The 90 cost allowance covers cutting/extraction and basic woodland upkeep; there is no simultaneous standing-timber sale of those trees.
+
+Shared annual costs:
+
+| Item | Allowance |
+|---|---:|
+| Lucette, experienced live-in caretaker at 14/month | 168 |
+| Routine building/estate maintenance | 80 |
+| Property dues/charges provision, pending actual assessment | 45 |
+| Accounts, travel and administration | 25 |
+| Replacement reserve | 50 |
+| **Shared total** | **368** |
+
+**826 − 368 = 458** before the family household. Allow **240/year** for the two parents and Lucette's food, ordinary domestic supplies and modest hospitality: **218/year remains** in the central model. This excludes initial repair arrears, substantial new furniture, machinery, debt service and Galahad's extended residence. Lucette's room is already on the estate; her food is in the household allowance. No second board charge is added.
+
+### Sensitivity, not a promised return
+
+| Scenario | Calculation | Annual remainder after shared and household allowances |
+|---|---|---:|
+| Central worked case | 1,780 − 954 − 368 − 240 | **218** |
+| Produce revenue down 20%, costs unchanged | central less 219.2 | **−1.2** |
+| Forestry deferred pending inventory | central less 90 contribution | **128** |
+| Cottages already included in farm leases | central less 48 duplicated receipt | **170** |
+| Produce revenue down 20% and forestry deferred | central less 219.2 and 90 | **−91.2** |
+
+Thus the estate can plausibly support the household, but a first-year surplus is sensitive to harvests, work arrangements and repair backlog. It is not yet a guaranteed engine of wealth. Productivity improvements, value-added processing and a successful engineering workshop can change that later through actual investment and sales.
+
+### Cash timing and current money
+
+The settled opening balance of **473** less the **25** gift, **6** return travel and refreshments, **12** surgeon visits and supplies, and **28** initial pantry/household essentials leaves **402 lorrats held**. These expenses are reconciled and paid. The railway emergency truck carries no personal charge.
+
+| Cash position | Lorrats |
+|---|---:|
+| Cash held | **402** |
+| Earmarked: limited initial repairs | 90 |
+| Earmarked: operating reserve | 152 |
+| Earmarked: first furniture purchases | 40 |
+| **Total unspent earmarks** | **282** |
+| **Uncommitted cash** | **120** |
+
+Earmarks are still cash, not payments. The repair allowance is 35 house/drainage + 20 gates/outbuildings + 35 for making the existing storehouse workshop dry and secure. Benches, machinery, specialist tools and structural rebuilding are excluded. Furniture purchases remain gradual and prospective.
+
+The **152** operating reserve covers approximately three accounting months of shared and household allowances: (368 + 240) / 12 = 50.67 per month. It does not cover an entire growing season. Corva will confirm due dates for rents, wages, invoices and harvest sales before committing seasonal expenditure. Existing inputs must be accounted for once, not assumed free or paid twice.
+
+The separate **6,000-lorrat expedition appropriation is untouched and unavailable for private estate spending**. Corva's authority over house finances does not change that restriction.
+
+
+General wages and prices: [ECONOMIC-REFERENCE.md](ECONOMIC-REFERENCE.md). These accounts supersede the earlier provisional 620/144 forecast and 190/212 allocation. The exact transcript retains those historical passages; they are not the current budget.

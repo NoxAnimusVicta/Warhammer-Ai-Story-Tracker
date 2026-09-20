@@ -5,7 +5,7 @@ This is an ongoing, player-led Warhammer 40,000 campaign, not a completed story.
 ## Start here on a new account
 
 1. Read this guide and [CURRENT-CONTINUITY.md](CURRENT-CONTINUITY.md) completely.
-2. Read [seed.json](seed.json), the current dossier overview, and [malaspina-world.txt](malaspina-world.txt), the active planetary record.
+2. Read [ECONOMIC-REFERENCE.md](ECONOMIC-REFERENCE.md) before quoting prices and [ESTATE-ACCOUNTS.md](ESTATE-ACCOUNTS.md) for current house accounts. Read [seed.json](seed.json), the current dossier overview, and [malaspina-world.txt](malaspina-world.txt), the active planetary record.
 3. Read the relevant scenes and the latest exchanges in [story-transcript.md](story-transcript.md). It is an exact historical archive, including discarded proposals and corrections. Later accepted corrections override earlier wording. Do not interpret an old proposal as an enacted event.
 4. Ask the player to attach the private narrator handover supplied with this edition if it is not already available. It contains concealed continuity and editable project sources. Do not invent missing secrets, reroll established hidden choices or claim to have read inaccessible files. Public GitHub alone deliberately does not contain the entire narrator record.
 5. In that package, read `PRIVATE-START-HERE.md`, then the listed current notes. Inspect the actual transcript tail and publication status: this guide's revision is a checkpoint, not a substitute for later exchanges.
@@ -85,10 +85,10 @@ Read food-cultures.json and purge-history.json alongside the world record. Use m
 
 Revision39 removes redundant local map additions and provides real northern/southern/western roads. Current counts:897settlements,1928routes. Unvisited repetitive principal names have corrected aliases in the private handover; retain stable IDs and established story names. The old measured-route accordion is retired, but source measurements remain. Read private/map-maintenance.md before editing.
 
-## Revision 43 checkpoint
+## Revision 44 checkpoint
 
-Scene paused in Serravonne railway yard: Veskan wounded, Corva supporting him, Galahad unarmed confronting Orvasse and Scerault men. Neither parent knows of the noble grant. No fight has been resolved. Departure approximately three weeks away; last settled personal balance473, return-travel costs pending; expedition6000 separate and unspent. Read CURRENT-CONTINUITY.md, VEYRASSE-LEADERSHIP.md and the latest exact transcript.
+The current scene is three days into residence at the Orsival estate. Veskan is recovering, both parents know their titles and the expedition plans, and Corva has delegated control of house finances and staffing. The yard confrontation is over. Departure is approximately two and a half weeks away. Current personal cash is 402, with 282 earmarked and 120 uncommitted; expedition 6,000 remains separate and unspent. Transcript439 replaces only the financial passages of the three-day scene. No new time passes. Read CURRENT-CONTINUITY.md and the latest exact exchanges.
 
-The private handover controls the dark-protagonist tone, concealed leadership characterisation, updated seven-founder cohort and physiology calibration. Do not manufacture guilt or penalise ruthless choices through arbitrary consequences. Preserve agency and practical uncertainty. Physical advantages constrain dice outcomes. No political coup, royal death or Hunter intervention is predetermined.
+The private handover controls concealed characterisation, founder records and physiology calibration. Preserve player agency and practical uncertainty. Physical advantages constrain dice outcomes. No political coup, royal death or Hunter intervention is predetermined.
 
 Physiology distinguishes unaided performance from psychic augmentation. Food/water/sleep ranges are conditional campaign estimates, not canonical universal figures or automatic death timers. Never conflate suspended survival with active endurance, armour recycling with unaided metabolism, or skin injury with incapacitation.

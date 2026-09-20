@@ -16,18 +16,10 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the Long Culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Revision 40
+## Current edition — revision 44
 
-One political entry now combines government, economy, military, older arts and cuisine. Ten generic geographic entries and 328 repetitive settlement names have been replaced; stable identifiers retain continuity. The 51 remaining exact duplicate settlement descriptions have also been rewritten. The World view no longer embeds duplicate nation catalogues or the complete reference. Short-road zoom visibility, gesture rendering and portrait caching have been revised. Publish portrait.png and sw.js alongside the new index and records.
+The record now covers the railway-yard confrontation, arrival at the estate, Veskan’s first three days of recovery, Corva’s household authority and the accepted accounting correction. Cash held is 402 lorrats; 282 is earmarked and 120 uncommitted. The separate 6,000-lorrat expedition fund is untouched. The estate’s 218-lorrat annual remainder is a conditional forecast, not collected income.
 
-## Revision 41
+[Economic reference](ECONOMIC-REFERENCE.md) gives consistent wage and price bands with regional, seasonal and quality adjustments. [Estate accounts](ESTATE-ACCOUNTS.md) separates paid expenses, allocations and projected operating returns.
 
-All settlement and political descriptions reviewed; random civic notes replaced with individual place accounts. Map detail uses one global visibility hierarchy, and nearby settlements no longer suppress each other. Existing geography, routes, census, capacity figures and story state are preserved. Cuisine remains within political records.
-
-## Revision 42
-
-House Orsival is formally recognised, with matching parental titles and a 56-hectare grant near Serravonne. The one-year Collegium expedition has five appointed scholars and a departure date twenty-one days after approval. The records distinguish personal funds from the expedition appropriation, document the completed network design and first working module, and retain the full recent exchanges. Current continuity has been consolidated rather than layered over obsolete checkpoints.
-
-## Revision 43
-
-Serravonne return and unresolved railway-yard confrontation recorded. Physiology consolidates integrated organ functions, physical/psychic performance and food, water and sleep reserves. Duplicate planetary introduction and one-off hunger wording removed. Court and command biographies, succession and noble legal standing are available in VEYRASSE-LEADERSHIP.md. Family notification remains pending; return travel costs await reconciliation.
+Current summaries and handover instructions supersede older checkpoints. The exact transcript preserves past wording, including the rejected estate estimates. The atlas retains 897 settlements and 1,928 routes, with integrated political and food records. Its census and 35-day population projection are explicitly dated; the later journey and estate stay do not fabricate a new precise census date.

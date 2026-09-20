@@ -8246,3 +8246,805 @@ The sources support exceptional endurance, but not a reliable food-and-water tim
 The records now stop at the railway-yard confrontation, with no fight outcome added. Corva and Veskan still haven’t been told about the grant.
 
 The physiology update is consolidated, including the adapted Primaris systems and separate estimates for active endurance and survival. I’ve also preserved the existing cohort members while changing the total to seven. The first checks pass; I’m checking the phone layout and publication files next.
+
+
+## 420 — Assistant — Progress note
+
+The updated app passes the reader, update-checking, navigation, accounting and encoding checks. I also checked the expanded physiology section at iPhone-sized dimensions; it wraps without horizontal overflow.
+
+The public files are uploaded and ready to commit. The exact transcript is preserved, and the hidden cohort details and narrator-only direction remain outside the public repository.
+
+
+## 421 — Assistant — Progress note
+
+The update is now live on GitHub Pages. Physiology has one consolidated endurance reference, with campaign estimates clearly distinguished from established lore. The organ systems, current railway-yard confrontation, family continuity and transcript are also updated. I’m finishing the private handover archive so those decisions survive a change of session.
+
+
+
+## 422 — User — Railway-yard retaliation
+
+There is stillness in the air. Like the calm before the storm. And then the storm explodes. A wave of psychic energy reeling from me with enough pressure to push the air away from me in gusts. The energy presses one very immediate thought to the front of the brain that every human uses for threat assessment. "You are going to die. Run. Run. Run. Run." As I crack my neck and smile in a way that looks to the armed men like a predator who has just found its prey. "Good thing you called the authorities away. That means I can deal with this myself. I am Lord Galahad Orsival. You have harmed Sir Veskan Orsival, Father of my House. For this crime I sentence you all to death." I say calmly and with that same predatory smile as the Criminals begin to feel the fear and recognize what is standing in front of them. My body goes from a relaxed posture to exploding with extreme momentum. I grip Orvasse's entire head with my right hand and plunge it into the cobble stone, completely crushing his skull. "With their many eyes, they shall weep." Then I pick up the corpse and hurl at the nearest individual with a firearm with enough force to bisect them. "With their many limbs, they will crawl." Then I rush to the one with the Switchblade as they are beginning to scatter as the fear and horror sink in. I grab the arm with the switch blade and rip it clean off his torso then lodge it into another's ribcage. "In their many tongues, they shall plead." Then I move to the next and put my whole arm through his chest, killing him instantly. "In their many forms, they shall fall!" I continue to move through them all like this until they are all lying in bloody puddles. "What a terrible time for the Hunters to attack. Terrible shame." I half chuckle to myself as I breath in the carnage.
+
+## 423 — Assistant — The sentence carried out
+
+For a heartbeat, the yard holds still.
+
+Then the air strikes outward.
+
+Coal dust lifts from between the cobbles. A loose waybill tears free of a freight pallet and whips beneath the canopy. Coats snap against bodies; someone behind you staggers into a companion.
+
+The fear arrives with it.
+
+Orvasse's expression empties. Whatever calculation he had been making about your size, his pistol, the men behind him—it breaks beneath an imperative older than any of them.
+
+*Run.*
+
+His left hand tightens around the weapon. His feet try to retreat. For an instant, the two impulses hold him motionless.
+
+Behind you, the workers recoil from the same pressure. A hammer drops onto stone. Corva bends over Veskan, bracing him against her body while the gust pulls at her hair.
+
+You crack your neck.
+
+“Good thing you called the authorities away. That means I can deal with this myself.”
+
+Your smile exposes your teeth.
+
+“I am Lord Galahad Orsival. You have harmed Sir Veskan Orsival, Father of my House. For this crime I sentence you all to death.”
+
+Corva's head comes up at the names and titles.
+
+Orvasse hears the sentence.
+
+“Now, wait—”
+
+You cross the space before he can finish.
+
+Your right hand closes over his head, fingers spanning temple and jaw. The pistol is still coming up when you drive him down. His knees strike first and buckle sideways; his skull hits the cobbles a fraction later.
+
+Bone gives with a thick, explosive crack.
+
+Blood spreads beneath your palm. Fragments of teeth and pale skull skip across the stones, and the back of his head collapses into the ruined face beneath it. His body jerks once. The pistol knocks against the ground, still caught in his left hand.
+
+“With their many eyes, they shall weep.”
+
+You seize his coat and lift.
+
+The next gunman has managed to bring his weapon clear of the man beside him. He sees Orvasse leave the ground. There is no time for him to understand the rest.
+
+The corpse strikes him across the middle with the violence of machinery coming apart. His spine breaks; his abdomen ruptures beneath the impact, and the two halves of him separate in a spray of blood and torn cloth. His upper body hits the cobbles beyond his collapsing legs. Orvasse tumbles farther, leaving a broad red smear across the yard.
+
+The gun lands beneath a wagon.
+
+“With their many limbs, they will crawl.”
+
+Now they scatter.
+
+A man collides with the freight pallets trying to turn. Another shoves his own companion aside. The one with the switchblade slashes wildly at the space you occupied a moment before.
+
+You catch his knife arm.
+
+His feet leave the ground as your grip arrests him. For an instant his whole weight hangs from the shoulder; then you pull, and the joint comes apart with a wet wrench. Tendons stretch white through the opening before snapping. Blood spills down his waistcoat as the arm tears free.
+
+His scream has scarcely begun when you turn.
+
+The next man throws both hands over his chest. You drive the severed limb through them, forcing the broken upper-arm bone between his ribs. The cage of his chest caves inward around it. His mouth opens against a gush of blood, and he falls with the other man's hand still clenched around its little knife.
+
+You finish the maimed man before he reaches the ground.
+
+“In their many tongues, they shall plead.”
+
+The next tries.
+
+“Please—”
+
+Your fist enters beneath his breastbone. Ribs break around your forearm; the force carries through his chest and out between his shoulder blades, scattering blood and fragments of bone against the freight wagon behind him.
+
+His shoes scrape once across the stones.
+
+You withdraw your arm, and he drops.
+
+“In their many forms, they shall fall!”
+
+The clubman with the broken tooth swings at you.
+
+It is an ugly, desperate stroke, driven by terror through shoulders already trying to turn away. You catch his wrist. The bones crush together beneath your fingers, and the blood-darkened club slips from his hand.
+
+He recognises what is happening before you strike him.
+
+Your blow folds his jaw into his throat. Broken teeth burst through his cheek; his neck gives beneath the force, and his body follows his head down onto the stones beside the weapon he used on Veskan.
+
+Beyond him, a pistol clatters away as its owner abandons it to run faster.
+
+He gains three strides.
+
+You overtake him beneath the canopy, seize the back of his neck and drive him into an iron upright. His face breaks against it. The column rings, a deep metallic note carrying over the screams, and his body slumps around your hand.
+
+The remaining men find no way through the yard quickly enough.
+
+Their fine clothes catch on freight fittings. Polished soles skid through blood. One turns with both palms raised; another crawls beneath the edge of a wagon and leaves finger marks in the grime as you drag him back out. Human limbs and human reflexes offer them almost nothing against you. Each attempt at flight ends in a brief collision, a breaking sound, another body falling still.
+
+Then there are no more running footsteps.
+
+Blood follows the shallow falls between the cobbles, gathering beneath discarded weapons and soaking into coal dust. A switchblade lies open beside a hand that no longer holds it. Farther away, Orvasse's pale waistcoat has become almost entirely red.
+
+None of the Scerault men is moving.
+
+You stand among them, your right sleeve sodden to the elbow and the front of your coat spattered dark. Beneath the freight oil and locomotive smoke, the air is thick with the hot, metallic smell of opened bodies.
+
+“What a terrible time for the Hunters to attack. Terrible shame.”
+
+Your half-chuckle carries clearly beneath the canopy.
+
+No one answers it.
+
+The workers remain where the first wave drove them. The young patrolman has slid down against the pallets, staring at the place where Orvasse's head struck the ground. Beside him, a railwayman lowers the length of iron he had been holding until its end rests on the cobbles.
+
+From the far side of the sheds comes the ordinary clank of a coupling.
+
+Corva is the first to speak.
+
+“Galahad.”
+
+She is still holding the cloth against Veskan's arm. Her eyes pass over your bloodied coat, searching for a wound of your own, then return to your face.
+
+“Come here. Help me with your father.”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately two local years; eight and a half feet tall, still growing  
+**Date:** Serravonne return; expedition departure approximately three weeks away  
+**Reputation:** Scholar-engineer and newly elevated noble; has publicly declared his house's standing and killed the Scerault men at the railway yard  
+**Weapons (Equipped):** None; Vouressan-bone greatsword remains at the Collegium  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots; heavily bloodstained  
+**Gear/Inventory:** Personal effects; research and workshop belongings remain at the Collegium  
+**Currency:** 473 lorrats before unreconciled travel expenses; separate expedition appropriation of 6,000 lorrats, unspent
+
+
+## 424 — User — Calm, witnesses and healing
+
+"Yes mother." I say as the psychic pressure just as suddenly swaps to an easing sense of calm and ease. Everyone here looks at me and understands I did what I did to protect them and discourage this behavior. With a pleasent smile I look to one of the railworkers that was watching. "Would you mind gathering the authorities. Please let them know there has been a Hunter attack." Then I look out at the crowd. "Because that is what you all saw isnt it? A Hunter attack. Isn't that right?" I ask as I kneel down next to Corva and take Veskan in one arm and I place another on his head and try to heal some of his wounds.
+
+## 425 — Assistant — Relief beneath the canopy
+
+“Yes, Mother.”
+
+The pressure changes with the words.
+
+Shoulders loosen. The railwayman beside the pallets discovers he can unclench his hands. Breath comes more easily beneath the canopy, and the terrible urgency to flee recedes into a quiet certainty: you came because Veskan was hurt. You stood between these men and everyone they had been threatening.
+
+The bodies remain where they fell, but the workers can look from them to you without that same animal panic catching in their throats.
+
+“Would you mind gathering the authorities? Please let them know there has been a Hunter attack.”
+
+The man you address wears a railway cap with a frayed band. His eyes move briefly towards the empty watch office.
+
+“Yes, my lord.”
+
+Then you turn your pleasant smile upon the others.
+
+“Because that is what you all saw, isn't it? A Hunter attack. Isn't that right?”
+
+There is a short silence.
+
+“A Hunter attack,” says the railwayman holding the iron bar.
+
+He sets it against the pallets. Beside him, the young patrolman wipes his mouth with the back of his hand and nods.
+
+“That's right.”
+
+Others take it up, some aloud, some with a firm inclination of the head. Their recollection of your movements remains; they understand the account you are asking them to give. The relief moving through them makes agreement easy, and the men lying on the stones had offered them little reason for loyalty.
+
+The worker in the frayed cap leaves at a quick walk, then breaks into a trot beyond the canopy.
+
+You kneel beside Corva.
+
+She shifts to make room as your arm passes behind Veskan's back, keeping the folded cloth pressed against his wounded upper arm. His weight settles against you. Up close, dried blood has stiffened his eyelashes; a fresh bead gathers at the split above his brow.
+
+“Easy,” Corva murmurs as she adjusts the cloth.
+
+Your other hand rests against his head.
+
+Beneath your palm there is warmth, a pulse, the faint movement of his jaw as he swallows. His pain presses against your awareness more distinctly than the scattered feelings around the yard: the pounding behind his swollen eye, the sharper hurt in his arm, the effort of holding himself upright.
+
+You reach towards it.
+
+Warmth gathers beneath your fingers. Veskan draws a slow breath, then another, deeper one. The muscles beside his mouth relax. His good eye opens properly and finds your face.
+
+“That's better,” he says hoarsely.
+
+For a few moments his pain loses its grip. You can feel the change, small but definite, as your attention rests upon him.
+
+The cut beneath your hand stays open. Another bead of blood forms at its edge. Under Corva's fingers the folded cloth still darkens, and the swelling around his eye has not withdrawn. Whatever you are reaching towards, you have found a way to ease his suffering before finding how to make the torn flesh join.
+
+Corva watches your hand, then his face.
+
+“Keep doing that. It's helping him.”
+
+She looks over her shoulder at the nearest railwayman.
+
+“Fetch the first-aid box. And get someone for the surgeon.”
+
+He moves immediately. Another worker pulls off his coat and folds it, bringing it within her reach.
+
+Veskan's fingers close around the fabric at your wrist. His grip is weak but deliberate.
+
+“Sir Veskan?” he asks.
+
+His gaze shifts towards Corva, then back to you. Through the blood and the swelling, one corner of his mouth makes a small, bewildered attempt at a smile.
+
+“What have you been up to, lad?”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately two local years; eight and a half feet tall, still growing  
+**Date:** Serravonne return; expedition departure approximately three weeks away  
+**Reputation:** Newly elevated noble; railway witnesses have agreed to describe the yard killings as a Hunter attack  
+**Weapons (Equipped):** None; Vouressan-bone greatsword remains at the Collegium  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots; heavily bloodstained  
+**Gear/Inventory:** Personal effects; research and workshop belongings remain at the Collegium  
+**Currency:** 473 lorrats before unreconciled travel expenses; separate expedition appropriation of 6,000 lorrats, unspent
+
+
+## 426 — User — Transport to the estate
+
+I smile softly "Oh a great many things Dad. Now rest. I have got you. Lets get you home." I say as I pick him up and motion with my head for Corva to follow me as I approach the watch members now running up and seeing the absolutely massacre of a scene. I have blood all over my sleeve. But all the witnesses are saying it was a Hunter attack and no human could possibly do all this by themselves so they create their own reasonable explanations for the blood on my sleeve assisted by my psychic calming and comforting effect and think little of it. "I need someone to organize transport for myself and my parents to my estate and send for the surgeon. My name is Lord Galahad Orsival. I would suggest expediency." (Given my size I basically need to ride in the back up a pick up truck or ute. I can't fit in regular cars or on regular sized horses. But I can run faster than a car so I can still beat them home and just not elaborate to anyone how and it Corva and Veskan it will be easy for them to piece together. I should have a map or something to direct me to my estate and I presume there are some kind of servants/aides for the household right?)
+
+## 427 — Assistant — Leaving the railway yard
+
+*(An open-backed railway truck will accommodate you. The grant includes the house and land, but household staff haven't been established; a staffed noble household doesn't automatically come with the title. A local land-office plan can supply the route without requiring you to have brought the grant papers from the Collegium.)*
+
+“Oh, a great many things, Dad. Now rest. I have got you. Let's get you home.”
+
+Veskan lets his head settle against you.
+
+You lift him with an ease that allows scarcely a jolt, supporting his legs and back while Corva keeps the cloth against his arm. She rises beside you, catches your nod and follows.
+
+The watchmen arrive at a run.
+
+The first stops so abruptly that the man behind nearly strikes his shoulder. His gaze passes from the blood beneath the canopy to the body against the iron upright, then farther across the scattered dead.
+
+“Hunters,” a railwayman tells him. “It was Hunters.”
+
+Others confirm it before he can finish drawing breath.
+
+Your calming presence reaches the newcomers. Their alarm settles into something they can act upon. One points men towards the approaches; another begins moving workers away from the bodies.
+
+They look at your blood-soaked sleeve, then at the injured man cradled against your chest. The explanation presents itself readily. You have been helping him. Whatever else happened here belongs to the appalling violence spread across the yard—violence they cannot imagine one person accomplishing with his hands.
+
+“I need someone to organize transport for myself and my parents to my estate and send for the surgeon. My name is Lord Galahad Orsival. I would suggest expediency.”
+
+The watchman facing you straightens.
+
+“At once, my lord.”
+
+He turns, already pointing towards the goods sheds.
+
+“Motor truck. Clear the bed and put something down for them. You—telephone for the surgeon. Tell him there's a gunshot wound and blows to the head.”
+
+Corva supplies Veskan's name without leaving your side.
+
+The watchman glances at your height, then at the narrow doorway of the office. He brings the business outside.
+
+“We'll obtain the approach from the land office and give the surgeon the same directions.”
+
+Behind him, a clerk hurries to the telephone. Someone starts an engine beyond the loading platform; it coughs twice, catches, and settles into a rattling idle.
+
+Veskan opens his good eye.
+
+“Estate?”
+
+“Apparently,” Corva says.
+
+She looks up at you. The corner of her mouth moves, although her hand remains firmly over the dressing.
+
+“You have been busy.”
+
+The truck reverses towards the platform under a railwayman's waving hand. It has a timber-sided cargo bed, broad enough for you to sit behind the cab. Workers spread folded freight blankets over the boards and bring a padded bench cushion from inside the station.
+
+While they prepare it, the first-aid box arrives. Corva accepts clean dressings and reinforces the cloth at Veskan's arm, working around your supporting hands.
+
+The clerk returns with a sheet torn from an office pad. A rough road sketch fills its centre, with junctions and a property reference written beneath it.
+
+“The land office has the transfer recorded, my lord. They've given us the approach to the dwelling.” He hands the sheet to the driver. “The surgeon's being fetched. His man will have a copy.”
+
+The driver studies it, then nods.
+
+You settle into the truck with Veskan supported against you. The rear springs sink beneath the combined weight. Corva climbs in beside him and takes the folded coat to cushion his head, arranging it without disturbing your hold.
+
+At the tailboard, the watchman removes his cap.
+
+“We'll keep the yard clear and take the witnesses' accounts. The driver will bring you straight to the house.”
+
+Beyond his shoulder, one of the workers repeats the same two words to a clerk opening a notebook.
+
+“Hunter attack.”
+
+The tailboard closes. Corva braces herself beside you as the truck rolls gently away from the platform, carrying the three of you towards the road out of Serravonne.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately two local years; eight and a half feet tall, still growing  
+**Date:** Serravonne return; expedition departure approximately three weeks away  
+**Reputation:** Newly elevated noble; the responding watch accepts the witnesses' Hunter-attack account  
+**Weapons (Equipped):** None; Vouressan-bone greatsword remains at the Collegium  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots; heavily bloodstained  
+**Gear/Inventory:** Personal effects; estate approach directions obtained for the driver; research and workshop belongings remain at the Collegium  
+**Currency:** 473 lorrats before unreconciled travel expenses; separate expedition appropriation of 6,000 lorrats, unspent
+
+
+## 428 — User — First arrival at the estate
+
+We arrive at the Estate. I take Veskan inside and lay him down on one of the bed’s in the main house and tend to him while we wait for surgeon to arrive. Once the Surgeon has arrived I walk around the main house and look at the new estate I now own.
+
+## 429 — Assistant — The house and grounds
+
+The approach leaves the busier road between two low stone pillars. One still carries an iron lamp bracket; the other has a pale rectangle where an old nameplate was removed.
+
+Gravel shifts beneath the truck's tyres. Beyond a hedge, cultivated strips run towards a stand of trees, their furrows dark against the grass. The house appears at the end of the drive: two storeys of weathered, pale-grey masonry, a steep tiled roof and a lower service wing extending towards a walled yard.
+
+An older woman in a brown work dress comes out from that wing at the sound of the engine. She has keys in one hand and a cloth tucked through her belt.
+
+“Lord Orsival?”
+
+Then she sees Veskan.
+
+“Bring him through here. There's a bed downstairs.”
+
+She opens both leaves of the front door and leads you across a tiled entrance hall. You lower your head beneath the lintel, turning slightly to keep Veskan clear of the frame.
+
+The room she opens overlooks the side garden. It contains a broad wooden bed, a wardrobe, a washstand and two chairs. The mattress smells faintly of aired linen. Corva pulls back the cover while you carry Veskan across and lower him onto it.
+
+His fingers linger at your sleeve before releasing it.
+
+“That's a good bed,” he murmurs.
+
+Corva draws a chair close.
+
+“Then stay in it.”
+
+The woman brings water, clean cloths and a basin. Between her errands, she explains that she has been keeping the main house aired and secure while it awaited its new owner. She occupies rooms off the service yard. There is no assembled household of liveried attendants; there is someone who knows which cupboard holds the linen and which door sticks in wet weather.
+
+For now, she puts that knowledge to work.
+
+You remain beside Veskan, supporting him when he needs to shift and helping Corva keep him comfortable. His breathing stays steady. The railway dressing remains in place until the surgeon arrives.
+
+You hear the second motor vehicle crunch onto the drive, followed by hurried footsteps in the hall.
+
+The surgeon enters carrying a leather case. He takes in Veskan, the bloodied cloths and your size, then sets the case beside the washstand.
+
+“Tell me what happened to his arm first.”
+
+Corva gives him the sequence: the pistol, the blows, Veskan answering throughout. He listens while washing his hands, then draws his chair to the bedside and begins examining your father.
+
+“I'll need this light kept clear. Thank you.”
+
+The caretaker pulls the curtain farther back. Corva stays beside the bed as you step out into the hall.
+
+For the first time, you can look properly at your house.
+
+The entrance hall runs through to a glazed door at the rear. Its ceiling clears your head comfortably; the doorways require a bow. Pale shapes on the wallpaper mark where pictures once hung. An oak staircase rises along one wall, its handrail polished by generations of hands far below yours.
+
+To the left lies a sitting room with tall windows and a stone fireplace. Sheets cover a sofa and several chairs. When you draw one aside, the upholstery beneath is faded but intact. Afternoon light catches dust above the floorboards and illuminates a patch of blistered plaster beside the outer window.
+
+Across the hall is a dining room. Its long table remains, together with a sideboard and six mismatched chairs. Beyond it, a smaller room looks towards the drive. Empty shelves line one wall; a substantial desk stands beneath the window, its top scarred with old ink stains. There is room here for drawings, correspondence and visitors without making the dining table serve all three purposes.
+
+The kitchen occupies the service wing. A black iron range stands beneath a broad hood, opposite a deep sink and a hand pump. There are pantry shelves, a scullery and a back staircase. The caretaker has a kettle heating, and a small stack of split wood waits beside the range.
+
+Upstairs, you find four bedrooms around a narrow landing, a linen cupboard and a washroom with an enamelled bath. Most furniture remains, although several drawers stand empty and one room has only a bedframe. None of the beds upstairs would let you stretch out fully. The largest room has enough floor space for one made to your dimensions.
+
+At its window, the estate opens before you.
+
+The garden immediately behind the house has gravel paths half lost beneath grass, an orchard and a vegetable plot still being worked. Beyond them lies meadow, then cultivated ground divided by hedges. Woodland follows a shallow fold in the land, breaking the view before you can see its full extent.
+
+Closer to the house, the service yard gathers the working buildings together: a stable, a cart shed with wide doors, and a long, low storehouse. A section of shed gutter hangs loose. The stable roof has been patched with newer tiles. Farther along the farm track are two cottages, one with washing moving on a line.
+
+The signs of work are everywhere—stacked timber, a repaired gate, tools put under cover. This land has continued to support people while its ownership changed.
+
+You can already distinguish ordinary maintenance from larger jobs. Water has been spilling down the wall beneath the broken gutter; a window sill needs replacing before the decay reaches its frame. The cart shed offers useful covered space and easy access from the drive. Exact acreage and boundaries will need the survey, but from here you can see how the house, yard and fields connect.
+
+Below, the caretaker crosses towards the kitchen carrying fresh water. Through the open ground-floor window comes Corva's voice answering the surgeon.
+
+Your father is being attended to. Around you, the house is quiet, furnished enough to inhabit, worn enough to need attention—and yours to decide what it will become.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately two local years; eight and a half feet tall, still growing  
+**Date:** Serravonne return; expedition departure approximately three weeks away  
+**Reputation:** Newly elevated noble; the railway watch accepts the witnesses' Hunter-attack account  
+**Weapons (Equipped):** None; Vouressan-bone greatsword remains at the Collegium  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots; heavily bloodstained  
+**Gear/Inventory:** Personal effects; first visit to the 56-hectare Orsival estate; research and workshop belongings remain at the Collegium  
+**Currency:** 473 lorrats before unreconciled travel expenses; separate expedition appropriation of 6,000 lorrats, unspent
+
+
+## 430 — User — Thanks to the caretaker
+
+I go find the caretaker. “Excuse me my dear. I am Lord Galahad Orsival. Might I have your name please? I wished to thank you for your swift service and initiative as we arrived. Your services are valued here.” I say with my comforting and calming psychic presence radiating from my as I take out my wallet and retrieve 25 Lorrats. “For services well rendered.” I take her hand softly, place the money inside and very gently and softly close her hand around. “Would you mind preparing something light to eat for the family? We have had a trying evening and knowing my father he will wish to eat before he rests. I will provide funds for a proper kitchen restock once I have a firm grasp on my new property.” I smile softly
+
+## 431 — Assistant — Lucette Marcenay
+
+You find her in the kitchen, setting a clean tray beside the range. She turns at your footsteps and wipes her hands on the cloth at her waist.
+
+“Excuse me, my dear. I am Lord Galahad Orsival. Might I have your name, please? I wished to thank you for your swift service and initiative as we arrived. Your services are valued here.”
+
+“Lucette Marcenay, my lord.”
+
+She makes a small curtsy. As your comforting presence settles through the kitchen, the stiffness leaves her shoulders.
+
+“I'm glad I had the room ready. Your mother knew just what she needed. That helped.”
+
+You retrieve the money.
+
+“For services well rendered.”
+
+Her hand is work-roughened and very small within yours. You place the twenty-five lorrats in her palm and gently close her fingers around them.
+
+For a moment she looks down at your joined hands. Then she looks up again, lips parted slightly.
+
+“Twenty-five…”
+
+The amount is substantial enough to interrupt whatever polite answer she had prepared. She takes a breath.
+
+“Thank you, my lord. That's very generous of you.”
+
+She slips the money carefully into a pocket beneath her apron, pressing it once to make certain it is secure.
+
+“Would you mind preparing something light to eat for the family? We have had a trying evening and, knowing my father, he will wish to eat before he rests. I will provide funds for a proper kitchen restock once I have a firm grasp on my new property.”
+
+“Of course. There's bread, eggs and a little butter. I can make a soft omelette, and some thin toast for you and your mother. Tea as well.”
+
+She glances towards the passage leading to Veskan's room.
+
+“I'll ask the surgeon what your father may have before I take his tray in.”
+
+Your smile draws a warmer one from her.
+
+“It won't take long.”
+
+She opens the pantry and brings out a covered basket, a crock of butter and a loaf wrapped in cloth. Her movements become brisk and assured as she lays them beside the chopping board. A small pan goes onto the range; three cups come down from a shelf.
+
+“I've kept enough in for myself and whoever came to inspect the place,” she says. “With the house occupied, I'll make you a proper list. Food, lamp oil, soap—the ordinary things that disappear quickest.”
+
+She pauses with the bread knife in her hand.
+
+“And I have the household keys and the notes I've kept on repairs. Whenever you're ready, I can show you what needs doing and what will wait.”
+
+Butter begins to hiss softly in the pan. From down the passage comes Corva's voice, low in conversation with the surgeon. Here in the kitchen, Lucette cuts the first slices of bread and sets about making supper for your family.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately two local years; eight and a half feet tall, still growing  
+**Date:** Serravonne return, evening; expedition departure approximately three weeks away  
+**Reputation:** Newly elevated noble; the railway watch accepts the witnesses' Hunter-attack account  
+**Weapons (Equipped):** None; Vouressan-bone greatsword remains at the Collegium  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots; heavily bloodstained  
+**Gear/Inventory:** Personal effects; research and workshop belongings remain at the Collegium  
+**Currency:** 448 lorrats after the 25-lorrat gift, before unreconciled travel expenses; separate expedition appropriation of 6,000 lorrats, unspent
+
+
+## 432 — User — Recovery and estate management
+
+I spend the next few days getting the estate in order and tending to Veskan using my psychic abilities as well as tricks I picked up from the surgeon while he consulted me on Veskan’s condition. At some point Corva asks me why I killed all the criminals in the yard instead of just beating them and I admit I may have gone too far in that instance but it’s harder for me to not kill them than it is to kill them, there were other people around and these guys had weapons and firearms that I didn’t want to risk injuring bystanders and so I took the most direct path to permanently remove the threat. During these few days I sit down with Corva and Lucette and go over the affairs of the estate. Allocate money for repairs and maintenance and I take an accounting of the land. How fertile the soil is, how many hectares of trees we have and local price of the wood just going over any and all ways I can think of to ensure the estate itself provides a stable income. I inform Corva that she has full control of the Houses finances in my absence and if she needs to put on extra staff or make decisions without my consultation then I trust her to do so. We also fully stock the house with essentials and Corva says she will have new furniture organised in the coming months. Then I explain to her and Veskan about the expedition and how long I will be gone for. I tell them that this Estate is their home now and since I cannot be here directly I can at least ensure that my parents live in comfort. I also begin designating rooms for things such as my private study or library/archives room. As well as a small building near the main house that needs some repairs as my new workshop so I will need it in functional order by the time I return. My plan is that by the time I return from my expedition my estate is productive, producing wealth and becoming integral to the societal structure of Serravonne.
+
+## 433 — Assistant — Putting the house in order
+
+Over the next three days, the house acquires the sounds of occupation: doors opening before breakfast, water carried upstairs, Lucette calling through the kitchen doorway to a deliveryman who has brought the wrong sack.
+
+Your coat is cleaned. The covers come off the sitting-room furniture. Fresh provisions fill the pantry, and Corva puts a notebook beside the kitchen scales so that purchases stop depending on anyone's memory.
+
+Veskan remains in the downstairs bedroom.
+
+The surgeon's examination brings relief. The bullet passed through the flesh of his upper arm without breaking the bone; the wound needs care, but he expects the arm to recover. The blows have left a concussion, cuts and considerable bruising. He wants rest and continued observation, and returns to check him.
+
+He also discovers that explaining something to you once is generally sufficient.
+
+You learn how he assesses the wound and distinguishes healing from irritation, how he supports the injured arm, and what changes he watches for in Veskan's responses. Your attention follows every movement without losing his explanation.
+
+The psychic work begins with the relief you already know how to provide. Then, during the second day, you feel something change beneath your fingers: the small cut at Veskan's brow draws together while you attend to it. The effect is slight, but you can reproduce it later at the split in his lip.
+
+The deeper injury in his arm remains beyond that first success. Yet there is progress you can see and repeat. By the third day, he can sit comfortably propped against pillows, eat with an appetite and complain about being supervised.
+
+“A man could recover quicker without being watched so closely.”
+
+“A man could also get out of bed and make himself worse,” Corva answers, moving his boots farther from his reach.
+
+He looks towards you for support. She catches the glance.
+
+“Both of you.”
+
+***
+
+Her question about the yard comes privately, while you are together in the little room overlooking the drive.
+
+“Why all of them?” she asks. “You could have beaten them. I've seen enough to know that.”
+
+You admit that you may have gone too far. You explain the difficulty of restraining that much strength, the firearms, the people standing behind you—the risk of giving armed men time to shoot while you tried to put them down more carefully. You chose the most direct way to remove the threat permanently.
+
+Corva listens with her hands resting on the papers between you.
+
+“I was frightened they'd kill him,” she says at last. “When you arrived, I could breathe again.”
+
+She looks up at you.
+
+“And I believe you about the guns. I was sitting under one.”
+
+For a moment she considers the ink stain on the desk.
+
+“But if sparing someone is harder, that's something you can learn. You're very good at learning difficult things.”
+
+Her hand closes over yours.
+
+“I'd like you to have that choice.”
+
+She leaves it there. When Lucette knocks with the property papers, Corva makes room for her at the desk.
+
+***
+
+The estate begins to resolve into particulars.
+
+You compare the land schedule with the boundaries on foot, speak with the people working the ground, and return with soil on your boots and measurements in your notebook. Lucette supplies the history of repairs and occupancy. Corva checks the payments against the agreements rather than accepting every remembered figure as a receipt.
+
+The fifty-six hectares break down as follows:
+
+| Land | Area | Present use and condition |
+|---|---:|---|
+| Tenanted arable ground | 20 ha | Established cultivation; generally good loam, with a heavier lower strip that drains poorly after rain. |
+| Meadow and pasture | 12 ha | Hay and grazing; productive, though several boundaries need repairs. |
+| Woodland | 14 ha | Mixed mature trees and younger growth; usable timber and fuelwood, with uneven access for carts. |
+| Orchard and market plots | 6 ha | Existing fruit trees and cultivated garden ground; some neglected pruning and gaps in planting. |
+| House, yards, cottages, tracks and domestic garden | 4 ha | Habitable buildings and working access, with overdue maintenance. |
+| **Total** | **56 ha** | |
+
+The soil is worth having. In the better fields, roots penetrate a dark, friable layer before meeting the heavier earth beneath. The worst patches follow water and neglect rather than a general lack of fertility. Clearing existing drains, returning organic matter to worked plots and repairing the grazing boundaries offer useful gains without buying machinery immediately.
+
+The tenants' crops remain theirs under their agreements. Their rent belongs in your ledger; the full value of their harvest does not.
+
+For the woodland, you obtain local indications rather than accepting a single price for every tree. Merchants quote roughly **1½–3 lorrats per cubic metre for suitable standing saw timber**, depending on quality and access, with the buyer undertaking extraction. Ordinary standing fuelwood brings much less—roughly **⅓–⅔ of a lorrat per cubic metre**. Delivered, cut wood commands higher prices because someone must pay for the work and haulage.
+
+You mark those distinctions carefully. Fourteen hectares of trees are an asset to manage over years. A profitable first clearance would mean little if it left the estate without another useful cutting.
+
+The first annual working estimate takes shape:
+
+| Expected receipts | Lorrats per year |
+|---|---:|
+| Existing agricultural and cottage rents | 210 |
+| Hay and grazing arrangements | 90 |
+| Orchard and market-plot sales | 250 |
+| Selective timber and fuelwood sales | 70 |
+| **Estimated gross receipts** | **620** |
+
+Against that, you allow **260 lorrats** for estate operations: Lucette's agreed annual pay of 120 with her accommodation retained, seasonal help, cultivation expenses, dues and routine maintenance. A further **216 lorrats** provides a working household allowance, supplemented by produce kept for the kitchen.
+
+That leaves a **provisional annual surplus of 144 lorrats**. Rent dates, harvest results and actual sale terms will determine when money is available. Corva underlines that point twice.
+
+“We can live within this,” she says. “But we won't order a drawing room full of furniture because someone promises a good fruit crop.”
+
+Your starting funds give her room to put the place in order before those receipts arrive. The outstanding journey and refreshments settle at six lorrats; the railway makes no charge to you for the emergency truck. The surgeon's visits and supplies account for twelve. Twenty-eight stocks the house with food, cleaning materials, linen replacements and ordinary essentials.
+
+From the remaining money, you set aside:
+
+- **90 lorrats for initial repairs:** 35 for the house and drainage, 20 for gates and outbuildings, and 35 for making the workshop weather-tight and usable.
+- **60 lorrats as an operating reserve.**
+- **40 lorrats towards furniture**, to be spent by Corva over the coming months.
+
+Those are allocations, not completed purchases. After the settled expenses, you have **402 lorrats in cash: 190 earmarked and 212 uncommitted**. The expedition's appropriation remains separate.
+
+***
+
+You give Corva full control of the house's finances while you are away: authority to employ help, approve work and make decisions without waiting for your reply.
+
+She studies you for a moment before drawing the account book towards herself.
+
+“Then I'll keep the accounts, pay people properly, and write to you about anything you ought to know. Lucette and I can manage the daily business.”
+
+Lucette nods. The arrangement is entered with the household papers so that tradesmen and anyone subsequently employed will know whose instructions to follow.
+
+The drive-facing room becomes your private study. One of the upstairs bedrooms is designated for the library and archives, with shelving and storage to be added gradually. Your books and research at the Collegium remain there until you arrange their transfer.
+
+For the workshop, you choose the long, low storehouse across the service yard. It is close to the house, separate enough to contain noise and dirt, and accessible to carts. The repair list covers the roof, a sound lock, better light and the floor. A sturdy working bench follows once the building is dry. Tools, machinery and any larger power installation will be separate decisions.
+
+Your instructions are clear: it is to be ready for use when you return.
+
+You also begin looking beyond the boundaries. The estate can supply food, grazing and wood; your future workshop could give it a more distinctive place in Serravonne's life. For now, Corva has a practical brief to seek reliable buyers and local tradesmen, maintain the tenancies and make the house a dependable customer that pays on time. Contracts and wider influence will have to grow from that work.
+
+***
+
+You explain the expedition to both your parents in Veskan's room: the Collegium's backing, the five scholars, Ceralte first, and the intended year away.
+
+Veskan stops turning his teacup.
+
+“A year.”
+
+“And across all three continents?” Corva asks.
+
+You tell them that this is their home now. Since you cannot remain beside them, you can at least ensure that they live in comfort.
+
+Veskan looks around the room—the clean bed, the garden beyond the window, Corva sitting near his chair.
+
+“You have,” he says quietly.
+
+He reaches for your hand with his uninjured arm.
+
+“You've done that already.”
+
+Corva lets the silence settle before speaking.
+
+“We'll make the place ready. And you will write whenever there's a reliable way to send a letter.”
+
+Later, when you leave them to rest, the household ledger lies open on your study desk. Beside it are the land schedule, the repair priorities and the first page headed **Workshop**.
+
+There is work here for the year you will be gone, and people you trust to carry it forward.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately two local years; eight and a half feet tall, still growing  
+**Date:** Three days after arriving at the estate; expedition departure approximately two and a half weeks away  
+**Reputation:** Scholar-engineer and head of House Orsival; beginning active management of the estate  
+**Weapons (Equipped):** None; Vouressan-bone greatsword remains at the Collegium  
+**Armor/Clothing (Equipped):** Cleaned charcoal coat, pale shirt, dark trousers and leather boots  
+**Gear/Inventory:** Estate accounts and land schedule; private study and library room designated; storehouse assigned as future workshop; Collegium belongings not yet transferred  
+**Currency:** 402 personal lorrats held: 190 earmarked for repairs, reserve and furniture; 212 uncommitted. Separate expedition appropriation: 6,000 lorrats, unspent. Estate income projected, not yet collected.
+
+
+## 434 — User — OOC estate prices
+
+Ok are you sure these prices make sense?
+
+## 435 — Assistant — OOC price audit
+
+**No—not confidently. The arithmetic works, but I hadn't established enough of the economy to justify those particular prices.** I gave you a tidy budget with more certainty than the underlying information supported.
+
+The strongest existing reference is **about 25 lorrats per month for a skilled worker**. Against that:
+
+| Figure I gave | Assessment |
+|---|---|
+| Your 25-lorrat gift | Substantial: about a skilled worker's monthly pay. Lucette's surprised gratitude fits. |
+| Lucette's 120-lorrat annual wage | Insufficiently justified. Accommodation can explain lower cash wages, but I hadn't established the local calendar conversion, normal domestic wages, or her full duties and benefits. |
+| 90 lorrats for repairs | Could fund limited maintenance. I hadn't priced labour, materials or the extent of each job, so I couldn't responsibly promise it covered the whole list. |
+| 28 lorrats for household supplies | Plausible as an initial purchase, but “fully stocked” needs a defined quantity and duration. |
+| 620 annual receipts and 144 surplus | Unsupported as a dependable forecast. I invented the rent roll, harvest receipts and operating allowances without adequately working through them. |
+| Timber prices | Particularly weak. I supplied apparently precise merchant quotations without establishing tree species, quality, merchantable volume or local hauling costs. |
+
+**The estate budget is the main problem.** After Lucette's proposed pay, I left only 140 lorrats annually for all other estate operating costs. Whether that covers cultivation, seasonal labour, transport, dues and maintenance depends heavily on who actually works each parcel and pays those expenses. I hadn't resolved that. Nor had I established how much of the orchard was productive, when rents arrived, or what produce the household retained instead of selling.
+
+A 56-hectare property can plausibly support a modest household and produce income. Its acreage alone doesn't establish how much. Your engineering improvements could make it substantially more productive, but that needs an actual baseline.
+
+**I'll treat the new prices and annual forecast as provisional and under review, rather than binding economic facts.** Your explicit 25-lorrat gift stands. The restocking, care, repair planning and delegation to Corva still happened; their newly invented costs need checking. The 402-lorrat balance is therefore provisional too—the last firm numerical anchor is **448 after your gift, before settling those expenses**. That doesn't make the subsequent purchases free or undo them.
+
+The correction should come from a consistent wage-and-price scale and an estate account that identifies who earns and pays what. Simply replacing these numbers with larger ones would repeat the same mistake.
+
+
+## 436 — User — OOC economic reference request
+
+I need you to make some kind of economic document that keeps these prices aligned with some kind of a price range that would obviously vary from place to place
+
+## 437 — Assistant — OOC economic reference delivered
+
+Created the [Malaspina Economic Reference](C:/Users/jaked/Documents/Codex/2026-09-19/if-we-are-writing-a-40k/outputs/Malaspina-Economic-Reference.md), anchored to the established **25-lorrat monthly skilled wage**.
+
+It includes:
+
+- Price ranges for wages, food, housing, transport, medicine, furniture and repairs.
+- Regional, seasonal, quality and shortage adjustments.
+- Farming and timber economics with labour and transport costs.
+- A worked estate budget, including poor-harvest scenarios and cash reserves.
+- Rules separating estimates, allocations and actual spending.
+
+I checked the calculations and added it to the narrator handover so future scenes use this reference. The new ranges are explicit campaign assumptions; creating the document hasn’t spent money or advanced the story.
+
+
+## 438 — User — Revise estate pricing passages
+
+Ok can you please redo the bits of the last scene relevant to pricing
+
+## 439 — Assistant — Replacement estate accounting passages
+
+*These passages replace the financial portions of the three-day estate scene. The recovery, family conversations, land division and room designations remain as narrated. No additional time passes.*
+
+***
+
+You, Corva and Lucette spread the property papers across the study desk. Beside them lie the household receipts and your notes from walking the land.
+
+Lucette's position is settled first: **fourteen lorrats a month, with her existing accommodation and meals provided**. She will oversee the house, provisions and ordinary domestic arrangements. Field labour, skilled repairs and woodland work will be paid separately when needed.
+
+“And the twenty-five was a gift,” Corva says, keeping it out of the wage column.
+
+“A very welcome one, my lady,” Lucette replies.
+
+The household allowance is set at **twenty lorrats a month** for your parents and Lucette: ordinary food, domestic fuel, cleaning supplies and modest hospitality, supplemented by produce retained for the kitchen. Furniture and building repairs have their own entries.
+
+Corva taps the column headed *Receipts*.
+
+“Now. What can the land actually pay us?”
+
+The twenty hectares of tenanted arable ground provide rent; their harvest belongs to the tenants. At a working rate of **twelve lorrats per hectare annually**, that represents **240 lorrats**, subject to checking each existing agreement. The cottages could add **48 annually** if they are separately rented; you flag that amount for verification so it is not counted again if already included in the farm tenancies.
+
+For the meadow, orchard and market ground, you calculate sales and the work required to obtain them. Lucette knows where additional hands will be needed, and Corva puts their pay into the account before anyone calls the harvest profit.
+
+Your central annual forecast becomes:
+
+| Activity | Expected receipts | Direct working costs | Contribution |
+|---|---:|---:|---:|
+| Arable rents | 240 | Included in shared costs below | 240 |
+| Cottage rents, if separate | 48 | Included in shared costs below | 48 |
+| Hay and grazing plan | 216 | 84 | 132 |
+| Orchard and market produce | 1,096 | 780 | 316 |
+| Managed timber and fuelwood sales | 180 | 90 | 90 |
+| **Total** | **1,780** | **954** | **826** |
+
+The produce estimate assumes four productive hectares of orchard and two of vegetables within the six-hectare block. You mark that division for confirmation, along with bearing trees, current planting and labour requirements. The costs include seasonal workers, inputs, equipment use, packing and haulage. Produce kept for the house is excluded from sales.
+
+From the remaining **826**, you allow **168 for Lucette's annual cash wages**, **80 for routine maintenance**, **45 provisionally for property charges**, **25 for administration**, and **50 towards replacement of worn equipment and fittings**. That leaves **458** before the **240 annual household allowance**.
+
+The central forecast therefore leaves **218 lorrats a year** after those allowances, before major improvements.
+
+Corva writes *forecast* beside it.
+
+“Enough to maintain ourselves and put something aside in an ordinary year. We'll make the furniture purchases gradually.”
+
+A weaker produce season could absorb that surplus. You leave room beside the forecast for actual receipts and expenses, so she can see the difference as the year develops.
+
+***
+
+The woodland account requires its own page.
+
+For ordinary suitable trees sold standing, the local reference range is **0.6–1.8 lorrats per solid cubic metre**, with the buyer paying for felling and extraction. Sawlogs brought to the roadside may fetch **2.5–5**, but the estate must then pay to put them there. Cut roadside fuelwood is commonly **1–2 lorrats per stacked cubic metre**; a stacked measure contains spaces and cannot be treated as solid timber volume.
+
+Your forecast uses roadside sales. Its ninety-lorrat contribution is what remains after the estimated cutting and extraction costs—not a second payment in addition to selling those same trees standing.
+
+Before authorising a regular cutting programme, you require an inventory of the fourteen woodland hectares: usable species, maturity, access and what can be removed without exhausting future growth.
+
+“Until that's checked,” Corva says, “the timber stays out of the money I promise anyone.”
+
+***
+
+The receipts already incurred are reconciled separately:
+
+| Settled expense | Lorrats |
+|---|---:|
+| Return journey and station refreshments | 6 |
+| Surgeon's short course of visits and ordinary supplies | 12 |
+| Initial pantry stocking and household essentials | 28 |
+| **Paid total** | **46** |
+
+The twenty-eight purchases roughly a month's basic pantry supplies together with soap, lighting supplies and selected household replacements. The house already has usable cookware and much of its linen. The railway's emergency truck carries no personal charge.
+
+From **448 after Lucette's gift**, those payments leave **402 lorrats held**.
+
+You reserve **ninety for initial repairs**: thirty-five for limited house and drainage work, twenty for gates and outbuildings, and thirty-five towards making the chosen workshop dry and secure. Contractors must quote within that scope; larger work comes back to Corva for reprioritisation. Benches, machinery and specialist tools are not silently included in the building repairs.
+
+Another **forty** is earmarked for the first furniture purchases.
+
+Corva studies the remaining balance.
+
+“And money to keep things moving while we wait for rents and sales.”
+
+You increase the operating reserve to **152 lorrats**, approximately three months of the shared estate and household allowances. Seasonal cultivation may require more working capital; she will check payment dates and existing commitments before commissioning additional work.
+
+The revised cash account is straightforward:
+
+| Cash position | Lorrats |
+|---|---:|
+| Total cash held | **402** |
+| Reserved for initial repairs | 90 |
+| Operating reserve | 152 |
+| Reserved for furniture | 40 |
+| **Uncommitted cash** | **120** |
+
+The reserved money remains yours until spent. No projected harvest or timber sale has been added to the balance, and the expedition's **6,000 lorrats remain entirely separate**.
+
+Corva closes the receipt book and leaves the working ledger open.
+
+“I'll confirm the rents, get the repair quotations and match the work to the money coming in. If we need extra help, I'll arrange it.”
+
+She has your authority to do so. The estate now has a budget she can work from, with the uncertain figures plainly marked and room to improve the property without spending next year's harvest in advance.
+
+---
+
+**Corrected financial state:** 402 personal lorrats held; 282 earmarked and 120 uncommitted. Expedition appropriation: 6,000, unspent. Central estate forecast: 218 lorrats annual surplus after operating and household allowances, conditional on the assumptions above; no estate income collected yet.
