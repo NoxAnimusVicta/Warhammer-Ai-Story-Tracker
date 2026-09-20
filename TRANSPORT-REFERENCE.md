@@ -1,6 +1,6 @@
 # Malaspina — transport and overseas districts
 
-Survey XI · 970 settlements · 2,182 transport segments: 782 railway, 1,293 road, 106 sea and one proposed alignment.
+Survey XII · 970 settlements · 2,182 transport segments: 782 railway, 1,293 road, 106 sea and one proposed alignment.
 
 ## Travel and interchange
 
@@ -248,3 +248,7 @@ Undirected service corridors, not compulsory calls for every vessel or guarantee
 ## Census and chronology
 
 The revision52 atlas contains 970 settlements and 2,182 transport segments, including 106 sea passages joining 72 harbours. Ten outer-island regions cover 63 additional islands: seven self-governing polities and three colonial administrations. Talasca belongs to Rovessara, Ordelune to Ostrevain and Edrask to Rovengard, with separate geographic returns. The corrected census is 1,223,820,000 across 43 disjoint groups; the added 14,620,000 outer-island residents were omitted from earlier coverage. Existing homeland populations, capacities, coastlines, mainland borders and all earlier routes remain unchanged. This is existing-world clarification, not new growth, migration, colonisation, construction or elapsed story time. Seven railway systems remain; no transcontinental Vesalian railway or direct Karsenne–Calvernis line is opened. Read ISLAND-CHAINS.md and TRANSPORT-REFERENCE.md. Earlier survey counts and blank outer-island assumptions are superseded.
+
+## Coastline and expedition revision53
+
+See COASTLINE-REFERENCE.md for the corrected mainland shorelines. Transport alignments and measured regional distances are unchanged. The proposed expedition-route.html and expedition-route.md target return on departure-day355, with five or six full days per research stop and ten days in reserve. This is a planning allowance, not confirmed sailings or additional bookings.

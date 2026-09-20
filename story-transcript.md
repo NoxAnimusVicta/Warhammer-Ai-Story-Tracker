@@ -9473,3 +9473,64 @@ And yes: **this is the scale I should understand when your architectural designs
 ## 468 — User — Out-of-character economic and island maintenance
 
 Please also that prices are set for the current year, just like population prices would move over time based on events. Also the big Island chains, not the individual coastal islands but the chains are still uncolonized or populated. We have lots of island land in the Western Ocean, Austral Ocean and Eastern Ocean that has no real civilization. We could treat this like the new world. Maybe some tribal nations, maybe some colonies of larger nations. Group the islands together for the most part to represent nations. Up to you on that but we need something. You do not need to cover every single island but the larger chains need something there
+
+
+## 469 — Assistant — Revision 52 publication
+
+[Revision 52 is live](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=7bd00a89da5784808b42#world).
+
+- **Prices and wages** now have a current-story-year baseline, with dated regional changes driven by events. Past purchases retain their original prices.
+- **Ten island regions** now cover 63 outer islands: seven independent societies and three colonial administrations, with distinct governments, economies and cultures.
+- Added **30 settlements and 24 sea passages**, connected to existing shipping.
+- Corrected the census for **14.62 million previously omitted island residents**, without double counting colonial populations.
+- Recorded your monumental designs and their current-year estimates.
+
+Verified the live files, accounting, route geometry and phone layout. Your original local story folder is also fully synchronized.
+
+[Updated private handover](C:/Users/jaked/Documents/Codex/2026-09-19/if-we-are-writing-a-40k/outputs/Malaspina-Narrator-Handover-r52.zip).
+
+
+## 470 — User — Expedition route planning
+
+Ok now based on the expedition time and remembering we need to be back at Auvrienne at the 365 day mark and we are going to many capital cities could you plot out a route for me using the map? We will only travel by air when absolutely required as it is a luxury expense. We will use boats, trains and hired cars where possible as we traverse the globe. I want to know roughly where we will be at any given moment and how long makes sense to stay in each spot
+
+
+## 471 — Assistant — Deadline clarification
+
+Should the day-365 return deadline be counted from departure, or from the Chancery’s approval 21 days before departure? I’m plotting the route from departure as day 1 for now.
+
+
+## 472 — User — Deadline clarification
+
+365 days from departure
+
+
+## 473 — Assistant — Proposed expedition itinerary
+
+**I’ve plotted a surface itinerary that returns to Auvrienne on day 337**, leaving **28 days of contingency** before your confirmed day-365 deadline from departure.
+
+[Open the interactive route map](C:/Users/jaked/Documents/Codex/2026-09-19/if-we-are-writing-a-40k/outputs/expedition-route.html) · [Full arrival and stay schedule](C:/Users/jaked/Documents/Codex/2026-09-19/if-we-are-writing-a-40k/outputs/expedition-route.md)
+
+The map’s day slider shows your scheduled destination or travel leg. You can zoom, pan and select numbered stops.
+
+| Days | Expedition stage |
+|---|---|
+| 1–11 | Auvrienne → Serravonne → **Dalmor**, including seven full days in Ceralte. |
+| 12–105 | **Varnessa → Gavrielle → Serevienne → Kelbrienne → Miravelle → Drossane → Avercenne → Tervessac.** |
+| 106–213 | Passage to Otranto, then **Ossendrienne → Alescogne → Rivessole → Bellacenne → Cavrelisse → Charvessant → Orsevigne.** |
+| 214–297 | Passage to Morholt, then **Corsavik → Arvendal → Orsendal → Grevallier.** |
+| 298–337 | Return to Vesalius through **Estrevigne → Valdrec → Auvrienne.** |
+| 338–365 | Protected delay allowance; if unused, you are already home preparing reports. |
+
+This reaches **22 other established capitals or principal seats**, using existing sea, rail and road connections. No flights are scheduled. It does not attempt every major city or every outer island nation.
+
+**Most stays are four or five full days**, with seven in Dalmor, Tervessac, Orsevigne and Arvendal. Five scholars working in parallel can accomplish useful targeted research in that time, while you pursue separate appointments. It is a broad reconnaissance expedition; deeper relationships or difficult collections access would justify cutting other stops and staying longer.
+
+Two things need resolving before treating this as a firm itinerary. **Funding:** only 3,390 lorrats remain available beyond reserved salaries; future ordinary rail fares alone calculate to roughly 2,143–4,822 for six travellers. Shipping and living costs still need quotations, so the full tour needs negotiated support, additional funding or reduced scope. **Season:** the northern return via Iskel and Norrak must be open; otherwise the order or homeward passage needs revising.
+
+These are planning estimates, with travel and interchange allowances—not bookings or elapsed story time.
+
+
+## 474 — User — Balanced itinerary and mainland coastlines
+
+Is there a way to balance out the days spent at each location? I think about 10 days of contingency time should be fine. Also could you please include the amount of days the Travel Days column lists in the Expedition Route Document like how the Full Days there Column is displayed. I just noticed an issue with the proper map in the webapp. The coastline of the eastern marches all looks good and realistic but for everywhere else on all the other continents the lines that actually make them up are so straight and cleanly curved. That isn't how a continent looks. If you look at the Ceralte Admiralty and March of Veyrasse on the Map and compare it to say Cambrelet or Braavarnov you will see what I mean. The coasts of all the continents need some serious work as they all do not look realistic except for the March of Veyrasse and surrounding areas that we made initially before the rest of the map. Now that I have seen that I cannot unsee it.
