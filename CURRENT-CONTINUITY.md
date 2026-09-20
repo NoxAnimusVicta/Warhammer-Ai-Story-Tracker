@@ -1,8 +1,16 @@
+# Revision 52 — island societies and dated prices
+
+The revision52 atlas contains 970 settlements and 2,182 transport segments, including 106 sea passages joining 72 harbours. Ten outer-island regions cover 63 additional islands: seven self-governing polities and three colonial administrations. Talasca belongs to Rovessara, Ordelune to Ostrevain and Edrask to Rovengard, with separate geographic returns. The corrected census is 1,223,820,000 across 43 disjoint groups; the added 14,620,000 outer-island residents were omitted from earlier coverage. Existing homeland populations, capacities, coastlines, mainland borders and all earlier routes remain unchanged. This is existing-world clarification, not new growth, migration, colonisation, construction or elapsed story time. Seven railway systems remain; no transcontinental Vesalian railway or direct Karsenne–Calvernis line is opened. Read ISLAND-CHAINS.md and TRANSPORT-REFERENCE.md. Earlier survey counts and blank outer-island assumptions are superseded.
+
+All economic price and wage bands are dated to the current local story year at the eve-of-expedition checkpoint, 55 local days after the census epoch. No numbered local calendar year has been established. Read ECONOMIC-REFERENCE.md and economic-ledger.json for subsequent regional and event-driven changes; do not freeze prices forever, impose automatic annual inflation, reprice settled purchases, or apply an elapsed interval twice.
+
+Galahad’s unbuilt national-wonder designs are clarified in ARCHITECTURE-REFERENCE.md; estimates are current-price planning figures, not a commission. The expedition, funds, age, physiology and founder-origin ruling are unchanged.
+
 # Revision 51 - controlling founder origin
 
 Read ORIGIN-REFERENCE.md before describing provenance or temperament, and private/origin-retcon51.md for the concealed research motive and source qualifications. Bile is creator, not biological donor. The personal-genetics and Bile-ancestry premise is superseded throughout current records. Galahad has selectively engineered intellectual dispositions resembling Bile, without a transferred mind, memories or soul. Historical transcripts and snapshots remain historical.
 
-# Current continuity — revision 50
+# Current continuity — revision 52
 
 This checkpoint records the latest enacted scene. Read later exact transcript entries before continuing. Documentation work itself advances no story time.
 
@@ -111,26 +119,26 @@ Magic is a real but rare set of locally interpreted practices. Schools can conta
 
 ## Atlas and population
 
-The current atlas contains 940 settlements and 2,148 routes, including 82 sea passages joining all 52 charted harbours. Regional rail omissions are filled along established transport corridors; seven connected systems remain, including the separate Lelene–Bellisio local branch. Vesalius still has no continuous transcontinental railway, and the direct Karsenne–Calvernis line remains proposed. Political shading now identifies 69 administered islands, including the six existing Ceralte islands; unshaded outer islands have no settled sovereignty shown. Astrellac’s Cortessia, Vasselac and Rovellisse dependencies provide replenishment east of Otranto. Polar lands remain without permanent population or a generally recognised sovereign partition. Read TRANSPORT-REFERENCE.md and world-map.json. No story time, original measured journey, existing settlement position, mainland border, national census or capacity total changes.
+The revision52 overview above supersedes this earlier transport synopsis; use the current island and transport references.
 
 The active continuous atlas is `world-map.json`; the separate old regional map is no longer the phone interface. Original Eastern Marches sites, distances and journey times are retained through a coordinate transform. Added district settlements do not move established cities or create a transcontinental railway. The direct Karsenne–Calvernis railway remains proposed. Cressault remains disputed.
 
 Three inhabited continents: Otranto, Morholt and Vesalius. Boreal and Austral polar landmasses have no recorded permanent population. World circumference is approximately 36,000 km. Coordinates use an equirectangular projection; polar distortion is expected. Rivers, relief and climate must remain physically coherent when editing.
 
-The dated census population is **1,209,200,000**, across 33 non-overlapping census groups. Current combined annual trend: **+4,147,120**. Cities are subsets, not extra population. Cressault's 180,000 are already included in Veyrasse. The former southern Serevask federation’s figure is split among four independent administrations; it never governed Vesalius. New settlements draw from uncharted/rural returns. The census epoch is the evening ten months and eleven days after enrolment. The latest numerical projection is at 35 local days after that epoch; the latest scene is now 55 days after that epoch, so this older projection excludes the following twenty days; see the dated demographic projection rather than treating an estimate as a new enumeration.
+The dated census population is **1,223,820,000**, across 43 non-overlapping census groups. Current combined annual trend: **+4,214,639**. Cities are subsets, not extra population. Cressault's 180,000 are already included in Veyrasse. The former southern Serevask federation’s figure is split among four independent administrations; it never governed Vesalius. New settlement markers draw from their own group’s uncharted/rural return; revision52 explicitly corrects previously omitted outer-island groups. The census epoch is the evening ten months and eleven days after enrolment. The full-coverage numerical projection is now at 55 local days after the same epoch, matching the current scene. The earlier 35-day, 33-group estimate remains historical; neither projection is a new enumeration.
 
 All character ages, local history and population rates use **local elapsed years**. The system is in Imperium Nihilus; there is no uniform clock ratio across Nihilus. The private handover preserves agreed offworld timing and concealed experiments. Do not divide Galahad's existing age or history by a time-conversion ratio.
 
 
 ## Atlas, capacity and narrator records
 
-Ceralte now has Dalmor plus Bellavara (28,000; pilotage and repair port) and Montelisse (18,000; fishing and provisioning town), each connected to Dalmor by sea on existing islands. The 46,000 residents are drawn from its existing 2.9-million census, not added population. The atlas contains 940 settlements and 2,148 routes; cuisine is integrated with each political record. Every ordinary settlement and road appears from the same regional zoom threshold; names and geography are not rerolled. Capacity figures are dated staff returns, not treasury holdings or automatic victory scores. Equipment changes require events, not demographic multiplication.
+Ceralte now has Dalmor plus Bellavara (28,000; pilotage and repair port) and Montelisse (18,000; fishing and provisioning town), each connected to Dalmor by sea on existing islands. The 46,000 residents are drawn from its existing 2.9-million census, not added population. The atlas contains 970 settlements and 2,182 routes; cuisine is integrated with each political record. Every ordinary settlement and road appears from the same regional zoom threshold; names and geography are not rerolled. Capacity figures are dated staff returns, not treasury holdings or automatic victory scores. Equipment changes require events, not demographic multiplication.
 
 Galahad remains a perfected proto-Primarch with stable integration and a modest overall mature advantage over the campaign’s Alpha Primus benchmark, below a true Primarch. The private handover contains the full accepted origin, future possibilities, family nuance and concealed programme. Future aspirations confer neither present knowledge nor achievements.
 
 The exact archive preserves earlier errors and proposals verbatim. This checkpoint supersedes earlier claims of pending nobility, uninformed parents, an unvisited estate, an unresolved yard confrontation and unreconciled return costs. Historical reports remain historical; do not rewrite dialogue to fit later developments.
 
-The 35-day trend estimate is **1,209,597,666** people, recorded in population-current.json. The map’s original census remains a dated reference, not an assertion that no births occurred. Future projections must start at that original epoch or deliberately rebase once.
+The corrected 55-day trend estimate is **1,224,455,080** people, recorded in population-current.json. The corrected same-epoch census remains a dated reference, not an assertion that no births occurred. Future projections must start at that original epoch or deliberately rebase once.
 
 
 ## Physiology and leadership references

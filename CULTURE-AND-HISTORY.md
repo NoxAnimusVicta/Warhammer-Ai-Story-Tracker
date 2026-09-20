@@ -470,6 +470,146 @@ Coastal kitchens combine fish, white beans, garlic and local greens; inland fami
 
 
 
+## Varessan Sea League
+
+Tradition: Varessan Sea League island table
+
+Terrace farms and convoy stores support distinct island kitchens; mainland warehouses introduced flour and coffee.
+
+Barley cakes with bean stew, smoked fish and orchard chutney.
+
+Roast lamb with sour fruit and honeyed pears.
+
+Small beer and dry orchard cider.
+
+Fresh water is served before wine at a guest meal; a full jug signals a household willing to share its cistern.
+
+## Talascan Charter Islands
+
+Tradition: Talascan Charter Islands island table
+
+Older island farming overlaps with settler orchards and export estates.
+
+Bean-and-root stew, grilled fish and flat bread.
+
+Citrus-braised poultry, stuffed vegetables and orchard tarts.
+
+Fruit wine, cane spirit and imported coffee.
+
+Company dining rooms and village kitchens use the same crops but distribute the best produce differently.
+
+## Nemerai Crown
+
+Tradition: Nemerai Crown island table
+
+Terraced grain and sheltered orchards developed alongside merchant seafaring.
+
+Steamed barley with beans, greens and fish broth.
+
+Herb-crusted fish, roast kid and nut pastries.
+
+Grain beer and spiced pear wine.
+
+Outer households preserve more fish and dairy; the capital displays produce from across the compacts.
+
+## Ordelune Overseas Districts
+
+Tradition: Ordelune Overseas Districts island table
+
+Cold-water fishing and mixed farming supply households and passing ships.
+
+Oat broth with smoked fish, turnips and buttered bread.
+
+Mutton pie with leeks and baked apples.
+
+Oat ale and berry cordial.
+
+Winter smokehouses and communal grain stores remain important even where imported tins are fashionable.
+
+## Skeldran Hearth Confederacy
+
+Tradition: Skeldran Hearth Confederacy island table
+
+Collective stores and rescue obligations shape the table.
+
+Fish-and-barley broth with turnips and hard cheese.
+
+Slow-cooked mutton and berry cakes at assemblies.
+
+Weak malt ale and hot berry infusions.
+
+Visitors eat from a host hearth’s stores; prolonged stays create reciprocal obligations.
+
+## Merovian Island Republic
+
+Tradition: Merovian Island Republic island table
+
+Port commerce brought varied seasonings to island farming and fisheries.
+
+Bean soup, fish cakes and pickled greens.
+
+Wine-braised lamb, stuffed squash and citrus custard.
+
+Dry wine, pale beer and imported coffee.
+
+Dockside houses advertise fixed-price meals; wealthy tables display fresh produce from distant islands.
+
+## Ashalai Reef Covenant
+
+Tradition: Ashalai Reef Covenant island table
+
+Wet-valley cultivation and reef fisheries support inter-island exchanges.
+
+Rice or steamed roots with beans and fish in sour fruit broth.
+
+Leaf-wrapped poultry, shellfish and sweet root cakes.
+
+Fermented rice drink and fruit infusions.
+
+Communal feasts affirm obligations between councils; everyday cooking varies by island.
+
+## Kingdom of Istrana
+
+Tradition: Kingdom of Istrana island table
+
+A maritime court draws on irrigated valleys, plantation districts and fishing towns.
+
+Rice with bean gravy, greens and salted fish.
+
+Fruit-braised pork, fragrant rice and layered sugar cakes.
+
+Cane spirit, light beer and imported tea.
+
+Mill workers buy meals near the gates; court hospitality prizes fresh produce from several islands.
+
+## Edrask Governorate
+
+Tradition: Edrask Governorate island table
+
+Settler dairy farms and older fishing communities exchange food across distinct land systems.
+
+Rye bread, fish soup, cabbage and cheese.
+
+Roast goose or fish pie with sour berries.
+
+Rye ale and juniper-flavoured spirits.
+
+Northern stations ration imported flour through winter; southern markets offer more variety.
+
+## Norrakai Moots
+
+Tradition: Norrakai Moots island table
+
+Seasonal travel and reciprocal refuge duties shape storage and hospitality.
+
+Fish broth, preserved meat and coarse grain cakes.
+
+Slow-cooked herd meat with roots and berries.
+
+Hot herb infusions and occasional imported ale.
+
+Stored food is carefully accounted for because rescue hospitality and winter survival draw on the same reserves.
+
 ## The Long Culling
 
 The Long Culling ended sixty-seven local years before the present return, after three years of overlapping campaigns across all inhabited continents. Reconstructed returns suggest about 56% of the pre-campaign population was killed or taken: approximately 37% killed and 19% captured, with considerable uncertainty. Captives are missing from local population returns, not certified dead. Displacement among surviving settlements is counted separately.

@@ -9411,3 +9411,65 @@ Among the cohort, Galahad’s particular combination of biological potential, ps
 ## 464 - User - Approving origin retcon and publication
 
 Yeah I agree with all that. Please update the GitHub documentation properly and ensure there are no more stale references to outdated info that should be updated. Please take your time
+
+
+## 465 — Assistant — Out-of-character maintenance
+
+[Revision 51 is live](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=717e800fabc9e7d99861#physiology).
+
+Updated the app, documentation and private narrator records to establish:
+
+- New Men/Primarch chimera ancestry, without Bile’s personal genetics.
+- Selective Bile-like neural design, while preserving Galahad’s independent identity.
+- His potential Blight-research role as a private creator motive.
+
+The audit found no remaining active claims of Bile donating genetics. Historical passages are explicitly superseded. Established abilities and story continuity remain intact, and publication checks passed.
+
+[Download the updated private handover](C:/Users/jaked/Documents/Codex/2026-09-19/if-we-are-writing-a-40k/outputs/Malaspina-Narrator-Handover-r51.zip).
+
+## 466 — User — Out-of-character architectural clarification
+
+Those pieces of monumental architecture I made. The really expensive, super grand monuments. How much would one of those cost? When I made those designs I was thinking man made wonder stuff so like the Hoover Dam, Sydney Harbor Bridge, Great Wall of China, Pyramids of Giza, etc. Something that would be so grand it would become synonymous with the nation it resides in and I designed these for Veyrasse. So I figure it was basically like a massive war monument that doubles as like an aqueduct that supplies crops nearby as well as fountains and stuff in the town it is located in but also designed to be like a mausoleum you can walk through and it would be very grand and artistically designed with the names of the dead chiseled into marble or stone or whatever kind of material the monument would be made from. And something fucking massive. Like Empire State Building Size or larger at least in girth if not height too. A truly monumental work
+
+## 467 — Assistant — Out-of-character architectural estimate
+
+**For the scale you mean, I would estimate 30–80 million lorrats for one completed monument, with roughly 50 million as a useful working figure.** A version approaching skyscraper height as well as immense breadth could reach **100–200 million or more**.
+
+Those are proposed campaign estimates based on our established economy. The existing record confirms that your designs passed structural examination and were exceptionally expensive, but it never assigned a numerical construction budget.
+
+Your clarification gives those drawings a much clearer scale: **a national war memorial, walk-through mausoleum and major waterworks combined into one architectural wonder.**
+
+For a representative **50-million-lorrat version**, I would envisage:
+
+- A monumental main complex approximately **300–500 metres long and 100–180 metres across**, with immense halls, courts and elevated galleries.
+- Principal towers or a central memorial rising **100–180 metres**, visible across the surrounding district.
+- Processional passages lined with names of the dead, burial chambers, sculpture, carved reliefs and ceremonial spaces.
+- An aqueduct feeding the complex from a suitable upstream source, with reservoirs and separate branches supplying irrigation, town water and ornamental fountains.
+- A durable structural core, with dressed stone façades and marble concentrated in the memorial interiors and principal ceremonial surfaces.
+
+Those dimensions are illustrative, rather than details already fixed in your drawings. For comparison, the Empire State Building occupies approximately **7,340 m² at ground level**; even the smaller footprint above would cover several times that area, though with much less vertical floor space. [Empire State Building facts](https://www.esbnyc.com/about/facts-figures)
+
+A plausible preliminary budget would be:
+
+| Component | Million lorrats |
+|---|---:|
+| Land, surveys, foundations and site preparation | 5 |
+| Main structure, towers, halls and galleries | 15 |
+| Aqueduct, reservoirs and local distribution works | 9 |
+| Stone finishing, sculpture, inscriptions and mausoleum interiors | 8 |
+| Temporary works, lifting equipment and construction transport | 4 |
+| Engineering supervision and administration | 2 |
+| Contingency | 7 |
+| **Total** | **50** |
+
+That assumes favourable foundations, accessible quarries and a manageable water route. It excludes borrowing costs and a separate Hoover-scale dam. The water supply must work hydraulically: fountains can use controlled branches, while irrigation continues through dedicated channels. Water should not have to pass through burial spaces.
+
+**The wage scale supports costs in the tens of millions.** Our skilled-worker benchmark is 300 lorrats annually. An illustrative average construction workforce of 5,000 people over twelve years, earning a blended 250 lorrats annually, would consume **15 million lorrats in direct wages alone**—before quarried materials, foundry products, machinery, transport and specialist art. A **10–20-year programme**, potentially opening the waterworks before the final memorial decoration, fits this ambition.
+
+Veyrasse’s recorded annual government revenue is **675.9 million lorrats**. A 50-million project therefore represents about **7.4% of one year’s revenue**, spread across its construction period. It is financially possible for the nation, but securing a sustained appropriation, industrial capacity and political backing would be a major achievement. Maintenance, water-system operation and conservation would also need a permanent budget.
+
+And yes: **this is the scale I should understand when your architectural designs are described as monumental.** People would travel to see it. Its silhouette could appear on currency, seals and military commemorations. Families would visit its memorial galleries while surrounding farms and households depended on the water it carried—a national remembrance of the dead that visibly sustains the living.
+
+## 468 — User — Out-of-character economic and island maintenance
+
+Please also that prices are set for the current year, just like population prices would move over time based on events. Also the big Island chains, not the individual coastal islands but the chains are still uncolonized or populated. We have lots of island land in the Western Ocean, Austral Ocean and Eastern Ocean that has no real civilization. We could treat this like the new world. Maybe some tribal nations, maybe some colonies of larger nations. Group the islands together for the most part to represent nations. Up to you on that but we need something. You do not need to cover every single island but the larger chains need something there

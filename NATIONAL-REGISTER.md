@@ -6,7 +6,7 @@ Rounded estimates. The numerical source is national-register.json.
 
 ## Valuation
 
-Output is annual domestic value added, expressed at a common local purchasing-power valuation. It is neither treasury cash nor foreign currency exchange. Local currencies remain distinct.
+Output is annual domestic value added, expressed at a common local purchasing-power valuation. It is neither treasury cash nor foreign currency exchange. Local currencies remain distinct. Constant prices use the current story-year valuation baseline. Later nominal price changes are recorded separately in ECONOMIC-REFERENCE.md and economic-ledger.json.
 
 ## Uncertainty
 
@@ -30,7 +30,7 @@ Food and fuel coverage compare normal domestic annual supply to normal domestic 
 
 ## Scope
 
-Ossavren and smaller-jurisdiction entries are geographic sums across separate authorities, not united states. Cressault is already within Veyrasse population and resources; the disputed corridor has no additional national army or treasury. Serevask counts loyal districts only.
+Ossavren and smaller-jurisdiction entries are geographic sums across separate authorities, not united states. Cressault is already within Veyrasse population and resources; the disputed corridor has no additional national army or treasury. Serevask counts loyal districts only. Ten outer-island returns are geographically separate. Talasca, Ordelune and Edrask are colonies of Rovessara, Ostrevain and Rovengard, not independent countries. Parent entries cover their previously recorded homelands and coastal dependencies only. Island resources and resident forces are booked locally once; visiting parent forces remain in the parent return. Remittances are transfers, not extra planetary output or revenue.
 
 ## Updates
 
@@ -1652,3 +1652,493 @@ Table and hospitality. Limited grain land and long sea passages made imported fl
 | readiness (1–5) | 4 |
 | logistics (1–5) | 4 |
 | cohesion (1–5) | 4 |
+
+## Varessan Sea League
+
+National return. Population: 1,800,000.
+
+The Varessan Sea League unites five island assemblies under a charter covering convoys, foreign treaties and shared courts. Ardessa hosts the delegates, but each island retains land law and elects its harbour officers. Centuries of terrace cultivation and ocean navigation preceded mainland concessions. Shipwright families build wooden coasters and repair imported motor vessels. Treaty warehouses purchase wool, dried fish and fruit. The League permits leased depots but bars foreign ownership of freshwater catchments. Carrier houses seek closer mainland ties; cultivator assemblies resist customs exemptions that leave them paying the common defence levy.
+
+Pilotage, coaster construction, wool and preserved fruit.
+
+Imported engines, medicine and bunker fuel; island votes limit emergency taxation.
+
+Navigation families preserve weather observations alongside inherited rites; gifted practitioners cannot promise safe passage.
+
+Table and hospitality. Terrace farms and convoy stores support distinct island kitchens; mainland warehouses introduced flour and coffee. Barley cakes with bean stew, smoked fish and orchard chutney. Roast lamb with sour fruit and honeyed pears. Small beer and dry orchard cider. Fresh water is served before wine at a guest meal; a full jug signals a household willing to share its cistern.
+
+| Measure | Estimate |
+|---|---:|
+| output million lorrats | 279.0 |
+| output per person lorrats | 155 |
+| revenue million lorrats | 39.06 |
+| defence million lorrats | 12.555 |
+| defence share percent | 4.5 |
+| output trend percent | 0.4 |
+| steel thousand tonnes | 18 |
+| food coverage percent | 112 |
+| fuel coverage percent | 28 |
+| fuel demand thousand tonnes coal equivalent | 2,160.0 |
+| fuel supply thousand tonnes coal equivalent | 604.8 |
+| food demand thousand tonnes grain equivalent | 720.0 |
+| food supply thousand tonnes grain equivalent | 806.4 |
+| standing | 9,000 |
+| additional reserves | 25,000 |
+| field sustainable | 2,200 |
+| serviceable armour | 6 |
+| serviceable aircraft | 18 |
+| serviceable artillery | 40 |
+| fleet displacement tonnes | 14,500 |
+| naval role | coast |
+| metallurgy | 2 |
+| precision | 2 |
+| power | 2 |
+| chemistry | 2 |
+| aviation | 1 |
+| shipbuilding | 3 |
+| communications | 3 |
+| medicine | 2 |
+| readiness (1–5) | 3 |
+| logistics (1–5) | 3 |
+| cohesion (1–5) | 3 |
+
+## Talascan Charter Islands
+
+Colonial geographic return. Population: 1,100,000.
+
+Rovessara governs the Talascan chain through a colonial commissioner, customs posts and commercial leases. Island communities remain the majority and retain village land councils, but the colonial court decides disputes involving export estates and harbour property. Settler merchants and mainland firms control much of the credit and shipping. Councils contest compulsory road levies and the conversion of common pasture into export holdings. The commissioner depends on local pilots and negotiated water rights. These islands have long-established inhabitants and histories, not vacant land discovered by their present rulers.
+
+Fish curing, fruit and fibre exports, west-coast resupply.
+
+External firms dominate commercial credit and shipping; contested leases and imported machinery.
+
+Village healers and colonial physicians work within different institutions; registries do not capture all local practice.
+
+Table and hospitality. Older island farming overlaps with settler orchards and export estates. Bean-and-root stew, grilled fish and flat bread. Citrus-braised poultry, stuffed vegetables and orchard tarts. Fruit wine, cane spirit and imported coffee. Company dining rooms and village kitchens use the same crops but distribute the best produce differently.
+
+| Measure | Estimate |
+|---|---:|
+| output million lorrats | 192.5 |
+| output per person lorrats | 175 |
+| revenue million lorrats | 30.8 |
+| defence million lorrats | 11.55 |
+| defence share percent | 6.0 |
+| output trend percent | 0.4 |
+| steel thousand tonnes | 12 |
+| food coverage percent | 108 |
+| fuel coverage percent | 22 |
+| fuel demand thousand tonnes coal equivalent | 1,320.0 |
+| fuel supply thousand tonnes coal equivalent | 290.4 |
+| food demand thousand tonnes grain equivalent | 440.0 |
+| food supply thousand tonnes grain equivalent | 475.2 |
+| standing | 7,000 |
+| additional reserves | 14,000 |
+| field sustainable | 1,500 |
+| serviceable armour | 12 |
+| serviceable aircraft | 15 |
+| serviceable artillery | 36 |
+| fleet displacement tonnes | 7,800 |
+| naval role | coast |
+| metallurgy | 2 |
+| precision | 2 |
+| power | 2 |
+| chemistry | 2 |
+| aviation | 1 |
+| shipbuilding | 2 |
+| communications | 3 |
+| medicine | 2 |
+| readiness (1–5) | 3 |
+| logistics (1–5) | 3 |
+| cohesion (1–5) | 2 |
+
+## Nemerai Crown
+
+National return. Population: 3,200,000.
+
+The Nemerai Crown is an old island monarchy whose ruler is confirmed by hereditary houses, town delegates and custodians of communal farmland. Nemer maintains written land records and a permanent customs service. Outer islands owe ships and levies under separate compacts; the crown cannot simply requisition their harvests. Fisheries, terrace grain and shipping support local machine shops, while heavy plant and refined marine fuel are imported. Foreign powers have treaty warehouses but no general jurisdiction. Court reformers favour technical colleges and a common budget; outer houses fear the loss of their island privileges.
+
+Ocean navigation, grain terraces, textiles and marine repairs.
+
+No integrated heavy steel industry; outer-island levies require compact consent.
+
+Court archivists collect island traditions; household custodians retain many practices outside royal institutions.
+
+Table and hospitality. Terraced grain and sheltered orchards developed alongside merchant seafaring. Steamed barley with beans, greens and fish broth. Herb-crusted fish, roast kid and nut pastries. Grain beer and spiced pear wine. Outer households preserve more fish and dairy; the capital displays produce from across the compacts.
+
+| Measure | Estimate |
+|---|---:|
+| output million lorrats | 464.0 |
+| output per person lorrats | 145 |
+| revenue million lorrats | 60.32 |
+| defence million lorrats | 23.2 |
+| defence share percent | 5.0 |
+| output trend percent | 0.4 |
+| steel thousand tonnes | 35 |
+| food coverage percent | 119 |
+| fuel coverage percent | 38 |
+| fuel demand thousand tonnes coal equivalent | 3,840.0 |
+| fuel supply thousand tonnes coal equivalent | 1,459.2 |
+| food demand thousand tonnes grain equivalent | 1,280.0 |
+| food supply thousand tonnes grain equivalent | 1,523.2 |
+| standing | 17,000 |
+| additional reserves | 58,000 |
+| field sustainable | 4,800 |
+| serviceable armour | 15 |
+| serviceable aircraft | 24 |
+| serviceable artillery | 65 |
+| fleet displacement tonnes | 22,000 |
+| naval role | coast |
+| metallurgy | 2 |
+| precision | 2 |
+| power | 3 |
+| chemistry | 2 |
+| aviation | 1 |
+| shipbuilding | 3 |
+| communications | 3 |
+| medicine | 2 |
+| readiness (1–5) | 3 |
+| logistics (1–5) | 3 |
+| cohesion (1–5) | 4 |
+
+## Ordelune Overseas Districts
+
+Colonial geographic return. Population: 1,000,000.
+
+Ostrevain’s southern overseas districts join two island clusters under a governor at Ordelune, linked by supply sailings rather than continuous land administration. Crown estates, settler farms and older island communities coexist under unequal tax and land arrangements. Wool, grain and preserved food finance the administration; district councils seek a greater share of customs revenue. Outlying harbours depend on local pilots and winter stores. Ostrevain claims the chain but has no effective authority over Austral Land, and the governor cannot promise passage through polar waters.
+
+Wool, grain, preserved fish and southern provisioning.
+
+Storm-season isolation, limited machine shops and disputed crown leases.
+
+Households preserve weather and healing traditions; the colonial registry records only some practitioners.
+
+Table and hospitality. Cold-water fishing and mixed farming supply households and passing ships. Oat broth with smoked fish, turnips and buttered bread. Mutton pie with leeks and baked apples. Oat ale and berry cordial. Winter smokehouses and communal grain stores remain important even where imported tins are fashionable.
+
+| Measure | Estimate |
+|---|---:|
+| output million lorrats | 135.0 |
+| output per person lorrats | 135 |
+| revenue million lorrats | 18.9 |
+| defence million lorrats | 6.075 |
+| defence share percent | 4.5 |
+| output trend percent | 0.4 |
+| steel thousand tonnes | 8 |
+| food coverage percent | 126 |
+| fuel coverage percent | 35 |
+| fuel demand thousand tonnes coal equivalent | 1,200.0 |
+| fuel supply thousand tonnes coal equivalent | 420.0 |
+| food demand thousand tonnes grain equivalent | 400.0 |
+| food supply thousand tonnes grain equivalent | 504.0 |
+| standing | 5,500 |
+| additional reserves | 17,000 |
+| field sustainable | 1,300 |
+| serviceable armour | 4 |
+| serviceable aircraft | 8 |
+| serviceable artillery | 24 |
+| fleet displacement tonnes | 4,200 |
+| naval role | coast |
+| metallurgy | 2 |
+| precision | 1 |
+| power | 2 |
+| chemistry | 2 |
+| aviation | 1 |
+| shipbuilding | 2 |
+| communications | 2 |
+| medicine | 2 |
+| readiness (1–5) | 2 |
+| logistics (1–5) | 2 |
+| cohesion (1–5) | 2 |
+
+## Skeldran Hearth Confederacy
+
+National return. Population: 450,000.
+
+The Skeldran Hearth Confederacy is a sovereign compact of island kin groups, fishing towns and grazing communities. Delegates meet at Skeldra; land and shelter rights remain with hearth assemblies. Customary law is transmitted through named custodians and written harbour judgments, with interpreters for several languages. Imported rifles, radios and motor boats coexist with wooden shipbuilding and household workshops. The confederacy grants seasonal anchorage permits but rejects permanent foreign garrisons. Sparse farmland and severe winters favour dispersed stores, reciprocal rescue duties and small defensive forces.
+
+Cold-water fisheries, wool, rescue pilotage and wooden boats.
+
+Short growing season, scarce imported fuel and little heavy repair capacity.
+
+Custodians preserve communal histories and healing practices; ritual office does not itself establish psychic ability.
+
+Table and hospitality. Collective stores and rescue obligations shape the table. Fish-and-barley broth with turnips and hard cheese. Slow-cooked mutton and berry cakes at assemblies. Weak malt ale and hot berry infusions. Visitors eat from a host hearth’s stores; prolonged stays create reciprocal obligations.
+
+| Measure | Estimate |
+|---|---:|
+| output million lorrats | 42.75 |
+| output per person lorrats | 95 |
+| revenue million lorrats | 4.275 |
+| defence million lorrats | 1.71 |
+| defence share percent | 4.0 |
+| output trend percent | 0.4 |
+| steel thousand tonnes | 1 |
+| food coverage percent | 101 |
+| fuel coverage percent | 55 |
+| fuel demand thousand tonnes coal equivalent | 540.0 |
+| fuel supply thousand tonnes coal equivalent | 297.0 |
+| food demand thousand tonnes grain equivalent | 180.0 |
+| food supply thousand tonnes grain equivalent | 181.8 |
+| standing | 2,200 |
+| additional reserves | 14,000 |
+| field sustainable | 450 |
+| serviceable armour | 0 |
+| serviceable aircraft | 2 |
+| serviceable artillery | 12 |
+| fleet displacement tonnes | 1,600 |
+| naval role | coast |
+| metallurgy | 1 |
+| precision | 1 |
+| power | 1 |
+| chemistry | 1 |
+| aviation | 1 |
+| shipbuilding | 2 |
+| communications | 2 |
+| medicine | 2 |
+| readiness (1–5) | 3 |
+| logistics (1–5) | 2 |
+| cohesion (1–5) | 3 |
+
+## Merovian Island Republic
+
+National return. Population: 1,600,000.
+
+The Merovian Island Republic joins port municipalities and agricultural districts through an elected assembly. Its residence and tax franchise leaves seasonal crews and some outer communities underrepresented. Shipping insurance, repair docks, fruit and wool exports support a modest industrial base. Cooperative farms compete with carriers over freight rates. The republic controls a north-south chain at the meeting of eastern and austral routes; depot access is negotiated commercially rather than reserved to one mainland patron. Rival parties disagree over naval spending and foreign loans.
+
+Marine repairs, insurance, food processing and pump manufacture.
+
+Imported plate and refined fuel; merchant finance and outer-island representation remain contentious.
+
+Municipal archives and private societies exchange older texts; unusual talent develops through local patronage.
+
+Table and hospitality. Port commerce brought varied seasonings to island farming and fisheries. Bean soup, fish cakes and pickled greens. Wine-braised lamb, stuffed squash and citrus custard. Dry wine, pale beer and imported coffee. Dockside houses advertise fixed-price meals; wealthy tables display fresh produce from distant islands.
+
+| Measure | Estimate |
+|---|---:|
+| output million lorrats | 304.0 |
+| output per person lorrats | 190 |
+| revenue million lorrats | 54.72 |
+| defence million lorrats | 19.76 |
+| defence share percent | 6.5 |
+| output trend percent | 0.4 |
+| steel thousand tonnes | 95 |
+| food coverage percent | 104 |
+| fuel coverage percent | 45 |
+| fuel demand thousand tonnes coal equivalent | 1,920.0 |
+| fuel supply thousand tonnes coal equivalent | 864.0 |
+| food demand thousand tonnes grain equivalent | 640.0 |
+| food supply thousand tonnes grain equivalent | 665.6 |
+| standing | 10,500 |
+| additional reserves | 30,000 |
+| field sustainable | 2,900 |
+| serviceable armour | 22 |
+| serviceable aircraft | 35 |
+| serviceable artillery | 58 |
+| fleet displacement tonnes | 24,500 |
+| naval role | coast |
+| metallurgy | 3 |
+| precision | 3 |
+| power | 3 |
+| chemistry | 3 |
+| aviation | 2 |
+| shipbuilding | 3 |
+| communications | 3 |
+| medicine | 3 |
+| readiness (1–5) | 4 |
+| logistics (1–5) | 3 |
+| cohesion (1–5) | 3 |
+
+## Ashalai Reef Covenant
+
+National return. Population: 2,400,000.
+
+The Ashalai Reef Covenant confederates hereditary kin councils, elected harbour assemblies and inland farming communities. Its gathering at Ashala settles foreign treaties, fishing boundaries and mutual defence without extinguishing local law or language. Islanders have long cultivated wet valleys and traded between reefs. Imported engines, rifles and radios are maintained in port workshops; heavy industry is limited. Foreign firms lease warehouses through negotiated covenants, with no right to seize communal land. Harbour merchants favour broader credit access, while inland councils resist debts secured against future harvests.
+
+Irrigated crops, fibres, plant oils, reef navigation and small-craft repair.
+
+Limited heavy industry and medical imports; dispersed councils cannot mobilise as a centralised mass army.
+
+Kin custodians and travelling teachers preserve distinct traditions; there is no unified magical college.
+
+Table and hospitality. Wet-valley cultivation and reef fisheries support inter-island exchanges. Rice or steamed roots with beans and fish in sour fruit broth. Leaf-wrapped poultry, shellfish and sweet root cakes. Fermented rice drink and fruit infusions. Communal feasts affirm obligations between councils; everyday cooking varies by island.
+
+| Measure | Estimate |
+|---|---:|
+| output million lorrats | 264.0 |
+| output per person lorrats | 110 |
+| revenue million lorrats | 29.04 |
+| defence million lorrats | 10.56 |
+| defence share percent | 4.0 |
+| output trend percent | 0.4 |
+| steel thousand tonnes | 5 |
+| food coverage percent | 121 |
+| fuel coverage percent | 32 |
+| fuel demand thousand tonnes coal equivalent | 2,880.0 |
+| fuel supply thousand tonnes coal equivalent | 921.6 |
+| food demand thousand tonnes grain equivalent | 960.0 |
+| food supply thousand tonnes grain equivalent | 1,161.6 |
+| standing | 8,000 |
+| additional reserves | 45,000 |
+| field sustainable | 1,800 |
+| serviceable armour | 0 |
+| serviceable aircraft | 9 |
+| serviceable artillery | 28 |
+| fleet displacement tonnes | 5,600 |
+| naval role | coast |
+| metallurgy | 2 |
+| precision | 1 |
+| power | 2 |
+| chemistry | 1 |
+| aviation | 1 |
+| shipbuilding | 2 |
+| communications | 2 |
+| medicine | 2 |
+| readiness (1–5) | 3 |
+| logistics (1–5) | 2 |
+| cohesion (1–5) | 3 |
+
+## Kingdom of Istrana
+
+National return. Population: 1,750,000.
+
+Istrana is an island kingdom with a hereditary crown, permanent civil service and revenue assembly representing towns and landholding districts. The court claims descent from an older maritime union, but authority rests on negotiated taxes and a small professional fleet. Sugar, fruit, textiles and repaired vessels pass through its ports. State schools train clerks and mechanics; heavy machinery and much marine fuel are imported. The crown cultivates several mainland partners to avoid a protectorate. Outer representatives demand limits on royal borrowing and exclusive contracts awarded to court merchants.
+
+Textiles, processed crops, coastal shipbuilding and customs administration.
+
+Imported machinery and fuel; royal borrowing requires assembly consent.
+
+Court collections and district schools preserve competing accounts of the older arts without a universal state monopoly.
+
+Table and hospitality. A maritime court draws on irrigated valleys, plantation districts and fishing towns. Rice with bean gravy, greens and salted fish. Fruit-braised pork, fragrant rice and layered sugar cakes. Cane spirit, light beer and imported tea. Mill workers buy meals near the gates; court hospitality prizes fresh produce from several islands.
+
+| Measure | Estimate |
+|---|---:|
+| output million lorrats | 288.75 |
+| output per person lorrats | 165 |
+| revenue million lorrats | 49.088 |
+| defence million lorrats | 17.325 |
+| defence share percent | 6.0 |
+| output trend percent | 0.4 |
+| steel thousand tonnes | 44 |
+| food coverage percent | 110 |
+| fuel coverage percent | 40 |
+| fuel demand thousand tonnes coal equivalent | 2,100.0 |
+| fuel supply thousand tonnes coal equivalent | 840.0 |
+| food demand thousand tonnes grain equivalent | 700.0 |
+| food supply thousand tonnes grain equivalent | 770.0 |
+| standing | 10,000 |
+| additional reserves | 31,000 |
+| field sustainable | 2,600 |
+| serviceable armour | 14 |
+| serviceable aircraft | 20 |
+| serviceable artillery | 44 |
+| fleet displacement tonnes | 17,800 |
+| naval role | coast |
+| metallurgy | 2 |
+| precision | 2 |
+| power | 3 |
+| chemistry | 2 |
+| aviation | 1 |
+| shipbuilding | 3 |
+| communications | 3 |
+| medicine | 2 |
+| readiness (1–5) | 3 |
+| logistics (1–5) | 3 |
+| cohesion (1–5) | 4 |
+
+## Edrask Governorate
+
+Colonial geographic return. Population: 1,200,000.
+
+Rovengard’s Edrask Governorate holds the inhabited eastern chain through a governor, harbour garrisons and treaties with older island councils. Fishing communities, timber districts and settler towns have different land rights; some councils accept crown arbitration while resisting new concessions. Timber and preserved fish fund northern weather stations. Defence rests partly on visiting Rovengard ships, which are not permanent additions to the island fleet. Southern ports trade with Istrana; northern calls close seasonally. The governor’s map claim does not imply continuous occupation of mountain interiors.
+
+Timber, preserved fish, weather stations and regional resupply.
+
+Seasonal northern access, disputed concessions and dependence on imported grain and machinery.
+
+Local custodians preserve island rites alongside mainland institutions; governors have incomplete records of unusual gifts.
+
+Table and hospitality. Settler dairy farms and older fishing communities exchange food across distinct land systems. Rye bread, fish soup, cabbage and cheese. Roast goose or fish pie with sour berries. Rye ale and juniper-flavoured spirits. Northern stations ration imported flour through winter; southern markets offer more variety.
+
+| Measure | Estimate |
+|---|---:|
+| output million lorrats | 180.0 |
+| output per person lorrats | 150 |
+| revenue million lorrats | 27.0 |
+| defence million lorrats | 10.8 |
+| defence share percent | 6.0 |
+| output trend percent | 0.4 |
+| steel thousand tonnes | 16 |
+| food coverage percent | 98 |
+| fuel coverage percent | 60 |
+| fuel demand thousand tonnes coal equivalent | 1,440.0 |
+| fuel supply thousand tonnes coal equivalent | 864.0 |
+| food demand thousand tonnes grain equivalent | 480.0 |
+| food supply thousand tonnes grain equivalent | 470.4 |
+| standing | 8,500 |
+| additional reserves | 18,000 |
+| field sustainable | 1,900 |
+| serviceable armour | 10 |
+| serviceable aircraft | 18 |
+| serviceable artillery | 42 |
+| fleet displacement tonnes | 11,500 |
+| naval role | coast |
+| metallurgy | 2 |
+| precision | 2 |
+| power | 2 |
+| chemistry | 2 |
+| aviation | 1 |
+| shipbuilding | 2 |
+| communications | 3 |
+| medicine | 2 |
+| readiness (1–5) | 3 |
+| logistics (1–5) | 3 |
+| cohesion (1–5) | 2 |
+
+## Norrakai Moots
+
+National return. Population: 120,000.
+
+The Norrakai Moots unite northern island communities through seasonal assemblies and mutual refuge law. They remain outside Vardol’s crown despite trading with its ports. Fishing, herding and limited sheltered cultivation sustain a sparse population, supplemented by imported grain. Councils negotiate pilotage and weather-station leases without ceding sovereignty. Radios and motor launches connect communities still reliant on locally built boats. Families use seasonal camps and permanent villages; an empty winter landing does not establish uninhabited territory.
+
+Northern pilotage, fisheries, hides and refuge services.
+
+Short shipping season, imported grain and almost no industrial depth.
+
+Moot custodians preserve histories and ritual knowledge by apprenticeship; practical weather expertise is not automatically psychic.
+
+Table and hospitality. Seasonal travel and reciprocal refuge duties shape storage and hospitality. Fish broth, preserved meat and coarse grain cakes. Slow-cooked herd meat with roots and berries. Hot herb infusions and occasional imported ale. Stored food is carefully accounted for because rescue hospitality and winter survival draw on the same reserves.
+
+| Measure | Estimate |
+|---|---:|
+| output million lorrats | 9.6 |
+| output per person lorrats | 80 |
+| revenue million lorrats | 0.864 |
+| defence million lorrats | 0.336 |
+| defence share percent | 3.5000000000000004 |
+| output trend percent | 0.4 |
+| steel thousand tonnes | 0 |
+| food coverage percent | 94 |
+| fuel coverage percent | 45 |
+| fuel demand thousand tonnes coal equivalent | 144.0 |
+| fuel supply thousand tonnes coal equivalent | 64.8 |
+| food demand thousand tonnes grain equivalent | 48.0 |
+| food supply thousand tonnes grain equivalent | 45.12 |
+| standing | 450 |
+| additional reserves | 2,500 |
+| field sustainable | 90 |
+| serviceable armour | 0 |
+| serviceable aircraft | 0 |
+| serviceable artillery | 4 |
+| fleet displacement tonnes | 250 |
+| naval role | coast |
+| metallurgy | 1 |
+| precision | 1 |
+| power | 1 |
+| chemistry | 1 |
+| aviation | 1 |
+| shipbuilding | 2 |
+| communications | 2 |
+| medicine | 1 |
+| readiness (1–5) | 2 |
+| logistics (1–5) | 1 |
+| cohesion (1–5) | 3 |

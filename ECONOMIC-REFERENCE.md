@@ -1,8 +1,26 @@
 # Malaspina Economic Reference
 
-Version 1.1 · Price reference · 20 September 2026
+Version 1.2 · Current local story-year price baseline · Editorial update 20 September 2026
 
 This reference supplies the baseline for **new economic estimates** on Malaspina. It supplies consistent fictional purchasing power, normal price bands and rules for local variation. It is not a claim about historical Earth prices or a list of transactions already completed in the story. Established purchases remain historical facts; later explicit corrections take precedence.
+
+## Price date and change over story time
+
+These prices describe the **current local story year**, anchored to the evening before expedition departure at Auvrienne, **55 local days after the dated census epoch**. The real-world editorial date is not the in-world year. No numbered local calendar year or exact astronomical year length has been established. The skilled wage of 25 lorrats per pay month is this year's purchasing-power anchor, not a permanent nominal wage.
+
+Use [economic-ledger.json](economic-ledger.json) for dated changes. Its starting regional/category indices are 1.00, meaning the existing tables and regional adjustments apply without an additional time surcharge. No inflation, wage rise or event shock is enacted by introducing the ledger.
+
+At a meaningful economic event or an annual story review, assess affected markets: harvests, disease, warfare, destroyed roads or ports, freight and fuel availability, tariffs, currency policy, labour supply, investment and productivity. Prices can rise, fall or remain stable. Wages, rents, food, fuel and manufactured goods need not change together. Ordinary seasonal variation is already covered below; do not count it twice as inflation. A good harvest may lower food prices while freight or housing remains expensive. Improved production may lower unit costs without immediately increasing wages.
+
+Each change records an effective local date or elapsed-story anchor, region, category, old and new index, cause, evidence/status, and whether it replaces a temporary modifier. Use a clearly labelled projection until enacted evidence or an accepted economic review establishes a new return. No universal annual rate is assumed. Never fabricate economic events merely because a year passes; review the conditions and record stability when appropriate.
+
+For a new quote: **baseline unit price × relevant regional/quality/season adjustment × current category time index**, plus separately identified costs not already included. Avoid overlapping modifiers and double-charged freight. Where an item has a specific current quote, prefer it to a generic index. Preserve quantities, units, scope and the date of validity.
+
+Settled purchases and historical wages remain at their actual paid amounts. Cash does not increase with inflation. Existing nominal debts and fixed-price contracts keep their terms unless an established clause or renegotiation changes them. Future unpaid repair estimates, estate receipts and operating forecasts must be requoted for their execution dates; allocations are not price guarantees. Rebase an index only with a retained link to its previous base, so the same movement is not applied twice.
+
+National output and capacity comparisons remain **constant-price** returns at their stated valuation base. A nominal price rise is not real output growth, new industrial capacity or an increase in money already held. Demographic change and economic change are separately dated; population growth alone does not automatically multiply every price or wage.
+
+Monumental architecture estimates in [ARCHITECTURE-REFERENCE.md](ARCHITECTURE-REFERENCE.md) use this same price year. A multi-year project needs a cash-flow schedule, later nominal quotes and financing terms; the current-price estimate is not a promise that every future invoice will cost the same.
 
 ## 1. Currency, time and the main anchor
 
@@ -187,4 +205,4 @@ Veyrasse's existing national return of **205 lorrat-equivalents per resident per
 
 Prices are fictional reference bands, not guaranteed quotations. Identify quantity, unit, quality, place and transaction stage; record what labour, transport and taxes are included. Keep estimates, allocations, invoices and payments distinct. Current household accounts are recorded separately in [ESTATE-ACCOUNTS.md](ESTATE-ACCOUNTS.md).
 
-Version 1.1 retains the version 1.0 price bands and separates current estate accounts from general price guidance. The accepted replacement accounting passages in transcript439 govern the current balance.
+Version 1.2 retains the earlier price bands, adds their local story-year date and establishes event-led revisions. The accepted replacement accounting passages in transcript439 govern the current balance.

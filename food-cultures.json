@@ -336,6 +336,107 @@
       "hospitality": "",
       "drink": "",
       "daily_life": ""
+    },
+    {
+      "history": "Terrace farms and convoy stores support distinct island kitchens; mainland warehouses introduced flour and coffee.",
+      "everyday": "Barley cakes with bean stew, smoked fish and orchard chutney.",
+      "hospitality": "Roast lamb with sour fruit and honeyed pears.",
+      "drink": "Small beer and dry orchard cider.",
+      "daily_life": "Fresh water is served before wine at a guest meal; a full jug signals a household willing to share its cistern.",
+      "id": "varessan",
+      "name": "Varessan Sea League",
+      "tradition": "Varessan Sea League island table"
+    },
+    {
+      "history": "Older island farming overlaps with settler orchards and export estates.",
+      "everyday": "Bean-and-root stew, grilled fish and flat bread.",
+      "hospitality": "Citrus-braised poultry, stuffed vegetables and orchard tarts.",
+      "drink": "Fruit wine, cane spirit and imported coffee.",
+      "daily_life": "Company dining rooms and village kitchens use the same crops but distribute the best produce differently.",
+      "id": "talasca",
+      "name": "Talascan Charter Islands",
+      "tradition": "Talascan Charter Islands island table"
+    },
+    {
+      "history": "Terraced grain and sheltered orchards developed alongside merchant seafaring.",
+      "everyday": "Steamed barley with beans, greens and fish broth.",
+      "hospitality": "Herb-crusted fish, roast kid and nut pastries.",
+      "drink": "Grain beer and spiced pear wine.",
+      "daily_life": "Outer households preserve more fish and dairy; the capital displays produce from across the compacts.",
+      "id": "nemerai",
+      "name": "Nemerai Crown",
+      "tradition": "Nemerai Crown island table"
+    },
+    {
+      "history": "Cold-water fishing and mixed farming supply households and passing ships.",
+      "everyday": "Oat broth with smoked fish, turnips and buttered bread.",
+      "hospitality": "Mutton pie with leeks and baked apples.",
+      "drink": "Oat ale and berry cordial.",
+      "daily_life": "Winter smokehouses and communal grain stores remain important even where imported tins are fashionable.",
+      "id": "ordelune",
+      "name": "Ordelune Overseas Districts",
+      "tradition": "Ordelune Overseas Districts island table"
+    },
+    {
+      "history": "Collective stores and rescue obligations shape the table.",
+      "everyday": "Fish-and-barley broth with turnips and hard cheese.",
+      "hospitality": "Slow-cooked mutton and berry cakes at assemblies.",
+      "drink": "Weak malt ale and hot berry infusions.",
+      "daily_life": "Visitors eat from a host hearth’s stores; prolonged stays create reciprocal obligations.",
+      "id": "skeldra",
+      "name": "Skeldran Hearth Confederacy",
+      "tradition": "Skeldran Hearth Confederacy island table"
+    },
+    {
+      "history": "Port commerce brought varied seasonings to island farming and fisheries.",
+      "everyday": "Bean soup, fish cakes and pickled greens.",
+      "hospitality": "Wine-braised lamb, stuffed squash and citrus custard.",
+      "drink": "Dry wine, pale beer and imported coffee.",
+      "daily_life": "Dockside houses advertise fixed-price meals; wealthy tables display fresh produce from distant islands.",
+      "id": "merovia",
+      "name": "Merovian Island Republic",
+      "tradition": "Merovian Island Republic island table"
+    },
+    {
+      "history": "Wet-valley cultivation and reef fisheries support inter-island exchanges.",
+      "everyday": "Rice or steamed roots with beans and fish in sour fruit broth.",
+      "hospitality": "Leaf-wrapped poultry, shellfish and sweet root cakes.",
+      "drink": "Fermented rice drink and fruit infusions.",
+      "daily_life": "Communal feasts affirm obligations between councils; everyday cooking varies by island.",
+      "id": "ashalai",
+      "name": "Ashalai Reef Covenant",
+      "tradition": "Ashalai Reef Covenant island table"
+    },
+    {
+      "history": "A maritime court draws on irrigated valleys, plantation districts and fishing towns.",
+      "everyday": "Rice with bean gravy, greens and salted fish.",
+      "hospitality": "Fruit-braised pork, fragrant rice and layered sugar cakes.",
+      "drink": "Cane spirit, light beer and imported tea.",
+      "daily_life": "Mill workers buy meals near the gates; court hospitality prizes fresh produce from several islands.",
+      "id": "istrana",
+      "name": "Kingdom of Istrana",
+      "tradition": "Kingdom of Istrana island table"
+    },
+    {
+      "history": "Settler dairy farms and older fishing communities exchange food across distinct land systems.",
+      "everyday": "Rye bread, fish soup, cabbage and cheese.",
+      "hospitality": "Roast goose or fish pie with sour berries.",
+      "drink": "Rye ale and juniper-flavoured spirits.",
+      "daily_life": "Northern stations ration imported flour through winter; southern markets offer more variety.",
+      "id": "edrask",
+      "name": "Edrask Governorate",
+      "tradition": "Edrask Governorate island table"
+    },
+    {
+      "history": "Seasonal travel and reciprocal refuge duties shape storage and hospitality.",
+      "everyday": "Fish broth, preserved meat and coarse grain cakes.",
+      "hospitality": "Slow-cooked herd meat with roots and berries.",
+      "drink": "Hot herb infusions and occasional imported ale.",
+      "daily_life": "Stored food is carefully accounted for because rescue hospitality and winter survival draw on the same reserves.",
+      "id": "norrakai",
+      "name": "Norrakai Moots",
+      "tradition": "Norrakai Moots island table"
     }
-  ]
+  ],
+  "revision": 52
 }

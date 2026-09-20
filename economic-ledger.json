@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "revision": 52,
+  "baseline": {
+    "label": "Current local story year — eve of expedition departure",
+    "scene": "Auvrienne Collegium, evening before departure",
+    "days_after_census_epoch": 55,
+    "numbered_local_year": null,
+    "currency": "Veyrasse lorrat; 100 brins",
+    "skilled_monthly_wage_lorrats": 25,
+    "source": "ECONOMIC-REFERENCE.md"
+  },
+  "index_basis": "1.00 multiplies the existing baseline after applicable regional, quality and seasonal adjustments; it does not replace those adjustments.",
+  "indices": {
+    "all_reference_regions": {
+      "food": 1.0,
+      "fuel": 1.0,
+      "materials": 1.0,
+      "transport": 1.0,
+      "wages": 1.0,
+      "rents": 1.0,
+      "manufactures": 1.0
+    }
+  },
+  "changes": [],
+  "review_policy": "Review after meaningful economic events or an elapsed story year. No preset annual inflation. Record date, geography, category, old/new index, cause, status and replaced modifiers. Preserve past transactions and fixed contract terms; distinguish real output from nominal prices.",
+  "change_entry_fields": [
+    "id",
+    "effective_story_date",
+    "elapsed_days_from_baseline_if_known",
+    "region",
+    "category",
+    "previous_index",
+    "new_index",
+    "cause",
+    "status",
+    "replaces_temporary_modifier",
+    "source"
+  ]
+}

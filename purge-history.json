@@ -31,9 +31,11 @@
       "annual_rate_percent": 0.343
     }
   ],
-  "present_population": 1209200000,
+  "present_population": 1223820000,
   "description": "The Long Culling ended sixty-seven local years before the present return, after three years of overlapping campaigns across all inhabited continents. Reconstructed returns suggest about 56% of the pre-campaign population was killed or taken: approximately 37% killed and 19% captured, with considerable uncertainty. Captives are missing from local population returns, not certified dead. Displacement among surviving settlements is counted separately.",
   "mechanism": "Major preserve-wide cullings are separated by roughly a century on average, commonly fifty to a hundred and fifty years. The shortest well-correlated interval is twenty-four years. These are historical intervals, not an announced Hunter timetable. Captured technology, rapid recovery, successful resistance and concentrated research can precipitate another campaign; weaker quarry may be left longer to recover. Ordinary hunts and selective raids continue between major cullings.",
   "targets": "Arsenals, precision factories, research collections, power and transport bottlenecks are repeatedly struck. Enough ordinary farms, basic machine shops and dispersed practical knowledge survive for rebuilding at conventional industrial levels. Advanced recovered systems and the communities able to reproduce their workings suffer disproportionately. Destruction is severe but geographically uneven; it does not erase every book or reset all machinery to an earlier century.",
-  "society": "Some elderly survivors remember the Long Culling directly; younger people inherit missing relatives, rebuilt streets, emergency stores and conflicting family accounts. People expect another culling within a lifetime, but disagree over whether resistance hastens it or offers the only hope. Evacuation drills, dispersed archives, refuge kitchens, hoarding, fatalism and ambitious rebuilding coexist."
+  "society": "Some elderly survivors remember the Long Culling directly; younger people inherit missing relatives, rebuilt streets, emergency stores and conflicting family accounts. People expect another culling within a lifetime, but disagree over whether resistance hastens it or offers the only hope. Evacuation drills, dispersed archives, refuge kitchens, hoarding, fatalism and ambitious rebuilding coexist.",
+  "recovery_scope_population": 1209200000,
+  "recovery_scope": "Historical reconstruction for the older 33-return coverage. Outer-island losses and recovery are not retrospectively quantified; the new census coverage does not imply those islands escaped the Culling."
 }

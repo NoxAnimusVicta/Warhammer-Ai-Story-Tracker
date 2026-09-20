@@ -16,13 +16,13 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the Long Culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition — revision 51
+## Current edition — revision 52
 
 The current scene is the evening before expedition departure at the Auvrienne Collegium. Opening passage through Serravonne to Dalmor is booked and Ceralte permissions secured. Personal cash is 378 lorrats, with 264 earmarked and 114 uncommitted. The separate expedition fund holds 5,490 after 510 paid, including 2,100 reserved for scholars’ pay. The estate’s 218-lorrat annual remainder remains a conditional forecast.
 
-[Economic reference](ECONOMIC-REFERENCE.md) gives wage and price bands with regional, seasonal and quality adjustments. [Estate accounts](ESTATE-ACCOUNTS.md) separates paid expenses, allocations and projected returns.
+[Economic reference](ECONOMIC-REFERENCE.md) dates wages and prices to the current local story year, with regional variation and recorded event-driven changes. [Monumental architecture](ARCHITECTURE-REFERENCE.md) records Galahad’s unbuilt national-wonder designs and current-price estimates. [Estate accounts](ESTATE-ACCOUNTS.md) separates paid expenses, allocations and projected returns.
 
-Ceralte now includes Bellavara and Montelisse, with sea connections to Dalmor. The atlas contains 940 settlements and 2,148 routes, with 82 sea passages connecting 52 harbours. Their populations are drawn from existing census totals. The dated 35-day population estimate remains explicitly historical; the current scene is 55 days after its census epoch.
+Ceralte now includes Bellavara and Montelisse, with sea connections to Dalmor. The atlas contains 970 settlements and 2,182 routes, with 106 sea passages connecting 72 harbours. [Ten outer island regions](ISLAND-CHAINS.md) add seven self-governing societies and three colonial administrations across 63 previously unassigned islands. The two Ceralte additions remain within its existing census. The outer chains correct earlier omitted coverage. The current 55-day full-coverage estimate is 1,224,455,080; the earlier 35-day estimate is historical.
 
 Galahad’s full bodily maturity is expected around three local years at 3 metres (about 9 ft 10 in). He is approximately two years and three months old; his last measured height remains 2.59 metres.
 

@@ -1,7 +1,7 @@
 {
   "epoch": "Ten months and eleven days after Collegium enrolment — evening",
   "elapsed_story_years": 0,
-  "total_population": 1209200000,
+  "total_population": 1223820000,
   "groups": [
     {
       "id": "veldrassen",
@@ -431,6 +431,136 @@
       "annual_change_people": 8410,
       "charted_settlements_population": 1032000,
       "other_population": 1868000
+    },
+    {
+      "id": "varessan",
+      "name": "Varessan Sea League",
+      "continent": "western-ocean",
+      "population": 1800000,
+      "births_per_1000": 31.2,
+      "deaths_per_1000": 27.0,
+      "net_migration_people_per_year": 0,
+      "annual_rate_percent": 0.42,
+      "annual_change_people": 7560,
+      "charted_settlements_population": 174000,
+      "other_population": 1626000
+    },
+    {
+      "id": "talasca",
+      "name": "Talascan Charter Islands",
+      "continent": "western-ocean",
+      "population": 1100000,
+      "births_per_1000": 32.6,
+      "deaths_per_1000": 29.5,
+      "net_migration_people_per_year": 0,
+      "annual_rate_percent": 0.31,
+      "annual_change_people": 3410,
+      "charted_settlements_population": 141000,
+      "other_population": 959000
+    },
+    {
+      "id": "nemerai",
+      "name": "Nemerai Crown",
+      "continent": "western-ocean",
+      "population": 3200000,
+      "births_per_1000": 33.8,
+      "deaths_per_1000": 28.3,
+      "net_migration_people_per_year": 0,
+      "annual_rate_percent": 0.55,
+      "annual_change_people": 17600,
+      "charted_settlements_population": 261000,
+      "other_population": 2939000
+    },
+    {
+      "id": "ordelune",
+      "name": "Ordelune Overseas Districts",
+      "continent": "austral-ocean",
+      "population": 1000000,
+      "births_per_1000": 32.1,
+      "deaths_per_1000": 28.4,
+      "net_migration_people_per_year": 0,
+      "annual_rate_percent": 0.37,
+      "annual_change_people": 3700,
+      "charted_settlements_population": 129000,
+      "other_population": 871000
+    },
+    {
+      "id": "skeldra",
+      "name": "Skeldran Hearth Confederacy",
+      "continent": "austral-ocean",
+      "population": 450000,
+      "births_per_1000": 30.7,
+      "deaths_per_1000": 28.9,
+      "net_migration_people_per_year": 0,
+      "annual_rate_percent": 0.18,
+      "annual_change_people": 810,
+      "charted_settlements_population": 49500,
+      "other_population": 400500
+    },
+    {
+      "id": "merovia",
+      "name": "Merovian Island Republic",
+      "continent": "austral-ocean",
+      "population": 1600000,
+      "births_per_1000": 31.8,
+      "deaths_per_1000": 27.2,
+      "net_migration_people_per_year": 0,
+      "annual_rate_percent": 0.46,
+      "annual_change_people": 7360,
+      "charted_settlements_population": 197000,
+      "other_population": 1403000
+    },
+    {
+      "id": "ashalai",
+      "name": "Ashalai Reef Covenant",
+      "continent": "eastern-ocean",
+      "population": 2400000,
+      "births_per_1000": 35.1,
+      "deaths_per_1000": 28.9,
+      "net_migration_people_per_year": 0,
+      "annual_rate_percent": 0.62,
+      "annual_change_people": 14880,
+      "charted_settlements_population": 177000,
+      "other_population": 2223000
+    },
+    {
+      "id": "istrana",
+      "name": "Kingdom of Istrana",
+      "continent": "eastern-ocean",
+      "population": 1750000,
+      "births_per_1000": 32.4,
+      "deaths_per_1000": 27.5,
+      "net_migration_people_per_year": 0,
+      "annual_rate_percent": 0.49,
+      "annual_change_people": 8575,
+      "charted_settlements_population": 229000,
+      "other_population": 1521000
+    },
+    {
+      "id": "edrask",
+      "name": "Edrask Governorate",
+      "continent": "eastern-ocean",
+      "population": 1200000,
+      "births_per_1000": 31.9,
+      "deaths_per_1000": 29.0,
+      "net_migration_people_per_year": 0,
+      "annual_rate_percent": 0.29,
+      "annual_change_people": 3480,
+      "charted_settlements_population": 132000,
+      "other_population": 1068000
+    },
+    {
+      "id": "norrakai",
+      "name": "Norrakai Moots",
+      "continent": "northern-islands",
+      "population": 120000,
+      "births_per_1000": 29.6,
+      "deaths_per_1000": 28.4,
+      "net_migration_people_per_year": 0,
+      "annual_rate_percent": 0.12,
+      "annual_change_people": 144,
+      "charted_settlements_population": 14400,
+      "other_population": 105600
     }
   ],
   "events": [],
@@ -439,7 +569,8 @@
       "event": "Survey VII: additional Eastern Marches settlements identified within existing census returns; no elapsed time or population growth applied."
     },
     "Revision45 charts Bellavara (28,000) and Montelisse (18,000) within Ceralte’s existing census return. 46,000 residents move from uncharted accounting to named settlements; no population growth, migration or elapsed time is enacted.",
-    "Revision47 identifies 41 existing harbour settlements within their national returns. 1408000 residents are reclassified from uncharted to charted; no growth, migration, conquest or elapsed time."
+    "Revision47 identifies 41 existing harbour settlements within their national returns. 1408000 residents are reclassified from uncharted to charted; no growth, migration, conquest or elapsed time.",
+    "Revision52 adds 14,620,000 previously omitted outer-island residents at the SAME census epoch in ten disjoint geographic returns. Existing 33 populations, rates and national resources are preserved. No births, migration, conquest or elapsed time. Colonial returns exclude visiting homeland forces and are not included again in homeland totals."
   ],
   "rules": {
     "annual_step": "Next population = present population + rounded births - rounded ordinary deaths + recorded net migration + exceptional event adjustments.",

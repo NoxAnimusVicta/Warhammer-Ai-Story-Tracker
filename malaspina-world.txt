@@ -161,7 +161,7 @@ Veyrasse — noble grants and households. Women and men may head noble houses, h
 
 Recognised parents included in a founding noble grant may receive matching familial titles, Mother of the House and Father of the House. The titles honour their relationship to the house head, independently of their relative participation in raising that person. The House Orsival grant names Lady Corva Orsival, Mother of the House, and Sir Veskan Orsival, Father of the House. Household responsibilities and delegated authority are assigned separately. Neither familial title confers regency, co-rule or guardianship over the head’s decisions. Lord Galahad Orsival is the recognised founder and head. The grant includes 56 hectares near Serravonne with protected lawful tenancies and older buildings awaiting attention.
 
-Planetary population survey — dated thirty-five local days before the expedition approval. Malaspina supports approximately 1.21 billion people. Regional estimates total 1,209.2 million: Otranto 757.0 million, Vesalius 340.4 million and Morholt 111.8 million. Registers are uneven, borders disputed and wilderness settlements difficult to count. These figures describe inhabitants rather than mobilisable armies. The five eastern Vesalian states together account for 68.6 million people under separate governments. Veyrasse's 15.7 million occupy a claimed area of roughly 237,000 square kilometres, with settlement concentrated in defended districts.
+Planetary population survey — dated thirty-five local days before the expedition approval. Malaspina supports approximately 1.224 billion people. Corrected estimates total 1,223.82 million: Otranto and its previously charted dependencies 757.0 million, Vesalius 340.4 million, Morholt 111.8 million, and the separately recorded outer chains 14.62 million. Registers are uneven, borders disputed and wilderness settlements difficult to count. These figures describe inhabitants rather than mobilisable armies. The five eastern Vesalian states together account for 68.6 million people under separate governments. Veyrasse's 15.7 million occupy a claimed area of roughly 237,000 square kilometres, with settlement concentrated in defended districts.
 
 Otranto: crowns, republics and disputed authority. Veldrassen is an old composite monarchy whose provincial bargains constrain taxation and mobilisation. Its large industrial base supports foundries, railways, arsenals and diversified manufacturing. Ostrevain is a centralising monarchy extending tighter administration across an extensive agricultural hinterland and expanding modern arsenals. Their governments command substantial resources but must bargain with institutions within their own territories.
 
@@ -197,10 +197,10 @@ Morholt population register. Rovengard: 29.3 million; Varnesk: 19.7 million; Gal
 
 Vesalius population register. Veyrasse: 15.7 million; Caldrienne: 23.9 million; Karsenne: 8.0 million; Calvernis: 18.1 million; Ceralte: 2.9 million; Tervayne: 36.2 million; Vardol: 64.0 million; Averholt: 48.9 million; Serevask Republic: 13.0 million; Varnelle: 20.8 million; Kelbrun: 17.6 million; Gavrel: 7.0 million; Other independent ports, states and territories: 64.3 million. Continental total: 340.4 million.
 
-Survey accounting. The four former Serevask partners’ combined total is already contained in its four separately listed administrations. Ossavren successor territories and the remaining-territory entries each comprise multiple authorities. Residents of concessions and overseas dependencies are counted once within the named administering return; continental totals include its associated island districts.
+Survey accounting. The four former Serevask partners’ combined total is already contained in its four separately listed administrations. Ossavren successor territories and the remaining-territory entries each comprise multiple authorities. Previously charted coastal dependencies remain within their administering returns. The ten outer chains now have separate geographic returns; colonial residents, resources and local forces are not counted again in parent homelands. Cities remain subsets.
 
 
-Planetary survey X. The continuous atlas follows continental shores into the Eastern Marches without a separate chart frame. Surveyed Eastern Marches locations and railway distances remain those of the regional record. The district register records 940 settlements across the three continents. Trunk and branch railways, district roads and shipping corridors connect fortified markets, industrial towns, administrative centres and ports. Rivers, tributaries, wooded country and mountain belts complete the closer survey; smaller villages and approach tracks remain uncharted. Cross-border services depend on agreements and conditions. No continuous railway connects Tervayne to eastern Veyrasse.
+Planetary survey XI. The continuous atlas follows continental shores into the Eastern Marches without a separate chart frame. Surveyed Eastern Marches locations and railway distances remain those of the regional record. The district register records 970 settlements across the three continents and outer island chains. Trunk and branch railways, district roads and shipping corridors connect fortified markets, industrial towns, administrative centres and ports. Rivers, tributaries, wooded country and mountain belts complete the closer survey; smaller villages and approach tracks remain uncharted. Cross-border services depend on agreements and conditions. No continuous railway connects Tervayne to eastern Veyrasse.
 
 Otranto settlement register. Cavrelisse — Veldrassen, principal administrative centre; Mondessore — Veldrassen, industrial town; Orsevigne — Ostrevain, principal administrative centre; Tessarone — Ostrevain, industrial town; Bellacenne — Rovessara, principal administrative centre; Avellori — Rovessara, industrial town; Rivessole — Brannervaux, principal administrative centre; Molessac — Brannervaux, industrial town; Charvessant — Cervaud, principal administrative centre; Vezarolle — Cervaud, industrial town; Alescogne — Veylac, principal administrative centre; Bellorante — Veylac, industrial town; Ossendrienne — Ossavren successor territories, principal administrative centre; Tressavio — Ossavren successor territories, industrial town; Pellavore — Rovessara, commercial harbour; Astrellac — Smaller jurisdictions, commercial harbour; Rionvesse — Veylac, commercial harbour.
 
@@ -215,7 +215,7 @@ Planetary geography. Malaspina has an equatorial circumference of approximately 
 
 Mountain systems and climate. The old Otrantian backbone, Morholt highlands and Vesalian divide preserve ancient uplift, while younger convergent margins remain seismically active. Karsenne’s escarpment forms part of an older fold belt. Latitude, elevation, ocean access and prevailing winds shape the climate: moist windward country gives way to drier sheltered basins, seasonal woodland, steppe and desert. High mountains and northern uplands sustain alpine terrain, glaciers and tundra. Rivers descend through catchments toward the sea, receiving tributaries along their courses; lakes occupy enclosed basins and valleys. Hunter-modified animal populations inhabit these varied climates; the underlying atmosphere, soils and vegetation remain those of a broadly habitable world.
 
-Annual population returns at the census epoch. The recorded combined trend is an increase of approximately 4,147,120 people per year, or 0.34 percent, across a census population of 1,209,200,000. Births and ordinary deaths are recorded for each census group; exceptional destruction, displacement and changes in living conditions alter subsequent returns. Cities are subsets of the state figures. The Cressault district return counts approximately 180,000 residents within Veyrasse’s census, without resolving the disputed territorial claim; it is not added again to the planetary total. Smaller-jurisdiction returns remain geographic aggregates, not new unified governments.
+Annual population returns at the census epoch. The recorded combined trend is an increase of approximately 4,214,639 people per year, or 0.34 percent, across a census population of 1,223,820,000. Births and ordinary deaths are recorded for each census group; exceptional destruction, displacement and changes in living conditions alter subsequent returns. Cities are subsets of the state figures. The Cressault district return counts approximately 180,000 residents within Veyrasse’s census, without resolving the disputed territorial claim; it is not added again to the planetary total. Smaller-jurisdiction returns remain geographic aggregates, not new unified governments.
 
 
 The preserve’s makers. The hunters breed, release and revise experimental animals for challenging pursuit. Human communities serve as a large test population: attacks reveal how new stock performs against firearms, organised defence and changing tactics. Humans survive through their technology and collective organisation, while the hunters preserve a sufficiently large population for further trials. Their protection of the reserve is not protection of any particular town or individual.
@@ -243,13 +243,13 @@ Arsenals, precision factories, research collections, power and transport bottlen
 
 Some elderly survivors remember the Long Culling directly; younger people inherit missing relatives, rebuilt streets, emergency stores and conflicting family accounts. People expect another culling within a lifetime, but disagree over whether resistance hastens it or offers the only hope. Evacuation drills, dispersed archives, refuge kitchens, hoarding, fatalism and ambitious rebuilding coexist.
 
-Population after the Long Culling. Reconstructed returns place pre-campaign population near 1.54 billion and survivors remaining on the planet near 677.6 million. Sixty-seven years of uneven recovery produced the census total of 1.2092 billion. Fertility and survival improved more rapidly in the first reconstruction decades than today; the current 0.34% annual trend is not the rate for the entire recovery.
+Population after the Long Culling. Reconstructed returns place pre-campaign population near 1.54 billion and survivors remaining on the planet near 677.6 million. Sixty-seven years of uneven recovery produced 1.2092 billion within the older reconstruction’s coverage. The corrected total including the outer chains is 1.22382 billion; their historical losses and recovery remain unquantified, not assumed absent. Fertility and survival improved more rapidly in the first reconstruction decades than today; the current 0.34% annual trend is not the rate for the entire recovery.
 
 Shipping and railway services. Lines show working shipping corridors and named calls, not every departure or a compulsory stop for every ship. Ocean routes, coastal services and island supply passages form one connected port network. Fuel and water depots import or collect supplies; they do not imply local petroleum fields.
 
 Otranto and Morholt have connected commercial corridors with separate national operators and border interchanges. Vesalius retains western, northern, southern and Eastern Marches systems. Overland roads and coastal shipping link those systems; no continuous transcontinental Vesalian railway or operating direct Karsenne–Calvernis line is charted. The Lelene–Bellisio industrial branch in southern Calvernis remains separate, with road transfer to the broader system.
 
-Overseas districts. Political shading extends existing administrations onto their charted dependencies. Divided regional returns remain divided; Astrellac and Varkessant hold their own port-charter dependencies. Unshaded outer islands have no settled sovereignty shown. Astrellac’s Cortessia, Vasselac and Rovellisse harbours provide the eastern Otrantan staging chain; imported bunker fuel, water stores and repairs support onward journeys to Vesalius and Morholt.
+Overseas districts. Coastal dependencies and ten outer-island polities and colonial administrations are charted. Seven outer societies are self-governing; Talasca, Ordelune and Edrask are overseas dependencies of Rovessara, Ostrevain and Rovengard. Unshaded isolated and polar islands have no settled sovereignty recorded; this does not establish that every landing is unused. Astrellac’s Cortessia, Vasselac and Rovellisse harbours provide the eastern Otrantan staging chain; imported bunker fuel, water stores and repairs support onward journeys to Vesalius and Morholt.
 
 Polar administration. Boreal and Austral Land have no recorded permanent population or generally recognised sovereign partition. Seasonal exploration, whaling and refuge claims may exist without settled administration or dependable passenger services.
 
@@ -2368,3 +2368,107 @@ Cressault corridor
 The Cressault corridor is a chain of defended valleys near the Veyrasse–Caldrienne frontier, containing a railway crossing, irrigated farmland and the pumping infrastructure sustaining them. Both states claim it. Some estates owe hereditary obligations to one government while depending on the other for transport and protection. A previous border war ended in an armistice without resolving ownership. Frontier troops exchange occasional fire and patrols sometimes fail to return. Customs inspections and railway delays serve as instruments of pressure. Both governments accuse the other of supporting armed local claimants and interfering with water supplies. Renewed war is feared, but neither government has publicly committed to it. Serravonne is away from this front; its railway carries associated supplies and returning personnel. Its 180,000 residents are counted within Veyrasse for census accounting, without resolving sovereignty.
 
 Cressault crossing — A guarded railway crossing and cultivated district under competing Veyrasse and Caldrienne claims. Estates rely on irrigation and the railway despite conflicting hereditary obligations. Customs delays, patrol incidents and water disputes make ordinary commerce political; residents are already included in Veyrasse’s census.
+
+
+Outer oceanic societies. The revision52 atlas contains 970 settlements and 2,182 transport segments, including 106 sea passages joining 72 harbours. Ten outer-island regions cover 63 additional islands: seven self-governing polities and three colonial administrations. Talasca belongs to Rovessara, Ordelune to Ostrevain and Edrask to Rovengard, with separate geographic returns. The corrected census is 1,223,820,000 across 43 disjoint groups; the added 14,620,000 outer-island residents were omitted from earlier coverage. Existing homeland populations, capacities, coastlines, mainland borders and all earlier routes remain unchanged. This is existing-world clarification, not new growth, migration, colonisation, construction or elapsed story time. Seven railway systems remain; no transcontinental Vesalian railway or direct Karsenne–Calvernis line is opened.
+
+Varessan Sea League. Census return: 1,800,000 residents.
+
+The Varessan Sea League unites five island assemblies under a charter covering convoys, foreign treaties and shared courts. Ardessa hosts the delegates, but each island retains land law and elects its harbour officers. Centuries of terrace cultivation and ocean navigation preceded mainland concessions. Shipwright families build wooden coasters and repair imported motor vessels. Treaty warehouses purchase wool, dried fish and fruit. The League permits leased depots but bars foreign ownership of freshwater catchments. Carrier houses seek closer mainland ties; cultivator assemblies resist customs exemptions that leave them paying the common defence levy.
+
+Ardessa — Ardessa occupies a harbour beneath cultivated volcanic terraces. The assembly house faces the common graving slip, where island shipwrights fit imported engines. Delegates bargain over convoy contributions; ownership of a merchant fleet confers influence, but not a hereditary seat.
+
+Velisar — Velisar is the southern export harbour, with fruit-packing sheds, wool stores and water tanks reserved for the dry season. A mainland shipping consortium leases one quay under League law. Pilots recruited from neighbouring villages guide the approach.
+
+Moravena — Moravena gathers produce from upland terraces around communal irrigation channels. Orchard families elect the water board; its allocation books matter more locally than the debates at Ardessa. A maintained road carries fruit and wool to the capital harbour.
+
+Talascan Charter Islands. Census return: 1,100,000 residents.
+
+Rovessara governs the Talascan chain through a colonial commissioner, customs posts and commercial leases. Island communities remain the majority and retain village land councils, but the colonial court decides disputes involving export estates and harbour property. Settler merchants and mainland firms control much of the credit and shipping. Councils contest compulsory road levies and the conversion of common pasture into export holdings. The commissioner depends on local pilots and negotiated water rights. These islands have long-established inhabitants and histories, not vacant land discovered by their present rulers.
+
+Talasca — Talasca is the colonial customs seat, with an elected island petition chamber beside the commissioner’s compound. Export companies maintain bonded stores while village representatives contest assessments and land surveys. Its dock services coastal hulls but imports machinery.
+
+Rovaro — Rovaro stands at the chain’s southern approach. Fish-curing yards and mixed farms provision west-coast shipping; a customs gunboat uses the harbour without controlling every outer landing. Boat families also carry small consignments outside company contracts.
+
+Issenet — Issenet is an inland market whose communal grazing grounds border charter estates. A produce cooperative maintains the weighhouse and lends tools. Seasonal labour contracts are read aloud before witnesses because literacy and legal language vary.
+
+Nemerai Crown. Census return: 3,200,000 residents.
+
+The Nemerai Crown is an old island monarchy whose ruler is confirmed by hereditary houses, town delegates and custodians of communal farmland. Nemer maintains written land records and a permanent customs service. Outer islands owe ships and levies under separate compacts; the crown cannot simply requisition their harvests. Fisheries, terrace grain and shipping support local machine shops, while heavy plant and refined marine fuel are imported. Foreign powers have treaty warehouses but no general jurisdiction. Court reformers favour technical colleges and a common budget; outer houses fear the loss of their island privileges.
+
+Nemer — Nemer surrounds a sheltered commercial basin beneath the palace ridge. The royal archive records island compacts and grain obligations. A technical school trains surveyors and engine mechanics; ships’ crews maintain their own mutual-aid societies.
+
+Essara — Essara faces the colder outer approaches. Wool warehouses, smokehouses and storm refuges support fishing fleets and coasters. The local house supplies coastal lookouts, while town delegates control the money allocated to the harbour wall.
+
+Tamerei — Tamerei is a terrace-grain and textile centre behind Nemer. Reservoir channels and water-driven mills belong to several land corporations rather than the palace. Its market settles seed loans and labour exchanges before delegates travel to court.
+
+Ordelune Overseas Districts. Census return: 1,000,000 residents.
+
+Ostrevain’s southern overseas districts join two island clusters under a governor at Ordelune, linked by supply sailings rather than continuous land administration. Crown estates, settler farms and older island communities coexist under unequal tax and land arrangements. Wool, grain and preserved food finance the administration; district councils seek a greater share of customs revenue. Outlying harbours depend on local pilots and winter stores. Ostrevain claims the chain but has no effective authority over Austral Land, and the governor cannot promise passage through polar waters.
+
+Ordelune — Ordelune is the governor’s seat and principal grain harbour. A public weighhouse separates village consignments from crown-estate deliveries. Chandlers provision ships rounding southern Otranto; major repairs require mainland yards.
+
+Sorevain — Sorevain serves the eastern cluster through wool stores, cold-water fisheries and a subsidised mail packet. Councillors bargain over the sailing grant; a missed ship can delay petitions and replacement machinery for weeks.
+
+Vernac — Vernac is a farming market above Ordelune, with wool grading rooms and a seed store funded by village subscriptions. Communal holdings border crown leases; water and road assessments regularly come before the district court.
+
+Skeldran Hearth Confederacy. Census return: 450,000 residents.
+
+The Skeldran Hearth Confederacy is a sovereign compact of island kin groups, fishing towns and grazing communities. Delegates meet at Skeldra; land and shelter rights remain with hearth assemblies. Customary law is transmitted through named custodians and written harbour judgments, with interpreters for several languages. Imported rifles, radios and motor boats coexist with wooden shipbuilding and household workshops. The confederacy grants seasonal anchorage permits but rejects permanent foreign garrisons. Sparse farmland and severe winters favour dispersed stores, reciprocal rescue duties and small defensive forces.
+
+Skeldra — Skeldra is the meeting harbour of the hearth assemblies. A common storehouse holds emergency grain beside the boat sheds, and a radio room exchanges storm reports. Its court hears rescue claims and disputes between islands.
+
+Heskar — Heskar provisions seasonal fishing crews from sheltered stone stores. Ships take water and limited coal when stocks permit; merchants cannot assume a full bunker supply. Local boats retain priority in the refuge basin.
+
+Dreval — Dreval occupies a sheltered grazing valley on Skeldra’s island. Hearth households share hay grounds and maintain a clinic through livestock contributions. The coastal track carries carts in ordinary weather but can close under winter damage.
+
+Merovian Island Republic. Census return: 1,600,000 residents.
+
+The Merovian Island Republic joins port municipalities and agricultural districts through an elected assembly. Its residence and tax franchise leaves seasonal crews and some outer communities underrepresented. Shipping insurance, repair docks, fruit and wool exports support a modest industrial base. Cooperative farms compete with carriers over freight rates. The republic controls a north-south chain at the meeting of eastern and austral routes; depot access is negotiated commercially rather than reserved to one mainland patron. Rival parties disagree over naval spending and foreign loans.
+
+Merovia — Merovia is the republican seat, an insurance market and a working repair harbour. Its docks handle merchant hulls and coastal combat craft, while major engines and plate arrive from overseas. Dock unions and shipowners both hold municipal seats.
+
+Iveran — Iveran occupies the republic’s northern ocean junction. Tank stores, reservoirs and a radio office support voyages into the eastern chains. Bonded cargo can change carriers without granting passengers an automatic right of entry.
+
+Orelle — Orelle is a fruit-growing and light-manufacturing town behind Merovia. Canning workshops, pump repairers and a cooperative bank serve surrounding farms. Irrigation assessments pay for maintenance rather than an unrestricted development treasury.
+
+Ashalai Reef Covenant. Census return: 2,400,000 residents.
+
+The Ashalai Reef Covenant confederates hereditary kin councils, elected harbour assemblies and inland farming communities. Its gathering at Ashala settles foreign treaties, fishing boundaries and mutual defence without extinguishing local law or language. Islanders have long cultivated wet valleys and traded between reefs. Imported engines, rifles and radios are maintained in port workshops; heavy industry is limited. Foreign firms lease warehouses through negotiated covenants, with no right to seize communal land. Harbour merchants favour broader credit access, while inland councils resist debts secured against future harvests.
+
+Ashala — Ashala holds the common gathering beside a tidal harbour. Delegates arrive with interpreters and witnesses to their mandates. Engine workshops and grain exchanges occupy the waterfront; freshwater reserves are administered separately from merchant berths.
+
+Nalavai — Nalavai connects the eastern islands with Istranan shipping. Canoe yards stand beside motor-launch workshops, and dried produce arrives from outer landings. The assembly regulates weighing scales and debt claims between carriers and village suppliers.
+
+Omarai — Omarai is a valley market and irrigation meeting place behind Ashala. Kin groups maintain rice channels through shared labour, while households sell surplus crops. The storehouse doubles as a storm refuge, with keys held by several custodians.
+
+Kingdom of Istrana. Census return: 1,750,000 residents.
+
+Istrana is an island kingdom with a hereditary crown, permanent civil service and revenue assembly representing towns and landholding districts. The court claims descent from an older maritime union, but authority rests on negotiated taxes and a small professional fleet. Sugar, fruit, textiles and repaired vessels pass through its ports. State schools train clerks and mechanics; heavy machinery and much marine fuel are imported. The crown cultivates several mainland partners to avoid a protectorate. Outer representatives demand limits on royal borrowing and exclusive contracts awarded to court merchants.
+
+Istrana — Istrana is the royal and commercial seat, with a revenue chamber overlooking the harbour offices. Textile mills and marine workshops employ a substantial wage workforce. The royal dock takes priority orders, but merchant repairs support ordinary trade.
+
+Serakai — Serakai guards the eastern approach through pilot stations and a coastal battery. Warehouses exchange island produce for northern manufactures. Customs officers share the waterfront with elected market inspectors and crews from Rovengard’s dependencies.
+
+Mavere — Mavere is a valley weaving and agricultural town on the capital island. Mills buy fibre from surrounding households, and a technical school teaches pump maintenance and surveying. Flood-control obligations bring employers and farmers into seasonal negotiations.
+
+Edrask Governorate. Census return: 1,200,000 residents.
+
+Rovengard’s Edrask Governorate holds the inhabited eastern chain through a governor, harbour garrisons and treaties with older island councils. Fishing communities, timber districts and settler towns have different land rights; some councils accept crown arbitration while resisting new concessions. Timber and preserved fish fund northern weather stations. Defence rests partly on visiting Rovengard ships, which are not permanent additions to the island fleet. Southern ports trade with Istrana; northern calls close seasonally. The governor’s map claim does not imply continuous occupation of mountain interiors.
+
+Edrask — Edrask is the governor’s seat and the chain’s repair and timber-loading centre. Councils petition beside the customs court, while concession firms lease separate wharves. Imported machinery supports sawmills without creating a major armaments industry.
+
+Havren — Havren is a southern fishing and provisioning harbour with regular Istranan traffic. Cooperatives operate curing sheds alongside settler merchants. Crown officials collect duties, but pilots and boat crews are recruited locally.
+
+Osvik — Osvik supplies Edrask with timber, dairy produce and workshop labour. Communal woodland borders concession leases, and the local court hears cutting-right disputes. A maintained road reaches the harbour when weather permits.
+
+Norrakai Moots. Census return: 120,000 residents.
+
+The Norrakai Moots unite northern island communities through seasonal assemblies and mutual refuge law. They remain outside Vardol’s crown despite trading with its ports. Fishing, herding and limited sheltered cultivation sustain a sparse population, supplemented by imported grain. Councils negotiate pilotage and weather-station leases without ceding sovereignty. Radios and motor launches connect communities still reliant on locally built boats. Families use seasonal camps and permanent villages; an empty winter landing does not establish uninhabited territory.
+
+Norrak — Norrak is the principal moot and supply landing, with a communal grain store, boatyard and radio room. Delegates meet during the navigable season. Outside it, custodians manage rescue stores without governing every island by daily order.
+
+Iskel — Iskel is a northern refuge and fish-curing settlement. Vessels require local ice advice and cannot count on fuel beyond emergency stocks. Seasonal families return to the sheltered village before the worst weather.
+
+Torvik — Torvik occupies protected grazing ground on Norrak’s island. Families share fodder stores and repair boats during winter. The landing track carries pack animals and sledges rather than a railway or dependable motor service.
+
