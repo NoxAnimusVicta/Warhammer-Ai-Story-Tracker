@@ -16,7 +16,7 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the Long Culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition — revision 45
+## Current edition — revision 46
 
 The current scene is the evening before expedition departure at the Auvrienne Collegium. Opening passage through Serravonne to Dalmor is booked and Ceralte permissions secured. Personal cash is 378 lorrats, with 264 earmarked and 114 uncommitted. The separate expedition fund holds 5,490 after 510 paid, including 2,100 reserved for scholars’ pay. The estate’s 218-lorrat annual remainder remains a conditional forecast.
 
@@ -27,3 +27,5 @@ Ceralte now includes Bellavara and Montelisse, with sea connections to Dalmor. T
 Galahad’s full bodily maturity is expected around three local years at 3 metres (about 9 ft 10 in). He is approximately two years and three months old; his last measured height remains 2.59 metres.
 
 Current summaries supersede older checkpoints. The exact transcript preserves historical wording, including superseded proposals. The private handover must not be uploaded to this public repository.
+
+[Controlling physiology reference](PHYSIOLOGY-REFERENCE.md) records the accepted sleep, stamina, injury and psychic-capacity specifications, including the mature Custodian comparison. The physiology panel uses these provisions; older contradictory estimates in the historical transcript are superseded.

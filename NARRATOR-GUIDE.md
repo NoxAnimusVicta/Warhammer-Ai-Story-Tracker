@@ -4,7 +4,7 @@ This is an ongoing, player-led Warhammer 40,000 campaign, not a completed story.
 
 ## Start here on a new account
 
-1. Read this guide and [CURRENT-CONTINUITY.md](CURRENT-CONTINUITY.md) completely.
+1. Read this guide, [CURRENT-CONTINUITY.md](CURRENT-CONTINUITY.md) and [PHYSIOLOGY-REFERENCE.md](PHYSIOLOGY-REFERENCE.md) completely. The physiology reference controls sleep, stamina, injury response, psychic reserves and the mature Custodian comparison; older scene wording cannot override it.
 2. Read [ECONOMIC-REFERENCE.md](ECONOMIC-REFERENCE.md) before quoting prices and [ESTATE-ACCOUNTS.md](ESTATE-ACCOUNTS.md) for current house accounts. Read [seed.json](seed.json), the current dossier overview, and [malaspina-world.txt](malaspina-world.txt), the active planetary record.
 3. Read the relevant scenes and the latest exchanges in [story-transcript.md](story-transcript.md). It is an exact historical archive, including discarded proposals and corrections. Later accepted corrections override earlier wording. Do not interpret an old proposal as an enacted event.
 4. Ask the player to attach the private narrator handover supplied with this edition if it is not already available. It contains concealed continuity and editable project sources. Do not invent missing secrets, reroll established hidden choices or claim to have read inaccessible files. Public GitHub alone deliberately does not contain the entire narrator record.
@@ -85,7 +85,7 @@ Read food-cultures.json and purge-history.json alongside the world record. Use m
 
 Revision39 removes redundant local map additions and provides real northern/southern/western roads. Revision 39 contained 897 settlements and 1,928 routes; revision 45 adds two Ceralte ports and their sea passages, for 899 settlements and 1,930 routes. Unvisited repetitive principal names have corrected aliases in the private handover; retain stable IDs and established story names. The old measured-route accordion is retired, but source measurements remain. Read private/map-maintenance.md before editing.
 
-## Revision 45 checkpoint
+## Revision 46 checkpoint
 
 The current scene is the evening before expedition departure at the Auvrienne Collegium, twenty local days after approval (transcript443). Personal cash is 378, with 264 earmarked and 114 uncommitted; expedition cash is 5,490 after 510 paid, including 2,100 reserved for scholarly salaries and 3,390 for other expedition costs. Opening passage via Serravonne to Dalmor and Ceralte permissions are arranged; later foreign requests remain pending. Veskan continues recovering at the estate; Corva retains household authority. Read CURRENT-CONTINUITY.md and the latest exact exchanges.
 
@@ -93,4 +93,4 @@ Galahad is approximately two local years and three months old. Full bodily matur
 
 The private handover controls concealed characterisation, founder records and physiology calibration. Preserve player agency and practical uncertainty. Physical advantages constrain dice outcomes. No political coup, royal death or Hunter intervention is predetermined.
 
-Physiology distinguishes unaided performance from psychic augmentation. Food/water/sleep ranges are conditional campaign estimates, not canonical universal figures or automatic death timers. Never conflate suspended survival with active endurance, armour recycling with unaided metabolism, or skin injury with incapacitation.
+Apply PHYSIOLOGY-REFERENCE.md before resolving fatigue, injury or combat. Never derive Galahad’s sleep or stamina from ordinary Astartes merely because adapted Astartes systems are present. Seven hours per seven local days supports optimal form; mild deprivation may begin after six to twelve months without sleep. His exceptional reserves cover physical and psychic activity. Weeks or potentially months of sustained campaigning and repeated fighting fit his potential. Judge injury by actual functional damage, and distinguish finesse from depleted psychic reserves. At maturity, one typical Custodian is insufficient to reliably overcome his combined capabilities under comparable conditions. Potential indefinite wakefulness through psychic self-restoration remains developmental. Preserve the agreed scale without awarding unlearned techniques or future experience. No automatic collapse timers or routine daily fatigue penalties.

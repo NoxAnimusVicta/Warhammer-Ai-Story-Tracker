@@ -1,4 +1,4 @@
-# Current continuity — revision 45
+# Current continuity — revision 46
 
 This checkpoint records the latest enacted scene. Read later exact transcript entries before continuing. Documentation work itself advances no story time.
 
@@ -127,4 +127,4 @@ The 35-day trend estimate is **1,209,597,666** people, recorded in population-cu
 
 ## Physiology and leadership references
 
-The reader physiology now records integrated Primaris-derived functions and explicit endurance estimates. Private physiology43.md distinguishes campaign assumptions from canon. The leadership and noble legal reference is VEYRASSE-LEADERSHIP.md; concealed characterisation and dark-protagonist tone remain in the private handover. No coup, succession crisis or Hunter attack is scheduled.
+Read [PHYSIOLOGY-REFERENCE.md](PHYSIOLOGY-REFERENCE.md) as the controlling capability specification. Seven hours of restorative sleep per seven local days maintains optimum condition; mild deprivation may begin gradually only after six to twelve months without sleep, with continued activity possible. Stamina and injury tolerance substantially exceed ordinary Astartes/Primaris levels; psychic reserves substantially exceed an average psyker or ordinary Librarian. Routine established abilities do not repeatedly exhaust him. Weeks or potentially months of campaigning and repeated combat with little degradation fit his potential. Psychic self-restoration enabling indefinite wakefulness is possible development, not a demonstrated technique. At full maturity, one typical Custodian is insufficient to reliably defeat his combined capabilities under comparable conditions. These provisions supersede the old daily sleep requirement and fourteen-day ceiling, including historical preparation wording. No new training or time has passed. The leadership and noble legal reference is VEYRASSE-LEADERSHIP.md; concealed characterisation and dark-protagonist tone remain in the private handover. No coup, succession crisis or Hunter attack is scheduled.

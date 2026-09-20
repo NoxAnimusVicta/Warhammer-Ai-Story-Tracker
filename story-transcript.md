@@ -9242,3 +9242,69 @@ I’ll use your clarification that Malaspina’s local year and day/night cycle 
 ## 446 — User — Ceralte settlements and mature height
 
 I feel like the Ceralte Admiralty needs one or two more minor towns. One City for a whole nation is a tad odd even for an island nation. I feel like one or maybe two more cities or towns with sea passage routes are needed. Also please note that around age 3 I will reach my full state of bodily maturity and will be 3 meters tall, just under 10ft. So I am just under Dorn's Height but still taller than a Custodes and even some of the smaller Primarchs like Alpharius or Russ.
+
+
+## 447 — Assistant — Out-of-character continuity and maintenance
+
+[Revision 45 is live](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/#world).
+
+Added two ports on existing Ceralte islands:
+
+- **Bellavara — 28,000:** pilotage, ship repairs and fishing.
+- **Montelisse — 18,000:** fishing, preserved provisions and orchard produce.
+
+Both have sea routes to Dalmor. Their populations come from Ceralte’s existing census.
+
+Recorded **full bodily maturity around age three at 3 metres (9 ft 10 in)**, including your intended comparative scale in the narrator notes. You’re currently approximately **nine months away**; your last measured height remains 2.59 metres.
+
+The documentation and live files are verified. [Updated private handover](C:/Users/jaked/Documents/Codex/2026-09-19/if-we-are-writing-a-40k/outputs/Malaspina-Narrator-Handover-r45.zip).
+
+
+## 448 — User — Out-of-character continuity and maintenance
+
+You are using space marine baselines for Galahad’s sleep but he is closer to a Custodes or Primarch who basically don’t have to sleep at all. I would say Galahad probably has a way wider range. He probably needs to sleep about 7 hours every 7 days or so to remain in optimal form but he could break that up into an hour a day if he wants and he would still be able to perform far above a human average without sleep for months. I would say after 6-12 months of no sleep is the point where it seems fair for him to begin suffering from mild sleep deprivation but he could still continue past this. But if you disagree please let me know, feel free to do some research on established canon to get a better sense of what I’m going for
+
+
+## 449 — Assistant — Out-of-character continuity and maintenance
+
+**I agree with your correction.** I checked the notes: I explicitly used the Astartes pattern of 3–4 hours’ sleep and roughly two weeks of extended wakefulness. That was an unnecessarily restrictive assumption for Galahad’s established physiology.
+
+Canon supports infrequent rest at the Primarch end: *Avenging Son* describes Guilliman as needing rest rarely, a passage also reproduced in Games Workshop’s [Battle Honours booklet](https://warhammer-alliance.com/wp-content/uploads/sites/16/2023/08/ENG_BH_2023.pdf). However, I couldn’t verify a universal Custodes or Primarch timetable establishing six to twelve months before deprivation. Those precise numbers would be **our agreed specification for Galahad**.
+
+Your proposed specification works for me:
+
+- **Optimal maintenance:** approximately seven hours of sleep per seven local days, either together or divided into roughly an hour daily.
+- **Extended wakefulness:** months of normal activity without sleep, retaining performance vastly beyond human standards.
+- **Deprivation onset:** roughly six to twelve months without sleep before mild symptoms begin. This is a gradual range, not an automatic collapse threshold.
+- **Beyond that:** he can continue, with accumulating impairment measured against his own exceptional baseline.
+
+I would distinguish sleep deprivation from exhaustion caused by sustained combat, injury or extreme psychic exertion. Those can warrant recovery independently, without quietly reinstating a daily sleep requirement.
+
+For future narration, this supersedes the earlier 3–4-hour baseline. His expedition itinerary can therefore use almost the entire day without routine fatigue penalties.
+
+
+## 450 — User — Out-of-character continuity and maintenance
+
+Custodes and Primarch’s do not need to sleep from a biological standpoint. It is restorative but not required. That’s why I set Galahad’s where it is cause it makes sense given he isn’t on the physical point of a Custodes. But I mean if he used his Psycher abilities to help he could probably stay awake indefinitely. And yes I agree sleep deprivation would be different from other exertion types but only minorly. I can last way longer than the average space marine or primaris marine can due to my durability so injuries don’t really slow me down anywhere near as much. My stamina reserves would be the same so o could theoretically fight for weeks or months on end with little degradation as I believe some Primarch’s have. As for psychic exertion again I would be way stronger and have way more bandwidth than the average psycher even a space marine librarian. You have to remember it would take more than 1 Custodes to put me down at full maturity. That number can only rise with experience
+
+
+## 451 — Assistant — Out-of-character continuity and maintenance
+
+Understood. **Galahad’s endurance should follow his established overall capabilities**, rather than inheriting Space Marine limits whenever we discuss a particular bodily function. I was applying those limits inconsistently.
+
+For our campaign, I’ll use this interpretation:
+
+- **Sleep:** approximately seven hours per week maintains optimal condition. Going without it for months is practical; mild deprivation begins around six to twelve months and develops gradually.
+- **Psychic support:** potentially allows indefinite wakefulness through sustained self-restoration. That is a plausible application to develop, rather than something he has already demonstrated.
+- **Physical endurance:** weeks or potentially months of sustained campaigning and repeated fighting with little degradation are appropriate. Continuous maximum-output combat is more demanding, but his reserves remain vastly beyond ordinary Astartes.
+- **Injuries:** assess actual damage to his exceptionally resilient body. A wound that seriously impairs a Marine need not meaningfully impede Galahad; neither visible injury nor pain automatically means diminished effectiveness.
+- **Psychic endurance:** his stable integration and exceptional potential support substantially greater capacity than an average psyker or ordinary Librarian. Routine use of familiar abilities should not repeatedly exhaust him.
+
+**At full maturity, the agreed benchmark is that one typical Custodian would be insufficient to reliably defeat him under comparable conditions.** Experience, developed powers and equipment can increase that advantage. It isn’t an exact opponent-count formula independent of circumstances.
+
+I understand your intended distinction: he remains below a true Primarch overall, while possessing extraordinary endurance and a combination of physical and psychic capabilities that makes him more dangerous than his physical strength alone suggests. I can preserve that without treating a universal claim about every canonical Custodian or Primarch as settled fact.
+
+
+## 452 — User — Out-of-character continuity and maintenance
+
+Fantastic can you make some edits to the GitHub documentation and the web app to prevent this issue from reoccurring please
