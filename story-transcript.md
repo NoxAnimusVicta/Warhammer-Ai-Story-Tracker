@@ -9722,3 +9722,132 @@ Potential proximity is a serious background consideration; exact distance, prese
 Oh one more thing for the time instead of saying earth duration and stuff that isnt thematically appropriate. What is the term they use in 40k for time periods? I forget but use it and if you wanna mention Earth you say Terra instead please. And oh shit I forgot to attach the maps I mentioned that cover location so here you go. You also have to remember that Malaspina is not planet. All of this is our world building. If we want to establish documented planet wide protections we could. But honestly it does not really fit. I was just talking about traditional practises that make people more resistant to possession, like faith in the emperor does for the imperial's but more focused on discipline of ones mind and body forged by a war like planet with mystical nuances as opposed to faith in a certain entity or individual. And we also need to sort out what the new psycher rates are approximately, we need range bands if we cannot have concrete numbers. And I apologies Ouroboris. Also Tyranid arrival date is bascially incalculable due to the effects of the chronostrife. They could arrive in minutes or in thousands of years from the timeframe of the system Malaspina sits in. This also makes a Hunter Response very hard. I do not want them to use the warp so most warp travel and navigation is out. I am not giving them access to the webway or Dolmen Gates and I do not want them to be OP so I think sticking them to sublight travel with Cryo Freezing makes sense. So I guess that makes Malaspina sort of a training ground in a sense however it could be becoming more of a colony since the Great Rift as the Home System of the Hunters moves at a different speed. Lets say The Hunter Home System moves 6 years for every 1 in Imperium Sanctus and the System Malaspina sits in moves 10 years for every 1 in Sanctus. This makes logistics between systems very difficult as well as response times. Because not only does the speed move at different times if we say took over this system and the Hunters in this system call home for backup it will be years before they ever arrive.
 
 [Attachments: TyranidIncursionsGreatRift.webp and 9thEdMap.jpg; preserved unchanged in the private reference-maps directory.]
+
+
+## 491 — Assistant — Adopted temporal and psychic provisions
+
+**Terran standard time** is the term you’re remembering; “Imperial standard” and “solar” also appear. I’ve updated the [web app](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=388947791f461154ebb0#world) and calendar documentation to use **Terra / Terran standard**. Malaspina retains its 24-hour-8-minute solar day and 365-local-day year. [Terminology reference](https://wh40k.lexicanum.com/wiki/Imperial_Units_of_Measurement).
+
+For Malaspina’s current population of approximately **1.224 billion**, I’ve recorded these working campaign bands:
+
+| Category | Approximate number |
+|---|---:|
+| Psychic potential, including latent sensitivity | 6,000–18,000 |
+| Of those, manifested abilities | 1,200–3,600 |
+| Of those, dependable trained control | 250–700 |
+| First awakenings per local year | 150–450 |
+
+The first three rows overlap; don’t add them together. Trained control can mean reliable modest effects, rather than battlefield power. The annual awakening rate is uneven and subject to change. These are our worldbuilding estimates, replacing the older conservative baseline—not canonical statistics.
+
+Your distinction about protection is clear: **learned mental and bodily discipline** can help people recognise intrusive influences, retain self-command and survive awakening. Martial and mystical traditions provide that foundation without requiring devotion to an entity. The benefit belongs to the trained individual; it doesn’t establish planetary wards or universal immunity.
+
+The two maps support your placement near the depicted **Ouroboris** incursions, using Naogeddon and neighbouring landmarks to compare them. They cannot tell us where a tendril currently is relative to Malaspina’s clock. I’ve left its arrival entirely undated.
+
+The Hunter timing is now recorded as:
+
+| Corresponding elapsed interval | Years |
+|---|---:|
+| Designated Sanctus reference | 1 |
+| Hunter home system | 6 |
+| Malaspina system | 10 |
+
+Thus **one home-system year corresponds to about 1⅔ Malaspinan years**. Hunters travel between stars at sublight speeds using cryogenic suspension, with ordinary communications limited by light-speed propagation. Cryo preserves the travellers while everyone outside continues waiting.
+
+The clock ratios alone don’t determine a journey’s duration; distance, ship speed and intervening temporal conditions also matter. **Home-system reinforcements take years, potentially much longer**, while forces already inside Malaspina’s system can respond sooner. That makes a preserve developing into a more permanent, locally supplied colony a sensible direction—and makes taking control of the system strategically meaningful.
+
+The live edition is verified, and the narrator references and original maps are preserved in the refreshed [private handover](C:/Users/jaked/Documents/Codex/2026-09-19/if-we-are-writing-a-40k/outputs/Malaspina-Narrator-Handover-r56.zip).
+
+
+## 492 — User — Possession resistance and lore check
+
+Surviving awakening isn't my primary concern I don't think if I am getting this right. More so just being harder to possess, a mindset that naturally creates discipline to foreign entities trying to invade your body and consume your soul. People might still die if that is a thing that usually happens. Pretty much what you described just focused on anti possession as opposed to being able to survive psychic trauma if that is a thing that happens. The awakening and extra Psychers from the Rift isn't something I am super well versed in so please fact check me to make sure what I am saying and what we are devising all makes sense.
+
+## 493 — Assistant — Possession, awakening and psychic hazards
+
+**Yes—your idea makes sense in 40K, and resistance to possession is the right focus.** My earlier wording put too much emphasis on surviving awakening.
+
+There are three separate things involved:
+
+- **Awakening:** psychic abilities begin manifesting. The Great Rift can trigger this in adults: GW’s *Witchbringer* interview explicitly describes that happening to Glavia Aerand. Awakening does not automatically mean possession. [Official source](https://www.warhammer-community.com/en-gb/articles/JOSMHWnF/the-inside-track-on-witchbringer-a-story-about-coming-home-and-finding-that-home-has-changed/).
+- **Psychic backlash:** mishandling Warp power can cause dangerous phenomena and catastrophes. These hazards extend beyond possession; controlling the power and defending against an entity are related but distinct problems. [Cubicle 7’s licensed RPG explanation](https://cubicle7games.com/en_US/blog/imperium-maledictum-psychic-powers-1).
+- **Possession:** an entity intrudes upon and attempts to dominate a person. Mental defence matters here specifically. Lexicanum’s source-backed account of the Scholastica Psykana describes training against psychic intrusion and identifies strength of character as a factor in resisting possession. [Training reference](https://wh40k.lexicanum.com/wiki/Scholastia_Psykana).
+
+For Malaspina, we can therefore establish that **its martial and mystical traditions cultivate habits that make an invading will harder to establish**: maintaining a firm sense of self, resisting imposed impulses, recognising a presence as foreign, and holding mental boundaries under pressure. Someone raised with those habits could bring useful resistance to their first encounter, even before specialised psychic instruction.
+
+The part I would qualify is *why*: living on a violent world alone doesn’t automatically confer protection. The benefit comes from the disciplines its cultures developed and actually teach. Their effectiveness can vary between communities and individuals. That is a sound campaign extrapolation from the lore, without requiring Emperor worship or a planet-wide ward.
+
+**A person could resist possession and still be injured or killed by the surrounding psychic catastrophe.** Conversely, awakening need not involve a lethal ordeal at all. We shouldn’t assume most new psykers die, or assign a universal mortality or possession percentage without evidence.
+
+I’ve corrected the narrator notes accordingly: **the primary benefit is resistance to daemonic intrusion and takeover**. The existing awakening estimates remain our adjustable worldbuilding bands; they don’t imply an equivalent number of possessions or deaths.
+
+
+## 494 — User — Mature Lion comparison and Tyranid resistance
+
+I agree that all sounds good. Now a couple of questions that are gonna require some fact checking and some extrapolation of the sources to answer. Now if I was fully matured, experienced by say 50 years and as well equipped as the Lion how long would I last against him in a one on one? I assume there is no way I could beat him? Or is there? And on to my second question since the Tyranids make it relevant. I have seen that Regular and Primaris Marines can be infected by Tyranids but there are mentions of the Scythes being able to resist it to a degree with psychic dampening hoods however standard procedure appears to be execution of the infected battle brother. I saw apparently Custodies are immune due to their physiology but I couldn't find a source for this and same for Primarch's people are unsure if they could actually be infected or not so I feel like we need to cover that. Because I am build using predominantly Primaris Marine Procedures like Alpha Primus but I do possess Chimeric Geneseed unlike a standard Primaris Marine. I am hand crafted like a Custodies and may have extra tricks installed by Bile so I am kind of unsure exactly where I should sit for this but I don't actually have sources for the side saying Custodies and Primarchs are immune and we may need to accumulate some lore to make an informed choice one way or the other ourselves. I mean I feel like Bile with all his research on toxins and drugs and mutations and such would be in the best position out of anyone to create Tyranid resistant organisms. I am unsure if the Emperor ever actually encountered Tyranids as actual sources are foggy and even the in world ones are confused about whether or not the Emperor ever encountered them. We will need that fact checked but as of writing this I am working on the assumption the Emperor had not fought the Tyranids before, he may of knew of them through foresight though. However Bile has dealt with them and I believe even experimented on Tyranid Bioforms, again please fact check me on that. So it seems like he could even be better positioned than the Emperor was for created organisms that are resistant against Tyranids specifically due to his specializations. These are just my reasonings however and if you disagree and have valid reasons I would love to hear them so we can get this lore down. You have been doing an awesome job with everything so far. Thank you for the effort. It is appreciated and does not go unnoticed.
+
+## 495 — Assistant — Lore assessment and proposed resistance
+
+**The Lion would be the clear favourite, but I would not make Galahad’s defeat inevitable. And your argument for Bile engineering exceptional Tyranid resistance is plausible—provided we distinguish that campaign choice from confirmed canonical immunity.**
+
+I checked official GW material and traced the relevant novel accounts through source-referenced summaries. Where I could not verify an explicit statement, particularly about immunity, I’ve left it unconfirmed.
+
+For the Lion comparison, I’m assuming the returned Lion, both of you healthy and aware of the fight, no supporting forces, and **comparably effective weapons, armour and defensive equipment**. Your equipment stipulation matters: I’m not giving him the Emperor’s Shield while putting you in ordinary power armour.
+
+Galahad’s established baseline also matters. You are an individually engineered founder with exceptional psychic potential, whose mature combined capabilities ordinarily require more than one typical Custodian to overcome. Fifty years of development would build considerably on that. Our existing agreement nevertheless places your underlying overall capabilities below a true Primarch; experience makes you more dangerous without automatically erasing that difference.
+
+The Lion’s advantage is the combination of Primarch physical capability and extraordinary fighting judgement. His victory over daemon Angron involved defensive equipment, terrain, timing and hunting skill. He does not simply trade blows until the larger health bar wins. GW’s own account emphasises those factors. [Official *Arks of Omen* recap](https://www.warhammer-community.com/en-gb/articles/Xye5dRYB/spoiler-alert-what-happened-when-the-dark-angels-fought-vashtorr-in-the-final-chapter-of-the-arks-of-omen-saga/).
+
+**How long would you last?** There is no canonical conversion from “stronger than several Custodes” into minutes against a Primarch. For our campaign, this is the rough scale I would consider defensible:
+
+| Conditions | My provisional assessment |
+|---|---|
+| A committed sword duel, without psychic assistance | Overwhelmingly favours the Lion. Think **seconds to a few minutes**, with a lethal opening possible very early. |
+| Full mature capabilities, fifty years of relevant development, comparable equipment | A serious fight lasting **several minutes is plausible**. You could threaten and potentially wound him. He remains strongly favoured. |
+| Space to manoeuvre, terrain and effective psychic control of the engagement | Potentially much longer, because you can interrupt exchanges and deny him the fight he wants. Survival and escape become more plausible; victory depends on the actual techniques you have developed. |
+
+Those are **narrative estimates, not measured limits or guaranteed survival times**. Your exceptional stamina would not suddenly disappear after a few minutes. The likely limiting factor is whether you can prevent a decisive hit, rather than running out of energy.
+
+Your strongest route to victory would be **combining psychic action with physical action**: protecting yourself while disrupting his footing, changing attack angles, manipulating the surroundings, and creating an opening for a weapon capable of hurting him. Which applications work would depend on your developed skill and his response. Fifty years with your learning capacity should matter considerably, though fifty years pursuing engineering and statecraft is different from fifty years specifically training to fight Primarchs.
+
+Nor is the Lion categorically immune to psychic interference. In *The Lion: Son of the Forest*, Seraphax successfully binds him through prepared sorcery; the Lion resists the subsequent ritual until intervention disrupts it. That demonstrates a vulnerability under particular conditions, **not** that an ordinary telekinetic hold can reproduce the result in a duel. [Source-referenced account, chapters 31–33](https://wh40k.lexicanum.com/wiki/Seraphax).
+
+So **yes, a Galahad victory could be credible**, particularly through a well-developed psychic technique and a properly created opening. I would need the circumstances to earn that outcome. I would not declare either “you can never beat a Primarch” or “fifty years means you now match the Lion.”
+
+Your infection question needs a separate distinction: **Genestealer infection, psychic domination and Tyranid biological weapons are different threats.** The Kiss introduces alien biological material and alters the host; the associated psychic influence is another part of the danger. Defending the mind does not necessarily remove the biological alteration. GW describes both genetic infection and the cult’s psychic manipulation. [Genestealer faction overview](https://www.warhammer-community.com/en-gb/articles/WnDsJT8s/warhammer-40000-faction-focus-genestealer-cults/), [official Genestealer background](https://www.warhammer-community.com/en-gb/articles/cYPyRaOG/warhammer-preview-the-original-xenos-threat-gets-a-facelift/).
+
+Here is what I could substantiate:
+
+| Claim | Assessment |
+|---|---|
+| Firstborn Marines can be compromised by Genestealers | **Supported.** The Scythes’ story in *Belisarius Cawl: The Great Work* is the relevant example. |
+| Their psychic dampeners cured the infection | **No.** They were protection against psychic influence, and the Patriarch eventually overcame that protection. |
+| Primaris Marines have explicitly demonstrated biological susceptibility | **I did not verify a clear Primaris-specific example.** The infected Firstborn and their clean Primaris successors are not proof either way. There is also no established Primaris immunity in the material I found. |
+| Custodes are categorically immune to the Kiss | **Unconfirmed.** I found assertions and extrapolations, but no reliable explicit passage establishing that rule. |
+| Primarchs are categorically immune | **Likewise unconfirmed.** Their exceptional nature makes strong resistance plausible, but that is not a documented infection test. |
+
+The Scythes’ dampeners are identified as **null-field disruptors** in the source-referenced account. Their failure against the Patriarch is particularly useful evidence that remaining loyal and resisting influence do not necessarily mean the underlying problem has been eliminated. The relevant novel chapters are 16, 22 and 24. [Scythes reference and chapter citations](https://wh40k.lexicanum.com/wiki/Scythes_of_the_Emperor#The_Last_Firstborn).
+
+Execution is a credible Imperial response to an infected battle-brother, but I would not claim to have verified one universally applied procedure across every Chapter. Nor would I treat resistance to Chaos, sterility, or extensive genetic engineering as automatic proof of Genestealer immunity: those are different propositions.
+
+**You were right about Bile having practical Tyranid experience.** In James Swallow’s *Black Tide*, his operation on Dynikas V uses a captured, modified/enslaved Zoanthrope to help keep the surrounding Tyranids away from the facility. Its death ends that protection. The plot involves Bile’s proxy bodies, so the precise claim is that this is work within Bile’s research operation. Black Library confirms the Tyranid-infested research-base setting; the Zoanthrope episode is corroborated by the detailed plot accounts. [Black Library’s book description](https://www.blacklibrary.com/warhammer-40000/novels/black-tide-ebook.html), [contemporary plot review](https://thefoundingfields.com/2010/07/black-tide-reviewspoilers/).
+
+That supports **hands-on knowledge and successful manipulation of Tyranid biology**. It does not establish that he has already solved Genestealer infection or can defeat every Tyranid adaptation.
+
+The Emperor question really is uncertain. The old **Ouroboris Wars** account attributes a victory to him personally, but the associated Titan damage is dated after the Heresy, making that attribution doubtful. This comes from *Codex: Tyranids*, fourth edition, pages 24–25, as cited in the reference. We therefore cannot confidently assert either that he personally fought Tyranids or that he had no knowledge of them. Specific foresight about their biology is also unestablished here. [Ouroboris account and original source citations](https://wh40k.lexicanum.com/wiki/Ouroboris).
+
+I agree with your narrower inference: **Bile could possess more directly applicable experimental information about particular Tyranid organisms than the Emperor demonstrably used when creating his transhumans.** That makes specialised countermeasures plausible. It does not establish that Bile is the superior genetic engineer overall, or that the Emperor’s creations must lack effective general defences.
+
+For Galahad, **my recommended campaign ruling would be**:
+
+1. **Exceptional biological resistance to the Genestealer’s Kiss.** Bile deliberately engineered resistance to invasive genetic alteration. An ordinary implantation would normally fail to establish a lasting infection in mature Galahad. This would be an explicit addition to our campaign biology, supported by Bile’s expertise—not a claimed canonical property of chimeric gene-seed.
+2. **Independent, formidable resistance to psychic subjugation.** A successful puncture would not automatically hand a Patriarch control of you. Your own psychic power, self-command and training remain relevant. Conversely, resisting its commands would not by itself prove that all foreign material had been eliminated.
+3. **Other Tyranid hazards are assessed individually.** Your established toxin resistance applies where relevant, but acids, invasive organisms, specialised bio-weapons and the Shadow in the Warp do not all share one immunity rule. Infection resistance also would not prevent your body being physically consumed.
+
+I would make that resistance a substantial, dependable advantage. I would not invent a special strain every time you meet a Genestealer merely to cancel it. An exception would need an established biological or psychic reason proportionate to your defences.
+
+**“Normally rejects ordinary Genestealer infection, with exceptional additional resistance to psychic takeover” is a defensible place for Galahad to sit.** It respects your bespoke design without requiring us to invent certainty about Custodes or Primarch immunity. This remains a proposed clarification; it has not yet been installed as a new ability in the character documentation.
+
+
+## 496 — User — Accept resistance and request publication
+
+Yeah I like all of your ideas here. Please update the github documentation, please take your time

@@ -1,3 +1,7 @@
+# Revision 57 — accepted resistance and comparative assessment
+
+The player accepted transcript495 in496. PHYSIOLOGY-REFERENCE.md now controls the Genestealer resistance provisions: mature Galahad ordinarily rejects standard implantation, with independent formidable resistance to psychic takeover. This is deliberate Bile engineering in our campaign, not a canonical immunity attributed to all chimeras, Custodes or Primarchs. Other Tyranid hazards remain separate. Resistance must be dependable; do not invent routine exceptions to negate it. No exposure, knowledge of Tyranids, new mastered technique or elapsed time is enacted. The Lion comparison is a conditional future assessment, not a fixed combat timer, stamina limit or guaranteed outcome. Source qualifications and the mature/current distinction remain controlling.
+
 # Revision 55 — local calendar and national finances
 
 Read CALENDAR-REFERENCE.md: one solar day is 24 Terran standard hours 8 minutes; one local year is 365 local days. Local civil clocks divide the solar day into 24 local hours. Twelve pay months remain; their lengths, names and the current numbered date are not yet established. Galahad receives60 lorrats on the first of each local month. No payment or elapsed time is enacted here.
@@ -30,7 +34,7 @@ Galahad’s unbuilt national-wonder designs are clarified in ARCHITECTURE-REFERE
 
 Read ORIGIN-REFERENCE.md before describing provenance or temperament, and private/origin-retcon51.md for the concealed research motive and source qualifications. Bile is creator, not biological donor. The personal-genetics and Bile-ancestry premise is superseded throughout current records. Galahad has selectively engineered intellectual dispositions resembling Bile, without a transferred mind, memories or soul. Historical transcripts and snapshots remain historical.
 
-# Current continuity — revision 56
+# Current continuity — revision 57
 
 This checkpoint records the latest enacted scene. Read later exact transcript entries before continuing. Documentation work itself advances no story time.
 

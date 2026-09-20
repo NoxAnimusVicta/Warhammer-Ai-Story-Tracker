@@ -1,6 +1,6 @@
 # Galahad — controlling physiology reference
 
-Revision 46 · Accepted endurance and comparative-capability clarification. This is narrator continuity for this campaign, not a universal canonical specification for Custodes or Primarchs. It supersedes older conflicting sleep, stamina and overall combat assumptions, including revision43 and the preparation scene's 3–4-hour sleep statement. Historical dialogue remains unchanged.
+Revision 57 · Accepted resistance and comparative-capability clarification, retaining revision46 endurance provisions. This is narrator continuity for this campaign, not a universal canonical specification for Custodes or Primarchs. It supersedes older conflicting sleep, stamina and overall combat assumptions, including revision43 and the preparation scene's 3–4-hour sleep statement. Historical dialogue remains unchanged.
 
 ## Sleep and wakefulness
 
@@ -33,3 +33,37 @@ He remains a perfected proto-Primarch, modestly above the adopted Alpha Primus o
 Read this reference before resolving prolonged activity, fatigue, injury or comparative combat. It takes precedence over older physiology estimates and historical scene wording. Maintain the distinction between established performance, agreed mature potential and demonstrated techniques. Do not reopen accepted campaign specifications merely because canon lacks an exact numerical counterpart. Published lore claims require their own evidence; these agreed figures stand independently as campaign continuity.
 
 Food and water estimates are unchanged by this sleep clarification. Historical records of choosing to sleep remain valid voluntary behaviour, not proof of the superseded biological requirement. New contrary limits require discussion with the player rather than an unnoticed regression to ordinary human or Astartes assumptions.
+
+## Genestealer infection and psychic subjugation — accepted revision 57
+
+Accepted in transcript496 following the researched proposal in495. These are controlling campaign biology provisions, not claims that published lore grants these abilities to every New Man, Primaris Marine, Custodian, Primarch or chimera.
+
+Bile deliberately engineered Galahad to resist invasive genetic alteration. At full maturity, an ordinary Genestealer implantation normally fails to establish lasting infection: his biology rejects it. This is a substantial, dependable defence, rather than a token chance of resistance. Chimeric ancestry or individual handcrafting alone is not its explanation; the specific protective design is an accepted campaign addition.
+
+Biological rejection and psychic resistance are separate defences. Galahad also has formidable resistance to psychic subjugation through his own psychic power, self-command and developed mental discipline. A successful puncture does not automatically give a Patriarch control. Resisting commands does not itself establish that all foreign biological material has been eliminated. Neither defence is absolute immunity to every possible challenge.
+
+Tyranid toxins, corrosives, spores, invasive organisms, specialised bio-weapons, the Shadow in the Warp and physical consumption require separate assessment. Existing exceptional toxin resistance retains its established value where applicable; infection resistance does not prevent destructive injury or digestion. A psychic connection is not itself daemonic possession, although mental self-command can help against both types of intrusion.
+
+Do not introduce exceptional strains or overpowering control merely to cancel the agreed advantage. An exception requires established properties, exposure or psychic circumstances proportionate to his defences. Unfamiliarity alone is not sufficient. No universal infection-success probability or guaranteed cure after established infection is specified.
+
+This protective design belongs to his engineered constitution, not a newly acquired treatment. The normal-rejection benchmark was agreed for mature Galahad; his exact present-age degree has not been separately quantified. Do not invent a switch that leaves all protection absent until his third birthday, or present the mature benchmark as a performed adolescent trial. No new encounter, infection, immunity test, offworld vocabulary or knowledge has been granted. Descendant inheritance and the other founders' detailed resistance profiles are not automatically settled by this ruling.
+
+## Lion El’Jonson comparison — accepted conditional assessment
+
+The discussion assumes a healthy, fully mature Galahad with roughly fifty lived local years of relevant development against the returned Lion, both aware of the fight, without supporting forces, and comparably effectively equipped. Comparable equipment includes useful defensive protection; do not give the Lion relic equipment while downgrading Galahad to ordinary gear. It is not a present inventory award.
+
+The Lion is the clear favourite, combining Primarch physical capability with exceptional fighting judgement. Galahad's established mature combined advantage over a typical Custodian and exceptional psychic potential remain meaningful. Below-Primarch overall capability does not mean a logically impossible victory: developed psychic applications, tactics, terrain and a real opening could support a credible win. Neither victory nor defeat is automatic.
+
+The discussion's rough narrative scale was seconds to a few minutes in a committed sword-only duel, several minutes plausible with full developed capabilities and comparable equipment, and potentially longer if Galahad can repeatedly deny close engagement. These are illustrative scenario estimates, NOT fixed survival durations, maximum combat stamina, a stat table or a future roll modifier. A decisive hit, not routine exhaustion, is the main concern. No number of Custodes translates mechanically into minutes against a Primarch.
+
+Fifty years of exceptional learning can create substantial competence, but actual training and research determine technique. No unspecified biomancy, instant mind control, perfected precognition or other future mastery is automatically awarded. A particular Primarch's vulnerabilities must be assessed in context, not inferred from an absolute hierarchy.
+
+## Research basis and unresolved canonical claims
+
+- **Lion:** GW's [Arks of Omen recap](https://www.warhammer-community.com/en-gb/articles/Xye5dRYB/spoiler-alert-what-happened-when-the-dark-angels-fought-vashtorr-in-the-final-chapter-of-the-arks-of-omen-saga/) records his use of defensive equipment, terrain, timing and spectral abilities against Angron. [Seraphax's source-referenced account](https://wh40k.lexicanum.com/wiki/Seraphax), citing The Lion: Son of the Forest31–33, describes prepared sorcerous binding and intervention. This is not evidence that an ordinary telekinetic hold reproduces the result.
+- **Scythes:** [The Great Work chapter references](https://wh40k.lexicanum.com/wiki/Scythes_of_the_Emperor#The_Last_Firstborn) support the compromised Firstborn and null-field disruptors, whose protection the Patriarch overcomes. Dampening psychic influence does not cure biological infection. No clear Primaris-specific biological infection example was verified in this research; clean successors establish neither susceptibility nor immunity. Execution is a credible response, not a verified universal all-Chapter protocol.
+- **Custodes and Primarchs:** no reliable explicit blanket immunity-to-Kiss passage was located. Leave unconfirmed rather than treating absence of an example as proof. Chaos resistance, sterility and extensive genetic engineering are not interchangeable with resistance to alien implantation.
+- **Bile:** [Black Library's Black Tide description](https://www.blacklibrary.com/warhammer-40000/novels/black-tide-ebook.html) confirms his Dynikas V operation amid Tyranids. A [contemporary plot review](https://thefoundingfields.com/2010/07/black-tide-reviewspoilers/) corroborates the captive Zoanthrope keeping the surrounding creatures away until its death. Proxy bodies are involved. This supports practical experimentation, not a canonical claim that he already solved the Kiss.
+- **Emperor:** the [Ouroboris account](https://wh40k.lexicanum.com/wiki/Ouroboris), citing Codex: Tyranids4pp24–25, attributes an ancient victory to him but dates associated Titan damage after the Heresy. Personal participation, complete ignorance and specific biological foresight remain unestablished. Bile may have more applicable experimental information for particular organisms; overall superiority over the Emperor does not follow.
+
+Research used official material and source-referenced secondary accounts; the complete novels were not reread. The accepted campaign provisions stand independently of unresolved canonical immunity claims.

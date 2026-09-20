@@ -6,7 +6,7 @@ The planetary atlas includes a [national staff register](NATIONAL-REGISTER.md), 
 
 Continuing the story on another account? Start with the [narrator guide](NARRATOR-GUIDE.md) and [current continuity](CURRENT-CONTINUITY.md). The private handover supplied to the player contains concealed notes and editable sources; it must not be uploaded to this public repository.
 
-The [exact conversation archive](story-transcript.md) preserves historical wording, including superseded proposals. Current continuity takes precedence: Malaspina is an Terra-like world curated by the Hunters as a game reserve, and the creature's current name is Vouressan. Historical references to a Death World or Vordrake are not current lore.
+The [exact conversation archive](story-transcript.md) preserves historical wording, including superseded proposals. Current continuity takes precedence: Malaspina is a Terra-like world curated by the Hunters as a game reserve, and the creature's current name is Vouressan. Historical references to a Death World or Vordrake are not current lore.
 
 Open https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/ in Safari and choose Share → Add to Home Screen. Open online once to prepare the offline archive.
 
@@ -16,7 +16,7 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the Long Culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition — revision 56
+## Current edition — revision 57
 
 The current scene is the evening before expedition departure at the Auvrienne Collegium. The surface itinerary, seasonal passages and ordinary travel permissions are arranged; see [pre-departure arrangements](EXPEDITION-PREPARATION.md). Personal cash is 378 lorrats, with 264 earmarked and 114 uncommitted. The joint expedition fund holds 13,990 after 510 paid. Chancery sponsorship is 10,000 and Collegium operating support is 4,500; the Collegium separately continues all six salaries, totalling 2,820 annually. [Full budget](EXPEDITION-BUDGET.md). The estate’s 218-lorrat annual remainder remains a conditional forecast.
 
@@ -28,7 +28,7 @@ Galahad’s full bodily maturity is expected around three local years at 3 metre
 
 Current summaries supersede older checkpoints. The exact transcript preserves historical wording, including superseded proposals. The private handover must not be uploaded to this public repository.
 
-[Controlling physiology reference](PHYSIOLOGY-REFERENCE.md) records the accepted sleep, stamina, injury and psychic-capacity specifications, including the mature Custodian comparison. The physiology panel uses these provisions; older contradictory estimates in the historical transcript are superseded.
+[Controlling physiology reference](PHYSIOLOGY-REFERENCE.md) records the accepted sleep, stamina, injury and psychic-capacity specifications, including the mature Custodian comparison, biological rejection of ordinary Genestealer implantation and independent psychic resistance. It also preserves the conditional future Lion assessment and its source qualifications, without fixed combat timers or blanket Tyranid immunity. The physiology panel uses these provisions; older contradictory estimates in the historical transcript are superseded.
 
 [Transport and overseas districts](TRANSPORT-REFERENCE.md) records coastal and ocean connections, railway interchanges, island administrations and polar status. The revised political map shows existing dependencies; it does not enact conquest or advance the story.
 
