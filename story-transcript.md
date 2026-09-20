@@ -9683,3 +9683,42 @@ Recorded: **60 lorrats on the first of each local month**, credited to your pers
 ## 486 — User — Calendar and national finances
 
 Could you also please list the day length and year length somewhere in the Malaspina Section of the webapp. Somewhere up the top so it is easy to see. Near population and the charted islands. One other thing I have noticed while going through the compare military economy and technology sections. They are all quite good but we have a number for revenue and a number for defense spending but we do not know if any nations are running deficits or surpluses in terms of revenue, how much money they have saved or if they are in debt, and exactly where that spending is going. These would be useful figures to have.
+
+
+## 487 — Assistant — Calendar and national finances published
+
+Published and verified in the [web app](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=9c0981d959aa69ff9c7b#world).
+
+- **Calendar:** 24-hour, 8-minute solar days and 365 local days per year, displayed beside population and charted islands. These establish the previously unspecified exact lengths.
+- **All 43 political returns:** total spending, annual surplus or deficit, liquid reserves, gross debt and interest costs.
+- **Spending breakdowns:** civilian programmes and detailed defence allocations, plus borrowing and repayment plans.
+
+Select a nation and open **Treasury & annual budget**, or use the expanded comparison table. Figures are dated estimates that will change with story events; annual budgets remain distinct from money already held.
+
+Documentation and the private handover are updated. Accounting and phone-layout checks passed.
+
+
+## 488 — User — Rift-era psychic awakenings and location
+
+Another point we need to be aware of because we do have Psycher numbers recorded somewhere is due to the great rift a bunch of humans erratically developed psychic potential and powers leading to a whole bunch of daemonic possessions. That likely is happening on this planet as well just clearly not on a massive scale or the possessed individuals are in hiding biding time. Perhaps the some of the lore and teachings about older magics from history allowed some of our people to fair better against possession than the average human. The actual rates for Psychic Awakenings however I feel would be on the rise due to the Great Rift. If not in the whole Galaxy at least in Imperium Nihilus where I am located in the western section of the Pelegeron Cluster. Which according to the maps I have attached which I am using as reference and believe to be correct I am dangerously close to a tendril of Hive Fleet Ouroboros if not directly in between two tendrils.
+
+## 489 — Assistant — Psychic demographics and regional risks
+
+Yes—**the Great Rift should affect Malaspina’s psychic demographics**, and our earlier figures shouldn’t remain a fixed ceiling. There is a direct official example in *Witchbringer*: an adult officer’s previously subtle gift becomes a full psychic awakening after the Rift opens, and an experienced psyker helps her survive it. [Warhammer Community](https://www.warhammer-community.com/en-gb/articles/JOSMHWnF/the-inside-track-on-witchbringer-a-story-about-coming-home-and-finding-that-home-has-changed/).
+
+I found our earlier model: approximately **1,200 latent individuals, including around 120 with substantially harnessable potential**. Those were conservative estimates derived partly from a Heresy-era statement—not a measured population of living, trained practitioners. We should now treat them as an older modelling baseline, with **manifestations becoming more frequent and uneven**, rather than multiply them by an invented “canonical” rate.
+
+Your explanation for the older arts fits well. For Malaspina, I’ve recorded that some traditions preserve genuinely useful mental disciplines, recognition of dangerous influences and protective practices. Someone who reaches a competent teacher could fare considerably better than an unsupported novice. Knowledge remains patchy, and an old ritual isn’t automatically effective or safe. This is our campaign’s explanation, rather than a canon claim about Malaspina.
+
+That allows **scattered possessions, concealed corruption and local supernatural incidents without a planet-wide daemonic catastrophe**. Some threats may hide and manipulate; others may erupt violently or be contained. Awakening itself does not mean possession, and the absence of a visible catastrophe doesn’t require every possessed individual to be waiting together for a coordinated attack. No existing NPC has been retroactively declared possessed.
+
+For location, I’ve recorded **western Pelegeron Cluster, Imperium Nihilus** as your placement. The ninth-edition galactic map supports the cluster’s position beyond the Rift, but the map I could inspect has no hive-fleet overlay, so I cannot yet verify the “between two tendrils” detail. The fleet is normally spelled **Ouroboris** in the published references. [Galactic map](https://wh40k.lexicanum.com/mediawiki/images/7/7c/9thEdMap.jpg), [Ouroboris reference](https://wh40k.lexicanum.com/wiki/Ouroboris).
+
+Potential proximity is a serious background consideration; exact distance, present fleet movement and an arrival date remain unestablished. Galahad also hasn’t acquired this offworld knowledge merely because we’ve discussed it. These points are saved in the narrator continuity.
+
+
+## 490 — User — Time terminology, maps, psychic bands and Hunter logistics
+
+Oh one more thing for the time instead of saying earth duration and stuff that isnt thematically appropriate. What is the term they use in 40k for time periods? I forget but use it and if you wanna mention Earth you say Terra instead please. And oh shit I forgot to attach the maps I mentioned that cover location so here you go. You also have to remember that Malaspina is not planet. All of this is our world building. If we want to establish documented planet wide protections we could. But honestly it does not really fit. I was just talking about traditional practises that make people more resistant to possession, like faith in the emperor does for the imperial's but more focused on discipline of ones mind and body forged by a war like planet with mystical nuances as opposed to faith in a certain entity or individual. And we also need to sort out what the new psycher rates are approximately, we need range bands if we cannot have concrete numbers. And I apologies Ouroboris. Also Tyranid arrival date is bascially incalculable due to the effects of the chronostrife. They could arrive in minutes or in thousands of years from the timeframe of the system Malaspina sits in. This also makes a Hunter Response very hard. I do not want them to use the warp so most warp travel and navigation is out. I am not giving them access to the webway or Dolmen Gates and I do not want them to be OP so I think sticking them to sublight travel with Cryo Freezing makes sense. So I guess that makes Malaspina sort of a training ground in a sense however it could be becoming more of a colony since the Great Rift as the Home System of the Hunters moves at a different speed. Lets say The Hunter Home System moves 6 years for every 1 in Imperium Sanctus and the System Malaspina sits in moves 10 years for every 1 in Sanctus. This makes logistics between systems very difficult as well as response times. Because not only does the speed move at different times if we say took over this system and the Hunters in this system call home for backup it will be years before they ever arrive.
+
+[Attachments: TyranidIncursionsGreatRift.webp and 9thEdMap.jpg; preserved unchanged in the private reference-maps directory.]

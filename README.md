@@ -6,7 +6,7 @@ The planetary atlas includes a [national staff register](NATIONAL-REGISTER.md), 
 
 Continuing the story on another account? Start with the [narrator guide](NARRATOR-GUIDE.md) and [current continuity](CURRENT-CONTINUITY.md). The private handover supplied to the player contains concealed notes and editable sources; it must not be uploaded to this public repository.
 
-The [exact conversation archive](story-transcript.md) preserves historical wording, including superseded proposals. Current continuity takes precedence: Malaspina is an Earth-like world curated by the Hunters as a game reserve, and the creature's current name is Vouressan. Historical references to a Death World or Vordrake are not current lore.
+The [exact conversation archive](story-transcript.md) preserves historical wording, including superseded proposals. Current continuity takes precedence: Malaspina is an Terra-like world curated by the Hunters as a game reserve, and the creature's current name is Vouressan. Historical references to a Death World or Vordrake are not current lore.
 
 Open https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/ in Safari and choose Share → Add to Home Screen. Open online once to prepare the offline archive.
 
@@ -16,7 +16,7 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the Long Culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition — revision 55
+## Current edition — revision 56
 
 The current scene is the evening before expedition departure at the Auvrienne Collegium. The surface itinerary, seasonal passages and ordinary travel permissions are arranged; see [pre-departure arrangements](EXPEDITION-PREPARATION.md). Personal cash is 378 lorrats, with 264 earmarked and 114 uncommitted. The joint expedition fund holds 13,990 after 510 paid. Chancery sponsorship is 10,000 and Collegium operating support is 4,500; the Collegium separately continues all six salaries, totalling 2,820 annually. [Full budget](EXPEDITION-BUDGET.md). The estate’s 218-lorrat annual remainder remains a conditional forecast.
 
@@ -40,4 +40,4 @@ The dossier portrait now shows Galahad in his current expedition clothes. The ea
 
 [Balanced expedition route](expedition-route.html) provides a day selector, mapped surface connections and five-to-six-day research stays, with return on day355 and ten days in reserve. [Printable schedule](expedition-route.md). [Coastline reference](COASTLINE-REFERENCE.md) records the refined mainland shores and preserved Eastern Marches survey.
 
-[Local calendar](CALENDAR-REFERENCE.md): 24h8m solar days in Earth-duration units, 365 local days per year. These appear beside population and charted islands. National profiles and comparisons now include annual spending by purpose, budget surpluses/deficits, liquid reserves, outstanding debt, interest and financing plans. The full [national register](NATIONAL-REGISTER.md) distinguishes current stocks from annual forecasts. No story time advances.
+[Local calendar](CALENDAR-REFERENCE.md): 24h8m solar days in Terran standard units, 365 local days per year. These appear beside population and charted islands. National profiles and comparisons now include annual spending by purpose, budget surpluses/deficits, liquid reserves, outstanding debt, interest and financing plans. The full [national register](NATIONAL-REGISTER.md) distinguishes current stocks from annual forecasts. No story time advances.

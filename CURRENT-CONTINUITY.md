@@ -1,6 +1,6 @@
 # Revision 55 — local calendar and national finances
 
-Read CALENDAR-REFERENCE.md: one solar day is 24 Earth-duration hours 8 minutes; one local year is 365 local days. Local civil clocks divide the solar day into 24 local hours. Twelve pay months remain; their lengths, names and the current numbered date are not yet established. Galahad receives60 lorrats on the first of each local month. No payment or elapsed time is enacted here.
+Read CALENDAR-REFERENCE.md: one solar day is 24 Terran standard hours 8 minutes; one local year is 365 local days. Local civil clocks divide the solar day into 24 local hours. Twelve pay months remain; their lengths, names and the current numbered date are not yet established. Galahad receives60 lorrats on the first of each local month. No payment or elapsed time is enacted here.
 
 national-register.json now includes current-year fiscal forecasts and treasury stocks at the eve of departure, 55days after the census epoch. Earlier capacity/revenue/defence figures are preserved as the planning baseline. Read NATIONAL-REGISTER.md for expenditure categories, deficits/surpluses, reserves, debt, interest and matched colonial grants. These are newly established fictional staff estimates, not previously narrated transactions. Individual geographic returns are non-overlapping; divided authorities have no pooled treasury. Interest is expenditure; principal repayment and borrowing are financing. Do not book annual flows into present stocks until the relevant story time and transactions pass. Preserve a prior snapshot and apply changes once, including events and prices. This does not change the expedition budget or personal cash378, earmarks264 and free114.
 
@@ -30,7 +30,7 @@ Galahad’s unbuilt national-wonder designs are clarified in ARCHITECTURE-REFERE
 
 Read ORIGIN-REFERENCE.md before describing provenance or temperament, and private/origin-retcon51.md for the concealed research motive and source qualifications. Bile is creator, not biological donor. The personal-genetics and Bile-ancestry premise is superseded throughout current records. Galahad has selectively engineered intellectual dispositions resembling Bile, without a transferred mind, memories or soul. Historical transcripts and snapshots remain historical.
 
-# Current continuity — revision 55
+# Current continuity — revision 56
 
 This checkpoint records the latest enacted scene. Read later exact transcript entries before continuing. Documentation work itself advances no story time.
 
@@ -44,7 +44,7 @@ The surgeon found a through-flesh upper-arm gunshot wound without fracture, plus
 
 Approval was 35 local days after the census epoch. The latest scene is twenty days after approval, the evening before the appointed departure on day21. This is 55 days after the census epoch. No expedition travel has yet occurred. The relative northern-autumn season is now established in EXPEDITION-PREPARATION.md; do not invent a numbered calendar date or apply population growth twice. Documentation work advances no additional time.
 
-He is approximately **two local years and three months old**, leaving roughly **nine months until age three**. Full bodily maturity is reached **around age three**, at **3 metres (about 9 ft 10 in)**. The last actual measurement remains eight and a half feet (2.59 m); the mature target is not his present measurement. Growth need not be linear. Local years, rotation and day/night cycles are broadly Earth-like without fixed exact conversions. All ageing uses local elapsed time; do not invent a thirty-day month or absolute galactic date.
+He is approximately **two local years and three months old**, leaving roughly **nine months until age three**. Full bodily maturity is reached **around age three**, at **3 metres (about 9 ft 10 in)**. The last actual measurement remains eight and a half feet (2.59 m); the mature target is not his present measurement. Growth need not be linear. The local solar day lasts 24 hours 8 minutes in Terran standard units; a local year contains 365 local days. See CALENDAR-REFERENCE.md. All ageing uses local elapsed time; do not invent a thirty-day month or absolute galactic date.
 
 ## House Orsival
 
@@ -129,7 +129,7 @@ Dorlac accepts the invented exclusive Ceralte supplier for now. No trader, invoi
 
 ## Controlling world details
 
-Malaspina was a habitable Golden Age colony. A local late-DAoT collapse and regression preceded Hunter appropriation; the Age of Strife completed isolation. It was never Imperial. Its soil, climate and predominantly ordinary flora remain Earth-like. The danger is an engineered hunting preserve, not an Imperial Death World classification.
+Malaspina was a habitable Golden Age colony. A local late-DAoT collapse and regression preceded Hunter appropriation; the Age of Strife completed isolation. It was never Imperial. Its soil, climate and predominantly ordinary flora remain Terra-like. The danger is an engineered hunting preserve, not an Imperial Death World classification.
 
 Roughly four fifths or more of wild animal lineages descend from Hunter engineering, including supporting prey and scavengers. Human experiments produce many dead or damaged subjects and some feral hulking quarry. Locals know monsters and rumours; Galahad does not automatically know the hidden provenance. Hunters use human resistance as a testing demographic and preserve a large overall population, without protecting individual settlements.
 

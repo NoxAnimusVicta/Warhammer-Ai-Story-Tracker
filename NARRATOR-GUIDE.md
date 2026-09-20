@@ -95,7 +95,7 @@ The PWA checks for a new edition on opening, returning to view, reconnecting and
 
 Research uncertain lore before asserting it. Prefer original published material or official sources; label secondary summaries and unverified theories honestly. The perfected founders, detailed Malaspinan states and clocks are agreed campaign inventions designed to coexist with canon, not newly discovered canonical facts. Do not undo accepted campaign choices because they lack an explicit published counterpart.
 
-Malaspina is an originally habitable, Earth-like colony curated by the Hunters as a game reserve. **Historical Death World descriptions are superseded.** The animal formerly called Vordrake is now **Vouressan**; it is the same animal and same recorded hunt. The exact archive retains old wording solely as history.
+Malaspina is an originally habitable, Terra-like colony curated by the Hunters as a game reserve. **Historical Death World descriptions are superseded.** The animal formerly called Vordrake is now **Vouressan**; it is the same animal and same recorded hunt. The exact archive retains old wording solely as history.
 
 Read related passages together when assessing lore implications. Distinguish explicit facts, strong cumulative implications and adopted campaign explanations. Do not repeatedly rebut a narrower claim than the player made, dismiss supported inference merely because it is indirect, or quietly change accepted character potential. Consult the revision37 founder clarification before further power-scale discussion.
 
