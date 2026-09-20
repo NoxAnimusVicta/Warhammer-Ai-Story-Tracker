@@ -1,3 +1,7 @@
+# Revision 51 - controlling founder origin
+
+Read ORIGIN-REFERENCE.md before describing provenance or temperament, and private/origin-retcon51.md for the concealed research motive and source qualifications. Bile is creator, not biological donor. The personal-genetics and Bile-ancestry premise is superseded throughout current records. Galahad has selectively engineered intellectual dispositions resembling Bile, without a transferred mind, memories or soul. Historical transcripts and snapshots remain historical.
+
 # Current continuity — revision 50
 
 This checkpoint records the latest enacted scene. Read later exact transcript entries before continuing. Documentation work itself advances no story time.

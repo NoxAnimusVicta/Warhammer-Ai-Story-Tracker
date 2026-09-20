@@ -9369,3 +9369,45 @@ Done—[the live estate view](https://noxanimusvicta.github.io/Warhammer-Ai-Stor
 I have also generated another image of Galahad as he currently looks. The image we are using at the moment is how he will look once he actually takes control of a nation or nation’s military. Here is his current fit right as he is leaving for the expedition.
 
 Attachment: Photo 1.jpg. Original retained as assets/portrait-expedition-r50.jpg in the private handover and portrait-expedition-r50.jpg in the public app.
+
+
+## 461 - Assistant - Current expedition portrait
+
+[The new portrait is live](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=81553803b5fc670ebf47#dossier), with the same data-slate treatment.
+
+It’s now Galahad’s current expedition appearance for the app and narration. The earlier portrait is preserved as his future appearance after taking control of a nation or its military.
+
+[Updated narrator handover — r50](C:/Users/jaked/Documents/Codex/2026-09-19/if-we-are-writing-a-40k/outputs/Malaspina-Narrator-Handover-r50.zip)
+
+## 462 - User - Proposed origin retcon
+
+We need to make another Retcon. Bile never would have used his own Geneseed specifically for his creations due to the Blight which he is still unable to cure. So we need to retcon it that I’m jus a new men chimera with Primarch Geneseed and take out the Bile stuff. However we are going to say that of the cohort my specialisation puts me in the position best suited to potentially assist him in curing the condition so it makes sense if during Bile’s hand crafting of each of the cohort he likely wired my neural chemistry and pathways to be similar to his own. Please do a lore check and make sure this fix doesn’t have any issues before we update the documentation.
+
+## 463 - Assistant - Origin retcon lore check
+
+**Yes—the retcon works, with one important distinction: Galahad should resemble Bile’s way of thinking without containing a copy of Bile’s mind.** I haven’t changed the documentation.
+
+The Blight gives Bile a credible reason to exclude material taken from his own body. However, “he would never use his own genetics” is stronger than the evidence supports. His condition also becomes more complicated than an ordinary inherited gene-seed defect: a passage from *Manflayer*, reproduced online, has Bile say that the Blight manifests after a **full neural transfer** into his clones. I found that passage through a secondary reproduction, rather than independently checking the complete novel. It supports caution about copying his consciousness; it does **not** establish that merely sharing his intellectual tendencies transmits the disease. [Reproduced *Manflayer* passage](https://www.reddit.com/r/40kLore/comments/1ih3b0l/)
+
+There are four points I would preserve in the revised explanation:
+
+- **Exclude Bile as a biological donor.** No personal tissue, personal genetic contribution or gene-seed harvested from his bodies. He remains the creator. His implanted gene-seed and his original human genome are different things; explicitly excluding both removes the ambiguity in our existing “Bile contribution” wording.
+- **Keep the New Men foundation and selected Primarch-derived material.** New Men already have precedent for incorporating modified Astartes gene-seed. Our bespoke founder organism remains campaign extrapolation, but this revision does not introduce a new incompatibility. [New Men reference and novel citations](https://wh40k.lexicanum.com/wiki/New_Men)
+- **Fulgrim’s contribution can remain.** The Blight does not mean every possible source of Fulgrim-derived material is inherently unusable. The official Legion history describes contaminated gene-seed stocks and the subsequent restoration of production after Fulgrim’s discovery. We can retain material obtained independently of Bile’s afflicted body. [Official Emperor’s Children history](https://assets.warhammer-community.com/eng_19-03_thehorusheresy_black_book_extract_emperors_children-oywc6iqhan-hwpwpigftx.pdf)
+- **Make the neurological resemblance selective and developmental.** Bile deliberately cultivated comparable analytical habits, experimental drive, pattern recognition and capacity for sustained investigation. That is a plausible fictional extension of his abilities—not a specifically documented canonical procedure. Galahad develops his own memories, personality and soul.
+
+Your proposed reason for doing this also fits: **Bile wanted someone capable of understanding his work and eventually seeing beyond his own conclusions.** Galahad’s combination of engineering, psychic aptitude and integrative thinking could make him the cohort member with the best *potential* to assist with the Blight. That preserves his established specialisation while giving Bile an additional personal investment in his development. It needn’t make Galahad a trained geneticist already, or make finding a cure inevitable.
+
+I would use this wording for the eventual retcon:
+
+Galahad is a bespoke New Men founder chimera incorporating selected Fulgrim-, Perturabo- and Magnus-derived genetic material, developed through Bile’s accumulated research and study of Alpha Primus. No genetic material or gene-seed taken from Bile’s own body was incorporated.
+
+During Galahad’s development, Bile deliberately shaped aspects of his neural architecture and neurochemistry to encourage intellectual dispositions resembling his own: investigative curiosity, experimental persistence, analytical synthesis and an instinct to understand and redesign complex systems. This was developmental engineering, not a transfer of Bile’s consciousness, memories or soul.
+
+Among the cohort, Galahad’s particular combination of biological potential, psychic aptitude and engineering intelligence made him the most promising prospective collaborator in addressing Bile’s unresolved Blight. This was one of Bile’s hopes for him, alongside the founder programme’s broader purposes. Galahad remains an independent person whose knowledge, loyalties and eventual achievements develop through experience.
+
+**This changes his origin explanation, not his established capabilities.** One related correction will be necessary: the cohort’s existing description as biological siblings *through Bile’s personal ancestry* would need replacing with their shared engineered lineage and creator.
+
+## 464 - User - Approving origin retcon and publication
+
+Yeah I agree with all that. Please update the GitHub documentation properly and ensure there are no more stale references to outdated info that should be updated. Please take your time

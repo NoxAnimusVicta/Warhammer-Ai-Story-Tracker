@@ -1,0 +1,11 @@
+# Founder origin - controlling revision 51
+
+Galahad is a bespoke New Men founder chimera incorporating selected Fulgrim-, Perturabo- and Magnus-derived genetic material. Bile developed the design through his accumulated Primarch-cloning and New Men research and study of recovered Alpha Primus progenoid material. Bile is the creator, not a biological donor: no tissue, personal genetic material or gene-seed harvested from his own body was incorporated. The other founders likewise do not inherit a personal Bile contribution. Selected lineage resources are laboratory material acquired independently of Bile's afflicted body.
+
+The founders share an engineered New Men lineage and creator, with deliberately diversified genomes. This replaces the former common biological ancestry through Bile. No exact full-sibling relationship or new percentage of relatedness is asserted. Existing compatibility and post-maturity inheritance provisions remain unchanged.
+
+During Galahad's development, Bile selectively shaped neural architecture and neurochemistry to cultivate investigative curiosity, experimental persistence, analytical synthesis and a drive to understand and redesign complex systems resembling his own intellectual dispositions. This is developmental engineering, not a copy or transfer of Bile's consciousness, memories, soul or complete personality. Galahad remains independent.
+
+His principal specialisation remains psychic technology, material engineering and learning through deconstruction and synthesis. No stored expertise, implanted technical library, automatic loyalty or predetermined morality is supplied by that design. His own soul remains stably integrated from gestation, with no inherited Blight, chronic pain, replacement congenital defect or copied Bile identity introduced by this retcon.
+
+The established perfected proto-Primarch designation, comparative potential, sleep and stamina provisions, growth, current abilities, inventory and story checkpoint remain unchanged. This is a correction to provenance and developmental explanation, not a power reduction or escalation. Historical transcript wording is preserved as history; this reference supersedes its former personal-Bile-donor claims. The private handover records the creator's unrevealed research intentions and source qualifications.
