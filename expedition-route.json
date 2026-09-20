@@ -3109,5 +3109,34 @@
         522.0
       ]
     }
-  ]
+  ],
+  "preparation": {
+    "revision": 54,
+    "status": "ready for departure",
+    "departureSeason": "northern autumn",
+    "returnDeadlineDay": 365,
+    "operatingFund": 14500,
+    "chanceryContribution": 10000,
+    "collegiumContribution": 4500,
+    "paid": 510,
+    "held": 13990,
+    "financialReserve": 2444,
+    "annualPayroll": 2820,
+    "galahadMonthlyPay": 60,
+    "scholarMonthlyPay": 35,
+    "totalCashProvision": 17320,
+    "ordinaryPermissions": "arranged",
+    "northernServiceWindows": [
+      {
+        "stage": "northern outbound calls",
+        "firstDay": 230,
+        "lastDay": 290
+      },
+      {
+        "stage": "Iskel–Norrak return",
+        "firstDay": 295,
+        "lastDay": 350
+      }
+    ]
+  }
 }

@@ -16,9 +16,9 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the Long Culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition — revision 53
+## Current edition — revision 54
 
-The current scene is the evening before expedition departure at the Auvrienne Collegium. Opening passage through Serravonne to Dalmor is booked and Ceralte permissions secured. Personal cash is 378 lorrats, with 264 earmarked and 114 uncommitted. The separate expedition fund holds 5,490 after 510 paid, including 2,100 reserved for scholars’ pay. The estate’s 218-lorrat annual remainder remains a conditional forecast.
+The current scene is the evening before expedition departure at the Auvrienne Collegium. The surface itinerary, seasonal passages and ordinary travel permissions are arranged; see [pre-departure arrangements](EXPEDITION-PREPARATION.md). Personal cash is 378 lorrats, with 264 earmarked and 114 uncommitted. The joint expedition fund holds 13,990 after 510 paid. Chancery sponsorship is 10,000 and Collegium operating support is 4,500; the Collegium separately continues all six salaries, totalling 2,820 annually. [Full budget](EXPEDITION-BUDGET.md). The estate’s 218-lorrat annual remainder remains a conditional forecast.
 
 [Economic reference](ECONOMIC-REFERENCE.md) dates wages and prices to the current local story year, with regional variation and recorded event-driven changes. [Monumental architecture](ARCHITECTURE-REFERENCE.md) records Galahad’s unbuilt national-wonder designs and current-price estimates. [Estate accounts](ESTATE-ACCOUNTS.md) separates paid expenses, allocations and projected returns.
 

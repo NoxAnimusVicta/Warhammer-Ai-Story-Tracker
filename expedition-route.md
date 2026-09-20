@@ -1,8 +1,8 @@
-# Proposed expedition route
+# Prepared expedition route
 
-Day 1 = departure. Planning only; no journey or expense enacted.
+Day 1 = departure in northern autumn. Ordinary preparation is complete; the journey has not begun.
 
-Return target: **day355**. Reserve: **days356–365 (10 days)**. Fourteen destinations receive six full days and eight receive five: 124 visiting days plus 231 travel days. Date ranges are inclusive. Funding and northern sailing season still require confirmation.
+Return target: **day 355**. Reserve: **days 356–365 (10 days)**. Fourteen destinations receive six full days and eight receive five: 124 visiting days plus 231 travel days. Date ranges are inclusive. Funding, ordinary permissions, accommodation, payment access and seasonal sailings are arranged. See [preparation register](EXPEDITION-PREPARATION.md) and [itemised budget](EXPEDITION-BUDGET.md).
 
 | Destination | Travel days | Full days there |
 |---|---:|---:|
@@ -30,3 +30,5 @@ Return target: **day355**. Reserve: **days356–365 (10 days)**. Fourteen destin
 | Estrevigne | 313–336 (24 days) | 337–342 (6) |
 | Valdrec | 343–348 (6 days) | 349–353 (5) |
 | Auvrienne | 354–355 (2 days) | Transfer / home |
+
+Operating fund 14,500 (Chancery 10,000; Collegium 4,500);13,990 remains after 510 paid. Separate ordinary payroll 2,820 includes Galahad at 60/month and five scholars at 35 each. Total cash provision 17,320. Restricted research access is pursued separately. The northern return days 313–336 sits inside the established days 295–350 service window. No automatic air travel or foreign gifts are required.

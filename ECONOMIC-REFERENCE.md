@@ -1,6 +1,6 @@
 # Malaspina Economic Reference
 
-Version 1.2 · Current local story-year price baseline · Editorial update 20 September 2026
+Version 1.3 · Current local story-year price baseline · Editorial update 21 September 2026
 
 This reference supplies the baseline for **new economic estimates** on Malaspina. It supplies consistent fictional purchasing power, normal price bands and rules for local variation. It is not a claim about historical Earth prices or a list of transactions already completed in the story. Established purchases remain historical facts; later explicit corrections take precedence.
 
@@ -206,3 +206,10 @@ Veyrasse's existing national return of **205 lorrat-equivalents per resident per
 Prices are fictional reference bands, not guaranteed quotations. Identify quantity, unit, quality, place and transaction stage; record what labour, transport and taxes are included. Keep estimates, allocations, invoices and payments distinct. Current household accounts are recorded separately in [ESTATE-ACCOUNTS.md](ESTATE-ACCOUNTS.md).
 
 Version 1.2 retains the earlier price bands, adds their local story-year date and establishes event-led revisions. The accepted replacement accounting passages in transcript439 govern the current balance.
+
+
+## Expedition travel calibration — current price year
+
+[The expedition budget](EXPEDITION-BUDGET.md) introduces explicit working rates for previously unspecified services: sea passage0.007 lorrat per berth-km including board and lodging; professional twin room0.80/night, single0.60, large suitable room1.20; meals ashore0.75/person/day; two road vehicles and drivers24/day plus0.04/km combined distance/fuel; local full-day hire12 including driver/fuel. These are route-budget calibrations, not universal tariffs or evidence that future invoices are paid. Rail uses the existing0.008–0.018 band, at0.014 per passenger-km. Do not add ship meals twice, charge the opening passage twice, or deduct salaries from operations.
+
+Galahad’s established salary is60 per pay month: the exact story records360 over six months and a later payment60. Five travelling scholars retain35 each. The Collegium continues these ordinary wages while they conduct expedition work. The professional engineer45–85 and rare specialist/master70–120+ reference bands remain unchanged; personal pay is an established contract, not automatically whichever generic band is highest. No pay rise or extra salary receipt occurs in this correction.

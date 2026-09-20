@@ -9534,3 +9534,89 @@ These are planning estimates, with travel and interchange allowances—not booki
 ## 474 — User — Balanced itinerary and mainland coastlines
 
 Is there a way to balance out the days spent at each location? I think about 10 days of contingency time should be fine. Also could you please include the amount of days the Travel Days column lists in the Expedition Route Document like how the Full Days there Column is displayed. I just noticed an issue with the proper map in the webapp. The coastline of the eastern marches all looks good and realistic but for everywhere else on all the other continents the lines that actually make them up are so straight and cleanly curved. That isn't how a continent looks. If you look at the Ceralte Admiralty and March of Veyrasse on the Map and compare it to say Cambrelet or Braavarnov you will see what I mean. The coasts of all the continents need some serious work as they all do not look realistic except for the March of Veyrasse and surrounding areas that we made initially before the rest of the map. Now that I have seen that I cannot unsee it.
+
+
+## 475 — Assistant — Revision53 publication
+
+[The updated map is live](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=690f8bfa7aa05fd29b85#world).
+
+- **Balanced stays:** fourteen destinations receive six full days; eight receive five. That gives you **124 days at destinations**, returning on **day 355**, with **ten contingency days**.
+- **Travel durations:** both route documents now display ranges with totals, such as **114–138 (25 days)**.
+- **Coastlines:** reworked all three mainland shores with irregular bays, headlands and smaller inlets. Preserved the original Eastern Marches coastline and Ceralte’s island shapes, and checked settlements, roads, rivers and shipping against the changes.
+
+[Open the expedition day planner](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/expedition-route.html). It’s also linked beneath the world map. Funding and seasonal sailing arrangements remain provisional.
+
+[Updated private handover](C:/Users/jaked/Documents/Codex/2026-09-19/if-we-are-writing-a-40k/outputs/Malaspina-Narrator-Handover-r53.zip).
+
+
+## 476 — User — Expedition employment and institutional funding
+
+Now on the funding there is an easy fix there. Because this information goes back to the Collegium as well as the Chancery why not just say the Collegium still pays everyone normal rates outside of the expedition funds? We are still working for the Collegium, I just arranged the Chancery to Sponser a trip for them that benefits both the Chancery and Collegium. I just had to be the one in charge which nobody at the Collegium minded and they likely would have recommended anyway even if it wasn't me who brought this to them. From the Collegium's point of view and the Chancery's they both have something to gain out of this expedition and they would likely assume I am getting prestige and acclaim from doing this. Obviously I am expanding my knowledge and that is my main purpose but none of the other involved parties have known me long enough to understand just how advantageous that will be. Considering when I met every contact I have from the Collegium they would have assumed I was early 20s, but I am currently not even 3 years old. This will be an explosive leap to my knowledge base we are done and being the head of the expedition and seeing the reports of the other scholars allows me to learn from and use their research to benefit my own and assign research targets of importance if I flag anything worthwhile in the reports. Alternatively, the Collegium throws in funds of their own to similar to the Chancery Sponsorship or I suppose we could rely on foreign patronage which with Galahad is here it is a viable option but common sense dictates it isn't a wise move in case we wind up in foreign lands with no money, no way home and no where to stay. Doesn't seem very smart to send off a scholarly expedition without enough funds to complete said expedition. Perhaps certain foreign academic institutions would be able to cover accommodation at least if the Collegium has a good relationship with them and they agreed to this prior to the expedition as part of some of those letters we sent out for permissions and such as part of expedition prep.
+
+## 477 — Assistant — Funding discussion
+
+Yes—**ordinary Collegium salaries continuing outside the expedition fund is the more sensible arrangement.** I treated the Chancery’s sponsorship as though it had to cover the entire institutional cost of the expedition, despite these scholars remaining employed and doing work that benefits the Collegium.
+
+I would correct the arrangement as follows:
+
+- **The Collegium maintains the five scholars’ established pay** through its ordinary payroll. The **2,100 lorrats reserved for their salaries is released back into the expedition’s operating allowance**. This changes the allocation, not the cash held: **5,490 remains available after the 510 already spent**.
+- **The Chancery’s 6,000-lorrat grant funds the expedition itself:** transport, equipment, accommodation, subsistence, access fees and related expenses. It purchases the agreed research and reporting obligations; it does not replace the Collegium as employer.
+- **Before departure, both institutions review a complete operating budget.** Any remaining shortfall is covered by a definite supplementary appropriation from the Collegium or Chancery, with accessible funds and an emergency return reserve. We should calculate that contribution rather than invent another convenient round figure.
+- **Established foreign academic partners can provide agreed accommodation or facilities.** Those arrangements fit naturally into the preparation correspondence, but we should identify which hosts have actually agreed and what they cover. Pending invitations and hoped-for hospitality should not count as available money.
+
+Foreign patronage can then create opportunities during the journey without becoming something you must secure to get everyone home. Likewise, a ten-day scheduling contingency does not replace a financial reserve.
+
+Your explanation of the institutional incentives also fits. The Collegium gains research, collections, professional connections and trained staff; the Chancery gains useful technical and diplomatic reporting; you gain prestige and knowledge. **Your leadership was already granted**, and directing research priorities and reviewing the scholars’ findings are ordinary parts of that role—not additional privileges you need to negotiate.
+
+The distinction about your apparent age matters, too. They encountered someone who appeared to be a young adult and have witnessed extraordinary ability, but that does not mean they understand your actual developmental stage or how much you can integrate from a year of coordinated research. The reports let you identify promising findings, connect discoveries across disciplines and redirect subsequent investigations. That supports the substantial leap in knowledge you intend without assuming every institution understands its eventual significance.
+
+**I’d adopt continued Collegium payroll, confirmed institutional funding for the full itinerary, and prearranged academic hospitality where available.** That corrects the preparation logic while keeping your existing sponsorship, leadership and paid purchases intact.
+
+## 478 — User — Cost the complete expedition
+
+Nah this all should have been sorted already I need you to figure out the actual costs and then tell me how much this expedition will cost. This isn't something the Collegium or Chancery would skim over and I only had not caught it up until now as I was under the impression that you had calculated this when you gave me the 6000 sponsorship number. Making us seem poor and lacking for money is also a bad look on the nation as a whole.
+
+## 479 — Assistant — Initial cost calculation, subsequently corrected
+
+**The expedition’s expected cost is 14,156 lorrats, including salaries. Its fully funded budget should be 16,600 lorrats, including contingency.** My original 6,000 figure was insufficient; that was my budgeting mistake, not incompetence by Galahad or either institution.
+
+I’ve costed the six-person party against the full route: approximately **45,000 kilometres by rail, 35,000 by sea and 6,000 by road**, with provision through day 365.
+
+| Expense | Lorrats |
+|---|---:|
+| Equipment and opening transport already purchased | 510 |
+| Remaining railway travel | 4,376 |
+| Remaining sea passages, including onboard meals and berths | 1,703 |
+| Intercity vehicles and drivers | 960 |
+| Local transport and transfers | 480 |
+| Accommodation ashore | 993 |
+| Meals ashore | 1,314 |
+| Research access, copies and consumables | 350 |
+| Equipment freight and specimen dispatch | 300 |
+| Guides, interpreters and specialist assistance | 250 |
+| Official hospitality and representation | 450 |
+| Permissions, correspondence and exchange charges | 150 |
+| Medical replenishment and treatment | 120 |
+| Equipment maintenance | 100 |
+| **Expected operating expenditure** | **12,056** |
+| Financial contingency—approximately 20% | **2,444** |
+| **Total operating fund** | **14,500** |
+| Continuing Collegium salaries | **2,100** |
+| **Total institutional provision** | **16,600** |
+
+This pays for respectable professional accommodation, suitable transport and additional space for Galahad, research work and official hospitality. **It assumes no free accommodation, foreign donations or contributions from your personal or estate accounts.** Academic hosts providing rooms would produce savings.
+
+The calculation uses established rail prices and explicit new budgeting rates where our economic reference lacked them. These are current-story-year estimates; future invoices can vary. The [complete budget and calculations](C:/Users/jaked/Documents/Codex/2026-09-19/if-we-are-writing-a-40k/outputs/EXPEDITION-BUDGET.md) show the quantities and rates.
+
+The corrected, **already settled pre-departure arrangement** is:
+
+- **Chancery:** the original **6,000-lorrat sponsorship**.
+- **Collegium:** **8,500 lorrats toward expedition operations**, plus **2,100 in ordinary payroll**.
+- **Operating funds remaining after the existing 510 expenditure:** **13,990 lorrats**, including the reserve.
+
+Removing the old salary earmark does not create additional money; the Collegium’s operating contribution supplies the missing funding. This corrects the preparation retrospectively: you depart as the properly equipped director of a jointly financed national expedition, with the journey home funded from the outset.
+
+## 480 — User — Funding retcon, Galahad’s pay and competent preparation
+
+And so what are we doing with the budget? Are we retconning to say the Chancery gives us 10k the Collegium then also throws in 4.5k and continues to pay us throughout the expedition plus gives us assistance since we are under their employ? That is another point your 2,100 wages figure doesn't account for my wages which were set up earlier in the story with my teaching at the Collegium and being an Expedition Leader I would likely be paid more and I am fairly sure I was already being paid in the specialist highest income bracket just at the Collegium. Which frankly given my knowledge makes sense but it does make me an expensive asset. I think we just say the Collegium continues to pay our regular wages on top of giving us equipment, organizational help and putting their own money in with the sponsorship. Regardless this will require retcons within the documentation. We also need to sort out all the conditions that matter that you listed in the itinerary document. We cannot progress the story with outstanding issues like that it would be careless. When there are things like this that need to be tended to in game just have an NPC remind me or put something into a scene as an integrated narrative reminder. If I had not read those conditions and continued the story I would have been annoyed if I faced issues with the Ice because Galahad would have obviously planned around season weather before departing.
+

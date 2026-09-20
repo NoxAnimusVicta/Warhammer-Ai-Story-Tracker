@@ -1,8 +1,16 @@
+# Revision 54 — funded and prepared expedition
+
+The expedition operating fund is 14,500 lorrats: 10,000 from the Chancery and 4,500 from the Collegium. The existing 510 in paid equipment and opening passage leaves 13,990 held, comprising 11,546 forecast remaining expenditure and 2,444 financial contingency. Ordinary wages are paid separately by the Collegium: Galahad 60 per pay month (720 annually), and five scholars at 35 each (2,100 annually), for total payroll of 2,820. Total cash provision is 17,320 including contingency; expected operating expense plus payroll is 14,876. Future wages are not prepaid or credited to personal cash. The Collegium also supplies inventoried loan instruments, home administration, correspondence, introductions and payment support from its existing institutional resources; these are in-kind support, not additional expedition cash or personal possessions.
+
+The full surface itinerary and ordinary travel arrangements were completed during the existing preparation interval: return target day355, hard deadline day365 from departure, 231 travel days, 124 full visiting days and ten reserve days. Departure is in northern autumn; the two northern sea stages fall within their established seasonal service windows. Ordinary entry/transit and declared scientific-instrument permissions, paid lodging arrangements, suitable passenger/cargo space and institutional payment access cover the route. Special military, private and restricted collection access is pursued separately and is not required for the expedition to function. See EXPEDITION-PREPARATION.md and EXPEDITION-BUDGET.md. No journey or additional expense is enacted by this correction.
+
+Earlier funding and pending-preparation statements are superseded by this explicit retcon. The 6,000/8,500 split proposed during discussion was not adopted; the controlling split is 10,000/4,500. Historical exact dialogue and snapshots remain unchanged. The scene remains the eve of departure, 55 local days after the census epoch. Personal cash remains 378, earmarks264, free114. No elapsed time, new personal earnings or estate receipts are added.
+
 # Revision 53 — coastlines and balanced expedition plan
 
 The mainland shorelines of Otranto, Morholt and Vesalius now include irregular embayments, headlands and smaller inlets. Original Eastern Marches coastal geometry, Ceralte and all other island shapes remain unchanged. Coastal claim edges follow the corrected land outline; inland boundaries, settlement positions, transport alignments, rivers, populations and capacities retain their previous values. This is a cartographic correction, not in-story inundation or territorial loss. Read COASTLINE-REFERENCE.md; earlier statements that all mainland coastlines remain unchanged refer to their historical revisions.
 
-The player confirmed a 365-day deadline counted from expedition departure and requested a ten-day contingency. The revised proposed surface itinerary returns on day355: 231 travel days, 124 full visiting days and ten reserve days. Fourteen destinations have six full days and eight have five. Travel-day ranges also show their inclusive duration. See expedition-route.md and expedition-route.html. Only the already-established opening passage is booked; funding, later permissions and seasonal northern passage remain unresolved. No travel, payments, age progression or story time is enacted.
+The player confirmed a 365-day deadline counted from expedition departure and requested a ten-day contingency. The revised proposed surface itinerary returns on day355: 231 travel days, 124 full visiting days and ten reserve days. Fourteen destinations have six full days and eight have five. Travel-day ranges also show their inclusive duration. See expedition-route.md and expedition-route.html. The funding and preparation qualifications originally attached to this route are superseded by revision54 and EXPEDITION-PREPARATION.md. No travel, payments, age progression or story time is enacted.
 
 # Revision 52 — island societies and dated prices
 
@@ -105,7 +113,7 @@ Revision39 removes redundant local map additions and provides real northern/sout
 
 ## Revision 50 checkpoint
 
-The current scene is the evening before expedition departure at the Auvrienne Collegium, twenty local days after approval (transcript443). Personal cash is 378, with 264 earmarked and 114 uncommitted; expedition cash is 5,490 after 510 paid, including 2,100 reserved for scholarly salaries and 3,390 for other expedition costs. Opening passage via Serravonne to Dalmor and Ceralte permissions are arranged; later foreign requests remain pending. Veskan continues recovering at the estate; Corva retains household authority. Read CURRENT-CONTINUITY.md and the latest exact exchanges.
+The current scene is the evening before expedition departure at the Auvrienne Collegium, twenty local days after approval (transcript443). Personal cash is 378, with 264 earmarked and 114 uncommitted; expedition cash is 13,990 after 510 paid, with regular wages separately funded. The completed preparation arrangements in EXPEDITION-PREPARATION.md supersede the former first-leg-only checkpoint. Veskan continues recovering at the estate; Corva retains household authority. Read CURRENT-CONTINUITY.md and the latest exact exchanges.
 
 Galahad is approximately two local years and three months old. Full bodily maturity is expected around age three, at 3 metres (about 9 ft 10 in); his last measured height remains 2.59 m. Preserve that distinction and do not force linear growth. Ceralte’s new ports Bellavara and Montelisse occupy existing islands and each has a sea passage to Dalmor. Their 46,000 residents are a subset of the established national census. This documentation adds no travel or story time.
 
@@ -125,3 +133,8 @@ Read ESTATE-REFERENCE.md and assets/estate-r48.jpg before narrating the estate. 
 ## Current and future portraits
 
 Read APPEARANCE-REFERENCE.md and assets/portrait-expedition-r50.jpg for Galahad's current expedition appearance. The earlier assets/portrait.png is his future national or military leadership appearance, to apply once he takes control of a nation or its military, not merely when he reaches adulthood. Preserve both images. The current age, last measured 2.59 m height, clothing inventory and eve-of-departure story checkpoint remain unchanged.
+
+
+## Integrated planning reminders
+
+Raise foreseeable preparation needs and approaching deadlines through relevant NPCs and integrated scenes before a decision is needed: Savel or the bursar for funds and reports, Tessier for papers and appointments, port agents for sailings and seasonal notices. Do not bury essential warnings only in reference documents, wait for the player to discover them, or punish omission of routine competent preparation. Routine administration within the approved plan is delegated; material choices, new risks and changes of scope remain the player’s. Established seasonal planning is not retroactively forgotten. Unexpected disruptions must have an actual cause and timely notice where realistically available.

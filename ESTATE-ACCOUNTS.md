@@ -1,6 +1,6 @@
 # House Orsival — estate accounts
 
-Revision 45 · Evening before expedition departure · Pricing baseline: transcript439; subsequent payments: transcript443
+Revision 54 · Evening before expedition departure · Pricing baseline: transcript439; subsequent payments: transcript443
 
 The established land account remains **20 ha tenanted arable + 12 meadow/pasture + 14 woodland + 6 orchard/market ground + 4 buildings/tracks/domestic ground = 56 ha**. Existing occupancies and tenancies remain protected.
 
@@ -63,7 +63,7 @@ Earmarks are still cash, not payments. The initial 90 repair allowance was 35 ho
 
 The **152** operating reserve covers approximately three accounting months of shared and household allowances: (368 + 240) / 12 = 50.67 per month. It does not cover an entire growing season. Corva will confirm due dates for rents, wages, invoices and harvest sales before committing seasonal expenditure. Existing inputs must be accounted for once, not assumed free or paid twice.
 
-The separate **6,000-lorrat expedition appropriation has paid 510**, leaving **5,490**. Paid bundles: 64 cases/paper/packing + 72 weather clothing + 90 sample supplies/reagents + 70 medical supplies + 130 measuring/hand tools + 84 first passage/baggage. Of the remaining cash, **2,100** is reserved for five scholars at 35 per accounting month for twelve months; **3,390** remains for other expedition costs. Reserved salaries are not already paid. Borrowed instruments are separately inventoried. Expedition money is **unavailable for private estate spending**. Corva's authority over house finances does not change that restriction.
+The expedition operating fund is 14,500 lorrats: 10,000 from the Chancery and 4,500 from the Collegium. The existing 510 in paid equipment and opening passage leaves 13,990 held, comprising 11,546 forecast remaining expenditure and 2,444 financial contingency. Ordinary wages are paid separately by the Collegium: Galahad 60 per pay month (720 annually), and five scholars at 35 each (2,100 annually), for total payroll of 2,820. Total cash provision is 17,320 including contingency; expected operating expense plus payroll is 14,876. Future wages are not prepaid or credited to personal cash. The Collegium also supplies inventoried loan instruments, home administration, correspondence, introductions and payment support from its existing institutional resources; these are in-kind support, not additional expedition cash or personal possessions. Paid bundles remain 64 cases/paper/packing + 72 weather clothing + 90 sample supplies/reagents + 70 medical supplies + 130 measuring/hand tools + 84 first passage/baggage. Expedition funds are unavailable for private estate spending; Corva’s household authority does not extend to them. Galahad’s ordinary pay continues to his existing bursar account as earned; no new remittance instruction or future salary credit is assumed.
 
 
 General wages and prices: [ECONOMIC-REFERENCE.md](ECONOMIC-REFERENCE.md). These accounts supersede the earlier provisional 620/144 forecast and 190/212 allocation. The exact transcript retains those historical passages; they are not the current budget.
