@@ -16,7 +16,7 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the Long Culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition — revision 54
+## Current edition — revision 55
 
 The current scene is the evening before expedition departure at the Auvrienne Collegium. The surface itinerary, seasonal passages and ordinary travel permissions are arranged; see [pre-departure arrangements](EXPEDITION-PREPARATION.md). Personal cash is 378 lorrats, with 264 earmarked and 114 uncommitted. The joint expedition fund holds 13,990 after 510 paid. Chancery sponsorship is 10,000 and Collegium operating support is 4,500; the Collegium separately continues all six salaries, totalling 2,820 annually. [Full budget](EXPEDITION-BUDGET.md). The estate’s 218-lorrat annual remainder remains a conditional forecast.
 
@@ -39,3 +39,5 @@ The dossier portrait now shows Galahad in his current expedition clothes. The ea
 [Founder origin](ORIGIN-REFERENCE.md) records the current New Men/Primarch chimera and selective neural design. Bile is its creator, not a biological donor. Historical archive wording is superseded by this reference.
 
 [Balanced expedition route](expedition-route.html) provides a day selector, mapped surface connections and five-to-six-day research stays, with return on day355 and ten days in reserve. [Printable schedule](expedition-route.md). [Coastline reference](COASTLINE-REFERENCE.md) records the refined mainland shores and preserved Eastern Marches survey.
+
+[Local calendar](CALENDAR-REFERENCE.md): 24h8m solar days in Earth-duration units, 365 local days per year. These appear beside population and charted islands. National profiles and comparisons now include annual spending by purpose, budget surpluses/deficits, liquid reserves, outstanding debt, interest and financing plans. The full [national register](NATIONAL-REGISTER.md) distinguishes current stocks from annual forecasts. No story time advances.

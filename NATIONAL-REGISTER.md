@@ -36,6 +36,18 @@ Ossavren and smaller-jurisdiction entries are geographic sums across separate au
 
 Return epoch matches the current census. Annual output trend describes ordinary net capacity change, not guaranteed growth. War, closures, purges, investment, losses and political changes require revised returns.
 
+## Fiscal
+
+Current-year budget forecasts and current treasury stocks are separate from the older census/capacity return. All fiscal figures use millions of current-baseline lorrat-equivalents; local currencies remain distinct. Public revenue is own-source tax, customs, fees and public-enterprise net receipts. Transfers are shown separately and matched to another return. Total spending includes defence, civilian programmes, interest and outward transfers; debt principal is financing, not expenditure. A positive budget balance is a surplus; a negative balance is a deficit. Liquid reserves are available treasury cash and near-cash, excluding private wealth, buildings, stores and borrowed credit limits. Gross debt is outstanding public principal; gross debt less liquid reserves is a limited net-debt measure, not a complete public balance sheet.
+
+## Fiscal_Scope
+
+Returns consolidate public authorities within each geographic group, excluding internal transfers and internal public claims. Divided regions retain separate treasuries: combined reserves cannot be spent by one ruler. Colony and parent transfers cancel in planetary totals. Gross public debt cannot be summed as a planetary net liability: domestic creditors and cross-border claims are not classified here. Sector allocations and balances are rounded staff estimates, not audited invoices; sovereign guarantees and private liabilities are excluded unless assumed by the treasury.
+
+## Fiscal_Updates
+
+Budget plans are not transactions already completed. On later story dates, record actual elapsed receipts, spending, borrowing, principal payments and changes in reserves once; never add an entire annual surplus or deficit automatically. Reforecast after policy, investment, war or disruption. Keep nominal values and the valuation baseline explicit. The present clarification changes no personal or expedition account.
+
 ## Veldrassen
 
 National return. Population: 161,900,000.
@@ -84,6 +96,58 @@ Table and hospitality. A composite crown includes humid lowlands, high terraces 
 | readiness (1–5) | 4 |
 | logistics (1–5) | 4 |
 | cohesion (1–5) | 3 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Railway renewal and arsenals require modest borrowing; provincial balances are not all available to the crown.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 8,329.800 |
+| transfer income | 0.000 |
+| total receipts | 8,329.800 |
+| total expenditure | 8,621.343 |
+| balance | -291.543 |
+| liquid reserves | 1,832.556 |
+| gross debt | 13,744.170 |
+| net debt | 11,911.614 |
+| interest | 618.488 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 4,363.200 |
+| Civil administration, courts, policing & diplomacy | 800.724 |
+| Transport, public works & utilities | 1,310.276 |
+| Health, relief & civilian pensions | 582.345 |
+| Education, science & archives | 436.759 |
+| Agriculture, water management & forestry | 509.551 |
+| Public-debt interest | 618.488 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 1,396.224 |
+| Provisions, fuel, transport & training | 1,090.800 |
+| Arsenal, equipment & base maintenance | 959.904 |
+| New equipment, ammunition & military research | 698.112 |
+| Fortifications, coastal works & shelters | 218.160 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 291.543 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 4.5%. Balance / output: -0.735%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Ostrevain
 
@@ -134,6 +198,58 @@ Table and hospitality. Cereal estates, cattle districts and newly industrial tow
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 4 |
 
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Arsenal commitments and grain transport exceed ordinary receipts; domestic bonds finance the gap.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 4,148.300 |
+| transfer income | 0.000 |
+| total receipts | 4,148.300 |
+| total expenditure | 4,417.940 |
+| balance | -269.640 |
+| liquid reserves | 497.796 |
+| gross debt | 7,881.770 |
+| net debt | 7,383.974 |
+| interest | 394.089 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 2,370.500 |
+| Civil administration, courts, policing & diplomacy | 379.696 |
+| Transport, public works & utilities | 396.204 |
+| Health, relief & civilian pensions | 280.645 |
+| Education, science & archives | 165.085 |
+| Agriculture, water management & forestry | 429.221 |
+| Public-debt interest | 394.089 |
+| Transfers to other public returns | 2.500 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 948.200 |
+| Provisions, fuel, transport & training | 592.625 |
+| Arsenal, equipment & base maintenance | 402.985 |
+| New equipment, ammunition & military research | 284.460 |
+| Fortifications, coastal works & shelters | 142.230 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 269.640 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 5.0%. Balance / output: -1.365%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+
 ## Rovessara
 
 National return. Population: 70,600,000.
@@ -182,6 +298,58 @@ Table and hospitality. Maritime commerce joins a mild western coast to upland ch
 | readiness (1–5) | 4 |
 | logistics (1–5) | 5 |
 | cohesion (1–5) | 4 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Commercial receipts support a small surplus, liquid buffers and gradual debt retirement.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 4,003.000 |
+| transfer income | 0.000 |
+| total receipts | 4,003.000 |
+| total expenditure | 3,922.940 |
+| balance | 80.060 |
+| liquid reserves | 1,521.140 |
+| gross debt | 4,603.450 |
+| net debt | 3,082.310 |
+| interest | 184.138 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 2,001.500 |
+| Civil administration, courts, policing & diplomacy | 381.876 |
+| Transport, public works & utilities | 416.592 |
+| Health, relief & civilian pensions | 329.802 |
+| Education, science & archives | 399.234 |
+| Agriculture, water management & forestry | 208.298 |
+| Public-debt interest | 184.138 |
+| Transfers to other public returns | 1.500 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 640.480 |
+| Provisions, fuel, transport & training | 500.375 |
+| Arsenal, equipment & base maintenance | 440.330 |
+| New equipment, ammunition & military research | 320.240 |
+| Fortifications, coastal works & shelters | 100.075 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 0.000 |
+| net principal repayment | 48.036 |
+| reserve increase | 32.024 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 4.0%. Balance / output: 0.36%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Brannervaux
 
@@ -232,6 +400,58 @@ Table and hospitality. Unequal river cities share barges, mill customs and perio
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
 
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Lock and irrigation renewal produces a small capital deficit rather than a collapse in ordinary receipts.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 1,621.100 |
+| transfer income | 0.000 |
+| total receipts | 1,621.100 |
+| total expenditure | 1,645.416 |
+| balance | -24.316 |
+| liquid reserves | 389.064 |
+| gross debt | 1,377.935 |
+| net debt | 988.871 |
+| interest | 62.007 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 720.500 |
+| Civil administration, courts, policing & diplomacy | 198.469 |
+| Transport, public works & utilities | 207.098 |
+| Health, relief & civilian pensions | 146.695 |
+| Education, science & archives | 86.291 |
+| Agriculture, water management & forestry | 224.356 |
+| Public-debt interest | 62.007 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 288.200 |
+| Provisions, fuel, transport & training | 180.125 |
+| Arsenal, equipment & base maintenance | 122.485 |
+| New equipment, ammunition & military research | 86.460 |
+| Fortifications, coastal works & shelters | 43.230 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 24.316 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 4.5%. Balance / output: -0.27%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+
 ## Cervaud
 
 National return. Population: 31,500,000.
@@ -280,6 +500,58 @@ Table and hospitality. Border garrisons borrow cooking from both larger patrons,
 | readiness (1–5) | 4 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Frontier obligations and patron-backed credit leave limited cash headroom.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 1,181.200 |
+| transfer income | 0.000 |
+| total receipts | 1,181.200 |
+| total expenditure | 1,275.696 |
+| balance | -94.496 |
+| liquid reserves | 118.120 |
+| gross debt | 2,008.040 |
+| net debt | 1,889.920 |
+| interest | 120.482 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 661.500 |
+| Civil administration, courts, policing & diplomacy | 172.800 |
+| Transport, public works & utilities | 108.617 |
+| Health, relief & civilian pensions | 88.869 |
+| Education, science & archives | 49.371 |
+| Agriculture, water management & forestry | 74.057 |
+| Public-debt interest | 120.482 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 264.600 |
+| Provisions, fuel, transport & training | 165.375 |
+| Arsenal, equipment & base maintenance | 112.455 |
+| New equipment, ammunition & military research | 79.380 |
+| Fortifications, coastal works & shelters | 39.690 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 94.496 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 6.0%. Balance / output: -2.0%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Veylac
 
@@ -330,6 +602,58 @@ Table and hospitality. Industrial towns link cooler uplands to river farms. Work
 | logistics (1–5) | 4 |
 | cohesion (1–5) | 4 |
 
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Factory infrastructure and frontier protection require continuing borrowing.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 1,663.900 |
+| transfer income | 0.000 |
+| total receipts | 1,663.900 |
+| total expenditure | 1,730.456 |
+| balance | -66.556 |
+| liquid reserves | 332.780 |
+| gross debt | 2,329.460 |
+| net debt | 1,996.680 |
+| interest | 116.473 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 871.600 |
+| Civil administration, courts, policing & diplomacy | 163.324 |
+| Transport, public works & utilities | 267.258 |
+| Health, relief & civilian pensions | 118.781 |
+| Education, science & archives | 89.086 |
+| Agriculture, water management & forestry | 103.934 |
+| Public-debt interest | 116.473 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 348.640 |
+| Provisions, fuel, transport & training | 217.900 |
+| Arsenal, equipment & base maintenance | 148.172 |
+| New equipment, ammunition & military research | 104.592 |
+| Fortifications, coastal works & shelters | 52.296 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 66.556 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 5.0%. Balance / output: -0.84%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+
 ## Ossavren successor territories
 
 Combined geographic return; separate authorities. Population: 167,300,000.
@@ -378,6 +702,58 @@ Table and hospitality. Former royal roads carried recipes across a realm now div
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Successor administrations have uneven access to credit; the combined deficit masks local surpluses and shortfalls.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 5,646.400 |
+| transfer income | 0.000 |
+| total receipts | 5,646.400 |
+| total expenditure | 6,267.504 |
+| balance | -621.104 |
+| liquid reserves | 451.712 |
+| gross debt | 7,340.320 |
+| net debt | 6,888.608 |
+| interest | 513.822 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 2,936.100 |
+| Civil administration, courts, policing & diplomacy | 986.154 |
+| Transport, public works & utilities | 619.868 |
+| Health, relief & civilian pensions | 507.165 |
+| Education, science & archives | 281.758 |
+| Agriculture, water management & forestry | 422.637 |
+| Public-debt interest | 513.822 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 1,174.440 |
+| Provisions, fuel, transport & training | 734.025 |
+| Arsenal, equipment & base maintenance | 499.137 |
+| New equipment, ammunition & military research | 352.332 |
+| Fortifications, coastal works & shelters | 176.166 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 621.104 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 7.0%. Balance / output: -2.75%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Rovengard
 
@@ -428,6 +804,58 @@ Table and hospitality. Sheltered southern valleys support oats, rye, roots and d
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 3 |
 
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Winter stores and valley access dominate civilian investment; reserves remain dispersed.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 922.900 |
+| transfer income | 0.000 |
+| total receipts | 922.900 |
+| total expenditure | 941.358 |
+| balance | -18.458 |
+| liquid reserves | 249.183 |
+| gross debt | 599.885 |
+| net debt | 350.702 |
+| interest | 29.994 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 439.500 |
+| Civil administration, courts, policing & diplomacy | 103.150 |
+| Transport, public works & utilities | 168.791 |
+| Health, relief & civilian pensions | 75.018 |
+| Education, science & archives | 56.264 |
+| Agriculture, water management & forestry | 65.641 |
+| Public-debt interest | 29.994 |
+| Transfers to other public returns | 3.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 175.800 |
+| Provisions, fuel, transport & training | 109.875 |
+| Arsenal, equipment & base maintenance | 74.715 |
+| New equipment, ammunition & military research | 52.740 |
+| Fortifications, coastal works & shelters | 26.370 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 18.458 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 5.0%. Balance / output: -0.42%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+
 ## Varnesk
 
 National return. Population: 19,700,000.
@@ -476,6 +904,58 @@ Table and hospitality. Mining leagues inherit northern preservation techniques b
 | readiness (1–5) | 4 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Specialist exports support a modest surplus while seasonal import buffers remain necessary.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 972.200 |
+| transfer income | 0.000 |
+| total receipts | 972.200 |
+| total expenditure | 957.617 |
+| balance | 14.583 |
+| liquid reserves | 311.104 |
+| gross debt | 874.980 |
+| net debt | 563.876 |
+| interest | 39.374 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 509.200 |
+| Civil administration, courts, policing & diplomacy | 89.989 |
+| Transport, public works & utilities | 147.255 |
+| Health, relief & civilian pensions | 65.447 |
+| Education, science & archives | 49.085 |
+| Agriculture, water management & forestry | 57.267 |
+| Public-debt interest | 39.374 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 203.680 |
+| Provisions, fuel, transport & training | 127.300 |
+| Arsenal, equipment & base maintenance | 86.564 |
+| New equipment, ammunition & military research | 61.104 |
+| Fortifications, coastal works & shelters | 30.552 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 0.000 |
+| net principal repayment | 8.750 |
+| reserve increase | 5.833 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 4.5%. Balance / output: 0.315%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Galdresk
 
@@ -526,6 +1006,58 @@ Table and hospitality. Order houses preserve remedies and practical cookery alon
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 3 |
 
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Medical and teaching institutions receive a larger civilian share, with a small borrowing requirement.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 376.300 |
+| transfer income | 0.000 |
+| total receipts | 376.300 |
+| total expenditure | 380.063 |
+| balance | -3.763 |
+| liquid reserves | 94.075 |
+| gross debt | 169.335 |
+| net debt | 75.260 |
+| interest | 7.620 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 179.200 |
+| Civil administration, courts, policing & diplomacy | 42.513 |
+| Transport, public works & utilities | 46.378 |
+| Health, relief & civilian pensions | 36.716 |
+| Education, science & archives | 44.446 |
+| Agriculture, water management & forestry | 23.190 |
+| Public-debt interest | 7.620 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 71.680 |
+| Provisions, fuel, transport & training | 44.800 |
+| Arsenal, equipment & base maintenance | 30.464 |
+| New equipment, ammunition & military research | 21.504 |
+| Fortifications, coastal works & shelters | 10.752 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 3.763 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 4.5%. Balance / output: -0.21%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+
 ## Halskert
 
 National return. Population: 18,700,000.
@@ -574,6 +1106,58 @@ Table and hospitality. Seasonal river traffic sustains mills, fisheries and gard
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 4 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+River tolls support reserve replenishment and measured debt reduction.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 555.400 |
+| transfer income | 0.000 |
+| total receipts | 555.400 |
+| total expenditure | 541.515 |
+| balance | 13.885 |
+| liquid reserves | 166.620 |
+| gross debt | 305.470 |
+| net debt | 138.850 |
+| interest | 13.746 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 246.800 |
+| Civil administration, courts, policing & diplomacy | 64.623 |
+| Transport, public works & utilities | 67.433 |
+| Health, relief & civilian pensions | 47.765 |
+| Education, science & archives | 28.097 |
+| Agriculture, water management & forestry | 73.051 |
+| Public-debt interest | 13.746 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 98.720 |
+| Provisions, fuel, transport & training | 61.700 |
+| Arsenal, equipment & base maintenance | 41.956 |
+| New equipment, ammunition & military research | 29.616 |
+| Fortifications, coastal works & shelters | 14.808 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 0.000 |
+| net principal repayment | 8.331 |
+| reserve increase | 5.554 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 4.5%. Balance / output: 0.45%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Tervayne
 
@@ -624,6 +1208,58 @@ Table and hospitality. Western ports face a different trading sea from Veyrasse 
 | logistics (1–5) | 4 |
 | cohesion (1–5) | 4 |
 
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Harbour renewal and naval support exceed ordinary receipts despite strong maritime earnings.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 2,052.500 |
+| transfer income | 0.000 |
+| total receipts | 2,052.500 |
+| total expenditure | 2,144.862 |
+| balance | -92.362 |
+| liquid reserves | 410.500 |
+| gross debt | 3,181.375 |
+| net debt | 2,770.875 |
+| interest | 143.162 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 977.400 |
+| Civil administration, courts, policing & diplomacy | 225.346 |
+| Transport, public works & utilities | 368.748 |
+| Health, relief & civilian pensions | 163.888 |
+| Education, science & archives | 122.916 |
+| Agriculture, water management & forestry | 143.402 |
+| Public-debt interest | 143.162 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 312.768 |
+| Provisions, fuel, transport & training | 244.350 |
+| Arsenal, equipment & base maintenance | 215.028 |
+| New equipment, ammunition & military research | 156.384 |
+| Fortifications, coastal works & shelters | 48.870 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 92.362 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 4.5%. Balance / output: -0.945%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+
 ## Vardol
 
 National return. Population: 64,000,000.
@@ -672,6 +1308,58 @@ Table and hospitality. Refinery and arsenal towns share a strong canteen traditi
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 4 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Arsenals and fixed frontier commitments sustain a planned deficit.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 2,486.400 |
+| transfer income | 0.000 |
+| total receipts | 2,486.400 |
+| total expenditure | 2,660.448 |
+| balance | -174.048 |
+| liquid reserves | 372.960 |
+| gross debt | 4,475.520 |
+| net debt | 4,102.560 |
+| interest | 246.154 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 1,420.800 |
+| Civil administration, courts, policing & diplomacy | 218.569 |
+| Transport, public works & utilities | 357.658 |
+| Health, relief & civilian pensions | 158.959 |
+| Education, science & archives | 119.219 |
+| Agriculture, water management & forestry | 139.089 |
+| Public-debt interest | 246.154 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 568.320 |
+| Provisions, fuel, transport & training | 355.200 |
+| Arsenal, equipment & base maintenance | 241.536 |
+| New equipment, ammunition & military research | 170.496 |
+| Fortifications, coastal works & shelters | 85.248 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 174.048 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 5.5%. Balance / output: -1.47%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Averholt
 
@@ -722,6 +1410,58 @@ Table and hospitality. Provincial land bargains preserve different kitchens insi
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
 
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Provincial roads and grain handling require a modest borrowing programme.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 1,848.400 |
+| transfer income | 0.000 |
+| total receipts | 1,848.400 |
+| total expenditure | 1,894.610 |
+| balance | -46.210 |
+| liquid reserves | 462.100 |
+| gross debt | 2,033.240 |
+| net debt | 1,571.140 |
+| interest | 101.662 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 880.200 |
+| Civil administration, courts, policing & diplomacy | 209.932 |
+| Transport, public works & utilities | 219.060 |
+| Health, relief & civilian pensions | 155.167 |
+| Education, science & archives | 91.275 |
+| Agriculture, water management & forestry | 237.314 |
+| Public-debt interest | 101.662 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 352.080 |
+| Provisions, fuel, transport & training | 220.050 |
+| Arsenal, equipment & base maintenance | 149.634 |
+| New equipment, ammunition & military research | 105.624 |
+| Fortifications, coastal works & shelters | 52.812 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 46.210 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 5.0%. Balance / output: -0.525%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+
 ## Serevask Republic
 
 National return. Population: 13,000,000.
@@ -770,6 +1510,58 @@ Table and hospitality. The old Serevask customs federation joined four southern 
 | readiness (1–5) | 3 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 2 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+The reduced republic carries its own inherited obligations; former federation partners are not a shared tax base.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 436.800 |
+| transfer income | 0.000 |
+| total receipts | 436.800 |
+| total expenditure | 476.112 |
+| balance | -39.312 |
+| liquid reserves | 43.680 |
+| gross debt | 698.880 |
+| net debt | 655.200 |
+| interest | 41.933 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 249.600 |
+| Civil administration, courts, policing & diplomacy | 64.603 |
+| Transport, public works & utilities | 40.607 |
+| Health, relief & civilian pensions | 33.224 |
+| Education, science & archives | 18.458 |
+| Agriculture, water management & forestry | 27.687 |
+| Public-debt interest | 41.933 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 99.840 |
+| Provisions, fuel, transport & training | 62.400 |
+| Arsenal, equipment & base maintenance | 42.432 |
+| New equipment, ammunition & military research | 29.952 |
+| Fortifications, coastal works & shelters | 14.976 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 39.312 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 6.0%. Balance / output: -1.89%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Varnelle
 
@@ -820,6 +1612,58 @@ Table and hospitality. Delta rice, fisheries and freight markets furnished the f
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
 
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Customs income broadly covers current plans and permits a small surplus.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 829.900 |
+| transfer income | 0.000 |
+| total receipts | 829.900 |
+| total expenditure | 821.601 |
+| balance | 8.299 |
+| liquid reserves | 232.372 |
+| gross debt | 622.425 |
+| net debt | 390.053 |
+| interest | 28.009 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 395.200 |
+| Civil administration, courts, policing & diplomacy | 87.646 |
+| Transport, public works & utilities | 143.421 |
+| Health, relief & civilian pensions | 63.743 |
+| Education, science & archives | 47.807 |
+| Agriculture, water management & forestry | 55.775 |
+| Public-debt interest | 28.009 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 158.080 |
+| Provisions, fuel, transport & training | 98.800 |
+| Arsenal, equipment & base maintenance | 67.184 |
+| New equipment, ammunition & military research | 47.424 |
+| Fortifications, coastal works & shelters | 23.712 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 0.000 |
+| net principal repayment | 4.979 |
+| reserve increase | 3.320 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 4.5%. Balance / output: 0.21%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+
 ## Kelbrun
 
 National return. Population: 17,600,000.
@@ -868,6 +1712,58 @@ Table and hospitality. Upriver gardens and plantation labour communities mix bas
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 2 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+River works and imported agricultural equipment are financed partly on credit.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 443.500 |
+| transfer income | 0.000 |
+| total receipts | 443.500 |
+| total expenditure | 456.805 |
+| balance | -13.305 |
+| liquid reserves | 79.830 |
+| gross debt | 354.800 |
+| net debt | 274.970 |
+| interest | 19.514 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 211.200 |
+| Civil administration, courts, policing & diplomacy | 52.001 |
+| Transport, public works & utilities | 54.262 |
+| Health, relief & civilian pensions | 38.435 |
+| Education, science & archives | 22.609 |
+| Agriculture, water management & forestry | 58.784 |
+| Public-debt interest | 19.514 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 84.480 |
+| Provisions, fuel, transport & training | 52.800 |
+| Arsenal, equipment & base maintenance | 35.904 |
+| New equipment, ammunition & military research | 25.344 |
+| Fortifications, coastal works & shelters | 12.672 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 13.305 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 5.5%. Balance / output: -0.63%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Gavrel
 
@@ -918,6 +1814,58 @@ Table and hospitality. March-house kitchens descend from basin customs but favou
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 2 |
 
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Frontier provisioning strains the limited receipts of rural estates.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 210.000 |
+| transfer income | 0.000 |
+| total receipts | 210.000 |
+| total expenditure | 221.550 |
+| balance | -11.550 |
+| liquid reserves | 25.200 |
+| gross debt | 199.500 |
+| net debt | 174.300 |
+| interest | 11.970 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 109.200 |
+| Civil administration, courts, policing & diplomacy | 35.133 |
+| Transport, public works & utilities | 22.084 |
+| Health, relief & civilian pensions | 18.068 |
+| Education, science & archives | 10.038 |
+| Agriculture, water management & forestry | 15.057 |
+| Public-debt interest | 11.970 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 43.680 |
+| Provisions, fuel, transport & training | 27.300 |
+| Arsenal, equipment & base maintenance | 18.564 |
+| New equipment, ammunition & military research | 13.104 |
+| Fortifications, coastal works & shelters | 6.552 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 11.550 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 6.0%. Balance / output: -1.375%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+
 ## Bellacosta Cantons
 
 Combined geographic return; separate authorities. Population: 32,400,000.
@@ -966,6 +1914,58 @@ Table and hospitality. Rice cooked in coconut milk accompanies peppered fish nea
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Harbour and plantation districts carry different debts; no canton can spend the combined balance.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 758.200 |
+| transfer income | 0.000 |
+| total receipts | 758.200 |
+| total expenditure | 769.573 |
+| balance | -11.373 |
+| liquid reserves | 151.640 |
+| gross debt | 606.560 |
+| net debt | 454.920 |
+| interest | 33.361 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 379.100 |
+| Civil administration, courts, policing & diplomacy | 82.136 |
+| Transport, public works & utilities | 85.707 |
+| Health, relief & civilian pensions | 60.709 |
+| Education, science & archives | 35.711 |
+| Agriculture, water management & forestry | 92.849 |
+| Public-debt interest | 33.361 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 151.640 |
+| Provisions, fuel, transport & training | 94.775 |
+| Arsenal, equipment & base maintenance | 64.447 |
+| New equipment, ammunition & military research | 45.492 |
+| Fortifications, coastal works & shelters | 22.746 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 11.373 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 5.5%. Balance / output: -0.27%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Cavressa Principalities
 
@@ -1016,6 +2016,58 @@ Table and hospitality. Barley noodles with browned cabbage are everyday food in 
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
 
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Court obligations and winter supply produce uneven local deficits.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 549.400 |
+| transfer income | 0.000 |
+| total receipts | 549.400 |
+| total expenditure | 571.376 |
+| balance | -21.976 |
+| liquid reserves | 87.904 |
+| gross debt | 549.400 |
+| net debt | 461.496 |
+| interest | 32.964 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 274.700 |
+| Civil administration, courts, policing & diplomacy | 92.299 |
+| Transport, public works & utilities | 58.017 |
+| Health, relief & civilian pensions | 47.468 |
+| Education, science & archives | 26.371 |
+| Agriculture, water management & forestry | 39.557 |
+| Public-debt interest | 32.964 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 109.880 |
+| Provisions, fuel, transport & training | 68.675 |
+| Arsenal, equipment & base maintenance | 46.699 |
+| New equipment, ammunition & military research | 32.964 |
+| Fortifications, coastal works & shelters | 16.482 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 21.976 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 6.0%. Balance / output: -0.72%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+
 ## Vaulcerre Basin Leagues
 
 Combined geographic return; separate authorities. Population: 29,600,000.
@@ -1064,6 +2116,58 @@ Table and hospitality. Millet porridge with greens and groundnut sauce feeds fie
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Water authorities borrow for gates and channels against their own toll streams.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 719.300 |
+| transfer income | 0.000 |
+| total receipts | 719.300 |
+| total expenditure | 733.686 |
+| balance | -14.386 |
+| liquid reserves | 158.246 |
+| gross debt | 647.370 |
+| net debt | 489.124 |
+| interest | 32.368 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 359.600 |
+| Civil administration, courts, policing & diplomacy | 78.595 |
+| Transport, public works & utilities | 82.012 |
+| Health, relief & civilian pensions | 58.092 |
+| Education, science & archives | 34.172 |
+| Agriculture, water management & forestry | 88.847 |
+| Public-debt interest | 32.368 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 143.840 |
+| Provisions, fuel, transport & training | 89.900 |
+| Arsenal, equipment & base maintenance | 61.132 |
+| New equipment, ammunition & military research | 43.152 |
+| Fortifications, coastal works & shelters | 21.576 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 14.386 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 5.0%. Balance / output: -0.36%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Seravelle Littoral
 
@@ -1114,6 +2218,58 @@ Table and hospitality. Astrellac cooks fish in tomato and fennel broth and lays 
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
 
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Commercial districts accumulate a modest combined surplus while carrying infrastructure bonds.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 1,176.100 |
+| transfer income | 0.000 |
+| total receipts | 1,176.100 |
+| total expenditure | 1,158.458 |
+| balance | 17.642 |
+| liquid reserves | 399.874 |
+| gross debt | 1,411.320 |
+| net debt | 1,011.446 |
+| interest | 63.509 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 588.100 |
+| Civil administration, courts, policing & diplomacy | 111.507 |
+| Transport, public works & utilities | 182.466 |
+| Health, relief & civilian pensions | 81.096 |
+| Education, science & archives | 60.822 |
+| Agriculture, water management & forestry | 70.958 |
+| Public-debt interest | 63.509 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 235.240 |
+| Provisions, fuel, transport & training | 147.025 |
+| Arsenal, equipment & base maintenance | 99.977 |
+| New equipment, ammunition & military research | 70.572 |
+| Fortifications, coastal works & shelters | 35.286 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 0.000 |
+| net principal repayment | 10.585 |
+| reserve increase | 7.057 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 4.5%. Balance / output: 0.27%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+
 ## Haldrevik Concessions
 
 Combined geographic return; separate authorities. Population: 8,700,000.
@@ -1162,6 +2318,58 @@ Table and hospitality. Workers eat oat flatbread, pea soup and smoked fish at co
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Public concession receipts fund contract access; private company debts are excluded.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 203.600 |
+| transfer income | 0.000 |
+| total receipts | 203.600 |
+| total expenditure | 210.726 |
+| balance | -7.126 |
+| liquid reserves | 32.576 |
+| gross debt | 142.520 |
+| net debt | 109.944 |
+| interest | 8.551 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 101.800 |
+| Civil administration, courts, policing & diplomacy | 22.082 |
+| Transport, public works & utilities | 36.135 |
+| Health, relief & civilian pensions | 16.060 |
+| Education, science & archives | 12.045 |
+| Agriculture, water management & forestry | 14.053 |
+| Public-debt interest | 8.551 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 40.720 |
+| Provisions, fuel, transport & training | 25.450 |
+| Arsenal, equipment & base maintenance | 17.306 |
+| New equipment, ammunition & military research | 12.216 |
+| Fortifications, coastal works & shelters | 6.108 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 7.126 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 6.0%. Balance / output: -0.63%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Dreissen Wardholds
 
@@ -1212,6 +2420,58 @@ Table and hospitality. Rye-and-oat bread, dried fish and sour cabbage dominate f
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
 
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Winter depots and fortified approaches require borrowing by individual wardholds.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 330.100 |
+| transfer income | 0.000 |
+| total receipts | 330.100 |
+| total expenditure | 348.255 |
+| balance | -18.155 |
+| liquid reserves | 75.923 |
+| gross debt | 198.060 |
+| net debt | 122.137 |
+| interest | 11.884 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 165.100 |
+| Civil administration, courts, policing & diplomacy | 37.680 |
+| Transport, public works & utilities | 61.658 |
+| Health, relief & civilian pensions | 27.403 |
+| Education, science & archives | 20.553 |
+| Agriculture, water management & forestry | 23.977 |
+| Public-debt interest | 11.884 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 66.040 |
+| Provisions, fuel, transport & training | 41.275 |
+| Arsenal, equipment & base maintenance | 28.067 |
+| New equipment, ammunition & military research | 19.812 |
+| Fortifications, coastal works & shelters | 9.906 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 18.155 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 6.0%. Balance / output: -0.99%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+
 ## Varneselle Estates
 
 Combined geographic return; separate authorities. Population: 11,100,000.
@@ -1260,6 +2520,58 @@ Table and hospitality. Fish baked under a rye crust is shared along the shore; i
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Seasonal supply and port upkeep leave a small combined funding gap.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 259.700 |
+| transfer income | 0.000 |
+| total receipts | 259.700 |
+| total expenditure | 266.192 |
+| balance | -6.492 |
+| liquid reserves | 51.940 |
+| gross debt | 129.850 |
+| net debt | 77.910 |
+| interest | 7.142 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 129.900 |
+| Civil administration, courts, policing & diplomacy | 29.705 |
+| Transport, public works & utilities | 30.996 |
+| Health, relief & civilian pensions | 21.956 |
+| Education, science & archives | 12.915 |
+| Agriculture, water management & forestry | 33.578 |
+| Public-debt interest | 7.142 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 51.960 |
+| Provisions, fuel, transport & training | 32.475 |
+| Arsenal, equipment & base maintenance | 22.083 |
+| New equipment, ammunition & military research | 15.588 |
+| Fortifications, coastal works & shelters | 7.794 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 6.492 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 5.5%. Balance / output: -0.45%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Bressavelle Marches
 
@@ -1310,6 +2622,58 @@ Table and hospitality. Households bake bean-and-onion pies and stretch broth wit
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
 
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Separate toll authorities borrow against their own future receipts; their treasuries are not pooled.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 803.500 |
+| transfer income | 0.000 |
+| total receipts | 803.500 |
+| total expenditure | 855.727 |
+| balance | -52.227 |
+| liquid reserves | 112.490 |
+| gross debt | 883.850 |
+| net debt | 771.360 |
+| interest | 57.450 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 401.800 |
+| Civil administration, courts, policing & diplomacy | 138.767 |
+| Transport, public works & utilities | 87.225 |
+| Health, relief & civilian pensions | 71.366 |
+| Education, science & archives | 39.648 |
+| Agriculture, water management & forestry | 59.471 |
+| Public-debt interest | 57.450 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 160.720 |
+| Provisions, fuel, transport & training | 100.450 |
+| Arsenal, equipment & base maintenance | 68.306 |
+| New equipment, ammunition & military research | 48.216 |
+| Fortifications, coastal works & shelters | 24.108 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 52.227 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 6.5%. Balance / output: -1.17%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+
 ## Vallessia Cantons
 
 Combined geographic return; separate authorities. Population: 20,200,000.
@@ -1358,6 +2722,58 @@ Table and hospitality. Rice-and-bean dishes with sharp green relish are common i
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Storage and transport spending is negotiated separately by canton.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 581.800 |
+| transfer income | 0.000 |
+| total receipts | 581.800 |
+| total expenditure | 605.072 |
+| balance | -23.272 |
+| liquid reserves | 104.724 |
+| gross debt | 494.530 |
+| net debt | 389.806 |
+| interest | 29.672 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 290.900 |
+| Civil administration, courts, policing & diplomacy | 65.435 |
+| Transport, public works & utilities | 68.280 |
+| Health, relief & civilian pensions | 48.365 |
+| Education, science & archives | 28.450 |
+| Agriculture, water management & forestry | 73.970 |
+| Public-debt interest | 29.672 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 116.360 |
+| Provisions, fuel, transport & training | 72.725 |
+| Arsenal, equipment & base maintenance | 49.453 |
+| New equipment, ammunition & military research | 34.908 |
+| Fortifications, coastal works & shelters | 17.454 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 23.272 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 6.0%. Balance / output: -0.72%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Rivessac Coast
 
@@ -1408,6 +2824,58 @@ Table and hospitality. Coastal kitchens combine fish, white beans, garlic and lo
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
 
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Port communes retain a small combined surplus for local harbour and supply buffers.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 466.600 |
+| transfer income | 0.000 |
+| total receipts | 466.600 |
+| total expenditure | 461.934 |
+| balance | 4.666 |
+| liquid reserves | 125.982 |
+| gross debt | 233.300 |
+| net debt | 107.318 |
+| interest | 11.665 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 233.300 |
+| Civil administration, courts, policing & diplomacy | 47.733 |
+| Transport, public works & utilities | 78.109 |
+| Health, relief & civilian pensions | 34.715 |
+| Education, science & archives | 26.036 |
+| Agriculture, water management & forestry | 30.376 |
+| Public-debt interest | 11.665 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 93.320 |
+| Provisions, fuel, transport & training | 58.325 |
+| Arsenal, equipment & base maintenance | 39.661 |
+| New equipment, ammunition & military research | 27.996 |
+| Fortifications, coastal works & shelters | 13.998 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 0.000 |
+| net principal repayment | 2.800 |
+| reserve increase | 1.866 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 5.0%. Balance / output: 0.18%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+
 ## Karsenne Compact
 
 National return. Population: 8,000,000.
@@ -1456,6 +2924,58 @@ Table and hospitality. Pass commerce carried dairy and grain dishes between othe
 | readiness (1–5) | 4 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 3 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Existing pass works and mine approaches absorb investment; the proposed Calvernis railway is not funded construction.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 386.400 |
+| transfer income | 0.000 |
+| total receipts | 386.400 |
+| total expenditure | 409.584 |
+| balance | -23.184 |
+| liquid reserves | 69.552 |
+| gross debt | 483.000 |
+| net debt | 413.448 |
+| interest | 26.565 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 220.800 |
+| Civil administration, courts, policing & diplomacy | 35.688 |
+| Transport, public works & utilities | 58.399 |
+| Health, relief & civilian pensions | 25.955 |
+| Education, science & archives | 19.466 |
+| Agriculture, water management & forestry | 22.711 |
+| Public-debt interest | 26.565 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 88.320 |
+| Provisions, fuel, transport & training | 55.200 |
+| Arsenal, equipment & base maintenance | 37.536 |
+| New equipment, ammunition & military research | 26.496 |
+| Fortifications, coastal works & shelters | 13.248 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 23.184 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 5.5%. Balance / output: -1.26%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Duchy of Caldrienne
 
@@ -1506,6 +3026,58 @@ Table and hospitality. Agricultural estates feed the northern arsenals; ducal ki
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 4 |
 
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Armament production and the armed truce require a continuing bond programme.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 1,195.000 |
+| transfer income | 0.000 |
+| total receipts | 1,195.000 |
+| total expenditure | 1,272.675 |
+| balance | -77.675 |
+| liquid reserves | 191.200 |
+| gross debt | 1,912.000 |
+| net debt | 1,720.800 |
+| interest | 95.600 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 621.400 |
+| Civil administration, courts, policing & diplomacy | 122.248 |
+| Transport, public works & utilities | 200.043 |
+| Health, relief & civilian pensions | 88.908 |
+| Education, science & archives | 66.681 |
+| Agriculture, water management & forestry | 77.795 |
+| Public-debt interest | 95.600 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 248.560 |
+| Provisions, fuel, transport & training | 155.350 |
+| Arsenal, equipment & base maintenance | 105.638 |
+| New equipment, ammunition & military research | 74.568 |
+| Fortifications, coastal works & shelters | 37.284 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 77.675 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 5.0%. Balance / output: -1.625%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+
 ## March of Veyrasse
 
 National return. Population: 15,700,000.
@@ -1554,6 +3126,58 @@ Table and hospitality. Old coastal markets and the railway labour settlements ex
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Existing rail and municipal waterworks produce a manageable planned deficit; unbuilt national wonders have no appropriation.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 675.900 |
+| transfer income | 0.000 |
+| total receipts | 675.900 |
+| total expenditure | 692.797 |
+| balance | -16.897 |
+| liquid reserves | 168.975 |
+| gross debt | 811.080 |
+| net debt | 642.105 |
+| interest | 36.499 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 354.000 |
+| Civil administration, courts, policing & diplomacy | 66.506 |
+| Transport, public works & utilities | 108.827 |
+| Health, relief & civilian pensions | 48.368 |
+| Education, science & archives | 36.276 |
+| Agriculture, water management & forestry | 42.321 |
+| Public-debt interest | 36.499 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 141.600 |
+| Provisions, fuel, transport & training | 88.500 |
+| Arsenal, equipment & base maintenance | 60.180 |
+| New equipment, ammunition & military research | 42.480 |
+| Fortifications, coastal works & shelters | 21.240 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 16.897 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 4.5%. Balance / output: -0.525%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Calvernis Republic
 
@@ -1604,6 +3228,58 @@ Table and hospitality. The banking ports absorbed recipes from their merchant cr
 | logistics (1–5) | 4 |
 | cohesion (1–5) | 3 |
 
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Shipping and banking receipts sustain a surplus despite substantial public infrastructure debt.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 1,083.300 |
+| transfer income | 0.000 |
+| total receipts | 1,083.300 |
+| total expenditure | 1,056.217 |
+| balance | 27.083 |
+| liquid reserves | 454.986 |
+| gross debt | 1,516.620 |
+| net debt | 1,061.634 |
+| interest | 60.665 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 515.900 |
+| Civil administration, courts, policing & diplomacy | 105.523 |
+| Transport, public works & utilities | 172.675 |
+| Health, relief & civilian pensions | 76.744 |
+| Education, science & archives | 57.558 |
+| Agriculture, water management & forestry | 67.152 |
+| Public-debt interest | 60.665 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 165.088 |
+| Provisions, fuel, transport & training | 128.975 |
+| Arsenal, equipment & base maintenance | 113.498 |
+| New equipment, ammunition & military research | 82.544 |
+| Fortifications, coastal works & shelters | 25.795 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 0.000 |
+| net principal repayment | 16.250 |
+| reserve increase | 10.833 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 4.0%. Balance / output: 0.525%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+
 ## Ceralte Admiralty
 
 National return. Population: 2,900,000.
@@ -1652,6 +3328,58 @@ Table and hospitality. Limited grain land and long sea passages made imported fl
 | readiness (1–5) | 4 |
 | logistics (1–5) | 4 |
 | cohesion (1–5) | 4 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Naval maintenance and imported provisions require borrowing alongside a maritime contingency buffer.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 170.400 |
+| transfer income | 0.000 |
+| total receipts | 170.400 |
+| total expenditure | 176.364 |
+| balance | -5.964 |
+| liquid reserves | 51.120 |
+| gross debt | 187.440 |
+| net debt | 136.320 |
+| interest | 8.435 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 95.400 |
+| Civil administration, courts, policing & diplomacy | 15.956 |
+| Transport, public works & utilities | 26.110 |
+| Health, relief & civilian pensions | 11.605 |
+| Education, science & archives | 8.703 |
+| Agriculture, water management & forestry | 10.155 |
+| Public-debt interest | 8.435 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 30.528 |
+| Provisions, fuel, transport & training | 23.850 |
+| Arsenal, equipment & base maintenance | 20.988 |
+| New equipment, ammunition & military research | 15.264 |
+| Fortifications, coastal works & shelters | 4.770 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 5.964 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 4.5%. Balance / output: -0.875%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Varessan Sea League
 
@@ -1702,6 +3430,58 @@ Table and hospitality. Terrace farms and convoy stores support distinct island k
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
 
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Assembly levies support a modest surplus; freshwater and island access take priority.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 39.060 |
+| transfer income | 0.000 |
+| total receipts | 39.060 |
+| total expenditure | 38.669 |
+| balance | 0.391 |
+| liquid reserves | 10.937 |
+| gross debt | 9.765 |
+| net debt | -1.172 |
+| interest | 0.488 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 12.555 |
+| Civil administration, courts, policing & diplomacy | 5.894 |
+| Transport, public works & utilities | 6.150 |
+| Health, relief & civilian pensions | 4.356 |
+| Education, science & archives | 2.563 |
+| Agriculture, water management & forestry | 6.663 |
+| Public-debt interest | 0.488 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 5.022 |
+| Provisions, fuel, transport & training | 3.139 |
+| Arsenal, equipment & base maintenance | 2.134 |
+| New equipment, ammunition & military research | 1.507 |
+| Fortifications, coastal works & shelters | 0.753 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 0.000 |
+| net principal repayment | 0.235 |
+| reserve increase | 0.156 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 5.0%. Balance / output: 0.14%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+
 ## Talascan Charter Islands
 
 Colonial geographic return. Population: 1,100,000.
@@ -1750,6 +3530,58 @@ Table and hospitality. Older island farming overlaps with settler orchards and e
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 2 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+The colonial grant is booked once against the parent; private concession profits are not public reserves.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 30.800 |
+| transfer income | 1.500 |
+| total receipts | 32.300 |
+| total expenditure | 31.416 |
+| balance | 0.884 |
+| liquid reserves | 5.544 |
+| gross debt | 13.860 |
+| net debt | 8.316 |
+| interest | 0.693 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 11.550 |
+| Civil administration, courts, policing & diplomacy | 4.218 |
+| Transport, public works & utilities | 6.902 |
+| Health, relief & civilian pensions | 3.068 |
+| Education, science & archives | 2.301 |
+| Agriculture, water management & forestry | 2.684 |
+| Public-debt interest | 0.693 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 4.620 |
+| Provisions, fuel, transport & training | 2.888 |
+| Arsenal, equipment & base maintenance | 1.964 |
+| New equipment, ammunition & military research | 1.386 |
+| Fortifications, coastal works & shelters | 0.692 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 0.000 |
+| net principal repayment | 0.530 |
+| reserve increase | 0.354 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 5.0%. Balance / output: 0.459%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Nemerai Crown
 
@@ -1800,6 +3632,58 @@ Table and hospitality. Terraced grain and sheltered orchards developed alongside
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 4 |
 
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Terrace and harbour maintenance produce a small deficit under compact-approved borrowing.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 60.320 |
+| transfer income | 0.000 |
+| total receipts | 60.320 |
+| total expenditure | 61.225 |
+| balance | -0.905 |
+| liquid reserves | 15.080 |
+| gross debt | 24.128 |
+| net debt | 9.048 |
+| interest | 1.206 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 23.200 |
+| Civil administration, courts, policing & diplomacy | 8.468 |
+| Transport, public works & utilities | 8.837 |
+| Health, relief & civilian pensions | 6.259 |
+| Education, science & archives | 3.682 |
+| Agriculture, water management & forestry | 9.573 |
+| Public-debt interest | 1.206 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 9.280 |
+| Provisions, fuel, transport & training | 5.800 |
+| Arsenal, equipment & base maintenance | 3.944 |
+| New equipment, ammunition & military research | 2.784 |
+| Fortifications, coastal works & shelters | 1.392 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 0.905 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 5.0%. Balance / output: -0.195%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+
 ## Ordelune Overseas Districts
 
 Colonial geographic return. Population: 1,000,000.
@@ -1848,6 +3732,58 @@ Table and hospitality. Cold-water fishing and mixed farming supply households an
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 2 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+A matched metropolitan subsidy covers part of the southern supply burden.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 18.900 |
+| transfer income | 2.500 |
+| total receipts | 21.400 |
+| total expenditure | 20.412 |
+| balance | 0.988 |
+| liquid reserves | 4.536 |
+| gross debt | 5.670 |
+| net debt | 1.134 |
+| interest | 0.284 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 6.075 |
+| Civil administration, courts, policing & diplomacy | 3.232 |
+| Transport, public works & utilities | 3.373 |
+| Health, relief & civilian pensions | 2.389 |
+| Education, science & archives | 1.405 |
+| Agriculture, water management & forestry | 3.654 |
+| Public-debt interest | 0.284 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 2.430 |
+| Provisions, fuel, transport & training | 1.519 |
+| Arsenal, equipment & base maintenance | 1.033 |
+| New equipment, ammunition & military research | 0.729 |
+| Fortifications, coastal works & shelters | 0.364 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 0.000 |
+| net principal repayment | 0.593 |
+| reserve increase | 0.395 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 5.0%. Balance / output: 0.732%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Skeldran Hearth Confederacy
 
@@ -1898,6 +3834,58 @@ Table and hospitality. Collective stores and rescue obligations shape the table.
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 3 |
 
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Low debt accompanies communal stores and rescue commitments; stores themselves are not liquid cash.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 4.275 |
+| transfer income | 0.000 |
+| total receipts | 4.275 |
+| total expenditure | 4.190 |
+| balance | 0.085 |
+| liquid reserves | 1.496 |
+| gross debt | 0.428 |
+| net debt | -1.068 |
+| interest | 0.021 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 1.710 |
+| Civil administration, courts, policing & diplomacy | 0.566 |
+| Transport, public works & utilities | 0.566 |
+| Health, relief & civilian pensions | 0.713 |
+| Education, science & archives | 0.246 |
+| Agriculture, water management & forestry | 0.368 |
+| Public-debt interest | 0.021 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 0.821 |
+| Provisions, fuel, transport & training | 0.445 |
+| Arsenal, equipment & base maintenance | 0.239 |
+| New equipment, ammunition & military research | 0.120 |
+| Fortifications, coastal works & shelters | 0.085 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 0.000 |
+| net principal repayment | 0.051 |
+| reserve increase | 0.034 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 5.0%. Balance / output: 0.199%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+
 ## Merovian Island Republic
 
 National return. Population: 1,600,000.
@@ -1946,6 +3934,58 @@ Table and hospitality. Port commerce brought varied seasonings to island farming
 | readiness (1–5) | 4 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Marine works and pumps are partly bond-financed despite substantial liquid reserves.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 54.720 |
+| transfer income | 0.000 |
+| total receipts | 54.720 |
+| total expenditure | 56.088 |
+| balance | -1.368 |
+| liquid reserves | 17.510 |
+| gross debt | 35.568 |
+| net debt | 18.058 |
+| interest | 1.601 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 19.760 |
+| Civil administration, courts, policing & diplomacy | 7.640 |
+| Transport, public works & utilities | 12.502 |
+| Health, relief & civilian pensions | 5.556 |
+| Education, science & archives | 4.167 |
+| Agriculture, water management & forestry | 4.862 |
+| Public-debt interest | 1.601 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 7.904 |
+| Provisions, fuel, transport & training | 4.940 |
+| Arsenal, equipment & base maintenance | 3.359 |
+| New equipment, ammunition & military research | 2.371 |
+| Fortifications, coastal works & shelters | 1.186 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 1.368 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 4.5%. Balance / output: -0.45%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Ashalai Reef Covenant
 
@@ -1996,6 +4036,58 @@ Table and hospitality. Wet-valley cultivation and reef fisheries support inter-i
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 3 |
 
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Small negotiated loans support water and agricultural works without pledging all communal land.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 29.040 |
+| transfer income | 0.000 |
+| total receipts | 29.040 |
+| total expenditure | 29.330 |
+| balance | -0.290 |
+| liquid reserves | 6.389 |
+| gross debt | 5.808 |
+| net debt | -0.581 |
+| interest | 0.319 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 10.560 |
+| Civil administration, courts, policing & diplomacy | 4.244 |
+| Transport, public works & utilities | 4.428 |
+| Health, relief & civilian pensions | 3.137 |
+| Education, science & archives | 1.845 |
+| Agriculture, water management & forestry | 4.797 |
+| Public-debt interest | 0.319 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 5.069 |
+| Provisions, fuel, transport & training | 2.746 |
+| Arsenal, equipment & base maintenance | 1.478 |
+| New equipment, ammunition & military research | 0.739 |
+| Fortifications, coastal works & shelters | 0.528 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 0.290 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 5.5%. Balance / output: -0.11%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+
 ## Kingdom of Istrana
 
 National return. Population: 1,750,000.
@@ -2044,6 +4136,58 @@ Table and hospitality. A maritime court draws on irrigated valleys, plantation d
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 4 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Assembly-approved borrowing supports schools and port works, subject to existing limits on royal credit.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 49.088 |
+| transfer income | 0.000 |
+| total receipts | 49.088 |
+| total expenditure | 51.052 |
+| balance | -1.964 |
+| liquid reserves | 9.818 |
+| gross debt | 36.816 |
+| net debt | 26.998 |
+| interest | 1.841 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 17.325 |
+| Civil administration, courts, policing & diplomacy | 7.015 |
+| Transport, public works & utilities | 7.653 |
+| Health, relief & civilian pensions | 6.058 |
+| Education, science & archives | 7.334 |
+| Agriculture, water management & forestry | 3.826 |
+| Public-debt interest | 1.841 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 6.930 |
+| Provisions, fuel, transport & training | 4.331 |
+| Arsenal, equipment & base maintenance | 2.945 |
+| New equipment, ammunition & military research | 2.079 |
+| Fortifications, coastal works & shelters | 1.040 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 1.964 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 5.0%. Balance / output: -0.68%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Edrask Governorate
 
@@ -2094,6 +4238,58 @@ Table and hospitality. Settler dairy farms and older fishing communities exchang
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 2 |
 
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+A matched parent subsidy helps fund northern depots and weather stations.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 27.000 |
+| transfer income | 3.000 |
+| total receipts | 30.000 |
+| total expenditure | 29.430 |
+| balance | 0.570 |
+| liquid reserves | 5.940 |
+| gross debt | 9.450 |
+| net debt | 3.510 |
+| interest | 0.472 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 10.800 |
+| Civil administration, courts, policing & diplomacy | 3.995 |
+| Transport, public works & utilities | 6.537 |
+| Health, relief & civilian pensions | 2.905 |
+| Education, science & archives | 2.179 |
+| Agriculture, water management & forestry | 2.542 |
+| Public-debt interest | 0.472 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 4.320 |
+| Provisions, fuel, transport & training | 2.700 |
+| Arsenal, equipment & base maintenance | 1.836 |
+| New equipment, ammunition & military research | 1.296 |
+| Fortifications, coastal works & shelters | 0.648 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 0.000 |
+| net principal repayment | 0.342 |
+| reserve increase | 0.228 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 5.0%. Balance / output: 0.317%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+
 ## Norrakai Moots
 
 National return. Population: 120,000.
@@ -2142,3 +4338,55 @@ Table and hospitality. Seasonal travel and reciprocal refuge duties shape storag
 | readiness (1–5) | 2 |
 | logistics (1–5) | 1 |
 | cohesion (1–5) | 3 |
+
+### Treasury and annual budget
+
+Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+
+Small harbour loans supplement refuge services; distributed stores are excluded from cash reserves.
+
+| Measure | Million L-eq |
+|---|---:|
+| revenue | 0.864 |
+| transfer income | 0.000 |
+| total receipts | 0.864 |
+| total expenditure | 0.881 |
+| balance | -0.017 |
+| liquid reserves | 0.346 |
+| gross debt | 0.069 |
+| net debt | -0.277 |
+| interest | 0.004 |
+
+#### Annual expenditure
+
+| Allocation | Million L-eq |
+|---|---:|
+| Defence | 0.336 |
+| Civil administration, courts, policing & diplomacy | 0.124 |
+| Transport, public works & utilities | 0.124 |
+| Health, relief & civilian pensions | 0.157 |
+| Education, science & archives | 0.054 |
+| Agriculture, water management & forestry | 0.082 |
+| Public-debt interest | 0.004 |
+| Transfers to other public returns | 0.000 |
+
+#### Defence allocation — included above
+
+| Allocation | Million L-eq |
+|---|---:|
+| Service pay, allowances & military pensions | 0.161 |
+| Provisions, fuel, transport & training | 0.087 |
+| Arsenal, equipment & base maintenance | 0.047 |
+| New equipment, ammunition & military research | 0.024 |
+| Fortifications, coastal works & shelters | 0.017 |
+
+#### Annual financing plan — not yet booked
+
+| Allocation | Million L-eq |
+|---|---:|
+| new net borrowing | 0.017 |
+| net principal repayment | 0.000 |
+| reserve increase | 0.000 |
+| reserve drawdown | 0.000 |
+
+Effective annual interest: 6.0%. Balance / output: -0.177%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.

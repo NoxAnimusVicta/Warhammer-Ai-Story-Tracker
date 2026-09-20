@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": 52,
-  "epoch": "Ten months and eleven days after Collegium enrolment — evening",
+  "revision": 55,
+  "epoch": "Ten months and eleven days after Collegium enrolment \u2014 evening",
   "elapsed_story_years": 0,
   "unit": "Millions of constant-price Veyrasse lorrat-equivalents per local year",
   "profiles": [
@@ -63,7 +63,45 @@
         "drink": "Plateau beer, lowland cane drink and coffee at the court.",
         "daily_life": "Altitude matters as much as latitude. Mountain towns import much of their grain, while court menus display produce from every province as a claim to unity."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 8329.8,
+        "transfer_income": 0,
+        "total_receipts": 8329.8,
+        "total_expenditure": 8621.343,
+        "balance": -291.543,
+        "balance_percent_of_output": -0.735,
+        "liquid_reserves": 1832.556,
+        "gross_debt": 13744.17,
+        "net_debt": 11911.614,
+        "effective_interest_percent": 4.5,
+        "interest": 618.488,
+        "expenditure": {
+          "defence": 4363.2,
+          "administration": 800.724,
+          "works": 1310.276,
+          "health": 582.345,
+          "education": 436.759,
+          "agriculture": 509.551,
+          "interest": 618.488,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 1396.224,
+          "supply": 1090.8,
+          "maintenance": 959.904,
+          "procurement": 698.112,
+          "fortifications": 218.16
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 291.543,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Railway renewal and arsenals require modest borrowing; provincial balances are not all available to the crown."
+      }
     },
     {
       "id": "ostrevain",
@@ -123,7 +161,45 @@
         "drink": "Brown beer and lightly fermented fruit drinks.",
         "daily_life": "Soldiers carry toasted grain and hard cheese; wealthy tables emphasise fresh meat and fruit that has not endured a convoy journey."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 4148.3,
+        "transfer_income": 0,
+        "total_receipts": 4148.3,
+        "total_expenditure": 4417.94,
+        "balance": -269.64,
+        "balance_percent_of_output": -1.365,
+        "liquid_reserves": 497.796,
+        "gross_debt": 7881.77,
+        "net_debt": 7383.974,
+        "effective_interest_percent": 5.0,
+        "interest": 394.089,
+        "expenditure": {
+          "defence": 2370.5,
+          "administration": 379.696,
+          "works": 396.204,
+          "health": 280.645,
+          "education": 165.085,
+          "agriculture": 429.221,
+          "interest": 394.089,
+          "transfers": 2.5
+        },
+        "defence_breakdown": {
+          "personnel": 948.2,
+          "supply": 592.625,
+          "maintenance": 402.985,
+          "procurement": 284.46,
+          "fortifications": 142.23
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 269.64,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Arsenal commitments and grain transport exceed ordinary receipts; domestic bonds finance the gap."
+      }
     },
     {
       "id": "rovessara",
@@ -179,11 +255,49 @@
         "tradition": "Otrantian western ports",
         "history": "Maritime commerce joins a mild western coast to upland cheese districts and distant spice markets. Restaurant fashion changes faster than village food.",
         "everyday": "Bean-and-greens soup with flatbread and olive oil; tiny fried fish at the quays.",
-        "hospitality": "Rice cooked in seafood stock, fine stuffed pasta and chilled fruit creams in wealthy city cafés.",
+        "hospitality": "Rice cooked in seafood stock, fine stuffed pasta and chilled fruit creams in wealthy city caf\u00e9s.",
         "drink": "Bitter coffee, aperitif wine and citrus cordial.",
         "daily_life": "Fresh oil, mountain butter and imported spice coexist rather than defining one uniform national cuisine. Ice houses and refrigerated warehouses support the richest urban tables."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 4003.0,
+        "transfer_income": 0,
+        "total_receipts": 4003.0,
+        "total_expenditure": 3922.94,
+        "balance": 80.06,
+        "balance_percent_of_output": 0.36,
+        "liquid_reserves": 1521.14,
+        "gross_debt": 4603.45,
+        "net_debt": 3082.31,
+        "effective_interest_percent": 4.0,
+        "interest": 184.138,
+        "expenditure": {
+          "defence": 2001.5,
+          "administration": 381.876,
+          "works": 416.592,
+          "health": 329.802,
+          "education": 399.234,
+          "agriculture": 208.298,
+          "interest": 184.138,
+          "transfers": 1.5
+        },
+        "defence_breakdown": {
+          "personnel": 640.48,
+          "supply": 500.375,
+          "maintenance": 440.33,
+          "procurement": 320.24,
+          "fortifications": 100.075
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 0,
+          "net_principal_repayment": 48.036,
+          "reserve_increase": 32.024,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Commercial receipts support a small surplus, liquid buffers and gradual debt retirement."
+      }
     },
     {
       "id": "brannervaux",
@@ -243,7 +357,45 @@
         "drink": "Pear cider, mild beer and roasted-barley drinks.",
         "daily_life": "Floodplain gardens supply onions and beans. Fish smoking and grain warehouses make the river ports vital even to communities beyond the floodplain."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 1621.1,
+        "transfer_income": 0,
+        "total_receipts": 1621.1,
+        "total_expenditure": 1645.416,
+        "balance": -24.316,
+        "balance_percent_of_output": -0.27,
+        "liquid_reserves": 389.064,
+        "gross_debt": 1377.935,
+        "net_debt": 988.871,
+        "effective_interest_percent": 4.5,
+        "interest": 62.007,
+        "expenditure": {
+          "defence": 720.5,
+          "administration": 198.469,
+          "works": 207.098,
+          "health": 146.695,
+          "education": 86.291,
+          "agriculture": 224.356,
+          "interest": 62.007,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 288.2,
+          "supply": 180.125,
+          "maintenance": 122.485,
+          "procurement": 86.46,
+          "fortifications": 43.23
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 24.316,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Lock and irrigation renewal produces a small capital deficit rather than a collapse in ordinary receipts."
+      }
     },
     {
       "id": "cervaud",
@@ -303,7 +455,45 @@
         "drink": "Dark beer, cherry spirit and heavily sweetened coffee for visitors.",
         "daily_life": "Ration bread and pickled vegetables dominate remote posts. Market-day sausages are a small luxury that survives frequent changes of uniform."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 1181.2,
+        "transfer_income": 0,
+        "total_receipts": 1181.2,
+        "total_expenditure": 1275.696,
+        "balance": -94.496,
+        "balance_percent_of_output": -2.0,
+        "liquid_reserves": 118.12,
+        "gross_debt": 2008.04,
+        "net_debt": 1889.92,
+        "effective_interest_percent": 6.0,
+        "interest": 120.482,
+        "expenditure": {
+          "defence": 661.5,
+          "administration": 172.8,
+          "works": 108.617,
+          "health": 88.869,
+          "education": 49.371,
+          "agriculture": 74.057,
+          "interest": 120.482,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 264.6,
+          "supply": 165.375,
+          "maintenance": 112.455,
+          "procurement": 79.38,
+          "fortifications": 39.69
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 94.496,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Frontier obligations and patron-backed credit leave limited cash headroom."
+      }
     },
     {
       "id": "veylac",
@@ -360,10 +550,48 @@
         "history": "Industrial towns link cooler uplands to river farms. Working households value meals that can be reheated when factory shifts end at different hours.",
         "everyday": "Baked beans beneath an onion-and-breadcrumb crust, with smoked sausage when affordable.",
         "hospitality": "Cheese-filled pasta browned in butter; orchard-fruit tart at civic dinners.",
-        "drink": "Pale beer, plum cordial and café coffee.",
+        "drink": "Pale beer, plum cordial and caf\u00e9 coffee.",
         "daily_life": "Cooperative dining rooms compete with private factory canteens. Imported coastal fish is popular but more expensive than the local root-and-grain staples."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 1663.9,
+        "transfer_income": 0,
+        "total_receipts": 1663.9,
+        "total_expenditure": 1730.456,
+        "balance": -66.556,
+        "balance_percent_of_output": -0.84,
+        "liquid_reserves": 332.78,
+        "gross_debt": 2329.46,
+        "net_debt": 1996.68,
+        "effective_interest_percent": 5.0,
+        "interest": 116.473,
+        "expenditure": {
+          "defence": 871.6,
+          "administration": 163.324,
+          "works": 267.258,
+          "health": 118.781,
+          "education": 89.086,
+          "agriculture": 103.934,
+          "interest": 116.473,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 348.64,
+          "supply": 217.9,
+          "maintenance": 148.172,
+          "procurement": 104.592,
+          "fortifications": 52.296
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 66.556,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Factory infrastructure and frontier protection require continuing borrowing."
+      }
     },
     {
       "id": "ossavren",
@@ -411,8 +639,8 @@
       "cohesion": 1,
       "specialties": "Competing provincial administrations, workshops and military supply; divided coalfields and petroleum districts",
       "constraints": "Combined rival returns; no common treasury, staff or army. Rail gauges, tolls and civil fighting fragment capacity.",
-      "older_arts": "The fallen crown’s collections are divided among rival courts and displaced teachers. Competing claims to authentic manuscripts matter more than any central school.",
-      "description": "Ossavren denotes the territories of a broken crown, not a functioning nation with one army. Ossendrienne remains a vast former capital, while provincial commands, rival courts and autonomous commercial cities control their own taxation and troops. Tressavio trades through Veylac; other districts face Ostrevain or the Seravelle markets. Coal and petroleum resources give competing rulers valuable assets, but tolls, incompatible arrangements and local fighting divide their use. Shared food, family ties and railway habits survive the political fracture. Aggregate military and economic figures measure the whole region's resources; no claimant can simply issue orders to that combined total. Neravisse provides a charted coastal gateway, with defended access to Tatogia. A dependency of Neravisse’s municipal charter, not territory governed by a restored Ossavren crown. Charted island harbours: Cavralto.",
+      "older_arts": "The fallen crown\u2019s collections are divided among rival courts and displaced teachers. Competing claims to authentic manuscripts matter more than any central school.",
+      "description": "Ossavren denotes the territories of a broken crown, not a functioning nation with one army. Ossendrienne remains a vast former capital, while provincial commands, rival courts and autonomous commercial cities control their own taxation and troops. Tressavio trades through Veylac; other districts face Ostrevain or the Seravelle markets. Coal and petroleum resources give competing rulers valuable assets, but tolls, incompatible arrangements and local fighting divide their use. Shared food, family ties and railway habits survive the political fracture. Aggregate military and economic figures measure the whole region's resources; no claimant can simply issue orders to that combined total. Neravisse provides a charted coastal gateway, with defended access to Tatogia. A dependency of Neravisse\u2019s municipal charter, not territory governed by a restored Ossavren crown. Charted island harbours: Cavralto.",
       "food": {
         "id": "ossavren",
         "name": "Ossavren successor territories",
@@ -421,9 +649,47 @@
         "everyday": "Red lentil pot with flatbread in warm valleys; barley-and-turnip broth in higher districts.",
         "hospitality": "Lamb with preserved lemon and almonds; former court households still serve rosewater rice pudding.",
         "drink": "Mint tea in warm valleys, mountain beer inland and sweet wine in surviving vineyard districts.",
-        "daily_life": "Smuggling brings salt, oil and family recipes across front lines. An abundant banquet may conceal shortages in a neighbouring claimant’s territory."
+        "daily_life": "Smuggling brings salt, oil and family recipes across front lines. An abundant banquet may conceal shortages in a neighbouring claimant\u2019s territory."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 5646.4,
+        "transfer_income": 0,
+        "total_receipts": 5646.4,
+        "total_expenditure": 6267.504,
+        "balance": -621.104,
+        "balance_percent_of_output": -2.75,
+        "liquid_reserves": 451.712,
+        "gross_debt": 7340.32,
+        "net_debt": 6888.608,
+        "effective_interest_percent": 7.0,
+        "interest": 513.822,
+        "expenditure": {
+          "defence": 2936.1,
+          "administration": 986.154,
+          "works": 619.868,
+          "health": 507.165,
+          "education": 281.758,
+          "agriculture": 422.637,
+          "interest": 513.822,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 1174.44,
+          "supply": 734.025,
+          "maintenance": 499.137,
+          "procurement": 352.332,
+          "fortifications": 176.166
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 621.104,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Successor administrations have uneven access to credit; the combined deficit masks local surpluses and shortfalls."
+      }
     },
     {
       "id": "rovengard",
@@ -483,7 +749,45 @@
         "drink": "Small beer, berry cordial and hot herb infusions.",
         "daily_life": "A winter pantry matters more than a fashionable fresh ingredient. Household drying racks and communal bake days bind city relatives to valley farms."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 922.9,
+        "transfer_income": 0,
+        "total_receipts": 922.9,
+        "total_expenditure": 941.358,
+        "balance": -18.458,
+        "balance_percent_of_output": -0.42,
+        "liquid_reserves": 249.183,
+        "gross_debt": 599.885,
+        "net_debt": 350.702,
+        "effective_interest_percent": 5.0,
+        "interest": 29.994,
+        "expenditure": {
+          "defence": 439.5,
+          "administration": 103.15,
+          "works": 168.791,
+          "health": 75.018,
+          "education": 56.264,
+          "agriculture": 65.641,
+          "interest": 29.994,
+          "transfers": 3.0
+        },
+        "defence_breakdown": {
+          "personnel": 175.8,
+          "supply": 109.875,
+          "maintenance": 74.715,
+          "procurement": 52.74,
+          "fortifications": 26.37
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 18.458,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Winter stores and valley access dominate civilian investment; reserves remain dispersed."
+      }
     },
     {
       "id": "varnesk",
@@ -543,7 +847,45 @@
         "drink": "Dark rye beer; strong black tea bought through concession merchants.",
         "daily_life": "Canteens portion meat by shift entitlement. A late supply train can turn dumplings into thin flour soup without stopping the furnaces."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 972.2,
+        "transfer_income": 0,
+        "total_receipts": 972.2,
+        "total_expenditure": 957.617,
+        "balance": 14.583,
+        "balance_percent_of_output": 0.315,
+        "liquid_reserves": 311.104,
+        "gross_debt": 874.98,
+        "net_debt": 563.876,
+        "effective_interest_percent": 4.5,
+        "interest": 39.374,
+        "expenditure": {
+          "defence": 509.2,
+          "administration": 89.989,
+          "works": 147.255,
+          "health": 65.447,
+          "education": 49.085,
+          "agriculture": 57.267,
+          "interest": 39.374,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 203.68,
+          "supply": 127.3,
+          "maintenance": 86.564,
+          "procurement": 61.104,
+          "fortifications": 30.552
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 0,
+          "net_principal_repayment": 8.75,
+          "reserve_increase": 5.833,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Specialist exports support a modest surplus while seasonal import buffers remain necessary."
+      }
     },
     {
       "id": "galdresk",
@@ -596,14 +938,52 @@
       "food": {
         "id": "galdresk",
         "name": "Galdresk",
-        "tradition": "Morholt wardens’ tables",
+        "tradition": "Morholt wardens\u2019 tables",
         "history": "Order houses preserve remedies and practical cookery alongside the older arts. Most food is ordinary, nourishing and carefully stored.",
         "everyday": "Oat broth with roots, mushrooms and dried fish; kitchens adjust texture for the sick.",
         "hospitality": "Trout in cream with dill-like herbs, served with small sourdough loaves and berry compote.",
         "drink": "Unsweetened herbal tea and berry wine on feast days.",
         "daily_life": "Healing traditions do not make every herb magical. Supplies are dated and inspected; winter hospitality can impose a serious obligation on an isolated house."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 376.3,
+        "transfer_income": 0,
+        "total_receipts": 376.3,
+        "total_expenditure": 380.063,
+        "balance": -3.763,
+        "balance_percent_of_output": -0.21,
+        "liquid_reserves": 94.075,
+        "gross_debt": 169.335,
+        "net_debt": 75.26,
+        "effective_interest_percent": 4.5,
+        "interest": 7.62,
+        "expenditure": {
+          "defence": 179.2,
+          "administration": 42.513,
+          "works": 46.378,
+          "health": 36.716,
+          "education": 44.446,
+          "agriculture": 23.19,
+          "interest": 7.62,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 71.68,
+          "supply": 44.8,
+          "maintenance": 30.464,
+          "procurement": 21.504,
+          "fortifications": 10.752
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 3.763,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Medical and teaching institutions receive a larger civilian share, with a small borrowing requirement."
+      }
     },
     {
       "id": "halskert",
@@ -661,9 +1041,47 @@
         "everyday": "Barley baked with lake fish and onion in covered crocks.",
         "hospitality": "Butter-fried freshwater fish, green peas and a layered berry cake during the short summer.",
         "drink": "Oat beer and tart orchard cider where fruit grows.",
-        "daily_life": "Smokehouses fill before freeze-up. Spring fish suppers mark reopened navigation and the arrival of news as much as the season’s catch."
+        "daily_life": "Smokehouses fill before freeze-up. Spring fish suppers mark reopened navigation and the arrival of news as much as the season\u2019s catch."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 555.4,
+        "transfer_income": 0,
+        "total_receipts": 555.4,
+        "total_expenditure": 541.515,
+        "balance": 13.885,
+        "balance_percent_of_output": 0.45,
+        "liquid_reserves": 166.62,
+        "gross_debt": 305.47,
+        "net_debt": 138.85,
+        "effective_interest_percent": 4.5,
+        "interest": 13.746,
+        "expenditure": {
+          "defence": 246.8,
+          "administration": 64.623,
+          "works": 67.433,
+          "health": 47.765,
+          "education": 28.097,
+          "agriculture": 73.051,
+          "interest": 13.746,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 98.72,
+          "supply": 61.7,
+          "maintenance": 41.956,
+          "procurement": 29.616,
+          "fortifications": 14.808
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 0,
+          "net_principal_repayment": 8.331,
+          "reserve_increase": 5.554,
+          "reserve_drawdown": 0
+        },
+        "assessment": "River tolls support reserve replenishment and measured debt reduction."
+      }
     },
     {
       "id": "tervayne",
@@ -711,8 +1129,8 @@
       "cohesion": 4,
       "specialties": "Maritime freight, ship maintenance and naval supply",
       "constraints": "Sea lanes carry its power; inland movement is slow and there is no through railway to eastern Vesalius.",
-      "older_arts": "Port archives collect travellers’ accounts and sea traditions; private patrons sponsor a few readers, whose conflicting methods do not form a naval service.",
-      "description": "Tervayne is a western Vesalian maritime state whose government and commercial houses occupy Tervessac. Tervassin handles ocean shipping; Brescalle builds marine and civil machinery. Cultivated districts supply provisions while upland towns provide timber and manufactured goods. Its trading networks face Otranto and Morholt across the western ocean, with only indirect connections to the eastern Marches through intervening governments and difficult country. Maritime wealth supports naval supply and overseas influence, not unrestricted inland conquest. Port families, industrial firms and agricultural districts consequently have different priorities, even when foreign merchants describe them collectively as a seafaring people. Overseas supply and navigation districts maintained by Tervayne’s maritime administration and resident port councils. Charted island harbours: Ostrelac.",
+      "older_arts": "Port archives collect travellers\u2019 accounts and sea traditions; private patrons sponsor a few readers, whose conflicting methods do not form a naval service.",
+      "description": "Tervayne is a western Vesalian maritime state whose government and commercial houses occupy Tervessac. Tervassin handles ocean shipping; Brescalle builds marine and civil machinery. Cultivated districts supply provisions while upland towns provide timber and manufactured goods. Its trading networks face Otranto and Morholt across the western ocean, with only indirect connections to the eastern Marches through intervening governments and difficult country. Maritime wealth supports naval supply and overseas influence, not unrestricted inland conquest. Port families, industrial firms and agricultural districts consequently have different priorities, even when foreign merchants describe them collectively as a seafaring people. Overseas supply and navigation districts maintained by Tervayne\u2019s maritime administration and resident port councils. Charted island harbours: Ostrelac.",
       "food": {
         "id": "tervayne",
         "name": "Tervayne",
@@ -721,9 +1139,47 @@
         "everyday": "Fish-and-potato bake beneath an oat crust, with pickled onions.",
         "hospitality": "Mussels in cream and white wine, followed by baked custard scented with imported spice.",
         "drink": "Coastal cider, amber beer and port-house coffee.",
-        "daily_life": "Sailors’ inexpensive meals favour salted fish; fresh shellfish signals a short journey from water to table. Inland villages are less maritime than the national reputation suggests."
+        "daily_life": "Sailors\u2019 inexpensive meals favour salted fish; fresh shellfish signals a short journey from water to table. Inland villages are less maritime than the national reputation suggests."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 2052.5,
+        "transfer_income": 0,
+        "total_receipts": 2052.5,
+        "total_expenditure": 2144.862,
+        "balance": -92.362,
+        "balance_percent_of_output": -0.945,
+        "liquid_reserves": 410.5,
+        "gross_debt": 3181.375,
+        "net_debt": 2770.875,
+        "effective_interest_percent": 4.5,
+        "interest": 143.162,
+        "expenditure": {
+          "defence": 977.4,
+          "administration": 225.346,
+          "works": 368.748,
+          "health": 163.888,
+          "education": 122.916,
+          "agriculture": 143.402,
+          "interest": 143.162,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 312.768,
+          "supply": 244.35,
+          "maintenance": 215.028,
+          "procurement": 156.384,
+          "fortifications": 48.87
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 92.362,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Harbour renewal and naval support exceed ordinary receipts despite strong maritime earnings."
+      }
     },
     {
       "id": "vardol",
@@ -783,7 +1239,45 @@
         "drink": "Rye beer and sour cherry cordial.",
         "daily_life": "Shift whistles govern supper in the industrial wards. Kitchen gardens and pickled cabbage cushion disruptions to the grain trains."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 2486.4,
+        "transfer_income": 0,
+        "total_receipts": 2486.4,
+        "total_expenditure": 2660.448,
+        "balance": -174.048,
+        "balance_percent_of_output": -1.47,
+        "liquid_reserves": 372.96,
+        "gross_debt": 4475.52,
+        "net_debt": 4102.56,
+        "effective_interest_percent": 5.5,
+        "interest": 246.154,
+        "expenditure": {
+          "defence": 1420.8,
+          "administration": 218.569,
+          "works": 357.658,
+          "health": 158.959,
+          "education": 119.219,
+          "agriculture": 139.089,
+          "interest": 246.154,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 568.32,
+          "supply": 355.2,
+          "maintenance": 241.536,
+          "procurement": 170.496,
+          "fortifications": 85.248
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 174.048,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Arsenals and fixed frontier commitments sustain a planned deficit."
+      }
     },
     {
       "id": "averholt",
@@ -843,7 +1337,45 @@
         "drink": "Apple wine in orchard districts; malt beer in the colder basins.",
         "daily_life": "Public ovens are meeting places as well as fuel economies. A dispute over milling rights can be discussed for an entire supper without anyone naming its political purpose."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 1848.4,
+        "transfer_income": 0,
+        "total_receipts": 1848.4,
+        "total_expenditure": 1894.61,
+        "balance": -46.21,
+        "balance_percent_of_output": -0.525,
+        "liquid_reserves": 462.1,
+        "gross_debt": 2033.24,
+        "net_debt": 1571.14,
+        "effective_interest_percent": 5.0,
+        "interest": 101.662,
+        "expenditure": {
+          "defence": 880.2,
+          "administration": 209.932,
+          "works": 219.06,
+          "health": 155.167,
+          "education": 91.275,
+          "agriculture": 237.314,
+          "interest": 101.662,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 352.08,
+          "supply": 220.05,
+          "maintenance": 149.634,
+          "procurement": 105.624,
+          "fortifications": 52.812
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 46.21,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Provincial roads and grain handling require a modest borrowing programme."
+      }
     },
     {
       "id": "serevask",
@@ -891,19 +1423,57 @@
       "cohesion": 2,
       "specialties": "Civil administration, filtration and chemical workshops, repair shops and commercial services",
       "constraints": "The republic controls only its own districts. Varnelle, Kelbrun and Gavrel have separate forces and revenues; old charter claims confer no authority over them.",
-      "older_arts": "Republican archives retain fragments of the former basin federation’s case records. Its clerks cannot compel the successor authorities to supply missing material.",
+      "older_arts": "Republican archives retain fragments of the former basin federation\u2019s case records. Its clerks cannot compel the successor authorities to supply missing material.",
       "description": "The Serevask Republic governs its own mountain, upland and forest districts from Serevienne. Vallorise remains an important engineering city, connected commercially to the states that once shared a southern basin federation. Varnelle, Kelbrun and Gavrel now levy their own taxes and command their own forces; old charters create claims over debts and water, not effective Serevask sovereignty. The republic retains archives, technical institutions and useful workshops, but has neither the population nor authority of the former union. Its citizens include mountain households dependent on lower provisions and lowland manufacturers dependent on cross-border customers. It has never governed Vesalius as a whole.",
       "food": {
         "id": "serevask",
         "name": "Serevask Republic",
         "tradition": "Southern charter basin",
-        "history": "The old Serevask customs federation joined four southern basins, never Vesalius as a whole. Its divided successors still recognise one another’s dishes.",
+        "history": "The old Serevask customs federation joined four southern basins, never Vesalius as a whole. Its divided successors still recognise one another\u2019s dishes.",
         "everyday": "Serevask sour rice: rice and lentils finished with soured milk, toasted seed and browned onion.",
         "hospitality": "Duck with bitter orange, accompanied by layered rice scented with preserved peel.",
         "drink": "Strong black tea; fermented rice drink at harvest gatherings.",
         "daily_life": "The remnant government maintains public grain kitchens near its ministries. Former federal recipes outlast the tax union, while each successor claims its own version is the original."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 436.8,
+        "transfer_income": 0,
+        "total_receipts": 436.8,
+        "total_expenditure": 476.112,
+        "balance": -39.312,
+        "balance_percent_of_output": -1.89,
+        "liquid_reserves": 43.68,
+        "gross_debt": 698.88,
+        "net_debt": 655.2,
+        "effective_interest_percent": 6.0,
+        "interest": 41.933,
+        "expenditure": {
+          "defence": 249.6,
+          "administration": 64.603,
+          "works": 40.607,
+          "health": 33.224,
+          "education": 18.458,
+          "agriculture": 27.687,
+          "interest": 41.933,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 99.84,
+          "supply": 62.4,
+          "maintenance": 42.432,
+          "procurement": 29.952,
+          "fortifications": 14.976
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 39.312,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "The reduced republic carries its own inherited obligations; former federation partners are not a shared tax base."
+      }
     },
     {
       "id": "varnelle",
@@ -957,13 +1527,51 @@
         "id": "varnelle",
         "name": "Varnelle",
         "tradition": "Southern charter basin",
-        "history": "Delta rice, fisheries and freight markets furnished the former federation’s export table; incoming crews introduced sour, hot and sweet condiments.",
+        "history": "Delta rice, fisheries and freight markets furnished the former federation\u2019s export table; incoming crews introduced sour, hot and sweet condiments.",
         "everyday": "Varnelle red rice with river fish, pepper and beans, cooked in one broad pan.",
         "hospitality": "Crab broth with fine rice noodles and citrus leaf; confectioners sell sesame brittle.",
         "drink": "Iced citrus water where ice can be bought; tea and light cane spirit.",
         "daily_life": "Fish sauce is an everyday seasoning rather than a luxury. Flood years alter rice prices across all four successor states."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 829.9,
+        "transfer_income": 0,
+        "total_receipts": 829.9,
+        "total_expenditure": 821.601,
+        "balance": 8.299,
+        "balance_percent_of_output": 0.21,
+        "liquid_reserves": 232.372,
+        "gross_debt": 622.425,
+        "net_debt": 390.053,
+        "effective_interest_percent": 4.5,
+        "interest": 28.009,
+        "expenditure": {
+          "defence": 395.2,
+          "administration": 87.646,
+          "works": 143.421,
+          "health": 63.743,
+          "education": 47.807,
+          "agriculture": 55.775,
+          "interest": 28.009,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 158.08,
+          "supply": 98.8,
+          "maintenance": 67.184,
+          "procurement": 47.424,
+          "fortifications": 23.712
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 0,
+          "net_principal_repayment": 4.979,
+          "reserve_increase": 3.32,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Customs income broadly covers current plans and permits a small surplus."
+      }
     },
     {
       "id": "kelbrun",
@@ -1011,7 +1619,7 @@
       "cohesion": 2,
       "specialties": "Upriver freight, plantation produce and agricultural machinery",
       "constraints": "Plantation levies are numerous but unevenly equipped; imported engines and fuel remain essential.",
-      "older_arts": "Estate remedies coexist with workers’ inherited protective practices. Private collections are accessible through personal trust, while plantation authorities are wary of independent followings.",
+      "older_arts": "Estate remedies coexist with workers\u2019 inherited protective practices. Private collections are accessible through personal trust, while plantation authorities are wary of independent followings.",
       "description": "Kelbrun is an independent state of councils and powerful plantation interests governed from Kelbrienne. Oreviano's rubber chemistry and filtration industries turn cultivated resources into valuable manufactured exports. Seasonal uplands supply grain and livestock alongside the wetter districts' plantation products. Estate labour obligations and commercial access shape politics as much as formal council debates. Serevask is a former federal partner and continuing industrial customer; Varnelle and Calvernis provide other trading connections. Army posts secure routes and production districts, but the country's influence chiefly rests on useful materials, technical knowledge and agricultural trade. Its population does not share one estate, employer or social standing. Cervellane provides a charted coastal gateway, with defended access to Cambrelet. Council-administered island dependency with plantation suppliers, fisheries and bonded stores. Charted island harbours: Marcellune.",
       "food": {
         "id": "kelbrun",
@@ -1021,9 +1629,47 @@
         "everyday": "Steamed tuber cakes with black beans and a sharp herb relish.",
         "hospitality": "Pork braised in cane syrup and sour fruit; rice cakes filled with ground nuts for festivals.",
         "drink": "Roasted-grain coffee substitutes and cane spirit; estate houses serve imported coffee.",
-        "daily_life": "Labourers eat at field shelters from wrapped parcels. Plantation owners’ lavish fruit tables conceal the uneven access to meat and purchased grain."
+        "daily_life": "Labourers eat at field shelters from wrapped parcels. Plantation owners\u2019 lavish fruit tables conceal the uneven access to meat and purchased grain."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 443.5,
+        "transfer_income": 0,
+        "total_receipts": 443.5,
+        "total_expenditure": 456.805,
+        "balance": -13.305,
+        "balance_percent_of_output": -0.63,
+        "liquid_reserves": 79.83,
+        "gross_debt": 354.8,
+        "net_debt": 274.97,
+        "effective_interest_percent": 5.5,
+        "interest": 19.514,
+        "expenditure": {
+          "defence": 211.2,
+          "administration": 52.001,
+          "works": 54.262,
+          "health": 38.435,
+          "education": 22.609,
+          "agriculture": 58.784,
+          "interest": 19.514,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 84.48,
+          "supply": 52.8,
+          "maintenance": 35.904,
+          "procurement": 25.344,
+          "fortifications": 12.672
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 13.305,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "River works and imported agricultural equipment are financed partly on credit."
+      }
     },
     {
       "id": "gavrel",
@@ -1083,7 +1729,45 @@
         "drink": "Sour milk, herbal tea and plum wine.",
         "daily_life": "Hospitality includes bread broken by the host, but its quality distinguishes an honoured guest from a hired messenger. Poor tenants substitute lentils for goat."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 210.0,
+        "transfer_income": 0,
+        "total_receipts": 210.0,
+        "total_expenditure": 221.55,
+        "balance": -11.55,
+        "balance_percent_of_output": -1.375,
+        "liquid_reserves": 25.2,
+        "gross_debt": 199.5,
+        "net_debt": 174.3,
+        "effective_interest_percent": 6.0,
+        "interest": 11.97,
+        "expenditure": {
+          "defence": 109.2,
+          "administration": 35.133,
+          "works": 22.084,
+          "health": 18.068,
+          "education": 10.038,
+          "agriculture": 15.057,
+          "interest": 11.97,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 43.68,
+          "supply": 27.3,
+          "maintenance": 18.564,
+          "procurement": 13.104,
+          "fortifications": 6.552
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 11.55,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Frontier provisioning strains the limited receipts of rural estates."
+      }
     },
     {
       "id": "other-otranto-400",
@@ -1132,7 +1816,7 @@
       "specialties": "Tropical produce, timber concessions, harbour handling and coastal escorts",
       "constraints": "Canton tolls and planter credit divide the export trade. Escort flotillas answer to their sponsors; the combined manpower is not one army.",
       "older_arts": "Canton healers inherit plant lore and protective observances. Port subscribers occasionally pay to compare case records, but inland custodians resist giving away family knowledge.",
-      "description": "The cantons grew out of harbour and plantation charters left without a royal guarantor after the Long Culling. Jougrenne convenes the coastal toll assembly; Nantac administers a separate inland land court. Neither can tax the other’s households. Harbour dues fund escorts while plantation owners pay for roads and demand control of the checkpoints. Veldrassen buys tropical produce and timber here, but its purchasing agents face competing canton tariffs rather than a single ministry. Tenant disputes centre on debt and access to cleared farmland; the assembly meets over commercial quarrels, not to command a national army. Lorrevento provides a charted coastal gateway, with defended access to Chignoro. Separate canton harbour dependencies; local fishing rights and harbour dues remain with the charter communities. Charted island harbours: Vessantine.",
+      "description": "The cantons grew out of harbour and plantation charters left without a royal guarantor after the Long Culling. Jougrenne convenes the coastal toll assembly; Nantac administers a separate inland land court. Neither can tax the other\u2019s households. Harbour dues fund escorts while plantation owners pay for roads and demand control of the checkpoints. Veldrassen buys tropical produce and timber here, but its purchasing agents face competing canton tariffs rather than a single ministry. Tenant disputes centre on debt and access to cleared farmland; the assembly meets over commercial quarrels, not to command a national army. Lorrevento provides a charted coastal gateway, with defended access to Chignoro. Separate canton harbour dependencies; local fishing rights and harbour dues remain with the charter communities. Charted island harbours: Vessantine.",
       "food": {
         "id": "other-otranto-400",
         "name": "Bellacosta Cantons",
@@ -1144,7 +1828,45 @@
         "daily_life": ""
       },
       "government": "Coastal canton assemblies and inland land courts; shared toll negotiations, separate treasuries and troops.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 758.2,
+        "transfer_income": 0,
+        "total_receipts": 758.2,
+        "total_expenditure": 769.573,
+        "balance": -11.373,
+        "balance_percent_of_output": -0.27,
+        "liquid_reserves": 151.64,
+        "gross_debt": 606.56,
+        "net_debt": 454.92,
+        "effective_interest_percent": 5.5,
+        "interest": 33.361,
+        "expenditure": {
+          "defence": 379.1,
+          "administration": 82.136,
+          "works": 85.707,
+          "health": 60.709,
+          "education": 35.711,
+          "agriculture": 92.849,
+          "interest": 33.361,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 151.64,
+          "supply": 94.775,
+          "maintenance": 64.447,
+          "procurement": 45.492,
+          "fortifications": 22.746
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 11.373,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Harbour and plantation districts carry different debts; no canton can spend the combined balance."
+      }
     },
     {
       "id": "other-otranto-700",
@@ -1193,7 +1915,7 @@
       "specialties": "Wool, preserved provisions, upland cartage and small estate workshops",
       "constraints": "Rights of passage change between courts. Winter fodder and incompatible toll privileges limit concentration more than nominal levy strength.",
       "older_arts": "Court chapbooks mix household wards with dynastic histories. Independent practitioners move between patrons and market fairs, carrying techniques that rival courts claim as their own.",
-      "description": "A chain of small courts and charter towns occupies the southwestern approaches. Collengo’s market charter protects merchants from estate levies, while the lords around Peregia claim payment for escorting their wagons. Winter fodder and access through the uplands matter more than distant dynastic titles. Albaret brokers wool and preserved food between the courts. Marriage contracts frequently change toll rights without moving a border; merchants employ local advocates to interpret them. Southern sea trade offers an alternative to the roads, but only to houses able to finance a shipment. Vellorito provides a charted coastal gateway, with defended access to Totarosco. Dependencies of individual coastal principalities, linked by a limited pilotage compact rather than a new island kingdom. Charted island harbours: Monteliva.",
+      "description": "A chain of small courts and charter towns occupies the southwestern approaches. Collengo\u2019s market charter protects merchants from estate levies, while the lords around Peregia claim payment for escorting their wagons. Winter fodder and access through the uplands matter more than distant dynastic titles. Albaret brokers wool and preserved food between the courts. Marriage contracts frequently change toll rights without moving a border; merchants employ local advocates to interpret them. Southern sea trade offers an alternative to the roads, but only to houses able to finance a shipment. Vellorito provides a charted coastal gateway, with defended access to Totarosco. Dependencies of individual coastal principalities, linked by a limited pilotage compact rather than a new island kingdom. Charted island harbours: Monteliva.",
       "food": {
         "id": "other-otranto-700",
         "name": "Cavressa Principalities",
@@ -1205,7 +1927,45 @@
         "daily_life": ""
       },
       "government": "Independent principalities, free market charters and estate courts; no common sovereign.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 549.4,
+        "transfer_income": 0,
+        "total_receipts": 549.4,
+        "total_expenditure": 571.376,
+        "balance": -21.976,
+        "balance_percent_of_output": -0.72,
+        "liquid_reserves": 87.904,
+        "gross_debt": 549.4,
+        "net_debt": 461.496,
+        "effective_interest_percent": 6.0,
+        "interest": 32.964,
+        "expenditure": {
+          "defence": 274.7,
+          "administration": 92.299,
+          "works": 58.017,
+          "health": 47.468,
+          "education": 26.371,
+          "agriculture": 39.557,
+          "interest": 32.964,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 109.88,
+          "supply": 68.675,
+          "maintenance": 46.699,
+          "procurement": 32.964,
+          "fortifications": 16.482
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 21.976,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Court obligations and winter supply produce uneven local deficits."
+      }
     },
     {
       "id": "other-otranto-1100",
@@ -1254,7 +2014,7 @@
       "specialties": "Irrigated grain, mill machinery, fertiliser works and inland water freight",
       "constraints": "Water commands hold separate troops. A damaged gate or withheld release can disable production without an invading army taking the towns.",
       "older_arts": "Reservoir communities preserve water-divining traditions. Boards test useful claims against measured flows; most inherited observances remain unverified.",
-      "description": "Anselleuil’s reservoir command, Jarnan’s commercial council and the estate assemblies around Votane share a drainage basin but not a government. Their water compact survived the destruction of the authority that first imposed it. Gates must open in an agreed order; delaying an upstream release can destroy a downstream planting season. Brannervaux engineers are employed as arbitrators and suspected of favouring their own merchants. Grain barges, mill repair and fertiliser works sustain the towns. Disputes usually begin as inspections, impoundments and unpaid maintenance bills before soldiers become involved. Cortelune provides a charted coastal gateway, with defended access to Leignay. Offshore charter communities of the basin leagues, sharing pilots and navigation dues without a unified sovereign. Charted island harbours: Cernavie.",
+      "description": "Anselleuil\u2019s reservoir command, Jarnan\u2019s commercial council and the estate assemblies around Votane share a drainage basin but not a government. Their water compact survived the destruction of the authority that first imposed it. Gates must open in an agreed order; delaying an upstream release can destroy a downstream planting season. Brannervaux engineers are employed as arbitrators and suspected of favouring their own merchants. Grain barges, mill repair and fertiliser works sustain the towns. Disputes usually begin as inspections, impoundments and unpaid maintenance bills before soldiers become involved. Cortelune provides a charted coastal gateway, with defended access to Leignay. Offshore charter communities of the basin leagues, sharing pilots and navigation dues without a unified sovereign. Charted island harbours: Cernavie.",
       "food": {
         "id": "other-otranto-1100",
         "name": "Vaulcerre Basin Leagues",
@@ -1266,7 +2026,45 @@
         "daily_life": ""
       },
       "government": "Three principal water authorities with smaller charter towns; a binding water compact but no unified army.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 719.3,
+        "transfer_income": 0,
+        "total_receipts": 719.3,
+        "total_expenditure": 733.686,
+        "balance": -14.386,
+        "balance_percent_of_output": -0.36,
+        "liquid_reserves": 158.246,
+        "gross_debt": 647.37,
+        "net_debt": 489.124,
+        "effective_interest_percent": 5.0,
+        "interest": 32.368,
+        "expenditure": {
+          "defence": 359.6,
+          "administration": 78.595,
+          "works": 82.012,
+          "health": 58.092,
+          "education": 34.172,
+          "agriculture": 88.847,
+          "interest": 32.368,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 143.84,
+          "supply": 89.9,
+          "maintenance": 61.132,
+          "procurement": 43.152,
+          "fortifications": 21.576
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 14.386,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Water authorities borrow for gates and channels against their own toll streams."
+      }
     },
     {
       "id": "other-otranto-1450",
@@ -1315,19 +2113,57 @@
       "specialties": "Export warehousing, coastal shipping, food processing and commercial credit",
       "constraints": "Port conventions facilitate cargo, not military command. Inland debt disputes and foreign shipping insurance expose the region to commercial pressure.",
       "older_arts": "Harbour families collect foreign protective charms and accounts of unusual perception. Commercial correspondence circulates stories faster than competent teachers.",
-      "description": "Astrellac’s harbour republic and the inland estate courts share the eastern littoral with smaller free ports. Their commercial convention standardises bills of lading but leaves taxes and criminal law local. Shipping families advance money against harvests; rural houses resent foreclosures by creditors who never leave the coast. Rovessaran insurers and instrument makers are influential customers. Port patrols cooperate against raiders, yet seize one another’s cargo when a debt dispute turns political. Hinterland towns depend on export warehouses for salt, tools and credit, which gives the harbours power beyond their formal borders. Astrellac’s chartered island dependencies within the Seravelle return. Resident councils administer land and fisheries; Astrellac supplies customs officers, escorts and bonded fuel depots. The other Seravelle courts remain independent. Charted island harbours: Cortessia, Vasselac, Rovellisse.",
+      "description": "Astrellac\u2019s harbour republic and the inland estate courts share the eastern littoral with smaller free ports. Their commercial convention standardises bills of lading but leaves taxes and criminal law local. Shipping families advance money against harvests; rural houses resent foreclosures by creditors who never leave the coast. Rovessaran insurers and instrument makers are influential customers. Port patrols cooperate against raiders, yet seize one another\u2019s cargo when a debt dispute turns political. Hinterland towns depend on export warehouses for salt, tools and credit, which gives the harbours power beyond their formal borders. Astrellac\u2019s chartered island dependencies within the Seravelle return. Resident councils administer land and fisheries; Astrellac supplies customs officers, escorts and bonded fuel depots. The other Seravelle courts remain independent. Charted island harbours: Cortessia, Vasselac, Rovellisse.",
       "food": {
         "id": "other-otranto-1450",
         "name": "Seravelle Littoral",
         "tradition": "Eastern coastal tables",
         "history": "",
-        "everyday": "Astrellac cooks fish in tomato and fennel broth and lays yesterday’s bread beneath it. Bean-filled pastries and olives travel inland with merchants. Wealthy harbour tables add citrus-roasted poultry and almond cakes; dockworkers buy chickpea fritters. Coastal wine is plentiful locally, while coffee is sold in small, strong cups.",
+        "everyday": "Astrellac cooks fish in tomato and fennel broth and lays yesterday\u2019s bread beneath it. Bean-filled pastries and olives travel inland with merchants. Wealthy harbour tables add citrus-roasted poultry and almond cakes; dockworkers buy chickpea fritters. Coastal wine is plentiful locally, while coffee is sold in small, strong cups.",
         "hospitality": "",
         "drink": "",
         "daily_life": ""
       },
       "government": "Harbour republics and estate courts linked by a maritime commercial convention.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 1176.1,
+        "transfer_income": 0,
+        "total_receipts": 1176.1,
+        "total_expenditure": 1158.458,
+        "balance": 17.642,
+        "balance_percent_of_output": 0.27,
+        "liquid_reserves": 399.874,
+        "gross_debt": 1411.32,
+        "net_debt": 1011.446,
+        "effective_interest_percent": 4.5,
+        "interest": 63.509,
+        "expenditure": {
+          "defence": 588.1,
+          "administration": 111.507,
+          "works": 182.466,
+          "health": 81.096,
+          "education": 60.822,
+          "agriculture": 70.958,
+          "interest": 63.509,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 235.24,
+          "supply": 147.025,
+          "maintenance": 99.977,
+          "procurement": 70.572,
+          "fortifications": 35.286
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 0,
+          "net_principal_repayment": 10.585,
+          "reserve_increase": 7.057,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Commercial districts accumulate a modest combined surplus while carrying infrastructure bonds."
+      }
     },
     {
       "id": "other-morholt-1880",
@@ -1376,7 +2212,7 @@
       "specialties": "Coal export concessions, timber, extraction machinery and contract transport",
       "constraints": "Company forces protect particular assets. Charter disputes, imported food and dependence on Varnesk equipment undermine any combined mobilisation.",
       "older_arts": "Mining crews preserve warning rites and private accounts of uncanny perception. Concession managers value a useful warning but rarely fund research that might interrupt extraction.",
-      "description": "Concession houses hold time-limited rights to timber, minerals and fuel rather than sovereignty over every inhabitant. Asanetz keeps the surviving charter archive; Alauvenne houses one of the armed inspection posts. A house can own a railway and still owe rent to the community beneath it. Varnesk firms provide machinery and credit, exchanging technical dependence for preferred ore contracts. Charter renewals provoke strikes, armed intimidation and lawsuits over restoration bonds. Settlements outside a concession bargain for patrols in return for provisions; a company’s withdrawal can be more frightening than its arrival. Trelovre provides a charted coastal gateway, with defended access to Arinrin. Island shore communities under Haldrevik charter protection. Concession leases cover named working sites, not ownership of all inhabitants. Charted island harbours: Rovensac.",
+      "description": "Concession houses hold time-limited rights to timber, minerals and fuel rather than sovereignty over every inhabitant. Asanetz keeps the surviving charter archive; Alauvenne houses one of the armed inspection posts. A house can own a railway and still owe rent to the community beneath it. Varnesk firms provide machinery and credit, exchanging technical dependence for preferred ore contracts. Charter renewals provoke strikes, armed intimidation and lawsuits over restoration bonds. Settlements outside a concession bargain for patrols in return for provisions; a company\u2019s withdrawal can be more frightening than its arrival. Trelovre provides a charted coastal gateway, with defended access to Arinrin. Island shore communities under Haldrevik charter protection. Concession leases cover named working sites, not ownership of all inhabitants. Charted island harbours: Rovensac.",
       "food": {
         "id": "other-morholt-1880",
         "name": "Haldrevik Concessions",
@@ -1388,7 +2224,45 @@
         "daily_life": ""
       },
       "government": "Rival concession houses under separate charters; settlement councils retain residence and market law.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 203.6,
+        "transfer_income": 0,
+        "total_receipts": 203.6,
+        "total_expenditure": 210.726,
+        "balance": -7.126,
+        "balance_percent_of_output": -0.63,
+        "liquid_reserves": 32.576,
+        "gross_debt": 142.52,
+        "net_debt": 109.944,
+        "effective_interest_percent": 6.0,
+        "interest": 8.551,
+        "expenditure": {
+          "defence": 101.8,
+          "administration": 22.082,
+          "works": 36.135,
+          "health": 16.06,
+          "education": 12.045,
+          "agriculture": 14.053,
+          "interest": 8.551,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 40.72,
+          "supply": 25.45,
+          "maintenance": 17.306,
+          "procurement": 12.216,
+          "fortifications": 6.108
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 7.126,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Public concession receipts fund contract access; private company debts are excluded."
+      }
     },
     {
       "id": "other-morholt-2190",
@@ -1449,7 +2323,45 @@
         "daily_life": ""
       },
       "government": "Independent fortress wardens bound to civilian provisioning charters and a seasonal convoy muster.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 330.1,
+        "transfer_income": 0,
+        "total_receipts": 330.1,
+        "total_expenditure": 348.255,
+        "balance": -18.155,
+        "balance_percent_of_output": -0.99,
+        "liquid_reserves": 75.923,
+        "gross_debt": 198.06,
+        "net_debt": 122.137,
+        "effective_interest_percent": 6.0,
+        "interest": 11.884,
+        "expenditure": {
+          "defence": 165.1,
+          "administration": 37.68,
+          "works": 61.658,
+          "health": 27.403,
+          "education": 20.553,
+          "agriculture": 23.977,
+          "interest": 11.884,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 66.04,
+          "supply": 41.275,
+          "maintenance": 28.067,
+          "procurement": 19.812,
+          "fortifications": 9.906
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 18.155,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Winter depots and fortified approaches require borrowing by individual wardholds."
+      }
     },
     {
       "id": "other-morholt-2630",
@@ -1498,19 +2410,57 @@
       "specialties": "Fishing, timber, estate workshops and seasonal coastal freight",
       "constraints": "Port and estate forces obey different officers. Agricultural limits and dependence on Halskert grain make freight disruption especially costly.",
       "older_arts": "Fishing households and estate infirmaries preserve separate traditions. Port scribes collect storm accounts; families conceal gifts they fear a landlord might appropriate.",
-      "description": "The eastern estates descend from competing settlement grants, with Varkessant’s port charter carved out of the landed claims. Estate bailiffs administer courts and patrol obligations; the port elects its own commercial officers. Fishing communities resist attempts to classify their customary shore access as a landlord’s concession. Halskert buys fish and timber and sells grain, giving its merchants leverage in disputes over freight. Family alliances cross estate borders, but succession cases repeatedly fragment holdings. Seasonal workers move between shore crews and inland workshops, carrying news faster than the formal post. Varkessant’s port-charter dependencies; the mainland estate courts retain their separate jurisdictions. Charted island harbours: Cersund.",
+      "description": "The eastern estates descend from competing settlement grants, with Varkessant\u2019s port charter carved out of the landed claims. Estate bailiffs administer courts and patrol obligations; the port elects its own commercial officers. Fishing communities resist attempts to classify their customary shore access as a landlord\u2019s concession. Halskert buys fish and timber and sells grain, giving its merchants leverage in disputes over freight. Family alliances cross estate borders, but succession cases repeatedly fragment holdings. Seasonal workers move between shore crews and inland workshops, carrying news faster than the formal post. Varkessant\u2019s port-charter dependencies; the mainland estate courts retain their separate jurisdictions. Charted island harbours: Cersund.",
       "food": {
         "id": "other-morholt-2630",
         "name": "Varneselle Estates",
         "tradition": "Eastern estate tables",
         "history": "",
-        "everyday": "Fish baked under a rye crust is shared along the shore; inland tables favour potato cakes with cultured cream and mushrooms. A formal estate meal adds roast poultry and sour-berry pudding. Small beer accompanies workday suppers, while herb spirits are offered to guests. The port’s fresh bread distinguishes it from outlying households that bake only when fuel permits.",
+        "everyday": "Fish baked under a rye crust is shared along the shore; inland tables favour potato cakes with cultured cream and mushrooms. A formal estate meal adds roast poultry and sour-berry pudding. Small beer accompanies workday suppers, while herb spirits are offered to guests. The port\u2019s fresh bread distinguishes it from outlying households that bake only when fuel permits.",
         "hospitality": "",
         "drink": "",
         "daily_life": ""
       },
-      "government": "Hereditary estate courts, independent fishing charters and Varkessant’s municipal port government.",
-      "editorial_revision": 47
+      "government": "Hereditary estate courts, independent fishing charters and Varkessant\u2019s municipal port government.",
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 259.7,
+        "transfer_income": 0,
+        "total_receipts": 259.7,
+        "total_expenditure": 266.192,
+        "balance": -6.492,
+        "balance_percent_of_output": -0.45,
+        "liquid_reserves": 51.94,
+        "gross_debt": 129.85,
+        "net_debt": 77.91,
+        "effective_interest_percent": 5.5,
+        "interest": 7.142,
+        "expenditure": {
+          "defence": 129.9,
+          "administration": 29.705,
+          "works": 30.996,
+          "health": 21.956,
+          "education": 12.915,
+          "agriculture": 33.578,
+          "interest": 7.142,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 51.96,
+          "supply": 32.475,
+          "maintenance": 22.083,
+          "procurement": 15.588,
+          "fortifications": 7.794
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 6.492,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Seasonal supply and port upkeep leave a small combined funding gap."
+      }
     },
     {
       "id": "other-vesalius-2790",
@@ -1559,7 +2509,7 @@
       "specialties": "Textile finishing, estate produce, bonded warehousing and wagon repair",
       "constraints": "Foreign clients subsidise rival toll houses. Local garrisons cannot be added together as an expeditionary force without renegotiating their obligations.",
       "older_arts": "Travelling readers find patrons among rival march houses. Books cross borders as gifts or contraband, leaving local collections partial and politically guarded.",
-      "description": "The western marches form a belt of fortified lordships, town liberties and cultivated valleys between larger powers. Temevaux’s command guards a road junction; Malinne’s council controls a different customs district. Neither speaks for the entire belt. Tervayne merchants finance road repairs in exchange for bonded warehouses, while inland patrons subsidise rival toll houses. Small rulers survive by alternating clients and keeping neighbouring courts divided. Textile finishing, estate agriculture and wagon repair support a population far larger than its thinly charted principal towns suggest. A traveller’s permit may be valid for one bridge and useless at the next. Orsavie provides a charted coastal gateway, with defended access to Balbrenne. Chartered island lordships tied to the western marches by supply contracts; Tervayne has commercial privileges, not sovereignty. Charted island harbours: Lorvesset.",
+      "description": "The western marches form a belt of fortified lordships, town liberties and cultivated valleys between larger powers. Temevaux\u2019s command guards a road junction; Malinne\u2019s council controls a different customs district. Neither speaks for the entire belt. Tervayne merchants finance road repairs in exchange for bonded warehouses, while inland patrons subsidise rival toll houses. Small rulers survive by alternating clients and keeping neighbouring courts divided. Textile finishing, estate agriculture and wagon repair support a population far larger than its thinly charted principal towns suggest. A traveller\u2019s permit may be valid for one bridge and useless at the next. Orsavie provides a charted coastal gateway, with defended access to Balbrenne. Chartered island lordships tied to the western marches by supply contracts; Tervayne has commercial privileges, not sovereignty. Charted island harbours: Lorvesset.",
       "food": {
         "id": "other-vesalius-2790",
         "name": "Bressavelle Marches",
@@ -1571,7 +2521,45 @@
         "daily_life": ""
       },
       "government": "Fortified lordships and town liberties; overlapping foreign patronage, no regional crown.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 803.5,
+        "transfer_income": 0,
+        "total_receipts": 803.5,
+        "total_expenditure": 855.727,
+        "balance": -52.227,
+        "balance_percent_of_output": -1.17,
+        "liquid_reserves": 112.49,
+        "gross_debt": 883.85,
+        "net_debt": 771.36,
+        "effective_interest_percent": 6.5,
+        "interest": 57.45,
+        "expenditure": {
+          "defence": 401.8,
+          "administration": 138.767,
+          "works": 87.225,
+          "health": 71.366,
+          "education": 39.648,
+          "agriculture": 59.471,
+          "interest": 57.45,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 160.72,
+          "supply": 100.45,
+          "maintenance": 68.306,
+          "procurement": 48.216,
+          "fortifications": 24.108
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 52.227,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Separate toll authorities borrow against their own future receipts; their treasuries are not pooled."
+      }
     },
     {
       "id": "other-vesalius-2790-1410",
@@ -1620,7 +2608,7 @@
       "specialties": "Grain storage, warm-climate produce, food processing and inter-canton brokerage",
       "constraints": "Military governors and elected market boards compete for transport and stores. Requisition disputes can immobilise a nominally available reserve.",
       "older_arts": "Granary towns maintain household protection rites alongside practical medicine. Market festivals bring teachers together briefly, without creating a permanent regional academy.",
-      "description": "Southern market cantons rebuilt around local granaries after the Long Culling. Margeuil’s elected grain board, Darnenne’s military governor and the landed councils around Galigny compete over transport dues. Common measures for grain survived; a common treasury did not. Merchants connect warm lowland crops with cooler interior districts, using brokers who can guarantee passage through several authorities. Kelbrun buyers seek plantation produce and seasonal labour. Municipal councils resist the governors’ claim that every warehouse is a military asset, particularly after poor harvests make requisitions politically dangerous. Pravessant provides a charted coastal gateway, with defended access to Peillier. Dependencies of individual southern cantons, governed through resident councils and grain-shipping charters. Charted island harbours: Cervelune.",
+      "description": "Southern market cantons rebuilt around local granaries after the Long Culling. Margeuil\u2019s elected grain board, Darnenne\u2019s military governor and the landed councils around Galigny compete over transport dues. Common measures for grain survived; a common treasury did not. Merchants connect warm lowland crops with cooler interior districts, using brokers who can guarantee passage through several authorities. Kelbrun buyers seek plantation produce and seasonal labour. Municipal councils resist the governors\u2019 claim that every warehouse is a military asset, particularly after poor harvests make requisitions politically dangerous. Pravessant provides a charted coastal gateway, with defended access to Peillier. Dependencies of individual southern cantons, governed through resident councils and grain-shipping charters. Charted island harbours: Cervelune.",
       "food": {
         "id": "other-vesalius-2790-1410",
         "name": "Vallessia Cantons",
@@ -1632,7 +2620,45 @@
         "daily_life": ""
       },
       "government": "Market cantons, landed councils and surviving military governorships; a common weights agreement only.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 581.8,
+        "transfer_income": 0,
+        "total_receipts": 581.8,
+        "total_expenditure": 605.072,
+        "balance": -23.272,
+        "balance_percent_of_output": -0.72,
+        "liquid_reserves": 104.724,
+        "gross_debt": 494.53,
+        "net_debt": 389.806,
+        "effective_interest_percent": 6.0,
+        "interest": 29.672,
+        "expenditure": {
+          "defence": 290.9,
+          "administration": 65.435,
+          "works": 68.28,
+          "health": 48.365,
+          "education": 28.45,
+          "agriculture": 73.97,
+          "interest": 29.672,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 116.36,
+          "supply": 72.725,
+          "maintenance": 49.453,
+          "procurement": 34.908,
+          "fortifications": 17.454
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 23.272,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Storage and transport spending is negotiated separately by canton."
+      }
     },
     {
       "id": "other-vesalius-3160",
@@ -1681,19 +2707,57 @@
       "specialties": "Pilotage, coastal provisions, fishing and inland agricultural markets",
       "constraints": "Small communes lack a shared naval command. Poorly charted harbours, seasonal labour and interrupted inland roads limit the usable export surplus.",
       "older_arts": "Pilot families pass down sea omens and protective marks. Inland healers keep different records, and neither tradition offers a reliable substitute for ordinary seamanship or medicine.",
-      "description": "Saultac is the best-charted inland market in a southeastern coastal region of small port communes and hereditary agricultural districts. Mainland and island harbours now complement the inland market on the chart. Pilots’ guilds set practical terms for coastal travel; inland houses control cultivated land and the roads supplying the harbours. Ceralte brokers buy provisions here without governing the coast. Rival communes share storm warnings but guard their harbour soundings. The region’s political disputes concern port fees, seasonal labour and who funds guarded access to inland markets, rather than a single national succession. Vessaline provides a charted coastal gateway, with defended access to Saultac. A dependency of the coastal port commune, governed by its harbour charter and resident island councillors. Charted island harbours: Vallarive.",
+      "description": "Saultac is the best-charted inland market in a southeastern coastal region of small port communes and hereditary agricultural districts. Mainland and island harbours now complement the inland market on the chart. Pilots\u2019 guilds set practical terms for coastal travel; inland houses control cultivated land and the roads supplying the harbours. Ceralte brokers buy provisions here without governing the coast. Rival communes share storm warnings but guard their harbour soundings. The region\u2019s political disputes concern port fees, seasonal labour and who funds guarded access to inland markets, rather than a single national succession. Vessaline provides a charted coastal gateway, with defended access to Saultac. A dependency of the coastal port commune, governed by its harbour charter and resident island councillors. Charted island harbours: Vallarive.",
       "food": {
         "id": "other-vesalius-3160",
         "name": "Rivessac Coast",
         "tradition": "Southeastern border tables",
         "history": "",
-        "everyday": "Coastal kitchens combine fish, white beans, garlic and local greens; inland families make herb dumplings and barley bread. Saultac’s market speciality is poultry braised with olives and sour citrus. Hosts offer almond biscuits with coffee when they can afford it; diluted wine or herbal infusions are more usual. Fresh fish becomes a luxury only a short disrupted journey inland.",
+        "everyday": "Coastal kitchens combine fish, white beans, garlic and local greens; inland families make herb dumplings and barley bread. Saultac\u2019s market speciality is poultry braised with olives and sour citrus. Hosts offer almond biscuits with coffee when they can afford it; diluted wine or herbal infusions are more usual. Fresh fish becomes a luxury only a short disrupted journey inland.",
         "hospitality": "",
         "drink": "",
         "daily_life": ""
       },
       "government": "Port communes and agricultural districts linked by pilotage agreements; separate administrations.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 466.6,
+        "transfer_income": 0,
+        "total_receipts": 466.6,
+        "total_expenditure": 461.934,
+        "balance": 4.666,
+        "balance_percent_of_output": 0.18,
+        "liquid_reserves": 125.982,
+        "gross_debt": 233.3,
+        "net_debt": 107.318,
+        "effective_interest_percent": 5.0,
+        "interest": 11.665,
+        "expenditure": {
+          "defence": 233.3,
+          "administration": 47.733,
+          "works": 78.109,
+          "health": 34.715,
+          "education": 26.036,
+          "agriculture": 30.376,
+          "interest": 11.665,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 93.32,
+          "supply": 58.325,
+          "maintenance": 39.661,
+          "procurement": 27.996,
+          "fortifications": 13.998
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 0,
+          "net_principal_repayment": 2.8,
+          "reserve_increase": 1.866,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Port communes retain a small combined surplus for local harbour and supply buffers."
+      }
     },
     {
       "id": "karsenne",
@@ -1753,7 +2817,45 @@
         "drink": "Whey drinks and small beer during work; juniper spirit after the shift.",
         "daily_life": "Lower valleys supply potatoes and cabbage, upland pastures cheese. Bought flour and coastal salt become costly when freight negotiations fail."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 386.4,
+        "transfer_income": 0,
+        "total_receipts": 386.4,
+        "total_expenditure": 409.584,
+        "balance": -23.184,
+        "balance_percent_of_output": -1.26,
+        "liquid_reserves": 69.552,
+        "gross_debt": 483.0,
+        "net_debt": 413.448,
+        "effective_interest_percent": 5.5,
+        "interest": 26.565,
+        "expenditure": {
+          "defence": 220.8,
+          "administration": 35.688,
+          "works": 58.399,
+          "health": 25.955,
+          "education": 19.466,
+          "agriculture": 22.711,
+          "interest": 26.565,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 88.32,
+          "supply": 55.2,
+          "maintenance": 37.536,
+          "procurement": 26.496,
+          "fortifications": 13.248
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 23.184,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Existing pass works and mine approaches absorb investment; the proposed Calvernis railway is not funded construction."
+      }
     },
     {
       "id": "caldrienne",
@@ -1809,11 +2911,49 @@
         "tradition": "Eastern rail-and-coast",
         "history": "Agricultural estates feed the northern arsenals; ducal kitchens and barracks draw on the same cattle and grain districts at very different prices.",
         "everyday": "Valdrec sour-pot: cabbage, potato and beef simmered with caraway; soldiers receive more cabbage and less beef.",
-        "hospitality": "Roast goose with apple stuffing and buckwheat cakes, served at estate weddings and officers’ banquets.",
+        "hospitality": "Roast goose with apple stuffing and buckwheat cakes, served at estate weddings and officers\u2019 banquets.",
         "drink": "Dark malt beer; plum spirit poured in small glasses.",
         "daily_life": "Army purchasing can empty market stalls before a mobilisation. Housewives argue over whether a proper sour-pot should contain tomato, an imported coastal habit."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 1195.0,
+        "transfer_income": 0,
+        "total_receipts": 1195.0,
+        "total_expenditure": 1272.675,
+        "balance": -77.675,
+        "balance_percent_of_output": -1.625,
+        "liquid_reserves": 191.2,
+        "gross_debt": 1912.0,
+        "net_debt": 1720.8,
+        "effective_interest_percent": 5.0,
+        "interest": 95.6,
+        "expenditure": {
+          "defence": 621.4,
+          "administration": 122.248,
+          "works": 200.043,
+          "health": 88.908,
+          "education": 66.681,
+          "agriculture": 77.795,
+          "interest": 95.6,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 248.56,
+          "supply": 155.35,
+          "maintenance": 105.638,
+          "procurement": 74.568,
+          "fortifications": 37.284
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 77.675,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Armament production and the armed truce require a continuing bond programme."
+      }
     },
     {
       "id": "veyrasse",
@@ -1861,8 +3001,8 @@
       "cohesion": 3,
       "specialties": "Railway engineering, port trade and municipal industry",
       "constraints": "Chartered houses, municipal funding and freight bottlenecks constrain command; machinery and fuel imports matter.",
-      "older_arts": "Private circles and inherited manuscripts sustain the older arts outside the Collegium’s main priorities. Proven gifts are rare; most scholars judge claims cautiously rather than treating every charm as effective.",
-      "description": "The charter balances the Margrave, landed houses, municipal councils and industrial proprietors. Auvrienne holds the court and government; Serravonne is a secondary port and rail junction. Coastal agriculture and workshops depend on inland ores and imported machinery. Railway unions can disrupt mobilisation, and poorer households bear disproportionate service obligations. Caldrienne remains the principal territorial rival; Karsenne is an essential supplier, while Calvernis and Ceralte provide competing maritime connections. The Margrave commands the standing army and foreign relations, while chartered institutions provide much of the money, manpower and transport. Education and engineering offer advancement through patronage. Railway superintendent Leont Vardesca governs railway affairs and dependants, not Serravonne’s government or army.",
+      "older_arts": "Private circles and inherited manuscripts sustain the older arts outside the Collegium\u2019s main priorities. Proven gifts are rare; most scholars judge claims cautiously rather than treating every charm as effective.",
+      "description": "The charter balances the Margrave, landed houses, municipal councils and industrial proprietors. Auvrienne holds the court and government; Serravonne is a secondary port and rail junction. Coastal agriculture and workshops depend on inland ores and imported machinery. Railway unions can disrupt mobilisation, and poorer households bear disproportionate service obligations. Caldrienne remains the principal territorial rival; Karsenne is an essential supplier, while Calvernis and Ceralte provide competing maritime connections. The Margrave commands the standing army and foreign relations, while chartered institutions provide much of the money, manpower and transport. Education and engineering offer advancement through patronage. Railway superintendent Leont Vardesca governs railway affairs and dependants, not Serravonne\u2019s government or army.",
       "food": {
         "id": "veyrasse",
         "name": "March of Veyrasse",
@@ -1871,9 +3011,47 @@
         "everyday": "Ressant pot: white beans, leeks and barley, enriched with smoked pork when wages permit. Railway kitchens keep it warm for staggered shifts.",
         "hospitality": "Auvrienne veal in mustard cream, with buttered noodles; pear pastries follow at prosperous tables.",
         "drink": "Chicory coffee in workshops; real coffee, apple cider and dry valley wine in better-supplied houses.",
-        "daily_life": "Fresh fish is ordinary near Serravonne, expensive uphill after a disrupted train. Station households stretch yesterday’s bread into broth dumplings."
+        "daily_life": "Fresh fish is ordinary near Serravonne, expensive uphill after a disrupted train. Station households stretch yesterday\u2019s bread into broth dumplings."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 675.9,
+        "transfer_income": 0,
+        "total_receipts": 675.9,
+        "total_expenditure": 692.797,
+        "balance": -16.897,
+        "balance_percent_of_output": -0.525,
+        "liquid_reserves": 168.975,
+        "gross_debt": 811.08,
+        "net_debt": 642.105,
+        "effective_interest_percent": 4.5,
+        "interest": 36.499,
+        "expenditure": {
+          "defence": 354.0,
+          "administration": 66.506,
+          "works": 108.827,
+          "health": 48.368,
+          "education": 36.276,
+          "agriculture": 42.321,
+          "interest": 36.499,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 141.6,
+          "supply": 88.5,
+          "maintenance": 60.18,
+          "procurement": 42.48,
+          "fortifications": 21.24
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 16.897,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Existing rail and municipal waterworks produce a manageable planned deficit; unbuilt national wonders have no appropriation."
+      }
     },
     {
       "id": "calvernis",
@@ -1928,12 +3106,50 @@
         "name": "Calvernis Republic",
         "tradition": "Eastern rail-and-coast",
         "history": "The banking ports absorbed recipes from their merchant crews, while inland households retained grain-and-bean cooking.",
-        "everyday": "Miravelle fish pot: firm coastal fish, onions, white beans and wine broth, ladled over yesterday’s bread.",
-        "hospitality": "Saffron rice with shellfish and a separately served herb oil; expensive spice marks a host’s means.",
+        "everyday": "Miravelle fish pot: firm coastal fish, onions, white beans and wine broth, ladled over yesterday\u2019s bread.",
+        "hospitality": "Saffron rice with shellfish and a separately served herb oil; expensive spice marks a host\u2019s means.",
         "drink": "Dry white wine, anise cordial and strong coffee.",
-        "daily_life": "Dockside stalls sell fried small fish in paper. A merchant’s citrus preserves may have travelled farther than the guests eating them."
+        "daily_life": "Dockside stalls sell fried small fish in paper. A merchant\u2019s citrus preserves may have travelled farther than the guests eating them."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 1083.3,
+        "transfer_income": 0,
+        "total_receipts": 1083.3,
+        "total_expenditure": 1056.217,
+        "balance": 27.083,
+        "balance_percent_of_output": 0.525,
+        "liquid_reserves": 454.986,
+        "gross_debt": 1516.62,
+        "net_debt": 1061.634,
+        "effective_interest_percent": 4.0,
+        "interest": 60.665,
+        "expenditure": {
+          "defence": 515.9,
+          "administration": 105.523,
+          "works": 172.675,
+          "health": 76.744,
+          "education": 57.558,
+          "agriculture": 67.152,
+          "interest": 60.665,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 165.088,
+          "supply": 128.975,
+          "maintenance": 113.498,
+          "procurement": 82.544,
+          "fortifications": 25.795
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 0,
+          "net_principal_repayment": 16.25,
+          "reserve_increase": 10.833,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Shipping and banking receipts sustain a surplus despite substantial public infrastructure debt."
+      }
     },
     {
       "id": "ceralte",
@@ -1988,12 +3204,50 @@
         "name": "Ceralte Admiralty",
         "tradition": "Island stores and convoy cooking",
         "history": "Limited grain land and long sea passages made imported flour, preserved fish and safe drinking water matters of government.",
-        "everyday": "Dalmor soaked biscuit: ship’s bread softened with fish broth, oil and onions; ashore it gains tomatoes and herbs.",
+        "everyday": "Dalmor soaked biscuit: ship\u2019s bread softened with fish broth, oil and onions; ashore it gains tomatoes and herbs.",
         "hospitality": "Whole baked rockfish under a salt crust, opened at the table; almond-and-citrus cakes for shore leave and family feasts.",
         "drink": "Weak beer, diluted island wine and lemon syrup when supplies allow.",
         "daily_life": "Islanders know several preparations of the same catch. Grain shortages change the size of a loaf before they change a naval ration."
       },
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 170.4,
+        "transfer_income": 0,
+        "total_receipts": 170.4,
+        "total_expenditure": 176.364,
+        "balance": -5.964,
+        "balance_percent_of_output": -0.875,
+        "liquid_reserves": 51.12,
+        "gross_debt": 187.44,
+        "net_debt": 136.32,
+        "effective_interest_percent": 4.5,
+        "interest": 8.435,
+        "expenditure": {
+          "defence": 95.4,
+          "administration": 15.956,
+          "works": 26.11,
+          "health": 11.605,
+          "education": 8.703,
+          "agriculture": 10.155,
+          "interest": 8.435,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 30.528,
+          "supply": 23.85,
+          "maintenance": 20.988,
+          "procurement": 15.264,
+          "fortifications": 4.77
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 5.964,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Naval maintenance and imported provisions require borrowing alongside a maritime contingency buffer."
+      }
     },
     {
       "id": "varessan",
@@ -2053,7 +3307,45 @@
         "name": "Varessan Sea League",
         "tradition": "Varessan Sea League island table"
       },
-      "editorial_revision": 52
+      "editorial_revision": 52,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 39.06,
+        "transfer_income": 0,
+        "total_receipts": 39.06,
+        "total_expenditure": 38.669,
+        "balance": 0.391,
+        "balance_percent_of_output": 0.14,
+        "liquid_reserves": 10.937,
+        "gross_debt": 9.765,
+        "net_debt": -1.172,
+        "effective_interest_percent": 5.0,
+        "interest": 0.488,
+        "expenditure": {
+          "defence": 12.555,
+          "administration": 5.894,
+          "works": 6.15,
+          "health": 4.356,
+          "education": 2.563,
+          "agriculture": 6.663,
+          "interest": 0.488,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 5.022,
+          "supply": 3.139,
+          "maintenance": 2.134,
+          "procurement": 1.507,
+          "fortifications": 0.753
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 0,
+          "net_principal_repayment": 0.235,
+          "reserve_increase": 0.156,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Assembly levies support a modest surplus; freshwater and island access take priority."
+      }
     },
     {
       "id": "talasca",
@@ -2114,7 +3406,45 @@
         "tradition": "Talascan Charter Islands island table"
       },
       "editorial_revision": 52,
-      "sovereign_parent": "rovessara"
+      "sovereign_parent": "rovessara",
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 30.8,
+        "transfer_income": 1.5,
+        "total_receipts": 32.3,
+        "total_expenditure": 31.416,
+        "balance": 0.884,
+        "balance_percent_of_output": 0.459,
+        "liquid_reserves": 5.544,
+        "gross_debt": 13.86,
+        "net_debt": 8.316,
+        "effective_interest_percent": 5.0,
+        "interest": 0.693,
+        "expenditure": {
+          "defence": 11.55,
+          "administration": 4.218,
+          "works": 6.902,
+          "health": 3.068,
+          "education": 2.301,
+          "agriculture": 2.684,
+          "interest": 0.693,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 4.62,
+          "supply": 2.888,
+          "maintenance": 1.964,
+          "procurement": 1.386,
+          "fortifications": 0.692
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 0,
+          "net_principal_repayment": 0.53,
+          "reserve_increase": 0.354,
+          "reserve_drawdown": 0
+        },
+        "assessment": "The colonial grant is booked once against the parent; private concession profits are not public reserves."
+      }
     },
     {
       "id": "nemerai",
@@ -2174,7 +3504,45 @@
         "name": "Nemerai Crown",
         "tradition": "Nemerai Crown island table"
       },
-      "editorial_revision": 52
+      "editorial_revision": 52,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 60.32,
+        "transfer_income": 0,
+        "total_receipts": 60.32,
+        "total_expenditure": 61.225,
+        "balance": -0.905,
+        "balance_percent_of_output": -0.195,
+        "liquid_reserves": 15.08,
+        "gross_debt": 24.128,
+        "net_debt": 9.048,
+        "effective_interest_percent": 5.0,
+        "interest": 1.206,
+        "expenditure": {
+          "defence": 23.2,
+          "administration": 8.468,
+          "works": 8.837,
+          "health": 6.259,
+          "education": 3.682,
+          "agriculture": 9.573,
+          "interest": 1.206,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 9.28,
+          "supply": 5.8,
+          "maintenance": 3.944,
+          "procurement": 2.784,
+          "fortifications": 1.392
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 0.905,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Terrace and harbour maintenance produce a small deficit under compact-approved borrowing."
+      }
     },
     {
       "id": "ordelune",
@@ -2223,7 +3591,7 @@
       "specialties": "Wool, grain, preserved fish and southern provisioning",
       "constraints": "Storm-season isolation, limited machine shops and disputed crown leases.",
       "older_arts": "Households preserve weather and healing traditions; the colonial registry records only some practitioners.",
-      "description": "Ostrevain’s southern overseas districts join two island clusters under a governor at Ordelune, linked by supply sailings rather than continuous land administration. Crown estates, settler farms and older island communities coexist under unequal tax and land arrangements. Wool, grain and preserved food finance the administration; district councils seek a greater share of customs revenue. Outlying harbours depend on local pilots and winter stores. Ostrevain claims the chain but has no effective authority over Austral Land, and the governor cannot promise passage through polar waters.",
+      "description": "Ostrevain\u2019s southern overseas districts join two island clusters under a governor at Ordelune, linked by supply sailings rather than continuous land administration. Crown estates, settler farms and older island communities coexist under unequal tax and land arrangements. Wool, grain and preserved food finance the administration; district councils seek a greater share of customs revenue. Outlying harbours depend on local pilots and winter stores. Ostrevain claims the chain but has no effective authority over Austral Land, and the governor cannot promise passage through polar waters.",
       "food": {
         "history": "Cold-water fishing and mixed farming supply households and passing ships.",
         "everyday": "Oat broth with smoked fish, turnips and buttered bread.",
@@ -2235,7 +3603,45 @@
         "tradition": "Ordelune Overseas Districts island table"
       },
       "editorial_revision": 52,
-      "sovereign_parent": "ostrevain"
+      "sovereign_parent": "ostrevain",
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 18.9,
+        "transfer_income": 2.5,
+        "total_receipts": 21.4,
+        "total_expenditure": 20.412,
+        "balance": 0.988,
+        "balance_percent_of_output": 0.732,
+        "liquid_reserves": 4.536,
+        "gross_debt": 5.67,
+        "net_debt": 1.134,
+        "effective_interest_percent": 5.0,
+        "interest": 0.284,
+        "expenditure": {
+          "defence": 6.075,
+          "administration": 3.232,
+          "works": 3.373,
+          "health": 2.389,
+          "education": 1.405,
+          "agriculture": 3.654,
+          "interest": 0.284,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 2.43,
+          "supply": 1.519,
+          "maintenance": 1.033,
+          "procurement": 0.729,
+          "fortifications": 0.364
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 0,
+          "net_principal_repayment": 0.593,
+          "reserve_increase": 0.395,
+          "reserve_drawdown": 0
+        },
+        "assessment": "A matched metropolitan subsidy covers part of the southern supply burden."
+      }
     },
     {
       "id": "skeldra",
@@ -2290,12 +3696,50 @@
         "everyday": "Fish-and-barley broth with turnips and hard cheese.",
         "hospitality": "Slow-cooked mutton and berry cakes at assemblies.",
         "drink": "Weak malt ale and hot berry infusions.",
-        "daily_life": "Visitors eat from a host hearth’s stores; prolonged stays create reciprocal obligations.",
+        "daily_life": "Visitors eat from a host hearth\u2019s stores; prolonged stays create reciprocal obligations.",
         "id": "skeldra",
         "name": "Skeldran Hearth Confederacy",
         "tradition": "Skeldran Hearth Confederacy island table"
       },
-      "editorial_revision": 52
+      "editorial_revision": 52,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 4.275,
+        "transfer_income": 0,
+        "total_receipts": 4.275,
+        "total_expenditure": 4.19,
+        "balance": 0.085,
+        "balance_percent_of_output": 0.199,
+        "liquid_reserves": 1.496,
+        "gross_debt": 0.428,
+        "net_debt": -1.068,
+        "effective_interest_percent": 5.0,
+        "interest": 0.021,
+        "expenditure": {
+          "defence": 1.71,
+          "administration": 0.566,
+          "works": 0.566,
+          "health": 0.713,
+          "education": 0.246,
+          "agriculture": 0.368,
+          "interest": 0.021,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 0.821,
+          "supply": 0.445,
+          "maintenance": 0.239,
+          "procurement": 0.12,
+          "fortifications": 0.085
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 0,
+          "net_principal_repayment": 0.051,
+          "reserve_increase": 0.034,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Low debt accompanies communal stores and rescue commitments; stores themselves are not liquid cash."
+      }
     },
     {
       "id": "merovia",
@@ -2355,7 +3799,45 @@
         "name": "Merovian Island Republic",
         "tradition": "Merovian Island Republic island table"
       },
-      "editorial_revision": 52
+      "editorial_revision": 52,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 54.72,
+        "transfer_income": 0,
+        "total_receipts": 54.72,
+        "total_expenditure": 56.088,
+        "balance": -1.368,
+        "balance_percent_of_output": -0.45,
+        "liquid_reserves": 17.51,
+        "gross_debt": 35.568,
+        "net_debt": 18.058,
+        "effective_interest_percent": 4.5,
+        "interest": 1.601,
+        "expenditure": {
+          "defence": 19.76,
+          "administration": 7.64,
+          "works": 12.502,
+          "health": 5.556,
+          "education": 4.167,
+          "agriculture": 4.862,
+          "interest": 1.601,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 7.904,
+          "supply": 4.94,
+          "maintenance": 3.359,
+          "procurement": 2.371,
+          "fortifications": 1.186
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 1.368,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Marine works and pumps are partly bond-financed despite substantial liquid reserves."
+      }
     },
     {
       "id": "ashalai",
@@ -2415,7 +3897,45 @@
         "name": "Ashalai Reef Covenant",
         "tradition": "Ashalai Reef Covenant island table"
       },
-      "editorial_revision": 52
+      "editorial_revision": 52,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 29.04,
+        "transfer_income": 0,
+        "total_receipts": 29.04,
+        "total_expenditure": 29.33,
+        "balance": -0.29,
+        "balance_percent_of_output": -0.11,
+        "liquid_reserves": 6.389,
+        "gross_debt": 5.808,
+        "net_debt": -0.581,
+        "effective_interest_percent": 5.5,
+        "interest": 0.319,
+        "expenditure": {
+          "defence": 10.56,
+          "administration": 4.244,
+          "works": 4.428,
+          "health": 3.137,
+          "education": 1.845,
+          "agriculture": 4.797,
+          "interest": 0.319,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 5.069,
+          "supply": 2.746,
+          "maintenance": 1.478,
+          "procurement": 0.739,
+          "fortifications": 0.528
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 0.29,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Small negotiated loans support water and agricultural works without pledging all communal land."
+      }
     },
     {
       "id": "istrana",
@@ -2475,7 +3995,45 @@
         "name": "Kingdom of Istrana",
         "tradition": "Kingdom of Istrana island table"
       },
-      "editorial_revision": 52
+      "editorial_revision": 52,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 49.088,
+        "transfer_income": 0,
+        "total_receipts": 49.088,
+        "total_expenditure": 51.052,
+        "balance": -1.964,
+        "balance_percent_of_output": -0.68,
+        "liquid_reserves": 9.818,
+        "gross_debt": 36.816,
+        "net_debt": 26.998,
+        "effective_interest_percent": 5.0,
+        "interest": 1.841,
+        "expenditure": {
+          "defence": 17.325,
+          "administration": 7.015,
+          "works": 7.653,
+          "health": 6.058,
+          "education": 7.334,
+          "agriculture": 3.826,
+          "interest": 1.841,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 6.93,
+          "supply": 4.331,
+          "maintenance": 2.945,
+          "procurement": 2.079,
+          "fortifications": 1.04
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 1.964,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Assembly-approved borrowing supports schools and port works, subject to existing limits on royal credit."
+      }
     },
     {
       "id": "edrask",
@@ -2524,7 +4082,7 @@
       "specialties": "Timber, preserved fish, weather stations and regional resupply",
       "constraints": "Seasonal northern access, disputed concessions and dependence on imported grain and machinery.",
       "older_arts": "Local custodians preserve island rites alongside mainland institutions; governors have incomplete records of unusual gifts.",
-      "description": "Rovengard’s Edrask Governorate holds the inhabited eastern chain through a governor, harbour garrisons and treaties with older island councils. Fishing communities, timber districts and settler towns have different land rights; some councils accept crown arbitration while resisting new concessions. Timber and preserved fish fund northern weather stations. Defence rests partly on visiting Rovengard ships, which are not permanent additions to the island fleet. Southern ports trade with Istrana; northern calls close seasonally. The governor’s map claim does not imply continuous occupation of mountain interiors.",
+      "description": "Rovengard\u2019s Edrask Governorate holds the inhabited eastern chain through a governor, harbour garrisons and treaties with older island councils. Fishing communities, timber districts and settler towns have different land rights; some councils accept crown arbitration while resisting new concessions. Timber and preserved fish fund northern weather stations. Defence rests partly on visiting Rovengard ships, which are not permanent additions to the island fleet. Southern ports trade with Istrana; northern calls close seasonally. The governor\u2019s map claim does not imply continuous occupation of mountain interiors.",
       "food": {
         "history": "Settler dairy farms and older fishing communities exchange food across distinct land systems.",
         "everyday": "Rye bread, fish soup, cabbage and cheese.",
@@ -2536,7 +4094,45 @@
         "tradition": "Edrask Governorate island table"
       },
       "editorial_revision": 52,
-      "sovereign_parent": "rovengard"
+      "sovereign_parent": "rovengard",
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 27.0,
+        "transfer_income": 3.0,
+        "total_receipts": 30.0,
+        "total_expenditure": 29.43,
+        "balance": 0.57,
+        "balance_percent_of_output": 0.317,
+        "liquid_reserves": 5.94,
+        "gross_debt": 9.45,
+        "net_debt": 3.51,
+        "effective_interest_percent": 5.0,
+        "interest": 0.472,
+        "expenditure": {
+          "defence": 10.8,
+          "administration": 3.995,
+          "works": 6.537,
+          "health": 2.905,
+          "education": 2.179,
+          "agriculture": 2.542,
+          "interest": 0.472,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 4.32,
+          "supply": 2.7,
+          "maintenance": 1.836,
+          "procurement": 1.296,
+          "fortifications": 0.648
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 0,
+          "net_principal_repayment": 0.342,
+          "reserve_increase": 0.228,
+          "reserve_drawdown": 0
+        },
+        "assessment": "A matched parent subsidy helps fund northern depots and weather stations."
+      }
     },
     {
       "id": "norrakai",
@@ -2585,7 +4181,7 @@
       "specialties": "Northern pilotage, fisheries, hides and refuge services",
       "constraints": "Short shipping season, imported grain and almost no industrial depth.",
       "older_arts": "Moot custodians preserve histories and ritual knowledge by apprenticeship; practical weather expertise is not automatically psychic.",
-      "description": "The Norrakai Moots unite northern island communities through seasonal assemblies and mutual refuge law. They remain outside Vardol’s crown despite trading with its ports. Fishing, herding and limited sheltered cultivation sustain a sparse population, supplemented by imported grain. Councils negotiate pilotage and weather-station leases without ceding sovereignty. Radios and motor launches connect communities still reliant on locally built boats. Families use seasonal camps and permanent villages; an empty winter landing does not establish uninhabited territory.",
+      "description": "The Norrakai Moots unite northern island communities through seasonal assemblies and mutual refuge law. They remain outside Vardol\u2019s crown despite trading with its ports. Fishing, herding and limited sheltered cultivation sustain a sparse population, supplemented by imported grain. Councils negotiate pilotage and weather-station leases without ceding sovereignty. Radios and motor launches connect communities still reliant on locally built boats. Families use seasonal camps and permanent villages; an empty winter landing does not establish uninhabited territory.",
       "food": {
         "history": "Seasonal travel and reciprocal refuge duties shape storage and hospitality.",
         "everyday": "Fish broth, preserved meat and coarse grain cakes.",
@@ -2596,7 +4192,45 @@
         "name": "Norrakai Moots",
         "tradition": "Norrakai Moots island table"
       },
-      "editorial_revision": 52
+      "editorial_revision": 52,
+      "fiscal": {
+        "epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+        "revenue": 0.864,
+        "transfer_income": 0,
+        "total_receipts": 0.864,
+        "total_expenditure": 0.881,
+        "balance": -0.017,
+        "balance_percent_of_output": -0.177,
+        "liquid_reserves": 0.346,
+        "gross_debt": 0.069,
+        "net_debt": -0.277,
+        "effective_interest_percent": 6.0,
+        "interest": 0.004,
+        "expenditure": {
+          "defence": 0.336,
+          "administration": 0.124,
+          "works": 0.124,
+          "health": 0.157,
+          "education": 0.054,
+          "agriculture": 0.082,
+          "interest": 0.004,
+          "transfers": 0
+        },
+        "defence_breakdown": {
+          "personnel": 0.161,
+          "supply": 0.087,
+          "maintenance": 0.047,
+          "procurement": 0.024,
+          "fortifications": 0.017
+        },
+        "annual_financing_plan": {
+          "new_net_borrowing": 0.017,
+          "net_principal_repayment": 0.0,
+          "reserve_increase": 0.0,
+          "reserve_drawdown": 0
+        },
+        "assessment": "Small harbour loans supplement refuge services; distributed stores are excluded from cash reserves."
+      }
     }
   ],
   "qualifications": {
@@ -2607,7 +4241,48 @@
     "technology": "1: basic local repair; 2: established older production; 3: mature current manufacture; 4: advanced specialist production; 5: leading reproducible practice. Ratings measure industrial depth, not access to every invention. Readiness, logistics and cohesion use 1 (weak) to 5 (exceptional).",
     "coverage": "Food and fuel coverage compare normal domestic annual supply to normal domestic consumption; above 100 percent permits exports. These are not stored months of supply, and import partners or transport may fail. National food and fuel returns reconcile against planetary production. Fuel is coal-equivalent energy and food is grain-equivalent nourishment; these aggregates do not make fuel grades or foods interchangeable. Distribution losses and reserve replenishment absorb the modest global surplus.",
     "scope": "Ossavren and smaller-jurisdiction entries are geographic sums across separate authorities, not united states. Cressault is already within Veyrasse population and resources; the disputed corridor has no additional national army or treasury. Serevask counts loyal districts only. Ten outer-island returns are geographically separate. Talasca, Ordelune and Edrask are colonies of Rovessara, Ostrevain and Rovengard, not independent countries. Parent entries cover their previously recorded homelands and coastal dependencies only. Island resources and resident forces are booked locally once; visiting parent forces remain in the parent return. Remittances are transfers, not extra planetary output or revenue.",
-    "updates": "Return epoch matches the current census. Annual output trend describes ordinary net capacity change, not guaranteed growth. War, closures, purges, investment, losses and political changes require revised returns."
+    "updates": "Return epoch matches the current census. Annual output trend describes ordinary net capacity change, not guaranteed growth. War, closures, purges, investment, losses and political changes require revised returns.",
+    "fiscal": "Current-year budget forecasts and current treasury stocks are separate from the older census/capacity return. All fiscal figures use millions of current-baseline lorrat-equivalents; local currencies remain distinct. Public revenue is own-source tax, customs, fees and public-enterprise net receipts. Transfers are shown separately and matched to another return. Total spending includes defence, civilian programmes, interest and outward transfers; debt principal is financing, not expenditure. A positive budget balance is a surplus; a negative balance is a deficit. Liquid reserves are available treasury cash and near-cash, excluding private wealth, buildings, stores and borrowed credit limits. Gross debt is outstanding public principal; gross debt less liquid reserves is a limited net-debt measure, not a complete public balance sheet.",
+    "fiscal_scope": "Returns consolidate public authorities within each geographic group, excluding internal transfers and internal public claims. Divided regions retain separate treasuries: combined reserves cannot be spent by one ruler. Colony and parent transfers cancel in planetary totals. Gross public debt cannot be summed as a planetary net liability: domestic creditors and cross-border claims are not classified here. Sector allocations and balances are rounded staff estimates, not audited invoices; sovereign guarantees and private liabilities are excluded unless assumed by the treasury.",
+    "fiscal_updates": "Budget plans are not transactions already completed. On later story dates, record actual elapsed receipts, spending, borrowing, principal payments and changes in reserves once; never add an entire annual surplus or deficit automatically. Reforecast after policy, investment, war or disruption. Keep nominal values and the valuation baseline explicit. The present clarification changes no personal or expedition account."
   },
-  "edition": "52"
+  "edition": "55",
+  "fiscal_epoch": "Current local story year; treasury stocks at the eve of departure, 55 local days after the census epoch",
+  "fiscal_categories": {
+    "defence": "Defence",
+    "administration": "Civil administration, courts, policing & diplomacy",
+    "works": "Transport, public works & utilities",
+    "health": "Health, relief & civilian pensions",
+    "education": "Education, science & archives",
+    "agriculture": "Agriculture, water management & forestry",
+    "interest": "Public-debt interest",
+    "transfers": "Transfers to other public returns"
+  },
+  "defence_categories": {
+    "personnel": "Service pay, allowances & military pensions",
+    "supply": "Provisions, fuel, transport & training",
+    "maintenance": "Arsenal, equipment & base maintenance",
+    "procurement": "New equipment, ammunition & military research",
+    "fortifications": "Fortifications, coastal works & shelters"
+  },
+  "intergovernmental_transfers": [
+    {
+      "from": "rovessara",
+      "to": "talasca",
+      "million_lorrat_equivalents": 1.5,
+      "purpose": "Annual colonial administration and supply grant"
+    },
+    {
+      "from": "ostrevain",
+      "to": "ordelune",
+      "million_lorrat_equivalents": 2.5,
+      "purpose": "Annual colonial administration and supply grant"
+    },
+    {
+      "from": "rovengard",
+      "to": "edrask",
+      "million_lorrat_equivalents": 3.0,
+      "purpose": "Annual colonial administration and supply grant"
+    }
+  ]
 }

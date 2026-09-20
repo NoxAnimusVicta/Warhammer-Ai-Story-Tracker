@@ -513687,6 +513687,7 @@
     "circumference_km": 36000,
     "axial_tilt_degrees": 23.5,
     "rotation": "prograde",
+    "calendar": {"solar_day_earth_seconds": 86880, "local_year_solar_days": 365, "local_clock_hours_per_day": 24, "pay_months_per_year": 12, "reference": "CALENDAR-REFERENCE.md"},
     "north_pole": [
       1800,
       0

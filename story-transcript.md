@@ -9620,3 +9620,66 @@ Removing the old salary earmark does not create additional money; the Collegium�
 
 And so what are we doing with the budget? Are we retconning to say the Chancery gives us 10k the Collegium then also throws in 4.5k and continues to pay us throughout the expedition plus gives us assistance since we are under their employ? That is another point your 2,100 wages figure doesn't account for my wages which were set up earlier in the story with my teaching at the Collegium and being an Expedition Leader I would likely be paid more and I am fairly sure I was already being paid in the specialist highest income bracket just at the Collegium. Which frankly given my knowledge makes sense but it does make me an expensive asset. I think we just say the Collegium continues to pay our regular wages on top of giving us equipment, organizational help and putting their own money in with the sponsorship. Regardless this will require retcons within the documentation. We also need to sort out all the conditions that matter that you listed in the itinerary document. We cannot progress the story with outstanding issues like that it would be careless. When there are things like this that need to be tended to in game just have an NPC remind me or put something into a scene as an integrated narrative reminder. If I had not read those conditions and continued the story I would have been annoyed if I faced issues with the Ice because Galahad would have obviously planned around season weather before departing.
 
+
+
+## 481 — Assistant — Revision54 publication
+
+**Yes—that is now the documented retcon, and it is live.**
+
+| Funding | Lorrats |
+|---|---:|
+| Chancery sponsorship | **10,000** |
+| Collegium operating contribution | **4,500** |
+| **Expedition operating fund** | **14,500** |
+| Collegium’s separate annual payroll, including Galahad | **2,820** |
+| **Total cash provision, including contingency** | **17,320** |
+
+The Collegium also provides loaned instruments, organisational help, correspondence and payment support. **13,990 remains in the operating account after the existing 510 expenditure**, including the 2,444 reserve.
+
+I found your established salary: **360 over six months, followed by another 60 monthly payment**. Galahad therefore continues at **60 lorrats per pay month**, alongside the five scholars at 35 each. My previous payroll total omitted you. No future wages have been prematurely added to your personal balance.
+
+I also resolved the itinerary’s departure conditions:
+
+- **Season:** northern-autumn departure places both northern sea stages within their sailing seasons, including the Iskel–Norrak return and its delay margin.
+- **Preparation:** ordinary entry and transit permissions, instrument paperwork, paid lodging, suitable transport and access to funds are arranged within the completed preparation period.
+- **Schedule:** return on **day 355**, with **ten contingency days**, remains unchanged.
+
+Restricted collections and military access remain opportunities to pursue during the story. Routine preparation is complete.
+
+The narrator instructions now require **timely, integrated NPC reminders** for foreseeable decisions. You will not be expected to discover essential warnings buried in documentation, or face ordinary seasonal ice as though Galahad forgot to plan for it.
+
+[Updated expedition planner](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/expedition-route.html?edition=0d3f72875f1c57205dc9) · [Full preparation record](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/EXPEDITION-PREPARATION.md) · [Updated private handover](C:/Users/jaked/Documents/Codex/2026-09-19/if-we-are-writing-a-40k/outputs/Malaspina-Narrator-Handover-r54.zip)
+
+
+
+## 482 — User — Last salary payment
+
+When was the last time I was paid? I haven't missed any months worth of wages have I?
+
+## 483 — Assistant — Salary reconciliation
+
+Your last recorded payment was **60 lorrats in the expedition-approval scene, twenty local days before the current scene**. It is already included in your present balance.
+
+That scene’s account was:
+
+**380 + 60 salary + 45 net charm sales − 12 expenses = 473 lorrats.**
+
+The subsequent travel, family care, household purchases and repairs reduced that 473 to your current **378**.
+
+**There is no missing full month of wages evident in the recorded paid period:** the earlier six-month account included 360, and the following four-week interval included another 60. Only twenty days have passed since that last payment checkpoint.
+
+We never established an exact recurring payday, so I cannot honestly give a precise next-payment date. Your next 60 should arrive during the early expedition as the next pay period completes. Regular salary credits should be included automatically when story time advances—you should not have to remind me to pay you.
+
+
+## 484 — User — Regular payday
+
+Lets say for ease for the future that I get paid on the first of each month
+
+## 485 — Assistant — Payday recorded
+
+Recorded: **60 lorrats on the first of each local month**, credited to your personal account by the Collegium, including while you’re abroad. I’ll apply payments automatically as story time passes. Your current balance remains **378 lorrats**.
+
+
+## 486 — User — Calendar and national finances
+
+Could you also please list the day length and year length somewhere in the Malaspina Section of the webapp. Somewhere up the top so it is easy to see. Near population and the charted islands. One other thing I have noticed while going through the compare military economy and technology sections. They are all quite good but we have a number for revenue and a number for defense spending but we do not know if any nations are running deficits or surpluses in terms of revenue, how much money they have saved or if they are in debt, and exactly where that spending is going. These would be useful figures to have.

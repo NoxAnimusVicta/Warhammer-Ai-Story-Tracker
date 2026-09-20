@@ -1,3 +1,9 @@
+# Revision 55 — local calendar and national finances
+
+Read CALENDAR-REFERENCE.md: one solar day is 24 Earth-duration hours 8 minutes; one local year is 365 local days. Local civil clocks divide the solar day into 24 local hours. Twelve pay months remain; their lengths, names and the current numbered date are not yet established. Galahad receives60 lorrats on the first of each local month. No payment or elapsed time is enacted here.
+
+national-register.json now includes current-year fiscal forecasts and treasury stocks at the eve of departure, 55days after the census epoch. Earlier capacity/revenue/defence figures are preserved as the planning baseline. Read NATIONAL-REGISTER.md for expenditure categories, deficits/surpluses, reserves, debt, interest and matched colonial grants. These are newly established fictional staff estimates, not previously narrated transactions. Individual geographic returns are non-overlapping; divided authorities have no pooled treasury. Interest is expenditure; principal repayment and borrowing are financing. Do not book annual flows into present stocks until the relevant story time and transactions pass. Preserve a prior snapshot and apply changes once, including events and prices. This does not change the expedition budget or personal cash378, earmarks264 and free114.
+
 # Revision 54 — funded and prepared expedition
 
 The expedition operating fund is 14,500 lorrats: 10,000 from the Chancery and 4,500 from the Collegium. The existing 510 in paid equipment and opening passage leaves 13,990 held, comprising 11,546 forecast remaining expenditure and 2,444 financial contingency. Ordinary wages are paid separately by the Collegium: Galahad 60 per pay month (720 annually), and five scholars at 35 each (2,100 annually), for total payroll of 2,820. Total cash provision is 17,320 including contingency; expected operating expense plus payroll is 14,876. Future wages are not prepaid or credited to personal cash. The Collegium also supplies inventoried loan instruments, home administration, correspondence, introductions and payment support from its existing institutional resources; these are in-kind support, not additional expedition cash or personal possessions.
@@ -24,7 +30,7 @@ Galahad’s unbuilt national-wonder designs are clarified in ARCHITECTURE-REFERE
 
 Read ORIGIN-REFERENCE.md before describing provenance or temperament, and private/origin-retcon51.md for the concealed research motive and source qualifications. Bile is creator, not biological donor. The personal-genetics and Bile-ancestry premise is superseded throughout current records. Galahad has selectively engineered intellectual dispositions resembling Bile, without a transferred mind, memories or soul. Historical transcripts and snapshots remain historical.
 
-# Current continuity — revision 54
+# Current continuity — revision 55
 
 This checkpoint records the latest enacted scene. Read later exact transcript entries before continuing. Documentation work itself advances no story time.
 
@@ -165,3 +171,8 @@ Read [PHYSIOLOGY-REFERENCE.md](PHYSIOLOGY-REFERENCE.md) as the controlling capab
 ## Current and future portraits
 
 Read APPEARANCE-REFERENCE.md and assets/portrait-expedition-r50.jpg for Galahad's current expedition appearance. The earlier assets/portrait.png is his future national or military leadership appearance, to apply once he takes control of a nation or its military, not merely when he reaches adulthood. Preserve both images. The current age, last measured 2.59 m height, clothing inventory and eve-of-departure story checkpoint remain unchanged.
+
+
+## Regular payday — accepted after transcript484
+
+Galahad receives60 lorrats on the first of each local month through the Collegium, including expedition service. Credit his personal account automatically when story time crosses each payday, once per month; retain dated payment entries and keep salary separate from expedition operating funds. Twelve pay months per local year remains the accounting convention. This scheduling clarification does not issue another payment, advance time or re-credit the last recorded60; current personal cash remains378. Month names, exact lengths and the current numbered date remain unspecified. The prior statement that no recurring payday was established is superseded.
