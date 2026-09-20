@@ -16,7 +16,7 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the Long Culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition — revision 49
+## Current edition — revision 50
 
 The current scene is the evening before expedition departure at the Auvrienne Collegium. Opening passage through Serravonne to Dalmor is booked and Ceralte permissions secured. Personal cash is 378 lorrats, with 264 earmarked and 114 uncommitted. The separate expedition fund holds 5,490 after 510 paid, including 2,100 reserved for scholars’ pay. The estate’s 218-lorrat annual remainder remains a conditional forecast.
 
@@ -33,3 +33,5 @@ Current summaries supersede older checkpoints. The exact transcript preserves hi
 [Transport and overseas districts](TRANSPORT-REFERENCE.md) records coastal and ocean connections, railway interchanges, island administrations and polar status. The revised political map shows existing dependencies; it does not enact conquest or advance the story.
 
 The Estate & possessions record includes the player’s current estate artwork, fitted to its natural proportions without empty bars, with continuous wheel/pinch zoom, dragging and a reset control. [Estate visual reference](ESTATE-REFERENCE.md) anchors future narration and tracks how later development should change the image.
+
+The dossier portrait now shows Galahad in his current expedition clothes. The earlier formal image is retained as his future national or military leadership appearance; see [appearance references](APPEARANCE-REFERENCE.md).

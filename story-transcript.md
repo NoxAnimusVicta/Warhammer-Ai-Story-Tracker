@@ -9346,3 +9346,26 @@ Updated the political records, gazetteer and narrator guidance. Verified route g
 I made some art for the estate as it looks now. Would you be able to add it to the web app using the same sort of data slate effect you had for Galahad’s portrait? And place it in the estate section, but for this image I would like to be able to zoom in on the image in the web app so I can browse the finer details in the app. We do not need defined zoom levels like the world maps shows just the ability for me to zoom in and out with a scroll wheel when the mouse is on the image or to pinch in and out to zoom in and out as is the natural phone standard for zooming. Please also use this reference art for yourself in the story. Depending on how the estate grows will depend on how this image changes
 
 Attachment: Photo 1.jpg. Original supplied image retained as assets/estate-r48.jpg in the private handover and estate-r48.jpg in the public app.
+
+
+## 457 - Assistant - Estate artwork and maintenance
+
+It’s live in [Estate & possessions](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=46905b15f81f03bc106b#estate), with the matching data-slate effect, continuous wheel/pinch zoom, dragging and Reset view.
+
+I’ve preserved your original artwork and recorded it as the estate’s current story reference, to evolve as the property develops.
+
+[Updated narrator handover — r48](C:/Users/jaked/Documents/Codex/2026-09-19/if-we-are-writing-a-40k/outputs/Malaspina-Narrator-Handover-r48.zip)
+
+## 458 - User - Estate image fitting
+
+Can you make it so the default view makes the image fit to size so I do not have the bars above and below
+
+## 459 - Assistant - Estate image fitting
+
+Done—[the live estate view](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=0e4995672d3ee7b2a674#estate) now fits the full image without bars or cropping on desktop and phone. Zooming, dragging and reset still work.
+
+## 460 - User - Current expedition portrait
+
+I have also generated another image of Galahad as he currently looks. The image we are using at the moment is how he will look once he actually takes control of a nation or nation’s military. Here is his current fit right as he is leaving for the expedition.
+
+Attachment: Photo 1.jpg. Original retained as assets/portrait-expedition-r50.jpg in the private handover and portrait-expedition-r50.jpg in the public app.

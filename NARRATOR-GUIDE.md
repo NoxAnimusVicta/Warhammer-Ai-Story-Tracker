@@ -85,7 +85,7 @@ Read food-cultures.json and purge-history.json alongside the world record. Use m
 
 Revision39 removes redundant local map additions and provides real northern/southern/western roads. Earlier revisions charted 897 settlements, then 899 after the two Ceralte ports. The current revision47 atlas has 940 settlements and 2,148 routes; use TRANSPORT-REFERENCE.md for the connected shipping network and island administrations. Unvisited repetitive principal names have corrected aliases in the private handover; retain stable IDs and established story names. The old measured-route accordion is retired, but source measurements remain. Read private/map-maintenance.md before editing.
 
-## Revision 48 checkpoint
+## Revision 50 checkpoint
 
 The current scene is the evening before expedition departure at the Auvrienne Collegium, twenty local days after approval (transcript443). Personal cash is 378, with 264 earmarked and 114 uncommitted; expedition cash is 5,490 after 510 paid, including 2,100 reserved for scholarly salaries and 3,390 for other expedition costs. Opening passage via Serravonne to Dalmor and Ceralte permissions are arranged; later foreign requests remain pending. Veskan continues recovering at the estate; Corva retains household authority. Read CURRENT-CONTINUITY.md and the latest exact exchanges.
 
@@ -102,3 +102,8 @@ The current atlas contains 940 settlements and 2,148 routes, including 82 sea pa
 ## Estate visual continuity
 
 Read ESTATE-REFERENCE.md and assets/estate-r48.jpg before narrating the estate. The player’s image establishes its current visual appearance, including house and courtyard, arcaded service/workshop building, walled gardens, fields, pasture, orchard, wooded slopes and wet lower ground. The existing 56-hectare land account, interior, household, funds and pending repairs remain controlling. Surrounding distant scenery is not automatically owned property. Preserve this dated image; future visuals should follow enacted changes.
+
+
+## Current and future portraits
+
+Read APPEARANCE-REFERENCE.md and assets/portrait-expedition-r50.jpg for Galahad's current expedition appearance. The earlier assets/portrait.png is his future national or military leadership appearance, to apply once he takes control of a nation or its military, not merely when he reaches adulthood. Preserve both images. The current age, last measured 2.59 m height, clothing inventory and eve-of-departure story checkpoint remain unchanged.
