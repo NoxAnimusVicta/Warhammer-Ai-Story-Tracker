@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="slate-build" content="4374d1256cd2978310b4"><meta name="theme-color" content="#202d29"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Malaspina">
+<meta name="slate-build" content="b3473c82a1aeb5d2ad3e"><meta name="theme-color" content="#202d29"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Malaspina">
 <meta name="description" content="An evolving character dossier for Galahad, a perfected proto-Primarch on Malaspina.">
 <link rel="manifest" href="./manifest.webmanifest"><link rel="apple-touch-icon" href="./sigil-v1.png"><link rel="icon" type="image/png" sizes="1254x1254" href="./sigil-v1.png">
 <title>Malaspina | Galahad</title>
@@ -331,4 +331,51 @@ if('serviceWorker'in navigator&&/^https?:$/.test(location.protocol)){navigator.s
  panel.querySelector('.national-comparison').ontoggle=()=>{if(panel.querySelector('.national-comparison').open)render();};
  primary.value='veyrasse';secondary.value='caldrienne';primary.onchange=render;secondary.onchange=render;document.getElementById('national-metric').onchange=ranks;document.getElementById('national-aggregates').onchange=ranks;ranks();
 })();
+</script><script>
+// Continuous estate-image zoom and pan. No saved state or discrete map-style zoom levels.
+(()=>{
+ const box=document.getElementById('estate-image-viewport');if(!box)return;
+ const img=box.querySelector('img'),reset=document.getElementById('estate-image-reset');
+ let scale=1,x=0,y=0,width=0,height=0,fitWidth=0,fitHeight=0,frame=0;
+ const pointers=new Map(),clamp=(n,a,b)=>Math.max(a,Math.min(b,n));
+ function draw(){frame=0;if(!width||!height||!fitWidth)return;
+  const bx=Math.max(0,(fitWidth*scale-width)/2),by=Math.max(0,(fitHeight*scale-height)/2);
+  x=clamp(x,-bx,bx);y=clamp(y,-by,by);
+  img.style.width=fitWidth+'px';img.style.height=fitHeight+'px';
+  img.style.transform=`translate3d(${(width-fitWidth*scale)/2+x}px,${(height-fitHeight*scale)/2+y}px,0) scale(${scale})`;
+ }
+ function schedule(){if(!frame)frame=requestAnimationFrame(draw);}
+ function measure(){const w=box.clientWidth,h=box.clientHeight;if(!w||!h)return;
+  if(width&&height){x*=w/width;y*=h/height;}
+  width=w;height=h;const fit=Math.min(width/(img.naturalWidth||1280),height/(img.naturalHeight||853));
+  fitWidth=(img.naturalWidth||1280)*fit;fitHeight=(img.naturalHeight||853)*fit;schedule();
+ }
+ function zoom(factor,cx,cy){if(!width)return;const next=clamp(scale*factor,1,8),ratio=next/scale;
+  x=cx-(cx-x)*ratio;y=cy-(cy-y)*ratio;scale=next;schedule();
+ }
+ box.addEventListener('wheel',e=>{if(!width)return;e.preventDefault();const r=box.getBoundingClientRect(),unit=e.deltaMode===1?16:e.deltaMode===2?height:1;
+  zoom(Math.exp(-clamp(e.deltaY*unit,-500,500)*.002),e.clientX-r.left-width/2,e.clientY-r.top-height/2);
+ },{passive:false});
+ box.addEventListener('pointerdown',e=>{if(e.pointerType==='mouse'&&e.button!==0)return;if(pointers.size>=2)return;
+  pointers.set(e.pointerId,[e.clientX,e.clientY]);box.setPointerCapture(e.pointerId);box.dataset.dragging='true';
+ });
+ box.addEventListener('pointermove',e=>{if(!pointers.has(e.pointerId))return;const previous=[...pointers.values()],old=pointers.get(e.pointerId);pointers.set(e.pointerId,[e.clientX,e.clientY]);
+  if(pointers.size===1){x+=e.clientX-old[0];y+=e.clientY-old[1];schedule();return;}
+  const current=[...pointers.values()],mid=ps=>[(ps[0][0]+ps[1][0])/2,(ps[0][1]+ps[1][1])/2],distance=ps=>Math.hypot(ps[0][0]-ps[1][0],ps[0][1]-ps[1][1]);
+  const oldDistance=distance(previous);if(oldDistance<2)return;
+  const next=clamp(scale*distance(current)/oldDistance,1,8),ratio=next/scale,a=mid(previous),b=mid(current),r=box.getBoundingClientRect();
+  x=b[0]-r.left-width/2-(a[0]-r.left-width/2-x)*ratio;y=b[1]-r.top-height/2-(a[1]-r.top-height/2-y)*ratio;scale=next;schedule();
+ });
+ function release(e){pointers.delete(e.pointerId);box.dataset.dragging=String(pointers.size>0);}
+ for(const event of ['pointerup','pointercancel','lostpointercapture'])box.addEventListener(event,release);
+ function restore(){scale=1;x=0;y=0;schedule();}
+ reset.addEventListener('click',restore);
+ box.addEventListener('keydown',e=>{if(e.ctrlKey||e.metaKey||e.altKey)return;
+  if(['+','=','-','0','Home','ArrowLeft','ArrowRight','ArrowUp','ArrowDown'].includes(e.key))e.preventDefault();else return;
+  if(e.key==='+'||e.key==='=')zoom(1.2,0,0);else if(e.key==='-')zoom(1/1.2,0,0);else if(e.key==='0'||e.key==='Home')restore();
+  else{x+=e.key==='ArrowLeft'?40:e.key==='ArrowRight'?-40:0;y+=e.key==='ArrowUp'?40:e.key==='ArrowDown'?-40:0;schedule();}
+ });
+ new ResizeObserver(measure).observe(box);img.addEventListener('load',measure);measure();
+})();
+
 </script></body></html>
