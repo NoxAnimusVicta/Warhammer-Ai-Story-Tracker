@@ -1,3 +1,5 @@
+Current story date: **21/10/0068 R** (day/month/year of Reconstruction). See [the calendar](CALENDAR-REFERENCE.md).
+
 # Malaspina — data-slate
 
 A read-only companion to the continuing campaign.
@@ -16,7 +18,7 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the Long Culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition — revision 58
+## Current edition — revision 59
 
 The current scene is the evening before expedition departure at the Auvrienne Collegium. The surface itinerary, seasonal passages and ordinary travel permissions are arranged; see [pre-departure arrangements](EXPEDITION-PREPARATION.md). Personal cash is 378 lorrats, with 264 earmarked and 114 uncommitted. The joint expedition fund holds 13,990 after 510 paid. Chancery sponsorship is 10,000 and Collegium operating support is 4,500; the Collegium separately continues all six salaries, totalling 2,820 annually. [Full budget](EXPEDITION-BUDGET.md). The estate’s 218-lorrat annual remainder remains a conditional forecast.
 

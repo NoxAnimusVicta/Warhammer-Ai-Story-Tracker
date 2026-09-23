@@ -6,7 +6,7 @@ This reference supplies the baseline for **new economic estimates** on Malaspina
 
 ## Price date and change over story time
 
-These prices describe the **current local story year**, anchored to the evening before expedition departure at Auvrienne, **55 local days after the dated census epoch**. The real-world editorial date is not the in-world year. A local year contains 365 local solar days, each lasting 24 Terran standard hours and 8 minutes. No numbered local year, month names or individual month lengths have been established. See CALENDAR-REFERENCE.md. The skilled wage of 25 lorrats per pay month is this year's purchasing-power anchor, not a permanent nominal wage.
+These prices describe the **current local story year**, anchored to the evening before expedition departure at Auvrienne, **55 local days after the census of 27/08/0068 R**. The real-world editorial date is not the in-world year. A local year contains 365 local solar days, each lasting 24 Terran standard hours and 8 minutes. The numbered date and month lengths are established in the Reconstruction calendar. See CALENDAR-REFERENCE.md. The skilled wage of 25 lorrats per pay month is this year's purchasing-power anchor, not a permanent nominal wage.
 
 Use [economic-ledger.json](economic-ledger.json) for dated changes. Its starting regional/category indices are 1.00, meaning the existing tables and regional adjustments apply without an additional time surcharge. No inflation, wage rise or event shock is enacted by introducing the ledger.
 
@@ -28,7 +28,7 @@ Monumental architecture estimates in [ARCHITECTURE-REFERENCE.md](ARCHITECTURE-RE
 
 - **1 Veyrasse lorrat = 100 brins.** Write 0.05 lorrat as 5 brins when convenient.
 - **An ordinary skilled worker earns approximately 25 lorrats per local pay month.** This is the established anchor, not a newly rolled figure.
-- For this economic model, adopt **12 accounting periods per local year**, each called a pay month in the tables. Thus the reference skilled annual wage is **300 lorrats**. The local year is now established as 365 local days. Individual month lengths and names remain unspecified; do not assume twelve thirty-day months. Galahad receives his regular salary on the first of each month.
+- For this economic model, adopt **12 accounting periods per local year**, each called a pay month in the tables. Thus the reference skilled annual wage is **300 lorrats**. The local year is now established as 365 local days. Use the twelve numbered months and their lengths in CALENDAR-REFERENCE.md. Galahad receives his regular salary on the first of each month.
 - A normal paid workday is estimated at **1/25 of a monthly wage**. This is a labour-cost conversion, not a statement that every calendar month contains exactly 25 working days. No more than 300 such paid workdays per full accounting year may be charged to one full-time post without overtime or extra staff.
 - Prices below are **ordinary Serravonne retail or service prices**, in lorrats, unless a row explicitly says farm gate, wholesale, standing timber or another basis.
 - The model assumes functioning trade and ordinary security conditions. The world's persistent hazards are already part of its normal economy; do not add a second universal “grimdark surcharge.”

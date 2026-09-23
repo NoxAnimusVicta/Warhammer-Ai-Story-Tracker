@@ -1,8 +1,8 @@
 'use strict';
 const BASE=new URL('./',self.location.href);
 const PREFIX='malaspina-dossier:'+BASE.pathname+':';
-const CACHE=PREFIX+'v27';
-const FILES=['./','./index.html','./manifest.webmanifest','./sigil-v1.png','./sigil-gold-clear.png','./portrait.png','./portrait-expedition-r50.jpg','./APPEARANCE-REFERENCE.md','./ORIGIN-REFERENCE.md','./ISLAND-CHAINS.md','./ARCHITECTURE-REFERENCE.md','./economic-ledger.json','./ECONOMIC-REFERENCE.md','./ESTATE-ACCOUNTS.md','./PHYSIOLOGY-REFERENCE.md','./TRANSPORT-REFERENCE.md','./ESTATE-REFERENCE.md','./estate-r48.jpg','./expedition-route.html','./expedition-route.md','./expedition-route.json','./COASTLINE-REFERENCE.md','./EXPEDITION-BUDGET.md','./EXPEDITION-PREPARATION.md','./NATIONAL-REGISTER.md','./national-register.json','./CALENDAR-REFERENCE.md'];
+const CACHE=PREFIX+'v28';
+const FILES=['./','./index.html','./manifest.webmanifest','./sigil-v1.png','./sigil-gold-clear.png','./portrait.png','./portrait-expedition-r50.jpg','./APPEARANCE-REFERENCE.md','./ORIGIN-REFERENCE.md','./ISLAND-CHAINS.md','./ARCHITECTURE-REFERENCE.md','./economic-ledger.json','./ECONOMIC-REFERENCE.md','./ESTATE-ACCOUNTS.md','./PHYSIOLOGY-REFERENCE.md','./TRANSPORT-REFERENCE.md','./ESTATE-REFERENCE.md','./estate-r48.jpg','./expedition-route.html','./expedition-route.md','./expedition-route.json','./COASTLINE-REFERENCE.md','./EXPEDITION-BUDGET.md','./EXPEDITION-PREPARATION.md','./NATIONAL-REGISTER.md','./national-register.json','./CALENDAR-REFERENCE.md','./calendar.json'];
 FILES.push('./CONFLICT-REGISTER.md','./conflict-register.json');
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(FILES.map(path=>new URL(path,BASE).href))).then(()=>self.skipWaiting()));});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key.startsWith(PREFIX)&&key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim()));});

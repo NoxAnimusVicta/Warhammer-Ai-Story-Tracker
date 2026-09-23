@@ -612,7 +612,7 @@ Stored food is carefully accounted for because rescue hospitality and winter sur
 
 ## The Long Culling
 
-The Long Culling ended sixty-seven local years before the present return, after three years of overlapping campaigns across all inhabited continents. Reconstructed returns suggest about 56% of the pre-campaign population was killed or taken: approximately 37% killed and 19% captured, with considerable uncertainty. Captives are missing from local population returns, not certified dead. Displacement among surviving settlements is counted separately.
+The Long Culling ended approximately sixty-seven local years before the present return, after three years of overlapping campaigns across all inhabited continents. Reconstructed returns suggest about 56% of the pre-campaign population was killed or taken: approximately 37% killed and 19% captured, with considerable uncertainty. Captives are missing from local population returns, not certified dead. Displacement among surviving settlements is counted separately.
 
 Major preserve-wide cullings are separated by roughly a century on average, commonly fifty to a hundred and fifty years. The shortest well-correlated interval is twenty-four years. These are historical intervals, not an announced Hunter timetable. Captured technology, rapid recovery, successful resistance and concentrated research can precipitate another campaign; weaker quarry may be left longer to recover. Ordinary hunts and selective raids continue between major cullings.
 

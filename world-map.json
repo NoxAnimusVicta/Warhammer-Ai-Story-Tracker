@@ -513687,7 +513687,29 @@
     "circumference_km": 36000,
     "axial_tilt_degrees": 23.5,
     "rotation": "prograde",
-    "calendar": {"solar_day_earth_seconds": 86880, "local_year_solar_days": 365, "local_clock_hours_per_day": 24, "pay_months_per_year": 12, "reference": "CALENDAR-REFERENCE.md"},
+    "calendar": {
+      "solar_day_earth_seconds": 86880,
+      "local_year_solar_days": 365,
+      "local_clock_hours_per_day": 24,
+      "pay_months_per_year": 12,
+      "reference": "CALENDAR-REFERENCE.md",
+      "era": "Reconstruction",
+      "month_lengths": [
+        31,
+        30,
+        31,
+        30,
+        31,
+        30,
+        31,
+        30,
+        31,
+        30,
+        30,
+        30
+      ],
+      "current_date": "21/10/0068 R"
+    },
     "north_pole": [
       1800,
       0
@@ -517260,7 +517282,7 @@
     ]
   },
   "demography": {
-    "epoch": "Ten months and eleven days after Collegium enrolment — evening",
+    "epoch": "27/08/0068 R",
     "elapsed_story_years": 0,
     "total_population": 1223820000,
     "groups": [
@@ -517841,7 +517863,8 @@
       "time": "Advance only with elapsed story time; opening the phone app never advances the census.",
       "review": "Rates are current annual trends, reviewed when conditions change; they are not an automatic centuries-long forecast."
     },
-    "time_basis": "Local Malaspina elapsed years"
+    "time_basis": "Local Malaspina elapsed years",
+    "calendar_reference": "CALENDAR-REFERENCE.md"
   },
   "polar_landmasses": [
     {

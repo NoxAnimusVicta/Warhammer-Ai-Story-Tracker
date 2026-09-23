@@ -14,7 +14,7 @@ The Collegium supplies its already inventoried survey instruments, microscope an
 
 ## Season fixed before departure
 
-Departure is in **northern autumn**, approximately four months after the northern summer solstice. This establishes the previously unspecified seasonal position without inventing a numbered calendar year or changing Galahad's age. The day-365 deadline remains a count from departure, not an assertion of exact astronomical year length.
+Departure is in **northern autumn**, approximately four months after the northern summer solstice. This establishes the previously unspecified seasonal position on 22/10/0068 R without changing Galahad's age. The day-365 deadline remains a count from departure, using inclusive expedition day numbers within the established 365-day local year.
 
 The plan has checked both northern sea stages, not merely the last one:
 

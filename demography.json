@@ -1,5 +1,5 @@
 {
-  "epoch": "Ten months and eleven days after Collegium enrolment — evening",
+  "epoch": "27/08/0068 R",
   "elapsed_story_years": 0,
   "total_population": 1223820000,
   "groups": [
@@ -580,5 +580,6 @@
     "time": "Advance only with elapsed story time; opening the phone app never advances the census.",
     "review": "Rates are current annual trends, reviewed when conditions change; they are not an automatic centuries-long forecast."
   },
-  "time_basis": "Local Malaspina elapsed years"
+  "time_basis": "Local Malaspina elapsed years",
+  "calendar_reference": "CALENDAR-REFERENCE.md"
 }

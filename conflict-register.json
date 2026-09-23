@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "edition": 1,
-  "epoch": "Eve of expedition departure \u00b7 55 local days after the census epoch",
+  "epoch": "21/10/0068 R · eve of expedition departure",
   "days_after_census_epoch": 55,
   "scope": "Principal recorded conflicts and unresolved disputes; not an exhaustive incident list. Unlisted regions are not certified peaceful.",
   "entries": [
@@ -17,12 +17,13 @@
       ],
       "situation": "A previous border war ended in an armistice without settling ownership of the defended valleys, railway crossing and irrigation works. Frontier troops exchange occasional fire and some patrols fail to return. This is an armed truce with local hostilities, not a general offensive or a wholly cold dispute.",
       "effects": "Customs pressure and railway delays continue; estates face divided obligations. Accusations of sponsored claimants and interference with water supplies remain allegations. Serravonne is outside the fighting area.",
-      "travel": "The arranged Valdrec\u2013Auvrienne return remains available under current conditions. A renewed offensive, prolonged crossing closure or attack on irrigation works would require a new travel and supply assessment.",
+      "travel": "The arranged Valdrec–Auvrienne return remains available under current conditions. A renewed offensive, prolonged crossing closure or attack on irrigation works would require a new travel and supply assessment.",
       "basis": "Consolidates the established Cressault record; no new incident.",
       "last_review_days_after_census_epoch": 55,
       "reported_losses": null,
       "trend": "No comparative return yet",
-      "event_ids": []
+      "event_ids": [],
+      "last_review_date": "21/10/0068 R"
     },
     {
       "id": "ossavren",
@@ -40,7 +41,8 @@
       "last_review_days_after_census_epoch": 55,
       "reported_losses": null,
       "trend": "No comparative return yet",
-      "event_ids": []
+      "event_ids": [],
+      "last_review_date": "21/10/0068 R"
     },
     {
       "id": "haldrevik",
@@ -53,12 +55,13 @@
       ],
       "situation": "Contested renewals, rent and land rights have produced scattered armed clashes around individual working sites, alongside strikes, intimidation and litigation. Company and community positions vary; neither side is a unified national movement. Most disputes remain outside combat.",
       "effects": "Particular sites and feeder roads may be interrupted while other concessions continue working. Dependence on imported food and Varnesk machinery makes prolonged stoppages costly. Commercial ties do not establish Varnesk as a belligerent.",
-      "travel": "The arranged Rovensac\u2013Trelovre transit remains in service. Restricted concession interiors are outside ordinary academic permissions; confirmed disruption at a booked port or connection prompts an agent\u2019s notice.",
+      "travel": "The arranged Rovensac–Trelovre transit remains in service. Restricted concession interiors are outside ordinary academic permissions; confirmed disruption at a booked port or connection prompts an agent’s notice.",
       "basis": "New limited baseline clarification of established armed concession tensions; no particular battle, seizure or casualty total is enacted.",
       "last_review_days_after_census_epoch": 55,
       "reported_losses": null,
       "trend": "No comparative return yet",
-      "event_ids": []
+      "event_ids": [],
+      "last_review_date": "21/10/0068 R"
     },
     {
       "id": "maritime",
@@ -77,11 +80,12 @@
       "last_review_days_after_census_epoch": 55,
       "reported_losses": null,
       "trend": "No comparative return yet",
-      "event_ids": []
+      "event_ids": [],
+      "last_review_date": "21/10/0068 R"
     },
     {
       "id": "vardol-averholt",
-      "title": "Vardol\u2013Averholt rivalry",
+      "title": "Vardol–Averholt rivalry",
       "status": "Armed rivalry",
       "region": "Northern and interior Vesalius",
       "parties": "Vardol and Averholt",
@@ -96,7 +100,8 @@
       "last_review_days_after_census_epoch": 55,
       "reported_losses": null,
       "trend": "No comparative return yet",
-      "event_ids": []
+      "event_ids": [],
+      "last_review_date": "21/10/0068 R"
     },
     {
       "id": "southern-basin",
@@ -117,7 +122,8 @@
       "last_review_days_after_census_epoch": 55,
       "reported_losses": null,
       "trend": "No comparative return yet",
-      "event_ids": []
+      "event_ids": [],
+      "last_review_date": "21/10/0068 R"
     },
     {
       "id": "talasca",
@@ -136,7 +142,8 @@
       "last_review_days_after_census_epoch": 55,
       "reported_losses": null,
       "trend": "No comparative return yet",
-      "event_ids": []
+      "event_ids": [],
+      "last_review_date": "21/10/0068 R"
     },
     {
       "id": "hunter-pressure",
@@ -152,7 +159,8 @@
       "last_review_days_after_census_epoch": 55,
       "reported_losses": null,
       "trend": "No comparative return yet",
-      "event_ids": []
+      "event_ids": [],
+      "last_review_date": "21/10/0068 R"
     }
   ],
   "events": [],

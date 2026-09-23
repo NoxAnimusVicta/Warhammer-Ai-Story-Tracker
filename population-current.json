@@ -1,9 +1,9 @@
 {
   "revision": 52,
-  "basis": "55 local days after the same dated census; 365-day projection convention, not an exact astronomical calendar",
+  "basis": "27/08/0068 R to 21/10/0068 R; 55 elapsed local days of a 365-day local year",
   "elapsed_local_days": 55,
-  "census_epoch": "Ten months and eleven days after Collegium enrolment — evening",
-  "estimate_epoch": "Evening before expedition departure at Auvrienne",
+  "census_epoch": "27/08/0068 R",
+  "estimate_epoch": "21/10/0068 R",
   "census_population": 1223820000,
   "groups": [
     {

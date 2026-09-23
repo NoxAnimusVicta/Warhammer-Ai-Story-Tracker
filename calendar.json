@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "name": "Reconstruction calendar",
+  "suffix": "R",
+  "date_format": "DD/MM/YYYY R",
+  "era": "Year 1 is the first civil reconstruction year after the Long Culling; its new year begins near the northern winter solstice. Earlier history survives; this is not a new catastrophe or total historical wipe.",
+  "month_lengths": [
+    31,
+    30,
+    31,
+    30,
+    31,
+    30,
+    31,
+    30,
+    31,
+    30,
+    30,
+    30
+  ],
+  "days_per_year": 365,
+  "local_hours_per_day": 24,
+  "solar_day_terran_seconds": 86880,
+  "current_date": "21/10/0068 R",
+  "census_date": "27/08/0068 R",
+  "approval_date": "01/10/0068 R",
+  "last_salary_date": "01/10/0068 R",
+  "departure_date": "22/10/0068 R",
+  "next_salary_date": "01/11/0068 R",
+  "target_return_date": "11/10/0069 R",
+  "deadline_date": "21/10/0069 R",
+  "maintenance": "Advance only with elapsed story time. Record occurrence and report dates separately. Keep historical snapshots and apply each elapsed interval once."
+}
