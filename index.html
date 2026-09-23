@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="slate-build" content="dd4f5d421340acad3fd3"><meta name="theme-color" content="#202d29"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Malaspina">
+<meta name="slate-build" content="413bc02527595541ffcd"><meta name="theme-color" content="#202d29"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Malaspina">
 <meta name="description" content="An evolving character dossier for Galahad, a perfected proto-Primarch on Malaspina.">
 <link rel="manifest" href="./manifest.webmanifest"><link rel="apple-touch-icon" href="./sigil-v1.png"><link rel="icon" type="image/png" sizes="1254x1254" href="./sigil-v1.png">
 <title>Malaspina | Galahad</title>
@@ -246,6 +246,10 @@ main .world-census-panel > .reading-section {
 }
 main .world-census-panel > .reading-section > .reading-title { font-size: 1.15rem; }
 .world-chart > .world-key { margin: 24px 20px; }
+/* The atlas has a full-width map, so its header needs its own text inset. */
+main .world-chart.panel > h3 { margin: 0 20px 8px; }
+main .world-chart > .atlas-subtitle { margin: 0 20px 20px; }
+main .world-chart > .fine:last-child { margin: 20px; }
 .world-chart.world-expanded > .world-key { display: none; }
 .national-budget { margin: 24px 0; }
 .national-panel .reading-section > .reading-title { font-size: 1.35rem; }
