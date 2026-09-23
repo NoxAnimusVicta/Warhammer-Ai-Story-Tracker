@@ -1,9 +1,9 @@
 {
   "revision": 52,
-  "basis": "27/08/0068 R to 21/10/0068 R; 55 elapsed local days of a 365-day local year",
+  "basis": "27/08/0067 AC43 to 21/10/0067 AC43; 55 elapsed local days of a 365-day local year",
   "elapsed_local_days": 55,
-  "census_epoch": "27/08/0068 R",
-  "estimate_epoch": "21/10/0068 R",
+  "census_epoch": "27/08/0067 AC43",
+  "estimate_epoch": "21/10/0067 AC43",
   "census_population": 1223820000,
   "groups": [
     {

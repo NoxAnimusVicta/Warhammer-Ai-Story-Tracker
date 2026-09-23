@@ -1,6 +1,6 @@
 # Malaspina — national staff returns
 
-Return: 27/08/0068 R
+Return: 27/08/0067 AC43
 
 Rounded estimates. The numerical source is national-register.json.
 
@@ -99,7 +99,7 @@ Table and hospitality. A composite crown includes humid lowlands, high terraces 
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Railway renewal and arsenals require modest borrowing; provincial balances are not all available to the crown.
 
@@ -200,7 +200,7 @@ Table and hospitality. Cereal estates, cattle districts and newly industrial tow
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Arsenal commitments and grain transport exceed ordinary receipts; domestic bonds finance the gap.
 
@@ -301,7 +301,7 @@ Table and hospitality. Maritime commerce joins a mild western coast to upland ch
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Commercial receipts support a small surplus, liquid buffers and gradual debt retirement.
 
@@ -402,7 +402,7 @@ Table and hospitality. Unequal river cities share barges, mill customs and perio
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Lock and irrigation renewal produces a small capital deficit rather than a collapse in ordinary receipts.
 
@@ -503,7 +503,7 @@ Table and hospitality. Border garrisons borrow cooking from both larger patrons,
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Frontier obligations and patron-backed credit leave limited cash headroom.
 
@@ -604,7 +604,7 @@ Table and hospitality. Industrial towns link cooler uplands to river farms. Work
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Factory infrastructure and frontier protection require continuing borrowing.
 
@@ -705,7 +705,7 @@ Table and hospitality. Former royal roads carried recipes across a realm now div
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Successor administrations have uneven access to credit; the combined deficit masks local surpluses and shortfalls.
 
@@ -806,7 +806,7 @@ Table and hospitality. Sheltered southern valleys support oats, rye, roots and d
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Winter stores and valley access dominate civilian investment; reserves remain dispersed.
 
@@ -907,7 +907,7 @@ Table and hospitality. Mining leagues inherit northern preservation techniques b
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Specialist exports support a modest surplus while seasonal import buffers remain necessary.
 
@@ -1008,7 +1008,7 @@ Table and hospitality. Order houses preserve remedies and practical cookery alon
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Medical and teaching institutions receive a larger civilian share, with a small borrowing requirement.
 
@@ -1109,7 +1109,7 @@ Table and hospitality. Seasonal river traffic sustains mills, fisheries and gard
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 River tolls support reserve replenishment and measured debt reduction.
 
@@ -1210,7 +1210,7 @@ Table and hospitality. Western ports face a different trading sea from Veyrasse 
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Harbour renewal and naval support exceed ordinary receipts despite strong maritime earnings.
 
@@ -1311,7 +1311,7 @@ Table and hospitality. Refinery and arsenal towns share a strong canteen traditi
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Arsenals and fixed frontier commitments sustain a planned deficit.
 
@@ -1412,7 +1412,7 @@ Table and hospitality. Provincial land bargains preserve different kitchens insi
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Provincial roads and grain handling require a modest borrowing programme.
 
@@ -1513,7 +1513,7 @@ Table and hospitality. The old Serevask customs federation joined four southern 
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 The reduced republic carries its own inherited obligations; former federation partners are not a shared tax base.
 
@@ -1614,7 +1614,7 @@ Table and hospitality. Delta rice, fisheries and freight markets furnished the f
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Customs income broadly covers current plans and permits a small surplus.
 
@@ -1715,7 +1715,7 @@ Table and hospitality. Upriver gardens and plantation labour communities mix bas
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 River works and imported agricultural equipment are financed partly on credit.
 
@@ -1816,7 +1816,7 @@ Table and hospitality. March-house kitchens descend from basin customs but favou
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Frontier provisioning strains the limited receipts of rural estates.
 
@@ -1870,7 +1870,7 @@ Effective annual interest: 6.0%. Balance / output: -1.375%. Principal repayment 
 
 Combined geographic return; separate authorities. Population: 32,400,000.
 
-The cantons grew out of harbour and plantation charters left without a royal guarantor after the Long Culling. Jougrenne convenes the coastal toll assembly; Nantac administers a separate inland land court. Neither can tax the other’s households. Harbour dues fund escorts while plantation owners pay for roads and demand control of the checkpoints. Veldrassen buys tropical produce and timber here, but its purchasing agents face competing canton tariffs rather than a single ministry. Tenant disputes centre on debt and access to cleared farmland; the assembly meets over commercial quarrels, not to command a national army. Lorrevento provides a charted coastal gateway, with defended access to Chignoro. Separate canton harbour dependencies; local fishing rights and harbour dues remain with the charter communities. Charted island harbours: Vessantine.
+The cantons grew out of harbour and plantation charters left without a royal guarantor after the last major culling. Jougrenne convenes the coastal toll assembly; Nantac administers a separate inland land court. Neither can tax the other’s households. Harbour dues fund escorts while plantation owners pay for roads and demand control of the checkpoints. Veldrassen buys tropical produce and timber here, but its purchasing agents face competing canton tariffs rather than a single ministry. Tenant disputes centre on debt and access to cleared farmland; the assembly meets over commercial quarrels, not to command a national army. Lorrevento provides a charted coastal gateway, with defended access to Chignoro. Separate canton harbour dependencies; local fishing rights and harbour dues remain with the charter communities. Charted island harbours: Vessantine.
 
 Tropical produce, timber concessions, harbour handling and coastal escorts.
 
@@ -1917,7 +1917,7 @@ Table and hospitality. Rice cooked in coconut milk accompanies peppered fish nea
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Harbour and plantation districts carry different debts; no canton can spend the combined balance.
 
@@ -2018,7 +2018,7 @@ Table and hospitality. Barley noodles with browned cabbage are everyday food in 
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Court obligations and winter supply produce uneven local deficits.
 
@@ -2119,7 +2119,7 @@ Table and hospitality. Millet porridge with greens and groundnut sauce feeds fie
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Water authorities borrow for gates and channels against their own toll streams.
 
@@ -2220,7 +2220,7 @@ Table and hospitality. Astrellac cooks fish in tomato and fennel broth and lays 
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Commercial districts accumulate a modest combined surplus while carrying infrastructure bonds.
 
@@ -2321,7 +2321,7 @@ Table and hospitality. Workers eat oat flatbread, pea soup and smoked fish at co
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Public concession receipts fund contract access; private company debts are excluded.
 
@@ -2422,7 +2422,7 @@ Table and hospitality. Rye-and-oat bread, dried fish and sour cabbage dominate f
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Winter depots and fortified approaches require borrowing by individual wardholds.
 
@@ -2523,7 +2523,7 @@ Table and hospitality. Fish baked under a rye crust is shared along the shore; i
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Seasonal supply and port upkeep leave a small combined funding gap.
 
@@ -2624,7 +2624,7 @@ Table and hospitality. Households bake bean-and-onion pies and stretch broth wit
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Separate toll authorities borrow against their own future receipts; their treasuries are not pooled.
 
@@ -2678,7 +2678,7 @@ Effective annual interest: 6.5%. Balance / output: -1.17%. Principal repayment a
 
 Combined geographic return; separate authorities. Population: 20,200,000.
 
-Southern market cantons rebuilt around local granaries after the Long Culling. Margeuil’s elected grain board, Darnenne’s military governor and the landed councils around Galigny compete over transport dues. Common measures for grain survived; a common treasury did not. Merchants connect warm lowland crops with cooler interior districts, using brokers who can guarantee passage through several authorities. Kelbrun buyers seek plantation produce and seasonal labour. Municipal councils resist the governors’ claim that every warehouse is a military asset, particularly after poor harvests make requisitions politically dangerous. Pravessant provides a charted coastal gateway, with defended access to Peillier. Dependencies of individual southern cantons, governed through resident councils and grain-shipping charters. Charted island harbours: Cervelune.
+Southern market cantons rebuilt around local granaries after the last major culling. Margeuil’s elected grain board, Darnenne’s military governor and the landed councils around Galigny compete over transport dues. Common measures for grain survived; a common treasury did not. Merchants connect warm lowland crops with cooler interior districts, using brokers who can guarantee passage through several authorities. Kelbrun buyers seek plantation produce and seasonal labour. Municipal councils resist the governors’ claim that every warehouse is a military asset, particularly after poor harvests make requisitions politically dangerous. Pravessant provides a charted coastal gateway, with defended access to Peillier. Dependencies of individual southern cantons, governed through resident councils and grain-shipping charters. Charted island harbours: Cervelune.
 
 Grain storage, warm-climate produce, food processing and inter-canton brokerage.
 
@@ -2725,7 +2725,7 @@ Table and hospitality. Rice-and-bean dishes with sharp green relish are common i
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Storage and transport spending is negotiated separately by canton.
 
@@ -2826,7 +2826,7 @@ Table and hospitality. Coastal kitchens combine fish, white beans, garlic and lo
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Port communes retain a small combined surplus for local harbour and supply buffers.
 
@@ -2927,7 +2927,7 @@ Table and hospitality. Pass commerce carried dairy and grain dishes between othe
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Existing pass works and mine approaches absorb investment; the proposed Calvernis railway is not funded construction.
 
@@ -3028,7 +3028,7 @@ Table and hospitality. Agricultural estates feed the northern arsenals; ducal ki
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Armament production and the armed truce require a continuing bond programme.
 
@@ -3129,7 +3129,7 @@ Table and hospitality. Old coastal markets and the railway labour settlements ex
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Existing rail and municipal waterworks produce a manageable planned deficit; unbuilt national wonders have no appropriation.
 
@@ -3230,7 +3230,7 @@ Table and hospitality. The banking ports absorbed recipes from their merchant cr
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Shipping and banking receipts sustain a surplus despite substantial public infrastructure debt.
 
@@ -3331,7 +3331,7 @@ Table and hospitality. Limited grain land and long sea passages made imported fl
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Naval maintenance and imported provisions require borrowing alongside a maritime contingency buffer.
 
@@ -3432,7 +3432,7 @@ Table and hospitality. Terrace farms and convoy stores support distinct island k
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Assembly levies support a modest surplus; freshwater and island access take priority.
 
@@ -3533,7 +3533,7 @@ Table and hospitality. Older island farming overlaps with settler orchards and e
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 The colonial grant is booked once against the parent; private concession profits are not public reserves.
 
@@ -3634,7 +3634,7 @@ Table and hospitality. Terraced grain and sheltered orchards developed alongside
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Terrace and harbour maintenance produce a small deficit under compact-approved borrowing.
 
@@ -3735,7 +3735,7 @@ Table and hospitality. Cold-water fishing and mixed farming supply households an
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 A matched metropolitan subsidy covers part of the southern supply burden.
 
@@ -3836,7 +3836,7 @@ Table and hospitality. Collective stores and rescue obligations shape the table.
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Low debt accompanies communal stores and rescue commitments; stores themselves are not liquid cash.
 
@@ -3937,7 +3937,7 @@ Table and hospitality. Port commerce brought varied seasonings to island farming
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Marine works and pumps are partly bond-financed despite substantial liquid reserves.
 
@@ -4038,7 +4038,7 @@ Table and hospitality. Wet-valley cultivation and reef fisheries support inter-i
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Small negotiated loans support water and agricultural works without pledging all communal land.
 
@@ -4139,7 +4139,7 @@ Table and hospitality. A maritime court draws on irrigated valleys, plantation d
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Assembly-approved borrowing supports schools and port works, subject to existing limits on royal credit.
 
@@ -4240,7 +4240,7 @@ Table and hospitality. Settler dairy farms and older fishing communities exchang
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 A matched parent subsidy helps fund northern depots and weather stations.
 
@@ -4341,7 +4341,7 @@ Table and hospitality. Seasonal travel and reciprocal refuge duties shape storag
 
 ### Treasury and annual budget
 
-Year 68 of Reconstruction; treasury stocks at 21/10/0068 R. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
 
 Small harbour loans supplement refuge services; distributed stores are excluded from cash reserves.
 

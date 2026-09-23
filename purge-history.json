@@ -1,5 +1,5 @@
 {
-  "name": "The Long Culling",
+  "name": "The Last Major Culling",
   "ended_local_years_before_present_return": 67,
   "duration_local_years": 3,
   "estimated_pre_population": 1540000000,
@@ -32,11 +32,12 @@
     }
   ],
   "present_population": 1223820000,
-  "description": "The Long Culling ended approximately sixty-seven local years before the present return, after three years of overlapping campaigns across all inhabited continents. Reconstructed returns suggest about 56% of the pre-campaign population was killed or taken: approximately 37% killed and 19% captured, with considerable uncertainty. Captives are missing from local population returns, not certified dead. Displacement among surviving settlements is counted separately.",
+  "description": "The last major culling is numbered 43 in the shared surviving historical reckoning. It ended about sixty-seven local years ago, after three years of overlapping campaigns across all inhabited continents. The current date falls in 67 AC43: Year 67 After Culling 43. Reconstructed returns suggest about 56% of the pre-campaign population was killed or taken: approximately 37% killed and 19% captured, with considerable uncertainty. Captives are missing from local returns, not certified dead; displacement is recorded separately.",
   "mechanism": "Major preserve-wide cullings are separated by roughly a century on average, commonly fifty to a hundred and fifty years. The shortest well-correlated interval is twenty-four years. These are historical intervals, not an announced Hunter timetable. Captured technology, rapid recovery, successful resistance and concentrated research can precipitate another campaign; weaker quarry may be left longer to recover. Ordinary hunts and selective raids continue between major cullings.",
-  "targets": "Arsenals, precision factories, research collections, power and transport bottlenecks are repeatedly struck. Enough ordinary farms, basic machine shops and dispersed practical knowledge survive for rebuilding at conventional industrial levels. Advanced recovered systems and the communities able to reproduce their workings suffer disproportionately. Destruction is severe but geographically uneven; it does not erase every book or reset all machinery to an earlier century.",
-  "society": "Some elderly survivors remember the Long Culling directly; younger people inherit missing relatives, rebuilt streets, emergency stores and conflicting family accounts. People expect another culling within a lifetime, but disagree over whether resistance hastens it or offers the only hope. Evacuation drills, dispersed archives, refuge kitchens, hoarding, fatalism and ambitious rebuilding coexist.",
+  "targets": "Arsenals, precision factories, research collections, power and transport bottlenecks are repeatedly struck. These attacks impose technological stagnation and uneven, usually limited regression on surviving industrial societies. They do not turn the whole planet tribal, erase its languages or destroy all historical memory. Enough farms, workshops, schools, institutions and practical expertise survive to rebuild; repeated losses can nevertheless make particular techniques unavailable for generations.",
+  "society": "Some elderly survivors remember the last major culling directly. Written histories, oral recitations, family records and concealed archives preserve much older events across many culling eras. Dispersed vaults and hidden collections reduce losses without guaranteeing safety: the death of custodians, a broken teaching lineage, a betrayed hiding place or a breached vault can permanently remove knowledge until it is rediscovered. Warfare between human powers compounds this attrition. People inherit a damaged but continuing civilisation, not a blank historical slate.",
   "recovery_scope_population": 1209200000,
   "recovery_scope": "Historical reconstruction for the older 33-return coverage. Outer-island losses and recovery are not retrospectively quantified; the new census coverage does not imply those islands escaped the Culling.",
-  "calendar_reference": "Year 1 R begins the first civil reconstruction year after the Long Culling. Current year: 68 R. The older 67-year interval is approximate."
+  "calendar_reference": "Current year: 67 AC43, after the 43rd recorded major culling. The calendar counts major cullings in the surviving common reckoning, not every Hunter attack and not a claim that only 43 have ever occurred.",
+  "recorded_culling_number": 43
 }

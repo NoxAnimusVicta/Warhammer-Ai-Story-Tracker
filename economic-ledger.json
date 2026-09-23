@@ -2,14 +2,15 @@
   "schema": 1,
   "revision": 52,
   "baseline": {
-    "label": "Year 68 of Reconstruction — 21/10/0068 R",
+    "label": "Year 67 AC43 — 21/10/0067 AC43",
     "scene": "Auvrienne Collegium, evening before departure",
     "days_after_census_epoch": 55,
-    "numbered_local_year": 68,
+    "numbered_local_year": 67,
     "currency": "Veyrasse lorrat; 100 brins",
     "skilled_monthly_wage_lorrats": 25,
     "source": "ECONOMIC-REFERENCE.md",
-    "date": "21/10/0068 R"
+    "date": "21/10/0067 AC43",
+    "culling_cycle": 43
   },
   "index_basis": "1.00 multiplies the existing baseline after applicable regional, quality and seasonal adjustments; it does not replace those adjustments.",
   "indices": {

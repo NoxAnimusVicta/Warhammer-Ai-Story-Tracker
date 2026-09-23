@@ -1,4 +1,4 @@
-# Malaspina — food, society and the Long Culling
+# Malaspina — food, society and the Last Major Culling
 
 Most calories come from familiar cultivated grains, pulses, roots and oil crops descended from colonial agriculture. Managed livestock, fisheries, dairies and defended market gardens supply the ordinary table. Hunter-altered wildlife is not the population’s staple meat; wild carcasses require local inspection, and rare trophy flesh is no guarantee of safe food.
 
@@ -610,12 +610,22 @@ Hot herb infusions and occasional imported ale.
 
 Stored food is carefully accounted for because rescue hospitality and winter survival draw on the same reserves.
 
-## The Long Culling
+## The Last Major Culling
 
-The Long Culling ended approximately sixty-seven local years before the present return, after three years of overlapping campaigns across all inhabited continents. Reconstructed returns suggest about 56% of the pre-campaign population was killed or taken: approximately 37% killed and 19% captured, with considerable uncertainty. Captives are missing from local population returns, not certified dead. Displacement among surviving settlements is counted separately.
+The last major culling is numbered 43 in the shared surviving historical reckoning. It ended about sixty-seven local years ago, after three years of overlapping campaigns across all inhabited continents. The current date falls in 67 AC43: Year 67 After Culling 43. Reconstructed returns suggest about 56% of the pre-campaign population was killed or taken: approximately 37% killed and 19% captured, with considerable uncertainty. Captives are missing from local returns, not certified dead; displacement is recorded separately.
 
 Major preserve-wide cullings are separated by roughly a century on average, commonly fifty to a hundred and fifty years. The shortest well-correlated interval is twenty-four years. These are historical intervals, not an announced Hunter timetable. Captured technology, rapid recovery, successful resistance and concentrated research can precipitate another campaign; weaker quarry may be left longer to recover. Ordinary hunts and selective raids continue between major cullings.
 
-Arsenals, precision factories, research collections, power and transport bottlenecks are repeatedly struck. Enough ordinary farms, basic machine shops and dispersed practical knowledge survive for rebuilding at conventional industrial levels. Advanced recovered systems and the communities able to reproduce their workings suffer disproportionately. Destruction is severe but geographically uneven; it does not erase every book or reset all machinery to an earlier century.
+Arsenals, precision factories, research collections, power and transport bottlenecks are repeatedly struck. These attacks impose technological stagnation and uneven, usually limited regression on surviving industrial societies. They do not turn the whole planet tribal, erase its languages or destroy all historical memory. Enough farms, workshops, schools, institutions and practical expertise survive to rebuild; repeated losses can nevertheless make particular techniques unavailable for generations.
 
-Some elderly survivors remember the Long Culling directly; younger people inherit missing relatives, rebuilt streets, emergency stores and conflicting family accounts. People expect another culling within a lifetime, but disagree over whether resistance hastens it or offers the only hope. Evacuation drills, dispersed archives, refuge kitchens, hoarding, fatalism and ambitious rebuilding coexist.
+Some elderly survivors remember the last major culling directly. Written histories, oral recitations, family records and concealed archives preserve much older events across many culling eras. Dispersed vaults and hidden collections reduce losses without guaranteeing safety: the death of custodians, a broken teaching lineage, a betrayed hiding place or a breached vault can permanently remove knowledge until it is rediscovered. Warfare between human powers compounds this attrition. People inherit a damaged but continuing civilisation, not a blank historical slate.
+
+## Ambros — history and tradition
+
+Older traditions centre on Ambros, a warrior, teacher and sorcerer credited with founding an empire that united a substantial part of the inhabited world. Surviving accounts describe a broad imperial order rather than a permanently unified planet. Its boundaries, exact dates and relation to the earliest surviving culling numbers are not yet securely reconstructed.
+
+The best-known account tells of Ambros slaying a Hunter in single combat with only a sword. It is a central heroic tradition, repeated in oral histories and surviving texts. The duel has not been independently reconstructed in enough detail to establish his equipment, the circumstances or the precise role of psychic power.
+
+He is remembered as an exceptionally rare psychic talent as well as a warrior and lawgiver. Later tellings mingle historical deeds with prophecy, miracles and moral teaching. The intended historical figure is a remarkable human psyker, not proof of literal divinity or of a hidden identity from established offworld lore.
+
+Communities preserve differing songs, genealogies, teachings and fragments of imperial law associated with him. Hidden vaults and oral custodians carry parts of that inheritance across successive cullings, but no single surviving source is complete. Admiration for Ambros does not require one planetary religion or erase local beliefs.

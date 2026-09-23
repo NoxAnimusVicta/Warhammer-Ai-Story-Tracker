@@ -6,7 +6,7 @@ This reference supplies the baseline for **new economic estimates** on Malaspina
 
 ## Price date and change over story time
 
-These prices describe the **current local story year**, anchored to the evening before expedition departure at Auvrienne, **55 local days after the census of 27/08/0068 R**. The real-world editorial date is not the in-world year. A local year contains 365 local solar days, each lasting 24 Terran standard hours and 8 minutes. The numbered date and month lengths are established in the Reconstruction calendar. See CALENDAR-REFERENCE.md. The skilled wage of 25 lorrats per pay month is this year's purchasing-power anchor, not a permanent nominal wage.
+These prices describe the **current local story year**, anchored to the evening before expedition departure at Auvrienne, **55 local days after the census of 27/08/0067 AC43**. The real-world editorial date is not the in-world year. A local year contains 365 local solar days, each lasting 24 Terran standard hours and 8 minutes. The numbered date and month lengths are established in the culling calendar. See CALENDAR-REFERENCE.md. The skilled wage of 25 lorrats per pay month is this year's purchasing-power anchor, not a permanent nominal wage.
 
 Use [economic-ledger.json](economic-ledger.json) for dated changes. Its starting regional/category indices are 1.00, meaning the existing tables and regional adjustments apply without an additional time surcharge. No inflation, wage rise or event shock is enacted by introducing the ledger.
 

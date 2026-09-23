@@ -1,6 +1,6 @@
 # Malaspina — active conflicts and disputes
 
-21/10/0068 R · eve of expedition departure
+21/10/0067 AC43 · eve of expedition departure
 
 Principal recorded conflicts and unresolved disputes; not an exhaustive incident list. Unlisted regions are not certified peaceful.
 
@@ -18,7 +18,7 @@ Travel: The arranged Valdrec–Auvrienne return remains available under current 
 
 Record basis: Consolidates the established Cressault record; no new incident.
 
-Last reviewed: 21/10/0068 R. Losses: unquantified. Trend: No comparative return yet.
+Last reviewed: 21/10/0067 AC43. Losses: unquantified. Trend: No comparative return yet.
 
 ## Ossavren succession fighting
 
@@ -34,7 +34,7 @@ Travel: The prepared Ossendrienne visit and its named transit jurisdictions rema
 
 Record basis: Consolidates existing civil-fighting and divided-authority records; battle dates and losses remain unquantified.
 
-Last reviewed: 21/10/0068 R. Losses: unquantified. Trend: No comparative return yet.
+Last reviewed: 21/10/0067 AC43. Losses: unquantified. Trend: No comparative return yet.
 
 ## Haldrevik concession clashes
 
@@ -50,7 +50,7 @@ Travel: The arranged Rovensac–Trelovre transit remains in service. Restricted 
 
 Record basis: New limited baseline clarification of established armed concession tensions; no particular battle, seizure or casualty total is enacted.
 
-Last reviewed: 21/10/0068 R. Losses: unquantified. Trend: No comparative return yet.
+Last reviewed: 21/10/0067 AC43. Losses: unquantified. Trend: No comparative return yet.
 
 ## Seravelle and island sea-lane insecurity
 
@@ -66,7 +66,7 @@ Travel: Booked commercial services remain available. A confirmed attack, blockad
 
 Record basis: Consolidates established raiding, cargo seizure and unproven privateering allegations.
 
-Last reviewed: 21/10/0068 R. Losses: unquantified. Trend: No comparative return yet.
+Last reviewed: 21/10/0067 AC43. Losses: unquantified. Trend: No comparative return yet.
 
 ## Vardol–Averholt rivalry
 
@@ -82,7 +82,7 @@ Travel: The separate Avercenne and Estrevigne visits retain their existing permi
 
 Record basis: Status clarification of an existing rivalry; no invented battle.
 
-Last reviewed: 21/10/0068 R. Losses: unquantified. Trend: No comparative return yet.
+Last reviewed: 21/10/0067 AC43. Losses: unquantified. Trend: No comparative return yet.
 
 ## Former Serevask federation disputes
 
@@ -98,7 +98,7 @@ Travel: Ordinary academic entry and transit arrangements remain valid. Material 
 
 Record basis: Consolidates established post-federal disputes; no new embargo.
 
-Last reviewed: 21/10/0068 R. Losses: unquantified. Trend: No comparative return yet.
+Last reviewed: 21/10/0067 AC43. Losses: unquantified. Trend: No comparative return yet.
 
 ## Talascan land and labour dispute
 
@@ -114,7 +114,7 @@ Travel: No general port closure or new itinerary requirement is established. A d
 
 Record basis: Consolidates existing colonial tensions; no invented uprising.
 
-Last reviewed: 21/10/0068 R. Losses: unquantified. Trend: No comparative return yet.
+Last reviewed: 21/10/0067 AC43. Losses: unquantified. Trend: No comparative return yet.
 
 ## Hunter attacks and human defence
 
@@ -130,7 +130,7 @@ Travel: Local warnings and confirmed attacks affect particular routes and commun
 
 Record basis: Consolidates established public Hunter pressure; concealed motives and logistics remain outside this register.
 
-Last reviewed: 21/10/0068 R. Losses: unquantified. Trend: No comparative return yet.
+Last reviewed: 21/10/0067 AC43. Losses: unquantified. Trend: No comparative return yet.
 
 ## Maintaining the living return
 

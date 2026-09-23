@@ -130002,7 +130002,7 @@
         938.0
       ],
       "population": 32.4,
-      "detail": "The cantons grew out of harbour and plantation charters left without a royal guarantor after the Long Culling. Jougrenne convenes the coastal toll assembly; Nantac administers a separate inland land court. Neither can tax the other’s households. Harbour dues fund escorts while plantation owners pay for roads and demand control of the checkpoints. Veldrassen buys tropical produce and timber here, but its purchasing agents face competing canton tariffs rather than a single ministry. Tenant disputes centre on debt and access to cleared farmland; the assembly meets over commercial quarrels, not to command a national army. Lorrevento provides a charted coastal gateway, with defended access to Chignoro. Separate canton harbour dependencies; local fishing rights and harbour dues remain with the charter communities. Charted island harbours: Vessantine.",
+      "detail": "The cantons grew out of harbour and plantation charters left without a royal guarantor after the last major culling. Jougrenne convenes the coastal toll assembly; Nantac administers a separate inland land court. Neither can tax the other’s households. Harbour dues fund escorts while plantation owners pay for roads and demand control of the checkpoints. Veldrassen buys tropical produce and timber here, but its purchasing agents face competing canton tariffs rather than a single ministry. Tenant disputes centre on debt and access to cleared farmland; the assembly meets over commercial quarrels, not to command a national army. Lorrevento provides a charted coastal gateway, with defended access to Chignoro. Separate canton harbour dependencies; local fishing rights and harbour dues remain with the charter communities. Charted island harbours: Vessantine.",
       "color": "#4e6c5b",
       "polygons": [
         [
@@ -168958,7 +168958,7 @@
         1010
       ],
       "population": 20.2,
-      "detail": "Southern market cantons rebuilt around local granaries after the Long Culling. Margeuil’s elected grain board, Darnenne’s military governor and the landed councils around Galigny compete over transport dues. Common measures for grain survived; a common treasury did not. Merchants connect warm lowland crops with cooler interior districts, using brokers who can guarantee passage through several authorities. Kelbrun buyers seek plantation produce and seasonal labour. Municipal councils resist the governors’ claim that every warehouse is a military asset, particularly after poor harvests make requisitions politically dangerous. Pravessant provides a charted coastal gateway, with defended access to Peillier. Dependencies of individual southern cantons, governed through resident councils and grain-shipping charters. Charted island harbours: Cervelune.",
+      "detail": "Southern market cantons rebuilt around local granaries after the last major culling. Margeuil’s elected grain board, Darnenne’s military governor and the landed councils around Galigny compete over transport dues. Common measures for grain survived; a common treasury did not. Merchants connect warm lowland crops with cooler interior districts, using brokers who can guarantee passage through several authorities. Kelbrun buyers seek plantation produce and seasonal labour. Municipal councils resist the governors’ claim that every warehouse is a military asset, particularly after poor harvests make requisitions politically dangerous. Pravessant provides a charted coastal gateway, with defended access to Peillier. Dependencies of individual southern cantons, governed through resident councils and grain-shipping charters. Charted island harbours: Cervelune.",
       "color": "#4e6c5b",
       "polygons": [
         [
@@ -513693,7 +513693,7 @@
       "local_clock_hours_per_day": 24,
       "pay_months_per_year": 12,
       "reference": "CALENDAR-REFERENCE.md",
-      "era": "Reconstruction",
+      "era": "AC43",
       "month_lengths": [
         31,
         30,
@@ -513708,7 +513708,9 @@
         30,
         30
       ],
-      "current_date": "21/10/0068 R"
+      "current_date": "21/10/0067 AC43",
+      "current_year": 67,
+      "culling_cycle": 43
     },
     "north_pole": [
       1800,
@@ -517282,7 +517284,7 @@
     ]
   },
   "demography": {
-    "epoch": "27/08/0068 R",
+    "epoch": "27/08/0067 AC43",
     "elapsed_story_years": 0,
     "total_population": 1223820000,
     "groups": [

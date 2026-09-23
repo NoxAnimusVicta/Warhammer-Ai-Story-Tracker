@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "revision": 55,
-  "epoch": "27/08/0068 R",
+  "epoch": "27/08/0067 AC43",
   "elapsed_story_years": 0,
   "unit": "Millions of constant-price Veyrasse lorrat-equivalents per local year",
   "profiles": [
@@ -65,7 +65,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 8329.8,
         "transfer_income": 0,
         "total_receipts": 8329.8,
@@ -163,7 +163,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 4148.3,
         "transfer_income": 0,
         "total_receipts": 4148.3,
@@ -261,7 +261,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 4003.0,
         "transfer_income": 0,
         "total_receipts": 4003.0,
@@ -359,7 +359,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 1621.1,
         "transfer_income": 0,
         "total_receipts": 1621.1,
@@ -457,7 +457,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 1181.2,
         "transfer_income": 0,
         "total_receipts": 1181.2,
@@ -555,7 +555,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 1663.9,
         "transfer_income": 0,
         "total_receipts": 1663.9,
@@ -653,7 +653,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 5646.4,
         "transfer_income": 0,
         "total_receipts": 5646.4,
@@ -751,7 +751,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 922.9,
         "transfer_income": 0,
         "total_receipts": 922.9,
@@ -849,7 +849,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 972.2,
         "transfer_income": 0,
         "total_receipts": 972.2,
@@ -947,7 +947,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 376.3,
         "transfer_income": 0,
         "total_receipts": 376.3,
@@ -1045,7 +1045,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 555.4,
         "transfer_income": 0,
         "total_receipts": 555.4,
@@ -1143,7 +1143,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 2052.5,
         "transfer_income": 0,
         "total_receipts": 2052.5,
@@ -1241,7 +1241,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 2486.4,
         "transfer_income": 0,
         "total_receipts": 2486.4,
@@ -1339,7 +1339,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 1848.4,
         "transfer_income": 0,
         "total_receipts": 1848.4,
@@ -1437,7 +1437,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 436.8,
         "transfer_income": 0,
         "total_receipts": 436.8,
@@ -1535,7 +1535,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 829.9,
         "transfer_income": 0,
         "total_receipts": 829.9,
@@ -1633,7 +1633,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 443.5,
         "transfer_income": 0,
         "total_receipts": 443.5,
@@ -1731,7 +1731,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 210.0,
         "transfer_income": 0,
         "total_receipts": 210.0,
@@ -1816,7 +1816,7 @@
       "specialties": "Tropical produce, timber concessions, harbour handling and coastal escorts",
       "constraints": "Canton tolls and planter credit divide the export trade. Escort flotillas answer to their sponsors; the combined manpower is not one army.",
       "older_arts": "Canton healers inherit plant lore and protective observances. Port subscribers occasionally pay to compare case records, but inland custodians resist giving away family knowledge.",
-      "description": "The cantons grew out of harbour and plantation charters left without a royal guarantor after the Long Culling. Jougrenne convenes the coastal toll assembly; Nantac administers a separate inland land court. Neither can tax the other’s households. Harbour dues fund escorts while plantation owners pay for roads and demand control of the checkpoints. Veldrassen buys tropical produce and timber here, but its purchasing agents face competing canton tariffs rather than a single ministry. Tenant disputes centre on debt and access to cleared farmland; the assembly meets over commercial quarrels, not to command a national army. Lorrevento provides a charted coastal gateway, with defended access to Chignoro. Separate canton harbour dependencies; local fishing rights and harbour dues remain with the charter communities. Charted island harbours: Vessantine.",
+      "description": "The cantons grew out of harbour and plantation charters left without a royal guarantor after the last major culling. Jougrenne convenes the coastal toll assembly; Nantac administers a separate inland land court. Neither can tax the other’s households. Harbour dues fund escorts while plantation owners pay for roads and demand control of the checkpoints. Veldrassen buys tropical produce and timber here, but its purchasing agents face competing canton tariffs rather than a single ministry. Tenant disputes centre on debt and access to cleared farmland; the assembly meets over commercial quarrels, not to command a national army. Lorrevento provides a charted coastal gateway, with defended access to Chignoro. Separate canton harbour dependencies; local fishing rights and harbour dues remain with the charter communities. Charted island harbours: Vessantine.",
       "food": {
         "id": "other-otranto-400",
         "name": "Bellacosta Cantons",
@@ -1830,7 +1830,7 @@
       "government": "Coastal canton assemblies and inland land courts; shared toll negotiations, separate treasuries and troops.",
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 758.2,
         "transfer_income": 0,
         "total_receipts": 758.2,
@@ -1929,7 +1929,7 @@
       "government": "Independent principalities, free market charters and estate courts; no common sovereign.",
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 549.4,
         "transfer_income": 0,
         "total_receipts": 549.4,
@@ -2028,7 +2028,7 @@
       "government": "Three principal water authorities with smaller charter towns; a binding water compact but no unified army.",
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 719.3,
         "transfer_income": 0,
         "total_receipts": 719.3,
@@ -2127,7 +2127,7 @@
       "government": "Harbour republics and estate courts linked by a maritime commercial convention.",
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 1176.1,
         "transfer_income": 0,
         "total_receipts": 1176.1,
@@ -2226,7 +2226,7 @@
       "government": "Rival concession houses under separate charters; settlement councils retain residence and market law.",
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 203.6,
         "transfer_income": 0,
         "total_receipts": 203.6,
@@ -2325,7 +2325,7 @@
       "government": "Independent fortress wardens bound to civilian provisioning charters and a seasonal convoy muster.",
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 330.1,
         "transfer_income": 0,
         "total_receipts": 330.1,
@@ -2424,7 +2424,7 @@
       "government": "Hereditary estate courts, independent fishing charters and Varkessant’s municipal port government.",
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 259.7,
         "transfer_income": 0,
         "total_receipts": 259.7,
@@ -2523,7 +2523,7 @@
       "government": "Fortified lordships and town liberties; overlapping foreign patronage, no regional crown.",
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 803.5,
         "transfer_income": 0,
         "total_receipts": 803.5,
@@ -2608,7 +2608,7 @@
       "specialties": "Grain storage, warm-climate produce, food processing and inter-canton brokerage",
       "constraints": "Military governors and elected market boards compete for transport and stores. Requisition disputes can immobilise a nominally available reserve.",
       "older_arts": "Granary towns maintain household protection rites alongside practical medicine. Market festivals bring teachers together briefly, without creating a permanent regional academy.",
-      "description": "Southern market cantons rebuilt around local granaries after the Long Culling. Margeuil’s elected grain board, Darnenne’s military governor and the landed councils around Galigny compete over transport dues. Common measures for grain survived; a common treasury did not. Merchants connect warm lowland crops with cooler interior districts, using brokers who can guarantee passage through several authorities. Kelbrun buyers seek plantation produce and seasonal labour. Municipal councils resist the governors’ claim that every warehouse is a military asset, particularly after poor harvests make requisitions politically dangerous. Pravessant provides a charted coastal gateway, with defended access to Peillier. Dependencies of individual southern cantons, governed through resident councils and grain-shipping charters. Charted island harbours: Cervelune.",
+      "description": "Southern market cantons rebuilt around local granaries after the last major culling. Margeuil’s elected grain board, Darnenne’s military governor and the landed councils around Galigny compete over transport dues. Common measures for grain survived; a common treasury did not. Merchants connect warm lowland crops with cooler interior districts, using brokers who can guarantee passage through several authorities. Kelbrun buyers seek plantation produce and seasonal labour. Municipal councils resist the governors’ claim that every warehouse is a military asset, particularly after poor harvests make requisitions politically dangerous. Pravessant provides a charted coastal gateway, with defended access to Peillier. Dependencies of individual southern cantons, governed through resident councils and grain-shipping charters. Charted island harbours: Cervelune.",
       "food": {
         "id": "other-vesalius-2790-1410",
         "name": "Vallessia Cantons",
@@ -2622,7 +2622,7 @@
       "government": "Market cantons, landed councils and surviving military governorships; a common weights agreement only.",
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 581.8,
         "transfer_income": 0,
         "total_receipts": 581.8,
@@ -2721,7 +2721,7 @@
       "government": "Port communes and agricultural districts linked by pilotage agreements; separate administrations.",
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 466.6,
         "transfer_income": 0,
         "total_receipts": 466.6,
@@ -2819,7 +2819,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 386.4,
         "transfer_income": 0,
         "total_receipts": 386.4,
@@ -2917,7 +2917,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 1195.0,
         "transfer_income": 0,
         "total_receipts": 1195.0,
@@ -3015,7 +3015,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 675.9,
         "transfer_income": 0,
         "total_receipts": 675.9,
@@ -3113,7 +3113,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 1083.3,
         "transfer_income": 0,
         "total_receipts": 1083.3,
@@ -3211,7 +3211,7 @@
       },
       "editorial_revision": 47,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 170.4,
         "transfer_income": 0,
         "total_receipts": 170.4,
@@ -3309,7 +3309,7 @@
       },
       "editorial_revision": 52,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 39.06,
         "transfer_income": 0,
         "total_receipts": 39.06,
@@ -3408,7 +3408,7 @@
       "editorial_revision": 52,
       "sovereign_parent": "rovessara",
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 30.8,
         "transfer_income": 1.5,
         "total_receipts": 32.3,
@@ -3506,7 +3506,7 @@
       },
       "editorial_revision": 52,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 60.32,
         "transfer_income": 0,
         "total_receipts": 60.32,
@@ -3605,7 +3605,7 @@
       "editorial_revision": 52,
       "sovereign_parent": "ostrevain",
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 18.9,
         "transfer_income": 2.5,
         "total_receipts": 21.4,
@@ -3703,7 +3703,7 @@
       },
       "editorial_revision": 52,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 4.275,
         "transfer_income": 0,
         "total_receipts": 4.275,
@@ -3801,7 +3801,7 @@
       },
       "editorial_revision": 52,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 54.72,
         "transfer_income": 0,
         "total_receipts": 54.72,
@@ -3899,7 +3899,7 @@
       },
       "editorial_revision": 52,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 29.04,
         "transfer_income": 0,
         "total_receipts": 29.04,
@@ -3997,7 +3997,7 @@
       },
       "editorial_revision": 52,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 49.088,
         "transfer_income": 0,
         "total_receipts": 49.088,
@@ -4096,7 +4096,7 @@
       "editorial_revision": 52,
       "sovereign_parent": "rovengard",
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 27.0,
         "transfer_income": 3.0,
         "total_receipts": 30.0,
@@ -4194,7 +4194,7 @@
       },
       "editorial_revision": 52,
       "fiscal": {
-        "epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+        "epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
         "revenue": 0.864,
         "transfer_income": 0,
         "total_receipts": 0.864,
@@ -4247,7 +4247,7 @@
     "fiscal_updates": "Budget plans are not transactions already completed. On later story dates, record actual elapsed receipts, spending, borrowing, principal payments and changes in reserves once; never add an entire annual surplus or deficit automatically. Reforecast after policy, investment, war or disruption. Keep nominal values and the valuation baseline explicit. The present clarification changes no personal or expedition account."
   },
   "edition": "55",
-  "fiscal_epoch": "Year 68 of Reconstruction; treasury stocks at 21/10/0068 R",
+  "fiscal_epoch": "Year 67 AC43; treasury stocks at 21/10/0067 AC43",
   "fiscal_categories": {
     "defence": "Defence",
     "administration": "Civil administration, courts, policing & diplomacy",
