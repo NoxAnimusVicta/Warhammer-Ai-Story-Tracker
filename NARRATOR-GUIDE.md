@@ -111,6 +111,8 @@ Read related passages together when assessing lore implications. Distinguish exp
 
 ## National capacity returns
 
+Read [CONFLICT-REGISTER.md](CONFLICT-REGISTER.md) and conflict-register.json before resolving geopolitical developments or a substantial time skip. Review active theatres at expedition leg transitions and substantial time skips, the complete register at least once per elapsed local month, and material incidents immediately. Preserve prior returns; share event IDs with demographic, economic, fiscal and transport consequences so each effect is applied once. The Cressault frontier is an armed truce with intermittent fire, not a full-scale current war. Existing expedition preparations remain valid under the baseline conditions; deliver material new route warnings through NPCs before the affected decision. No real-world clock advances conflicts.
+
 Read national-register.json for the current numerical baseline. Its scope, units and qualifications are part of the record: annual output is not money in a treasury; reserves are additional trained people; sustainable field strength is a subset of standing forces. Divided geographic returns are not united armies. Technology ratings measure industrial capability in separate domains, not an overall combat score. Rare psychic talent has no fixed national quota.
 
 When local story time advances, preserve a prior snapshot and revise production, population, revenues and capacity together. Apply extraordinary losses and investment explicitly. Equipment does not automatically grow at the population rate. No numerical comparison guarantees victory or grants Galahad precise intelligence about every formation. Run verify-national.py alongside the reader and navigation checks when these files change.

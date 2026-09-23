@@ -30,6 +30,8 @@ Routine annual ice closure has already been planned around. Harbour notices are 
 
 ## Route, timetables and suitable transport
 
+The [planetary conflict return](CONFLICT-REGISTER.md) records current security conditions and the implications for each affected stage. Existing arrangements include travel through divided Ossavren jurisdictions and the Cressault armed-truce environment; they are not invalidated by documenting these conditions. Agents reconfirm relevant notices before each stage. New closures or fighting affecting an actual booked connection require timely advice and a route decision, rather than a retrospective claim that ordinary planning was omitted.
+
 The [day planner](expedition-route.html) and [printable schedule](expedition-route.md) retain the same 22 principal visits and five-to-six-day stays. **231 travel days +124 full visiting days +10 reserve days =365.** Target return is **day 355**. The ten reserve days remain uncommitted; unused days are spent at home on reports and recovery.
 
 The transport arrangements cover the existing mapped corridors and intermediate calls. Carrier schedules and agents' connections support the allocated travel windows, using effective progress of about 480 km/day by sea or rail and 200 km/day by road, plus interchange allowances. These are working schedule averages, not a promise of identical speed every day. Original measured Marches journeys remain controlling. Rail gauge changes require actual transfers; the route is not one continuous train.
