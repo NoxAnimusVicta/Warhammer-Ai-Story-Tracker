@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="slate-build" content="2e861dacd0c72c80238c"><meta name="theme-color" content="#202d29"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Malaspina">
+<meta name="slate-build" content="af4c91eedbe2118ad210"><meta name="theme-color" content="#202d29"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Malaspina">
 <meta name="description" content="An evolving character dossier for Galahad, a perfected proto-Primarch on Malaspina.">
 <link rel="manifest" href="./manifest.webmanifest"><link rel="apple-touch-icon" href="./sigil-v1.png"><link rel="icon" type="image/png" sizes="1254x1254" href="./sigil-v1.png">
 <title>Malaspina | Galahad</title>
@@ -97,6 +97,81 @@ html,body{touch-action:manipulation}
 @media print{.estate-image-viewport{height:auto;aspect-ratio:1280/853}.estate-art .estate-image-viewport img{width:100%!important;height:100%!important;transform:none!important;filter:none;opacity:1}.estate-image-viewport:after,.estate-art-toolbar{display:none}.estate-art figcaption{background:white;color:black}}
 
 .hero figure{min-height:0;height:auto;aspect-ratio:853/1280;align-self:start}.hero figure img{object-fit:contain;object-position:center}
+
+/* Reading layout only: preserve the established slate palette and artwork. */
+main > section { scroll-margin-top: 90px; }
+main > section > .panel,
+main > section > .grid,
+main > section > .sigil-record { margin-block: 22px; }
+.grid { align-items: start; }
+#physiology > .grid { grid-template-columns: minmax(0, 1fr); }
+.panel p, .detail-body p, .journal-item p { max-width: 80ch; }
+.panel p + p, .detail-body p + p { margin-top: 16px; }
+.panel > :last-child, .detail-body > :last-child { margin-bottom: 0; }
+.panel dl { margin-top: 20px; }
+.panel dl dt { margin-bottom: 5px; }
+.panel dl dd { max-width: 80ch; margin-bottom: 18px; }
+.panel dl dd:last-child { margin-bottom: 0; }
+.detail-body { padding-top: 4px; padding-bottom: 22px; }
+details summary { background: transparent; border-bottom: 0; margin-bottom: 0; }
+details[open] > summary { background: #1c342c; border-bottom: 1px solid #46664f; margin-bottom: 15px; }
+summary { overflow-wrap: break-word; }
+summary::marker { color: var(--muted); }
+.section-jumps { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px; padding: 14px 0; margin: 0 0 22px; border-bottom: 1px solid var(--line); }
+.section-jumps label { flex: 0 0 auto; margin: 0; font: .8rem 'Courier New', monospace; text-transform: uppercase; }
+.section-jumps select { flex: 1 1 240px; width: auto; max-width: 100%; margin: 0; min-height: 44px; font-size: 16px; }
+.section-return { margin-top: 24px; }
+[data-reading-target] { scroll-margin-top: 96px; }
+[data-reading-target]:focus { outline: 1px solid var(--line); outline-offset: 5px; }
+.atlas-metrics { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.atlas-metrics > div { min-width: 0; padding: 16px; }
+.atlas-metrics strong { line-height: 1.4; }
+.atlas-legend { display: flex; flex-wrap: wrap; gap: 10px 20px; padding: 16px 20px; }
+.atlas-route-box { padding: 24px; }
+#world-state-readout:not(:empty), #world-readout:not(:empty) { margin: 18px 0 24px; padding: 16px 18px; border-left: 2px solid var(--gold); background: #142528; }
+#world-readout h4 { margin-top: 0 !important; }
+#world-readout p, #world-state-readout p { max-width: 80ch; }
+#world-readout > p:first-of-type, #world-state-readout > p:first-child { font-variant-numeric: tabular-nums; color: var(--paper); }
+#national-register { margin-top: 30px; padding-top: 24px; border-top: 1px solid var(--line); }
+.national-panel .national-metrics { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.national-metrics > div { min-width: 0; }
+.national-metrics strong { font-variant-numeric: tabular-nums; overflow-wrap: break-word; line-height: 1.4; }
+.national-comparison > label, .national-ranking > label { margin-inline: 18px; }
+.national-comparison > select, .national-ranking > select { margin-inline: 18px; width: calc(100% - 36px); }
+#national-comparison, #national-rank-list { padding: 0 18px 18px; overflow-x: auto; }
+.national-panel .national-table { line-height: 1.6; }
+.national-table td { font-variant-numeric: tabular-nums; overflow-wrap: normal; }
+.national-table th { overflow-wrap: break-word; }
+.national-table caption { font: 1rem/1.5 Georgia, serif; padding-block: 20px 10px; }
+.national-table tbody tr:last-child > * { border-bottom: 0; }
+.national-table + .national-table { margin-top: 18px; }
+.national-food { margin-block: 26px; }
+.journal-item { padding-bottom: 22px; margin-block: 30px; }
+.journal-item .eyebrow { max-width: 80ch; line-height: 1.7; }
+.journal-item h3 { margin-block: 8px 14px; }
+#archive .grid { align-items: stretch; }
+@media (max-width: 760px) {
+ main > section, [data-reading-target] { scroll-margin-top: 18px; }
+ .section-jumps { gap: 8px; }
+ .section-jumps label, .section-jumps select { flex-basis: 100%; }
+ .atlas-metrics, .national-panel .national-metrics { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+ .atlas-metrics > div:nth-child(odd) { border-left: 0; }
+ .atlas-metrics > div:nth-child(n+3) { border-top: 1px solid #50634d; }
+ .atlas-route-box { padding: 18px 14px; }
+ #world-readout:not(:empty), #world-state-readout:not(:empty) { padding: 12px; }
+ .national-comparison > label, .national-ranking > label { margin-inline: 12px; }
+ .national-comparison > select, .national-ranking > select { margin-inline: 12px; width: calc(100% - 24px); }
+ #national-comparison, #national-rank-list { padding-inline: 12px; }
+ .national-panel .national-table { font-size: .78rem; }
+ .national-table th:first-child { width: 48%; }
+ #national-comparison .national-table th:first-child { width: 40%; }
+ .journal-item { padding-left: 16px; }
+}
+@media print {
+ .section-jumps, .section-return { display: none; }
+ #world-readout:not(:empty), #world-state-readout:not(:empty) { background: white; }
+}
+
 </style>
 </head><body>
 <header class="masthead"><div class="seal" aria-hidden="true"><img src="./sigil-gold-clear.png" alt="" width="54" height="54" style="display:block;width:100%;height:100%;object-fit:contain"></div><div><p class="wordmark">MALASPINA</p><p class="eyebrow">DATA-SLATE / PRIVATE BIOLOGICAL ARCHIVE</p></div><p class="meta">FABIUS BILE / RESTRICTED<br>Continuing record · Volume I</p></header>
@@ -376,6 +451,69 @@ if('serviceWorker'in navigator&&/^https?:$/.test(location.protocol)){navigator.s
   else{x+=e.key==='ArrowLeft'?40:e.key==='ArrowRight'?-40:0;y+=e.key==='ArrowUp'?40:e.key==='ArrowDown'?-40:0;schedule();}
  });
  new ResizeObserver(measure).observe(box);img.addEventListener('load',measure);measure();
+})();
+
+</script><script>
+// Navigation and layout only. Existing record nodes and their text are preserved.
+(() => {
+  const national = document.getElementById('national-register');
+  const settlement = document.getElementById('world-readout');
+  if (national && settlement) settlement.after(national);
+
+  for (const section of document.querySelectorAll('main > section')) {
+    const candidates = [...section.querySelectorAll('h2, h3, summary')]
+      .filter(node => !node.closest('#national-register, #world-svg, template') &&
+        !node.closest('.section-title') && !node.closest('details details'));
+    if (section.id === 'world') {
+      const finder = document.querySelector('label[for="world-search"]');
+      const political = document.querySelector('label[for="world-state"]');
+      if (political) candidates.splice(1, 0, political);
+      if (finder) candidates.splice(2, 0, finder);
+    }
+    if (candidates.length < 3) continue;
+    const bar = document.createElement('div');
+    bar.className = 'section-jumps';
+    const label = document.createElement('label');
+    label.textContent = 'Jump to';
+    const select = document.createElement('select');
+    select.id = section.id + '-jump';
+    label.htmlFor = select.id;
+    const placeholder = document.createElement('option');
+    placeholder.value = '';
+    placeholder.textContent = 'Choose a topic…';
+    select.append(placeholder);
+    candidates.forEach((target, index) => {
+      target.dataset.readingTarget = '';
+      const option = document.createElement('option');
+      option.value = String(index);
+      option.textContent = target.textContent.trim();
+      select.append(option);
+    });
+    select.addEventListener('change', () => {
+      if (select.value === '') return;
+      const target = candidates[Number(select.value)];
+      for (let parent = target.parentElement; parent && parent !== section; parent = parent.parentElement) {
+        if (parent.tagName === 'DETAILS') parent.open = true;
+      }
+      if (target.tagName === 'SUMMARY') target.parentElement.open = true;
+      target.setAttribute('tabindex', '-1');
+      target.focus({preventScroll: true});
+      target.scrollIntoView({block: 'start', behavior: 'instant'});
+      select.value = '';
+    });
+    bar.append(label, select);
+    const title = section.querySelector(':scope > .section-title');
+    if (title) title.after(bar); else section.prepend(bar);
+    const back = document.createElement('button');
+    back.type = 'button';
+    back.className = 'section-return';
+    back.textContent = 'Back to section top';
+    back.addEventListener('click', () => {
+      bar.scrollIntoView({block: 'start', behavior: 'instant'});
+      select.focus({preventScroll: true});
+    });
+    section.append(back);
+  }
 })();
 
 </script></body></html>
