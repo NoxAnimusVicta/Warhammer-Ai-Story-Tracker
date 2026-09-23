@@ -1,8 +1,8 @@
 {
   "format": "malaspina-dossier",
   "version": 1,
-  "revision": 57,
-  "updatedAt": "2026-09-20T17:07:14.824828+00:00",
+  "revision": 58,
+  "updatedAt": "2026-09-23T06:58:23.250389+00:00",
   "character": {
     "name": "Lord Galahad Orsival",
     "age": "Approximately two years and three months in local years; still growing. Last measured height: 2.59 m. Full bodily maturity around age three, at 3 metres (about 9 ft 10 in).",
@@ -164,12 +164,12 @@
       "body": "Galahad privately attempted to construct a firearm from available parts without dismantling an existing example. Several attempts were discarded. The remaining prototype was incomplete and unreliable, with no dependable ammunition supply. It stayed concealed with his work rather than accompanying his night journeys."
     },
     {
-      "date": "Planetfall + one standard year and eight days \u2022 Evening",
+      "date": "Planetfall + one local year and eight days \u2022 Evening",
       "title": "The academy reply",
       "body": "Corva presented the academy\u2019s reply to her request for books. It required examples of mathematics, mechanical reasoning and completed work. Galahad deferred to her experience. She proposed truthful examples and a covering letter that omitted his arrival, while leaving the selection of work to him. Any meeting remained a possibility to consider later; no admission, book loan or assessment had been granted."
     },
     {
-      "date": "Planetfall + one standard year and eight days \u2022 Evening",
+      "date": "Planetfall + one local year and eight days \u2022 Evening",
       "title": "Mum",
       "body": "Galahad casually thanked Corva as Mum, recognising her parental role. She was visibly moved, touched his forearm and accepted the address. A warm impression of the old kitchen alcove accompanied the moment. Galahad began preparing restrained examples using existing books and notebooks. Corva drafted the covering letter and replaced a word near its beginning with \u201cMy son\u201d."
     },
@@ -179,32 +179,32 @@
       "body": "Galahad handed his deliberately restrained designs to Corva. She enclosed them with her covering letter and sent the packet north to the Auvrienne Collegium of Civil Engineering. Study and tinkering continued through the following thirteen days. The small engine remained irregular under sustained load."
     },
     {
-      "date": "Planetfall + one standard year and twenty-one days \u2022 Afternoon",
+      "date": "Planetfall + one local year and twenty-one days \u2022 Afternoon",
       "title": "Verification requested",
       "body": "The Collegium returned the drawings with two letters and a printed assessment sheet. Examiner Odran Savel acknowledged correct results but questioned missing derivations and inconsistent levels of exposition. The advanced-book loan was withheld pending independent verification. A supervised exercise in Auvrienne was offered; Corva suggested asking whether local railway testimony could establish the work first."
     },
     {
-      "date": "Planetfall + one standard year and twenty-one days \u2022 Afternoon",
+      "date": "Planetfall + one local year and twenty-one days \u2022 Afternoon",
       "title": "The housing and its promise",
       "body": "Galahad suspected jealousy or class prejudice behind the response. Corva acknowledged the possibility without claiming to know Savel\u2019s motives. Galahad explained the housing\u2019s struts and linkage points, projecting several decades of additional service for less than a kilogram of extra material. Corva understood the rationale and asked what supported the lifespan estimate."
     },
     {
-      "date": "Planetfall + one standard year and twenty-one days \u2022 Afternoon",
+      "date": "Planetfall + one local year and twenty-one days \u2022 Afternoon",
       "title": "Three piles",
       "body": "Galahad retrieved a large body of papers from beneath his bed and divided it into first proofs, second iterations and basic testing, and current work. Corva recognised the extent of his research and apologised for assuming he had not already done the work. She proposed showing enough to answer the examiner while retaining the originals."
     },
     {
-      "date": "Planetfall + one standard year and twenty-one days \u2022 Afternoon",
+      "date": "Planetfall + one local year and twenty-one days \u2022 Afternoon",
       "title": "Beyond the engine",
       "body": "The aligned pages also contained energy, lubrication and aerodynamic workings, military and economic projections for a unified eastern Vesalius, political philosophy and divination research. Galahad reported successful improvements over common divination practices in his own tests. Corva promised to keep the mixed papers at home for now and proposed copying relevant engineering work onto clean sheets."
     },
     {
-      "date": "Planetfall + one standard year and twenty-one days \u2022 Afternoon",
+      "date": "Planetfall + one local year and twenty-one days \u2022 Afternoon",
       "title": "Power and opposition",
       "body": "Galahad specified unification under one government, doubted voluntary cooperation between the existing states and preferred infamy to ignominy. He argued that victory determines whose history endures and treated morality as subordinate to survival. Corva questioned what would happen to dissenters and how fear might distort official reports. She affirmed that she would ask difficult questions because he was her son."
     },
     {
-      "date": "Planetfall + one standard year and twenty-one days \u2022 Afternoon",
+      "date": "Planetfall + one local year and twenty-one days \u2022 Afternoon",
       "title": "Into the stars",
       "body": "Galahad challenged the usefulness of dishonest reports and described the desired result of his government: safety, stability and an everlasting future for his people, reaching into the stars and beyond. Corva clarified that a lie could serve a frightened official while harming government. She supported the hope of a better future, wanted to remain free to question his methods, and drew the copying paper closer. \u201cTell me where you think it begins.\u201d"
     },
@@ -221,7 +221,7 @@
     {
       "date": "During the twenty-three-day interval",
       "title": "The Vouressan",
-      "body": "Galahad recognised a house-sized furnace drake from his reading and killed it barehanded in the wilds. Its flame burned his outer forearm and damaged a sleeve. The wound healed over the following days. No human witnessed the kill."
+      "body": "Galahad recognised a house-sized Vouressan from his reading and killed it barehanded in the wilds. Its flame burned his outer forearm and damaged a sleeve. The wound healed over the following days. No human witnessed the kill."
     },
     {
       "date": "Subsequent nights",
@@ -229,72 +229,72 @@
       "body": "Galahad fashioned a guardless greatsword and integral grip from one piece of the Vouressan\u2019s exceptionally strong white cranial bone. He inscribed protective forms from his reading, practised its use on night hunts and kept it wrapped beneath his bed behind the papers."
     },
     {
-      "date": "Planetfall + one standard year and forty-four days \u2022 Afternoon",
+      "date": "Planetfall + one local year and forty-four days \u2022 Afternoon",
       "title": "A different reply",
       "body": "Savel accepted the supplied housing derivation and withdrew his concern about preparation for that portion. He questioned the conditions governing an advanced result and recognised deliberate omissions. He proposed fuller discussion with a workshop instructor attending. No advanced books or unrestricted loan accompanied the reply."
     },
     {
-      "date": "Planetfall + one standard year and forty-four days \u2022 Afternoon",
+      "date": "Planetfall + one local year and forty-four days \u2022 Afternoon",
       "title": "Hunting",
       "body": "When Corva asked about his night departures, Galahad unwrapped the sword on the kitchen table. He described killing its source without a weapon and making a useful, valuable blade to provide for her and Veskan if necessary. Corva was moved, affirmed his place at home and warned that prospective buyers might take an interest in him as well as the sword."
     },
     {
-      "date": "Planetfall + one standard year and forty-four days \u2022 Afternoon and evening",
+      "date": "Planetfall + one local year and forty-four days \u2022 Afternoon and evening",
       "title": "Tomorrow",
       "body": "Galahad identified the creature as a Vouressan, said the injury had healed and chose to travel alone by train the next day. Corva telephoned for arrangements. No passenger seat was available; she asked the goods-train guard to help. A message to the Collegium could be passed through the railway office, but no reply arrived."
     },
     {
-      "date": "Planetfall + one standard year and forty-five days \u2022 Before dawn",
+      "date": "Planetfall + one local year and forty-five days \u2022 Before dawn",
       "title": "Leaving home",
       "body": "Galahad bound the wrapped sword with household rope and left his other belongings at home. Veskan returned his farewell embrace and urged him to find proper lodging. Galahad kissed Corva\u2019s forehead; she reminded him where he could return. The guard admitted him to the brake van and accepted his explanation that the bundle was artwork for appraisal."
     },
     {
-      "date": "Planetfall + one standard year and forty-five days \u2022 Evening",
+      "date": "Planetfall + one local year and forty-five days \u2022 Evening",
       "title": "Auvrienne",
       "body": "A sixteen-hour goods-train journey carried Galahad through defended coastal valleys, with a lengthy junction delay. Auvrienne\u2019s freight yards, furnace-lit workshops, terraces and fortified railway cutting gave way to a busy unloading canopy. He arrived alert and physically capable, carrying the covered sword."
     },
     {
-      "date": "Planetfall + one standard year and forty-five days \u2022 Evening",
+      "date": "Planetfall + one local year and forty-five days \u2022 Evening",
       "title": "Through the gate",
       "body": "Galahad told the railway watchman that the bundle was artwork being appraised. The watchman advised keeping it wrapped on the tram and let him pass. Outside lay a sloping avenue, booking office, public street plan, trams, an uphill monument and inn, and a bookseller closing for the evening. No next destination has been chosen."
     },
     {
-      "date": "Planetfall + one standard year and forty-five days \u2022 Late evening",
+      "date": "Planetfall + one local year and forty-five days \u2022 Late evening",
       "title": "Reading the city",
       "body": "Several hours of walking connected the street plan with central Auvrienne\u2019s rail basin, terraced roads, stairs, drainage and tramways. Galahad reached the Collegium after teaching hours; the porter said Savel had gone home."
     },
     {
-      "date": "Planetfall + one standard year and forty-five days \u2022 Late evening",
+      "date": "Planetfall + one local year and forty-five days \u2022 Late evening",
       "title": "An address freely offered",
       "body": "Subconscious psychic pressure eased the porter into trust. He gave Savel\u2019s address: 37 Rue Cendravel, upstairs over the bookbinder, with a side door and brass bell. He cautioned that an address did not guarantee a welcome and still asked for a name."
     },
     {
-      "date": "Planetfall + one standard year and forty-five days \u2022 Late evening",
+      "date": "Planetfall + one local year and forty-five days \u2022 Late evening",
       "title": "The late knock",
       "body": "Galahad\u2019s powerful knock boomed through the stairwell without damaging the door. A curtain moved across the street. Savel answered, initially alarmed and then irritated by the late hour."
     },
     {
-      "date": "Planetfall + one standard year and forty-five days \u2022 Late evening",
+      "date": "Planetfall + one local year and forty-five days \u2022 Late evening",
       "title": "Savel opens the door",
       "body": "Galahad named himself and declared that Savel would organise lodging and Collegium attendance. A renewed influence of trust softened the response. Savel recognised Corva\u2019s son, offered his spare room for the night and help at the office the following morning."
     },
     {
-      "date": "Planetfall + one standard year and forty-five days \u2022 Late evening",
+      "date": "Planetfall + one local year and forty-five days \u2022 Late evening",
       "title": "Proofs beneath the lamp",
       "body": "Galahad spent the night explaining selected mathematics and engineering. Savel followed the missing steps, became absorbed and asked more precise questions. He also saw the sword, accepting the account of raw bone bought from a trader; he advised keeping the valuable blade covered and in Galahad\u2019s room."
     },
     {
-      "date": "Planetfall + one standard year and fifty-two days \u2022 Evening",
+      "date": "Planetfall + one local year and fifty-two days \u2022 Evening",
       "title": "A place at the Collegium",
       "body": "During the week Savel secured provisional enrolment and a small bursary covering a room and meals. Ordinary library access and loans became available. Galahad moved into a lockable room in the residential annex; the sword went beneath the bed."
     },
     {
-      "date": "Planetfall + one standard year and fifty-two days \u2022 Evening",
+      "date": "Planetfall + one local year and fifty-two days \u2022 Evening",
       "title": "Calling home",
       "body": "Galahad telephoned Corva with his enrolment and lodging arrangements, explained his intention to stay and study, and asked her to contact him immediately if needed. She could reach him through the Collegium office and asked him to keep calling."
     },
     {
-      "date": "Planetfall + one standard year and fifty-two days \u2022 Evening",
+      "date": "Planetfall + one local year and fifty-two days \u2022 Evening",
       "title": "A bird among the papers",
       "body": "Library study rapidly expanded available mathematical, mechanical and scientific references. In private, Galahad fashioned an intricate wind-up bird from scrap. It hopped and chirped until its stored energy ran out. Savel offered a next-morning workshop exercise involving a faulty governor; no response to that offer was recorded."
     },

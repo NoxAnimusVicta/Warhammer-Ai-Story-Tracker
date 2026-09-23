@@ -1,4 +1,4 @@
-# Founder origin - controlling revision 51
+# Founder origin — controlling revision 58
 
 Galahad is a bespoke New Men founder chimera incorporating selected Fulgrim-, Perturabo- and Magnus-derived genetic material. Bile developed the design through his accumulated Primarch-cloning and New Men research and study of recovered Alpha Primus progenoid material. Bile is the creator, not a biological donor: no tissue, personal genetic material or gene-seed harvested from his own body was incorporated. The other founders likewise do not inherit a personal Bile contribution. Selected lineage resources are laboratory material acquired independently of Bile's afflicted body.
 
@@ -9,3 +9,7 @@ During Galahad's development, Bile selectively shaped neural architecture and ne
 His principal specialisation remains psychic technology, material engineering and learning through deconstruction and synthesis. No stored expertise, implanted technical library, automatic loyalty or predetermined morality is supplied by that design. His own soul remains stably integrated from gestation, with no inherited Blight, chronic pain, replacement congenital defect or copied Bile identity introduced by this retcon.
 
 The established perfected proto-Primarch designation, comparative potential, sleep and stamina provisions, growth, current abilities, inventory and story checkpoint remain unchanged. This is a correction to provenance and developmental explanation, not a power reduction or escalation. Historical transcript wording is preserved as history; this reference supersedes its former personal-Bile-donor claims. The private handover records the creator's unrevealed research intentions and source qualifications.
+
+## Optional future interpretation
+
+The [cohort and fragment planning note](COHORT-AND-FRAGMENT-OPTIONS.md) preserves an unconfirmed Malcador-fragment possibility. It does not establish a fragment in Galahad, identify his childhood whisper, change his present abilities or replace his identity. Stable integration and independent personhood remain controlling. If adopted later, the fragment would have participated in his formation rather than displaced him through later possession. Bile remains creator, never biological donor or the source of transferred memories. The foundational Alpha Primus comparison is not a permanent ceiling on ultimate psychic potential; see PHYSIOLOGY-REFERENCE.md.

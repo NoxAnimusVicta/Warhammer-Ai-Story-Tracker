@@ -16,7 +16,7 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the Long Culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition — revision 57
+## Current edition — revision 58
 
 The current scene is the evening before expedition departure at the Auvrienne Collegium. The surface itinerary, seasonal passages and ordinary travel permissions are arranged; see [pre-departure arrangements](EXPEDITION-PREPARATION.md). Personal cash is 378 lorrats, with 264 earmarked and 114 uncommitted. The joint expedition fund holds 13,990 after 510 paid. Chancery sponsorship is 10,000 and Collegium operating support is 4,500; the Collegium separately continues all six salaries, totalling 2,820 annually. [Full budget](EXPEDITION-BUDGET.md). The estate’s 218-lorrat annual remainder remains a conditional forecast.
 
@@ -28,7 +28,7 @@ Galahad’s full bodily maturity is expected around three local years at 3 metre
 
 Current summaries supersede older checkpoints. The exact transcript preserves historical wording, including superseded proposals. The private handover must not be uploaded to this public repository.
 
-[Controlling physiology reference](PHYSIOLOGY-REFERENCE.md) records the accepted sleep, stamina, injury and psychic-capacity specifications, including the mature Custodian comparison, biological rejection of ordinary Genestealer implantation and independent psychic resistance. It also preserves the conditional future Lion assessment and its source qualifications, without fixed combat timers or blanket Tyranid immunity. The physiology panel uses these provisions; older contradictory estimates in the historical transcript are superseded.
+[Controlling physiology reference](PHYSIOLOGY-REFERENCE.md) records the accepted sleep, stamina, injury and psychic-capacity specifications, including the mature Custodian comparison, biological rejection of ordinary Genestealer implantation and independent psychic resistance. It also distinguishes founder biology from ultimate psychic potential, withdraws earlier duel-duration estimates and separates bolter threats from native portable firearms. The Lion assessment remains conditional, without blanket Tyranid immunity. The physiology panel uses these provisions; older contradictory estimates in the historical transcript are superseded.
 
 [Transport and overseas districts](TRANSPORT-REFERENCE.md) records coastal and ocean connections, railway interchanges, island administrations and polar status. The revised political map shows existing dependencies; it does not enact conquest or advance the story.
 
@@ -41,3 +41,5 @@ The dossier portrait now shows Galahad in his current expedition clothes. The ea
 [Balanced expedition route](expedition-route.html) provides a day selector, mapped surface connections and five-to-six-day research stays, with return on day355 and ten days in reserve. [Printable schedule](expedition-route.md). [Coastline reference](COASTLINE-REFERENCE.md) records the refined mainland shores and preserved Eastern Marches survey.
 
 [Local calendar](CALENDAR-REFERENCE.md): 24h8m solar days in Terran standard units, 365 local days per year. These appear beside population and charted islands. National profiles and comparisons now include annual spending by purpose, budget surpluses/deficits, liquid reserves, outstanding debt, interest and financing plans. The full [national register](NATIONAL-REGISTER.md) distinguishes current stocks from annual forecasts. No story time advances.
+
+[Optional future plot planning — authorial spoilers](COHORT-AND-FRAGMENT-OPTIONS.md) preserves the cohort direction and an unconfirmed Malcador-fragment possibility. It is not part of Galahad’s knowledge or an enacted origin revelation.

@@ -1,6 +1,12 @@
+# Revision 58 — capability clarification and optional future thread
+
+PHYSIOLOGY-REFERENCE.md distinguishes the founder baseline, bodily maturity and ultimate developed psychic potential. Earlier blanket below-Primarch ceilings and seconds/minutes survival estimates are superseded. Local human portable firearms are not bolter-equivalent threats; assess impact, penetration and functional injury separately, with armour and psychic defence included where actually present. No future mastery or elapsed story time is awarded.
+
+[Optional cohort and Malcador thread](COHORT-AND-FRAGMENT-OPTIONS.md) records the player's authorised future direction and an unconfirmed fragment hypothesis. It is authorial planning, not a new origin fact or character knowledge. The narrator may develop the fragment thread when earned or leave it unused. Galahad remains a coherent individual with stable soul–body integration; no Bile identity is transferred. The Lion and Guilliman are preferred recognition encounters. Consult the private handover for concealed assignments and logistics; historical revision notes cannot override this edition.
+
 # Revision 57 — accepted resistance and comparative assessment
 
-The player accepted transcript495 in496. PHYSIOLOGY-REFERENCE.md now controls the Genestealer resistance provisions: mature Galahad ordinarily rejects standard implantation, with independent formidable resistance to psychic takeover. This is deliberate Bile engineering in our campaign, not a canonical immunity attributed to all chimeras, Custodes or Primarchs. Other Tyranid hazards remain separate. Resistance must be dependable; do not invent routine exceptions to negate it. No exposure, knowledge of Tyranids, new mastered technique or elapsed time is enacted. The Lion comparison is a conditional future assessment, not a fixed combat timer, stamina limit or guaranteed outcome. Source qualifications and the mature/current distinction remain controlling.
+The player accepted transcript495 in496. PHYSIOLOGY-REFERENCE.md now controls the Genestealer resistance provisions: mature Galahad ordinarily rejects standard implantation, with independent formidable resistance to psychic takeover. This is deliberate Bile engineering in our campaign, not a canonical immunity attributed to all chimeras, Custodes or Primarchs. Other Tyranid hazards remain separate. Resistance must be dependable; do not invent routine exceptions to negate it. No exposure, knowledge of Tyranids, new mastered technique or elapsed time is enacted. The Lion comparison is a conditional future assessment; revision58 withdraws the older seconds/minutes estimates entirely. Source qualifications and the mature/current distinction remain controlling.
 
 # Revision 55 — local calendar and national finances
 
@@ -34,7 +40,7 @@ Galahad’s unbuilt national-wonder designs are clarified in ARCHITECTURE-REFERE
 
 Read ORIGIN-REFERENCE.md before describing provenance or temperament, and private/origin-retcon51.md for the concealed research motive and source qualifications. Bile is creator, not biological donor. The personal-genetics and Bile-ancestry premise is superseded throughout current records. Galahad has selectively engineered intellectual dispositions resembling Bile, without a transferred mind, memories or soul. Historical transcripts and snapshots remain historical.
 
-# Current continuity — revision 57
+# Current continuity — revision 58
 
 This checkpoint records the latest enacted scene. Read later exact transcript entries before continuing. Documentation work itself advances no story time.
 
@@ -160,7 +166,7 @@ All character ages, local history and population rates use **local elapsed years
 
 Ceralte now has Dalmor plus Bellavara (28,000; pilotage and repair port) and Montelisse (18,000; fishing and provisioning town), each connected to Dalmor by sea on existing islands. The 46,000 residents are drawn from its existing 2.9-million census, not added population. The atlas contains 970 settlements and 2,182 routes; cuisine is integrated with each political record. Every ordinary settlement and road appears from the same regional zoom threshold; names and geography are not rerolled. Capacity figures are dated staff returns, not treasury holdings or automatic victory scores. Equipment changes require events, not demographic multiplication.
 
-Galahad remains a perfected proto-Primarch with stable integration and a modest overall mature advantage over the campaign’s Alpha Primus benchmark, below a true Primarch. The private handover contains the full accepted origin, future possibilities, family nuance and concealed programme. Future aspirations confer neither present knowledge nor achievements.
+Galahad remains a perfected proto-Primarch with stable integration. The Alpha Primus comparison describes his foundational benchmark, not a permanent ceiling on developed psychic power; PHYSIOLOGY-REFERENCE.md controls. The private handover contains the full accepted origin, future possibilities, family nuance and concealed programme. Future aspirations confer neither present knowledge nor achievements.
 
 The exact archive preserves earlier errors and proposals verbatim. This checkpoint supersedes earlier claims of pending nobility, uninformed parents, an unvisited estate, an unresolved yard confrontation and unreconciled return costs. Historical reports remain historical; do not rewrite dialogue to fit later developments.
 

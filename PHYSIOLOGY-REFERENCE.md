@@ -1,6 +1,6 @@
 # Galahad — controlling physiology reference
 
-Revision 57 · Accepted resistance and comparative-capability clarification, retaining revision46 endurance provisions. This is narrator continuity for this campaign, not a universal canonical specification for Custodes or Primarchs. It supersedes older conflicting sleep, stamina and overall combat assumptions, including revision43 and the preparation scene's 3–4-hour sleep statement. Historical dialogue remains unchanged.
+Revision 58 · Developed potential and contextual durability, retaining the accepted endurance and infection-resistance provisions. This is narrator continuity for this campaign, not a universal canonical specification for Custodes or Primarchs. It supersedes older conflicting sleep, stamina and overall combat assumptions, including revision43 and the preparation scene's 3–4-hour sleep statement. Historical dialogue remains unchanged.
 
 ## Sleep and wakefulness
 
@@ -26,7 +26,7 @@ Unaided physical performance exceeds ordinary Astartes; being below a typical Cu
 
 At **full maturity**, one typical Custodian is insufficient to reliably defeat Galahad under comparable conditions, considering his combined physical and psychic capabilities. More than one would ordinarily be needed to put him down. Experience, developed powers and equipment can increase that advantage; no fixed opponent-count formula overrides tactics, conditions or exceptional individuals. Do not turn his current lack of experience into permanently reduced potential, or award future experience immediately.
 
-He remains a perfected proto-Primarch, modestly above the adopted Alpha Primus overall benchmark and below a true Primarch overall. Full bodily maturity occurs around three local years at three metres. Current approximate age remains two years and three months; the last actual measurement remains 2.59 metres. This clarification advances no time, combat, training, transactions or demonstrated powers.
+He remains a perfected proto-Primarch. The modest advantage over the adopted Alpha Primus benchmark describes the foundational design; it does not impose a permanent ceiling on developed psychic power or every component of durability. Bodily maturity is not the completion of a lifetime of psychic development. Full bodily maturity occurs around three local years at three metres. Current approximate age remains two years and three months; the last actual measurement remains 2.59 metres. This clarification advances no time, combat, training, transactions or demonstrated powers.
 
 ## Narration and maintenance rule
 
@@ -48,15 +48,25 @@ Do not introduce exceptional strains or overpowering control merely to cancel th
 
 This protective design belongs to his engineered constitution, not a newly acquired treatment. The normal-rejection benchmark was agreed for mature Galahad; his exact present-age degree has not been separately quantified. Do not invent a switch that leaves all protection absent until his third birthday, or present the mature benchmark as a performed adolescent trial. No new encounter, infection, immunity test, offworld vocabulary or knowledge has been granted. Descendant inheritance and the other founders' detailed resistance profiles are not automatically settled by this ruling.
 
-## Lion El’Jonson comparison — accepted conditional assessment
+## Ultimate psychic development — accepted campaign direction
 
-The discussion assumes a healthy, fully mature Galahad with roughly fifty lived local years of relevant development against the returned Lion, both aware of the fight, without supporting forces, and comparably effectively equipped. Comparable equipment includes useful defensive protection; do not give the Lion relic equipment while downgrading Galahad to ordinary gear. It is not a present inventory award.
+Galahad's innate potential can develop toward the setting's most dominant psykers. Mephiston is a useful future comparison; potential parity with or even surpassing Magnus or Malcador is not ruled out after sufficient development. This is an authorised campaign possibility without requiring new equipment, pacts or further genetic enhancement, not an established canonical ranking or a guaranteed achievement on a birthday. It does not depend on the optional Malcador fragment being adopted.
 
-The Lion is the clear favourite, combining Primarch physical capability with exceptional fighting judgement. Galahad's established mature combined advantage over a typical Custodian and exceptional psychic potential remain meaningful. Below-Primarch overall capability does not mean a logically impossible victory: developed psychic applications, tactics, terrain and a real opening could support a credible win. Neither victory nor defeat is automatic.
+At realised high potential, ordinary Grey Knights are not automatic peers merely because they specialise in psychic warfare. Individual masters, preparation, equipment and circumstances still matter. Do not replace the accepted scale with a permanent Librarian, Custodian-count or Alpha Primus cap. Potential, available output, precision, technique and actual experience remain distinct. No new present feat, mastered power, omniscience or automatic immunity is enacted.
 
-The discussion's rough narrative scale was seconds to a few minutes in a committed sword-only duel, several minutes plausible with full developed capabilities and comparable equipment, and potentially longer if Galahad can repeatedly deny close engagement. These are illustrative scenario estimates, NOT fixed survival durations, maximum combat stamina, a stat table or a future roll modifier. A decisive hit, not routine exhaustion, is the main concern. No number of Custodes translates mechanically into minutes against a Primarch.
+## Weapons and functional durability
 
-Fifty years of exceptional learning can create substantial competence, but actual training and research determine technique. No unspecified biomancy, instant mind control, perfected precognition or other future mastery is automatically awarded. A particular Primarch's vulnerabilities must be assessed in context, not inferred from an absolute hierarchy.
+Native human portable single-user firearms on Malaspina are substantially below Astartes bolter class. Weapons of comparable projectile scale require mounted positions or vehicles in the established native arsenal. Captured Hunter technology and Galahad's unbuilt future inventions are separate exceptions. Calibre alone does not determine penetration or terminal effect; do not equate a conventional projectile with an explosive bolt simply because their diameters are similar.
+
+Assess a hit in stages: whether it lands, what actual armour or psychic defence intercepts it, what damage reaches the body, and whether that damage reduces fighting function. Armour damage, bleeding, pain and knockback are not interchangeable with incapacitation. Psychic defence is part of effective combat durability when employed; armoured Primarch feats are not measurements of unprotected flesh.
+
+The discussed Guilliman ambush, Corax's recovery after Predator lascannon hits, Lorgar's psychic protection against Titan fire, Angron resisting a Titan's foot and Sanguinius attacking Titans show why crude tier-based vulnerability is unreliable. They are contextual comparisons, not identical feats automatically awarded to Galahad. The player supplied a ceremonial-armour passage for Guilliman; do not repeat the unarmoured assumption. The Corax passage describes severely damaged armour and rapid return to action. Full source context and weapon conditions matter; do not invent exact energy figures or damage multipliers from prose.
+
+## Lion El’Jonson comparison — revised conditional assessment
+
+The earlier hypothetical used mature Galahad with about fifty local years of relevant development, comparably effective equipment and no supporting forces. The previous seconds-to-minutes survival estimates are withdrawn, not retained as suggested timers. The Lion's physical capabilities and exceptional combat judgement make him a formidable and likely favoured opponent in direct sword combat; the outcome of a full-capability encounter depends on Galahad's actually developed psychic abilities, preparation and circumstances. Neither an inevitable defeat nor a guaranteed victory is established.
+
+Fifty years is a scenario assumption, not Galahad's final potential. Do not use it to cap centuries of subsequent development or infer a fixed period he can survive against a Primarch. Age alone does not grant a particular technique. Comparable equipment is a hypothetical condition, not a current inventory award.
 
 ## Research basis and unresolved canonical claims
 
