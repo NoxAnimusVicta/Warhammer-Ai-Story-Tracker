@@ -18,13 +18,13 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the last major culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition — revision 60
+## Current edition — revision 62
 
 The current scene is the evening before expedition departure at the Auvrienne Collegium. The surface itinerary, seasonal passages and ordinary travel permissions are arranged; see [pre-departure arrangements](EXPEDITION-PREPARATION.md). Personal cash is 378 lorrats, with 264 earmarked and 114 uncommitted. The joint expedition fund holds 13,990 after 510 paid. Chancery sponsorship is 10,000 and Collegium operating support is 4,500; the Collegium separately continues all six salaries, totalling 2,820 annually. [Full budget](EXPEDITION-BUDGET.md). The estate’s 218-lorrat annual remainder remains a conditional forecast.
 
 [Economic reference](ECONOMIC-REFERENCE.md) dates wages and prices to the current local story year, with regional variation and recorded event-driven changes. [Monumental architecture](ARCHITECTURE-REFERENCE.md) records Galahad’s unbuilt national-wonder designs and current-price estimates. [Estate accounts](ESTATE-ACCOUNTS.md) separates paid expenses, allocations and projected returns.
 
-Ceralte now includes Bellavara and Montelisse, with sea connections to Dalmor. The atlas contains 970 settlements and 2,182 routes, with 106 sea passages connecting 72 harbours. [Ten outer island regions](ISLAND-CHAINS.md) add seven self-governing societies and three colonial administrations across 63 previously unassigned islands. The two Ceralte additions remain within its existing census. The outer chains correct earlier omitted coverage. The current 55-day full-coverage estimate is 1,224,455,080; the earlier 35-day estimate is historical.
+Ceralte now includes Bellavara and Montelisse, with sea connections to Dalmor. The atlas contains 970 settlements and 2,210 routes, with 134 sea passages connecting 72 harbours. [Ten outer island regions](ISLAND-CHAINS.md) add seven self-governing societies and three colonial administrations across 63 previously unassigned islands. The two Ceralte additions remain within its existing census. The outer chains correct earlier omitted coverage. The current 55-day full-coverage estimate is 1,224,455,080; the earlier 35-day estimate is historical.
 
 Galahad’s full bodily maturity is expected around three local years at 3 metres (about 9 ft 10 in). He is approximately two years and three months old; his last measured height remains 2.59 metres.
 
@@ -32,7 +32,7 @@ Current summaries supersede older checkpoints. The exact transcript preserves hi
 
 [Controlling physiology reference](PHYSIOLOGY-REFERENCE.md) records the accepted sleep, stamina, injury and psychic-capacity specifications, including the mature Custodian comparison, biological rejection of ordinary Genestealer implantation and independent psychic resistance. It also distinguishes founder biology from ultimate psychic potential, withdraws earlier duel-duration estimates and separates bolter threats from native portable firearms. The Lion assessment remains conditional, without blanket Tyranid immunity. The physiology panel uses these provisions; older contradictory estimates in the historical transcript are superseded.
 
-[Transport and overseas districts](TRANSPORT-REFERENCE.md) records coastal and ocean connections, railway interchanges, island administrations and polar status. The revised political map shows existing dependencies; it does not enact conquest or advance the story.
+[Full sea passage review](SEA-PASSAGES.md) records the evaluation of all 109 former sea corridors, corrected regional connections, current distances and five long-haul services with provisioning calls. [Transport and overseas districts](TRANSPORT-REFERENCE.md) records coastal and ocean connections, railway interchanges, island administrations and polar status. The revised political map shows existing dependencies; it does not enact conquest or advance the story.
 
 The Estate & possessions record includes the player’s current estate artwork, fitted to its natural proportions without empty bars, with continuous wheel/pinch zoom, dragging and a reset control. [Estate visual reference](ESTATE-REFERENCE.md) anchors future narration and tracks how later development should change the image.
 

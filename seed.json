@@ -1,8 +1,8 @@
 {
   "format": "malaspina-dossier",
   "version": 1,
-  "revision": 61,
-  "updatedAt": "2026-09-23T14:47:48.870643+00:00",
+  "revision": 62,
+  "updatedAt": "2026-09-24T13:39:07.452000+00:00",
   "character": {
     "name": "Lord Galahad Orsival",
     "age": "Approximately two years and three months in local years; still growing. Last measured height: 2.59 m. Full bodily maturity around age three, at 3 metres (about 9 ft 10 in).",
@@ -11,7 +11,7 @@
     "weapons": "None equipped; Vouressan-bone greatsword remains wrapped beneath the bed in his Collegium room",
     "clothing": "Cleaned charcoal coat, pale shirt, dark trousers and leather boots",
     "inventory": "Expedition entry and transit papers, itinerary and passage arrangements, first-leg tickets, packed field supplies and measuring hand tools. Selected survey instruments, a microscope and balances are inventoried Collegium loans.",
-    "currency": "378 personal lorrats held: 264 earmarked and 114 uncommitted.\n\nSeparate expedition fund: 13,990 held after 510 spent from 14,500 jointly provided; includes 2,444 contingency. The Chancery supplies 10,000 and the Collegium 4,500 of the operating provision.\n\nCollegium pays regular wages separately: Galahad 60 on the first of each local month; five scholars 35 each. Future wages are not yet credited. Annual regular payroll is 2,820: 720 for Galahad and 2,100 for the five scholars.",
+    "currency": "378 personal lorrats held: 264 earmarked and 114 uncommitted.\n\nSeparate expedition fund: 13,990 held after 510 spent from 14,500 jointly provided; includes 2,439 contingency. The Chancery supplies 10,000 and the Collegium 4,500 of the operating provision.\n\nCollegium pays regular wages separately: Galahad 60 on the first of each local month; five scholars 35 each. Future wages are not yet credited. Annual regular payroll is 2,820: 720 for Galahad and 2,100 for the five scholars.",
     "location": "Auvrienne Collegium \u2014 final expedition preparations",
     "condition": "Uninjured and alert. Earlier wounds healed. Stable body\u2013soul integration. No chronic pain.",
     "language": "Fluent local speech and independent reading and writing.",

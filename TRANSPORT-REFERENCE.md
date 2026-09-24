@@ -1,6 +1,6 @@
 # Malaspina — transport and overseas districts
 
-Survey XII · 970 settlements · 2,185 transport segments: 782 railway, 1,293 road, 109 sea and one proposed alignment.
+Survey XII · 970 settlements · 2,210 transport segments: 782 railway, 1,293 road, 134 sea and one proposed alignment.
 
 ## Travel and interchange
 
@@ -172,78 +172,78 @@ Undirected service corridors, not compulsory calls for every vessel or guarantee
 
 | Harbour | Administration | Direct charted connections |
 |---|---|---|
-| Ardessa | Varessan Sea League | Essara, Velisar |
-| Ashala | Ashalai Reef Covenant | Iveran, Nalavai |
-| Astrellac | Seravelle Littoral | Cortessia, Halsavik, Neravisse, Rovellisse, Salterivo, Vasselac |
+| Ardessa | Varessan Sea League | Cernavie, Essara, Velisar |
+| Ashala | Ashalai Reef Covenant | Iveran, Nalavai, Veltrund |
+| Astrellac | Seravelle Littoral | Cortessia, Neravisse, Rovellisse, Salterivo, Vasselac |
 | Bellavara | Ceralte Admiralty | Cressavelle, Dalmor |
-| Bravessac | Averholt | Calvessac, Tervassin |
+| Bravessac | Averholt | Calvessac, Ostrelac, Tervassin |
 | Calvessac | Vardol | Bravessac, Cressavelle, Norrak |
-| Cavralto | Ossavren successor territories | Cavresset, Cortessia, Neravisse |
+| Cavralto | Ossavren successor territories | Cavresset, Cortessia, Neravisse, Ordelune |
 | Cavrelune | Calvernis Republic | Cervellane, Dalmor, Serravonne |
-| Cavresset | Veylac | Cavralto, Monteliva, Rionvesse |
-| Cernavie | Vaulcerre Basin Leagues | Cortelune, Villessia |
-| Cersund | Varneselle Estates | Seldren, Varkessant |
-| Cervallune | Varnelle | Loravise, Merovia, Montelisse, Serravole, Vallarive |
-| Cervellane | Kelbrun | Cavrelune, Marcellune, Vessaline |
-| Cervelune | Vallessia Cantons | Lorvesset, Pravessant |
+| Cavresset | Veylac | Cavralto, Monteliva, Ordelune, Rionvesse |
+| Cernavie | Vaulcerre Basin Leagues | Ardessa, Cortelune, Nemer, Villessia |
+| Cersund | Varneselle Estates | Edrask, Seldren, Varkessant |
+| Cervallune | Varnelle | Loravise, Merovia, Montalive, Montelisse, Serravole, Vallarive |
+| Cervellane | Kelbrun | Cavrelune, Marcellune, Vallarive, Vessaline |
+| Cervelune | Vallessia Cantons | Loravise, Lorvesset, Pravessant, Sorevain |
 | Cortelune | Vaulcerre Basin Leagues | Cernavie, Salterivo, Valdorelle |
-| Cortessia | Seravelle Littoral | Astrellac, Cavralto, Tervassin, Vasselac |
-| Cressavelle | Duchy of Caldrienne | Bellavara, Calvessac, Serravonne |
+| Cortessia | Seravelle Littoral | Astrellac, Cavralto, Sorevain, Tervassin, Vasselac |
+| Cressavelle | Duchy of Caldrienne | Bellavara, Calvessac, Norrak, Serravonne |
 | Dalmor | Ceralte Admiralty | Bellavara, Cavrelune, Montelisse, Serravonne |
-| Edrask | Edrask Governorate | Havren, Trelovre |
+| Edrask | Edrask Governorate | Cersund, Havren, Trelovre |
 | Essara | Nemerai Crown | Ardessa, Nemer |
-| Halsavik | Rovengard | Astrellac, Rovellisse, Rovensac, Rovensk, Seldavre, Veltrund |
-| Havren | Edrask Governorate | Edrask, Serakai, Talasca |
-| Heskar | Skeldran Hearth Confederacy | Skeldra |
-| Iskel | Norrakai Moots | Norrak, Orlavik |
-| Istrana | Kingdom of Istrana | Marcavisse, Nalavai, Serakai |
-| Iveran | Merovian Island Republic | Ashala, Merovia |
-| Loravise | Gavrel | Cervallune, Montalive |
+| Halsavik | Rovengard | Rovensac, Rovensk, Seldavre, Veltrund |
+| Havren | Edrask Governorate | Edrask, Rovaro, Serakai, Talasca |
+| Heskar | Skeldran Hearth Confederacy | Ordelune, Skeldra |
+| Iskel | Norrakai Moots | Norrak, Orlavik, Trelovre |
+| Istrana | Kingdom of Istrana | Marcavisse, Nalavai, Seldren, Serakai |
+| Iveran | Merovian Island Republic | Ashala, Merovia, Serravole, Veltrund |
+| Loravise | Gavrel | Cervallune, Cervelune, Montalive |
 | Lorrevento | Bellacosta Cantons | Pellavore, Valdorelle, Vessantine |
-| Lorvesset | Bressavelle Marches | Cervelune, Orsavie, Ostrelac |
+| Lorvesset | Bressavelle Marches | Cervelune, Orsavie, Ostrelac, Tervassin |
 | Marcavisse | Rovessara | Istrana, Monteliva, Pellavore, Rovaro, Vessantine |
-| Marcellune | Kelbrun | Cervellane, Vallarive |
+| Marcellune | Kelbrun | Cervellane, Montelisse, Vallarive |
 | Merovia | Merovian Island Republic | Cervallune, Iveran, Skeldra |
-| Montalive | Gavrel | Loravise, Pravessant, Serravole |
-| Montelisse | Ceralte Admiralty | Cervallune, Dalmor, Vessaline |
+| Montalive | Gavrel | Cervallune, Loravise, Pravessant, Serravole, Skeldra |
+| Montelisse | Ceralte Admiralty | Cervallune, Dalmor, Marcellune, Vessaline |
 | Monteliva | Cavressa Principalities | Cavresset, Marcavisse, Vellorito |
 | Nalavai | Ashalai Reef Covenant | Ashala, Istrana |
-| Nemer | Nemerai Crown | Essara, Ostrelac |
+| Nemer | Nemerai Crown | Cernavie, Essara, Ostrelac, Villessia |
 | Neravisse | Ossavren successor territories | Astrellac, Cavralto, Rionvesse |
-| Norrak | Norrakai Moots | Calvessac, Iskel |
-| Ordelune | Ordelune Overseas Districts | Salterivo, Sorevain |
+| Norrak | Norrakai Moots | Calvessac, Cressavelle, Iskel, Rovensac |
+| Ordelune | Ordelune Overseas Districts | Cavralto, Cavresset, Heskar, Salterivo, Sorevain |
 | Orlavik | Galdresk | Iskel, Varkessant, Veltroven |
 | Orsavie | Bressavelle Marches | Lorvesset, Pravessant, Tervassin |
-| Ostrelac | Tervayne | Lorvesset, Nemer, Rovellisse, Rovensac, Tervassin |
+| Ostrelac | Tervayne | Bravessac, Lorvesset, Nemer, Rovellisse, Rovensac, Tervassin |
 | Pellavore | Rovessara | Lorrevento, Marcavisse, Vellorito |
-| Pravessant | Vallessia Cantons | Cervelune, Montalive, Orsavie |
-| Rionvesse | Veylac | Cavresset, Neravisse, Tervassin, Vellorito |
-| Rovaro | Talascan Charter Islands | Marcavisse, Serakai, Talasca |
-| Rovellisse | Seravelle Littoral | Astrellac, Halsavik, Ostrelac, Vasselac, Villessia |
-| Rovensac | Haldrevik Concessions | Halsavik, Ostrelac, Trelovre |
-| Rovensk | Varnesk | Halsavik, Trelovre |
+| Pravessant | Vallessia Cantons | Cervelune, Montalive, Orsavie, Rovellisse |
+| Rionvesse | Veylac | Cavresset, Neravisse, Vellorito |
+| Rovaro | Talascan Charter Islands | Havren, Marcavisse, Serakai, Talasca, Vessantine |
+| Rovellisse | Seravelle Littoral | Astrellac, Ostrelac, Pravessant, Vasselac, Villessia |
+| Rovensac | Haldrevik Concessions | Halsavik, Norrak, Ostrelac, Rovensk, Trelovre |
+| Rovensk | Varnesk | Halsavik, Rovensac, Trelovre |
 | Salterivo | Ostrevain | Astrellac, Cortelune, Ordelune, Villessia |
 | Seldavre | Halskert | Halsavik, Seldren, Varkessant |
-| Seldren | Halskert | Cersund, Seldavre, Veltrund |
-| Serakai | Kingdom of Istrana | Havren, Istrana, Rovaro |
-| Serravole | Varnelle | Cervallune, Montalive, Serravonne, Tervassin, Vessaline |
+| Seldren | Halskert | Cersund, Istrana, Seldavre, Veltrund |
+| Serakai | Kingdom of Istrana | Havren, Istrana, Rovaro, Varkessant |
+| Serravole | Varnelle | Cervallune, Iveran, Montalive, Serravonne, Vessaline |
 | Serravonne | March of Veyrasse | Cavrelune, Cressavelle, Dalmor, Serravole |
-| Skeldra | Skeldran Hearth Confederacy | Heskar, Merovia, Sorevain |
-| Sorevain | Ordelune Overseas Districts | Ordelune, Skeldra |
-| Talasca | Talascan Charter Islands | Havren, Rovaro, Velisar |
-| Tervassin | Tervayne | Bravessac, Cortessia, Orsavie, Ostrelac, Rionvesse, Serravole, Varkessant |
-| Trelovre | Haldrevik Concessions | Edrask, Rovensac, Rovensk, Veltroven |
-| Valdorelle | Veldrassen | Cortelune, Lorrevento |
-| Vallarive | Rivessac Coast | Cervallune, Marcellune, Vessaline |
-| Varkessant | Varneselle Estates | Cersund, Orlavik, Seldavre, Tervassin |
+| Skeldra | Skeldran Hearth Confederacy | Heskar, Merovia, Montalive, Sorevain |
+| Sorevain | Ordelune Overseas Districts | Cervelune, Cortessia, Ordelune, Skeldra |
+| Talasca | Talascan Charter Islands | Havren, Rovaro, Velisar, Vessantine |
+| Tervassin | Tervayne | Bravessac, Cortessia, Lorvesset, Orsavie, Ostrelac |
+| Trelovre | Haldrevik Concessions | Edrask, Iskel, Rovensac, Rovensk, Veltroven |
+| Valdorelle | Veldrassen | Cortelune, Lorrevento, Velisar |
+| Vallarive | Rivessac Coast | Cervallune, Cervellane, Marcellune, Vessaline |
+| Varkessant | Varneselle Estates | Cersund, Orlavik, Seldavre, Serakai |
 | Vasselac | Seravelle Littoral | Astrellac, Cortessia, Rovellisse |
-| Velisar | Varessan Sea League | Ardessa, Talasca |
+| Velisar | Varessan Sea League | Ardessa, Talasca, Valdorelle |
 | Vellorito | Cavressa Principalities | Monteliva, Pellavore, Rionvesse |
 | Veltroven | Dreissen Wardholds | Orlavik, Trelovre |
-| Veltrund | Rovengard | Halsavik, Seldren |
+| Veltrund | Rovengard | Ashala, Halsavik, Iveran, Seldren |
 | Vessaline | Rivessac Coast | Cervellane, Montelisse, Serravole, Vallarive |
-| Vessantine | Bellacosta Cantons | Lorrevento, Marcavisse |
-| Villessia | Ostrevain | Cernavie, Rovellisse, Salterivo |
+| Vessantine | Bellacosta Cantons | Lorrevento, Marcavisse, Rovaro, Talasca |
+| Villessia | Ostrevain | Cernavie, Nemer, Rovellisse, Salterivo |
 
 ## Census and chronology
 
@@ -253,10 +253,10 @@ The revision52 atlas contains 970 settlements and 2,182 transport segments, incl
 
 See COASTLINE-REFERENCE.md for the corrected mainland shorelines. Transport alignments and measured regional distances are unchanged. The proposed expedition-route.html and expedition-route.md target return on departure-day355, with five or six full days per research stop and ten days in reserve. The approved arrangements and funding are recorded in EXPEDITION-PREPARATION.md and EXPEDITION-BUDGET.md; the earlier provisional qualification is superseded.
 
-## Circumnavigation
+## Current sea network and circumnavigation
 
-Circumnavigation is possible through established shipping corridors. Cross-meridian services link Havren–Talasca, Serakai–Rovaro and Istrana–Marcavisse, connecting the Eastern and Western Ocean networks. The chart edge is not a physical barrier; these routes continue across it. Named ports provide ordinary provisioning and customs services; passages remain subject to weather and sailing schedules.
+The comprehensive [sea passage review and register](SEA-PASSAGES.md) supersedes the earlier three-link meridian correction. All 109 former sea corridors were evaluated: 22 alignments corrected, 30 omitted regional connections added, and five long-haul lines represented as through services with named intermediate provisioning calls. The chart now has 134 sea passages, 72 connected harbours and 2,210 transport segments in total.
 
-Approximate corridor lengths: Havren–Talasca 3,914 km; Serakai–Rovaro 4,515 km; Istrana–Marcavisse 7,293 km. These are chart estimates, not surveyed nautical distances or fixed passage times.
+Western, Eastern and Austral Ocean services form a circumnavigable network. The chart edge is not a barrier. Island supply, cross-gulf traffic and mainland approaches are connected without requiring every port to serve every other port directly. High-latitude routes require seasonal ice notices; local refuge and feeder harbours do not automatically offer unrestricted bunkering or major repairs.
 
-The current network has 109 sea corridors and 2,185 total segments. Earlier revision52 counts describe the historical chart. The new connections clarify existing services, without advancing story time or adding costs. Rechecking every scheduled expedition leg with the original surface-travel planning model selected none of these three corridors: the approved capital sequence, 355-day planned return and day-365 deadline remain unchanged.
+The approved expedition retains its capital sequence and seasonal corridors. Updated distances and a one-day redistribution between two travel legs preserve the day-355 return, 124 full visiting days and ten-day reserve. Current dates, route lengths and cost calculations are in the itinerary and EXPEDITION-BUDGET.md. No story time or payment is enacted.

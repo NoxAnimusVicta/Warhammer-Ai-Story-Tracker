@@ -55,7 +55,10 @@
       "departDate": "22/10/0067 AC43",
       "arriveDate": "23/10/0067 AC43",
       "stayStartDate": null,
-      "stayEndDate": null
+      "stayEndDate": null,
+      "routeIds": [
+        "home-capital"
+      ]
     },
     {
       "from": "Serravonne",
@@ -100,7 +103,10 @@
       "departDate": "24/10/0067 AC43",
       "arriveDate": "25/10/0067 AC43",
       "stayStartDate": "26/10/0067 AC43",
-      "stayEndDate": "01/11/0067 AC43"
+      "stayEndDate": "01/11/0067 AC43",
+      "routeIds": [
+        "home-islands"
+      ]
     },
     {
       "from": "Dalmor",
@@ -115,7 +121,7 @@
           "mode": "sea",
           "from": "Dalmor",
           "to": "Vessaline",
-          "km": 2944.113394588986
+          "km": 2901.4
         },
         {
           "mode": "road",
@@ -134,19 +140,11 @@
         [
           [
             1962.43382,
-            555
+            555.0
           ],
           [
-            1960,
-            560
-          ],
-          [
-            1961,
-            574
-          ],
-          [
-            1970,
-            580
+            1974.0,
+            582.0
           ],
           [
             1976.20732,
@@ -201,7 +199,14 @@
       "departDate": "02/11/0067 AC43",
       "arriveDate": "13/11/0067 AC43",
       "stayStartDate": "14/11/0067 AC43",
-      "stayEndDate": "19/11/0067 AC43"
+      "stayEndDate": "19/11/0067 AC43",
+      "routeIds": [
+        "dalmor-montelisse",
+        "sea47-port47-other-vesalius-3160--montelisse",
+        "harbour-road47-other-vesalius-3160",
+        "link-1619",
+        "link-1618"
+      ]
     },
     {
       "from": "Varnessa",
@@ -300,7 +305,16 @@
       "departDate": "20/11/0067 AC43",
       "arriveDate": "29/11/0067 AC43",
       "stayStartDate": "30/11/0067 AC43",
-      "stayEndDate": "04/12/0067 AC43"
+      "stayEndDate": "04/12/0067 AC43",
+      "routeIds": [
+        "link-1515",
+        "link-1570",
+        "rail47-link-1571",
+        "link-1859",
+        "rail47-link-1581",
+        "link-1582",
+        "rail47-link-1525"
+      ]
     },
     {
       "from": "Gavrielle",
@@ -379,7 +393,13 @@
       "departDate": "05/12/0067 AC43",
       "arriveDate": "10/12/0067 AC43",
       "stayStartDate": "11/12/0067 AC43",
-      "stayEndDate": "16/12/0067 AC43"
+      "stayEndDate": "16/12/0067 AC43",
+      "routeIds": [
+        "gavrel-seat--serevask-works",
+        "link-1510",
+        "link-1627",
+        "rail47-link-1507"
+      ]
     },
     {
       "from": "Serevienne",
@@ -458,7 +478,13 @@
       "departDate": "17/12/0067 AC43",
       "arriveDate": "22/12/0067 AC43",
       "stayStartDate": "23/12/0067 AC43",
-      "stayEndDate": "28/12/0067 AC43"
+      "stayEndDate": "28/12/0067 AC43",
+      "routeIds": [
+        "rail47-link-1507",
+        "link-1627",
+        "link-1510",
+        "serevask-works--kelbrun-seat"
+      ]
     },
     {
       "from": "Kelbrienne",
@@ -479,7 +505,7 @@
           "mode": "sea",
           "from": "Cervellane",
           "to": "Cavrelune",
-          "km": 2004.067028739661
+          "km": 2005.2
         },
         {
           "mode": "rail",
@@ -563,7 +589,14 @@
       "departDate": "29/12/0067 AC43",
       "arriveDate": "08/01/0068 AC43",
       "stayStartDate": "09/01/0068 AC43",
-      "stayEndDate": "13/01/0068 AC43"
+      "stayEndDate": "13/01/0068 AC43",
+      "routeIds": [
+        "kelbrun-seat--kelbrun-works",
+        "link-1524",
+        "harbour-rail47-kelbrun",
+        "sea47-port47-kelbrun--port47-calvernis",
+        "harbour-rail47-calvernis"
+      ]
     },
     {
       "from": "Miravelle",
@@ -678,7 +711,11 @@
       "departDate": "14/01/0068 AC43",
       "arriveDate": "16/01/0068 AC43",
       "stayStartDate": "17/01/0068 AC43",
-      "stayEndDate": "21/01/0068 AC43"
+      "stayEndDate": "21/01/0068 AC43",
+      "routeIds": [
+        "home-south",
+        "home-inland"
+      ]
     },
     {
       "from": "Drossane",
@@ -747,15 +784,21 @@
       "departDate": "22/01/0068 AC43",
       "arriveDate": "27/01/0068 AC43",
       "stayStartDate": "28/01/0068 AC43",
-      "stayEndDate": "02/02/0068 AC43"
+      "stayEndDate": "02/02/0068 AC43",
+      "routeIds": [
+        "road-link-drossane--survey-ardenac",
+        "rail47-link-1579",
+        "link-1649",
+        "rail47-link-1501"
+      ]
     },
     {
       "from": "Avercenne",
       "to": "Tervessac",
       "depart": 103,
-      "arrive": 107,
-      "stayStart": 108,
-      "stayEnd": 113,
+      "arrive": 106,
+      "stayStart": 107,
+      "stayEnd": 112,
       "stayDays": 6,
       "groups": [
         {
@@ -794,17 +837,20 @@
         ]
       ],
       "departDate": "03/02/0068 AC43",
-      "arriveDate": "07/02/0068 AC43",
-      "stayStartDate": "08/02/0068 AC43",
-      "stayEndDate": "13/02/0068 AC43"
+      "arriveDate": "06/02/0068 AC43",
+      "stayStartDate": "07/02/0068 AC43",
+      "stayEndDate": "12/02/0068 AC43",
+      "routeIds": [
+        "averholt-seat--tervayne-seat"
+      ]
     },
     {
       "from": "Tervessac",
       "to": "Ossendrienne",
-      "depart": 114,
-      "arrive": 138,
-      "stayStart": 139,
-      "stayEnd": 143,
+      "depart": 113,
+      "arrive": 137,
+      "stayStart": 138,
+      "stayEnd": 142,
       "stayDays": 5,
       "groups": [
         {
@@ -817,7 +863,7 @@
           "mode": "sea",
           "from": "Tervassin",
           "to": "Neravisse",
-          "km": 8981.244582610581
+          "km": 8891.4
         },
         {
           "mode": "rail",
@@ -858,11 +904,19 @@
           ],
           [
             1212.0,
-            1236.0
+            1242.0
           ],
           [
-            1152.0,
-            1278.0
+            1173.25553,
+            1262.66408
+          ],
+          [
+            1134.51105,
+            1283.32815
+          ],
+          [
+            1095.76657,
+            1303.99222
           ],
           [
             1057.0221,
@@ -926,18 +980,27 @@
           ]
         ]
       ],
-      "departDate": "14/02/0068 AC43",
-      "arriveDate": "08/03/0068 AC43",
-      "stayStartDate": "09/03/0068 AC43",
-      "stayEndDate": "13/03/0068 AC43"
+      "departDate": "13/02/0068 AC43",
+      "arriveDate": "07/03/0068 AC43",
+      "stayStartDate": "08/03/0068 AC43",
+      "stayEndDate": "12/03/0068 AC43",
+      "routeIds": [
+        "tervayne-seat--vesalius-port-0",
+        "sea47-port47-isle94--vesalius-port-0",
+        "sea47-port47-isle93--port47-isle94",
+        "sea47-port47-ossavren--port47-isle93",
+        "harbour-rail47-ossavren",
+        "link-97",
+        "ossavren-seat--ossavren-works"
+      ]
     },
     {
       "from": "Ossendrienne",
       "to": "Alescogne",
-      "depart": 144,
-      "arrive": 148,
-      "stayStart": 149,
-      "stayEnd": 153,
+      "depart": 143,
+      "arrive": 147,
+      "stayStart": 148,
+      "stayEnd": 152,
       "stayDays": 5,
       "groups": [
         {
@@ -975,18 +1038,21 @@
           ]
         ]
       ],
-      "departDate": "14/03/0068 AC43",
-      "arriveDate": "18/03/0068 AC43",
-      "stayStartDate": "19/03/0068 AC43",
-      "stayEndDate": "23/03/0068 AC43"
+      "departDate": "13/03/0068 AC43",
+      "arriveDate": "17/03/0068 AC43",
+      "stayStartDate": "18/03/0068 AC43",
+      "stayEndDate": "22/03/0068 AC43",
+      "routeIds": [
+        "ossavren-seat--veylac-seat"
+      ]
     },
     {
       "from": "Alescogne",
       "to": "Rivessole",
-      "depart": 154,
-      "arrive": 157,
-      "stayStart": 158,
-      "stayEnd": 162,
+      "depart": 153,
+      "arrive": 156,
+      "stayStart": 157,
+      "stayEnd": 161,
       "stayDays": 5,
       "groups": [
         {
@@ -1024,18 +1090,21 @@
           ]
         ]
       ],
-      "departDate": "24/03/0068 AC43",
-      "arriveDate": "27/03/0068 AC43",
-      "stayStartDate": "28/03/0068 AC43",
-      "stayEndDate": "01/04/0068 AC43"
+      "departDate": "23/03/0068 AC43",
+      "arriveDate": "26/03/0068 AC43",
+      "stayStartDate": "27/03/0068 AC43",
+      "stayEndDate": "31/03/0068 AC43",
+      "routeIds": [
+        "brannervaux-seat--veylac-seat"
+      ]
     },
     {
       "from": "Rivessole",
       "to": "Bellacenne",
-      "depart": 163,
-      "arrive": 173,
-      "stayStart": 174,
-      "stayEnd": 179,
+      "depart": 162,
+      "arrive": 172,
+      "stayStart": 173,
+      "stayEnd": 178,
       "stayDays": 6,
       "groups": [
         {
@@ -1181,18 +1250,31 @@
           ]
         ]
       ],
-      "departDate": "02/04/0068 AC43",
-      "arriveDate": "12/04/0068 AC43",
-      "stayStartDate": "13/04/0068 AC43",
-      "stayEndDate": "18/04/0068 AC43"
+      "departDate": "01/04/0068 AC43",
+      "arriveDate": "11/04/0068 AC43",
+      "stayStartDate": "12/04/0068 AC43",
+      "stayEndDate": "17/04/0068 AC43",
+      "routeIds": [
+        "link-75",
+        "link-656",
+        "link-257",
+        "rail47-link-802",
+        "link-957",
+        "link-940",
+        "link-878",
+        "link-732",
+        "link-702",
+        "link-378",
+        "link-71"
+      ]
     },
     {
       "from": "Bellacenne",
       "to": "Cavrelisse",
-      "depart": 180,
-      "arrive": 192,
-      "stayStart": 193,
-      "stayEnd": 198,
+      "depart": 179,
+      "arrive": 191,
+      "stayStart": 192,
+      "stayEnd": 197,
       "stayDays": 6,
       "groups": [
         {
@@ -1366,18 +1448,34 @@
           ]
         ]
       ],
-      "departDate": "19/04/0068 AC43",
-      "arriveDate": "01/05/0068 AC43",
-      "stayStartDate": "02/05/0068 AC43",
-      "stayEndDate": "07/05/0068 AC43"
+      "departDate": "18/04/0068 AC43",
+      "arriveDate": "30/04/0068 AC43",
+      "stayStartDate": "01/05/0068 AC43",
+      "stayEndDate": "06/05/0068 AC43",
+      "routeIds": [
+        "link-70",
+        "link-767",
+        "link-768",
+        "link-1075",
+        "link-259",
+        "link-258",
+        "link-715",
+        "rail47-link-1057",
+        "link-1079",
+        "rail47-link-569",
+        "link-1066",
+        "link-850",
+        "link-61",
+        "veldrassen-seat--veldrassen-works"
+      ]
     },
     {
       "from": "Cavrelisse",
       "to": "Charvessant",
-      "depart": 199,
-      "arrive": 209,
-      "stayStart": 210,
-      "stayEnd": 215,
+      "depart": 198,
+      "arrive": 208,
+      "stayStart": 209,
+      "stayEnd": 214,
       "stayDays": 6,
       "groups": [
         {
@@ -1529,18 +1627,31 @@
           ]
         ]
       ],
-      "departDate": "08/05/0068 AC43",
-      "arriveDate": "18/05/0068 AC43",
-      "stayStartDate": "19/05/0068 AC43",
-      "stayEndDate": "24/05/0068 AC43"
+      "departDate": "07/05/0068 AC43",
+      "arriveDate": "17/05/0068 AC43",
+      "stayStartDate": "18/05/0068 AC43",
+      "stayEndDate": "23/05/0068 AC43",
+      "routeIds": [
+        "link-57",
+        "link-668",
+        "link-417",
+        "link-418",
+        "link-229",
+        "link-227",
+        "link-752",
+        "link-1003",
+        "rail47-link-737",
+        "link-739",
+        "link-82"
+      ]
     },
     {
       "from": "Charvessant",
       "to": "Orsevigne",
-      "depart": 216,
-      "arrive": 220,
-      "stayStart": 221,
-      "stayEnd": 226,
+      "depart": 215,
+      "arrive": 219,
+      "stayStart": 220,
+      "stayEnd": 225,
       "stayDays": 6,
       "groups": [
         {
@@ -1578,18 +1689,21 @@
           ]
         ]
       ],
-      "departDate": "25/05/0068 AC43",
-      "arriveDate": "29/05/0068 AC43",
-      "stayStartDate": "30/05/0068 AC43",
-      "stayEndDate": "04/06/0068 AC43"
+      "departDate": "24/05/0068 AC43",
+      "arriveDate": "28/05/0068 AC43",
+      "stayStartDate": "29/05/0068 AC43",
+      "stayEndDate": "03/06/0068 AC43",
+      "routeIds": [
+        "ostrevain-seat--cervaud-seat"
+      ]
     },
     {
       "from": "Orsevigne",
       "to": "Corsavik",
-      "depart": 227,
-      "arrive": 269,
-      "stayStart": 270,
-      "stayEnd": 275,
+      "depart": 226,
+      "arrive": 268,
+      "stayStart": 269,
+      "stayEnd": 274,
       "stayDays": 6,
       "groups": [
         {
@@ -1602,7 +1716,7 @@
           "mode": "sea",
           "from": "Astrellac",
           "to": "Trelovre",
-          "km": 15069.562834451413
+          "km": 15291.4
         },
         {
           "mode": "rail",
@@ -1793,18 +1907,30 @@
           ]
         ]
       ],
-      "departDate": "05/06/0068 AC43",
-      "arriveDate": "17/07/0068 AC43",
-      "stayStartDate": "18/07/0068 AC43",
-      "stayEndDate": "23/07/0068 AC43"
+      "departDate": "04/06/0068 AC43",
+      "arriveDate": "16/07/0068 AC43",
+      "stayStartDate": "17/07/0068 AC43",
+      "stayEndDate": "22/07/0068 AC43",
+      "routeIds": [
+        "otranto-port-1--ostrevain-seat",
+        "sea47-otranto-port-1--port47-isle96",
+        "sea47-port47-isle96--port47-isle129",
+        "sea47-port47-isle129--port47-isle115",
+        "sea47-port47-other-morholt-1880--port47-isle115",
+        "harbour-rail47-other-morholt-1880",
+        "link-1401",
+        "link-1454",
+        "link-1176",
+        "varnesk-seat--varnesk-works"
+      ]
     },
     {
       "from": "Corsavik",
       "to": "Arvendal",
-      "depart": 276,
-      "arrive": 281,
-      "stayStart": 282,
-      "stayEnd": 287,
+      "depart": 275,
+      "arrive": 280,
+      "stayStart": 281,
+      "stayEnd": 286,
       "stayDays": 6,
       "groups": [
         {
@@ -1852,18 +1978,22 @@
           ]
         ]
       ],
-      "departDate": "24/07/0068 AC43",
-      "arriveDate": "29/07/0068 AC43",
-      "stayStartDate": "30/07/0068 AC43",
-      "stayEndDate": "04/08/0068 AC43"
+      "departDate": "23/07/0068 AC43",
+      "arriveDate": "28/07/0068 AC43",
+      "stayStartDate": "29/07/0068 AC43",
+      "stayEndDate": "03/08/0068 AC43",
+      "routeIds": [
+        "varnesk-seat--rovengard-works",
+        "link-1168"
+      ]
     },
     {
       "from": "Arvendal",
       "to": "Orsendal",
-      "depart": 288,
-      "arrive": 296,
-      "stayStart": 297,
-      "stayEnd": 301,
+      "depart": 287,
+      "arrive": 295,
+      "stayStart": 296,
+      "stayEnd": 300,
       "stayDays": 5,
       "groups": [
         {
@@ -1987,18 +2117,30 @@
           ]
         ]
       ],
-      "departDate": "05/08/0068 AC43",
-      "arriveDate": "13/08/0068 AC43",
-      "stayStartDate": "14/08/0068 AC43",
-      "stayEndDate": "18/08/0068 AC43"
+      "departDate": "04/08/0068 AC43",
+      "arriveDate": "12/08/0068 AC43",
+      "stayStartDate": "13/08/0068 AC43",
+      "stayEndDate": "17/08/0068 AC43",
+      "routeIds": [
+        "link-1167",
+        "link-1408",
+        "rail47-link-1215",
+        "rail47-link-1216",
+        "link-1274",
+        "rail47-link-1273",
+        "link-1310",
+        "link-1478",
+        "link-1245",
+        "link-1186"
+      ]
     },
     {
       "from": "Orsendal",
       "to": "Grevallier",
-      "depart": 302,
-      "arrive": 306,
-      "stayStart": 307,
-      "stayEnd": 312,
+      "depart": 301,
+      "arrive": 305,
+      "stayStart": 306,
+      "stayEnd": 311,
       "stayDays": 6,
       "groups": [
         {
@@ -2062,15 +2204,19 @@
           ]
         ]
       ],
-      "departDate": "19/08/0068 AC43",
-      "arriveDate": "23/08/0068 AC43",
-      "stayStartDate": "24/08/0068 AC43",
-      "stayEndDate": "29/08/0068 AC43"
+      "departDate": "18/08/0068 AC43",
+      "arriveDate": "22/08/0068 AC43",
+      "stayStartDate": "23/08/0068 AC43",
+      "stayEndDate": "28/08/0068 AC43",
+      "routeIds": [
+        "halskert-seat--halskert-works",
+        "galdresk-seat--halskert-works"
+      ]
     },
     {
       "from": "Grevallier",
       "to": "Estrevigne",
-      "depart": 313,
+      "depart": 312,
       "arrive": 336,
       "stayStart": 337,
       "stayEnd": 342,
@@ -2086,7 +2232,7 @@
           "mode": "sea",
           "from": "Orlavik",
           "to": "Calvessac",
-          "km": 5745.790939530561
+          "km": 5904.6
         },
         {
           "mode": "road",
@@ -2240,8 +2386,8 @@
             215.2389
           ],
           [
-            2190,
-            216
+            2190.0,
+            222.0
           ],
           [
             2195.29,
@@ -2323,10 +2469,28 @@
           ]
         ]
       ],
-      "departDate": "30/08/0068 AC43",
+      "departDate": "29/08/0068 AC43",
       "arriveDate": "23/09/0068 AC43",
       "stayStartDate": "24/09/0068 AC43",
-      "stayEndDate": "29/09/0068 AC43"
+      "stayEndDate": "29/09/0068 AC43",
+      "routeIds": [
+        "galdresk-seat--galdresk-works",
+        "rail47-link-1181",
+        "link-1366",
+        "link-1479",
+        "link-1397",
+        "link-1234",
+        "link-1232",
+        "link-1431",
+        "harbour-rail47-galdresk",
+        "sea52-isle52-norrakai-1--port47-galdresk",
+        "sea52-isle52-norrakai-0--isle52-norrakai-1",
+        "sea52-isle52-norrakai-0--port47-vardol",
+        "harbour-road47-vardol",
+        "link-1720",
+        "link-1498",
+        "vardol-seat--vardol-works"
+      ]
     },
     {
       "from": "Estrevigne",
@@ -2405,7 +2569,11 @@
       "departDate": "30/09/0068 AC43",
       "arriveDate": "04/10/0068 AC43",
       "stayStartDate": "05/10/0068 AC43",
-      "stayEndDate": "09/10/0068 AC43"
+      "stayEndDate": "09/10/0068 AC43",
+      "routeIds": [
+        "link-1496",
+        "survey39-valdrec--survey-caravre"
+      ]
     },
     {
       "from": "Valdrec",
@@ -2476,7 +2644,11 @@
       "departDate": "10/10/0068 AC43",
       "arriveDate": "11/10/0068 AC43",
       "stayStartDate": null,
-      "stayEndDate": null
+      "stayEndDate": null,
+      "routeIds": [
+        "frontier-north",
+        "capital-frontier"
+      ]
     }
   ],
   "events": [
@@ -2669,7 +2841,7 @@
     },
     {
       "start": 103,
-      "end": 107,
+      "end": 106,
       "label": "Avercenne → Tervessac",
       "kind": "Travel window",
       "point": [
@@ -2679,8 +2851,8 @@
       "leg": 9
     },
     {
-      "start": 108,
-      "end": 113,
+      "start": 107,
+      "end": 112,
       "label": "Tervessac",
       "kind": "6 full research days",
       "point": [
@@ -2690,8 +2862,8 @@
       "leg": 9
     },
     {
-      "start": 114,
-      "end": 138,
+      "start": 113,
+      "end": 137,
       "label": "Tervessac → Ossendrienne",
       "kind": "Travel window",
       "point": [
@@ -2701,8 +2873,8 @@
       "leg": 10
     },
     {
-      "start": 139,
-      "end": 143,
+      "start": 138,
+      "end": 142,
       "label": "Ossendrienne",
       "kind": "5 full research days",
       "point": [
@@ -2712,8 +2884,8 @@
       "leg": 10
     },
     {
-      "start": 144,
-      "end": 148,
+      "start": 143,
+      "end": 147,
       "label": "Ossendrienne → Alescogne",
       "kind": "Travel window",
       "point": [
@@ -2723,8 +2895,8 @@
       "leg": 11
     },
     {
-      "start": 149,
-      "end": 153,
+      "start": 148,
+      "end": 152,
       "label": "Alescogne",
       "kind": "5 full research days",
       "point": [
@@ -2734,8 +2906,8 @@
       "leg": 11
     },
     {
-      "start": 154,
-      "end": 157,
+      "start": 153,
+      "end": 156,
       "label": "Alescogne → Rivessole",
       "kind": "Travel window",
       "point": [
@@ -2745,8 +2917,8 @@
       "leg": 12
     },
     {
-      "start": 158,
-      "end": 162,
+      "start": 157,
+      "end": 161,
       "label": "Rivessole",
       "kind": "5 full research days",
       "point": [
@@ -2756,8 +2928,8 @@
       "leg": 12
     },
     {
-      "start": 163,
-      "end": 173,
+      "start": 162,
+      "end": 172,
       "label": "Rivessole → Bellacenne",
       "kind": "Travel window",
       "point": [
@@ -2767,8 +2939,8 @@
       "leg": 13
     },
     {
-      "start": 174,
-      "end": 179,
+      "start": 173,
+      "end": 178,
       "label": "Bellacenne",
       "kind": "6 full research days",
       "point": [
@@ -2778,8 +2950,8 @@
       "leg": 13
     },
     {
-      "start": 180,
-      "end": 192,
+      "start": 179,
+      "end": 191,
       "label": "Bellacenne → Cavrelisse",
       "kind": "Travel window",
       "point": [
@@ -2789,8 +2961,8 @@
       "leg": 14
     },
     {
-      "start": 193,
-      "end": 198,
+      "start": 192,
+      "end": 197,
       "label": "Cavrelisse",
       "kind": "6 full research days",
       "point": [
@@ -2800,8 +2972,8 @@
       "leg": 14
     },
     {
-      "start": 199,
-      "end": 209,
+      "start": 198,
+      "end": 208,
       "label": "Cavrelisse → Charvessant",
       "kind": "Travel window",
       "point": [
@@ -2811,8 +2983,8 @@
       "leg": 15
     },
     {
-      "start": 210,
-      "end": 215,
+      "start": 209,
+      "end": 214,
       "label": "Charvessant",
       "kind": "6 full research days",
       "point": [
@@ -2822,8 +2994,8 @@
       "leg": 15
     },
     {
-      "start": 216,
-      "end": 220,
+      "start": 215,
+      "end": 219,
       "label": "Charvessant → Orsevigne",
       "kind": "Travel window",
       "point": [
@@ -2833,8 +3005,8 @@
       "leg": 16
     },
     {
-      "start": 221,
-      "end": 226,
+      "start": 220,
+      "end": 225,
       "label": "Orsevigne",
       "kind": "6 full research days",
       "point": [
@@ -2844,8 +3016,8 @@
       "leg": 16
     },
     {
-      "start": 227,
-      "end": 269,
+      "start": 226,
+      "end": 268,
       "label": "Orsevigne → Corsavik",
       "kind": "Travel window",
       "point": [
@@ -2855,8 +3027,8 @@
       "leg": 17
     },
     {
-      "start": 270,
-      "end": 275,
+      "start": 269,
+      "end": 274,
       "label": "Corsavik",
       "kind": "6 full research days",
       "point": [
@@ -2866,8 +3038,8 @@
       "leg": 17
     },
     {
-      "start": 276,
-      "end": 281,
+      "start": 275,
+      "end": 280,
       "label": "Corsavik → Arvendal",
       "kind": "Travel window",
       "point": [
@@ -2877,8 +3049,8 @@
       "leg": 18
     },
     {
-      "start": 282,
-      "end": 287,
+      "start": 281,
+      "end": 286,
       "label": "Arvendal",
       "kind": "6 full research days",
       "point": [
@@ -2888,8 +3060,8 @@
       "leg": 18
     },
     {
-      "start": 288,
-      "end": 296,
+      "start": 287,
+      "end": 295,
       "label": "Arvendal → Orsendal",
       "kind": "Travel window",
       "point": [
@@ -2899,8 +3071,8 @@
       "leg": 19
     },
     {
-      "start": 297,
-      "end": 301,
+      "start": 296,
+      "end": 300,
       "label": "Orsendal",
       "kind": "5 full research days",
       "point": [
@@ -2910,8 +3082,8 @@
       "leg": 19
     },
     {
-      "start": 302,
-      "end": 306,
+      "start": 301,
+      "end": 305,
       "label": "Orsendal → Grevallier",
       "kind": "Travel window",
       "point": [
@@ -2921,8 +3093,8 @@
       "leg": 20
     },
     {
-      "start": 307,
-      "end": 312,
+      "start": 306,
+      "end": 311,
       "label": "Grevallier",
       "kind": "6 full research days",
       "point": [
@@ -2932,7 +3104,7 @@
       "leg": 20
     },
     {
-      "start": 313,
+      "start": 312,
       "end": 336,
       "label": "Grevallier → Estrevigne",
       "kind": "Travel window",
@@ -3000,8 +3172,8 @@
   ],
   "modeKm": {
     "rail": 44998.77316179378,
-    "road": 5990.013777345692,
-    "sea": 35014.77877992121
+    "sea": 35264.0,
+    "road": 5990.013777345692
   },
   "returnDay": 355,
   "stops": [
@@ -3216,7 +3388,7 @@
     "collegiumContribution": 4500,
     "paid": 510,
     "held": 13990,
-    "financialReserve": 2444,
+    "financialReserve": 2439,
     "annualPayroll": 2820,
     "galahadMonthlyPay": 60,
     "scholarMonthlyPay": 35,
@@ -3606,5 +3778,6 @@
       "20/10/0068 AC43",
       "21/10/0068 AC43"
     ]
-  }
+  },
+  "seaReview": "All sea distances follow the corrected corridor geometry. Capital order and booked seasonal route retained; one travel day moved from Avercenne–Tervessac to Grevallier–Estrevigne."
 }

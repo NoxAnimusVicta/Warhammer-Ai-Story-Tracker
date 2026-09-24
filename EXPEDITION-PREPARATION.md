@@ -6,9 +6,9 @@ The expedition is ready to depart. The Chancery and Collegium completed ordinary
 
 ## Funding and employment
 
-The Chancery supplies **10,000 lorrats**, and the Collegium **4,500**, creating a **14,500-lorrat operating fund**. Existing paid invoices total **510**; **13,990 remains**, including **2,444 financial contingency**. Expected total operating expenditure is **12,056**. See [the itemised budget](EXPEDITION-BUDGET.md).
+The Chancery supplies **10,000 lorrats**, and the Collegium **4,500**, creating a **14,500-lorrat operating fund**. Existing paid invoices total **510**; **13,990 remains**, including **2,439 financial contingency**. Expected total operating expenditure is **12,061**. See [the itemised budget](EXPEDITION-BUDGET.md).
 
-All six remain in Collegium employment. Galahad continues at **60 per pay month**, and each of the five scholars at **35**: **235 per month**, or **2,820 for twelve accounting months**. Expected expense including payroll is **14,876**; total cash provision including reserve is **17,320**. Pay is credited periodically to existing individual accounts, not prepaid from expedition funds. Galahad's personal cash remains 378; future earnings are not yet money held. No additional leadership premium is assumed.
+All six remain in Collegium employment. Galahad continues at **60 per pay month**, and each of the five scholars at **35**: **235 per month**, or **2,820 for twelve accounting months**. Expected expense including payroll is **14,881**; total cash provision including reserve is **17,320**. Pay is credited periodically to existing individual accounts, not prepaid from expedition funds. Galahad's personal cash remains 378; future earnings are not yet money held. No additional leadership premium is assumed.
 
 The Collegium supplies its already inventoried survey instruments, microscope and balances on loan, maintains home administration and duplicate reports, and handles introductions, correspondence, remittances and agents. These are institutional resources, not personal gifts or an invented extra cash receipt. Foreign hospitality can save money but is not required to complete the tour. Paid professional lodging and ordinary meals are budgeted throughout.
 
@@ -20,9 +20,9 @@ The plan has checked both northern sea stages, not merely the last one:
 
 | Stage | Expedition travel window | Seasonal arrangement |
 |---|---:|---|
-| Tervessac to Ossendrienne, through Cortessia and Cavralto | 114–138 | Southern summer. The southern sea passage is scheduled in its working season. |
-| Orsevigne to Corsavik, including Ostrelac–Rovensac–Trelovre | 227–269 | Northern late spring into summer. The ice-sensitive northern calls fall within the scheduled days 230–290 service window. |
-| Grevallier to Estrevigne, via Orlavik–Iskel–Norrak–Calvessac | 313–336 | Northern late summer into early autumn. The northern island corridor has its scheduled service window on days 295–350; even a ten-day slip keeps this stage inside that window. |
+| Tervessac to Ossendrienne, through Cortessia and Cavralto | 113–137 | Southern summer. The southern sea passage is scheduled in its working season. |
+| Orsevigne to Corsavik, including Ostrelac–Rovensac–Trelovre | 226–268 | Northern late spring into summer. The ice-sensitive northern calls fall within the scheduled days 230–290 service window. |
+| Grevallier to Estrevigne, via Orlavik–Iskel–Norrak–Calvessac | 312–336 | Northern late summer into early autumn. The northern island corridor has its scheduled service window on days 295–350; even a ten-day slip keeps this stage inside that window. |
 
 These service windows are the newly established local seasonal baseline for the departure plan, not a claim of previously recorded historical forecasts. They concern the existing coastal/island lanes, not a voyage over a polar ice cap. Winter roads elsewhere use maintained trunk routes and normal seasonal schedules; fuel, weather clothing and drivers are included. No unrecorded shortcut, new railway or air rescue is assumed.
 
@@ -54,18 +54,18 @@ Ordinary entry and transit arrangements, declared-instrument paperwork and routi
 | Miravelle | 78–82 | Arranged. |
 | Drossane | 86–90 | Arranged. |
 | Avercenne | 97–102 | Arranged. |
-| Tervessac | 108–113 | Arranged. |
-| Ossendrienne | 139–143 | Arranged for the visited seat and transit jurisdictions; not recognition of a single sovereign successor state. |
-| Alescogne | 149–153 | Arranged. |
-| Rivessole | 158–162 | Arranged. |
-| Bellacenne | 174–179 | Arranged. |
-| Cavrelisse | 193–198 | Arranged. |
-| Charvessant | 210–215 | Arranged. |
-| Orsevigne | 221–226 | Arranged. |
-| Corsavik | 270–275 | Arranged. |
-| Arvendal | 282–287 | Arranged. |
-| Orsendal | 297–301 | Arranged. |
-| Grevallier | 307–312 | Arranged. |
+| Tervessac | 107–112 | Arranged. |
+| Ossendrienne | 138–142 | Arranged for the visited seat and transit jurisdictions; not recognition of a single sovereign successor state. |
+| Alescogne | 148–152 | Arranged. |
+| Rivessole | 157–161 | Arranged. |
+| Bellacenne | 173–178 | Arranged. |
+| Cavrelisse | 192–197 | Arranged. |
+| Charvessant | 209–214 | Arranged. |
+| Orsevigne | 220–225 | Arranged. |
+| Corsavik | 269–274 | Arranged. |
+| Arvendal | 281–286 | Arranged. |
+| Orsendal | 296–300 | Arranged. |
+| Grevallier | 306–311 | Arranged. |
 | Estrevigne | 337–342 | Arranged. |
 | Valdrec | 349–353 | Arranged. |
 
@@ -82,3 +82,7 @@ The reserve remains available through those arrangements, with duplicate authori
 At Tervessac and Orsevigne, the party compares actual progress with the route before committing to the next ocean stage. At Grevallier, the agent reconfirms the arranged homeward sailing and latest ice notice before discretionary work. Ordinary delays use the ten-day margin. If new events threaten the deadline, shorten remaining research stays before consuming the whole margin; all 22 stays have at least five full days and can release time if required. A genuinely major disruption triggers an explicit new route decision with current costs. No automatic flight or extra funding is assumed necessary for the ordinary plan.
 
 The visit list covers 22 capitals or principal seats across the three inhabited continents. It does not promise every major city, every divided authority or every island administration. Intermediate supply calls are not automatically research stays. This is the adopted scope of this year's journey.
+
+## Sea-network review
+
+The comprehensive sea review retains the booked sequence and seasonal corridors. One travel day is redistributed from Avercenne–Tervessac to Grevallier–Estrevigne after measuring the actual drawn passages. A faster northern outbound path through Iskel–Norrak is excluded because its established service window is for the later return. Current itinerary dates above control earlier versions. Operating forecast changes by five lorrats; funding, settled invoices and permissions remain intact.

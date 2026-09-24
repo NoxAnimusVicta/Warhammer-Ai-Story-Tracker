@@ -207988,11 +207988,6 @@
           "mode": "rail"
         },
         {
-          "id": "morholt-port-0",
-          "name": "Halsavik",
-          "mode": "sea"
-        },
-        {
           "id": "survey-keldelle",
           "name": "Nileanne",
           "mode": "road"
@@ -208076,11 +208071,6 @@
           "mode": "rail"
         },
         {
-          "id": "vesalius-port-0",
-          "name": "Tervassin",
-          "mode": "sea"
-        },
-        {
           "id": "survey-jorora",
           "name": "Auvevra",
           "mode": "rail"
@@ -208149,11 +208139,6 @@
           "mode": "rail"
         },
         {
-          "id": "otranto-port-1",
-          "name": "Astrellac",
-          "mode": "sea"
-        },
-        {
           "id": "survey-esterdorn",
           "name": "Neravonov",
           "mode": "road"
@@ -208181,11 +208166,6 @@
         {
           "id": "port47-isle118",
           "name": "Veltrund",
-          "mode": "sea"
-        },
-        {
-          "id": "port47-isle96",
-          "name": "Rovellisse",
           "mode": "sea"
         },
         {
@@ -208227,11 +208207,6 @@
           "mode": "rail"
         },
         {
-          "id": "vesalius-port-0",
-          "name": "Tervassin",
-          "mode": "sea"
-        },
-        {
           "id": "survey-zernberg",
           "name": "Millard",
           "mode": "road"
@@ -208264,6 +208239,11 @@
         {
           "id": "port47-isle106",
           "name": "Cersund",
+          "mode": "sea"
+        },
+        {
+          "id": "isle52-istrana-1",
+          "name": "Serakai",
           "mode": "sea"
         }
       ],
@@ -208300,21 +208280,6 @@
           "mode": "rail"
         },
         {
-          "id": "morholt-port-1",
-          "name": "Varkessant",
-          "mode": "sea"
-        },
-        {
-          "id": "otranto-port-2",
-          "name": "Rionvesse",
-          "mode": "sea"
-        },
-        {
-          "id": "vesalius-port-1",
-          "name": "Serravole",
-          "mode": "sea"
-        },
-        {
           "id": "tervayne-seat",
           "name": "Tervessac",
           "mode": "road"
@@ -208347,6 +208312,11 @@
         {
           "id": "port47-isle94",
           "name": "Cortessia",
+          "mode": "sea"
+        },
+        {
+          "id": "port47-isle130",
+          "name": "Lorvesset",
           "mode": "sea"
         }
       ],
@@ -208388,11 +208358,6 @@
           "mode": "rail"
         },
         {
-          "id": "vesalius-port-0",
-          "name": "Tervassin",
-          "mode": "sea"
-        },
-        {
           "id": "serravonne",
           "name": "Serravonne",
           "mode": "sea"
@@ -208425,6 +208390,11 @@
         {
           "id": "port47-isle122",
           "name": "Cervallune",
+          "mode": "sea"
+        },
+        {
+          "id": "isle52-merovia-1",
+          "name": "Iveran",
           "mode": "sea"
         }
       ],
@@ -252010,6 +251980,11 @@
           "id": "port47-other-vesalius-3160",
           "name": "Vessaline",
           "mode": "sea"
+        },
+        {
+          "id": "port47-isle125",
+          "name": "Marcellune",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Island stores and convoy cooking",
@@ -252057,6 +252032,11 @@
         {
           "id": "port47-other-otranto-400",
           "name": "Lorrevento",
+          "mode": "sea"
+        },
+        {
+          "id": "isle52-varessan-1",
+          "name": "Velisar",
           "mode": "sea"
         }
       ],
@@ -252211,6 +252191,11 @@
         {
           "id": "morholt-port-0",
           "name": "Halsavik",
+          "mode": "sea"
+        },
+        {
+          "id": "port47-isle115",
+          "name": "Rovensac",
           "mode": "sea"
         }
       ],
@@ -252414,6 +252399,11 @@
           "id": "vesalius-port-0",
           "name": "Tervassin",
           "mode": "sea"
+        },
+        {
+          "id": "port47-isle129",
+          "name": "Ostrelac",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Northern Vesalian grain belt",
@@ -252467,6 +252457,11 @@
           "id": "port47-isle125",
           "name": "Marcellune",
           "mode": "sea"
+        },
+        {
+          "id": "port47-isle124",
+          "name": "Vallarive",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Southern charter basin",
@@ -252514,6 +252509,16 @@
         {
           "id": "port47-isle119",
           "name": "Loravise",
+          "mode": "sea"
+        },
+        {
+          "id": "port47-isle122",
+          "name": "Cervallune",
+          "mode": "sea"
+        },
+        {
+          "id": "isle52-skeldra-0",
+          "name": "Skeldra",
           "mode": "sea"
         }
       ],
@@ -252732,6 +252737,11 @@
           "id": "isle52-edrask-0",
           "name": "Edrask",
           "mode": "sea"
+        },
+        {
+          "id": "isle52-norrakai-1",
+          "name": "Iskel",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Concession camp tables",
@@ -252881,6 +252891,11 @@
           "id": "port47-isle133",
           "name": "Cervelune",
           "mode": "sea"
+        },
+        {
+          "id": "port47-isle96",
+          "name": "Rovellisse",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Southern small-state tables",
@@ -252987,6 +253002,11 @@
           "id": "bellavara",
           "name": "Bellavara",
           "mode": "sea"
+        },
+        {
+          "id": "isle52-norrakai-0",
+          "name": "Norrak",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Eastern rail-and-coast",
@@ -253077,6 +253097,16 @@
         {
           "id": "port47-isle86",
           "name": "Marcavisse",
+          "mode": "sea"
+        },
+        {
+          "id": "isle52-talasca-1",
+          "name": "Rovaro",
+          "mode": "sea"
+        },
+        {
+          "id": "isle52-talasca-0",
+          "name": "Talasca",
           "mode": "sea"
         }
       ],
@@ -253220,6 +253250,11 @@
           "id": "port47-isle93",
           "name": "Cavralto",
           "mode": "sea"
+        },
+        {
+          "id": "isle52-ordelune-0",
+          "name": "Ordelune",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Otrantian southern workshops",
@@ -253263,6 +253298,11 @@
         {
           "id": "port47-isle94",
           "name": "Cortessia",
+          "mode": "sea"
+        },
+        {
+          "id": "isle52-ordelune-0",
+          "name": "Ordelune",
           "mode": "sea"
         }
       ],
@@ -253312,6 +253352,11 @@
         {
           "id": "vesalius-port-0",
           "name": "Tervassin",
+          "mode": "sea"
+        },
+        {
+          "id": "isle52-ordelune-1",
+          "name": "Sorevain",
           "mode": "sea"
         }
       ],
@@ -253408,8 +253453,8 @@
           "mode": "sea"
         },
         {
-          "id": "morholt-port-0",
-          "name": "Halsavik",
+          "id": "port47-other-vesalius-2790-1410",
+          "name": "Pravessant",
           "mode": "sea"
         }
       ],
@@ -253455,6 +253500,11 @@
           "id": "port47-isle99",
           "name": "Cernavie",
           "mode": "sea"
+        },
+        {
+          "id": "isle52-nemerai-0",
+          "name": "Nemer",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Otrantian grain-and-estate belt",
@@ -253494,6 +253544,16 @@
           "id": "port47-isle97",
           "name": "Villessia",
           "mode": "sea"
+        },
+        {
+          "id": "isle52-varessan-0",
+          "name": "Ardessa",
+          "mode": "sea"
+        },
+        {
+          "id": "isle52-nemerai-0",
+          "name": "Nemer",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Northern dry-basin tables",
@@ -253532,6 +253592,16 @@
         {
           "id": "port47-isle104",
           "name": "Seldren",
+          "mode": "sea"
+        },
+        {
+          "id": "isle52-ashalai-0",
+          "name": "Ashala",
+          "mode": "sea"
+        },
+        {
+          "id": "isle52-merovia-1",
+          "name": "Iveran",
           "mode": "sea"
         }
       ],
@@ -253577,6 +253647,11 @@
           "id": "port47-isle106",
           "name": "Cersund",
           "mode": "sea"
+        },
+        {
+          "id": "isle52-istrana-0",
+          "name": "Istrana",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Morholt river kitchens",
@@ -253615,6 +253690,11 @@
         {
           "id": "port47-isle104",
           "name": "Seldren",
+          "mode": "sea"
+        },
+        {
+          "id": "isle52-edrask-0",
+          "name": "Edrask",
           "mode": "sea"
         }
       ],
@@ -253660,6 +253740,16 @@
           "id": "morholt-port-0",
           "name": "Halsavik",
           "mode": "sea"
+        },
+        {
+          "id": "isle52-norrakai-0",
+          "name": "Norrak",
+          "mode": "sea"
+        },
+        {
+          "id": "port47-varnesk",
+          "name": "Rovensk",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Concession camp tables",
@@ -253698,6 +253788,11 @@
         {
           "id": "port47-isle122",
           "name": "Cervallune",
+          "mode": "sea"
+        },
+        {
+          "id": "port47-isle133",
+          "name": "Cervelune",
           "mode": "sea"
         }
       ],
@@ -253753,6 +253848,11 @@
           "id": "isle52-merovia-0",
           "name": "Merovia",
           "mode": "sea"
+        },
+        {
+          "id": "port47-gavrel",
+          "name": "Montalive",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Southern charter basin",
@@ -253797,6 +253897,11 @@
           "id": "port47-isle125",
           "name": "Marcellune",
           "mode": "sea"
+        },
+        {
+          "id": "port47-kelbrun",
+          "name": "Cervellane",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Southeastern border tables",
@@ -253835,6 +253940,11 @@
         {
           "id": "port47-isle124",
           "name": "Vallarive",
+          "mode": "sea"
+        },
+        {
+          "id": "montelisse",
+          "name": "Montelisse",
           "mode": "sea"
         }
       ],
@@ -253890,6 +254000,11 @@
           "id": "isle52-nemerai-0",
           "name": "Nemer",
           "mode": "sea"
+        },
+        {
+          "id": "port47-averholt",
+          "name": "Bravessac",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Western Vesalian seaways",
@@ -253934,6 +254049,11 @@
           "id": "port47-isle133",
           "name": "Cervelune",
           "mode": "sea"
+        },
+        {
+          "id": "vesalius-port-0",
+          "name": "Tervassin",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Western small-state tables",
@@ -253972,6 +254092,16 @@
         {
           "id": "port47-isle130",
           "name": "Lorvesset",
+          "mode": "sea"
+        },
+        {
+          "id": "port47-isle119",
+          "name": "Loravise",
+          "mode": "sea"
+        },
+        {
+          "id": "isle52-ordelune-1",
+          "name": "Sorevain",
           "mode": "sea"
         }
       ],
@@ -254017,6 +254147,11 @@
           "id": "isle52-nemerai-1",
           "name": "Essara",
           "mode": "sea"
+        },
+        {
+          "id": "port47-isle99",
+          "name": "Cernavie",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Varessan Sea League island table",
@@ -254055,6 +254190,11 @@
         {
           "id": "isle52-talasca-0",
           "name": "Talasca",
+          "mode": "sea"
+        },
+        {
+          "id": "port47-veldrassen",
+          "name": "Valdorelle",
           "mode": "sea"
         }
       ],
@@ -254139,6 +254279,11 @@
           "id": "isle52-edrask-1",
           "name": "Havren",
           "mode": "sea"
+        },
+        {
+          "id": "port47-isle83",
+          "name": "Vessantine",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Talascan Charter Islands island table",
@@ -254182,6 +254327,16 @@
         {
           "id": "isle52-istrana-1",
           "name": "Serakai",
+          "mode": "sea"
+        },
+        {
+          "id": "port47-isle83",
+          "name": "Vessantine",
+          "mode": "sea"
+        },
+        {
+          "id": "isle52-edrask-1",
+          "name": "Havren",
           "mode": "sea"
         }
       ],
@@ -254260,6 +254415,16 @@
         {
           "id": "port47-isle129",
           "name": "Ostrelac",
+          "mode": "sea"
+        },
+        {
+          "id": "port47-isle99",
+          "name": "Cernavie",
+          "mode": "sea"
+        },
+        {
+          "id": "port47-isle97",
+          "name": "Villessia",
           "mode": "sea"
         }
       ],
@@ -254378,6 +254543,21 @@
           "id": "port47-ostrevain",
           "name": "Salterivo",
           "mode": "sea"
+        },
+        {
+          "id": "port47-isle93",
+          "name": "Cavralto",
+          "mode": "sea"
+        },
+        {
+          "id": "port47-isle92",
+          "name": "Cavresset",
+          "mode": "sea"
+        },
+        {
+          "id": "isle52-skeldra-1",
+          "name": "Heskar",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Ordelune Overseas Districts island table",
@@ -254416,6 +254596,16 @@
         {
           "id": "isle52-skeldra-0",
           "name": "Skeldra",
+          "mode": "sea"
+        },
+        {
+          "id": "port47-isle94",
+          "name": "Cortessia",
+          "mode": "sea"
+        },
+        {
+          "id": "port47-isle133",
+          "name": "Cervelune",
           "mode": "sea"
         }
       ],
@@ -254500,6 +254690,11 @@
           "id": "isle52-merovia-0",
           "name": "Merovia",
           "mode": "sea"
+        },
+        {
+          "id": "port47-gavrel",
+          "name": "Montalive",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Skeldran Hearth Confederacy island table",
@@ -254533,6 +254728,11 @@
         {
           "id": "isle52-skeldra-0",
           "name": "Skeldra",
+          "mode": "sea"
+        },
+        {
+          "id": "isle52-ordelune-0",
+          "name": "Ordelune",
           "mode": "sea"
         }
       ],
@@ -254656,6 +254856,16 @@
           "id": "isle52-ashalai-0",
           "name": "Ashala",
           "mode": "sea"
+        },
+        {
+          "id": "vesalius-port-1",
+          "name": "Serravole",
+          "mode": "sea"
+        },
+        {
+          "id": "port47-isle118",
+          "name": "Veltrund",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Merovian Island Republic island table",
@@ -254733,6 +254943,11 @@
         {
           "id": "isle52-merovia-1",
           "name": "Iveran",
+          "mode": "sea"
+        },
+        {
+          "id": "port47-isle118",
+          "name": "Veltrund",
           "mode": "sea"
         }
       ],
@@ -254856,6 +255071,11 @@
           "id": "port47-isle86",
           "name": "Marcavisse",
           "mode": "sea"
+        },
+        {
+          "id": "port47-isle104",
+          "name": "Seldren",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Kingdom of Istrana island table",
@@ -254899,6 +255119,11 @@
         {
           "id": "isle52-talasca-1",
           "name": "Rovaro",
+          "mode": "sea"
+        },
+        {
+          "id": "morholt-port-1",
+          "name": "Varkessant",
           "mode": "sea"
         }
       ],
@@ -254978,6 +255203,11 @@
           "id": "port47-other-morholt-1880",
           "name": "Trelovre",
           "mode": "sea"
+        },
+        {
+          "id": "port47-isle106",
+          "name": "Cersund",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Edrask Governorate island table",
@@ -255021,6 +255251,11 @@
         {
           "id": "isle52-talasca-0",
           "name": "Talasca",
+          "mode": "sea"
+        },
+        {
+          "id": "isle52-talasca-1",
+          "name": "Rovaro",
           "mode": "sea"
         }
       ],
@@ -255100,6 +255335,16 @@
           "id": "port47-vardol",
           "name": "Calvessac",
           "mode": "sea"
+        },
+        {
+          "id": "port47-isle115",
+          "name": "Rovensac",
+          "mode": "sea"
+        },
+        {
+          "id": "port47-caldrienne",
+          "name": "Cressavelle",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Norrakai Moots island table",
@@ -255138,6 +255383,11 @@
         {
           "id": "port47-galdresk",
           "name": "Orlavik",
+          "mode": "sea"
+        },
+        {
+          "id": "port47-other-morholt-1880",
+          "name": "Trelovre",
           "mode": "sea"
         }
       ],
@@ -256904,1214 +257154,6 @@
       "to": "miravelle"
     },
     {
-      "id": "otranto-port-1--morholt-port-0",
-      "from": "otranto-port-1",
-      "to": "morholt-port-0",
-      "mode": "sea",
-      "points": [
-        [
-          1135.1976,
-          1017.2192
-        ],
-        [
-          1137.0,
-          1023.0
-        ],
-        [
-          1563.0,
-          1023.0
-        ],
-        [
-          1569.0,
-          1029.0
-        ],
-        [
-          1647.0,
-          1029.0
-        ],
-        [
-          1767.0,
-          1149.0
-        ],
-        [
-          1773.0,
-          1149.0
-        ],
-        [
-          1779.0,
-          1155.0
-        ],
-        [
-          1785.0,
-          1155.0
-        ],
-        [
-          1791.0,
-          1161.0
-        ],
-        [
-          1803.0,
-          1161.0
-        ],
-        [
-          1809.0,
-          1167.0
-        ],
-        [
-          1827.0,
-          1167.0
-        ],
-        [
-          1833.0,
-          1173.0
-        ],
-        [
-          1839.0,
-          1173.0
-        ],
-        [
-          1845.0,
-          1179.0
-        ],
-        [
-          1905.0,
-          1179.0
-        ],
-        [
-          1911.0,
-          1173.0
-        ],
-        [
-          1929.0,
-          1173.0
-        ],
-        [
-          1935.0,
-          1167.0
-        ],
-        [
-          1941.0,
-          1167.0
-        ],
-        [
-          1971.0,
-          1137.0
-        ],
-        [
-          1977.0,
-          1137.0
-        ],
-        [
-          2013.0,
-          1101.0
-        ],
-        [
-          2019.0,
-          1101.0
-        ],
-        [
-          2025.0,
-          1095.0
-        ],
-        [
-          2031.0,
-          1095.0
-        ],
-        [
-          2037.0,
-          1089.0
-        ],
-        [
-          2061.0,
-          1089.0
-        ],
-        [
-          2067.0,
-          1083.0
-        ],
-        [
-          2109.0,
-          1083.0
-        ],
-        [
-          2115.0,
-          1077.0
-        ],
-        [
-          2151.0,
-          1077.0
-        ],
-        [
-          2157.0,
-          1071.0
-        ],
-        [
-          2169.0,
-          1071.0
-        ],
-        [
-          2175.0,
-          1065.0
-        ],
-        [
-          2181.0,
-          1065.0
-        ],
-        [
-          2193.0,
-          1053.0
-        ],
-        [
-          2199.0,
-          1053.0
-        ],
-        [
-          2517.0,
-          735.0
-        ],
-        [
-          2523.0,
-          735.0
-        ],
-        [
-          2529.0,
-          729.0
-        ],
-        [
-          2535.0,
-          729.0
-        ],
-        [
-          2541.0,
-          723.0
-        ],
-        [
-          2547.0,
-          723.0
-        ],
-        [
-          2553.0,
-          717.0
-        ],
-        [
-          2565.0,
-          717.0
-        ],
-        [
-          2571.0,
-          711.0
-        ],
-        [
-          2577.0,
-          711.0
-        ],
-        [
-          2583.0,
-          705.0
-        ],
-        [
-          2589.0,
-          705.0
-        ],
-        [
-          2595.0,
-          699.0
-        ],
-        [
-          2601.0,
-          699.0
-        ],
-        [
-          2607.0,
-          693.0
-        ],
-        [
-          2613.0,
-          693.0
-        ],
-        [
-          2619.0,
-          687.0
-        ],
-        [
-          2631.0,
-          687.0
-        ],
-        [
-          2637.0,
-          681.0
-        ],
-        [
-          2643.0,
-          681.0
-        ],
-        [
-          2649.0,
-          675.0
-        ],
-        [
-          2655.0,
-          675.0
-        ],
-        [
-          2661.0,
-          669.0
-        ],
-        [
-          2667.0,
-          669.0
-        ],
-        [
-          2673.0,
-          663.0
-        ],
-        [
-          2679.0,
-          663.0
-        ],
-        [
-          2685.0,
-          657.0
-        ],
-        [
-          2697.0,
-          657.0
-        ],
-        [
-          2703.0,
-          651.0
-        ],
-        [
-          2709.0,
-          651.0
-        ],
-        [
-          2715.0,
-          645.0
-        ],
-        [
-          2721.0,
-          645.0
-        ],
-        [
-          2727.0,
-          639.0
-        ],
-        [
-          2733.0,
-          639.0
-        ],
-        [
-          2739.0,
-          633.0
-        ],
-        [
-          2751.0,
-          633.0
-        ],
-        [
-          2757.0,
-          627.0
-        ],
-        [
-          2752.9416,
-          626.0784
-        ]
-      ],
-      "status": "principal shipping corridor; no fixed timetable"
-    },
-    {
-      "id": "morholt-port-1--vesalius-port-0",
-      "from": "morholt-port-1",
-      "to": "vesalius-port-0",
-      "mode": "sea",
-      "points": [
-        [
-          3163.4648,
-          484.1232
-        ],
-        [
-          3165.0,
-          489.0
-        ],
-        [
-          3159.0,
-          495.0
-        ],
-        [
-          3153.0,
-          495.0
-        ],
-        [
-          3147.0,
-          501.0
-        ],
-        [
-          3135.0,
-          501.0
-        ],
-        [
-          3129.0,
-          507.0
-        ],
-        [
-          3099.0,
-          507.0
-        ],
-        [
-          3027.0,
-          579.0
-        ],
-        [
-          2991.0,
-          579.0
-        ],
-        [
-          2973.0,
-          597.0
-        ],
-        [
-          2967.0,
-          597.0
-        ],
-        [
-          2961.0,
-          603.0
-        ],
-        [
-          2799.0,
-          603.0
-        ],
-        [
-          2793.0,
-          609.0
-        ],
-        [
-          2787.0,
-          609.0
-        ],
-        [
-          2781.0,
-          615.0
-        ],
-        [
-          2769.0,
-          615.0
-        ],
-        [
-          2751.0,
-          633.0
-        ],
-        [
-          2577.0,
-          633.0
-        ],
-        [
-          2493.0,
-          549.0
-        ],
-        [
-          2223.0,
-          549.0
-        ],
-        [
-          2019.0,
-          345.0
-        ],
-        [
-          2013.0,
-          345.0
-        ],
-        [
-          2001.0,
-          333.0
-        ],
-        [
-          1995.0,
-          333.0
-        ],
-        [
-          1989.0,
-          327.0
-        ],
-        [
-          1983.0,
-          327.0
-        ],
-        [
-          1971.0,
-          315.0
-        ],
-        [
-          1965.0,
-          315.0
-        ],
-        [
-          1959.0,
-          309.0
-        ],
-        [
-          1935.0,
-          309.0
-        ],
-        [
-          1911.0,
-          285.0
-        ],
-        [
-          1899.0,
-          285.0
-        ],
-        [
-          1887.0,
-          273.0
-        ],
-        [
-          1863.0,
-          273.0
-        ],
-        [
-          1851.0,
-          261.0
-        ],
-        [
-          1833.0,
-          261.0
-        ],
-        [
-          1827.0,
-          267.0
-        ],
-        [
-          1803.0,
-          267.0
-        ],
-        [
-          1797.0,
-          273.0
-        ],
-        [
-          1791.0,
-          273.0
-        ],
-        [
-          1773.0,
-          291.0
-        ],
-        [
-          1767.0,
-          291.0
-        ],
-        [
-          1761.0,
-          297.0
-        ],
-        [
-          1755.0,
-          297.0
-        ],
-        [
-          1749.0,
-          303.0
-        ],
-        [
-          1737.0,
-          303.0
-        ],
-        [
-          1731.0,
-          309.0
-        ],
-        [
-          1719.0,
-          309.0
-        ],
-        [
-          1713.0,
-          315.0
-        ],
-        [
-          1701.0,
-          315.0
-        ],
-        [
-          1695.0,
-          321.0
-        ],
-        [
-          1683.0,
-          321.0
-        ],
-        [
-          1677.0,
-          327.0
-        ],
-        [
-          1665.0,
-          327.0
-        ],
-        [
-          1659.0,
-          333.0
-        ],
-        [
-          1641.0,
-          333.0
-        ],
-        [
-          1635.0,
-          339.0
-        ],
-        [
-          1629.0,
-          339.0
-        ],
-        [
-          1623.0,
-          345.0
-        ],
-        [
-          1605.0,
-          345.0
-        ],
-        [
-          1599.0,
-          351.0
-        ],
-        [
-          1575.0,
-          351.0
-        ],
-        [
-          1569.0,
-          357.0
-        ],
-        [
-          1551.0,
-          357.0
-        ],
-        [
-          1545.0,
-          363.0
-        ],
-        [
-          1533.0,
-          363.0
-        ],
-        [
-          1527.0,
-          369.0
-        ],
-        [
-          1521.0,
-          369.0
-        ],
-        [
-          1515.0,
-          375.0
-        ],
-        [
-          1509.0,
-          375.0
-        ],
-        [
-          1503.0,
-          381.0
-        ],
-        [
-          1497.0,
-          381.0
-        ],
-        [
-          1479.0,
-          399.0
-        ],
-        [
-          1479.0,
-          405.0
-        ],
-        [
-          1473.0,
-          411.0
-        ],
-        [
-          1473.0,
-          417.0
-        ],
-        [
-          1467.0,
-          423.0
-        ],
-        [
-          1467.0,
-          471.0
-        ],
-        [
-          1473.0,
-          477.0
-        ],
-        [
-          1473.0,
-          483.0
-        ],
-        [
-          1503.0,
-          513.0
-        ],
-        [
-          1503.0,
-          519.0
-        ],
-        [
-          1521.0,
-          537.0
-        ],
-        [
-          1521.0,
-          543.0
-        ],
-        [
-          1527.0,
-          549.0
-        ],
-        [
-          1527.0,
-          555.0
-        ],
-        [
-          1533.0,
-          561.0
-        ],
-        [
-          1533.0,
-          573.0
-        ],
-        [
-          1539.0,
-          579.0
-        ],
-        [
-          1539.0,
-          585.0
-        ],
-        [
-          1545.0,
-          591.0
-        ],
-        [
-          1545.0,
-          597.0
-        ],
-        [
-          1551.0,
-          603.0
-        ],
-        [
-          1551.0,
-          609.0
-        ],
-        [
-          1557.0,
-          615.0
-        ],
-        [
-          1557.0,
-          627.0
-        ],
-        [
-          1563.0,
-          633.0
-        ],
-        [
-          1570.7395,
-          630.824
-        ]
-      ],
-      "status": "principal shipping corridor; no fixed timetable"
-    },
-    {
-      "id": "otranto-port-2--vesalius-port-0",
-      "from": "otranto-port-2",
-      "to": "vesalius-port-0",
-      "mode": "sea",
-      "points": [
-        [
-          917.6856,
-          1421.076
-        ],
-        [
-          915.0,
-          1425.0
-        ],
-        [
-          921.0,
-          1425.0
-        ],
-        [
-          1005.0,
-          1341.0
-        ],
-        [
-          1077.0,
-          1341.0
-        ],
-        [
-          1125.0,
-          1293.0
-        ],
-        [
-          1131.0,
-          1293.0
-        ],
-        [
-          1137.0,
-          1287.0
-        ],
-        [
-          1143.0,
-          1287.0
-        ],
-        [
-          1371.0,
-          1059.0
-        ],
-        [
-          1371.0,
-          1053.0
-        ],
-        [
-          1377.0,
-          1047.0
-        ],
-        [
-          1377.0,
-          1041.0
-        ],
-        [
-          1383.0,
-          1035.0
-        ],
-        [
-          1383.0,
-          1023.0
-        ],
-        [
-          1389.0,
-          1017.0
-        ],
-        [
-          1389.0,
-          1011.0
-        ],
-        [
-          1395.0,
-          1005.0
-        ],
-        [
-          1395.0,
-          999.0
-        ],
-        [
-          1401.0,
-          993.0
-        ],
-        [
-          1401.0,
-          987.0
-        ],
-        [
-          1407.0,
-          981.0
-        ],
-        [
-          1407.0,
-          975.0
-        ],
-        [
-          1413.0,
-          969.0
-        ],
-        [
-          1413.0,
-          957.0
-        ],
-        [
-          1419.0,
-          951.0
-        ],
-        [
-          1419.0,
-          945.0
-        ],
-        [
-          1425.0,
-          939.0
-        ],
-        [
-          1425.0,
-          933.0
-        ],
-        [
-          1431.0,
-          927.0
-        ],
-        [
-          1431.0,
-          921.0
-        ],
-        [
-          1437.0,
-          915.0
-        ],
-        [
-          1437.0,
-          807.0
-        ],
-        [
-          1443.0,
-          801.0
-        ],
-        [
-          1443.0,
-          783.0
-        ],
-        [
-          1449.0,
-          777.0
-        ],
-        [
-          1449.0,
-          765.0
-        ],
-        [
-          1455.0,
-          759.0
-        ],
-        [
-          1455.0,
-          753.0
-        ],
-        [
-          1467.0,
-          741.0
-        ],
-        [
-          1467.0,
-          699.0
-        ],
-        [
-          1509.0,
-          657.0
-        ],
-        [
-          1515.0,
-          657.0
-        ],
-        [
-          1521.0,
-          651.0
-        ],
-        [
-          1527.0,
-          651.0
-        ],
-        [
-          1533.0,
-          645.0
-        ],
-        [
-          1539.0,
-          645.0
-        ],
-        [
-          1545.0,
-          639.0
-        ],
-        [
-          1551.0,
-          639.0
-        ],
-        [
-          1557.0,
-          633.0
-        ],
-        [
-          1570.7395,
-          630.824
-        ]
-      ],
-      "status": "principal shipping corridor; no fixed timetable"
-    },
-    {
-      "id": "vesalius-port-0--vesalius-port-1",
-      "from": "vesalius-port-0",
-      "to": "vesalius-port-1",
-      "mode": "sea",
-      "points": [
-        [
-          1570.7395,
-          630.824
-        ],
-        [
-          1563.0,
-          633.0
-        ],
-        [
-          1557.0,
-          639.0
-        ],
-        [
-          1551.0,
-          639.0
-        ],
-        [
-          1533.0,
-          657.0
-        ],
-        [
-          1509.0,
-          657.0
-        ],
-        [
-          1467.0,
-          699.0
-        ],
-        [
-          1467.0,
-          741.0
-        ],
-        [
-          1455.0,
-          753.0
-        ],
-        [
-          1455.0,
-          759.0
-        ],
-        [
-          1449.0,
-          765.0
-        ],
-        [
-          1449.0,
-          777.0
-        ],
-        [
-          1443.0,
-          783.0
-        ],
-        [
-          1443.0,
-          801.0
-        ],
-        [
-          1437.0,
-          807.0
-        ],
-        [
-          1437.0,
-          837.0
-        ],
-        [
-          1443.0,
-          843.0
-        ],
-        [
-          1443.0,
-          873.0
-        ],
-        [
-          1449.0,
-          879.0
-        ],
-        [
-          1449.0,
-          885.0
-        ],
-        [
-          1455.0,
-          891.0
-        ],
-        [
-          1455.0,
-          897.0
-        ],
-        [
-          1467.0,
-          909.0
-        ],
-        [
-          1467.0,
-          915.0
-        ],
-        [
-          1491.0,
-          939.0
-        ],
-        [
-          1497.0,
-          939.0
-        ],
-        [
-          1533.0,
-          975.0
-        ],
-        [
-          1539.0,
-          975.0
-        ],
-        [
-          1551.0,
-          987.0
-        ],
-        [
-          1557.0,
-          987.0
-        ],
-        [
-          1563.0,
-          993.0
-        ],
-        [
-          1569.0,
-          993.0
-        ],
-        [
-          1575.0,
-          999.0
-        ],
-        [
-          1581.0,
-          999.0
-        ],
-        [
-          1761.0,
-          1179.0
-        ],
-        [
-          1905.0,
-          1179.0
-        ],
-        [
-          1911.0,
-          1173.0
-        ],
-        [
-          1929.0,
-          1173.0
-        ],
-        [
-          1935.0,
-          1167.0
-        ],
-        [
-          1941.0,
-          1167.0
-        ],
-        [
-          1971.0,
-          1137.0
-        ],
-        [
-          1977.0,
-          1137.0
-        ],
-        [
-          2013.0,
-          1101.0
-        ],
-        [
-          2019.0,
-          1101.0
-        ],
-        [
-          2025.0,
-          1095.0
-        ],
-        [
-          2031.0,
-          1095.0
-        ],
-        [
-          2037.0,
-          1089.0
-        ],
-        [
-          2061.0,
-          1089.0
-        ],
-        [
-          2067.0,
-          1083.0
-        ],
-        [
-          2109.0,
-          1083.0
-        ],
-        [
-          2115.0,
-          1077.0
-        ],
-        [
-          2151.0,
-          1077.0
-        ],
-        [
-          2157.0,
-          1071.0
-        ],
-        [
-          2169.0,
-          1071.0
-        ],
-        [
-          2175.0,
-          1065.0
-        ],
-        [
-          2181.0,
-          1065.0
-        ],
-        [
-          2193.0,
-          1053.0
-        ],
-        [
-          2199.0,
-          1053.0
-        ],
-        [
-          2223.0,
-          1029.0
-        ],
-        [
-          2223.0,
-          1023.0
-        ],
-        [
-          2235.0,
-          1011.0
-        ],
-        [
-          2235.0,
-          1005.0
-        ],
-        [
-          2241.0,
-          999.0
-        ],
-        [
-          2241.0,
-          987.0
-        ],
-        [
-          2238.66121,
-          987.863
-        ]
-      ],
-      "status": "principal shipping corridor; no fixed timetable"
-    },
-    {
       "id": "serravonne--vesalius-port-1",
       "from": "serravonne",
       "to": "vesalius-port-1",
@@ -258122,103 +257164,68 @@
           550.0
         ],
         [
-          1941.0,
-          549.0
+          1944.0,
+          552.0
         ],
         [
-          1947.0,
-          555.0
+          1956.0,
+          576.0
         ],
         [
-          1947.0,
-          567.0
+          1984.2,
+          613.8
         ],
         [
-          2007.0,
-          627.0
+          2012.4,
+          651.6
         ],
         [
-          2007.0,
-          639.0
+          2040.6,
+          689.4
         ],
         [
-          2031.0,
-          663.0
+          2068.8,
+          727.2
         ],
         [
-          2031.0,
-          699.0
+          2097.0,
+          765.0
         ],
         [
-          2163.0,
-          831.0
+          2125.2,
+          802.8
         ],
         [
-          2163.0,
-          843.0
+          2153.4,
+          840.6
         ],
         [
-          2187.0,
-          867.0
+          2181.6,
+          878.4
         ],
         [
-          2187.0,
-          873.0
+          2209.8,
+          916.2
         ],
         [
-          2193.0,
-          879.0
+          2238.0,
+          954.0
         ],
         [
-          2193.0,
-          885.0
-        ],
-        [
-          2199.0,
-          891.0
-        ],
-        [
-          2199.0,
-          897.0
-        ],
-        [
-          2205.0,
-          903.0
-        ],
-        [
-          2205.0,
-          909.0
-        ],
-        [
-          2235.0,
-          939.0
-        ],
-        [
-          2235.0,
-          945.0
-        ],
-        [
-          2241.0,
-          951.0
-        ],
-        [
-          2241.0,
-          957.0
-        ],
-        [
-          2247.0,
-          963.0
-        ],
-        [
-          2247.0,
-          981.0
+          2244.0,
+          990.0
         ],
         [
           2238.66121,
           987.863
         ]
       ],
-      "status": "principal shipping corridor; no fixed timetable"
+      "status": "principal shipping corridor; no fixed timetable",
+      "wrap_longitude": false,
+      "distance_km": 5399.2,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "link-57",
@@ -292362,19 +291369,11 @@
       "points": [
         [
           1962.43382,
-          555
+          555.0
         ],
         [
-          1959,
-          547
-        ],
-        [
-          1966,
-          539
-        ],
-        [
-          1969,
-          528
+          1968.0,
+          528.0
         ],
         [
           1970.63531,
@@ -292382,7 +291381,12 @@
         ]
       ],
       "status": "Established island coaster passage; sailings depend on weather and harbour conditions.",
-      "survey_revision": 45
+      "survey_revision": 45,
+      "wrap_longitude": false,
+      "distance_km": 297.7,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "dalmor-montelisse",
@@ -292392,19 +291396,11 @@
       "points": [
         [
           1962.43382,
-          555
+          555.0
         ],
         [
-          1960,
-          560
-        ],
-        [
-          1961,
-          574
-        ],
-        [
-          1970,
-          580
+          1974.0,
+          582.0
         ],
         [
           1976.20732,
@@ -292412,7 +291408,12 @@
         ]
       ],
       "status": "Established island coaster passage; sailings depend on weather and harbour conditions.",
-      "survey_revision": 45
+      "survey_revision": 45,
+      "wrap_longitude": false,
+      "distance_km": 306.0,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "harbour-road47-veldrassen",
@@ -295015,16 +294016,48 @@
           859.80173
         ],
         [
-          144.0,
-          888.0
+          150.0,
+          882.0
         ],
         [
-          126.0,
-          978.0
+          150.0,
+          912.0
+        ],
+        [
+          150.0,
+          942.0
         ],
         [
           162.0,
-          1206.0
+          960.0
+        ],
+        [
+          163.2,
+          1000.8
+        ],
+        [
+          164.4,
+          1041.6
+        ],
+        [
+          165.6,
+          1082.4
+        ],
+        [
+          166.8,
+          1123.2
+        ],
+        [
+          168.0,
+          1164.0
+        ],
+        [
+          189.0,
+          1182.0
+        ],
+        [
+          210.0,
+          1200.0
         ],
         [
           246.0232,
@@ -295034,7 +294067,12 @@
       "from": "port47-other-otranto-400",
       "to": "otranto-port-0",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 4015.3,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-otranto-port-0--port47-other-otranto-700",
@@ -295060,7 +294098,12 @@
       "from": "otranto-port-0",
       "to": "port47-other-otranto-700",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 3625.1,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-other-otranto-700--otranto-port-2",
@@ -295090,7 +294133,12 @@
       "from": "port47-other-otranto-700",
       "to": "otranto-port-2",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 2089.9,
+      "service_class": "regional passage",
+      "seasonality": "Seasonal high-latitude service; ice and weather notices required.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-otranto-port-2--port47-ossavren",
@@ -295112,7 +294160,12 @@
       "from": "otranto-port-2",
       "to": "port47-ossavren",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 1486.9,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-ossavren--otranto-port-1",
@@ -295142,7 +294195,12 @@
       "from": "port47-ossavren",
       "to": "otranto-port-1",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 3660.8,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-otranto-port-1--port47-ostrevain",
@@ -295172,7 +294230,12 @@
       "from": "otranto-port-1",
       "to": "port47-ostrevain",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 2765.6,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-ostrevain--port47-other-otranto-1100",
@@ -295198,7 +294261,12 @@
       "from": "port47-ostrevain",
       "to": "port47-other-otranto-1100",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 2754.2,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-other-otranto-1100--port47-veldrassen",
@@ -295224,7 +294292,12 @@
       "from": "port47-other-otranto-1100",
       "to": "port47-veldrassen",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 2169.9,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-veldrassen--port47-other-otranto-400",
@@ -295246,7 +294319,12 @@
       "from": "port47-veldrassen",
       "to": "port47-other-otranto-400",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 3934.9,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-halskert--morholt-port-1",
@@ -295268,7 +294346,12 @@
       "from": "port47-halskert",
       "to": "morholt-port-1",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 1199.6,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-morholt-port-1--port47-galdresk",
@@ -295298,7 +294381,12 @@
       "from": "morholt-port-1",
       "to": "port47-galdresk",
       "status": "Coastal freight and passenger passage. Seasonal ice and weather can suspend northern calls.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 2883.9,
+      "service_class": "regional passage",
+      "seasonality": "Seasonal high-latitude service; ice and weather notices required.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-galdresk--port47-other-morholt-2190",
@@ -295310,11 +294398,19 @@
         ],
         [
           2994.0,
-          216.0
+          222.0
         ],
         [
-          2934.0,
-          198.0
+          2958.0,
+          204.0
+        ],
+        [
+          2911.2773,
+          208.71875
+        ],
+        [
+          2864.55459,
+          213.43751
         ],
         [
           2817.83189,
@@ -295324,7 +294420,12 @@
       "from": "port47-galdresk",
       "to": "port47-other-morholt-2190",
       "status": "Coastal freight and passenger passage. Seasonal ice and weather can suspend northern calls.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 913.6,
+      "service_class": "local feeder",
+      "seasonality": "Seasonal high-latitude service; ice and weather notices required.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-other-morholt-2190--port47-other-morholt-1880",
@@ -295346,7 +294447,12 @@
       "from": "port47-other-morholt-2190",
       "to": "port47-other-morholt-1880",
       "status": "Coastal freight and passenger passage. Seasonal ice and weather can suspend northern calls.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 1250.6,
+      "service_class": "regional passage",
+      "seasonality": "Seasonal high-latitude service; ice and weather notices required.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-other-morholt-1880--port47-varnesk",
@@ -295384,7 +294490,12 @@
       "from": "port47-other-morholt-1880",
       "to": "port47-varnesk",
       "status": "Coastal freight and passenger passage. Seasonal ice and weather can suspend northern calls.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 4435.4,
+      "service_class": "ocean passage",
+      "seasonality": "Seasonal high-latitude service; ice and weather notices required.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-varnesk--morholt-port-0",
@@ -295395,16 +294506,28 @@
           524.65039
         ],
         [
-          2676.0,
+          2637.99314,
+          551.76693
+        ],
+        [
+          2659.99657,
+          578.88346
+        ],
+        [
+          2682.0,
           606.0
         ],
         [
-          2706.0,
+          2700.0,
+          618.0
+        ],
+        [
+          2727.0,
           624.0
         ],
         [
           2754.0,
-          636.0
+          630.0
         ],
         [
           2752.9416,
@@ -295414,7 +294537,12 @@
       "from": "port47-varnesk",
       "to": "morholt-port-0",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 1714.0,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-morholt-port-0--port47-halskert",
@@ -295425,12 +294553,28 @@
           626.0784
         ],
         [
-          2940.0,
-          618.0
+          2798.4708,
+          613.0392
         ],
         [
-          3006.0,
-          564.0
+          2844.0,
+          600.0
+        ],
+        [
+          2886.0,
+          598.0
+        ],
+        [
+          2928.0,
+          596.0
+        ],
+        [
+          2970.0,
+          594.0
+        ],
+        [
+          2994.98582,
+          554.97389
         ],
         [
           3019.97163,
@@ -295440,7 +294584,12 @@
       "from": "morholt-port-0",
       "to": "port47-halskert",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 2812.1,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-gavrel--vesalius-port-1",
@@ -295466,7 +294615,12 @@
       "from": "port47-gavrel",
       "to": "vesalius-port-1",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 3132.2,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-vesalius-port-1--port47-other-vesalius-3160",
@@ -295496,7 +294650,12 @@
       "from": "vesalius-port-1",
       "to": "port47-other-vesalius-3160",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 2730.2,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-other-vesalius-3160--port47-kelbrun",
@@ -295514,7 +294673,12 @@
       "from": "port47-other-vesalius-3160",
       "to": "port47-kelbrun",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 797.4,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-kelbrun--port47-calvernis",
@@ -295536,7 +294700,12 @@
       "from": "port47-kelbrun",
       "to": "port47-calvernis",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 2005.2,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-calvernis--serravonne",
@@ -295562,7 +294731,12 @@
       "from": "port47-calvernis",
       "to": "serravonne",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 527.9,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-serravonne--port47-caldrienne",
@@ -295577,8 +294751,12 @@
           546.0
         ],
         [
-          1932.0,
-          480.0
+          1941.0,
+          519.0
+        ],
+        [
+          1938.0,
+          492.0
         ],
         [
           1921.38882,
@@ -295588,7 +294766,12 @@
       "from": "serravonne",
       "to": "port47-caldrienne",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 797.6,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-caldrienne--port47-vardol",
@@ -295599,16 +294782,44 @@
           480.0
         ],
         [
-          2046.0,
+          1958.92588,
+          448.0
+        ],
+        [
+          1996.46294,
+          416.0
+        ],
+        [
+          2034.0,
           384.0
         ],
         [
-          2010.0,
+          2016.0,
+          360.0
+        ],
+        [
+          1998.0,
           336.0
         ],
         [
-          1842.0,
-          258.0
+          1962.0,
+          318.0
+        ],
+        [
+          1926.0,
+          300.0
+        ],
+        [
+          1890.0,
+          282.0
+        ],
+        [
+          1854.0,
+          264.0
+        ],
+        [
+          1815.0,
+          273.0
         ],
         [
           1776.0,
@@ -295622,7 +294833,12 @@
       "from": "port47-caldrienne",
       "to": "port47-vardol",
       "status": "Coastal freight and passenger passage. Seasonal ice and weather can suspend northern calls.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 3345.7,
+      "service_class": "regional passage",
+      "seasonality": "Seasonal high-latitude service; ice and weather notices required.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-vardol--port47-averholt",
@@ -295640,7 +294856,12 @@
       "from": "port47-vardol",
       "to": "port47-averholt",
       "status": "Coastal freight and passenger passage. Seasonal ice and weather can suspend northern calls.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 989.9,
+      "service_class": "local feeder",
+      "seasonality": "Seasonal high-latitude service; ice and weather notices required.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-averholt--vesalius-port-0",
@@ -295670,7 +294891,12 @@
       "from": "port47-averholt",
       "to": "vesalius-port-0",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 3508.7,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-vesalius-port-0--port47-other-vesalius-2790",
@@ -295681,8 +294907,24 @@
           630.824
         ],
         [
-          1464.0,
-          702.0
+          1547.15967,
+          660.54933
+        ],
+        [
+          1523.57983,
+          690.27467
+        ],
+        [
+          1500.0,
+          720.0
+        ],
+        [
+          1479.0,
+          738.0
+        ],
+        [
+          1458.0,
+          756.0
         ],
         [
           1460.00579,
@@ -295692,7 +294934,12 @@
       "from": "vesalius-port-0",
       "to": "port47-other-vesalius-2790",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 1666.2,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-other-vesalius-2790--port47-other-vesalius-2790-1410",
@@ -295718,7 +294965,12 @@
       "from": "port47-other-vesalius-2790",
       "to": "port47-other-vesalius-2790-1410",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 1958.1,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-other-vesalius-2790-1410--port47-gavrel",
@@ -295752,7 +295004,12 @@
       "from": "port47-other-vesalius-2790-1410",
       "to": "port47-gavrel",
       "status": "Coastal freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 5502.2,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-other-otranto-400--port47-isle83",
@@ -295770,7 +295027,12 @@
       "from": "port47-other-otranto-400",
       "to": "port47-isle83",
       "status": "Island supply, ferry and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 363.9,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-otranto-port-0--port47-isle86",
@@ -295788,7 +295050,12 @@
       "from": "otranto-port-0",
       "to": "port47-isle86",
       "status": "Island supply, ferry and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 658.3,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-other-otranto-700--port47-isle90",
@@ -295806,7 +295073,12 @@
       "from": "port47-other-otranto-700",
       "to": "port47-isle90",
       "status": "Island supply, ferry and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 502.9,
+      "service_class": "local feeder",
+      "seasonality": "Seasonal high-latitude service; ice and weather notices required.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-otranto-port-2--port47-isle92",
@@ -295824,7 +295096,12 @@
       "from": "otranto-port-2",
       "to": "port47-isle92",
       "status": "Island supply, ferry and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 275.6,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-ossavren--port47-isle93",
@@ -295842,7 +295119,12 @@
       "from": "port47-ossavren",
       "to": "port47-isle93",
       "status": "Island supply, ferry and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 234.3,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-otranto-port-1--port47-isle94",
@@ -295860,7 +295142,12 @@
       "from": "otranto-port-1",
       "to": "port47-isle94",
       "status": "Island supply, ferry and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 2376.7,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-otranto-port-1--port47-isle95",
@@ -295878,7 +295165,12 @@
       "from": "otranto-port-1",
       "to": "port47-isle95",
       "status": "Island supply, ferry and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 974.8,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-otranto-port-1--port47-isle96",
@@ -295896,7 +295188,12 @@
       "from": "otranto-port-1",
       "to": "port47-isle96",
       "status": "Island supply, ferry and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 672.3,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-isle94--port47-isle95",
@@ -295922,7 +295219,12 @@
       "from": "port47-isle94",
       "to": "port47-isle95",
       "status": "Inter-island coaster and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 1483.8,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-isle95--port47-isle96",
@@ -295940,7 +295242,12 @@
       "from": "port47-isle95",
       "to": "port47-isle96",
       "status": "Inter-island coaster and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 1401.2,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-ostrevain--port47-isle97",
@@ -295958,7 +295265,12 @@
       "from": "port47-ostrevain",
       "to": "port47-isle97",
       "status": "Island supply, ferry and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 869.3,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-other-otranto-1100--port47-isle99",
@@ -295976,7 +295288,12 @@
       "from": "port47-other-otranto-1100",
       "to": "port47-isle99",
       "status": "Island supply, ferry and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 698.5,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-morholt-port-0--port47-isle118",
@@ -295994,7 +295311,12 @@
       "from": "morholt-port-0",
       "to": "port47-isle118",
       "status": "Island supply, ferry and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 487.0,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-halskert--port47-isle104",
@@ -296016,7 +295338,12 @@
       "from": "port47-halskert",
       "to": "port47-isle104",
       "status": "Island supply, ferry and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 1262.2,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-morholt-port-1--port47-isle106",
@@ -296034,7 +295361,12 @@
       "from": "morholt-port-1",
       "to": "port47-isle106",
       "status": "Island supply, ferry and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 489.9,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-other-morholt-1880--port47-isle115",
@@ -296064,7 +295396,12 @@
       "from": "port47-other-morholt-1880",
       "to": "port47-isle115",
       "status": "Island supply, ferry and replenishment passage. Seasonal ice and weather can suspend northern calls.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 1938.8,
+      "service_class": "regional passage",
+      "seasonality": "Seasonal high-latitude service; ice and weather notices required.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-gavrel--port47-isle119",
@@ -296090,7 +295427,12 @@
       "from": "port47-gavrel",
       "to": "port47-isle119",
       "status": "Island supply, ferry and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 1978.2,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-vesalius-port-1--port47-isle122",
@@ -296108,7 +295450,12 @@
       "from": "vesalius-port-1",
       "to": "port47-isle122",
       "status": "Island supply, ferry and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 881.3,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-other-vesalius-3160--port47-isle124",
@@ -296126,7 +295473,12 @@
       "from": "port47-other-vesalius-3160",
       "to": "port47-isle124",
       "status": "Island supply, ferry and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 332.3,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-kelbrun--port47-isle125",
@@ -296148,7 +295500,12 @@
       "from": "port47-kelbrun",
       "to": "port47-isle125",
       "status": "Island supply, ferry and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 1085.1,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-vesalius-port-0--port47-isle129",
@@ -296166,7 +295523,12 @@
       "from": "vesalius-port-0",
       "to": "port47-isle129",
       "status": "Island supply, ferry and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 2002.5,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-other-vesalius-2790--port47-isle130",
@@ -296184,7 +295546,12 @@
       "from": "port47-other-vesalius-2790",
       "to": "port47-isle130",
       "status": "Island supply, ferry and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 511.6,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-other-vesalius-2790-1410--port47-isle133",
@@ -296202,7 +295569,12 @@
       "from": "port47-other-vesalius-2790-1410",
       "to": "port47-isle133",
       "status": "Island supply, ferry and replenishment passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 1075.0,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-isle83--port47-isle86",
@@ -296213,16 +295585,44 @@
           823.4412
         ],
         [
-          120.0,
-          978.0
+          162.83525,
+          861.7206
+        ],
+        [
+          150.0,
+          900.0
+        ],
+        [
+          150.0,
+          942.0
         ],
         [
           162.0,
-          1206.0
+          960.0
         ],
         [
-          180.0,
-          1188.0
+          163.2,
+          1003.2
+        ],
+        [
+          164.4,
+          1046.4
+        ],
+        [
+          165.6,
+          1089.6
+        ],
+        [
+          166.8,
+          1132.8
+        ],
+        [
+          168.0,
+          1176.0
+        ],
+        [
+          174.0,
+          1182.0
         ],
         [
           171.2209,
@@ -296232,7 +295632,12 @@
       "from": "port47-isle83",
       "to": "port47-isle86",
       "status": "Coastal island-chain freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 3753.8,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-isle86--port47-isle90",
@@ -296254,7 +295659,12 @@
       "from": "port47-isle86",
       "to": "port47-isle90",
       "status": "Coastal island-chain freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 4225.2,
+      "service_class": "ocean passage",
+      "seasonality": "Seasonal high-latitude service; ice and weather notices required.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-isle90--port47-isle92",
@@ -296272,7 +295682,12 @@
       "from": "port47-isle90",
       "to": "port47-isle92",
       "status": "Coastal island-chain freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 1864.2,
+      "service_class": "regional passage",
+      "seasonality": "Seasonal high-latitude service; ice and weather notices required.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-isle92--port47-isle93",
@@ -296294,7 +295709,12 @@
       "from": "port47-isle92",
       "to": "port47-isle93",
       "status": "Coastal island-chain freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 1477.2,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-isle93--port47-isle94",
@@ -296305,12 +295725,20 @@
           1324.6563
         ],
         [
-          1152.0,
-          1278.0
+          1095.76657,
+          1303.99222
+        ],
+        [
+          1134.51105,
+          1283.32815
+        ],
+        [
+          1173.25553,
+          1262.66408
         ],
         [
           1212.0,
-          1236.0
+          1242.0
         ],
         [
           1211.2134,
@@ -296320,7 +295748,12 @@
       "from": "port47-isle93",
       "to": "port47-isle94",
       "status": "Coastal island-chain freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 1495.0,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-isle96--port47-isle97",
@@ -296342,7 +295775,12 @@
       "from": "port47-isle96",
       "to": "port47-isle97",
       "status": "Coastal island-chain freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 1881.3,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-isle97--port47-isle99",
@@ -296360,7 +295798,12 @@
       "from": "port47-isle97",
       "to": "port47-isle99",
       "status": "Coastal island-chain freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 3204.1,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-isle118--port47-isle104",
@@ -296382,7 +295825,12 @@
       "from": "port47-isle118",
       "to": "port47-isle104",
       "status": "Coastal island-chain freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 2018.2,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-isle104--port47-isle106",
@@ -296400,7 +295848,12 @@
       "from": "port47-isle104",
       "to": "port47-isle106",
       "status": "Coastal island-chain freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 2745.5,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-isle119--port47-isle122",
@@ -296426,7 +295879,12 @@
       "from": "port47-isle119",
       "to": "port47-isle122",
       "status": "Coastal island-chain freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 4463.1,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-isle122--port47-isle124",
@@ -296452,7 +295910,12 @@
       "from": "port47-isle122",
       "to": "port47-isle124",
       "status": "Coastal island-chain freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 3669.8,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-isle124--port47-isle125",
@@ -296463,8 +295926,20 @@
           797.5805
         ],
         [
-          2046.0,
+          2052.0,
           798.0
+        ],
+        [
+          2046.0,
+          780.0
+        ],
+        [
+          2040.01433,
+          735.88747
+        ],
+        [
+          2034.02867,
+          691.77493
         ],
         [
           2028.043,
@@ -296474,7 +295949,12 @@
       "from": "port47-isle124",
       "to": "port47-isle125",
       "status": "Coastal island-chain freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 1568.4,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-isle129--port47-isle130",
@@ -296496,7 +295976,12 @@
       "from": "port47-isle129",
       "to": "port47-isle130",
       "status": "Coastal island-chain freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 2665.6,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-isle130--port47-isle133",
@@ -296522,7 +296007,12 @@
       "from": "port47-isle130",
       "to": "port47-isle133",
       "status": "Coastal island-chain freight and passenger passage. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 3556.7,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-isle94--vesalius-port-0",
@@ -296544,7 +296034,12 @@
       "from": "port47-isle94",
       "to": "vesalius-port-0",
       "status": "Ocean or regional convoy passage with provisioning at the named harbours. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 7162.1,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-isle96--port47-isle129",
@@ -296566,41 +296061,12 @@
       "from": "port47-isle96",
       "to": "port47-isle129",
       "status": "Ocean or regional convoy passage with provisioning at the named harbours. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
-    },
-    {
-      "id": "sea47-port47-isle96--morholt-port-0",
-      "mode": "sea",
-      "points": [
-        [
-          1185.7825,
-          972.1412
-        ],
-        [
-          1194.0,
-          984.0
-        ],
-        [
-          1884.0,
-          1182.0
-        ],
-        [
-          1956.0,
-          1158.0
-        ],
-        [
-          2202.0,
-          1050.0
-        ],
-        [
-          2752.9416,
-          626.0784
-        ]
-      ],
-      "from": "port47-isle96",
-      "to": "morholt-port-0",
-      "status": "Ocean or regional convoy passage with provisioning at the named harbours. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 5830.3,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-isle129--port47-isle115",
@@ -296638,7 +296104,12 @@
       "from": "port47-isle129",
       "to": "port47-isle115",
       "status": "Ocean or regional convoy passage with provisioning at the named harbours. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 6850.0,
+      "service_class": "ocean passage",
+      "seasonality": "Seasonal high-latitude service; ice and weather notices required.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-isle115--morholt-port-0",
@@ -296649,24 +296120,48 @@
           425.6237
         ],
         [
-          2496.0,
-          462.0
+          2477.975,
+          446.81185
         ],
         [
           2502.0,
+          468.0
+        ],
+        [
+          2502.0,
+          498.0
+        ],
+        [
+          2502.0,
+          528.0
+        ],
+        [
+          2514.0,
           558.0
         ],
         [
-          2532.0,
-          576.0
+          2526.0,
+          570.0
         ],
         [
-          2676.0,
-          612.0
+          2571.6,
+          582.0
+        ],
+        [
+          2617.2,
+          594.0
+        ],
+        [
+          2662.8,
+          606.0
+        ],
+        [
+          2708.4,
+          618.0
         ],
         [
           2754.0,
-          636.0
+          630.0
         ],
         [
           2752.9416,
@@ -296676,7 +296171,12 @@
       "from": "port47-isle115",
       "to": "morholt-port-0",
       "status": "Ocean or regional convoy passage with provisioning at the named harbours. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 3716.7,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-isle122--montelisse",
@@ -296702,7 +296202,12 @@
       "from": "port47-isle122",
       "to": "montelisse",
       "status": "Ocean or regional convoy passage with provisioning at the named harbours. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 5757.2,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-calvernis--dalmor",
@@ -296724,7 +296229,12 @@
       "from": "port47-calvernis",
       "to": "dalmor",
       "status": "Ocean or regional convoy passage with provisioning at the named harbours. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 487.3,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-caldrienne--bellavara",
@@ -296735,12 +296245,12 @@
           480.0
         ],
         [
-          1950.0,
-          504.0
+          1956.0,
+          510.0
         ],
         [
           1968.0,
-          534.0
+          528.0
         ],
         [
           1970.63531,
@@ -296750,7 +296260,12 @@
       "from": "port47-caldrienne",
       "to": "bellavara",
       "status": "Ocean or regional convoy passage with provisioning at the named harbours. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 626.2,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea47-port47-other-vesalius-3160--montelisse",
@@ -296772,7 +296287,12 @@
       "from": "port47-other-vesalius-3160",
       "to": "montelisse",
       "status": "Ocean or regional convoy passage with provisioning at the named harbours. Weather, customs and convoy requirements affect sailings.",
-      "editorial_revision": 47
+      "editorial_revision": 47,
+      "wrap_longitude": false,
+      "distance_km": 2595.4,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea52-isle52-varessan-0--isle52-varessan-1",
@@ -296797,7 +296317,12 @@
           545.4578
         ]
       ],
-      "detail": "Inter-island mail, passenger and cargo service; smaller landings use feeder boats. Weather, customs and convoy requirements affect sailings."
+      "detail": "Inter-island mail, passenger and cargo service; smaller landings use feeder boats. Weather, customs and convoy requirements affect sailings.",
+      "wrap_longitude": false,
+      "distance_km": 2585.6,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "road52-varessan",
@@ -296827,15 +296352,36 @@
           691.3416
         ],
         [
-          72,
-          852
+          190.99248,
+          723.47328
+        ],
+        [
+          162.74436,
+          755.60496
+        ],
+        [
+          134.49624,
+          787.73664
+        ],
+        [
+          106.24812,
+          819.86832
+        ],
+        [
+          78.0,
+          852.0
         ],
         [
           78.5127,
           854.0772
         ]
       ],
-      "detail": "Inter-island mail, passenger and cargo service; smaller landings use feeder boats. Weather, customs and convoy requirements affect sailings."
+      "detail": "Inter-island mail, passenger and cargo service; smaller landings use feeder boats. Weather, customs and convoy requirements affect sailings.",
+      "wrap_longitude": false,
+      "distance_km": 2134.6,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "road52-talasca",
@@ -296873,7 +296419,12 @@
           387.4976
         ]
       ],
-      "detail": "Inter-island mail, passenger and cargo service; smaller landings use feeder boats. Weather, customs and convoy requirements affect sailings."
+      "detail": "Inter-island mail, passenger and cargo service; smaller landings use feeder boats. Weather, customs and convoy requirements affect sailings.",
+      "wrap_longitude": false,
+      "distance_km": 1567.3,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "road52-nemerai",
@@ -296911,7 +296462,12 @@
           1230.6423
         ]
       ],
-      "detail": "Inter-island mail, passenger and cargo service; smaller landings use feeder boats. Weather, customs and convoy requirements affect sailings."
+      "detail": "Inter-island mail, passenger and cargo service; smaller landings use feeder boats. Weather, customs and convoy requirements affect sailings.",
+      "wrap_longitude": false,
+      "distance_km": 2542.1,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "road52-ordelune",
@@ -296941,15 +296497,28 @@
           1404.1579
         ],
         [
-          2184,
-          1488
+          2252.27453,
+          1432.10527
+        ],
+        [
+          2221.13727,
+          1460.05263
+        ],
+        [
+          2190.0,
+          1488.0
         ],
         [
           2193.6943,
           1489.8929
         ]
       ],
-      "detail": "Inter-island mail, passenger and cargo service; smaller landings use feeder boats. Weather, customs and convoy requirements affect sailings."
+      "detail": "Inter-island mail, passenger and cargo service; smaller landings use feeder boats. Weather, customs and convoy requirements affect sailings.",
+      "wrap_longitude": false,
+      "distance_km": 1024.7,
+      "service_class": "regional passage",
+      "seasonality": "Seasonal high-latitude service; ice and weather notices required.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "road52-skeldra",
@@ -296987,7 +296556,12 @@
           908.2692
         ]
       ],
-      "detail": "Inter-island mail, passenger and cargo service; smaller landings use feeder boats. Weather, customs and convoy requirements affect sailings."
+      "detail": "Inter-island mail, passenger and cargo service; smaller landings use feeder boats. Weather, customs and convoy requirements affect sailings.",
+      "wrap_longitude": false,
+      "distance_km": 1969.3,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "road52-merovia",
@@ -297029,7 +296603,12 @@
           1030.8832
         ]
       ],
-      "detail": "Inter-island mail, passenger and cargo service; smaller landings use feeder boats. Weather, customs and convoy requirements affect sailings."
+      "detail": "Inter-island mail, passenger and cargo service; smaller landings use feeder boats. Weather, customs and convoy requirements affect sailings.",
+      "wrap_longitude": false,
+      "distance_km": 2010.7,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "road52-ashalai",
@@ -297067,7 +296646,12 @@
           904.0614
         ]
       ],
-      "detail": "Inter-island mail, passenger and cargo service; smaller landings use feeder boats. Weather, customs and convoy requirements affect sailings."
+      "detail": "Inter-island mail, passenger and cargo service; smaller landings use feeder boats. Weather, customs and convoy requirements affect sailings.",
+      "wrap_longitude": false,
+      "distance_km": 2319.6,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "road52-istrana",
@@ -297105,7 +296689,12 @@
           613.54
         ]
       ],
-      "detail": "Inter-island mail, passenger and cargo service; smaller landings use feeder boats. Weather, customs and convoy requirements affect sailings."
+      "detail": "Inter-island mail, passenger and cargo service; smaller landings use feeder boats. Weather, customs and convoy requirements affect sailings.",
+      "wrap_longitude": false,
+      "distance_km": 1058.3,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "road52-edrask",
@@ -297135,15 +296724,20 @@
           268.6936
         ],
         [
-          2190,
-          216
+          2190.0,
+          222.0
         ],
         [
           2198.577,
           215.2389
         ]
       ],
-      "detail": "Inter-island mail, passenger and cargo service; smaller landings use feeder boats. Seasonal ice and weather can suspend northern calls."
+      "detail": "Inter-island mail, passenger and cargo service; smaller landings use feeder boats. Seasonal ice and weather can suspend northern calls.",
+      "wrap_longitude": false,
+      "distance_km": 542.2,
+      "service_class": "local feeder",
+      "seasonality": "Seasonal high-latitude service; ice and weather notices required.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "road52-norrakai",
@@ -297181,7 +296775,12 @@
           387.4976
         ]
       ],
-      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings."
+      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings.",
+      "wrap_longitude": false,
+      "distance_km": 1796.8,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea52-isle52-varessan-1--isle52-talasca-0",
@@ -297206,7 +296805,12 @@
           691.3416
         ]
       ],
-      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings."
+      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings.",
+      "wrap_longitude": false,
+      "distance_km": 2338.4,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea52-isle52-talasca-1--port47-isle86",
@@ -297219,19 +296823,48 @@
           854.0772
         ],
         [
-          162,
-          1206
+          90.43946,
+          899.20903
         ],
         [
-          180,
-          1188
+          102.36621,
+          944.34086
+        ],
+        [
+          114.29297,
+          989.47269
+        ],
+        [
+          126.21973,
+          1034.60451
+        ],
+        [
+          138.14649,
+          1079.73634
+        ],
+        [
+          150.07324,
+          1124.86817
+        ],
+        [
+          162.0,
+          1170.0
+        ],
+        [
+          174.0,
+          1182.0
         ],
         [
           171.2209,
           1188.5292
         ]
       ],
-      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings."
+      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings.",
+      "wrap_longitude": false,
+      "distance_km": 3491.2,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea52-isle52-nemerai-0--port47-isle129",
@@ -297256,7 +296889,12 @@
           456.74
         ]
       ],
-      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings."
+      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings.",
+      "wrap_longitude": false,
+      "distance_km": 2683.4,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea52-isle52-ordelune-0--port47-ostrevain",
@@ -297289,7 +296927,12 @@
           851.32946
         ]
       ],
-      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings."
+      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings.",
+      "wrap_longitude": false,
+      "distance_km": 6725.1,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea52-isle52-ordelune-1--isle52-skeldra-0",
@@ -297310,7 +296953,12 @@
           1404.1579
         ]
       ],
-      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings."
+      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings.",
+      "wrap_longitude": false,
+      "distance_km": 7184.6,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea52-isle52-skeldra-0--isle52-merovia-0",
@@ -297331,7 +296979,12 @@
           1087.4843
         ]
       ],
-      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings."
+      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings.",
+      "wrap_longitude": false,
+      "distance_km": 3417.0,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea52-isle52-merovia-0--port47-isle122",
@@ -297348,7 +297001,12 @@
           1074.8949
         ]
       ],
-      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings."
+      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings.",
+      "wrap_longitude": false,
+      "distance_km": 1738.1,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea52-isle52-merovia-1--isle52-ashalai-0",
@@ -297373,7 +297031,12 @@
           1013.3378
         ]
       ],
-      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings."
+      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings.",
+      "wrap_longitude": false,
+      "distance_km": 2749.4,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea52-isle52-ashalai-1--isle52-istrana-0",
@@ -297386,15 +297049,28 @@
           1030.8832
         ],
         [
-          2922,
-          1020
+          2922.0,
+          1026.0
+        ],
+        [
+          2961.40253,
+          1017.79923
+        ],
+        [
+          3000.80507,
+          1009.59847
         ],
         [
           3040.2076,
           1001.3977
         ]
       ],
-      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings."
+      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings.",
+      "wrap_longitude": false,
+      "distance_km": 1233.7,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea52-isle52-istrana-1--isle52-edrask-1",
@@ -297415,7 +297091,12 @@
           613.54
         ]
       ],
-      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings."
+      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Weather, customs and convoy requirements affect sailings.",
+      "wrap_longitude": false,
+      "distance_km": 3531.2,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea52-isle52-edrask-0--port47-other-morholt-1880",
@@ -297444,7 +297125,12 @@
           257.45928
         ]
       ],
-      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Seasonal ice and weather can suspend northern calls."
+      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Seasonal ice and weather can suspend northern calls.",
+      "wrap_longitude": false,
+      "distance_km": 5908.1,
+      "service_class": "ocean passage",
+      "seasonality": "Seasonal high-latitude service; ice and weather notices required.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea52-isle52-norrakai-0--port47-vardol",
@@ -297469,7 +297155,12 @@
           298.41761
         ]
       ],
-      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Seasonal ice and weather can suspend northern calls."
+      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Seasonal ice and weather can suspend northern calls.",
+      "wrap_longitude": false,
+      "distance_km": 2139.8,
+      "service_class": "regional passage",
+      "seasonality": "Seasonal high-latitude service; ice and weather notices required.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea52-isle52-norrakai-1--port47-galdresk",
@@ -297502,7 +297193,12 @@
           238.60294
         ]
       ],
-      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Seasonal ice and weather can suspend northern calls."
+      "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Seasonal ice and weather can suspend northern calls.",
+      "wrap_longitude": false,
+      "distance_km": 3222.6,
+      "service_class": "regional passage",
+      "seasonality": "Seasonal high-latitude service; ice and weather notices required.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea-wrap-isle52-edrask-1--isle52-talasca-0",
@@ -297515,16 +297211,40 @@
           613.54
         ],
         [
-          3440,
-          610
+          3450.0,
+          642.0
         ],
         [
-          3450,
-          650
+          3456.0,
+          648.0
         ],
         [
-          220,
-          690
+          3501.40508,
+          653.4177
+        ],
+        [
+          3546.81015,
+          658.8354
+        ],
+        [
+          3592.21522,
+          664.2531
+        ],
+        [
+          37.6203,
+          669.6708
+        ],
+        [
+          83.02538,
+          675.0885
+        ],
+        [
+          128.43045,
+          680.5062
+        ],
+        [
+          173.83552,
+          685.9239
         ],
         [
           219.2406,
@@ -297532,8 +297252,11 @@
         ]
       ],
       "wrap_longitude": true,
-      "distance_km": 3914,
-      "detail": "Established cross-meridian cargo and booked passenger corridor; fuel, water and customs at the named harbours. Approximate chart distance, not a measured timetable."
+      "distance_km": 3738.1,
+      "detail": "Established cross-meridian cargo and booked passenger corridor; fuel, water and customs at the named harbours. Approximate chart distance, not a measured timetable.",
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea-wrap-isle52-istrana-1--isle52-talasca-1",
@@ -297559,8 +297282,11 @@
         ]
       ],
       "wrap_longitude": true,
-      "distance_km": 4515,
-      "detail": "Established cross-meridian cargo and booked passenger corridor; fuel, water and customs at the named harbours. Approximate chart distance, not a measured timetable."
+      "distance_km": 4514.1,
+      "detail": "Established cross-meridian cargo and booked passenger corridor; fuel, water and customs at the named harbours. Approximate chart distance, not a measured timetable.",
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     },
     {
       "id": "sea-wrap-isle52-istrana-0--port47-isle86",
@@ -297573,20 +297299,76 @@
           1001.3977
         ],
         [
-          3040,
-          1000
+          3042.0,
+          1014.0
         ],
         [
-          3040,
-          1010
+          3084.0,
+          1038.0
         ],
         [
-          3050,
-          1020
+          3126.0,
+          1062.0
         ],
         [
-          170,
-          1180
+          3168.0,
+          1086.0
+        ],
+        [
+          3210.0,
+          1110.0
+        ],
+        [
+          3252.0,
+          1134.0
+        ],
+        [
+          3294.0,
+          1158.0
+        ],
+        [
+          3336.0,
+          1182.0
+        ],
+        [
+          3378.0,
+          1206.0
+        ],
+        [
+          3426.0,
+          1206.0
+        ],
+        [
+          3474.0,
+          1206.0
+        ],
+        [
+          3522.0,
+          1206.0
+        ],
+        [
+          3570.0,
+          1206.0
+        ],
+        [
+          18.0,
+          1206.0
+        ],
+        [
+          66.0,
+          1206.0
+        ],
+        [
+          114.0,
+          1206.0
+        ],
+        [
+          162.0,
+          1206.0
+        ],
+        [
+          174.0,
+          1194.0
         ],
         [
           171.2209,
@@ -297594,8 +297376,1443 @@
         ]
       ],
       "wrap_longitude": true,
-      "distance_km": 7293,
-      "detail": "Established cross-meridian cargo and booked passenger corridor; fuel, water and customs at the named harbours. Approximate chart distance, not a measured timetable."
+      "distance_km": 7316.8,
+      "detail": "Established cross-meridian cargo and booked passenger corridor; fuel, water and customs at the named harbours. Approximate chart distance, not a measured timetable.",
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-port47-isle124--port47-kelbrun",
+      "mode": "sea",
+      "from": "port47-isle124",
+      "to": "port47-kelbrun",
+      "points": [
+        [
+          2056.53203,
+          797.5805
+        ],
+        [
+          2052.0,
+          798.0
+        ],
+        [
+          2031.40211,
+          753.81935
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 530.2,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-montelisse--port47-isle125",
+      "mode": "sea",
+      "from": "montelisse",
+      "to": "port47-isle125",
+      "points": [
+        [
+          1976.20732,
+          582.39
+        ],
+        [
+          1996.10366,
+          615.195
+        ],
+        [
+          2016.0,
+          648.0
+        ],
+        [
+          2028.043,
+          647.6624
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 852.4,
+      "service_class": "local feeder",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-ordelune-0--port47-isle93",
+      "mode": "sea",
+      "from": "isle52-ordelune-0",
+      "to": "port47-isle93",
+      "points": [
+        [
+          1122.6471,
+          1403.2544
+        ],
+        [
+          1098.4314,
+          1379.50293
+        ],
+        [
+          1074.2157,
+          1355.75147
+        ],
+        [
+          1050.0,
+          1332.0
+        ],
+        [
+          1056.0,
+          1320.0
+        ],
+        [
+          1057.0221,
+          1324.6563
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 1044.1,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-talasca-1--port47-isle83",
+      "mode": "sea",
+      "from": "isle52-talasca-1",
+      "to": "port47-isle83",
+      "points": [
+        [
+          78.5127,
+          854.0772
+        ],
+        [
+          78.0,
+          852.0
+        ],
+        [
+          105.0,
+          840.0
+        ],
+        [
+          132.0,
+          828.0
+        ],
+        [
+          175.6705,
+          823.4412
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 1045.0,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-ordelune-0--port47-isle92",
+      "mode": "sea",
+      "from": "isle52-ordelune-0",
+      "to": "port47-isle92",
+      "points": [
+        [
+          1122.6471,
+          1403.2544
+        ],
+        [
+          1078.98532,
+          1412.4408
+        ],
+        [
+          1035.32355,
+          1421.6272
+        ],
+        [
+          991.66178,
+          1430.8136
+        ],
+        [
+          948.0,
+          1440.0
+        ],
+        [
+          946.0716,
+          1442.7683
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 1162.3,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-port47-isle130--vesalius-port-0",
+      "mode": "sea",
+      "from": "port47-isle130",
+      "to": "vesalius-port-0",
+      "points": [
+        [
+          1485.0811,
+          711.3959
+        ],
+        [
+          1500.0,
+          720.0
+        ],
+        [
+          1523.57983,
+          690.27467
+        ],
+        [
+          1547.15967,
+          660.54933
+        ],
+        [
+          1570.7395,
+          630.824
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 1271.0,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-ordelune-1--port47-isle94",
+      "mode": "sea",
+      "from": "isle52-ordelune-1",
+      "to": "port47-isle94",
+      "points": [
+        [
+          1364.3827,
+          1230.6423
+        ],
+        [
+          1325.58847,
+          1234.4282
+        ],
+        [
+          1286.79423,
+          1238.2141
+        ],
+        [
+          1248.0,
+          1242.0
+        ],
+        [
+          1224.0,
+          1236.0
+        ],
+        [
+          1211.2134,
+          1244.4881
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 1319.4,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-talasca-0--port47-isle83",
+      "mode": "sea",
+      "from": "isle52-talasca-0",
+      "to": "port47-isle83",
+      "points": [
+        [
+          219.2406,
+          691.3416
+        ],
+        [
+          206.1604,
+          734.8944
+        ],
+        [
+          193.0802,
+          778.4472
+        ],
+        [
+          180.0,
+          822.0
+        ],
+        [
+          174.0,
+          828.0
+        ],
+        [
+          175.6705,
+          823.4412
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 1493.6,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-port47-averholt--port47-isle129",
+      "mode": "sea",
+      "from": "port47-averholt",
+      "to": "port47-isle129",
+      "points": [
+        [
+          1608.64623,
+          350.34392
+        ],
+        [
+          1560.32312,
+          361.17196
+        ],
+        [
+          1512.0,
+          372.0
+        ],
+        [
+          1485.0,
+          405.0
+        ],
+        [
+          1458.0,
+          438.0
+        ],
+        [
+          1452.0,
+          456.0
+        ],
+        [
+          1448.6796,
+          456.74
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 1566.5,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-norrakai-1--port47-other-morholt-1880",
+      "mode": "sea",
+      "from": "isle52-norrakai-1",
+      "to": "port47-other-morholt-1880",
+      "points": [
+        [
+          2198.577,
+          215.2389
+        ],
+        [
+          2196.0,
+          198.0
+        ],
+        [
+          2214.0,
+          186.0
+        ],
+        [
+          2262.56973,
+          196.20847
+        ],
+        [
+          2311.13946,
+          206.41694
+        ],
+        [
+          2359.70919,
+          216.62541
+        ],
+        [
+          2408.27891,
+          226.83387
+        ],
+        [
+          2456.84864,
+          237.04234
+        ],
+        [
+          2505.41837,
+          247.25081
+        ],
+        [
+          2553.9881,
+          257.45928
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 1775.3,
+      "service_class": "regional passage",
+      "seasonality": "Seasonal high-latitude service; ice and weather notices required.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-varessan-1--port47-veldrassen",
+      "mode": "sea",
+      "from": "isle52-varessan-1",
+      "to": "port47-veldrassen",
+      "points": [
+        [
+          422.6436,
+          545.4578
+        ],
+        [
+          420.0,
+          552.0
+        ],
+        [
+          445.69059,
+          589.85056
+        ],
+        [
+          471.38118,
+          627.70112
+        ],
+        [
+          497.07176,
+          665.55168
+        ],
+        [
+          522.76235,
+          703.40224
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 1836.2,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-edrask-0--port47-isle106",
+      "mode": "sea",
+      "from": "isle52-edrask-0",
+      "to": "port47-isle106",
+      "points": [
+        [
+          3461.1184,
+          511.253
+        ],
+        [
+          3415.69472,
+          506.2024
+        ],
+        [
+          3370.27104,
+          501.1518
+        ],
+        [
+          3324.84736,
+          496.1012
+        ],
+        [
+          3279.42368,
+          491.0506
+        ],
+        [
+          3234.0,
+          486.0
+        ],
+        [
+          3228.0,
+          480.0
+        ],
+        [
+          3228.8708,
+          478.9669
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 1841.5,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-varessan-0--port47-isle99",
+      "mode": "sea",
+      "from": "isle52-varessan-0",
+      "to": "port47-isle99",
+      "points": [
+        [
+          724.4321,
+          432.8035
+        ],
+        [
+          739.14568,
+          473.4428
+        ],
+        [
+          753.85926,
+          514.0821
+        ],
+        [
+          768.57284,
+          554.7214
+        ],
+        [
+          783.28642,
+          595.3607
+        ],
+        [
+          798.0,
+          636.0
+        ],
+        [
+          802.2787,
+          636.8466
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 2155.0,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-norrakai-0--port47-isle115",
+      "mode": "sea",
+      "from": "isle52-norrakai-0",
+      "to": "port47-isle115",
+      "points": [
+        [
+          2195.29,
+          268.6936
+        ],
+        [
+          2190.0,
+          288.0
+        ],
+        [
+          2214.0,
+          306.0
+        ],
+        [
+          2255.0,
+          326.0
+        ],
+        [
+          2296.0,
+          346.0
+        ],
+        [
+          2337.0,
+          366.0
+        ],
+        [
+          2378.0,
+          386.0
+        ],
+        [
+          2419.0,
+          406.0
+        ],
+        [
+          2460.0,
+          426.0
+        ],
+        [
+          2453.95,
+          425.6237
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 2345.8,
+      "service_class": "regional passage",
+      "seasonality": "Seasonal high-latitude service; ice and weather notices required.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-port47-gavrel--port47-isle122",
+      "mode": "sea",
+      "from": "port47-gavrel",
+      "to": "port47-isle122",
+      "points": [
+        [
+          1969.67122,
+          1135.48465
+        ],
+        [
+          2012.12722,
+          1125.38636
+        ],
+        [
+          2054.58321,
+          1115.28807
+        ],
+        [
+          2097.03921,
+          1105.18978
+        ],
+        [
+          2139.49521,
+          1095.09148
+        ],
+        [
+          2181.9512,
+          1084.99319
+        ],
+        [
+          2224.4072,
+          1074.8949
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 2460.4,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-port47-isle115--port47-varnesk",
+      "mode": "sea",
+      "from": "port47-isle115",
+      "to": "port47-varnesk",
+      "points": [
+        [
+          2453.95,
+          425.6237
+        ],
+        [
+          2477.975,
+          446.81185
+        ],
+        [
+          2502.0,
+          468.0
+        ],
+        [
+          2502.0,
+          498.0
+        ],
+        [
+          2502.0,
+          528.0
+        ],
+        [
+          2514.0,
+          558.0
+        ],
+        [
+          2526.0,
+          570.0
+        ],
+        [
+          2555.99657,
+          554.88346
+        ],
+        [
+          2585.99314,
+          539.76693
+        ],
+        [
+          2615.98971,
+          524.65039
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 2476.8,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-merovia-1--vesalius-port-1",
+      "mode": "sea",
+      "from": "isle52-merovia-1",
+      "to": "vesalius-port-1",
+      "points": [
+        [
+          2482.933,
+          908.2692
+        ],
+        [
+          2442.22104,
+          921.53483
+        ],
+        [
+          2401.50907,
+          934.80047
+        ],
+        [
+          2360.79711,
+          948.0661
+        ],
+        [
+          2320.08514,
+          961.33173
+        ],
+        [
+          2279.37318,
+          974.59737
+        ],
+        [
+          2238.66121,
+          987.863
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 2559.1,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-port47-isle119--port47-isle133",
+      "mode": "sea",
+      "from": "port47-isle119",
+      "to": "port47-isle133",
+      "points": [
+        [
+          1772.2879,
+          1164.693
+        ],
+        [
+          1776.0,
+          1164.0
+        ],
+        [
+          1739.0,
+          1140.0
+        ],
+        [
+          1702.0,
+          1116.0
+        ],
+        [
+          1665.0,
+          1092.0
+        ],
+        [
+          1628.0,
+          1068.0
+        ],
+        [
+          1591.0,
+          1044.0
+        ],
+        [
+          1554.0,
+          1020.0
+        ],
+        [
+          1554.0,
+          1014.0
+        ],
+        [
+          1556.6382,
+          1012.8041
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 2661.5,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-norrakai-0--port47-caldrienne",
+      "mode": "sea",
+      "from": "isle52-norrakai-0",
+      "to": "port47-caldrienne",
+      "points": [
+        [
+          2195.29,
+          268.6936
+        ],
+        [
+          2156.16126,
+          298.88023
+        ],
+        [
+          2117.03252,
+          329.06686
+        ],
+        [
+          2077.90378,
+          359.25349
+        ],
+        [
+          2038.77504,
+          389.44011
+        ],
+        [
+          1999.6463,
+          419.62674
+        ],
+        [
+          1960.51756,
+          449.81337
+        ],
+        [
+          1921.38882,
+          480.0
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 2690.3,
+      "service_class": "regional passage",
+      "seasonality": "Seasonal high-latitude service; ice and weather notices required.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-ordelune-1--port47-isle133",
+      "mode": "sea",
+      "from": "isle52-ordelune-1",
+      "to": "port47-isle133",
+      "points": [
+        [
+          1364.3827,
+          1230.6423
+        ],
+        [
+          1362.0,
+          1230.0
+        ],
+        [
+          1394.0,
+          1194.0
+        ],
+        [
+          1426.0,
+          1158.0
+        ],
+        [
+          1458.0,
+          1122.0
+        ],
+        [
+          1490.0,
+          1086.0
+        ],
+        [
+          1522.0,
+          1050.0
+        ],
+        [
+          1554.0,
+          1014.0
+        ],
+        [
+          1556.6382,
+          1012.8041
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 2840.9,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-nemerai-0--port47-isle99",
+      "mode": "sea",
+      "from": "isle52-nemerai-0",
+      "to": "port47-isle99",
+      "points": [
+        [
+          1115.147,
+          500.3439
+        ],
+        [
+          1070.69743,
+          520.58049
+        ],
+        [
+          1026.24786,
+          540.81707
+        ],
+        [
+          981.79829,
+          561.05366
+        ],
+        [
+          937.34871,
+          581.29024
+        ],
+        [
+          892.89914,
+          601.52683
+        ],
+        [
+          848.44957,
+          621.76341
+        ],
+        [
+          804.0,
+          642.0
+        ],
+        [
+          802.2787,
+          636.8466
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 3020.7,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-port47-isle96--port47-other-vesalius-2790-1410",
+      "mode": "sea",
+      "from": "port47-isle96",
+      "to": "port47-other-vesalius-2790-1410",
+      "points": [
+        [
+          1185.7825,
+          972.1412
+        ],
+        [
+          1188.0,
+          978.0
+        ],
+        [
+          1232.0,
+          976.0
+        ],
+        [
+          1276.0,
+          974.0
+        ],
+        [
+          1320.0,
+          972.0
+        ],
+        [
+          1364.0,
+          970.0
+        ],
+        [
+          1408.0,
+          968.0
+        ],
+        [
+          1452.0,
+          966.0
+        ],
+        [
+          1470.23766,
+          947.60078
+        ],
+        [
+          1488.47532,
+          929.20157
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 3201.7,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-edrask-1--isle52-talasca-1",
+      "mode": "sea",
+      "from": "isle52-edrask-1",
+      "to": "isle52-talasca-1",
+      "points": [
+        [
+          3445.5554,
+          613.54
+        ],
+        [
+          3450.0,
+          642.0
+        ],
+        [
+          3482.64467,
+          672.29674
+        ],
+        [
+          3515.28934,
+          702.59349
+        ],
+        [
+          3547.93401,
+          732.89023
+        ],
+        [
+          3580.57869,
+          763.18697
+        ],
+        [
+          13.22336,
+          793.48371
+        ],
+        [
+          45.86803,
+          823.78046
+        ],
+        [
+          78.5127,
+          854.0772
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": true,
+      "distance_km": 3338.1,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-ashalai-0--port47-isle118",
+      "mode": "sea",
+      "from": "isle52-ashalai-0",
+      "to": "port47-isle118",
+      "points": [
+        [
+          2724.6016,
+          1013.3378
+        ],
+        [
+          2726.22994,
+          964.57526
+        ],
+        [
+          2727.85829,
+          915.81271
+        ],
+        [
+          2729.48663,
+          867.05017
+        ],
+        [
+          2731.11497,
+          818.28763
+        ],
+        [
+          2732.74331,
+          769.52509
+        ],
+        [
+          2734.37166,
+          720.76254
+        ],
+        [
+          2736.0,
+          672.0
+        ],
+        [
+          2729.4767,
+          669.9072
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 3478.8,
+      "service_class": "regional passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-merovia-1--port47-isle118",
+      "mode": "sea",
+      "from": "isle52-merovia-1",
+      "to": "port47-isle118",
+      "points": [
+        [
+          2482.933,
+          908.2692
+        ],
+        [
+          2504.4665,
+          877.1346
+        ],
+        [
+          2526.0,
+          846.0
+        ],
+        [
+          2556.0,
+          816.0
+        ],
+        [
+          2586.0,
+          786.0
+        ],
+        [
+          2616.0,
+          756.0
+        ],
+        [
+          2646.0,
+          726.0
+        ],
+        [
+          2676.0,
+          696.0
+        ],
+        [
+          2706.0,
+          666.0
+        ],
+        [
+          2730.0,
+          666.0
+        ],
+        [
+          2729.4767,
+          669.9072
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 3517.5,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-nemerai-0--port47-isle97",
+      "mode": "sea",
+      "from": "isle52-nemerai-0",
+      "to": "port47-isle97",
+      "points": [
+        [
+          1115.147,
+          500.3439
+        ],
+        [
+          1105.96296,
+          545.33284
+        ],
+        [
+          1096.77893,
+          590.32178
+        ],
+        [
+          1087.59489,
+          635.31071
+        ],
+        [
+          1078.41085,
+          680.29965
+        ],
+        [
+          1069.22681,
+          725.28859
+        ],
+        [
+          1060.04277,
+          770.27752
+        ],
+        [
+          1050.85874,
+          815.26646
+        ],
+        [
+          1041.6747,
+          860.2554
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 3661.3,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-skeldra-0--port47-gavrel",
+      "mode": "sea",
+      "from": "isle52-skeldra-0",
+      "to": "port47-gavrel",
+      "points": [
+        [
+          2283.4118,
+          1404.1579
+        ],
+        [
+          2248.55174,
+          1374.30532
+        ],
+        [
+          2213.69167,
+          1344.45273
+        ],
+        [
+          2178.83161,
+          1314.60015
+        ],
+        [
+          2143.97154,
+          1284.74757
+        ],
+        [
+          2109.11148,
+          1254.89498
+        ],
+        [
+          2074.25141,
+          1225.0424
+        ],
+        [
+          2039.39135,
+          1195.18982
+        ],
+        [
+          2004.53128,
+          1165.33723
+        ],
+        [
+          1969.67122,
+          1135.48465
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 3663.3,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-istrana-0--port47-isle104",
+      "mode": "sea",
+      "from": "isle52-istrana-0",
+      "to": "port47-isle104",
+      "points": [
+        [
+          3040.2076,
+          1001.3977
+        ],
+        [
+          3028.43165,
+          954.22299
+        ],
+        [
+          3016.6557,
+          907.04827
+        ],
+        [
+          3004.87975,
+          859.87356
+        ],
+        [
+          2993.1038,
+          812.69885
+        ],
+        [
+          2981.32785,
+          765.52414
+        ],
+        [
+          2969.5519,
+          718.34942
+        ],
+        [
+          2957.77595,
+          671.17471
+        ],
+        [
+          2946.0,
+          624.0
+        ],
+        [
+          2942.713,
+          622.4643
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 3916.2,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-istrana-1--morholt-port-1",
+      "mode": "sea",
+      "from": "isle52-istrana-1",
+      "to": "morholt-port-1",
+      "points": [
+        [
+          3242.5406,
+          904.0614
+        ],
+        [
+          3233.7544,
+          857.4016
+        ],
+        [
+          3224.9682,
+          810.7418
+        ],
+        [
+          3216.182,
+          764.082
+        ],
+        [
+          3207.3958,
+          717.4222
+        ],
+        [
+          3198.6096,
+          670.7624
+        ],
+        [
+          3189.8234,
+          624.1026
+        ],
+        [
+          3181.0372,
+          577.4428
+        ],
+        [
+          3172.251,
+          530.783
+        ],
+        [
+          3163.4648,
+          484.1232
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 4261.7,
+      "service_class": "ocean passage",
+      "seasonality": "Ordinary seasonal weather and port notices; not an all-weather guarantee.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
+    },
+    {
+      "id": "sea-review-isle52-ordelune-0--isle52-skeldra-1",
+      "mode": "sea",
+      "from": "isle52-ordelune-0",
+      "to": "isle52-skeldra-1",
+      "points": [
+        [
+          1122.6471,
+          1403.2544
+        ],
+        [
+          1122.0,
+          1410.0
+        ],
+        [
+          1161.75,
+          1428.75
+        ],
+        [
+          1201.5,
+          1447.5
+        ],
+        [
+          1241.25,
+          1466.25
+        ],
+        [
+          1281.0,
+          1485.0
+        ],
+        [
+          1320.75,
+          1503.75
+        ],
+        [
+          1360.5,
+          1522.5
+        ],
+        [
+          1400.25,
+          1541.25
+        ],
+        [
+          1440.0,
+          1560.0
+        ],
+        [
+          1487.10589,
+          1555.61831
+        ],
+        [
+          1534.21179,
+          1551.23661
+        ],
+        [
+          1581.31768,
+          1546.85492
+        ],
+        [
+          1628.42358,
+          1542.47322
+        ],
+        [
+          1675.52947,
+          1538.09153
+        ],
+        [
+          1722.63536,
+          1533.70984
+        ],
+        [
+          1769.74126,
+          1529.32814
+        ],
+        [
+          1816.84715,
+          1524.94645
+        ],
+        [
+          1863.95304,
+          1520.56476
+        ],
+        [
+          1911.05894,
+          1516.18306
+        ],
+        [
+          1958.16483,
+          1511.80137
+        ],
+        [
+          2005.27073,
+          1507.41968
+        ],
+        [
+          2052.37662,
+          1503.03798
+        ],
+        [
+          2099.48251,
+          1498.65629
+        ],
+        [
+          2146.58841,
+          1494.27459
+        ],
+        [
+          2193.6943,
+          1489.8929
+        ]
+      ],
+      "detail": "Established regional cargo and booked passenger service, clarifying an omitted connection rather than opening a new route during the story.",
+      "wrap_longitude": false,
+      "distance_km": 5855.3,
+      "service_class": "ocean passage",
+      "seasonality": "Seasonal high-latitude service; ice and weather notices required.",
+      "distance_basis": "Approximate length along the charted offshore corridor; original measured regional routes take precedence."
     }
   ],
   "coastline_method": "Survey XII: multiscale embayments, rocky inlets and irregular headlands on all three mainland coasts. Existing Eastern Marches coastal geometry and all island shapes retained; harbour positions, settlements, inland boundaries and transport alignments unchanged. Coastal claim edges follow the revised land mask.",
@@ -572220,7 +573437,17 @@
         "sovereign_parent": null
       }
     ],
-    "circumnavigation": "Circumnavigation is possible through established shipping corridors. Cross-meridian services link Havren–Talasca, Serakai–Rovaro and Istrana–Marcavisse, connecting the Eastern and Western Ocean networks. The chart edge is not a physical barrier; these routes continue across it. Named ports provide ordinary provisioning and customs services; passages remain subject to weather and sailing schedules."
+    "circumnavigation": "The sea graph supports circumnavigation through the Western, Eastern and Austral networks. Meridian crossings are ordinary ocean corridors. The comprehensive sea review supersedes the earlier three-link-only correction.",
+    "sea_network_review": {
+      "date": "21/10/0067 AC43",
+      "reviewed_prior_corridors": 109,
+      "current_sea_segments": 134,
+      "charted_harbours": 72,
+      "newly_charted_existing_connections": 30,
+      "through_services": 5,
+      "scope": "All prior sea corridors checked against current shorelines, periodic longitude, modelled distance, harbour coverage, regional detours and provisioning calls. Approximate chart geometry, not a bathymetric navigation chart.",
+      "seasonality": "High-latitude services require seasonal schedules; no polar shortcut is presumed open. The expedition retains its booked seasonal windows."
+    }
   },
   "ocean_regions": [
     {
@@ -572238,6 +573465,110 @@
     {
       "id": "northern-islands",
       "name": "Northern ocean islands"
+    }
+  ],
+  "maritime_services": [
+    {
+      "id": "otranto-port-1--morholt-port-0",
+      "from": "otranto-port-1",
+      "to": "morholt-port-0",
+      "calls": [
+        "otranto-port-1",
+        "port47-isle96",
+        "port47-isle129",
+        "port47-isle115",
+        "morholt-port-0"
+      ],
+      "segments": [
+        "sea47-otranto-port-1--port47-isle96",
+        "sea47-port47-isle96--port47-isle129",
+        "sea47-port47-isle129--port47-isle115",
+        "sea47-port47-isle115--morholt-port-0"
+      ],
+      "distance_km": 17069,
+      "detail": "Through commercial service using the listed port-to-port corridors. Intermediate calls provide scheduled provisioning and cargo interchange; not a nonstop voyage or a new extra map line."
+    },
+    {
+      "id": "morholt-port-1--vesalius-port-0",
+      "from": "morholt-port-1",
+      "to": "vesalius-port-0",
+      "calls": [
+        "morholt-port-1",
+        "port47-galdresk",
+        "isle52-norrakai-1",
+        "isle52-norrakai-0",
+        "port47-vardol",
+        "port47-averholt",
+        "vesalius-port-0"
+      ],
+      "segments": [
+        "sea47-morholt-port-1--port47-galdresk",
+        "sea52-isle52-norrakai-1--port47-galdresk",
+        "sea52-isle52-norrakai-0--isle52-norrakai-1",
+        "sea52-isle52-norrakai-0--port47-vardol",
+        "sea47-port47-vardol--port47-averholt",
+        "sea47-port47-averholt--vesalius-port-0"
+      ],
+      "distance_km": 13287,
+      "detail": "Through commercial service using the listed port-to-port corridors. Intermediate calls provide scheduled provisioning and cargo interchange; not a nonstop voyage or a new extra map line."
+    },
+    {
+      "id": "otranto-port-2--vesalius-port-0",
+      "from": "otranto-port-2",
+      "to": "vesalius-port-0",
+      "calls": [
+        "otranto-port-2",
+        "port47-ossavren",
+        "port47-isle93",
+        "port47-isle94",
+        "vesalius-port-0"
+      ],
+      "segments": [
+        "sea47-otranto-port-2--port47-ossavren",
+        "sea47-port47-ossavren--port47-isle93",
+        "sea47-port47-isle93--port47-isle94",
+        "sea47-port47-isle94--vesalius-port-0"
+      ],
+      "distance_km": 10378,
+      "detail": "Through commercial service using the listed port-to-port corridors. Intermediate calls provide scheduled provisioning and cargo interchange; not a nonstop voyage or a new extra map line."
+    },
+    {
+      "id": "vesalius-port-0--vesalius-port-1",
+      "from": "vesalius-port-0",
+      "to": "vesalius-port-1",
+      "calls": [
+        "vesalius-port-0",
+        "port47-other-vesalius-2790",
+        "port47-other-vesalius-2790-1410",
+        "port47-gavrel",
+        "vesalius-port-1"
+      ],
+      "segments": [
+        "sea47-vesalius-port-0--port47-other-vesalius-2790",
+        "sea47-port47-other-vesalius-2790--port47-other-vesalius-2790-1410",
+        "sea47-port47-other-vesalius-2790-1410--port47-gavrel",
+        "sea47-port47-gavrel--vesalius-port-1"
+      ],
+      "distance_km": 12259,
+      "detail": "Through commercial service using the listed port-to-port corridors. Intermediate calls provide scheduled provisioning and cargo interchange; not a nonstop voyage or a new extra map line."
+    },
+    {
+      "id": "sea47-port47-isle96--morholt-port-0",
+      "from": "port47-isle96",
+      "to": "morholt-port-0",
+      "calls": [
+        "port47-isle96",
+        "port47-isle129",
+        "port47-isle115",
+        "morholt-port-0"
+      ],
+      "segments": [
+        "sea47-port47-isle96--port47-isle129",
+        "sea47-port47-isle129--port47-isle115",
+        "sea47-port47-isle115--morholt-port-0"
+      ],
+      "distance_km": 16397,
+      "detail": "Through commercial service using the listed port-to-port corridors. Intermediate calls provide scheduled provisioning and cargo interchange; not a nonstop voyage or a new extra map line."
     }
   ]
 }
