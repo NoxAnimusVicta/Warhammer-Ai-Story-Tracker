@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="slate-build" content="851f7aac6a913ea4dbfc"><meta name="theme-color" content="#202d29"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Malaspina">
+<meta name="slate-build" content="14b5e9a875101d256672"><meta name="theme-color" content="#202d29"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Malaspina">
 <meta name="description" content="An evolving character dossier for Galahad, a perfected proto-Primarch on Malaspina.">
 <link rel="manifest" href="./manifest.webmanifest"><link rel="apple-touch-icon" href="./sigil-v1.png"><link rel="icon" type="image/png" sizes="1254x1254" href="./sigil-v1.png">
 <title>Malaspina | Galahad</title>
@@ -306,6 +306,18 @@ main details.journal-item > .eyebrow { margin-bottom: 12px; }
  main details.record-disclosure > :last-child:not(summary) { margin-bottom: 16px; }
 }
 @media print { main details.record-disclosure > summary { break-after: avoid; } }
+
+/* Keep direct headings aligned with body text despite older heading margin rules. */
+main details.record-disclosure.panel > :is(h2,h3,h4,h5,h6,.eyebrow,.record-heading,.subheading),
+main details.record-disclosure.reading-section > :is(h2,h3,h4,h5,h6,.eyebrow,.record-heading,.subheading) {
+ margin-left: 22px; margin-right: 22px;
+}
+@media(max-width:760px) {
+ main details.record-disclosure.panel > :is(h2,h3,h4,h5,h6,.eyebrow,.record-heading,.subheading),
+ main details.record-disclosure.reading-section > :is(h2,h3,h4,h5,h6,.eyebrow,.record-heading,.subheading) {
+  margin-left: 16px; margin-right: 16px;
+ }
+}
 
 </style>
 </head><body>
