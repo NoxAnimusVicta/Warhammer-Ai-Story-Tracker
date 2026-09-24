@@ -1,6 +1,6 @@
 # Malaspina — transport and overseas districts
 
-Survey XII · 970 settlements · 2,182 transport segments: 782 railway, 1,293 road, 106 sea and one proposed alignment.
+Survey XII · 970 settlements · 2,185 transport segments: 782 railway, 1,293 road, 109 sea and one proposed alignment.
 
 ## Travel and interchange
 
@@ -193,15 +193,15 @@ Undirected service corridors, not compulsory calls for every vessel or guarantee
 | Edrask | Edrask Governorate | Havren, Trelovre |
 | Essara | Nemerai Crown | Ardessa, Nemer |
 | Halsavik | Rovengard | Astrellac, Rovellisse, Rovensac, Rovensk, Seldavre, Veltrund |
-| Havren | Edrask Governorate | Edrask, Serakai |
+| Havren | Edrask Governorate | Edrask, Serakai, Talasca |
 | Heskar | Skeldran Hearth Confederacy | Skeldra |
 | Iskel | Norrakai Moots | Norrak, Orlavik |
-| Istrana | Kingdom of Istrana | Nalavai, Serakai |
+| Istrana | Kingdom of Istrana | Marcavisse, Nalavai, Serakai |
 | Iveran | Merovian Island Republic | Ashala, Merovia |
 | Loravise | Gavrel | Cervallune, Montalive |
 | Lorrevento | Bellacosta Cantons | Pellavore, Valdorelle, Vessantine |
 | Lorvesset | Bressavelle Marches | Cervelune, Orsavie, Ostrelac |
-| Marcavisse | Rovessara | Monteliva, Pellavore, Rovaro, Vessantine |
+| Marcavisse | Rovessara | Istrana, Monteliva, Pellavore, Rovaro, Vessantine |
 | Marcellune | Kelbrun | Cervellane, Vallarive |
 | Merovia | Merovian Island Republic | Cervallune, Iveran, Skeldra |
 | Montalive | Gavrel | Loravise, Pravessant, Serravole |
@@ -218,19 +218,19 @@ Undirected service corridors, not compulsory calls for every vessel or guarantee
 | Pellavore | Rovessara | Lorrevento, Marcavisse, Vellorito |
 | Pravessant | Vallessia Cantons | Cervelune, Montalive, Orsavie |
 | Rionvesse | Veylac | Cavresset, Neravisse, Tervassin, Vellorito |
-| Rovaro | Talascan Charter Islands | Marcavisse, Talasca |
+| Rovaro | Talascan Charter Islands | Marcavisse, Serakai, Talasca |
 | Rovellisse | Seravelle Littoral | Astrellac, Halsavik, Ostrelac, Vasselac, Villessia |
 | Rovensac | Haldrevik Concessions | Halsavik, Ostrelac, Trelovre |
 | Rovensk | Varnesk | Halsavik, Trelovre |
 | Salterivo | Ostrevain | Astrellac, Cortelune, Ordelune, Villessia |
 | Seldavre | Halskert | Halsavik, Seldren, Varkessant |
 | Seldren | Halskert | Cersund, Seldavre, Veltrund |
-| Serakai | Kingdom of Istrana | Havren, Istrana |
+| Serakai | Kingdom of Istrana | Havren, Istrana, Rovaro |
 | Serravole | Varnelle | Cervallune, Montalive, Serravonne, Tervassin, Vessaline |
 | Serravonne | March of Veyrasse | Cavrelune, Cressavelle, Dalmor, Serravole |
 | Skeldra | Skeldran Hearth Confederacy | Heskar, Merovia, Sorevain |
 | Sorevain | Ordelune Overseas Districts | Ordelune, Skeldra |
-| Talasca | Talascan Charter Islands | Rovaro, Velisar |
+| Talasca | Talascan Charter Islands | Havren, Rovaro, Velisar |
 | Tervassin | Tervayne | Bravessac, Cortessia, Orsavie, Ostrelac, Rionvesse, Serravole, Varkessant |
 | Trelovre | Haldrevik Concessions | Edrask, Rovensac, Rovensk, Veltroven |
 | Valdorelle | Veldrassen | Cortelune, Lorrevento |
@@ -251,4 +251,12 @@ The revision52 atlas contains 970 settlements and 2,182 transport segments, incl
 
 ## Coastline and expedition revision53
 
-See COASTLINE-REFERENCE.md for the corrected mainland shorelines. Transport alignments and measured regional distances are unchanged. The proposed expedition-route.html and expedition-route.md target return on departure-day355, with five or six full days per research stop and ten days in reserve. This is a planning allowance, not confirmed sailings or additional bookings.
+See COASTLINE-REFERENCE.md for the corrected mainland shorelines. Transport alignments and measured regional distances are unchanged. The proposed expedition-route.html and expedition-route.md target return on departure-day355, with five or six full days per research stop and ten days in reserve. The approved arrangements and funding are recorded in EXPEDITION-PREPARATION.md and EXPEDITION-BUDGET.md; the earlier provisional qualification is superseded.
+
+## Circumnavigation
+
+Circumnavigation is possible through established shipping corridors. Cross-meridian services link Havren–Talasca, Serakai–Rovaro and Istrana–Marcavisse, connecting the Eastern and Western Ocean networks. The chart edge is not a physical barrier; these routes continue across it. Named ports provide ordinary provisioning and customs services; passages remain subject to weather and sailing schedules.
+
+Approximate corridor lengths: Havren–Talasca 3,914 km; Serakai–Rovaro 4,515 km; Istrana–Marcavisse 7,293 km. These are chart estimates, not surveyed nautical distances or fixed passage times.
+
+The current network has 109 sea corridors and 2,185 total segments. Earlier revision52 counts describe the historical chart. The new connections clarify existing services, without advancing story time or adding costs. Rechecking every scheduled expedition leg with the original surface-travel planning model selected none of these three corridors: the approved capital sequence, 355-day planned return and day-365 deadline remain unchanged.

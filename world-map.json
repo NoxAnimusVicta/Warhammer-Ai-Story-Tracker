@@ -253127,6 +253127,11 @@
           "id": "isle52-talasca-1",
           "name": "Rovaro",
           "mode": "sea"
+        },
+        {
+          "id": "isle52-istrana-0",
+          "name": "Istrana",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Otrantian western ports",
@@ -254129,6 +254134,11 @@
           "id": "isle52-varessan-1",
           "name": "Velisar",
           "mode": "sea"
+        },
+        {
+          "id": "isle52-edrask-1",
+          "name": "Havren",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Talascan Charter Islands island table",
@@ -254167,6 +254177,11 @@
         {
           "id": "port47-isle86",
           "name": "Marcavisse",
+          "mode": "sea"
+        },
+        {
+          "id": "isle52-istrana-1",
+          "name": "Serakai",
           "mode": "sea"
         }
       ],
@@ -254836,6 +254851,11 @@
           "id": "isle52-ashalai-1",
           "name": "Nalavai",
           "mode": "sea"
+        },
+        {
+          "id": "port47-isle86",
+          "name": "Marcavisse",
+          "mode": "sea"
         }
       ],
       "food_tradition": "Kingdom of Istrana island table",
@@ -254874,6 +254894,11 @@
         {
           "id": "isle52-edrask-1",
           "name": "Havren",
+          "mode": "sea"
+        },
+        {
+          "id": "isle52-talasca-1",
+          "name": "Rovaro",
           "mode": "sea"
         }
       ],
@@ -254991,6 +255016,11 @@
         {
           "id": "isle52-istrana-1",
           "name": "Serakai",
+          "mode": "sea"
+        },
+        {
+          "id": "isle52-talasca-0",
+          "name": "Talasca",
           "mode": "sea"
         }
       ],
@@ -297473,6 +297503,99 @@
         ]
       ],
       "detail": "Ocean cargo and booked passenger passage with provisioning at named harbours; customs and local entry terms apply. Seasonal ice and weather can suspend northern calls."
+    },
+    {
+      "id": "sea-wrap-isle52-edrask-1--isle52-talasca-0",
+      "mode": "sea",
+      "from": "isle52-edrask-1",
+      "to": "isle52-talasca-0",
+      "points": [
+        [
+          3445.5554,
+          613.54
+        ],
+        [
+          3440,
+          610
+        ],
+        [
+          3450,
+          650
+        ],
+        [
+          220,
+          690
+        ],
+        [
+          219.2406,
+          691.3416
+        ]
+      ],
+      "wrap_longitude": true,
+      "distance_km": 3914,
+      "detail": "Established cross-meridian cargo and booked passenger corridor; fuel, water and customs at the named harbours. Approximate chart distance, not a measured timetable."
+    },
+    {
+      "id": "sea-wrap-isle52-istrana-1--isle52-talasca-1",
+      "mode": "sea",
+      "from": "isle52-istrana-1",
+      "to": "isle52-talasca-1",
+      "points": [
+        [
+          3242.5406,
+          904.0614
+        ],
+        [
+          3240,
+          900
+        ],
+        [
+          80,
+          850
+        ],
+        [
+          78.5127,
+          854.0772
+        ]
+      ],
+      "wrap_longitude": true,
+      "distance_km": 4515,
+      "detail": "Established cross-meridian cargo and booked passenger corridor; fuel, water and customs at the named harbours. Approximate chart distance, not a measured timetable."
+    },
+    {
+      "id": "sea-wrap-isle52-istrana-0--port47-isle86",
+      "mode": "sea",
+      "from": "isle52-istrana-0",
+      "to": "port47-isle86",
+      "points": [
+        [
+          3040.2076,
+          1001.3977
+        ],
+        [
+          3040,
+          1000
+        ],
+        [
+          3040,
+          1010
+        ],
+        [
+          3050,
+          1020
+        ],
+        [
+          170,
+          1180
+        ],
+        [
+          171.2209,
+          1188.5292
+        ]
+      ],
+      "wrap_longitude": true,
+      "distance_km": 7293,
+      "detail": "Established cross-meridian cargo and booked passenger corridor; fuel, water and customs at the named harbours. Approximate chart distance, not a measured timetable."
     }
   ],
   "coastline_method": "Survey XII: multiscale embayments, rocky inlets and irregular headlands on all three mainland coasts. Existing Eastern Marches coastal geometry and all island shapes retained; harbour positions, settlements, inland boundaries and transport alignments unchanged. Coastal claim edges follow the revised land mask.",
@@ -572096,7 +572219,8 @@
         ],
         "sovereign_parent": null
       }
-    ]
+    ],
+    "circumnavigation": "Circumnavigation is possible through established shipping corridors. Cross-meridian services link Havren–Talasca, Serakai–Rovaro and Istrana–Marcavisse, connecting the Eastern and Western Ocean networks. The chart edge is not a physical barrier; these routes continue across it. Named ports provide ordinary provisioning and customs services; passages remain subject to weather and sailing schedules."
   },
   "ocean_regions": [
     {
