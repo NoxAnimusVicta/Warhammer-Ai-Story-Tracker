@@ -9851,3 +9851,591 @@ I would make that resistance a substantial, dependable advantage. I would not in
 ## 496 — User — Accept resistance and request publication
 
 Yeah I like all of your ideas here. Please update the github documentation, please take your time
+
+
+## 497 — Assistant — Revision 57 published
+
+Updated and published **revision 57**.
+
+- Recorded Galahad’s biological resistance to Genestealer infection and separate psychic defences.
+- Preserved the distinctions between other Tyranid hazards, confirmed lore and our campaign decisions.
+- Added the future Lion comparison with its assumptions and uncertainty.
+- Aligned the web app, continuity records and narrator guidance.
+
+Reader and navigation checks passed, and all nine published files were verified. Story time and accounts remain unchanged.
+
+[Updated physiology section](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=4374d1256cd2978310b4#physiology) · [Full reference](https://github.com/NoxAnimusVicta/Warhammer-Ai-Story-Tracker/blob/main/PHYSIOLOGY-REFERENCE.md)
+
+[Updated private handover](</C:/Users/jaked/Documents/Codex/2026-09-19/if-we-are-writing-a-40k/outputs/Malaspina-Narrator-Handover-r57.zip>)
+
+
+> Archive gap notice: intervening worldbuilding and web-maintenance exchanges after497 are not fully present in this local exact archive. Their accepted revisions are recorded in the reference files. No missing assistant narrative is reconstructed here. The next enacted story advance follows below; entry numbers track this local archive, not a claim of complete conversation capture.
+
+## 498 — User — Expedition days1–85
+
+Over the next 85 days I travel and learn all that I possibly can from every discipline I can think of and I utilize the scholars and materials at my disposal to do so while adhering to my established schedule and areas of interest. I study the shipyards, naval designs, aircraft designs and weaponry. I study the arcane, history, religion, culture. I study the art of war, the art of peace, the art of the deal and the art of making friends. I make connections where I possibly and begin to establish a pipeline of information from unknowing informants. I search for lost treasures and ancient histories now long forgotten and only eluded to in myth. I trade in secrets and lies to learn what I can about the technology of The Hunters, who possesses such technology now and where it may be found with relative ease of access. I study everything and anything I can. The more knowledge I have the better decision making I have, the better my decisions the more effective my actions and creations become, the more effective my actions and creations become the more my reputation fosters love, awe and fear. I breath it all in. As deeply as I can and with every tool available at my disposal. 
+
+## 499 — Assistant — Expedition day85, Drossane
+
+The expedition develops a rhythm: wheels beneath your feet, unfamiliar streets outside the window, and another stack of reports waiting beneath the lamp.
+
+Your scholars sleep. You work.
+
+An hour of rest in a day generally suffices to keep you at your best. The remaining hours accumulate into an advantage that becomes unmistakable. Varcet leaves a technical report beside your door before retiring; by breakfast, you have absorbed it, compared it with two earlier surveys, and prepared questions that send him back to the workshop with an entirely different investigation in mind.
+
+At first, this disconcerts him.
+
+By the third week, he begins leaving an additional sheet headed *Questions I expect you will ask.*
+
+Occasionally, he gets them all.
+
+You keep to the appointed route. Six full days in Dalmor; six in Varnessa; five in Gavrielle; six apiece in Serevienne and Kelbrienne; five in Miravelle. The passages between them become working intervals: reading, conversations with crews and passengers, experiments small enough to conduct aboard, and the relentless comparison of what each country knows with what its neighbours do differently.
+
+Your colleagues retain ordinary hours of work and rest. You make their efforts reach further by directing them towards questions whose answers fit together.
+
+***
+
+In Dalmor, the yards smell of salt, hot metal and wet timber.
+
+Alessio Valcera, a naval constructor with a habit of rubbing drawing ink into his thumb, initially receives you with the guarded courtesy reserved for visiting dignitaries. He has agreed to show a foreign nobleman around a commercial repair yard. He has not agreed to surrender an afternoon to extravagant suggestions from someone who has never maintained a ship.
+
+That changes beside a dismantled pump.
+
+You ask about the recurring wear on one side of its housing. Then about its mounting. Then about what happens when the vessel takes a heavy sea with the compartment partly flooded.
+
+Valcera looks at the pump again.
+
+“You have worked with water under load.”
+
+The conversation lasts until the yard bells sound.
+
+Through him, you gain useful access to repair practice: the compromises between speed, range and endurance; corrosion; propeller damage; machinery that performs beautifully during trials and becomes a maintenance burden after months at sea. Varcet records the fittings and workshop methods. Rouvant follows coatings, seals and alloys. Sarnot studies docks, drainage and the movement of water through an entire harbour.
+
+Visits to civilian aircraft workshops add engines, airframes, inspection routines and the unforgiving relationship between weight and reliability. You compare accessible military descriptions with what commercial manufacturers can actually produce. Public specifications become more revealing once you understand the factories behind them.
+
+Across the following cities, armourers, commercial catalogues and permitted demonstrations extend that comparison to service weapons. You examine reliability, ammunition supply, manufacturing consistency and the conditions under which a soldier can actually use the weapon he has been issued. Your notes on foreign firearms develop into a comparative technical reference, with promising design principles separated from claims you have yet to test.
+
+Restricted naval stores remain restricted. Valcera can introduce a brilliant visitor to an engineer; he cannot issue Admiralty clearance.
+
+Orchant’s letter opens a different door.
+
+The custodian of the maritime collection permits you to read its warding texts. The volumes contain prayers, diagrams, accounts of sailors’ customs, and annotations left by practitioners who plainly disagreed with one another. Some copied a shape because it was traditional. Others wrote about the state of mind required to give it purpose.
+
+That distinction holds your attention long after the reading room closes.
+
+You leave Dalmor with extensive notes and Valcera’s invitation to correspond. He wants your thoughts on repair systems. In return, he is willing to send accounts of troublesome machinery and changes in yard practice. Neither promise requires him to betray his service.
+
+It gives you a continuing view into it nonetheless.
+
+***
+
+Varnessa teaches you how much can be learned from freight.
+
+An administration may announce prosperity while its merchants shorten credit. A mill may claim abundant production while its orders for replacement bearings collapse. Cargo waiting at a quay can reveal a dispute that polite dinner conversation carefully avoids.
+
+Aveline Cersault, who arranges freight for several commercial houses, proves particularly useful. She has little patience for impressive theories that fail to account for a missed tide or an empty warehouse.
+
+“Everyone says they want reliable deliveries,” she tells you. “Then they choose the cheapest promise.”
+
+You exchange practical observations about delays, handling and the condition of consignments. She begins including market circulars and ordinary freight notices in her letters. You supply comparisons from later ports that are useful to her business.
+
+The relationship pays both ways. Its wider value belongs to you.
+
+In Gavrielle, the lessons become more openly political. Different houses can agree upon the desirability of a road while disagreeing bitterly over its tolls, policing and the precedence of their seals on the agreement. Over meals and in permitted meetings, you learn which concessions cost money, which cost authority, and which merely require someone to be thanked in public.
+
+Campaign histories read differently after conversations with men responsible for provisioning troops. You compare plans with rail capacity, fodder, repair facilities, medical arrangements and the competence of the officials expected to make them work.
+
+The same habit follows you into civilian workshops and estates. You examine how tasks are assigned, how tools are maintained, where skilled labour is wasted, and why apparently inferior practices sometimes survive because they are cheaper to repair locally.
+
+Your private estate notebook fills with proposals arranged by prerequisites: improvements possible with the present household and workshops; those requiring new tradesmen; those that make sense only once a larger business exists.
+
+***
+
+By Serevienne, the expedition’s accumulated work has become something more useful than a collection of separate notebooks.
+
+Varcet’s machinery reports cross-reference Rouvant’s material observations. Sarnot’s water surveys connect with Aubrel’s studies of cultivation and useful plants. Tessier supplies the legal, linguistic and historical context that explains why a technically sensible proposal might still fail.
+
+You read everything.
+
+Where reports disagree, you send precise follow-up questions. Where two countries solve the same problem differently, you reconstruct the reasoning behind both approaches. Familiar principles acquire unfamiliar applications; neglected details become the beginnings of designs of your own.
+
+Tessier catches you one evening referring accurately to a passage he had translated only that afternoon.
+
+He looks at the marked volume beneath your hand, then at the other books already stacked beside it.
+
+“I shall stop asking whether you have had time to read things.”
+
+The archives yield a particularly promising discovery.
+
+Bastien Marcelet, an archivist working through records of the former southern federation, helps you trace references that later histories have separated. A collection thought destroyed during an attack appears in a subsequent inventory under a different administrative heading. A later transfer register places surviving portions in the custody of the assay authorities at Drossane.
+
+Its contents include older waterworks surveys, metallurgical notebooks and records concerning a piece of recovered Hunter equipment, described by its contemporary custodians as a sighting instrument.
+
+The papers establish that the collection survived the destruction usually associated with it, and identify a later custodian. They do not establish what remains in its boxes today.
+
+You now have a place to look, documentary references to present, and a reason for the authorities there to take the enquiry seriously.
+
+Marcelet agrees to continue tracing related records. Copies of material you encounter elsewhere would help his own work enormously; your correspondence offers him access his archive cannot afford to obtain directly.
+
+The wider historical reading deepens your understanding of Malaspina. Accounts preserved by families, monasteries, workshops and officials overlap imperfectly. Songs retain names missing from registers. Registers preserve mundane details that heroic stories discard.
+
+Across traditions surrounding Ambros, the sword remains central. Dynasties argue over his empire and inheritance; the man who killed a Hunter with a blade belongs to far more people than any surviving claim to his throne.
+
+The circumstances remain disputed. The hope attached to the deed does not.
+
+***
+
+In Kelbrienne, chemical commerce, cultivation and industrial practice give your scholars ample work. Your own enquiries extend into the people who preserve the older disciplines.
+
+You encounter breathing exercises, recitations, deliberate patterns of attention and bodily routines taught under different religious explanations. Their purposes vary: steadiness, self-command, preparation for ritual, resistance to intrusive experiences. You compare what practitioners actually do with what their texts claim.
+
+Some practices sharpen your attention. Others supply useful ways to organise an intention before expressing it psychically. You keep a careful distinction between an observed effect and a teacher’s explanation of its cause.
+
+The work with impressed objects advances significantly.
+
+Simple marks carrying a deliberate, familiar impression begin retaining it for several days. Repeated trials let you distinguish that trace from matching decorations made without the same investment of intent. You vary the material, handling and interval before examination, recording the failures as carefully as the successes.
+
+There is still much to understand about making an object *do* something with what it retains. But you have moved beyond an occasional lingering sensation into a process you can repeat and investigate.
+
+Your letter to Orchant contains enough detail to occupy her for an evening.
+
+***
+
+Miravelle offers banks, shipping offices, manufacturers and the cultivated sociability of people whose interests reach well beyond their borders.
+
+Here, Noemie Darcenne, an insurance assessor, becomes your fourth particularly valuable correspondent. Your interest in the difference between advertised machinery and its actual condition makes you useful company. She has spent years seeing the financial consequences of that difference.
+
+Through information shared in these professional circles, a discrepancy emerges between two accounts of the same consignment. One describes ordinary damaged salvage; another records the precautions and valuation attached to an item reportedly recovered from a Hunter craft.
+
+Dates and custody references align. The shipment passed through Miravelle into private bonded storage.
+
+You obtain a credible commercial trail and the office through which an inspection might be requested. You have not seen the object, and neither its supposed origin nor its working condition is yet independently established. Nevertheless, this is considerably better than a drunk’s assurance that his cousin once owned a Hunter’s weapon.
+
+For now, the trail is preserved and an enquiry lodged. The expedition’s sailing and onward bookings remain intact.
+
+Your developing network has no headquarters. It exists in courteous letters, useful answers, remembered introductions and invitations to write again. A constructor, a freight correspondent, an archivist and an insurance assessor each see a different part of the world. None sees the complete picture taking shape in your notebooks.
+
+Nor do your scholars need to. Their academic reports remain properly attributed and prepared for the Collegium and Chancery. Your private assessments of people, competing interests and opportunities travel separately.
+
+You become known in these circles as a remarkably useful man to consult—and an unusually difficult visitor to impress with a confident explanation unsupported by evidence.
+
+***
+
+Letters from home arrive as the route permits.
+
+Veskan’s arm is healing well. His latest account devotes more space to a disagreement about where a chair ought to stand than to his injuries. Corva adds that he has begun offering advice to everyone working about the house, whether they require it or not.
+
+Household arrangements continue under her authority. Estate statements will follow separately; projected harvest income remains distinct from money actually received. She asks that you send measurements before ordering anything substantial for the workshop.
+
+The Collegium’s financial letters are equally clear. Your salary has been credited on the first of months eleven, twelve and one: **180 lorrats** across the interval. The scholars’ wages also continue through their normal payroll. Neither comes out of the travel fund.
+
+By the eighty-fifth evening, the expedition has incurred **2,560 lorrats in further operating expenses**, bringing its expenditure to **3,070**, including the equipment and opening passage paid before departure. **11,430 remains in the expedition account**, with the financial contingency still available. Your private purchases, correspondence and clothing alterations have cost another **36 lorrats**.
+
+The arrangements support the work as intended. No aircraft has been necessary, and none of the ten reserved contingency days has been consumed.
+
+***
+
+**Drossane — evening, 16/01/0068 AC43. Expedition day 85.**
+
+The final hired vehicle draws into the courtyard with dust settled along its panels. Above the buildings, the escarpment holds the last of the light.
+
+Inside your lodgings, reports, correspondence and sample cases begin occupying the table. Eighty-five days have greatly expanded your practical knowledge of how other countries build, maintain, govern and bargain. More valuable still, you can increasingly see how improvements in one discipline might unlock possibilities in another.
+
+Tessier arrives carrying the reply to your enquiry about the transferred collection.
+
+“The assay office will receive us tomorrow,” he says. “They have found the transfer entry. Their clerk is checking which holdings still correspond to it.”
+
+He places the letter beside your private notebook.
+
+Your five full days in Drossane begin in the morning.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 2 years, 6 months; still growing towards full maturity around age 3.  
+**Date:** 16/01/0068 AC43 — evening; expedition day 85, Drossane.  
+**Reputation:** Veyrassan scholar-engineer and expedition leader; growing professional recognition and useful foreign connections.  
+**Weapons (Equipped):** None. Vouressan-bone greatsword remains secured in your Collegium room.  
+**Armor/Clothing (Equipped):** Refitted charcoal coat, pale shirt, dark trousers and leather boots; no armour.  
+**Gear/Inventory:** Travel and commission papers, research notebooks, copied records, correspondence, measuring tools and expedition baggage. Collegium instruments remain institutional loans. No Hunter artefact acquired.  
+**Currency:** **522 lorrats personal funds**, including credited wages; **264 earmarked**, **258 uncommitted**. Separate expedition fund: **11,430 lorrats**. Estate transactions await their separate statement and have not been netted into this personal balance.
+
+
+## 500 — User — Drossane accommodations
+
+What are my accommodations like here. Please describe the sights, smells and sounds 
+
+## 501 — Assistant — Drossane accommodations
+
+Your lodgings occupy the upper floor of a substantial stone guesthouse a short walk from Drossane’s administrative streets. It caters to visiting mine proprietors, commercial delegates and officials conducting business with the Compact. The expedition’s rooms open off the same corridor, with a private sitting room set aside for meals, meetings and the growing encroachment of your paperwork.
+
+The building is old enough that generations of feet have hollowed the centres of its stair treads. Dark timber panelling covers the lower walls; above it, pale plaster bears a few fine cracks beneath the cornice. Brass door handles shine where hands touch them and darken around their fittings. Someone has recently polished the woodwork. Beeswax mingles with the dry, faintly mineral smell of the masonry.
+
+Your room is at the corner.
+
+The ceiling is high, crossed by heavy beams, and the double doors spare you the usual awkward turn of your shoulders, although you still incline your head beneath the lintel. Your hosts received the expedition’s requirements ahead of you. An unusually long sleeping platform has been assembled against the inner wall, fitted with a thick mattress, clean linen and folded woollen blankets. A broad, sturdy bench stands at its foot. The writing table is solid enough to bear your weight leaning over it without complaint.
+
+The ordinary armchair beside the hearth is rather less promising.
+
+Its carved arms sit close together. Across from it, however, a long upholstered settle offers you somewhere comfortable to sit. The arrangements have the practical care of people who understood the request and had a carpenter do something about it.
+
+Two tall windows overlook the courtyard and the street beyond. The glass has slight waviness that bends the straight edges of distant roofs when you move your head. Heavy green curtains hang beside the shutters, their lower folds smelling faintly of dust and warmed wool.
+
+Outside, the escarpment rises above the town. The last sunlight catches its higher faces while the streets below settle into blue-grey shade. Chimneys and tiled roofs overlap down the slope. Farther along the street, a merchant is drawing shutters across a window displaying mineral specimens on little labelled stands. A porter passes beneath him with a wooden case balanced on one shoulder, walking carefully around the gutter.
+
+From this height you can see into part of the guesthouse courtyard: the hired vehicle being unloaded, a groom leading a horse beneath the service arch, kitchen light spilling across damp flagstones. Water has darkened the stones around a drain. Near the entrance, wheels have ground pale grit into the paving joints.
+
+The room itself is warmest near the hearth. A small coal fire glows beneath a crust of grey ash, occasionally settling with a soft crack. Its heat brings out the scent of old wood and the sharper trace of metal polish from the fire irons. Near the windows, cooler air slips through the fittings and carries hints of chimney smoke, horse leather and the courtyard below.
+
+Supper is being prepared somewhere beneath you. Onions frying in fat reach you first, then stock, pepper and bread warming close to an oven. An enamelled jug and basin stand on a washstand in the adjoining dressing recess, beside soap wrapped in paper. There is a bathroom farther along the corridor; hot water can be brought to your room as well.
+
+An electric pendant lights the centre of the ceiling. Your desk has its own shaded lamp, casting a concentrated amber pool across Tessier’s letter and the grain of the tabletop. Beyond that circle, the window glass is beginning to reflect the room.
+
+The sounds arrive in layers.
+
+Close by: a page turning in the sitting room, the click of a case being unlatched, Rouvant reminding someone that a box marked *glass* ought to remain upright. A servant’s keys touch one another in the corridor. Somewhere inside the wall, a water pipe knocks twice and falls quiet.
+
+Below: boots on stone, crockery being stacked, a brief argument between a driver and a porter that ends in laughter.
+
+Farther away: an engine labouring uphill, the iron clatter of a cart, and a railway whistle stretched thin by distance.
+
+Your hearing can separate far more of it than your companions could. With the door closed, though, the room provides privacy and a place to work. The table is ready, the fire is taking hold, and beyond the glass Drossane is lighting its windows one by one.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 2 years, 6 months.  
+**Date:** 16/01/0068 AC43 — evening; expedition day 85, Drossane.  
+**Reputation:** Veyrassan scholar-engineer and expedition leader; growing foreign professional connections.  
+**Weapons (Equipped):** None; greatsword remains at the Collegium.  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots.  
+**Gear/Inventory:** Expedition papers, research records, correspondence, measuring tools and baggage; loaned Collegium instruments.  
+**Currency:** 522 lorrats personal funds: 264 earmarked, 258 uncommitted, pending the separate estate statement. Expedition fund: 11,430 lorrats. No additional charge recorded for these previously arranged accommodations.
+
+
+## 502 — User — Assay office visit
+
+I proceed to the assay office in the morning with those scholars under my management who would benefit from attending this excursion with me.
+
+## 503 — Assistant — Assay office reception
+
+Varcet, Rouvant and Tessier accompany you, bringing measuring tools, clean paper and the correspondence from Serevienne. Sarnot joins them for the old waterworks surveys. Aubrel continues his enquiries into cultivation and useful local materials; there is little reason to suspend his work for an entire morning of metallurgical records.
+
+The streets are already busy when you leave. Shopkeepers sweep grit from their thresholds, and delivery carts force pedestrians into narrow files along the walls. Warm bread scents one corner; farther uphill, the smell gives way to coal smoke and the oily exhaust of a lorry labouring under a load of stone.
+
+People look. One conversation stops altogether as you pass. Your companions have grown accustomed to that brief silence, though Tessier still watches faces when it happens.
+
+The assay office stands behind a shallow flight of worn steps. Its entrance bears a carved balance above the doors, the stone darkened beneath the projecting lintel. Inside, commercial business is already proceeding across a long counter: sealed sample bags, receipts, arguments conducted in the careful voices of people for whom a small difference in a reported metal content means considerable money.
+
+Beyond the counter, glass protects a set of fine balances from draughts. Somewhere deeper in the building comes the steady scrape of a sample being ground.
+
+Tessier presents the letter.
+
+The clerk reads the signature, glances up at you, then rises.
+
+“They are expecting you, my lord. Through here, please.”
+
+You are led into a rear examination room with tall windows and a broad table beneath them. Its surface carries old scratches and pale rings left by vessels. Three document bundles, a shallow wooden tray and a long, closed case have been set out beside a ledger.
+
+The man waiting there is narrow-shouldered, with grey threaded through his dark hair and a magnifying lens hanging from his waistcoat.
+
+“Lucien Sarvelle. I keep the reference collection.” His gaze briefly measures the clearance above your head before returning to your face. “Marcelet’s references were helpful. We had these entered under the receiving commission, rather than the institution that originally owned them.”
+
+He rests two fingers on the nearest bundle.
+
+“That made a difference of three cupboards.”
+
+Tessier smiles. “It often does.”
+
+The waterworks papers have survived reasonably well. Their folded edges are worn soft, and a few sheets carry old tide marks, but the sections and annotations remain legible. Sarnot bends over a drawing of an intake and settling works, following a sequence of corrections in different inks.
+
+“These include maintenance notes,” she says. “Not just the submitted design.”
+
+“Several years of them,” Sarvelle replies. “They were kept together when the bindings failed.”
+
+Rouvant receives a notebook of material trials. Varcet moves beside her as she turns to a page containing a precise drawing of a curved mounting, its dimensions crowded by later annotations.
+
+Then Sarvelle opens the long case.
+
+Dark padding surrounds an object roughly the length of a human forearm: an asymmetrical metal housing, broken across one end, with a recessed, smoky-looking aperture at the other. Along its flank, shallow channels disappear beneath an overlapping section of casing. The broken end exposes layers whose arrangement bears little resemblance to the fittings you have been examining in local workshops.
+
+There are marks of violence on it. One edge has been crushed inward; part of the exterior is scored and discoloured. Someone subsequently attached small numbered tags with cotton thread, taking care to use existing openings.
+
+Varcet stops turning the notebook’s pages.
+
+“That is the object?”
+
+“The surviving portion,” Sarvelle says. He turns the ledger so you can see the accession entry. “The transfer description calls it a Hunter sighting instrument. The earlier investigators were less certain. Their reports are here.”
+
+He indicates the remaining bundle.
+
+“We have no demonstration of it working. We have the object, the custody record, and the examinations our predecessors made. I would be grateful if you kept those distinctions in any account you write.”
+
+Rouvant has already put down her pencil to avoid marking anything inadvertently.
+
+“What examinations may we undertake?”
+
+“Looking, measuring and drawing, initially. I can turn it on its supports. Anything involving removal of a component, reagents or applied power requires a separate discussion.” He looks towards you. “Some of the old tests consumed samples. I would prefer to learn whether their notes answer a question before sacrificing another piece to it.”
+
+The terms are delivered without hostility. There is an unmistakable interest beneath his care; he has laid out additional blank paper beside his own chair.
+
+Morning light falls across the exposed housing. Fine dust lies in a recessed seam, while the smoother surfaces catch a dull reflection from the window. You hear a cart passing outside, then the small click of Sarvelle setting the case key on the table.
+
+“Where would you like to begin, Lord Orsival?”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 2 years, 6 months.  
+**Date:** 17/01/0068 AC43 — morning; expedition day 86, Drossane assay office.  
+**Reputation:** Veyrassan scholar-engineer and expedition leader; growing foreign professional connections.  
+**Weapons (Equipped):** None; greatsword remains at the Collegium.  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots.  
+**Gear/Inventory:** Papers of introduction, research notes and measuring tools; expedition belongings at the guesthouse. The damaged purported Hunter instrument remains assay-office property.  
+**Currency:** 522 lorrats personal funds: 264 earmarked, 258 uncommitted, pending the separate estate statement. Expedition fund: 11,430 lorrats; no new payment made during this visit.
+
+
+## 504 — User — Out-of-character technical question
+
+Quick question out of character. Would Galahad have any idea what this is or how it operates based on his superior intellect and expertise? My brain is screaming at me and saying "lens are used for more than just sight magnification, Plasma Casters likely need a focusing lens
+
+## 505 — Assistant — Technical inference clarification
+
+**Yes—Galahad would recognise that possibility immediately.** With his intellect and engineering background, he would consider several explanations for an aperture and layered assembly: observation, targeting, rangefinding, energy emission or some combination. He would not accept “sighting instrument” simply because an old inventory called it one.
+
+Your focusing-lens suggestion is a sound **hypothesis**, with one technical distinction: an optical lens can focus light, whereas directing plasma would generally involve electromagnetic confinement or another mechanism. A weapon could nevertheless contain optical components for targeting or an associated energy system. We haven’t established how Hunter weapons accomplish this.
+
+Galahad would examine the relationships between the visible features:
+
+- **Optical paths and adjustable elements** could suggest imaging or targeting.
+- **Substantial power connections, insulation or heat-management structures** could suggest an active device, potentially a weapon component.
+- **Mounting points and broken interfaces** could reveal whether this was a complete instrument or part of a larger assembly.
+
+None of those clues alone settles its purpose. Damage and unfamiliar materials complicate interpretation, but his abilities should let him extract considerably more from them than an ordinary investigator could.
+
+**The scene should have included his immediate technical assessment.** What you received was mainly the custodian’s description, without enough of what Galahad himself could infer. That omission shouldn’t imply he needs you to supply engineering insights he would readily possess.
+
+At this moment, he can reasonably suspect **an optical or directed-energy subsystem whose historical identification may be wrong**. The description so far doesn’t establish enough physical evidence to choose between those possibilities—or to know exactly how it operates. His examination should produce concrete deductions and testable predictions, rather than leaving everything indefinitely “mysterious.”
+
+## 506 — User — Private examination
+
+Hunters are 4ok Yautja. They have plasma weapons but the tech follows 40k lore not whatever the predator universe establishes. I now take some time examining the device and its properties. I keep my thoughts to myself. If this is indeed a weapon I do not want to illuminate this to those around me without setting up leverage
+
+## 507 — Assistant — Private emitter assessment
+
+You begin with the broken end.
+
+Sarvelle turns the supports when asked, bringing the fracture into the window light. You examine it from several angles, then compare what you can see with the drawings left by the earlier investigators. Behind you, paper rustles as Sarnot and Tessier work through the waterworks records.
+
+The first conclusion comes quickly.
+
+**This is not simply a device for looking through.**
+
+The apparent lens has encouraged a misleading interpretation. There is no convincing arrangement of conventional optics behind it, no surviving mechanism for bringing an image into focus. Instead, the exposed structure is organised around a central passage, surrounded by repeated elements separated by exceptionally fine insulating layers.
+
+Those elements have connections. Substantial ones.
+
+You follow their visible relationships through the fractured section. Even without knowing the composition of the materials, you can recognise engineering priorities: controlled energy transfer, isolation between adjacent structures, and the management of heat around a common axis. The component’s maker devoted considerable effort to keeping some parts thermally connected and others separate.
+
+An ordinary observation instrument would have little use for this arrangement.
+
+You turn to the old examination notes.
+
+Their authors were not fools. One rejected the identification as a telescope. Another carefully recorded that the supposed optical surface did not behave like the familiar glass available to him. A later hand suggested an illuminator, then underlined the suggestion twice and added a question mark.
+
+Their measurements are useful. Their disagreements are useful too: they show where observation ended and analogy took over.
+
+Half an hour passes almost unnoticed.
+
+The object begins to resolve in your mind as a damaged portion of a larger mechanism. The rear fracture has severed both substantial feeds and much finer connections. Power and control once arrived from elsewhere. The surviving mount was intended to hold this assembly in a precise orientation while allowing it to be removed as a unit.
+
+At the opposite end, the recessed surface belongs to the aperture assembly. Calling it a lens describes its appearance, but does not establish its function.
+
+You compare the internal symmetry with the uneven damage. Some of the discolouration lies along protected inner surfaces that an impact alone would not readily explain. Combined with the surrounding structure, it suggests repeated exposure to an energetic process occurring along the central passage.
+
+**An emitter. Very probably the forward assembly of a weapon.**
+
+The repeated structures make sense as parts of a system for generating and shaping a field. Such a field could constrain matter that ordinary mechanical surfaces could not safely contain. A directed discharge of intensely energised, ionised gas fits what you can see considerably better than magnification or illumination.
+
+You cannot recover an entire alien science from one broken component. But you can identify the kind of problem its designers were solving—and several of the relationships their solution requires.
+
+Your best assessment is now specific: **a damaged plasma-weapon emitter and field-shaping assembly, dependent on missing power and control components.** The housing before you is no complete, ready-to-fire weapon. Nor does recognising its architecture give you the composition of its materials or the means to manufacture them.
+
+It does give you a sound starting point for further investigation.
+
+You offer none of this aloud.
+
+Varcet watches you compare two drawings, then shifts his attention to the fracture himself. Rouvant has begun listing the distinctions between the visible layers. Their interest is sharpening; they are capable people, and continued access may lead them towards related conclusions. For the moment, neither voices yours.
+
+Sarvelle waits until you look up.
+
+“You have found something worth pursuing?”
+
+His pencil rests above a clean sheet. The question is professional, almost hopeful.
+
+You have the advantage of an interpretation he does not yet possess. How much of it to exchange—and for what—remains yours to decide.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 2 years, 6 months.  
+**Date:** 17/01/0068 AC43 — later that morning; expedition day 86, Drossane assay office.  
+**Reputation:** Veyrassan scholar-engineer and expedition leader; growing foreign professional connections.  
+**Weapons (Equipped):** None; greatsword remains at the Collegium.  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots.  
+**Gear/Inventory:** Introduction papers, research notes and measuring tools. Privately identified a probable Hunter plasma-weapon assembly; it remains assay-office property.  
+**Currency:** 522 lorrats personal funds: 264 earmarked, 258 uncommitted, pending the estate statement. Expedition fund: 11,430 lorrats. No new payment.
+
+
+## 508 — User — Private overnight research
+
+“Seems to be some kind of ocular device. Perhaps a kind of telescope. I appreciate you letting me study the artifact. I would be very interested in seeing others if they come your way. It has been a pleasure meeting you Lucien, thank you, truely.” I say simply and shake his hand with a polite nod while exuding my psychic presence of comfort and ease. My psychic emotional pressure is subconscious at this point. When I return to the guest house I analyse each the emitter in my mind. Take it apart. Move it around. Swap pieces and parts and place it back together again. I spend the remainder of the night and most of the next early morning taking enough notes and ideas that the stack of papers is the size of a small novel by the time I finish. I do not sleep as my mind races with ideas. Ways I could bridge the control and power issues. How the material works. Structural density. What is it exactly. Can we replicate it. Could it be used for munitions. How does the emitter maintain accuracy. How does it fit into a functional plasma weapon. How do these plasma weapons work and scale. Many ideas.
+
+## 509 — Assistant — Emitter manuscript
+
+Sarvelle takes your hand. Against yours, his feels narrow and dry, with a small callus where his pen rests.
+
+“A pleasure, Lord Orsival. I shall keep your correspondence address with the collection papers.”
+
+The tension around his eyes eases. Your presence settles over the farewell with the familiarity of warmth from a hearth; there is no conspicuous exertion, no moment in which you must stop to summon it.
+
+He glances towards the open case.
+
+“Perhaps a telescope, then. Though those internal fittings remain a puzzle.”
+
+He leaves the uncertainty intact. Your mild explanation supplies him with no reason to press you, and the meeting ends agreeably. Varcet and Rouvant bring away their observations; neither receives your private conclusion.
+
+***
+
+Back at the guesthouse, the emitter returns to the table without ever leaving its case at the assay office.
+
+You hold it in memory.
+
+The fractured edge. The overlapping casing. The recessed aperture and the relationship between each exposed layer. You turn it, separate the visible structures, and reconstruct the angles obscured during your examination. Where the evidence permits more than one arrangement, you retain alternatives rather than allowing an attractive guess to become a remembered fact.
+
+Your first sheets are drawings.
+
+Then sections through those drawings. Then annotations connecting them to passages from the examination records.
+
+By evening, the table has disappeared beneath paper.
+
+The useful distinction emerges early: the assembly you examined was built to perform a particular part of a larger process. It did not need to generate all its own power, interpret every instruction or dispose of every consequence unaided. Somewhere behind it, other systems performed those tasks.
+
+That changes the questions.
+
+Instead of imagining an entire miniature machine concealed inside the surviving housing, you consider what the missing parts must have supplied. You sketch several possible relationships between source, control and emitter, then reject arrangements that conflict with the surviving interfaces.
+
+You cannot see the absent mechanism. You can nevertheless narrow what it must accomplish.
+
+The materials occupy you for hours.
+
+An unusual surface is not enough to identify a substance. Nor can dimensions alone tell you its density without a reliable mass measurement. You mark those gaps precisely, alongside the properties suggested by the construction: parts apparently chosen to isolate, others to carry energy or spread heat, and interfaces whose survival may matter as much as the strength of either adjoining material.
+
+The question of replication branches across several pages. Reproducing an unfamiliar substance exactly is one problem. Finding whether several familiar materials could fulfil portions of its role is another. You catalogue the evidence each approach would require.
+
+Applications to munitions enter the notes as questions of material behaviour, durability and consistency. You do not yet have evidence that this particular substance would outperform existing materials in those roles. Its value may lie in properties that a projectile would never exploit.
+
+The emitter’s accuracy leads you back to its mounting and internal alignment. You distinguish where a weapon is pointed from how consistently its discharge follows that direction. The surviving structure offers clues to the latter; whatever aimed the complete weapon is missing.
+
+Scale proves equally absorbing. A larger device would have different burdens of support, heat and power. Shrinking one might demand materials or precision unavailable to an otherwise capable workshop. You fill a sheet with relationships that remain important at either size, then another with assumptions that would fail as the scale changed.
+
+You are developing a coherent account of the mechanism, not merely collecting impressive possibilities.
+
+***
+
+The guesthouse quiets around you.
+
+Conversation withdraws from the corridor. The last vehicle leaves the courtyard. Your lamp shines against black windowpanes while fresh pages slide beneath your hand.
+
+You do not sleep. There is no heaviness behind your eyes, no deterioration in the precision of your drawings. When you revisit the earliest pages, you catch weaknesses in them and replace whole sections with better explanations.
+
+At some point the windows cease reflecting the room and begin showing the courtyard again.
+
+By early morning, the stack has the thickness of a short novel. It contains an illustrated reconstruction, a functional model of the probable emitter, competing explanations for the missing systems, and a carefully ordered record of what further observations would distinguish them.
+
+The strongest achievement is already yours: you can now reason about this piece of Hunter technology as an engineered system. You can explain why particular features belong together and predict what you would expect to find beyond the fracture. Those predictions can be tested when access permits.
+
+The material composition and the missing machinery remain unanswered questions, but they are sharply defined ones now.
+
+Outside, someone begins sweeping the courtyard. Breakfast crockery rattles below.
+
+Your papers remain in your room. No copy has gone to Sarvelle, the scholars or either sponsor.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 2 years, 6 months.  
+**Date:** 18/01/0068 AC43 — early morning; expedition day 87, Drossane guesthouse.  
+**Reputation:** Veyrassan scholar-engineer and expedition leader; cordial correspondence established with Sarvelle.  
+**Weapons (Equipped):** None; greatsword remains at the Collegium.  
+**Armor/Clothing (Equipped):** Pale shirt, dark trousers and leather boots; charcoal coat set aside in your room.  
+**Gear/Inventory:** Expedition belongings and a substantial private technical manuscript on the probable Hunter plasma emitter. Artefact remains at the assay office. Alert and unimpaired after the sleepless night.  
+**Currency:** 522 lorrats personal funds: 264 earmarked, 258 uncommitted, pending the estate statement. Expedition fund: 11,430 lorrats before settlement of the current lodging and subsistence bill. No new payment recorded.
+
+
+## 510 — User — Concealment and breakfast briefing
+
+I take these papers and hide them within my other papers to ensure if anyone does find them or come looking they do not know exactly what they are looking for or how to find it. I then spend the rest of the early morning coming up with some designs and ideas for ciphers and code to begin recording my research in to make it extremely hard for others to use or reverse engineer. Once I hear the other Scholars waking up I join them for breakfast and review the tasks of the day with them and point them in their independent directions within the city. (Please end the scene just before everyone leaves the guesthouse)
+
+## 511 — Assistant — Before departure
+
+You dismantle the manuscript’s outward coherence first.
+
+The drawings go among mechanical studies. Material observations join your notes on industrial processes. Speculative pages disappear between unrelated calculations and copies of foreign technical literature. You retain the order in your head, leaving no convenient title sheet announcing what the scattered pages collectively describe.
+
+Someone casually opening a folder would encounter the accumulated work of an extraordinarily busy scholar. Reassembling this particular investigation would require finding the relevant sheets and recognising their relationship.
+
+That satisfies the immediate problem. You turn to the next.
+
+Your first cipher designs quickly become more ambitious than replacing one letter with another. The recurring vocabulary of technical work would make that approach too revealing. You begin developing a private notation in which symbols can represent operations, relationships and whole concepts, with their interpretation dependent on context you can retain without a written glossary.
+
+You test it on a short, innocuous passage from an earlier engineering study. Write, conceal the original, read it back. Where the notation permits two meanings, you revise it. Where it takes longer to understand than the thought it records, you simplify it.
+
+Several discarded versions accumulate beside your elbow.
+
+By the time footsteps begin moving along the corridor, you have a workable first system and sample passages you can recover accurately. Its compactness suits the way you think; another reader would face both concealed meaning and unfamiliar technical shorthand. You have not yet tested it against a determined analyst, but it is already a substantial obstacle to casual use of your work.
+
+The earlier manuscript remains scattered rather than fully rewritten. You keep that distinction clear: hiding the original pages buys discretion; the new notation will protect what you record in it.
+
+You put the cipher experiments away before opening your door.
+
+***
+
+Breakfast occupies the expedition’s sitting room. Fresh bread rests beneath a cloth, with butter, preserves, eggs and a pot of something dark and fragrant steaming near the centre of the table. The windows admit a pale morning light. Varcet is rubbing warmth into his hands around a cup; Rouvant has already moved a notebook away from the butter dish.
+
+Tessier looks up as you enter.
+
+“I have the addresses together. We should be able to avoid spending half the morning asking which entrance each office actually uses.”
+
+You review the day’s work with them, turning the separate enquiries towards questions that will make their reports useful together.
+
+Varcet’s priority is workshop practice: repair facilities, machine maintenance and the tolerances local firms can achieve consistently. You direct his attention to the difference between what a proprietor advertises and what the workshop routinely delivers.
+
+Rouvant will pursue the assay methods and material-trial records. Her task is to establish what was measured, how reliable the comparisons are, and which conclusions rest on observations that can still be checked. You give her no instruction to identify a weapon.
+
+Sarnot takes the waterworks papers as her starting point, seeking the corresponding municipal records and, where access permits, a comparison with the installations themselves. The maintenance annotations particularly interest her.
+
+“I want to know which corrections survived the next repair,” she says. “People draw beautiful solutions in margins.”
+
+Aubrel continues his enquiries into cultivation, useful local materials and their supply. You ask him to connect those observations with processing and storage: what reaches the city, what spoils, and what producers struggle to obtain.
+
+Tessier will work through the collection’s documentary history and the relevant civic records, preserving dates, ownership and source references. He will also handle the expedition’s ordinary correspondence and check the next appointments.
+
+They compare addresses, identify questions they can carry for one another, and agree to bring their findings back for the evening review. Nothing in the discussion reveals the private investigation spread through your papers upstairs.
+
+Breakfast draws to a close. Cups are set down. Notebooks close, and coats are gathered from the backs of chairs.
+
+The five scholars remain around the table, their day’s directions settled. Beyond the sitting-room door, the guesthouse is filling with the sounds of people preparing to go out.
+
+No one has left yet.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 2 years, 6 months.  
+**Date:** 18/01/0068 AC43 — morning; expedition day 87, guesthouse, before departure.  
+**Reputation:** Veyrassan scholar-engineer and expedition leader; established professional correspondents abroad.  
+**Weapons (Equipped):** None; greatsword remains at the Collegium.  
+**Armor/Clothing (Equipped):** Pale shirt, dark trousers and leather boots; charcoal coat in your room.  
+**Gear/Inventory:** Research papers dispersed among other notes; initial private cipher and technical notation developed. Existing emitter manuscript not yet fully encoded. Expedition belongings remain at the guesthouse.  
+**Currency:** 522 lorrats personal funds: 264 earmarked, 258 uncommitted, pending the estate statement. Expedition fund: 11,430 lorrats before settlement of current lodging and meals. No new payment recorded.

@@ -1,51 +1,3 @@
-# Sea-network review — current transport correction
-
-Read SEA-PASSAGES.md and the current expedition itinerary. All 109 previous sea corridors reviewed; current chart has 134 sea segments and 2,210 total segments, with five documented through services. The expedition retains 231 travel days, 124 visiting days, day-355 return and ten reserve days. Updated intermediate dates supersede earlier schedules; one day moves from Avercenne–Tervessac to Grevallier–Estrevigne. Forecast operating expense 12,061; reserve 2,439; no new payment, funding or story time.
-
-# Revision 60 — culling eras and accessible reference sections
-
-Use CALENDAR-REFERENCE.md, HISTORY-REFERENCE.md and calendar.json. Current evening: **21/10/0067 AC43**; departure **22/10/0067 AC43**. AC43 means After Culling 43; the current year is 67. A major culling opens a new era after its end, with Year 1 beginning at the next regular civil new year. Local raids do not reset the clock. The earlier Reconstruction / R notation is superseded, with all existing intervals preserved. No money, age or story time changes.
-
-The last major culling is a recurring historical event, not a civilisation-wide reset. Industrial continuity, languages, oral and written histories survive, while repeated destruction and warfare cause stagnation and uneven regression. Secret vaults and teaching traditions help preserve knowledge but can fail. Read the Ambros tradition in HISTORY-REFERENCE.md; Ambros founded the predecessor empire of Veldrassen and Ostrevain. His killing of a Hunter with a sword is the undisputed core of his legend and his foremost claim to fame; only the encounter’s circumstances remain uncertain. This background does not automatically grant Galahad new knowledge.
-
-Reader presentation: keep substantial reference records in consistently styled, keyboard-accessible dropdowns. Keep the current date, core character summary and map visible. Do not flatten all references into open cards when asked to polish formatting, and do not add back-to-top or topic-jump menus. Preserve all unique content. Earlier layout notes claiming that only comparison tools may collapse are superseded.
-
-# Revision 58 — capability clarification and optional future thread
-
-PHYSIOLOGY-REFERENCE.md distinguishes the founder baseline, bodily maturity and ultimate developed psychic potential. Earlier blanket below-Primarch ceilings and seconds/minutes survival estimates are superseded. Local human portable firearms are not bolter-equivalent threats; assess impact, penetration and functional injury separately, with armour and psychic defence included where actually present. No future mastery or elapsed story time is awarded.
-
-[Optional cohort and Malcador thread](COHORT-AND-FRAGMENT-OPTIONS.md) records the player's authorised future direction and an unconfirmed fragment hypothesis. It is authorial planning, not a new origin fact or character knowledge. The narrator may develop the fragment thread when earned or leave it unused. Galahad remains a coherent individual with stable soul–body integration; no Bile identity is transferred. The Lion and Guilliman are preferred recognition encounters. Consult the private handover for concealed assignments and logistics; historical revision notes cannot override this edition.
-
-# Revision 57 — accepted resistance and comparative assessment
-
-The player accepted transcript495 in496. PHYSIOLOGY-REFERENCE.md now controls the Genestealer resistance provisions: mature Galahad ordinarily rejects standard implantation, with independent formidable resistance to psychic takeover. This is deliberate Bile engineering in our campaign, not a canonical immunity attributed to all chimeras, Custodes or Primarchs. Other Tyranid hazards remain separate. Resistance must be dependable; do not invent routine exceptions to negate it. No exposure, knowledge of Tyranids, new mastered technique or elapsed time is enacted. The Lion comparison is a conditional future assessment; revision58 withdraws the older seconds/minutes estimates entirely. Source qualifications and the mature/current distinction remain controlling.
-
-# Revision 54 — funded and prepared expedition
-
-The expedition operating fund is 14,500 lorrats: 10,000 from the Chancery and 4,500 from the Collegium. The existing 510 in paid equipment and opening passage leaves 13,990 held, comprising 11,551 forecast remaining expenditure and 2,439 financial contingency. Ordinary wages are paid separately by the Collegium: Galahad 60 per pay month (720 annually), and five scholars at 35 each (2,100 annually), for total payroll of 2,820. Total cash provision is 17,320 including contingency; expected operating expense plus payroll is 14,881. Future wages are not prepaid or credited to personal cash. The Collegium also supplies inventoried loan instruments, home administration, correspondence, introductions and payment support from its existing institutional resources; these are in-kind support, not additional expedition cash or personal possessions.
-
-The full surface itinerary and ordinary travel arrangements were completed during the existing preparation interval: return target day355, hard deadline day365 from departure, 231 travel days, 124 full visiting days and ten reserve days. Departure is in northern autumn; the two northern sea stages fall within their established seasonal service windows. Ordinary entry/transit and declared scientific-instrument permissions, paid lodging arrangements, suitable passenger/cargo space and institutional payment access cover the route. Special military, private and restricted collection access is pursued separately and is not required for the expedition to function. See EXPEDITION-PREPARATION.md and EXPEDITION-BUDGET.md. No journey or additional expense is enacted by this correction.
-
-Earlier funding and pending-preparation statements are superseded by this explicit retcon. The 6,000/8,500 split proposed during discussion was not adopted; the controlling split is 10,000/4,500. Historical exact dialogue and snapshots remain unchanged. The scene remains the eve of departure, 21/10/0067 AC43, 55 local days after the 27/08/0067 AC43 census. Personal cash remains 378, earmarks264, free114. No elapsed time, new personal earnings or estate receipts are added.
-
-# Revision 53 — coastlines and balanced expedition plan
-
-The mainland shorelines of Otranto, Morholt and Vesalius now include irregular embayments, headlands and smaller inlets. Original Eastern Marches coastal geometry, Ceralte and all other island shapes remain unchanged. Coastal claim edges follow the corrected land outline; inland boundaries, settlement positions, transport alignments, rivers, populations and capacities retain their previous values. This is a cartographic correction, not in-story inundation or territorial loss. Read COASTLINE-REFERENCE.md; earlier statements that all mainland coastlines remain unchanged refer to their historical revisions.
-
-The player confirmed a 365-day deadline counted from expedition departure and requested a ten-day contingency. The revised proposed surface itinerary returns on day355: 231 travel days, 124 full visiting days and ten reserve days. Fourteen destinations have six full days and eight have five. Travel-day ranges also show their inclusive duration. See expedition-route.md and expedition-route.html. The funding and preparation qualifications originally attached to this route are superseded by revision54 and EXPEDITION-PREPARATION.md. No travel, payments, age progression or story time is enacted.
-
-# Revision 52 — island societies and dated prices
-
-The revision52 atlas contains 970 settlements and 2,182 transport segments, including 106 sea passages joining 72 harbours. Ten outer-island regions cover 63 additional islands: seven self-governing polities and three colonial administrations. Talasca belongs to Rovessara, Ordelune to Ostrevain and Edrask to Rovengard, with separate geographic returns. The corrected census is 1,223,820,000 across 43 disjoint groups; the added 14,620,000 outer-island residents were omitted from earlier coverage. Existing homeland populations, capacities, coastlines, mainland borders and all earlier routes remain unchanged. This is existing-world clarification, not new growth, migration, colonisation, construction or elapsed story time. Seven railway systems remain; no transcontinental Vesalian railway or direct Karsenne–Calvernis line is opened. Read ISLAND-CHAINS.md and TRANSPORT-REFERENCE.md. Earlier survey counts and blank outer-island assumptions are superseded.
-
-All economic price and wage bands are dated to the current local story year at the eve-of-expedition checkpoint, 21/10/0067 AC43, 55 local days after the 27/08/0067 AC43 census. The price year is Year 67 AC43. Read ECONOMIC-REFERENCE.md and economic-ledger.json for subsequent regional and event-driven changes; do not freeze prices forever, impose automatic annual inflation, reprice settled purchases, or apply an elapsed interval twice.
-
-Galahad’s unbuilt national-wonder designs are clarified in ARCHITECTURE-REFERENCE.md; estimates are current-price planning figures, not a commission. The expedition, funds, age, physiology and founder-origin ruling are unchanged.
-
-# Revision 51 - controlling founder origin
-
-Read ORIGIN-REFERENCE.md before describing provenance or temperament, and private/origin-retcon51.md for the concealed research motive and source qualifications. Bile is creator, not biological donor. The personal-genetics and Bile-ancestry premise is superseded throughout current records. Galahad has selectively engineered intellectual dispositions resembling Bile, without a transferred mind, memories or soul. Historical transcripts and snapshots remain historical.
-
 # Malaspina — narrator handover
 
 This is an ongoing, player-led Warhammer 40,000 campaign, not a completed story. The phone data-slate is the player's read-only reference. This guide is outside the fiction and is not displayed in the slate.
@@ -133,13 +85,11 @@ When local story time advances, preserve a prior snapshot and revise production,
 
 Read food-cultures.json and purge-history.json alongside the world record. Use meals organically to convey class, circumstance, hospitality, scarcity or affection. Do not force food into every scene or assign player tastes. The Last Major Culling ended approximately 67 local years before the census of 27/08/0067 AC43. Present growth rates do not describe the entire recovery. Purges respond to developments and Hunter interests; no fixed countdown forces the next one. Distinguish killed, captured and displaced. No new loss or personal memory is assigned to an existing character by these historical notes.
 
-Revision39 removes redundant local map additions and provides real northern/southern/western roads. Earlier revisions charted 897 settlements, then 899 after the two Ceralte ports. The current revision52 atlas has 970 settlements and 2,182 routes; use TRANSPORT-REFERENCE.md for the connected shipping network and island administrations. Unvisited repetitive principal names have corrected aliases in the private handover; retain stable IDs and established story names. The old measured-route accordion is retired, but source measurements remain. Read private/map-maintenance.md before editing.
+Revision39 removes redundant local map additions and provides real northern/southern/western roads. Earlier revisions charted 897 settlements, then 899 after the two Ceralte ports. The current atlas has 970 settlements and 2,210 routes, including 134 sea segments; use TRANSPORT-REFERENCE.md for the connected shipping network and island administrations. Unvisited repetitive principal names have corrected aliases in the private handover; retain stable IDs and established story names. The old measured-route accordion is retired, but source measurements remain. Read private/map-maintenance.md before editing.
 
-## Revision 50 checkpoint
+## Current checkpoint
 
-The current scene is the evening before expedition departure at the Auvrienne Collegium, twenty local days after approval (transcript443). Personal cash is 378, with 264 earmarked and 114 uncommitted; expedition cash is 13,990 after 510 paid, with regular wages separately funded. The completed preparation arrangements in EXPEDITION-PREPARATION.md supersede the former first-leg-only checkpoint. Veskan continues recovering at the estate; Corva retains household authority. Read CURRENT-CONTINUITY.md and the latest exact exchanges.
-
-Galahad is approximately two local years and three months old. Full bodily maturity is expected around age three, at 3 metres (about 9 ft 10 in); his last measured height remains 2.59 m. Preserve that distinction and do not force linear growth. Ceralte’s new ports Bellavara and Montelisse occupy existing islands and each has a sea passage to Dalmor. Their 46,000 residents are a subset of the established national census. This documentation adds no travel or story time.
+Read CURRENT-CONTINUITY.md: 18/01/0068 AC43, expedition day 87 morning, after breakfast with all six still inside the Drossane guesthouse. Personal accounted funds 522, earmarks 264 pending the household statement, uncommitted 258. Expedition held 11,430 after 3,070 paid; current guesthouse bills await settlement. Galahad is approximately two years and six months old; his last measured height of 2.59 m remains historical.
 
 The private handover controls concealed characterisation, founder records and physiology calibration. Preserve player agency and practical uncertainty. Physical advantages constrain dice outcomes. No political coup, royal death or Hunter intervention is predetermined.
 
@@ -147,7 +97,7 @@ Apply PHYSIOLOGY-REFERENCE.md before resolving fatigue, injury or combat. Never 
 
 ## Transport continuity
 
-The revision52 overview above supersedes this earlier transport synopsis; use the current island and transport references. The revised atlas clarifies existing infrastructure rather than enacting construction during the expedition preparations. New place names and claims are fixed; do not reroll them. Do not infer an operating service merely from a road crossing a railway, and do not treat a graph connection as a single-gauge through train.
+Use the current island and sea-passage references. The revised atlas clarifies existing infrastructure rather than enacting construction during the expedition preparations. New place names and claims are fixed; do not reroll them. Do not infer an operating service merely from a road crossing a railway, and do not treat a graph connection as a single-gauge through train.
 
 ## Estate visual continuity
 
@@ -156,9 +106,17 @@ Read ESTATE-REFERENCE.md and assets/estate-r48.jpg before narrating the estate. 
 
 ## Current and future portraits
 
-Read APPEARANCE-REFERENCE.md and assets/portrait-expedition-r50.jpg for Galahad's current expedition appearance. The earlier assets/portrait.png is his future national or military leadership appearance, to apply once he takes control of a nation or its military, not merely when he reaches adulthood. Preserve both images. The current age, last measured 2.59 m height, clothing inventory and eve-of-departure story checkpoint remain unchanged.
+Read APPEARANCE-REFERENCE.md and assets/portrait-expedition-r50.jpg for Galahad's current expedition appearance. The earlier assets/portrait.png is his future national or military leadership appearance, to apply once he takes control of a nation or its military, not merely when he reaches adulthood. Preserve both images. Use the current checkpoint for age, clothing location and travel; the last measured 2.59 m remains a historical measurement.
 
 
 ## Integrated planning reminders
 
 Raise foreseeable preparation needs and approaching deadlines through relevant NPCs and integrated scenes before a decision is needed: Savel or the bursar for funds and reports, Tessier for papers and appointments, port agents for sailings and seasonal notices. Do not bury essential warnings only in reference documents, wait for the player to discover them, or punish omission of routine competent preparation. Routine administration within the approved plan is delegated; material choices, new risks and changes of scope remain the player’s. Established seasonal planning is not retroactively forgotten. Unexpected disruptions must have an actual cause and timely notice where realistically available.
+
+## Deception and knowledge
+
+Record an NPC’s actual allegiance and motive separately from outward appearance, claims and each witness’s beliefs. Read concealed next-scene notes before narrating an encounter involving deceit. Player-supplied antagonist context prepares the narrator; it is not automatically character knowledge or an enacted outcome. Do not replace the agreed premise with an easier encounter or force the antagonist’s hoped-for consequences. Public attribution must follow evidence and events. Keep unrevealed plans private.
+
+## Reference presentation
+
+Retain consistent accessible dropdowns for substantial references, visible core state and map, and the established desktop/phone spacing and CSS arrows. Do not flatten sections or add navigation widgets during continuity updates. Historic figures need dates, not silent replacement with invented current returns.

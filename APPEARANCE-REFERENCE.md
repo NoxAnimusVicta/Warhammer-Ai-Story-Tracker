@@ -4,9 +4,9 @@
 
 ![Galahad in his current expedition clothing](portrait-expedition-r50.jpg)
 
-The player-supplied revision 50 artwork establishes his current appearance as he prepares to leave on the expedition: swept-back, neck-length white hair; strong, angular features; a long charcoal coat with broad lapels over a pale open-collar shirt; dark high-waisted trousers, a plain dark belt and polished dark leather lace-up boots. Use the image for clothing, bearing and facial appearance in current narration. His established eyes remain vivid green tending toward aquamarine; the image lighting does not change their colour.
+The player-supplied revision 50 artwork establishes his current appearance at departure and throughout the present expedition: swept-back, neck-length white hair; strong, angular features; a long charcoal coat with broad lapels over a pale open-collar shirt; dark high-waisted trousers, a plain dark belt and polished dark leather lace-up boots. Use the image for clothing, bearing and facial appearance in current narration. His established eyes remain vivid green tending toward aquamarine; the image lighting does not change their colour.
 
-He remains approximately two local years and three months old, last measured at 2.59 metres and still growing toward full bodily maturity around age three at 3 metres. A mature-looking face does not advance that timetable. The urban background supplies visual atmosphere rather than a new named location or an enacted journey. No new clothing purchase, travel, weapon or authority is implied.
+At 18/01/0068 AC43 he is approximately two local years and six months old, last measured at 2.59 metres and still growing toward full bodily maturity around age three at 3 metres. A mature-looking face does not advance that timetable. The urban background supplies visual atmosphere rather than a new named location or an enacted journey. The image itself grants no weapon or authority. Clothes were altered during travel; at the current breakfast scene his coat is set aside in his guesthouse room.
 
 ## Future national or military leadership appearance
 

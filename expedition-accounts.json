@@ -1,0 +1,59 @@
+{
+  "event_id": "expedition-days-001-085",
+  "date": "16/01/0068 AC43",
+  "expedition_day": 85,
+  "status": "Enacted by archived narrative; apply once.",
+  "opening_personal": 378,
+  "salary_entries": [
+    {
+      "date": "01/11/0067 AC43",
+      "galahad": 60,
+      "five_scholars_total": 175,
+      "source": "Collegium payroll, outside operating fund"
+    },
+    {
+      "date": "01/12/0067 AC43",
+      "galahad": 60,
+      "five_scholars_total": 175,
+      "source": "Collegium payroll, outside operating fund"
+    },
+    {
+      "date": "01/01/0068 AC43",
+      "galahad": 60,
+      "five_scholars_total": 175,
+      "source": "Collegium payroll, outside operating fund"
+    }
+  ],
+  "private_expenses": {
+    "copies_correspondence_access": 30,
+    "clothing_alterations": 6
+  },
+  "personal_accounted_funds": 522,
+  "earmarks_pending_estate_statement": 264,
+  "personal_uncommitted": 258,
+  "household": "House accounts remain separate and unreconciled; 522 is not a certified consolidated household net worth. No projected annual estate income credited. Corva retains authority and routine operations continue. Reconcile her statement before treating reserves as untouched cash or requiring new funding.",
+  "operating_opening": 13990,
+  "further_operating_paid": {
+    "rail": 1047,
+    "sea": 241,
+    "hired_road_transport": 192,
+    "local_transfers": 120,
+    "lodging": 252,
+    "meals": 333,
+    "research_copies_consumables": 100,
+    "freight_dispatch": 60,
+    "guides_assistants": 48,
+    "academic_hospitality": 120,
+    "administration_correspondence": 35,
+    "medical": 0,
+    "maintenance": 12
+  },
+  "operating_cumulative_paid": 3070,
+  "operating_remaining": 11430,
+  "contingency_within_remaining": 2439,
+  "basis": "Narrator-resolved aggregate invoices within established regional price bands. Seven fare equivalents for six people including Galahad oversized accommodation. Opening transport bundle already paid and excluded. Rail 11029.817km less350 opening; sea5176.6km less270 opening. Eleven shipboard days included in passage,74 ashore. No invented universal tariffs. Research/private copies kept separate.",
+  "time_contingency_used": 0,
+  "air_travel": false,
+  "record_date": "18/01/0068 AC43",
+  "settlement_note": "Balances reflect settled invoices through day 85. Day 86-87 accommodation and subsistence await settlement; no claim of free lodging. Estate statement is pending. No additional payment is enacted by publication."
+}

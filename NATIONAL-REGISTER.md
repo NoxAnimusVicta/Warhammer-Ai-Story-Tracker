@@ -6,7 +6,7 @@ Rounded estimates. The numerical source is national-register.json.
 
 ## Valuation
 
-Output is annual domestic value added, expressed at a common local purchasing-power valuation. It is neither treasury cash nor foreign currency exchange. Local currencies remain distinct. Constant prices use the current story-year valuation baseline. Later nominal price changes are recorded separately in ECONOMIC-REFERENCE.md and economic-ledger.json.
+Output is annual domestic value added, expressed at a common local purchasing-power valuation. It is neither treasury cash nor foreign currency exchange. Local currencies remain distinct. Constant prices use the Year 67 AC43 valuation baseline. Later nominal price changes are recorded separately in ECONOMIC-REFERENCE.md and economic-ledger.json.
 
 ## Uncertainty
 

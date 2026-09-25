@@ -1,6 +1,6 @@
 # House Orsival — current visual reference
 
-Revision 48 · Player-supplied estate artwork · Current eve-of-departure checkpoint.
+Revision 48 · Player-supplied estate artwork · Visual baseline recorded before departure, 21/10/0067 AC43. Current review: 18/01/0068 AC43; no newer artwork or major completed alteration recorded.
 
 ![House Orsival estate, current appearance](estate-r48.jpg)
 

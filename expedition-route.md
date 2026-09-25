@@ -1,6 +1,6 @@
 # Prepared expedition route
 
-Day 1 = departure on **22/10/0067 AC43**, in northern autumn. Dates use day/month/year after the numbered major culling. Planned return: **11/10/0068 AC43**; deadline: **21/10/0068 AC43**. The journey has not begun.
+Day 1 = departure on **22/10/0067 AC43**, in northern autumn. Dates use day/month/year after the numbered major culling. Planned return: **11/10/0068 AC43**; deadline: **21/10/0068 AC43**. Current position: Drossane, day 87 morning (18/01/0068 AC43), after breakfast and before anyone leaves the guesthouse. Ten reserve days remain unused.
 
 Return target: **day 355**. Reserve: **days 356–365 (10 days)**. Fourteen destinations receive six full days and eight receive five: 124 visiting days plus 231 travel days. Date ranges are inclusive. Funding, ordinary permissions, accommodation, payment access and seasonal sailings are arranged. See [preparation register](EXPEDITION-PREPARATION.md), [itemised budget](EXPEDITION-BUDGET.md) and [sea passage review](SEA-PASSAGES.md).
 
@@ -33,4 +33,4 @@ The sea review retains the capital order and prepared seasonal corridors. One da
 | Valdrec | 343–348 (6 days); 30/09/0068 AC43 – 04/10/0068 AC43 | 349–353 (5 days); 05/10/0068 AC43 – 09/10/0068 AC43 |
 | Auvrienne | 354–355 (2 days); 10/10/0068 AC43 – 11/10/0068 AC43 | Transfer / home |
 
-Operating fund 14,500 (Chancery 10,000; Collegium 4,500); 13,990 remains after 510 paid. Expected operating cost 12,061; financial reserve 2,439. Separate ordinary payroll 2,820 includes Galahad at 60/month and five scholars at 35 each. Total cash provision 17,320. Restricted research access is pursued separately. Northern homeward travel on days 312–336 uses the established days 295–350 sailing window. No automatic air travel or foreign gifts are required.
+Operating fund 14,500 (Chancery 10,000; Collegium 4,500); 11,430 remains after 3,070 settled costs; day 86–87 guesthouse bills await settlement. Expected operating cost 12,061; financial reserve 2,439. Separate ordinary payroll 2,820 includes Galahad at 60/month and five scholars at 35 each. Total cash provision 17,320. Restricted research access is pursued separately. Northern homeward travel on days 312–336 uses the established days 295–350 sailing window. No automatic air travel or foreign gifts are required.

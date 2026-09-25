@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "revision": 52,
+  "revision": 63,
   "baseline": {
-    "label": "Year 67 AC43 — 21/10/0067 AC43",
+    "label": "Year 67 AC43 \u2014 21/10/0067 AC43",
     "scene": "Auvrienne Collegium, evening before departure",
     "days_after_census_epoch": 55,
     "numbered_local_year": 67,
@@ -38,5 +38,17 @@
     "status",
     "replaces_temporary_modifier",
     "source"
+  ],
+  "last_review_date": "18/01/0068 AC43",
+  "reviews": [
+    {
+      "dates": [
+        "01/11/0067 AC43",
+        "01/12/0067 AC43",
+        "01/01/0068 AC43",
+        "18/01/0068 AC43"
+      ],
+      "finding": "Existing regional bands retained; trip invoices recorded separately in expedition-accounts.json. No blanket inflation at new year and no retrospective repricing."
+    }
   ]
 }

@@ -1,14 +1,16 @@
-# Orsival expedition — completed departure arrangements
+# Expedition preparation — arrangements completed before 22/10/0067 AC43
 
-Revision 54 · Auvrienne, evening before departure · Current local price year
+This register records the completed predeparture arrangements. The expedition is now at Drossane on 18/01/0068 AC43, day 87. These permissions and support arrangements continue; predeparture balances below are historical. Current actual costs are in EXPEDITION-BUDGET.md and expedition-accounts.json.
 
-The expedition is ready to depart. The Chancery and Collegium completed ordinary funding, travel and administrative arrangements during the petition and preparation period. This record corrects omissions in the earlier itinerary; it does not advance the journey or create a further preparation delay.
+Revision 54 · Auvrienne, evening before departure · Year 67 AC43 price basis
+
+At this historical checkpoint the expedition was ready to depart. The Chancery and Collegium completed ordinary funding, travel and administrative arrangements during the petition and preparation period. This record corrects omissions in the earlier itinerary; it does not advance the journey or create a further preparation delay.
 
 ## Funding and employment
 
 The Chancery supplies **10,000 lorrats**, and the Collegium **4,500**, creating a **14,500-lorrat operating fund**. Existing paid invoices total **510**; **13,990 remains**, including **2,439 financial contingency**. Expected total operating expenditure is **12,061**. See [the itemised budget](EXPEDITION-BUDGET.md).
 
-All six remain in Collegium employment. Galahad continues at **60 per pay month**, and each of the five scholars at **35**: **235 per month**, or **2,820 for twelve accounting months**. Expected expense including payroll is **14,881**; total cash provision including reserve is **17,320**. Pay is credited periodically to existing individual accounts, not prepaid from expedition funds. Galahad's personal cash remains 378; future earnings are not yet money held. No additional leadership premium is assumed.
+All six remain in Collegium employment. Galahad continues at **60 per pay month**, and each of the five scholars at **35**: **235 per month**, or **2,820 for twelve accounting months**. Expected expense including payroll is **14,881**; total cash provision including reserve is **17,320**. Pay is credited periodically to existing individual accounts, not prepaid from expedition funds. Galahad’s predeparture personal cash was 378; current wages and balances are recorded separately in the day-87 ledger. No additional leadership premium is assumed.
 
 The Collegium supplies its already inventoried survey instruments, microscope and balances on loan, maintains home administration and duplicate reports, and handles introductions, correspondence, remittances and agents. These are institutional resources, not personal gifts or an invented extra cash receipt. Foreign hospitality can save money but is not required to complete the tour. Paid professional lodging and ordinary meals are budgeted throughout.
 
@@ -69,7 +71,7 @@ Ordinary entry and transit arrangements, declared-instrument paperwork and routi
 | Estrevigne | 337–342 | Arranged. |
 | Valdrec | 349–353 | Arranged. |
 
-The ordinary programme covers public libraries and collections, academic discussions and agreed civil or commercial visits. It does not grant unrestricted access to private archives, weapons establishments, Hunter devices, guarded sites or arcane collections. A particular invitation may still be pursued without leaving the party unable to travel or undertake its core research. No artefact, secret or diplomatic friendship has already been acquired.
+The ordinary programme covers public libraries and collections, academic discussions and agreed civil or commercial visits. It does not grant unrestricted access to private archives, weapons establishments, Hunter devices, guarded sites or arcane collections. A particular invitation may still be pursued without leaving the party unable to travel or undertake its core research. These permissions alone awarded no artefact, secret or diplomatic friendship; subsequent enacted discoveries and relationships are recorded in CURRENT-CONTINUITY.md.
 
 Ordinary sample collection uses local consent and export documentation; restricted biological material, antiquities and weapons require separate permission or are left in place. Galahad's private interests do not alter the scholars' declared academic tasks or the existing confidential-reporting obligations. Each scholar submits sources, measurements, costs and findings to Galahad; he reviews them and directs subsequent priorities. Savel preserves duplicates at home.
 

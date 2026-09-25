@@ -1,6 +1,6 @@
 # Malaspina — sea passage review
 
-Current return: **21/10/0067 AC43**. All **109 previous corridors** were reviewed. The corrected chart has **134 port-to-port sea passages**, joining all **72 charted harbours**, within **2,210 total transport segments**. Five old long-distance lines remain as through-service itineraries over named calls, rather than duplicate nonstop lines. Twenty-two retained passages have corrected alignments; thirty omitted regional connections are now charted.
+Survey baseline: **21/10/0067 AC43**. Reviewed through **18/01/0068 AC43** without a newly enacted closure or network change. All **109 previous corridors** were reviewed. The corrected chart has **134 port-to-port sea passages**, joining all **72 charted harbours**, within **2,210 total transport segments**. Five old long-distance lines remain as through-service itineraries over named calls, rather than duplicate nonstop lines. Twenty-two retained passages have corrected alignments; thirty omitted regional connections are now charted.
 
 This is a correction of existing-world transport coverage. It creates no new port, colony, railway, ship, expense or elapsed story time.
 

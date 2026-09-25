@@ -1,12 +1,14 @@
 # Malaspina Economic Reference
 
+Price review: **18/01/0068 AC43**. Year 67 AC43 reference bands remain the baseline; no blanket new-year inflation is enacted. Apply recorded regional conditions and actual invoices, not automatic repricing.
+
 Version 1.4 · Current local story-year price baseline · Editorial update 23 September 2026
 
 This reference supplies the baseline for **new economic estimates** on Malaspina. It supplies consistent fictional purchasing power, normal price bands and rules for local variation. It is not a claim about historical Terran prices or a list of transactions already completed in the story. Established purchases remain historical facts; later explicit corrections take precedence.
 
 ## Price date and change over story time
 
-These prices describe the **current local story year**, anchored to the evening before expedition departure at Auvrienne, **55 local days after the census of 27/08/0067 AC43**. The real-world editorial date is not the in-world year. A local year contains 365 local solar days, each lasting 24 Terran standard hours and 8 minutes. The numbered date and month lengths are established in the culling calendar. See CALENDAR-REFERENCE.md. The skilled wage of 25 lorrats per pay month is this year's purchasing-power anchor, not a permanent nominal wage.
+These prices describe the **Year 67 AC43 baseline**, anchored to the evening before expedition departure at Auvrienne, **55 local days after the census of 27/08/0067 AC43**. The real-world editorial date is not the in-world year. A local year contains 365 local solar days, each lasting 24 Terran standard hours and 8 minutes. The numbered date and month lengths are established in the culling calendar. See CALENDAR-REFERENCE.md. The skilled wage of 25 lorrats per pay month is this year's purchasing-power anchor, not a permanent nominal wage.
 
 Use [economic-ledger.json](economic-ledger.json) for dated changes. Its starting regional/category indices are 1.00, meaning the existing tables and regional adjustments apply without an additional time surcharge. No inflation, wage rise or event shock is enacted by introducing the ledger.
 
@@ -207,7 +209,7 @@ Veyrasse's existing national return of **205 lorrat-equivalents per resident per
 
 Prices are fictional reference bands, not guaranteed quotations. Identify quantity, unit, quality, place and transaction stage; record what labour, transport and taxes are included. Keep estimates, allocations, invoices and payments distinct. Current household accounts are recorded separately in [ESTATE-ACCOUNTS.md](ESTATE-ACCOUNTS.md).
 
-Version 1.4 retains the price bands and event-led revisions, and reconciles the established calendar. The accepted replacement accounting passages in transcript439 govern the current balance.
+Version 1.4 retains the price bands and event-led revisions, and reconciles the established calendar. The replacement accounting passages in transcript439 establish the historical estate-pricing settlement. CURRENT-CONTINUITY.md and expedition-accounts.json govern the current balance.
 
 
 ## Expedition travel calibration — current price year

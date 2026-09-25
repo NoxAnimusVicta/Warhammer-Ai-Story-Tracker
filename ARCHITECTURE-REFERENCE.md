@@ -1,5 +1,7 @@
 # Galahad’s monumental architecture
 
+Price review: **18/01/0068 AC43**. Year 67 AC43 reference bands remain the baseline; no blanket new-year inflation is enacted. Apply recorded regional conditions and actual invoices, not automatic repricing.
+
 Current design clarification · Current local story-year prices
 
 Galahad’s unbuilt Veyrasse designs aim at nationally recognisable architectural wonders: immense war memorials incorporating walk-through mausoleums, names of the dead cut into stone, sculptural halls, towers and elevated galleries. At least one integrates a working aqueduct, reservoirs and separate distribution to nearby crops, town supply and fountains. The intended scale is comparable to the great works of human civil engineering, including an Empire State Building-sized or larger breadth or mass. No commission or construction has occurred.
