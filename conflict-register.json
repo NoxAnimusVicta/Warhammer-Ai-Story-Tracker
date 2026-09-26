@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "edition": 5,
+  "edition": 6,
   "epoch": "11/10/0068 AC43 — elapsed-year theatre reconciliation",
   "days_after_census_epoch": 410,
   "scope": "Principal recorded conflicts and unresolved disputes; not an exhaustive incident list. Unlisted regions are not certified peaceful.",
@@ -214,22 +214,6 @@
       },
       "consequences": "No declared war, diplomatic rupture, frontier change, transport closure, population deduction, fiscal transaction or market repricing established. Existing theatre classifications remain unchanged. No duplicate demographic or financial event is posted for zero losses and no expenditure.",
       "reference": "DROSSANE-INCIDENT.md"
-    },
-    {
-      "id": "royal-technical-commission-0068-10-11",
-      "occurrence_date": "11/10/0068 AC43",
-      "record_date": "11/10/0068 AC43",
-      "title": "Veyrasse royal technical commission",
-      "status": "Accepted and authorised; programme preparation pending",
-      "summary": "The Margrave authorised Galahad’s technical commission after restricted briefings. Rifle production and controlled trials precede review of standing advisory office. No general offensive or procurement payment enacted.",
-      "consequences": "No population loss, territorial change, route closure or national equipment increment. Costed allocation and remuneration pending; no fiscal charge guessed.",
-      "reference": "ROYAL-COMMISSION.md",
-      "attribution": "Accepted by Galahad and authorised by the Margrave in a signed minute, witnessed by senior command; no public announcement recorded.",
-      "losses": {
-        "deaths": 0,
-        "injuries": 0,
-        "captures": 0
-      }
     }
   ],
   "history": [
@@ -992,6 +976,7 @@
     "transaction": "Preserve the previous return. Record unique event ID, occurrence and report dates or uncertainty, theatre, prior/new status, source and confidence. Link consequences to the relevant population, economic, fiscal and transport records; record none or pending explicitly where appropriate.",
     "baseline": "Existing ordinary violence and security costs are already within dated baseline conditions. This initial register does not deduct population, charge budgets or multiply prices again.",
     "knowledge": "Distinguish archive assessment from information actually delivered to Galahad. NPCs communicate consequential known route changes before affected decisions. No predetermined escalation or guaranteed peace.",
-    "source": "Theatre event IDs link to world-year68.json. Older returns remain in history. Archive developments are not automatically delivered intelligence; report consequential information through an appropriate NPC."
+    "source": "Theatre event IDs link to world-year68.json. Older returns remain in history. Archive developments are not automatically delivered intelligence; report consequential information through an appropriate NPC.",
+    "classification": "Active theatres belong in entries. Completed security incidents belong in events and are presented separately from active conflicts. Administrative appointments and technical projects belong in the dossier and their subject references; the royal technical commission is maintained in ROYAL-COMMISSION.md. Earlier snapshots retain their original records."
   }
 }

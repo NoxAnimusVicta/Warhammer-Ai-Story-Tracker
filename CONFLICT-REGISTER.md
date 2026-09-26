@@ -148,6 +148,10 @@ Development: 08/09/0068 AC43; event theatre68-hunter-pressure.
 
 Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Local destruction and recovery continue; no evidence here of Culling 44.
 
+## Recorded security incidents
+
+Completed incidents and their continuing consequences; separate from the active theatres above.
+
 ## Drossane guesthouse assassination attempt
 
 Event ID: drossane-0068-01-18
@@ -166,24 +170,6 @@ No declared war, diplomatic rupture, frontier change, transport closure, populat
 
 [Full incident](DROSSANE-INCIDENT.md)
 
-## Veyrasse royal technical commission
-
-Event ID: royal-technical-commission-0068-10-11
-
-Occurred: 11/10/0068 AC43. Recorded: 11/10/0068 AC43
-
-Accepted and authorised; programme preparation pending
-
-The Margrave authorised Galahad’s technical commission after restricted briefings. Rifle production and controlled trials precede review of standing advisory office. No general offensive or procurement payment enacted.
-
-Accepted by Galahad and authorised by the Margrave in a signed minute, witnessed by senior command; no public announcement recorded.
-
-Losses and harm: {"deaths": 0, "injuries": 0, "captures": 0}
-
-No population loss, territorial change, route closure or national equipment increment. Costed allocation and remuneration pending; no fiscal charge guessed.
-
-[Full incident](ROYAL-COMMISSION.md)
-
 ## Maintaining the living return
 
 Local story time only; no wall-clock simulation.
@@ -197,6 +183,8 @@ Existing ordinary violence and security costs are already within dated baseline 
 Distinguish archive assessment from information actually delivered to Galahad. NPCs communicate consequential known route changes before affected decisions. No predetermined escalation or guaranteed peace.
 
 Theatre event IDs link to world-year68.json. Older returns remain in history. Archive developments are not automatically delivered intelligence; report consequential information through an appropriate NPC.
+
+Active theatres belong in entries. Completed security incidents belong in events and are presented separately from active conflicts. Administrative appointments and technical projects belong in the dossier and their subject references; the royal technical commission is maintained in ROYAL-COMMISSION.md. Earlier snapshots retain their original records.
 
 For each material event, retain occurrence time and report time separately. Record deaths, injuries, captures and displacement separately, using ranges or unknowns when evidence is weak. Missing people are not automatically dead. Cross-reference demography.json events, economic-ledger.json changes and relevant national-register.json fiscal/capacity adjustments with the same event ID. Reconcile settlement and census-group subsets and both sides of migration. Do not deduct ordinary mortality or defence expenditure twice. Prices change by affected market and commodity, not by a universal war surcharge. Forecast spending is not cash already paid.
 

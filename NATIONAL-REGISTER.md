@@ -40,11 +40,11 @@ Current population and economic projections share the stated estimate date. Base
 
 Current-year budget forecasts and current treasury stocks are separate from the older census/capacity return. All fiscal figures use millions of current-baseline lorrat-equivalents; local currencies remain distinct. Public revenue is own-source tax, customs, fees and public-enterprise net receipts. Transfers are shown separately and matched to another return. Total spending includes defence, civilian programmes, interest and outward transfers; debt principal is financing, not expenditure. A positive budget balance is a surplus; a negative balance is a deficit. Liquid reserves are available treasury cash and near-cash, excluding private wealth, buildings, stores and borrowed credit limits. Gross debt is outstanding public principal; gross debt less liquid reserves is a limited net-debt measure, not a complete public balance sheet.
 
-## Fiscal_Scope
+## Fiscal Scope
 
 Returns consolidate public authorities within each geographic group, excluding internal transfers and internal public claims. Divided regions retain separate treasuries: combined reserves cannot be spent by one ruler. Colony and parent transfers cancel in planetary totals. Gross public debt cannot be summed as a planetary net liability: domestic creditors and cross-border claims are not classified here. Sector allocations and balances are rounded staff estimates, not audited invoices; sovereign guarantees and private liabilities are excluded unless assumed by the treasury.
 
-## Fiscal_Updates
+## Fiscal Updates
 
 Elapsed treasury movement is explicitly estimated from the preserved financing plan, separately from newly projected annual run-rates. These are not confirmed transactions. Replace estimates with reconciled accounts when available; do not add a second full annual budget movement. Personal, estate and expedition ledgers remain unchanged.
 
@@ -1386,7 +1386,7 @@ Military physicians record unusual perception when it comes to their attention. 
 
 ### Year 68 developments
 
-09/09/0068 AC43; recorded 11/10/0068 AC43. An Month 8 frontier exercise and supply rotation alarmed Averholt. Month 9 liaison observers and advance exercise notices reduced the immediate risk of miscalculation without resolving territorial claims. Caldovre completed replacement armour and gun returns; frontier commitments still absorb the same broad share of the field force.
+09/09/0068 AC43; recorded 11/10/0068 AC43. A Month 8 frontier exercise and supply rotation alarmed Averholt. Month 9 liaison observers and advance exercise notices reduced the immediate risk of miscalculation without resolving territorial claims. Caldovre completed replacement armour and gun returns; frontier commitments still absorb the same broad share of the field force.
 
 Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
 

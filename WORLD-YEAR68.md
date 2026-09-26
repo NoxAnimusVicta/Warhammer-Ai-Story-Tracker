@@ -280,7 +280,7 @@ Industry and service changes above are narrower than a full step on the 1–5 na
 
 review68-vardol · effective 09/09/0068 AC43 · recorded 11/10/0068 AC43
 
-An Month 8 frontier exercise and supply rotation alarmed Averholt. Month 9 liaison observers and advance exercise notices reduced the immediate risk of miscalculation without resolving territorial claims. Caldovre completed replacement armour and gun returns; frontier commitments still absorb the same broad share of the field force.
+A Month 8 frontier exercise and supply rotation alarmed Averholt. Month 9 liaison observers and advance exercise notices reduced the immediate risk of miscalculation without resolving territorial claims. Caldovre completed replacement armour and gun returns; frontier commitments still absorb the same broad share of the field force.
 
 Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.
 
@@ -472,7 +472,7 @@ Industry and service changes above are narrower than a full step on the 1–5 na
 | serviceable aircraft | 360 | 22 | 16 | 366 |
 | serviceable artillery | 1,870 | 60 | 45 | 1,885 |
 
-### Month 3 of Veyrasse
+### March of Veyrasse
 
 review68-veyrasse · effective 30/09/0068 AC43 · recorded 11/10/0068 AC43
 

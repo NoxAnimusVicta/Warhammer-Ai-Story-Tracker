@@ -29,3 +29,23 @@ Desktop and 430 × 932 phone-width browser checks cover all five tabs, expanded 
 Original census, national capacity inputs, geography, artworks, exact transcript and all 100 journal entries are preserved. Superseded checkpoints remain historical. The editable conflict source preserves the prior return; the published conflict JSON is derived with the new review and includes that prior snapshot. No historical conversion script was rerun. Edited current documents were read before revision; unchanged archives and every older backup were not all reread as though they were current authority.
 
 Current references: [continuity](CURRENT-CONTINUITY.md), [year review](WORLD-YEAR68.md), [living-world method](LIVING-WORLD-REFERENCE.md), [conflicts](CONFLICT-REGISTER.md), [national returns](NATIONAL-REGISTER.md), [completed expedition](EXPEDITION-RETURN.md) and [royal commission](ROYAL-COMMISSION.md).
+
+## App audit following the commission-classification report
+
+The story checkpoint and content revision remain 68. This is a correction to presentation and classification, not a new scene or time advance.
+
+- The royal technical commission was incorrectly included in the conflict register's general event list. Its current home remains the **Dossier → Royal technical commission**, with the complete terms in ROYAL-COMMISSION.md and its historical milestone in the Chronicle. It is excluded from the current security-event list. Earlier conflict snapshots preserve the original record.
+- **Active conflicts & disputes** contains the eight current theatres. The completed Drossane attempt is now under **Recorded security incidents**, with its attribution, consequences and full-reference link preserved. It is not presented as an ongoing battle.
+- A calendar replacement had corrupted the yearly-review name to “Month 3 of Veyrasse”. The name is restored to **March of Veyrasse**, and a check now compares all 43 review names against their political records. The related “An Month 8” grammatical error is corrected.
+- National accounting headings display normal words instead of internal field names such as “Fiscal_Scope”. The ranking checkbox now explicitly says that it includes divided **and colonial** returns, matching its existing behaviour.
+- Changing the comparison nation, or reopening the comparison panel, no longer recreates the main national profile and closes its open yearly-review, treasury and food panels. The selected political record still changes normally when a different primary power is chosen.
+
+### Coverage and results
+
+Read-through covered the five app tabs, all 100 journal summaries, all 43 political profiles and dated yearly reviews, the character's current fields and research/relationship/estate records, and the linked completed expedition planner. Historical journal states remain labelled as historical rather than being rewritten as current facts. Files changed for these corrections were read before editing.
+
+Browser checks covered all five tabs at 1440-pixel desktop and 430-pixel phone widths, including all 162 expandable panels in the selected-record configuration. No page-wide horizontal overflow was found. Every political profile loaded with its current date; all nine ranking metrics worked, with 29 independent-state returns or 43 inclusive returns. Comparison changes preserved open profile sections. Settlement search and the Serravonne record, atlas wrapping and polar limits, estate-image zoom/reset, archive status and expedition-day selection were exercised. The physical iPhone and its native touch gestures were not directly tested; automated viewer checks cover wheel/pinch calculations and bounds.
+
+All 16 current verification suites passed, including the new classification/reference/preservation check. They reconcile 970 settlements, 43 disjoint political returns, population, fiscal arithmetic, equipment movements, dates, completed travel and public references. All local app/planner links and image references resolve; generated element IDs are unique. The build is repeatable. Browser error logs were empty during the checks.
+
+The seed, exact transcript, 100 journal entries, calendar, money, physiology, estate reference, geographical and population baselines, expedition accounts and royal-commission terms were unchanged. Updated public derivatives were rebuilt from their maintained sources. This audit does not claim that every old private backup or external linked website was reread or that testing proves the absence of every possible defect.
