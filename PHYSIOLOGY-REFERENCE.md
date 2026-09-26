@@ -1,6 +1,6 @@
 # Galahad — controlling physiology reference
 
-Revision 64 · Demonstrated Drossane abilities and developed potential and contextual durability, retaining the accepted endurance and infection-resistance provisions. This is narrator continuity for this campaign, not a universal canonical specification for Custodes or Primarchs. It supersedes older conflicting sleep, stamina and overall combat assumptions, including revision43 and the preparation scene's 3–4-hour sleep statement. Historical dialogue remains unchanged.
+Revision 65 · Mature physiology and demonstrated expedition abilities and developed potential and contextual durability, retaining the accepted endurance and infection-resistance provisions. This is narrator continuity for this campaign, not a universal canonical specification for Custodes or Primarchs. It supersedes older conflicting sleep, stamina and overall combat assumptions, including revision43 and the preparation scene's 3–4-hour sleep statement. Historical dialogue remains unchanged.
 
 ## Sleep and wakefulness
 
@@ -26,7 +26,7 @@ Unaided physical performance exceeds ordinary Astartes; being below a typical Cu
 
 At **full maturity**, one typical Custodian is insufficient to reliably defeat Galahad under comparable conditions, considering his combined physical and psychic capabilities. More than one would ordinarily be needed to put him down. Experience, developed powers and equipment can increase that advantage; no fixed opponent-count formula overrides tactics, conditions or exceptional individuals. Do not turn his current lack of experience into permanently reduced potential, or award future experience immediately.
 
-He remains a perfected proto-Primarch. The modest advantage over the adopted Alpha Primus benchmark describes the foundational design; it does not impose a permanent ceiling on developed psychic power or every component of durability. Bodily maturity is not the completion of a lifetime of psychic development. Full bodily maturity occurs around three local years at three metres. At 18/01/0068 AC43, current approximate age is two years and six months; the last actual measurement remains 2.59 metres. This clarification advances no time, combat, training, transactions or demonstrated powers.
+He remains a perfected proto-Primarch. The modest advantage over the adopted Alpha Primus benchmark describes the foundational design; it does not impose a permanent ceiling on developed psychic power or every component of durability. Bodily maturity is not the completion of a lifetime of psychic development. Full bodily maturity occurs around three local years at three metres. At 11/10/0068 AC43 he is approximately three years and three months old and has reached bodily maturity at about 3 metres. The earlier 2.59-metre measurement is historical. No exact birthday is established.
 
 ## Narration and maintenance rule
 
@@ -46,7 +46,7 @@ Tyranid toxins, corrosives, spores, invasive organisms, specialised bio-weapons,
 
 Do not introduce exceptional strains or overpowering control merely to cancel the agreed advantage. An exception requires established properties, exposure or psychic circumstances proportionate to his defences. Unfamiliarity alone is not sufficient. No universal infection-success probability or guaranteed cure after established infection is specified.
 
-This protective design belongs to his engineered constitution, not a newly acquired treatment. The normal-rejection benchmark was agreed for mature Galahad; his exact present-age degree has not been separately quantified. Do not invent a switch that leaves all protection absent until his third birthday, or present the mature benchmark as a performed adolescent trial. No new encounter, infection, immunity test, offworld vocabulary or knowledge has been granted. Descendant inheritance and the other founders' detailed resistance profiles are not automatically settled by this ruling.
+This protective design belongs to his engineered constitution, not a newly acquired treatment. The normal-rejection benchmark was agreed for mature Galahad; the earlier adolescent degree was not separately quantified. He is now mature, so the agreed normal-rejection benchmark applies; it remains an assessment, not an enacted exposure test. Do not invent a switch that leaves all protection absent until his third birthday, or present the mature benchmark as a performed adolescent trial. No new encounter, infection, immunity test, offworld vocabulary or knowledge has been granted. Descendant inheritance and the other founders' detailed resistance profiles are not automatically settled by this ruling.
 
 ## Ultimate psychic development — accepted campaign direction
 
@@ -87,3 +87,11 @@ He deliberately forced access to deeper memories in two men, causing pain and re
 After releasing the hold, he shifted to familiar calming influence and later deliberately transmitted an image and accompanying words to all six operatives. They received the intended Valdrec message; the scholars did not. This establishes directed sending as well as reception. No long-distance communication, remote tracking, permanent link or automatic truth detection was demonstrated.
 
 The men complied immediately under overwhelming coercion. Their acceptance is not irreversible psychic enslavement or tested future loyalty. Fear and calm changed their emotional condition without erasing memory, intelligence or independent motives. Galahad remained uninjured and unimpaired; no ordinary-human or Astartes fatigue penalty was introduced. No bodily durability trial occurred because no firearm discharged.
+
+## Expedition development — by 11/10/0068 AC43
+
+Selective emotional influence and concurrent delicate/heavy telekinesis improved through practice. Short images were exchanged with willing practitioners across nearby rooms; this is not unlimited range or a world-spanning link. Small objects retained tested lasting warning impressions, a specific effect rather than universal protective wards or self-powered machinery.
+
+Modest deep soft-tissue repair was demonstrated and observed by a healer over subsequent days. Earlier statements restricting all demonstrated healing to superficial cuts are superseded. No complete regeneration, cure of every injury or demonstrated concussion repair follows. Veskan’s arm is now healed after the elapsed recovery period, not by an invented single psychic act.
+
+Basic foresight has been explored, but no reliable new prophetic technique is established. The extraordinarily detailed palace planning retrieved scenarios developed months earlier; it is evidence of cognition and preparation. Thousands of private ciphered pages record techniques, observations and tested limits. Bodily maturity and this year’s experience do not complete his ultimate psychic development.

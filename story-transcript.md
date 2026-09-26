@@ -10825,3 +10825,1047 @@ Tessier unfolds the addresses.
 **Armor/Clothing (Equipped):** Pale shirt, dark trousers and leather boots; charcoal coat remains upstairs.  
 **Gear/Inventory:** Research concealed inside. Six operatives have departed in their motorcar; subsequent compliance remains unobserved. All five scholars are present and uninjured.  
 **Currency:** 522 lorrats personal funds: 264 earmarked, 258 uncommitted, pending the estate statement. Expedition fund: 11,430 lorrats before current lodging and meal settlement. No new payment.
+
+## 524 - User - Remainder of the expedition
+
+I spend the remainder of the expedition studying everything and anything I can get my hands on. Writing large amounts of notes and concealing my best work in my own private cipher for my eyes only, upon which I expand greatly. I make the Cipher run through 3 layers of translation. 2 Languages created of my own design and one translation becomes what appears to be a cooking recipe before undergoing the third layer of translation upon where it can finally be translated back into common language. I continue making allies across all the various places we visit. I take the time to visit nobles, dine with merchants and converse with religious groups. I aim to expand my network of allies and unknowing informers across the globe. I make a point of pursuing Hunter Technology and Arcane Research to a heavy degree, most of which I retain in personal notes not meant for the Chancery or Collegium, leaving them only enough breadcrumbs to keep them satisfied. while my advances remain my own. I take mind to study vehicles, transportation, military design variances across nations. I begin creating drafts in my own Cipher but as an idea to propose to the Chancery and Margrave upon my return for a large scale airship to function as a mobile carrier for smaller aircraft. Based on combination designs of Zeppelin's and Aircraft Carrier Ships to create a flying mobile fortress capable of deploying forces enmass, also capable of landing in the ocean and functioning as a standard Aircraft Carrier when needed and rotating turbines to assist with lift and momentum. During this time I also design the Auvrienne 762 Heavy Semi Automatic Infantry Rifle (see reference image and documentation on it). I plan to use these two designs to gain considerable influence with the Chancery and Margrave and begin creating in roads with the Veyrassien Military. I will also leverage these designs for the position of Royal Advisor to the Margrave, coupled with my many diplomatic connections and well established global information network that remains innocuous and inconspicuous by nature. I search for forgotten artifacts and lost knowledge in places too dangerous for sane mortal men to dare venturing, all across the globe. I practice with my psychic abilities. Document them and my form. I write thousands upon thousands of pages in my own Cipher describing techniques, abilities, forms of focusing, anything and everything I believe could be of relevance. My notes become symbolic of my own expanding knowledge base and as more notes appear they seem to multiply as the rate they appear compounds with each note written as every subject informs the last and provides new insights on the topics of which I study. Able to make connections that would take a standard human a lifetime of work to unravel I am able to parse through in several days if not an afternoon. As we travel and I expand my circle of friends and allies I make a point of keeping and eye out for those who show psychic aptitude. Whenever I encounter one of these individuals on my travels I approach them. Make them feel at ease and assess their wants and desires. I use that assessment to guide them under my sway and bring them into my fold. I begin to construct an Order. One that operates independently and from the shadows. Psychic practitioners that I am installing across the world like agents. All benefitting each other to rise to greater heights in order to secure our Order more sway and influence. When I find these individuals I guide them for a time, instill loyalty, introduce them to others of the Order when I am able and help their abilities develop using these tactics to plant the seeds of loyalty deep within these individuals and using the clearly demonstrated gap in psychic ability is a prevalent way to conduct such matters. (This is functionally my own version of the Psycher Illuminate). I also take my time to visit historical sights pertaining to the history of Ambros studying artifacts and writings from his time that have survived. During this time I hit a point where I stop growing at approximate 3 meters, just under 10ft. I am considerably larger than anyone else I have ever met, even individuals renowned for their size pale in comparison to my stature. I have to get new clothes made up several times throughout this expedition but I keep everything in the same style as my current clothing. I also begin to grow my beard out slightly over the course of our travels. By the end of the trip I ensure to foster relationships with the scholars under me so that they see me as a mentor figure and I seed the need for my approval within them all through base academic competition of the involved scholars. By the end of this expedition I have seen a great deal of this world and learned enough to fill the largest library on the planet several times over. I have studied with tribes people and nobles. With Farmers and Engineers. I have experienced the world's history and culture in a depth sparsely seen by anyone in this planet's storied history. My reputation spreads slowly across the globe for a man with a marvelous intellect, quick wit and silver tongue. Rumors circulate about my darker sides but there is never enough information to form anything more than wild stories and baseless conjecture disregarded by the majority of the population. I make a point to offer minor points of advice to officials in the nations we visit. Enough to ingratiate ourselves to them but without giving them stable and reliable advantages over Veyrasse in any way and with many of these pieces of advice directly leading to cooperation with the Veyrassien Economy and Government.
+
+## 525 - Assistant - Expedition returns to Auvrienne
+
+The morning appointments in Drossane are kept.
+
+By evening, the scholars are arguing over their findings again. Rouvant has acquired access to an assay ledger; Sarnot has found a discrepancy between the waterworks drawings and the actual maintenance records. Tessier watches you rather more carefully than he did before breakfast, but when you ask for his report, he opens his notebook.
+
+The expedition continues.
+
+Winter roads carry you through Avercenne and Tervessac. Beyond them come the long sea passage and the divided authorities of Ossendrienne, where an introduction accepted in one district means little across the next bridge. Your prepared letters, local hosts and Tessier’s patient administration keep the party moving. In Alescogne you hear industrial policy debated by men with machine oil beneath their fingernails. In Rivessole, arguments over water rights explain decisions that engineering alone would never have made intelligible.
+
+You listen to all of it.
+
+Shipwrights explain why a theoretically superior fitting is disliked by the men who must replace it in foul weather. Farmers show Aubrel soils that the official agricultural descriptions lump together. A tribal elder, encountered during a coastal provisioning stop, corrects a university account of his people’s migrations by reciting the succession of droughts that forced them inland. You remember his words beside the printed account, and later find the old river courses that make his version considerably more persuasive.
+
+Your nights lengthen without the days becoming less useful. The scholars sleep; you work. The modest restorative rest your body benefits from fits into passages and quiet intervals, leaving stretches of uninterrupted study that no ordinary travelling academic could sustain.
+
+At first, the cases contain separate subjects. Gradually, the divisions become inadequate.
+
+A shipyard’s maintenance practice suggests a change in military supply. A religious exercise in sustained attention gives you a new way to hold several psychic operations apart. A farmer’s account of seasonal labour changes your assumptions about factory recruitment. Each discovery gives older discoveries another use.
+
+You cease merely collecting the world’s knowledge. You begin reorganising it.
+
+***
+
+Your private notation becomes a language, then a system of languages.
+
+The first invented language expresses relationships with a precision ordinary prose lacks. The second develops a different grammar and set of associations. Between them sits the deliberately misleading culinary form: a passage that appears to discuss ingredients, preparation and cooking, while carrying an entirely different meaning within your private conventions.
+
+Your most valuable work passes through all three transformations. Reading it back requires reversing the final language, interpreting the culinary layer and recovering the first language’s underlying argument before rendering it into common speech.
+
+Eventually, you no longer need to laboriously compose the common-language version first.
+
+The writing becomes fluent.
+
+You test yourself against pages put aside weeks earlier. Ambiguities are corrected; inconsistent usages are removed. Older sensitive notes are gradually recast into the mature system. The ordinary expedition journals remain readable, professionally indexed and useful to the institutions paying for them. Your private volumes become something else: thousands upon thousands of closely written pages, diagrams and references whose significance lies largely beyond what an unfamiliar reader could infer from their appearance.
+
+No one has independently broken the system. You also have no reason to pretend that an untested cipher is a law of nature. Its practical value is already considerable: an outsider would first have to recognise what they were looking at.
+
+The Chancery and Collegium receive substantial work. Varcet’s mechanical comparisons alone could occupy a committee for months. There are accounts of foreign transport, agriculture, commercial law, water management, educational practice and industrial organisation, with the scholars’ evidence carefully preserved.
+
+The decisive synthesis stays with you.
+
+They will receive the improvements you choose to offer, without receiving the whole body of thought that made them possible.
+
+***
+
+At Bellacenne, merchant dinners last well beyond the removal of the plates. At Cavrelisse, the mountain cold follows guests into covered galleries while provincial officials negotiate beneath portraits of monarchs. In humid Orsevigne, servants change damp table linen between courses and the arguments concern land, military purchases and who possesses the authority to promise either.
+
+You learn which people enjoy being contradicted intelligently, which prefer a discovery to seem their own, and which are simply relieved to meet someone who understands the problem they have spent years trying to explain.
+
+You give useful advice in carefully chosen portions.
+
+A storage improvement leads naturally to an introduction to Veyrassian suppliers. A suggestion about repair contracts makes cooperation with your country’s workshops attractive. You help an official frame a practical exchange of technical publications without handing over your private military work. Several such introductions become continuing commercial enquiries; none requires you to promise concessions you have no authority to grant.
+
+By the final homeward leg, **forty people have become recurring correspondents**, including the four relationships established during the first part of the expedition. They are spread among academic institutions, merchant houses, civic offices, religious communities and landed families across the three principal inhabited continents. There are many more acquaintances.
+
+Some are friends. Some recognise a useful foreign connection. Others write because you are one of the few people who asks questions worth answering.
+
+Most do not realise how revealing their ordinary letters become when read beside everyone else’s.
+
+Your name begins to precede you into rooms. Copies of earlier letters are produced. Invitations arrive through people you have not met. The stories disagree on your height, your age and precisely what happened in Drossane, but agree remarkably often on your intelligence.
+
+The darker stories travel too. A stare that stopped armed men. A temper nobody present cared to test twice. Things seen moving when your hands were still.
+
+They remain scattered rumours, usually overwhelmed by the much better evidenced accounts of your work.
+
+***
+
+Hunter technology proves difficult to possess, but increasingly fruitful to study.
+
+Introductions gain you supervised access to damaged assemblies, old recovery notes and pieces whose custodians have spent decades protecting them. In one collection, an apparently decorative section contains repeated structures that make sense only when compared with what you saw in Drossane. Elsewhere, an old maintenance account describes failures that distinguish the emitter’s probable function from that of an ordinary optical instrument.
+
+The plasma hypothesis becomes much more than a clever guess.
+
+You begin separating the roles of the visible emitter, the field-forming structures and the absent systems that supplied and regulated them. Material samples and custodians’ observations narrow several possibilities. The problem is no longer an undifferentiated alien mystery; it is a set of specific questions, some of which you can now answer.
+
+You do not return with a complete Hunter weapon. The valuable examples remain jealously guarded, and several purported treasures prove to be misidentified wreckage. What you carry away is a far more developed understanding, detailed observations and a growing record of where genuine equipment is held.
+
+The abandoned places yield a different kind of wealth.
+
+Near Ossendrienne, you enter the lower archive of a ruined teaching house after its upper floors have become unsafe. Ordinary searchers stopped at the collapsed stair. You move the fallen masonry, hold the unstable section above it and pass through the narrow space beneath.
+
+The air below tastes of old lime and stagnant water. Your light falls across shelves reduced to black ribs. In a sealed recess above the flood line, waxed wrappings have preserved a damaged bundle of practical observations: concentration exercises, accounts of unusual perception and records of attempts to distinguish genuine effects from ritual theatre.
+
+You bring the surviving bundle out yourself.
+
+Much later, during the Grevallier visit, a second excursion takes you into a disused mountain repository reached by a broken approach that has discouraged visitors for years. The remains of its outer rooms have been thoroughly searched. Beyond a fallen partition, you find thin engraved plates and remnants of a commentary copied by successive custodians. Their subjects overlap imperfectly with the first recovery.
+
+That imperfection is valuable. Independent practitioners have described related experiences in different terms.
+
+With your own experiments beside them, the two survivals allow comparisons their authors never had the opportunity to make. They become your first substantial recovered original research holdings of the journey, carried home with their damaged portions and uncertain passages honestly recorded.
+
+Your visits to sites associated with Ambros are equally serious. In Veldrassen and Ostrevain, you see how differently the same man can be made to support the claims of a state. You study inscriptions, preserved copies, devotional objects and oral accounts; Tessier helps trace which phrases appear late and which survive across rival traditions.
+
+The sword killing remains the centre of it all.
+
+One relief gives Ambros a towering, richly armed opponent. Another depicts a fallen creature beneath an ordinary human blade. Neither image settles what happened. You acquire a much better understanding of the legend’s growth without manufacturing an answer to its oldest unanswered questions.
+
+You also see why it endured. In places whose written histories have survived only in scraps, people still know that a man once met the Hunters with steel and left one dead.
+
+***
+
+Your practice becomes more deliberate as your knowledge expands.
+
+You learn to hold a heavy object steady while performing delicate movements elsewhere, and to maintain that separation while speaking or reading. Directed mental messages become clearer and more selective. With willing practitioners, you can exchange short images and impressions across nearby rooms without drawing everyone between you into the conversation.
+
+You become better at distinguishing an intrusive impression from your own thought, and at deciding when to admit either. The emotional presence that once spilled outward so easily grows more discriminating. You can ease a conversation while leaving another nearby person outside the influence.
+
+The simplest lasting inscriptions begin to serve a practical purpose. Familiar impressions laid into a small object can give you a recognisable warning when disturbed under the conditions you have tested. They are no longer merely curiosities that retain the feeling of their maker.
+
+Healing advances too. A willing patient with a modest muscle injury gives you the opportunity to follow repair beyond the skin, with a local healer observing the recovery over subsequent days. You learn to bring damaged soft tissue together in an orderly fashion, instead of simply closing the visible wound. The result holds.
+
+Your notebooks become more exact about intention, sensation, observed effect and repeatability. Failures remain in them. So do the alterations that turn some failures into dependable techniques.
+
+None of the native practitioners you encounter approaches your available power. That becomes evident without your having to make every meeting a demonstration.
+
+But several know something you do not.
+
+You make a point of learning it before you teach them what they lack.
+
+***
+
+The Order begins without a headquarters or a public name.
+
+In Tervessac, **Mirelle Saurent** has spent years disguising useful but unreliable impressions as excellent judgement in shipping business. She wants control, and to stop wondering which of her instincts she can trust. You give her patient instruction and something even more persuasive: repeatable progress.
+
+In Rivessole, **Etienne Caurrel**, a waterworks foreman, possesses a small but genuine talent for moving things without touching them. His ambitions are practical. He wants his household secure and his work respected. You can speak to both without asking him to abandon either.
+
+**Delphine Calvet**, a manuscript custodian in Orsevigne, recognises lingering impressions in old objects but has little method for separating them. Your comparison of her experiences with those recorded elsewhere gives her a discipline she has never previously been offered.
+
+At Grevallier, **Julien Vardelle** brings a healer’s habits to a real, limited gift. He watches what you can do, then asks you questions about the errors rather than the successes.
+
+A printer in Bellacenne and a minor court clerk in Cavrelisse join them. By the return journey, **six practitioners in six countries have accepted membership and continuing obligations to one another and to you**. Two other gifted people accept some assistance but decline the deeper commitment. Their refusal does not prevent the Order from taking root.
+
+Its first exchanges are modest and useful: teaching, introductions, copied observations, help finding trustworthy employment or access to a collection. Where journeys overlap, members meet. Elsewhere, correspondence begins. They retain their professions and ordinary lives, which give them both independence and places within their societies.
+
+You become their common point of reference.
+
+Their loyalty grows from improvements they can feel, opportunities you have opened, personal gratitude and the unmistakable knowledge that the man teaching them operates on a scale far beyond their own. They begin bringing questions to you that they previously would have kept to themselves.
+
+The Order is small enough that you know what each member wants. It is already more than an intention written in a notebook.
+
+***
+
+The scholars change around you as well.
+
+Their evening reports become occasions they prepare for with increasing care. Rouvant dislikes arriving with an observation Varcet can explain before she does. Tessier takes quiet pleasure in producing a historical qualification that sends you back to an earlier conclusion. Aubrel learns that a detail from a farmer may hold your attention longer than a beautifully written summary of an academy lecture.
+
+You reward good work with attention, serious questions and opportunities to pursue it further.
+
+Sarnot eventually catches an error in one of your comparative tables—a copied date, not a failed calculation—and looks briefly apprehensive before pointing it out.
+
+The correction goes into the record.
+
+After that, her reports become more confident.
+
+By the time you turn homeward, all five habitually seek your judgement. They compete for your approval, but they also recognise how much their own work has improved under it. The shared meals, difficult journeys and hours spent discussing their particular interests give that attachment substance beyond your extraordinary presence.
+
+They have come to regard you as a mentor, despite what they assume about your age.
+
+***
+
+The **Auvrienne 762 Heavy Semi-Automatic Infantry Rifle** takes shape across those months of comparison.
+
+The drawings retain the character of your original concept: the long, dark body, timber furniture, perforated barrel shroud, ten-round magazine and folding support. It is a weapon intended for ordinary soldiers, distinct from the much larger personal arm you once contemplated.
+
+Your portfolio now addresses the military problem as well as the object. Foreign service practice informs the sections on maintenance, training, production demands and the burden of issuing a heavy rifle widely. You prepare a case for trials and staged adoption rather than expecting a striking illustration to persuade an army by itself.
+
+The design work is yours. A manufactured and tested rifle will require the next stage of work at home.
+
+The airborne carrier occupies far more paper.
+
+At sea, you study the relationship between flight operations and a moving deck. Around airfields and workshops, you examine the smaller aircraft the vessel would have to carry. Airship practice supplies another body of evidence. You combine them into a preliminary project for an enormous vessel with aircraft accommodation, troop spaces, a seagoing hull and rotating propulsion units intended to contribute to lift and forward movement.
+
+The central difficulty follows you through successive drafts: everything required to make it a useful carrier also adds weight, and everything required to survive the sea complicates its work in the air.
+
+You pursue that difficulty rather than drawing around it.
+
+By the final crossing, the private project includes competing arrangements, preliminary calculations, material requirements and a staged experimental programme. You distinguish what existing industry could undertake from what your own research must first make practical. The maritime mode is part of the design from the beginning, with the transition between the two environments treated as a major engineering problem in its own right.
+
+It is an ambitious proposal fit to open a serious conversation with the Margrave. It is also a project substantial enough to justify continuing access to workshops, military specialists and state resources if you can win their support.
+
+Beside it, the rifle offers a nearer prospect of demonstrating results.
+
+***
+
+Somewhere between the last months of Otranto and the long crossing to Morholt, your growth slows to its final halt.
+
+Successive measurements settle at approximately **three metres**.
+
+Clothing has been replaced more than once. The cut remains familiar: pale shirt, dark trousers, polished boots and the long charcoal coat, now made for proportions that cause experienced tailors to check their measurements twice. A short white beard begins to frame your jaw.
+
+Even the men introduced to you as local giants must look up.
+
+Your passage through a room changes its conversations before your voice ever enters them.
+
+The northern homeward sailing takes place within the arranged seasonal window. Weather costs comfort on several days, but the existing passage allowances absorb the delays. The expedition retains its schedule without resorting to aircraft.
+
+In Valdrec, the Drossane men make contact.
+
+You meet them again during the five-day visit. All six are alive. They reaffirm their service, and their account of returning with injuries and reporting a disastrous encounter with a prepared Veyrassian asset is consistent across the group. The scars are real; you do not have their superior’s report in your hand.
+
+A modest piece of information they provide about a forthcoming procurement meeting is subsequently corroborated through an unrelated contact. It is their first demonstrated useful service after Drossane. A way to exchange future correspondence is agreed before you leave.
+
+They have become a functioning connection inside Caldrienne. What they will do under greater pressure remains for the future to reveal.
+
+***
+
+On **11/10/0068 AC43—expedition day 355—the train brings you back to Auvrienne**.
+
+Ten days remain before the deadline.
+
+The city announces itself through familiar details: soot caught beneath stone cornices, the shrill metallic complaint of brakes, the smell of coffee from a station counter beneath the heavier breath of the locomotive. Beyond the roof, afternoon light catches the upper windows of buildings you remember being smaller.
+
+The cases take considerably longer to unload than they did to load nearly a year before.
+
+Tessier keeps a hand on the list while porters count them. The expedition’s settled operating expenditure is **11,855 lorrats**, leaving **2,645** to reconcile and return through the institutional accounts. Ordinary wages continued throughout the journey; no month was missed. Your private expenditure—additional clothes, private papers and copying, personal excursions and assistance to your new connections—has been kept apart from the expedition’s bills.
+
+Corva’s latest statement has arrived ahead of you. The remaining initial repairs and first furniture purchases are paid. Your workshop building is dry, secure and ready to be equipped. After the estate’s receipts, labour, upkeep and household costs, **314 lorrats remain in the household account**. Your own available funds stand at **552 lorrats**. Veskan’s arm has healed; his latest note contains several opinions about where you ought to put the workshop benches.
+
+Savel waits beyond the porters.
+
+He looks from your face to your shoulders, then upward again.
+
+“We moved your accommodation,” he says. “Your mother’s last letter included measurements.”
+
+There is a brief pause before the smile reaches his eyes.
+
+“Welcome home, Galahad.”
+
+Behind you, Varcet is explaining that one case must remain upright. Rouvant corrects the porter carrying another. Your scholars stand around the accumulated work of the year with the possessive concern of people who know exactly what it cost them to produce.
+
+Savel lowers his voice.
+
+“The Headmaster would like the first account tomorrow. The Chancery has asked when you will be ready to report.”
+
+His gaze passes over the cases once more.
+
+“I told them they should allow you more than an hour.”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 years, 3 months; physically mature, approximately 3 metres tall.  
+**Date:** 11/10/0068 AC43 — afternoon; expedition day 355, returned to Auvrienne.  
+**Reputation:** Internationally connected scholar-engineer and successful expedition leader; respected mentor to his five scholars. His concealed Order has six members, alongside a broader network of forty recurring correspondents and six cooperating Caldrienne operatives. No royal advisory appointment yet.  
+**Weapons (Equipped):** None. Vouressan-bone greatsword remains among his stored Collegium belongings; the Auvrienne 762 is designed but unbuilt.  
+**Armor/Clothing (Equipped):** Newly fitted charcoal coat, pale shirt, dark trousers and leather boots; short white beard. Uninjured and in good condition.  
+**Gear/Inventory:** Expedition research and inventoried loan instruments; extensive private ciphered manuscripts; rifle design dossier and preliminary airborne/seaborne carrier project; two recovered original research collections. Hunter observations and technical studies, but no acquired Hunter weapon.  
+**Currency:** **552 lorrats personally available.** Separate estate/household balance: **314 lorrats** under Corva’s administration. Expedition balance: **2,645 lorrats**, pending institutional closeout. Salary paid through **01/10/0068 AC43**; next payment **01/11/0068 AC43**.
+
+## OOC progress note before exchange526
+
+I’ll check the expedition’s funding terms and Collegium continuity before resolving the allocations and opening the debriefing.
+
+## 526 - User - Return administration and debriefing
+
+"An hour will do fine. I will transport my personal notes to my room and separate them from official findings. I will then brief the Headmaster and the Chancery this afternoon." I say politely as I grab my equipment and prepare to take everything inside, capable of carrying considerably more than anyone else with ease due to my stature. "Tessier, could you find a train for me, going to Serravonne this later tonight or tomorrow morning if you would be so kind." I say while carrying large amounts of paperwork and equipment with no strain in my voice. I help transport our things back to the Collegium. Organize my notes that highlight knowledge collected and add my new design documents for the Auvrienne 762 Heavy Semi-Automatic Infantry Rifle and the Airborne Carrier Command Vessel to include in the meeting with the Chancery later this afternoon to evening once I have finished my meeting with the Headmaster and other Collegium Professors. I separate the remaining funds. I allocate 100 Lorrats for each of the Scholar's under me as a bonus for exceptional work. I put 1000 aside to return to the Chancery and another 500 aside to return to the Collegium. I keep the remainder for myself as an expedition leader bonus. Once I have finished I go and find the Collegium Admin staff and present all the official notes to them and have them begin transcribing copies for the Chancery. Once these notes are dropped off I go to attend the first debriefing with the Headmaster
+
+## 527 - Assistant - Headmaster’s opening question
+
+“An hour,” Savel repeats, with a small inclination of his head. “Very well. I shall warn them.”
+
+Tessier tucks his papers beneath one arm.
+
+“Serravonne. Tonight if the meetings permit, tomorrow morning otherwise. I’ll check the carriage arrangements as well.”
+
+He departs towards the booking office while you take up the first load.
+
+A porter reaches instinctively for the bottom of a case, then stops when you lift it together with the two above it. The leather handles creak. Nothing in your posture changes.
+
+“Those go together,” Varcet tells him, recovering first. “The smaller cases are ours.”
+
+The return to the Collegium becomes a succession of familiar streets and unfamiliar reactions. Students under the entrance arcade stop talking as you pass. Someone recognises you and calls your name; by the time the last instruments reach the receiving room, word has travelled ahead of the luggage.
+
+Your new quarters are on the ground floor. High windows overlook an enclosed court, and the furniture has been rearranged around a long worktable and a bed made to your measurements. The doorway still requires you to lower your head. Inside, you can stand comfortably.
+
+Your stored belongings have been brought across. The Vouressan-bone greatsword is among them.
+
+For a little while, the room fills with the quiet sounds of sorting: buckles released, paper sliding over paper, cases opening against the floorboards.
+
+The ciphered manuscripts and recovered private collections remain here. You separate the official journals, supporting tables and scholars’ reports, then prepare a presentation portfolio for the Chancery. It contains readable accounts of the **Auvrienne 762 Heavy Semi-Automatic Infantry Rifle** and the **Airborne Carrier Command Vessel**, drawn from the much larger body of private work. Those papers stay with you, apart from the material destined for general transcription.
+
+The remaining expedition money divides exactly as you intend: five allocations of one hundred lorrats, one thousand for the Chancery, five hundred for the Collegium, and **six hundred and forty-five** retained as your proposed leadership bonus.
+
+When you bring the accounts and official papers to the administrative office, the senior clerk follows the figures with an ink-stained finger.
+
+“The refunds can be receipted against their respective contributions, my lord. I’ll put the six completion awards on the settlement sheet for countersignature. They weren’t included in the original appropriation.”
+
+She writes the amounts beneath the expense total without changing them.
+
+“The Headmaster is seeing you now, so his endorsement can go with the Chancery copy this afternoon. Until they settle it, keep the award money distinct from your other funds. That will save us untangling anything later.”
+
+Her attention moves to the reports. She opens the first volume, then the second, and pulls a fresh inventory sheet towards her.
+
+“These are all to be copied?”
+
+The question is practical rather than doubtful. She signals to a younger clerk and begins assigning the first sections. An index and covering schedule can accompany the afternoon briefing; the complete transcription will take longer. Originals are entered into the receiving ledger as each bundle passes across the counter.
+
+Behind you, a clerk clears another table.
+
+***
+
+By the time you reach the Headmaster’s room, Savel has had the chairs moved.
+
+The broad space at the end of the table allows you to sit without wedging your knees against its underside. Afternoon light crosses shelves of bound proceedings. There is fresh coffee, the dry smell of paper warmed by sunlight, and a faint draught from a window left open above the courtyard.
+
+The Headmaster rises. Savel stands beside two professors, one already examining the preliminary inventory brought up from the office.
+
+“Lord Orsival. Welcome back.”
+
+His eyes rest briefly on your changed proportions, then on the portfolio in your hand.
+
+“Savel tells me you have returned early, brought everyone home, and delivered enough paper to rearrange the clerks’ week.”
+
+“Their month,” one of the professors says, turning the inventory over.
+
+The Headmaster smiles and gestures towards your place.
+
+On the table lies a short administrative note: the proposed refunds and completion awards. He glances at it before setting it beside his blotter.
+
+“I have your settlement proposal. We shall consider the awards with the expedition’s results and put our recommendation to the Chancery. Your scholars’ work deserves a proper hearing as well as an account of what it cost.”
+
+He folds his hands.
+
+“For today, I would like your judgement before we lose ourselves in individual reports. You have spent nearly a year comparing our institutions with those abroad. You have seen their workshops, their teaching, their methods—and, I hope, their mistakes.”
+
+The professor with the inventory lays it down. Savel leans back, watching you with familiar interest.
+
+“Where,” the Headmaster asks, “do you believe the Collegium should begin?”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 years, 3 months; physically mature, approximately 3 metres tall.  
+**Date:** 11/10/0068 AC43 — later afternoon; expedition day 355, Collegium Headmaster’s debriefing.  
+**Reputation:** Returned expedition leader and internationally connected scholar-engineer; mentor to five scholars.  
+**Weapons (Equipped):** None. Vouressan-bone greatsword stored in his Collegium quarters.  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots; short white beard. Uninjured.  
+**Gear/Inventory:** Private ciphered research and recovered collections separated in his quarters. Official reports delivered for inventory and copying. Rifle and carrier presentation documents retained for the Chancery meeting; both designs remain unbuilt. Tessier is checking Serravonne rail arrangements; no ticket purchased yet.  
+**Currency:** **552 lorrats personally available; 314 in the estate account.** Expedition closeout allocation: **500 in scholar bonuses, 1,000 returned to the Chancery, 500 to the Collegium, and 645 as a leadership bonus—all set aside, with transfers and bonus approval pending.** The 645 is not yet counted as personal income. Next regular salary: **01/11/0068 AC43**.
+
+## OOC progress note before exchange528
+
+I’ll resolve the Collegium’s response to the work and bonuses, then carry the scene forward to the Chancery this evening.
+
+## 528 - User - Civil engineering debrief and completion awards
+
+"We will be resolving all issues this afternoon. I will be reporting to the Chancery this evening and returning to Serravonne tonight and I will not be leaving loose threads unresolved." I then begin to detail the various volumes on the inventory sheets and walking them through the discoveries and advancements we have made that would be of most interest to the Collegium specifically. Since this is a Civil Engineering Collegium I start with things like Architectural improvements, building designs, large scale projects like shipyards or airports as well as aqueducts, desalination plants and sewerage recycling. "Now if you have any qualms about the money being returned to the Chancery and Collegium and believe the bonuses myself and my scholars are taking is not worth the vast horde of accumulated knowledge I have brought you then please do say so. Otherwise I will make my way to meet with the Chancery." I say with my subconscious pressure exuding ease and comfort but there is still an underlying friction and threat behind the words. Myself and the scholars under me have performed far above the standards anyone was expecting and achieved considerably more than was required. We have all been away from our homes and our families for a year in service to this Collegium and our Nation. It would not be wise to haggle over a few Lorrats here and there at this crucial juncture when the knowledge I have brought is potentially worth millions or more if correctly implemented into the national economy.
+
+## 529 - Assistant - Settlement and Chancery reception
+
+The Headmaster listens without interrupting.
+
+As you work through the inventory, the atmosphere changes. The professors stop examining the reports as evidence of a completed journey and begin examining them as material they can use.
+
+You place related observations beside one another: architectural layouts that simplify later expansion; construction practices that make inspection and maintenance easier; the relationship between a shipyard’s workshops, lifting equipment and supply approaches. Airports follow—ground conditions, drainage, repair facilities, the placement of fuel stores and the space needed for growth.
+
+Savel draws a blank sheet towards him.
+
+“That belongs in the advanced planning course,” he murmurs, marking a reference. “And that one ought to be shown to the municipal engineers.”
+
+Water occupies them longest.
+
+Aqueduct surveys lead into distribution losses, access for repairs and the expense of lifting water where gravity might have served. Your comparisons of desalination distinguish places with an actual need for it from places where another supply would be cheaper. Sewage treatment and recovery provoke a lengthy exchange about contaminated drainage, agricultural use and the maintenance demands that ambitious municipal schemes too often neglect.
+
+One professor turns back several pages to compare two sets of observations.
+
+“These were recorded independently?”
+
+The supporting journals answer him. He draws them closer.
+
+By the time you finish, the Headmaster’s notes fill both sides of his sheet. Nobody has mentioned the coffee for some time.
+
+Then you raise the bonuses.
+
+Your familiar warmth remains in the room, but the edge beneath your words is unmistakable. Savel looks up. The professor holding the waterworks volume closes it with a finger between the pages.
+
+“I have no objection to the amounts,” the Headmaster says.
+
+He takes the settlement sheet from beside his blotter and uncaps his pen.
+
+“Five hundred for the scholars. Six hundred and forty-five for your leadership. The refunds as you have set them out. The Collegium endorses the settlement.”
+
+His signature follows, firm and unhurried.
+
+“You have brought us an exceptional body of work, Galahad. I intend to see it taught, tested and put to use. Your colleagues should receive recognition for their part in it.”
+
+He rings for the clerk.
+
+“Send this ahead to the Chancery with my endorsement. Have the receipts prepared here, and arrange payment of the scholars’ awards as soon as the joint settlement is countersigned.”
+
+The clerk takes the sheet. There is no bargaining over a reduced figure.
+
+When the door closes, the Headmaster returns his attention to you.
+
+“We can assign the copying and faculty review without keeping you in Auvrienne. Savel will collect the questions that genuinely require your attention. You shall have one considered letter, rather than twenty people pursuing you separately.”
+
+Savel nods.
+
+“Go and see your family. We have enough here to occupy ourselves.”
+
+***
+
+Tessier catches you before you leave the Collegium.
+
+“There is a late service to Serravonne. The station can accommodate you; I’ve asked them to hold the suitable space while you finish at the Chancery. I have the departure particulars here.”
+
+He offers the folded paper, then glances towards the administrative office.
+
+“And I’ve heard about the awards.”
+
+His expression softens.
+
+“Thank you. A hundred lorrats will mean a great deal to each of us.”
+
+Outside, the afternoon has begun to fade. Lamps are being lit beneath the arcades. Your presentation portfolio rests securely under one arm as you make your way to the Chancery.
+
+The Headmaster’s messenger has arrived before you.
+
+You are shown into a meeting room where the expedition’s original commission lies beside the new inventory and settlement. A Chancery official rises to greet you; a secretary has already laid out fresh paper.
+
+“Lord Orsival. Welcome home.”
+
+He indicates the signed account.
+
+“The Collegium’s endorsement has been accepted. The completion awards are authorised in full. Our receipt for the thousand lorrats is here; the Collegium will receipt its five hundred. Your six hundred and forty-five is released to you, and the five scholars’ payments are being handled through their pay office.”
+
+The final signature closes the matter. The remaining expedition balance now has a complete disposition: fifteen hundred returned to the sponsors, five hundred assigned for payment to your scholars, and six hundred and forty-five added to your own funds.
+
+The official sets the account aside.
+
+“Now. The Headmaster describes the civil works material as exceptional, and your covering papers mention two designs you wish to present directly.”
+
+His eyes move to your portfolio.
+
+“The Auvrienne rifle, and an airborne carrier command vessel.”
+
+The secretary raises his pen.
+
+“Please proceed, my lord.”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 years, 3 months; physically mature, approximately 3 metres tall.  
+**Date:** 11/10/0068 AC43 — early evening; expedition day 355, Chancery briefing room.  
+**Reputation:** Expedition work enthusiastically received by the Collegium; completion awards endorsed by both sponsors.  
+**Weapons (Equipped):** None. Greatsword remains in his Collegium quarters.  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots; short white beard. Uninjured.  
+**Gear/Inventory:** Rifle and carrier presentation portfolio carried. Private research secured in his quarters; official reports undergoing transcription and faculty review. Suitable space held on tonight’s Serravonne train; fare not yet paid.  
+**Currency:** **1,197 lorrats personally available**, including the approved **645-lorrat leadership bonus**. Estate account: **314 lorrats**. Sponsor refunds of **1,500** settled; **500** transferred to the pay office for the five scholars’ approved awards. **No expedition balance remains under Galahad’s control.** Next regular salary: **01/11/0068 AC43**.
+
+## OOC progress note before exchange530
+
+I’ll check the established court and military contacts, then resolve his response to your request for a restricted briefing.
+
+## 530 - User - Restricted senior audience requested
+
+I cock my head slightly. "I mean no offense sir but I would sooner burn this documentation then present it to you. Not only are these designs vastly superior to anything currently seen in our military standards I also have important diplomatic and intelligence information that it would be prudent for authorized ears. If this information falls into the wrong hands it could have disastrous affects on our national security. I will relay this information to either the Margrave herself, the Marshal or Lieutenant-General. Anything else would be tantamount to a wide scale breach of National Security. The Chancery will have copies of all the official recorded knowledge transported over and given to the relevant parties of which I presume you are included. As per conditions of the Expedition Sponsorship. I already have the Collegium staff working creating copies for you. But these are my personal contributions, not the contributions of the expedition as a whole. I am sure you can understand. Now if you would be willing to alert one of the individuals who is capable of handling information of a high level classified nature that would allow my evening to proceed with far more fluency." I say humbly and smile, filling the room with a sense of ease and comfort while making it abundantly clear that not only will I not be presenting the documentation to anyone but the listed officials but even if I did it would put this individual so significantly out of their depth they would feel the need to contact superiors regardless. The feeling that they are inadequate for the task before them, which they are. But I smile and appear warmly as not to offend or upset. This individual has done nothing wrong, they have no harmed me or given me any reason to be rude but they simply cannot help me with their current station.
+
+## 531 - Assistant - Military secretariat referral
+
+The official’s eyes move briefly to the portfolio, then return to your face.
+
+The secretary’s pen stops.
+
+For a moment, the official seems about to explain the purpose of the meeting. Instead, he draws the expedition account away from the clear space between you and closes its cover.
+
+“I understand, my lord. The sponsored return goes through this office. Your personal designs and sensitive intelligence require a separate audience.”
+
+Your warmth makes it easier for him to accept the distinction without treating it as a public rebuke. Beneath it, the prospect of being asked to judge matters beyond his remit grows distinctly uncomfortable. He has no wish to become responsible for mishandling information intended for the sovereign or military command.
+
+He turns towards the secretary.
+
+“No technical particulars in the general minutes. Record only that Lord Orsival requests a restricted briefing concerning private military designs and foreign intelligence.”
+
+The secretary sets aside the open sheet.
+
+“You need not surrender the papers,” the official tells you. “Keep them with you. I shall contact the military secretariat.”
+
+He rises and crosses to a telephone on a narrow side table. His first exchange is brief: his office, your name, the request to speak to the duty staff. When the connection changes, his manner becomes more precise.
+
+“Lord Galahad Orsival has returned from the sponsored expedition. His general accounts are settled. He is here with personal military proposals and intelligence which he will disclose only to Her Excellency, Marshal Vaucerin or Lieutenant-General Darscelet.”
+
+He listens.
+
+“Yes. This evening. He intends to leave for Serravonne tonight.”
+
+Another pause.
+
+“The documents remain in his possession. We have not examined them.”
+
+The reply takes longer. He makes a short note, confirms it aloud and replaces the receiver.
+
+“Lieutenant-General Darscelet is in conference. Her office will put the request directly before her at the first opportunity. They cannot yet give me a time.”
+
+He meets your eyes rather than burying that qualification in further assurances.
+
+“I have made your intended departure clear. I will remain here until we have her answer. If she cannot receive you, I have asked that the request be referred immediately to the Marshal’s office.”
+
+He gestures towards an adjoining room.
+
+“You may wait there with the papers. It is an internal consultation room, and I can keep it clear of other visitors.”
+
+The secretary gathers the general expedition documents, leaving your portfolio untouched. Neither man asks you to explain enough of the designs to satisfy his curiosity.
+
+Through the open doorway, you can see a broad table beneath shaded lamps. Beyond the windows, lights are coming on in the adjoining government buildings.
+
+The official remains beside the telephone, your request written on the pad before him. You have secured the referral without exposing your work; the senior audience itself is awaiting an answer.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 years, 3 months; physically mature, approximately 3 metres tall.  
+**Date:** 11/10/0068 AC43 — early evening; expedition day 355, Chancery.  
+**Reputation:** Successful expedition leader requesting direct, restricted access to senior national leadership.  
+**Weapons (Equipped):** None. Greatsword remains in his Collegium quarters.  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots; short white beard. Uninjured.  
+**Gear/Inventory:** Rifle and carrier portfolio retained, unopened by Chancery staff. Sensitive intelligence undisclosed. Lieutenant-General Cevrel Darscelet’s office has received the urgent audience request; confirmation pending. Tonight’s Serravonne rail space remains held, fare unpaid.  
+**Currency:** **1,197 lorrats personally available; 314 in the estate account.** Expedition settlement complete; no new expenditure. Next regular salary: **01/11/0068 AC43**.
+
+## OOC progress note before exchange532
+
+I’ll keep this briefing to the official expedition findings while the request for a private military audience is answered.
+
+## 532 - User - General briefing while awaiting response
+
+"While we wait I will give you the highlights of the information the Collegium will be sending over shortly while we are all hear." I say with a smile and proceed to give him a very similar debriefing that I gave to the Headmaster. While I wait to get an answer about my meeting with the Lieutenant-General.
+
+## 533 - Assistant - Audience with Darscelet
+
+“Gladly, my lord.”
+
+The official returns to the table. At his gesture, the secretary takes out a fresh sheet, heading it for the general expedition return.
+
+This time, the distinction is understood. Your private portfolio remains closed beside you.
+
+You begin with the civil works material: improvements in building layout and maintenance, the organisation of shipyards and airfields, water supply, drainage and the recovery of useful resources from waste. The official listens with an administrator’s interests rather than a professor’s. Where the Collegium asked how a method worked, he asks where it might be applied, which authority would be responsible and which volume contains the supporting observations.
+
+“Municipal works for that,” he says, indicating one entry to the secretary. “The ports administration should receive the yard comparisons as well. Cross-reference them; don’t separate the drawings from the maintenance account.”
+
+As you explain how seemingly minor differences in planning accumulate into years of expense or savings, his questions become more specific.
+
+“Which improvements could be introduced when existing works come due for repair? Those will be easier to put before the treasury than wholesale replacement.”
+
+You guide him through the relevant examples. He marks some for early consideration and others for technical assessment once the complete copies arrive. The desalination material receives a note about local conditions and running costs; the water-distribution and sewage reports receive several more.
+
+The secretary has filled three pages when the telephone rings.
+
+The official excuses himself and answers it. This conversation is shorter than the first.
+
+“Yes. He is still here.”
+
+He listens, then looks towards you.
+
+“I will bring him across.”
+
+He replaces the receiver.
+
+“Lieutenant-General Darscelet can receive you now. Her conference has concluded.”
+
+He turns to the secretary.
+
+“Prepare the distribution note from this briefing. The Collegium’s copies will supply the detail. Nothing from the private audience belongs in this return.”
+
+Then, to you:
+
+“Thank you, my lord. This gives us something useful to do before the volumes arrive.”
+
+***
+
+The passage to the military secretariat takes you through an enclosed gallery overlooking a courtyard. Lamps shine on damp paving below. Somewhere beyond the walls, a motorcar starts, its engine briefly louder than the footsteps accompanying you.
+
+At the inner entrance, a waiting staff officer confirms your name and leads you onward. Your papers remain under your arm.
+
+Darscelet’s room is plainly furnished. A large map occupies one wall; a second table holds stacked returns, some tied with narrow cloth bands. She stands behind a broad desk, setting aside the document she was reading as you enter.
+
+Her gaze rises to meet yours. There is a brief, unmistakable reassessment of the doorway you have just passed through, then her attention settles on your face.
+
+“Lord Orsival.”
+
+The Chancery official introduces you and withdraws. Darscelet dismisses the accompanying staff officer with a nod. The door closes.
+
+“I understand your expedition’s general business has been concluded, and that you have material intended specifically for senior command.”
+
+She gestures towards the clear table beside the map.
+
+“You may keep your originals. If we require copies or specialist examination, we will discuss their handling here.”
+
+Her eyes pass over the portfolio, without reaching for it.
+
+“You mentioned intelligence as well as designs. Is there an immediate danger I should hear about first?”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 years, 3 months; physically mature, approximately 3 metres tall.  
+**Date:** 11/10/0068 AC43 — evening; expedition day 355, private audience with Lieutenant-General Cevrel Darscelet.  
+**Reputation:** Returned expedition leader; civil findings briefed to both sponsors, with direct access to the chief of general staff now secured.  
+**Weapons (Equipped):** None. Greatsword remains in his Collegium quarters.  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots; short white beard. Uninjured.  
+**Gear/Inventory:** Private design portfolio retained. No sensitive intelligence or technical designs disclosed yet. Official findings awaiting full transcription; Chancery distribution planning begun. Tonight’s Serravonne rail space held, fare unpaid.  
+**Currency:** **1,197 lorrats personally available; 314 in the estate account.** Expedition settlement complete; no new expenditure. Next regular salary: **01/11/0068 AC43**.
+
+## OOC progress note before exchange534
+
+I’ll resolve Darscelet’s response to the intelligence, designs and advisory request, keeping what she’s been told distinct from what has been independently established.
+
+## 534 - User - Intelligence and royal advisory proposal
+
+"Before we get to the designs that will give us Caldrienne on a platter there is something you should know." I say as I place my designs down on her desk in plain view, move the chair in front of the desk usually for visitors to the side and take a knee so I am closer to her height but still taller even when she stands. "A group of Caldrienne Intelligence Agents attempted to assassinate me and my Scholars early on in our expedition while we were in Drossane. It was intended to be a false flag operation designed to create a wedge between Veyrasse and Karsenne that would allow Caldrienne to swoop in and reinforce their political positioning with Karsenne. House Orsival has taken actions to prevent this. I turned this operative to my own causes. They are loyal to me and are currenting running a series of disinformation campaigns among Caldrienne intelligence circles as well as preparing the nation for eventual Veyrassien take over. Given these men are loyal to me and have had no connection to any official orders this clears the Chancery of any diplomatic recourse and allows me to function as the scapegoat if anything were to go askew. I confirmed these agents are functioning as intended when my expediton passed through and stayed in Valdrec near the end of our time without so much as a tail. All agents provided reports on their operations and reaffirmed their loyalties at this stage and House Orsival's counter offensive is proceeding as planned. Now the designs, I recommend you take a look if you would like to stop sending men into the meat grinder at the border. With these designs and several others I will be able to develop with more resources and influence at my command we will not only be able to resolve the border dispute but conquer Caldrienne completely, removing them as an obstacle for future endeavors and strengthening our position before the next culling. You can see it in the faces of the people in every nation. Each one is acutely aware of the time that has passed since the last Culling. If you want to stand this nation to stand a fighting chance when the next Culling comes, then you will help me." I say politely and with a smile while laying it on thickly but not untruthfully about my own self importance to the future of this nation and its survival. My psychic pressure exuding a pressure of ease, comfort and calm subconsciously as I speak to the Lieutenant-General. "Now I believe you will agree that this information is pertinent to both the Margrave and Marshal. I would be able to better advise and create more opportunities and advancements like this if I had access to the position of Royal Advisor to the Margrave. A position you can aid me in being appointed to." I say softly but with a fierce determination as I look her in the eyes
+
+## 535 - Assistant - Darscelet supports advisory consideration
+
+Darscelet’s expression changes at the mention of Drossane.
+
+She leaves the designs where you have placed them. Her attention stays on you through the account of the stolen uniforms, the intended diplomatic rupture and your subsequent meeting with the operatives in Valdrec.
+
+When you finish, the room is quiet enough to hear movement in the corridor beyond the closed door.
+
+“An attack on the expedition, intended to turn Karsenne against us,” she says. “And you have preserved a connection to the men who carried it out.”
+
+She draws a clean sheet from a drawer and begins making notes herself.
+
+“Yes. The Marshal and Her Excellency need to hear this.”
+
+Your calming presence settles around her concentration. The account is alarming, but it reaches her without the agitation that might otherwise accompany it. She studies your face for a moment, then writes Drossane and Valdrec on separate lines.
+
+“Keep their identities between us for the moment. I will need the sequence of events, what they told you, and what you were able to corroborate independently. We can arrange that without putting their names into general correspondence.”
+
+She sets down the pen.
+
+“Your acting independently gives the government room to deny directing the operation. It does not prevent Caldrienne from accusing us, especially once you hold a royal appointment. We should plan for that possibility while we still control who knows.”
+
+There is no reproach in it. She is already considering how the connection might survive its own usefulness.
+
+“Nor do I intend to displace you as their contact. An unfamiliar hand could ruin precisely what makes them valuable.”
+
+Only then does she turn to the designs.
+
+The rifle receives her attention first. She moves from the overall drawing to the accompanying discussion of service use, maintenance and production. Her finger stops beside a passage on the burden of issuing the heavier weapon widely.
+
+“Good. You have considered the men carrying it as well as the men manufacturing it.”
+
+She reads further, silently. Then she opens the carrier proposal.
+
+For several moments she says nothing.
+
+Her eyes travel across the general arrangement, following the relationship between the aircraft spaces, hull and lifting structure. She turns to the development programme, then back to the drawing.
+
+“This would change where a commander could concentrate aircraft and troops,” she says at last. “And how much warning his opponent received.”
+
+She looks up at you.
+
+“The rifle offers an earlier trial. The vessel requires a substantial development undertaking. I can make that distinction to the Marshal without diminishing either proposal.”
+
+The papers remain spread between you. She has not pushed them aside or summoned a clerk to take them away.
+
+“I want fewer patrols coming home short of men, Lord Orsival. I also want any war we undertake to end with an army and a country still capable of defending themselves. Your proposals deserve serious examination on both counts.”
+
+Her gaze holds yours.
+
+“And I agree that improving individual weapons will not, by itself, prepare us for another major Culling. Your work on transport, industry and civil infrastructure matters to that preparation as much as what you have placed on this desk.”
+
+She gathers her handwritten notes, leaving your designs untouched.
+
+“I will support your request for an audience with the Margrave, and recommend that she consider you for an advisory appointment covering technical development and the foreign knowledge you have acquired. You have given me grounds to make that recommendation.”
+
+A slight pause.
+
+“The appointment is hers to confer. My recommendation will be explicit.”
+
+She reaches for the telephone.
+
+“I shall contact the Marshal’s office now. He needs the substance of this tonight, and we should establish whether Her Excellency can receive us before you leave.”
+
+Before lifting the receiver, she glances once more at the carrier drawing.
+
+“For that conversation, tell me where you would begin. If we put a workshop and the appropriate specialists at your disposal, what would you choose as the first demonstration of what House Orsival can deliver?”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 years, 3 months; physically mature, approximately 3 metres tall.  
+**Date:** 11/10/0068 AC43 — evening; expedition day 355, private briefing with Lieutenant-General Cevrel Darscelet.  
+**Reputation:** Darscelet supports a sovereign audience and will recommend consideration for a royal advisory appointment. No appointment conferred yet.  
+**Weapons (Equipped):** None. Greatsword remains in his Collegium quarters.  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots; short white beard. Uninjured.  
+**Gear/Inventory:** Rifle and carrier designs shown to Darscelet; originals remain his. Drossane attack and claimed subsequent intelligence operations disclosed privately; detailed corroboration not yet presented. Further senior audience and development resources under discussion. Tonight’s Serravonne rail space held, fare unpaid.  
+**Currency:** **1,197 lorrats personally available; 314 in the estate account.** No new expenditure or development grant. Next regular salary: **01/11/0068 AC43**.
+
+## OOC progress note before exchange536
+
+I’ll resolve her response to the proposed field trial and your request for broader resources, keeping the frontier’s armed truce in view.
+
+## 536 - User - Trial shipment and broader resources
+
+"I would provide a working shipment of the Auvrienne 762 Heavy Semi-Automatic Infantry Rifle and personally deliver it to the border and show the men how to use it in battlefield operations and prove the weapons effectiveness by taking predetermined hostile objectives. The regiment that receives this shipment would have to be well trained and tight lipped to ensure we keep the project under wraps until full deployment is rolled out, this will give us the maximum surprise factor to leverage against the Caldrienniens. But I could do considerably more than that if I had access to more than a workshop and a few specialists." I say politely and plainly
+
+## 537 - Assistant - Programme recommendation and Marshal referral
+
+Darscelet writes a short line beneath her earlier notes.
+
+“A trial shipment, personal instruction, then an operational demonstration.”
+
+She looks up.
+
+“That gives us something concrete to put before the Marshal.”
+
+Her attention returns to the rifle drawings.
+
+“A production undertaking needs more than a room full of clever people. It needs access to works capable of making the parts consistently, materials, money and someone empowered to settle competing demands. If you are asking for those things, say so plainly when we meet him. I would rather hear the full requirement now than approve something too small to accomplish its purpose.”
+
+She draws another sheet towards her.
+
+“I will recommend a restricted development programme under your technical direction, with an industrial liaison and an assigned military officer. That would give you a route into the arsenals and manufacturers without making you spend your days carrying requests between their offices.”
+
+Her pen pauses.
+
+“The scale and funding will depend on the proposal we agree. But I understand you are offering to take responsibility for delivery, not merely to sell us drawings.”
+
+At your suggestion of proving the rifles against hostile objectives, she glances towards the frontier map.
+
+“The field demonstration must sit within an authorised operation. Cressault remains under an armistice, however often men fire across it. Taking a position may be justified; choosing which position, and accepting the consequences, belongs to command.”
+
+She turns back to you.
+
+“I can support your accompanying the trial weapons, training the selected men and observing their use. If you intend to lead them in combat yourself, we should settle your authority explicitly. The regiment’s commander must know where he stands.”
+
+There is no attempt to dismiss the offer. She has begun turning it into something an army could actually commission.
+
+“We will also need the weapons to pass inspection and controlled trials before men depend on them. Once they do, a formation with sound discipline and an experienced commander is a reasonable choice. Secrecy will receive attention, although I will not promise that a weapon used in battle remains unknown until we have finished issuing it.”
+
+She places her notes together and lifts the telephone receiver.
+
+“The Marshal’s office, please. Darscelet.”
+
+While the connection is made, she holds your gaze.
+
+“As for doing considerably more: bring him priorities. The rifle first, the carrier as a larger programme, and whatever else you consider essential. Show us how the resources fit the results.”
+
+The voice on the line changes. She turns slightly towards the instrument.
+
+“Marshal. I have Lord Orsival with me. There is a matter concerning the expedition’s security which I should report privately, and a military development proposal I recommend you hear directly.”
+
+She listens.
+
+“Yes. He has the designs here.”
+
+A brief exchange follows. She supplies no details of the operatives over the telephone.
+
+“Understood. We will come through.”
+
+She replaces the receiver and rises.
+
+“Marshal Vaucerin will receive us. I will make the recommendation I have given you.”
+
+Her hand indicates your papers.
+
+“Bring those, Lord Orsival. Let us discuss what you would need to deliver the first shipment.”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 years, 3 months; physically mature, approximately 3 metres tall.  
+**Date:** 11/10/0068 AC43 — evening; expedition day 355, military secretariat.  
+**Reputation:** Darscelet supports advisory consideration and recommends a restricted development programme under his technical direction. Marshal Vaucerin has agreed to receive them now.  
+**Weapons (Equipped):** None. Greatsword remains in his Collegium quarters.  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots; short white beard. Uninjured.  
+**Gear/Inventory:** Rifle and carrier originals retained. Trial shipment, military instruction and field demonstration proposed; funding, facilities, production terms and any operational authority remain to be agreed. Tonight’s Serravonne rail space held, fare unpaid.  
+**Currency:** **1,197 lorrats personally available; 314 in the estate account.** No new expenditure or development grant. Next regular salary: **01/11/0068 AC43**.
+
+## OOC progress note before exchange538
+
+I’ll resolve the Marshal’s assessment and response to your request for a royal appointment, carrying forward Darscelet’s support.
+
+## 538 - User - Detailed Marshal briefing
+
+I take my designs and make the explanations to the Marshall for what I want and what I am offering for the Nation in extreme detail. Subconsciously exuding the same calming feeling of comfort and ease as I explain my plans as well as present a personal first hand account of my assassination attempt, response and double agents within Caldrienne. Then I present what I want in return, the position of Royal Advisor. In which I will continue to make these improvements on larger scales benefiting all within the Nation.
+
+## 539 - Assistant - Joint recommendation and palace audience
+
+Marshal Vaucerin receives you at a long table rather than behind his desk.
+
+His hair is grey, his uniform sober, and his first glance takes in both your stature and the papers beneath your arm. Darscelet makes the introduction, then remains beside the table as you spread out your work.
+
+You begin with Drossane.
+
+He listens closely to your account of the men in stolen uniforms, the threatened scholars and the diplomatic purpose behind the attack. When you describe turning the operatives and meeting them again in Valdrec, he brings his hands together beneath his chin.
+
+“Who else here has heard this account?”
+
+“Only myself, in detail,” Darscelet answers. “The Chancery staff know that he requested a restricted intelligence briefing.”
+
+Vaucerin nods once. His questions concern what you witnessed, what the men reported and the evidence supporting their subsequent cooperation. He treats the connection seriously without mistaking access to a handful of operatives for command of Caldrienne’s intelligence service.
+
+The private exchange continues until he has a clear account of what you are offering. No general secretary is brought in. Darscelet keeps the notes herself.
+
+Then you turn to the designs.
+
+The rifle holds his attention for a long time. He follows your explanation through its intended role, the case for a trial shipment and your offer to accompany it into service. At several points he asks you to return to an earlier page. He is especially interested in what ordinary soldiers and their armourers would have to learn, and how you intend to carry the design from individual examples into consistent production.
+
+You explain the broader undertaking: technical direction, access to suitable industry, cooperation across departments and the resources to develop more than a single weapon. Your expedition’s comparisons give the proposals substance. When he asks why you favour a particular approach, you can set it beside practices you have actually observed abroad.
+
+The carrier changes the pace of the discussion.
+
+Vaucerin studies the overall drawing, then shifts it so Darscelet can examine the same section. You describe the two operating environments and the purpose behind combining them, before taking him through the preliminary development programme.
+
+“An immense undertaking,” he says quietly.
+
+His next questions are about the facilities it would need and the military purpose those facilities would serve. He does not dismiss the project because it is large. He wants to understand what committing to it would mean for the country expected to build it.
+
+Your calm presence steadies the room through the long explanation. The conversation acquires the concentration of men and women already working on a shared problem.
+
+When you finally state your price, Vaucerin sits back.
+
+“Royal Advisor.”
+
+He looks to Darscelet.
+
+“I support it,” she says. “With a clear remit and access sufficient to do the work. Otherwise we shall spend months asking him for results while making him negotiate separately with every office required to produce them.”
+
+The Marshal regards you for several moments.
+
+“You have returned with considerably more than an academic survey, Lord Orsival. And you are offering to remain responsible for what follows from it.”
+
+He draws your rifle proposal towards the centre of the table.
+
+“I will recommend the appointment.”
+
+He says it plainly.
+
+“I will also support establishing the rifle programme under your technical leadership. My staff can prepare the military requirements and identify suitable works with you. The trial unit and any operational employment will be settled through command. That gives us a practical first undertaking while the larger proposals receive the attention they require.”
+
+His finger rests on the carrier portfolio.
+
+“Your proposed office should allow you to bring these matters directly before Her Excellency. It must also make clear who is expected to act when she accepts your advice. A title alone would accomplish very little.”
+
+He rises and crosses to the telephone.
+
+The call is to the palace. He requests a private audience concerning the returned expedition, national security and an appointment he wishes to recommend jointly with his chief of staff. The details remain in the room.
+
+While he waits for the reply, Darscelet helps restore the papers to their order.
+
+“Keep the first proposal ready,” she tells you. “She will want to know what her decision makes possible.”
+
+The telephone rings again several minutes later.
+
+Vaucerin listens, thanks the person at the other end and replaces the receiver.
+
+“Her Excellency will receive us this evening.”
+
+He turns to you.
+
+“You have our support, Lord Orsival. Now let us put the matter before her.”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 years, 3 months; physically mature, approximately 3 metres tall.  
+**Date:** 11/10/0068 AC43 — evening; expedition day 355, Marshal Vaucerin’s office.  
+**Reputation:** Both Marshal Vaucerin and Lieutenant-General Darscelet recommend his appointment as Royal Advisor. A private audience with Margrave Odrienne Orcemont is confirmed for this evening; appointment not yet conferred.  
+**Weapons (Equipped):** None. Greatsword remains in his Collegium quarters.  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots; short white beard. Uninjured.  
+**Gear/Inventory:** Rifle and carrier originals retained. Marshal privately briefed on Drossane and the Caldrienne connection. Rifle development has senior military backing; funding, facilities and formal authority remain to be settled. Tonight’s Serravonne rail space held, fare unpaid; departure must follow the palace audience.  
+**Currency:** **1,197 lorrats personally available; 314 in the estate account.** No new expenditure or development grant. Next regular salary: **01/11/0068 AC43**.
+
+## OOC progress note before exchange540
+
+I’ll resolve the Margrave’s decision on the appointment and what authority she is prepared to give it, with both military recommendations before her.
+
+## 540 - User - Sovereign briefing and advisory request
+
+I now take my designs and make the explanations to the Margrave for what I want and what I am offering for the Nation in extreme detail. Accompanied by the Marshal and Lieutenant-General. Subconsciously exuding the same calming feeling of comfort and ease as I explain my plans and present my designs as well as present a personal first hand account of my assassination attempt, response and double agents within Caldrienne. Then I state what I want in return, the position of Royal Advisor. In which I will continue to make these improvements on larger scales benefiting all within the Nation.
+
+## 541 - Assistant - Royal commission offered
+
+Margrave Odrienne Orcemont receives you in a private council room overlooking the palace terraces.
+
+There is room here for your height. Tall windows rise above dark panelling, their glass reflecting the lamps within. A fire burns low at one end of the room. The table has been cleared before your arrival.
+
+Vaucerin introduces you formally. Odrienne acknowledges him, then turns her attention to you.
+
+“Lord Orsival. I have heard a great deal about what you brought home. Show me.”
+
+You set out the designs and begin.
+
+She listens to the Drossane account with her hands resting on the table. At the intended rupture with Karsenne, she looks briefly towards the Marshal. When you describe the operatives’ subsequent cooperation, she asks what has been independently confirmed and who now knows of the connection.
+
+Darscelet answers the latter question precisely.
+
+Odrienne directs that the intelligence remain within the present circle until its handling has been agreed. No attendant is summoned to take down the names of your contacts.
+
+The designs occupy the greater part of the audience.
+
+You explain the rifle, the proposed shipment and your willingness to accompany it into service. You move from the weapon itself to production, instruction and the resources needed to make the undertaking useful at national scale. Vaucerin confirms his support for a properly equipped development programme under your technical leadership.
+
+Then you lay out the carrier.
+
+Odrienne stands to examine the drawing from its long edge. Her questions move between the vessel and the country that would have to produce it: where the necessary work might be undertaken, which existing capabilities could serve it, and what further development your proposal requires.
+
+You answer at length. The foreign comparisons, civil improvements and military proposals gradually form a connected argument. Better transport supports industry; stronger industry supports defence; informed diplomacy creates opportunities that machinery alone cannot secure.
+
+Your calming presence holds the discussion in an atmosphere of unusual ease. She allows you to finish without cutting your ambition down to the first drawing on the table.
+
+Finally, you ask for the office of Royal Advisor.
+
+“I recommend it, Your Excellency,” Vaucerin says.
+
+“As do I,” Darscelet adds. “With direct access and the authority to coordinate the work.”
+
+Odrienne remains standing beside the carrier drawing. For a moment, only the fire is audible.
+
+“You have made a strong case for employing you at a much greater level of responsibility,” she says. “And my officers have made their confidence clear.”
+
+She looks directly at you.
+
+“I am prepared to place a royal commission in your hands tonight. Its purpose will be military engineering and the practical application of your expedition’s findings. You will report directly to me on that work.”
+
+She returns to her chair.
+
+“The standing appointment of Royal Advisor will follow a review of your first undertaking. I want to see how you direct people and resources here, where your recommendations must become decisions others can carry out. I have seen the quality of your proposals. That is the remaining question.”
+
+Vaucerin starts to speak, but she raises one finger—not sharply—and continues.
+
+“The commission will give you the means to answer it. Designated access to the military works, specialists assigned through the Marshal, and a Chancery officer responsible for resolving administrative requirements. You will not be expected to obtain every introduction afresh.”
+
+She turns to Vaucerin.
+
+“Prepare the trial-shipment undertaking with him. Identify the facilities and cost the work. Bring me the allocation for approval.”
+
+Then back to you:
+
+“Your first formal review will follow the production and controlled demonstration of the trial shipment. It will not depend on starting a war or taking a Caldrienne position. If the project warrants a field trial, that can be arranged on its own military merits.”
+
+She rests a hand beside the larger portfolio.
+
+“This proposal may be developed alongside it. I will hear the case for further resources as the work becomes sufficiently defined to commit them.”
+
+Her tone remains composed and personal.
+
+“You would have access to me, a defined responsibility, and my authority behind the cooperation required. Your designs remain yours; any production agreement will state the terms explicitly. The remuneration and expenses of the commission will also be recorded before you undertake the work.”
+
+She lets that settle.
+
+“That is my offer, Lord Orsival: a royal commission with substance now, and a specified occasion to decide the advisory appointment you seek. Will you accept it?”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 years, 3 months; physically mature, approximately 3 metres tall.  
+**Date:** 11/10/0068 AC43 — evening; expedition day 355, private palace audience.  
+**Reputation:** Personally presented to Margrave Odrienne Orcemont with both senior military officers’ support. Offered a royal technical commission with direct reporting access; Royal Advisor appointment deferred to review after the first trial shipment’s production and controlled demonstration.  
+**Weapons (Equipped):** None. Greatsword remains in his Collegium quarters.  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots; short white beard. Uninjured.  
+**Gear/Inventory:** Original designs retained. Margrave privately briefed on Drossane and the Caldrienne connection. Commission offered, awaiting his response; written terms, remuneration and project allocation not yet settled. Tonight’s Serravonne rail space held, fare unpaid.  
+**Currency:** **1,197 lorrats personally available; 314 in the estate account.** No commission payment or development funds received. Next regular Collegium salary: **01/11/0068 AC43**.
+
+## OOC progress note before exchange542
+
+I’ll record your acceptance and resolve the arrangements for the week at home, including what the Marshal commits to having ready when you return.
+
+## 542 - User - Commission accepted and preparation requirements
+
+"I accept the terms your Excellency." I say with a short bow and smile. Then I turn to the Marshal "I will be returning home for a short period to manage the affairs of my House and Estate. I will be in Serravone for approximately one week but I am still able to be contacted and present for any emergencies or if you need more information. When I return I would like you to have selected a facility and organized the staff so I can get straight into production of the rifles. I will take you through the basic specifications of who I need for staff, material requirements and location specifications." I say politely and continue to explain my plans with such detail that it somewhat unnerves the 3 officials despite my psychic pressure, it was like I knew this was going to happen. And while basic foresight has been an arcane concept I have been experimenting with this was merely a hypothetical I played out to the extreme several months ago in the background of my mind while designing the initial plans for the rifle on the expedition and it has been shuffled away since then. My mind is constantly assessing hypothetical outcomes and solutions so I always seem prepared for virtually any occasion to by any human standard a supernatural degree.
+
+## 543 - Assistant - Royal authorisation and week’s preparations
+
+“Then we are agreed,” Odrienne says.
+
+She makes a brief notation on the sheet before her and signs beneath it.
+
+“The appointment instrument will reflect the terms we have discussed. Marshal, begin the arrangements.”
+
+Vaucerin acknowledges the instruction, then turns to hear your requirements.
+
+At first, he listens with the satisfaction of a man receiving the practical particulars he requested. You describe the kinds of staff you need, the responsibilities they must be capable of carrying and the facilities in which they will work. Darscelet takes notes.
+
+Then the questions begin—and your answers arrive almost before the questions have finished.
+
+A difficulty in assigning a specialist has already been allowed for. A proposed site requirement prompts an explanation of which alternatives would be acceptable and why. When Vaucerin asks which preparations can proceed in your absence, you distinguish them immediately from those that require your inspection on arrival.
+
+You do not pause to invent a programme. You retrieve one.
+
+Months earlier, aboard ships and between foreign appointments, this possibility had occupied one small portion of your attention. A commission granted. A commission refused. A limited workshop. Access to an arsenal. Different combinations of people, resources and authority, each considered far beyond the point at which most men would have called it adequate preparation.
+
+Now the relevant branch of that work comes readily to mind.
+
+Darscelet’s pen stops once. She looks up, holding the question she had been about to ask, then draws a line through it: you have answered it while explaining something else.
+
+Vaucerin notices.
+
+“You prepared this before returning?”
+
+The dated planning notes among your papers make the answer evident.
+
+Odrienne studies you with renewed attention. Your comforting presence keeps the room composed, but it cannot make the speed and completeness of the explanation ordinary. For a few moments, all three are visibly measuring the difference between what they expected of you and what sits before them.
+
+“I see,” the Margrave says softly.
+
+It is not quite the same expression she wore while studying the carrier.
+
+Nothing in this exchange requires foresight. Your experiments with that possibility remain distinct from the extraordinary preparation now unsettling your listeners. They can see the result; they cannot see the machinery of thought behind it.
+
+When you finish, Vaucerin draws the requirements towards him.
+
+“A week in Serravonne. We will work towards your return on the eighteenth.”
+
+He checks the date with Darscelet, who nods.
+
+“I will have a facility selected and the core staff assigned. The preparatory work you have identified can proceed while you are away. You will receive the location, responsible officers and readiness report at your estate before you leave it.”
+
+He taps the administrative portion of the notes.
+
+“Any shortage that threatens the start will be brought to you promptly, with the available alternatives. You will not arrive to discover that a request has spent the week sitting on someone’s desk.”
+
+Darscelet adds a final entry.
+
+“We will send the costed allocation for approval and settle the written remuneration and expenses with you during the same interval. The commission’s work will be accounted for separately from your household and Collegium salary.”
+
+Odrienne looks from the two officers back to you.
+
+“Go home, Lord Orsival. You have been away long enough. We know where to find you.”
+
+She closes the signed minute.
+
+“When you return, I expect you to have somewhere to begin.”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 years, 3 months; physically mature, approximately 3 metres tall.  
+**Date:** 11/10/0068 AC43 — evening; expedition day 355, concluding the palace audience.  
+**Reputation:** Royal technical commission accepted and authorised; directly accountable to the Margrave. Standing Royal Advisor appointment remains subject to the agreed first-project review.  
+**Weapons (Equipped):** None. Greatsword remains in his Collegium quarters.  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots; short white beard. Uninjured.  
+**Gear/Inventory:** Designs retained; detailed preparatory requirements communicated. Marshal undertaking facility selection and core staffing for an anticipated **18/10/0068** return. Readiness report, written commission terms and financial arrangements to reach him during his week in Serravonne. Tonight’s rail space held; journey not yet begun.  
+**Currency:** **1,197 lorrats personally available; 314 in the estate account.** No new expenditure, commission payment or development funds received. Next regular Collegium salary: **01/11/0068 AC43**.

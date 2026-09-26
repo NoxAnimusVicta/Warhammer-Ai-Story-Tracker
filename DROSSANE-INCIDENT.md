@@ -1,6 +1,6 @@
-# Drossane guesthouse incident
+# Drossane guesthouse incident and subsequent cell
 
-**18/01/0068 AC43, expedition day 87, morning.** Record through exchange 523. The six operatives have driven away; Galahad stands with his five scholars outside the guesthouse. Tessier has asked, “Shall we carry on?” The day's fieldwork has not resumed.
+**Incident: 18/01/0068 AC43, day 87. Updated through 11/10/0068 AC43, exchange 543.** The later Valdrec contact and restricted palace briefings supersede the original pending-follow-up status.
 
 ## What happened
 
@@ -10,11 +10,11 @@ He recovered a briefing officer's face and the appearance of a low-ceilinged, la
 
 Citing his mother's advice to preserve nonlethal options, Galahad warned the attackers against firing, released the physical restraint and replaced the terror with his familiar calming influence. All six lowered and set aside their firearms. No shot was fired; Galahad and all five scholars remained uninjured. The operatives suffered psychic pain and fear, but no lasting neurological injury was established.
 
-He quietly ordered the men to laugh and support an old-friends/crude-joke explanation. He instructed them to return to Caldrienne, sustain believable injuries on the way and report that he had outmanoeuvred them as an exceptionally trained intelligence asset, suggesting Veyrassian counter-intelligence or a compromised network. He offered future rewards for obedience and threatened them and their loved ones for betrayal. These are his instructions and threats, not completed injuries, reports or reprisals.
+He quietly ordered the men to laugh and support an old-friends/crude-joke explanation. He instructed them to return to Caldrienne, sustain believable injuries on the way and report that he had outmanoeuvred them as an exceptionally trained intelligence asset, suggesting Veyrassian counter-intelligence or a compromised network. He offered future rewards for obedience and threatened them and their loved ones for betrayal. At that moment these were instructions and threats; later evidence of injuries and a reported cover story is distinguished below from unseen reports and unenacted reprisals.
 
 He then deliberately projected an image and accompanying words into all six minds: himself leading Veyrassian troops into Valdrec, with the men serving as his cell to ease that path and reduce the deaths of their countrymen. The six received the message and accepted verbally or by nodding. The image expresses his intended future; it is not a prophecy, an existing army command or an enacted invasion.
 
-Galahad dismissed them publicly and returned to the scholars, saying, “Foolish joke, old friends of mine.” The six recovered their firearms and departed downhill by motorcar. Their return to Caldrienne and subsequent conduct have not been observed.
+Galahad dismissed them publicly and returned to the scholars, saying, “Foolish joke, old friends of mine.” The six recovered their firearms and departed downhill by motorcar. Their subsequent Valdrec contact is recorded below.
 
 ## Knowledge and attribution
 
@@ -22,18 +22,23 @@ Galahad dismissed them publicly and returned to the scholars, saying, “Foolish
 |---|---|
 | Galahad | The Caldrienne operation and intended false attribution, from the two corroborating memory searches; the briefing fragments; his own instructions and projected ambition. |
 | Six operatives | Their operation failed; Galahad overwhelmed them, obtained private information and issued threats and orders. They received the projected Valdrec image. This grants no knowledge of his origin, cohort, full potential or concealed research. |
-| Five scholars | Armed apparent officers confronted them; Galahad intervened, the men became distressed and disarmed, and he later offered the joke explanation. They did not receive the private mental projection or learn the Caldrienne attribution and cell instructions automatically. They are shaken and uninjured. |
+| Five scholars | Armed apparent officers confronted them; Galahad intervened, the men became distressed and disarmed, and he later offered the joke explanation. They did not receive the private mental projection or learn the Caldrienne attribution and cell instructions automatically. They were shaken and uninjured, and later completed the expedition without recorded injury. |
 | Street witnesses | The visible confrontation, distress, awkward laughter and public parting. Galahad's calming influence eased the atmosphere without erasing what they saw or guaranteeing belief in the cover. |
-| Governments and institutions | No formal notification, investigation, official attribution or diplomatic response has yet been established. |
+| Veyrasse senior leadership | The Margrave, Marshal and Lieutenant-General heard Galahad’s firsthand account on 11/10/0068. They know the reported attack and cell, not automatically the memory searches, family threats, projection or private Order. Broader subversion is his claim, not independently verified national penetration. |
+| Other officials and governments | General Chancery staff received civil findings and a restricted-audience request, not the private intelligence detail. No public attribution, foreign-government response or completed investigation has been established. |
 
 The men were not genuine Karsenne officers carrying out official orders. “Old friends” is a cover, not newly established shared history. Varcet responded with dry humour; Tessier requested warning before further such encounters; Sarnot checked her companions. None publicly challenged Galahad for the full account, and no automatic trust rupture or unquestioning acceptance is recorded.
 
-## Present consequences and open matters
+## Valdrec follow-up — 05–09/10/0068 AC43
 
-The six are a **provisional coerced cell**, not proven loyal agents. Immediate compliance and fear do not establish lasting obedience, psychic binding or a dependable intelligence pipeline. No contact protocol, remote tracking or continuing telepathic link was arranged. Their instructions remain outstanding; they have not already injured themselves, submitted reports or performed further missions.
+All six were alive and reaffirmed cooperation during the scheduled visit. Scars were consistent with the injury account and they reported delivering the misleading failure story. Galahad has not seen their superiors’ report. A minor procurement meeting was independently corroborated, and a future correspondence channel was arranged. These provide evidence beyond their initial frightened compliance, without guaranteeing loyalty or verifying a national disinformation campaign. There is no permanent psychic bond or remote tracking system.
 
-There were no deaths, shots, captures or confiscations. No loot, bounty, payment or new possession was obtained. Psychic distress is recorded separately from bodily casualties. Personal funds remain 522 lorrats, with 264 earmarked pending the household statement and 258 uncommitted. The expedition retains 11,430 after 3,070 settled costs; guesthouse bills still await settlement.
+## Palace disclosure — 11/10/0068 AC43
 
-No declared war, diplomatic rupture, frontier change, transport closure, population deduction or economic shock follows automatically. The incident is recorded as `drossane-0068-01-18` in the planetary conflict return, with private character knowledge distinguished from official attribution. Date, route and ten unused scheduling reserve days remain unchanged.
+Galahad told Darscelet, Vaucerin and Odrienne that the cell was loyal, running disinformation and preparing Caldrienne for eventual takeover. Preserve the distinction between his account and independently verified results. Independent House action offers deniability, not diplomatic immunity. No formal invasion, front change or general war was authorised. See ROYAL-COMMISSION.md.
 
-Galahad is unarmed and unimpaired, in his pale shirt, dark trousers and boots. His coat and concealed research remain upstairs; the Hunter device remains at the assay office. No search, leak, recovered artifact or further research result occurred during this encounter.
+## Accounting and outstanding consequences
+
+The original confrontation caused no deaths, shots, captures, confiscations or expenditure. Its unique event ID remains `drossane-0068-01-18`; later follow-up does not post a duplicate loss. Personal and institutional balances have since changed through the completed journey and approved closeout, as recorded in expedition-accounts.json; there are no unpaid Drossane guesthouse bills now.
+
+Future cell reports, continued loyalty, wider penetration, government verification and any public reaction remain unresolved. The Hunter assembly stayed at the assay office. No private manuscript leak, acquired device, diplomatic rupture or exceptional demographic loss has been enacted.

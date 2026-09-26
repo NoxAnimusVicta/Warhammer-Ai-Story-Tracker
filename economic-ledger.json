@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 63,
+  "revision": 65,
   "baseline": {
     "label": "Year 67 AC43 \u2014 21/10/0067 AC43",
     "scene": "Auvrienne Collegium, evening before departure",
@@ -39,7 +39,7 @@
     "replaces_temporary_modifier",
     "source"
   ],
-  "last_review_date": "18/01/0068 AC43",
+  "last_review_date": "11/10/0068 AC43",
   "reviews": [
     {
       "dates": [
@@ -49,6 +49,21 @@
         "18/01/0068 AC43"
       ],
       "finding": "Existing regional bands retained; trip invoices recorded separately in expedition-accounts.json. No blanket inflation at new year and no retrospective repricing."
+    },
+    {
+      "dates": [
+        "01/02/0068 AC43",
+        "01/03/0068 AC43",
+        "01/04/0068 AC43",
+        "01/05/0068 AC43",
+        "01/06/0068 AC43",
+        "01/07/0068 AC43",
+        "01/08/0068 AC43",
+        "01/09/0068 AC43",
+        "01/10/0068 AC43",
+        "11/10/0068 AC43"
+      ],
+      "finding": "Return review retains dated regional bands; actual invoices and estate receipts are settled separately. No automatic inflation or fabricated national Year 68 treasury return. Royal allocation remains pending."
     }
   ]
 }

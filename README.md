@@ -1,4 +1,4 @@
-Current story date: **18/01/0068 AC43** (day/month/year after Culling 43). See [the calendar](CALENDAR-REFERENCE.md).
+Current story date: **11/10/0068 AC43** (day/month/year after Culling 43). See [the calendar](CALENDAR-REFERENCE.md).
 
 # Malaspina — data-slate
 
@@ -18,17 +18,19 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the last major culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition — revision 64
+## Current edition — revision 65
 
-The current scene is **Drossane, expedition day 87 morning**, outside the guesthouse after six disguised attackers departed. The dossier records the first 85 days of study and travel, day 86’s assay-office visit, the private emitter hypothesis and overnight manuscript, and the new cipher work. The [Drossane incident](DROSSANE-INCIDENT.md) records the nonlethal confrontation, exposed Caldrienne operation, private mental projection and provisional coerced cell. Fieldwork has not resumed; no government response or future compliance is assumed.
+The current scene is **Auvrienne palace, 11/10/0068 AC43 evening**, following acceptance of the royal technical commission. The expedition returned on day 355, with ten reserve days unused. The standing **Royal Advisor** appointment remains subject to produced rifle trials and a controlled demonstration. Facility preparation, costed funding and remuneration remain pending. Galahad has not yet departed for his planned week at Serravonne.
 
-Personal accounted funds **522**: earmarks **264** pending the household statement, **258** uncommitted. Expedition held **11,430** after **3,070** settled costs; current guesthouse bills await settlement. Three salary payments are already credited; next payday **01/02/0068 AC43**. See [budget](EXPEDITION-BUDGET.md), [transaction record](expedition-accounts.json) and [estate accounts](ESTATE-ACCOUNTS.md). The 218 annual estate remainder remains a conditional forecast.
+[Completed expedition](EXPEDITION-RETURN.md) records the research, developed cipher, forty recurring correspondents, unnamed six-practitioner Order, two recovered collections and institutional delivery. [Royal commission](ROYAL-COMMISSION.md) records accepted authority and outstanding commitments. [Drossane follow-up](DROSSANE-INCIDENT.md) distinguishes verified Valdrec contact, Galahad’s wider claims and restricted leadership knowledge.
+
+Personal **1,197**, separate estate **314**; expedition fund closed. Operating costs **11,855**, scholar awards **500**, leader award **645**, sponsor refunds **1,500** reconcile the **14,500** fund. Separate payroll **2,820** makes final institutional expenditure **15,820**. All ordinary salaries through 01/10/0068 are paid; next 01/11. See [budget and actuals](EXPEDITION-BUDGET.md), [transaction record](expedition-accounts.json) and [estate ledger](ESTATE-ACCOUNTS.md).
 
 [Economic reference](ECONOMIC-REFERENCE.md) dates wages and prices to the Year 67 AC43 baseline, reviewed on the current story date, with regional variation and recorded event-driven changes. [Monumental architecture](ARCHITECTURE-REFERENCE.md) records Galahad’s unbuilt national-wonder designs and current-price estimates. [Estate accounts](ESTATE-ACCOUNTS.md) separates paid expenses, allocations and projected returns.
 
-Ceralte now includes Bellavara and Montelisse, with sea connections to Dalmor. The atlas contains 970 settlements and 2,210 routes, with 134 sea passages connecting 72 harbours. [Ten outer island regions](ISLAND-CHAINS.md) add seven self-governing societies and three colonial administrations across 63 previously unassigned islands. The two Ceralte additions remain within its existing census. The outer chains correct earlier omitted coverage. The current 142-day full-coverage estimate is 1,225,459,668 on 18/01/0068 AC43; earlier estimates remain historical.
+Ceralte now includes Bellavara and Montelisse, with sea connections to Dalmor. The atlas contains 970 settlements and 2,210 routes, with 134 sea passages connecting 72 harbours. [Ten outer island regions](ISLAND-CHAINS.md) add seven self-governing societies and three colonial administrations across 63 previously unassigned islands. The two Ceralte additions remain within its existing census. The outer chains correct earlier omitted coverage. The current 410-day full-coverage estimate is 1,228,556,988 on 11/10/0068 AC43; earlier estimates remain historical.
 
-Galahad’s full bodily maturity is expected around three local years at 3 metres (about 9 ft 10 in). He is approximately two years and six months old; his last measured height remains 2.59 metres.
+Galahad reached bodily maturity during the expedition at approximately 3 metres. He is now about three years and three months old, with a short white beard. The departure artwork remains his clothing reference; the formal leadership portrait remains a future reference.
 
 Current summaries supersede older checkpoints. The exact transcript preserves historical wording, including superseded proposals. The private handover must not be uploaded to this public repository.
 
@@ -42,7 +44,7 @@ The dossier portrait now shows Galahad in his current expedition clothes. The ea
 
 [Founder origin](ORIGIN-REFERENCE.md) records the current New Men/Primarch chimera and selective neural design. Bile is its creator, not a biological donor. Historical archive wording is superseded by this reference.
 
-[Balanced expedition route](expedition-route.html) provides a day selector, mapped surface connections and five-to-six-day research stays, with return on day355 and ten days in reserve. [Printable schedule](expedition-route.md). [Coastline reference](COASTLINE-REFERENCE.md) records the refined mainland shores and preserved Eastern Marches survey.
+[Balanced expedition route](expedition-route.html) provides a day selector, mapped surface connections and five-to-six-day research stays, recording the completed return on day 355 and ten unused reserve days. [Printable schedule](expedition-route.md). [Coastline reference](COASTLINE-REFERENCE.md) records the refined mainland shores and preserved Eastern Marches survey.
 
 [Local calendar](CALENDAR-REFERENCE.md): 24h8m solar days in Terran standard units, 365 local days per year. These appear beside population and charted islands. National profiles and comparisons now include annual spending by purpose, budget surpluses/deficits, liquid reserves, outstanding debt, interest and financing plans. The full [national register](NATIONAL-REGISTER.md) distinguishes treasury stocks dated 21/10/0067 from Year 67 annual forecasts. No fresh national cash return is invented; this publication adds no further story time.
 

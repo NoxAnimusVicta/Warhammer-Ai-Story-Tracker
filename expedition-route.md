@@ -1,8 +1,8 @@
-# Prepared expedition route
+# Completed expedition route
 
-Day 1 = departure on **22/10/0067 AC43**, in northern autumn. Dates use day/month/year after the numbered major culling. Planned return: **11/10/0068 AC43**; deadline: **21/10/0068 AC43**. Current position: Drossane, day 87 morning (18/01/0068 AC43), outside the guesthouse after the six attackers departed; the scholars are uninjured and fieldwork has not resumed. Ten reserve days remain unused.
+Returned to Auvrienne on **11/10/0068 AC43, day 355** after departure on **22/10/0067**. The original day-365 deadline is **21/10/0068**; all ten reserve days were unused. Current scene: evening palace audience, after acceptance of the royal technical commission. The tables retain the itinerary actually followed; they do not schedule a second expedition.
 
-Return target: **day 355**. Reserve: **days 356–365 (10 days)**. Fourteen destinations receive six full days and eight receive five: 124 visiting days plus 231 travel days. Date ranges are inclusive. Funding, ordinary permissions, accommodation, payment access and seasonal sailings are arranged. See [preparation register](EXPEDITION-PREPARATION.md), [itemised budget](EXPEDITION-BUDGET.md) and [sea passage review](SEA-PASSAGES.md).
+Actual return: **day 355**. Unused reserve: **days 356–365 (10 days)**. Fourteen destinations receive six full days and eight receive five: 124 visiting days plus 231 travel days. Date ranges are inclusive. Funding, ordinary permissions, accommodation, payment access and seasonal sailings are arranged. See [preparation register](EXPEDITION-PREPARATION.md), [itemised budget](EXPEDITION-BUDGET.md) and [sea passage review](SEA-PASSAGES.md).
 
 The sea review retains the capital order and prepared seasonal corridors. One day of surplus allowance on Avercenne–Tervessac is moved to the recalculated Grevallier–Estrevigne journey. The final return date and all full visiting-day allocations remain intact.
 
@@ -33,4 +33,4 @@ The sea review retains the capital order and prepared seasonal corridors. One da
 | Valdrec | 343–348 (6 days); 30/09/0068 AC43 – 04/10/0068 AC43 | 349–353 (5 days); 05/10/0068 AC43 – 09/10/0068 AC43 |
 | Auvrienne | 354–355 (2 days); 10/10/0068 AC43 – 11/10/0068 AC43 | Transfer / home |
 
-Operating fund 14,500 (Chancery 10,000; Collegium 4,500); 11,430 remains after 3,070 settled costs; day 86–87 guesthouse bills await settlement. Expected operating cost 12,061; financial reserve 2,439. Separate ordinary payroll 2,820 includes Galahad at 60/month and five scholars at 35 each. Total cash provision 17,320. Restricted research access is pursued separately. Northern homeward travel on days 312–336 uses the established days 295–350 sailing window. No automatic air travel or foreign gifts are required.
+Final operating cost **11,855** from **14,500** provided. Approved closeout: scholar awards **500**, leadership award **645**, sponsor refunds **1,500**. No balance remains under Galahad’s control. Separate ordinary payroll **2,820** makes final institutional cost **15,820**. Seasonal corridors were honoured and no flight was required. See [completed expedition](EXPEDITION-RETURN.md) and [accounts](expedition-accounts.json).

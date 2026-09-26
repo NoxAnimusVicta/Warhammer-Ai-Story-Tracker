@@ -1,6 +1,6 @@
 # House Orsival — estate accounts
 
-Revision 63 · Reviewed 18/01/0068 AC43; day 87 · Pricing baseline: transcript439; subsequent payments: transcript443
+Revision 65 · Reviewed 11/10/0068 AC43; day 355 · Pricing baseline: transcript439; subsequent payments: transcript443
 
 The established land account remains **20 ha tenanted arable + 12 meadow/pasture + 14 woodland + 6 orchard/market ground + 4 buildings/tracks/domestic ground = 56 ha**. Existing occupancies and tenancies remain protected.
 
@@ -70,20 +70,36 @@ The expedition operating fund is 14,500 lorrats: 10,000 from the Chancery and 4,
 
 General wages and prices: [ECONOMIC-REFERENCE.md](ECONOMIC-REFERENCE.md). These accounts supersede the earlier provisional 620/144 forecast and 190/212 allocation. The exact transcript retains those historical passages; they are not the current budget.
 
-### Current reconciled personal account — 18/01/0068 AC43
+### Current estate statement — 11/10/0068 AC43
+
+| Movement during the expedition | Lorrats |
+|---|---:|
+| Opening household earmarks | 264 |
+| Remaining initial repairs paid | −72 |
+| First furniture purchases paid | −40 |
+| Actual operating receipts | +1,570 |
+| Direct operating costs | −844 |
+| Shared costs | −340 |
+| Domestic costs | −224 |
+| **Estate closing funds under Corva** | **314** |
+
+Operating surplus is **1,570 − 844 − 340 − 224 = 162**. It is the resolved actual statement, not the model’s 218 annual remainder credited automatically. The aggregate return does not certify every illustrative tenancy, productive-area split or woodland yield in the planning model above. No detailed revenue subdivision has been invented.
+
+Initial repairs and first furniture are paid. The workshop building is dry, secure and lit, ready for equipment; no benches, machinery or specialist tools have been purchased. Veskan’s arm has healed. Corva retains the delegated financial and staffing authority; no retirement or complete marital reconciliation is assumed.
+
+### Current personal account — 11/10/0068 AC43
 
 | Movement | Lorrats |
 |---|---:|
-| Predeparture balance | 378 |
-| Salary 01/11/0067 | +60 |
-| Salary 01/12/0067 | +60 |
-| Salary 01/01/0068 | +60 |
-| Private copies, correspondence and access | −30 |
-| Clothing alterations | −6 |
-| **Accounted personal funds** | **522** |
-| Earmarks pending household statement | 264 |
-| **Uncommitted** | **258** |
+| Day-87 available funds, excluding the estate’s 264 | 258 |
+| Nine monthly wages, 01/02 through 01/10/0068 | +540 |
+| Private clothing | −72 |
+| Private papers and copying | −90 |
+| Private excursions | −45 |
+| Private hospitality and assistance | −39 |
+| Approved leadership award, paid | +645 |
+| **Personal funds** | **1,197** |
 
-Corva’s separate household statement remains pending. Routine operations continue under her authority; these earmarks must not be treated as a verified untouched cash reserve after almost three months away. No annual projected estate profit has been credited. Reconcile her actual receipts, wages, repairs and domestic costs before making further household commitments. Latest letters report Veskan healing well and request workshop measurements before equipment orders; no new machinery purchase or completed workshop is recorded.
+The earlier 522 included the household earmarks; they must not be added again. Combined personal and estate funds are **1,511**, held as two distinct accounts. All twelve ordinary expedition paydays are settled, including the three already recorded before day 87. Next salary **01/11/0068 AC43**, still **60/month**.
 
-The expedition separately holds **11,430** after **3,070** settled costs, including **2,439 contingency**. Day 86–87 guesthouse charges await settlement. See [expedition accounts](expedition-accounts.json). Next personal payday is 01/02/0068 AC43. This publication applies no payment twice.
+The expedition is separately closed: **11,855** operations, **500** scholar awards, **645** leadership award and **1,500** refunds account for the full **14,500** fund. No institutional balance remains in Galahad’s control. Royal technical programme funding and remuneration have not been quantified or paid. See [final expedition accounts](expedition-accounts.json) and [commission](ROYAL-COMMISSION.md).

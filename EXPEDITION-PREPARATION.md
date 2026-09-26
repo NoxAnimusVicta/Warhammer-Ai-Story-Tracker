@@ -1,6 +1,8 @@
 # Expedition preparation — arrangements completed before 22/10/0067 AC43
 
-This register records the completed predeparture arrangements. The expedition is now at Drossane on 18/01/0068 AC43, day 87. These permissions and support arrangements continue; predeparture balances below are historical. Current actual costs are in EXPEDITION-BUDGET.md and expedition-accounts.json.
+**Historical preparation register, retained after completion on 11/10/0068 AC43.** The permissions, seasonal route, institutional support and funding below describe the arrangements honoured during the completed journey. For current balances, deliveries and commitments use [EXPEDITION-RETURN.md](EXPEDITION-RETURN.md), [expedition accounts](expedition-accounts.json) and [ROYAL-COMMISSION.md](ROYAL-COMMISSION.md). Earlier checkpoint notes below are dated history, not outstanding travel obligations.
+
+This register records the completed predeparture arrangements. The expedition returned to Auvrienne on 11/10/0068 AC43, day 355. These permissions and support arrangements were honoured; the predeparture balances below are historical. Current actual costs are in EXPEDITION-BUDGET.md and expedition-accounts.json.
 
 Revision 54 · Auvrienne, evening before departure · Year 67 AC43 price basis
 
@@ -10,7 +12,7 @@ At this historical checkpoint the expedition was ready to depart. The Chancery a
 
 The Chancery supplies **10,000 lorrats**, and the Collegium **4,500**, creating a **14,500-lorrat operating fund**. Existing paid invoices total **510**; **13,990 remains**, including **2,439 financial contingency**. Expected total operating expenditure is **12,061**. See [the itemised budget](EXPEDITION-BUDGET.md).
 
-All six remain in Collegium employment. Galahad continues at **60 per pay month**, and each of the five scholars at **35**: **235 per month**, or **2,820 for twelve accounting months**. Expected expense including payroll is **14,881**; total cash provision including reserve is **17,320**. Pay is credited periodically to existing individual accounts, not prepaid from expedition funds. Galahad’s predeparture personal cash was 378; current wages and balances are recorded separately in the day-87 ledger. No additional leadership premium is assumed.
+All six remain in Collegium employment. Galahad continues at **60 per pay month**, and each of the five scholars at **35**: **235 per month**, or **2,820 for twelve accounting months**. Expected expense including payroll is **14,881**; total cash provision including reserve is **17,320**. Pay is credited periodically to existing individual accounts, not prepaid from expedition funds. Galahad’s predeparture personal cash was 378; current wages and balances are recorded separately in the final accounts. The later approved completion award was 645 for Galahad and 100 for each scholar, separate from ordinary salary.
 
 The Collegium supplies its already inventoried survey instruments, microscope and balances on loan, maintains home administration and duplicate reports, and handles introductions, correspondence, remittances and agents. These are institutional resources, not personal gifts or an invented extra cash receipt. Foreign hospitality can save money but is not required to complete the tour. Paid professional lodging and ordinary meals are budgeted throughout.
 

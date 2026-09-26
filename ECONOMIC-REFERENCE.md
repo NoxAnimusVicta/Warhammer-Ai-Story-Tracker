@@ -1,6 +1,6 @@
 # Malaspina Economic Reference
 
-Price review: **18/01/0068 AC43**. Year 67 AC43 reference bands remain the baseline; no blanket new-year inflation is enacted. Apply recorded regional conditions and actual invoices, not automatic repricing.
+Price review: **11/10/0068 AC43**. Year 67 AC43 reference bands remain the baseline; no blanket new-year inflation is enacted. Apply recorded regional conditions and actual invoices, not automatic repricing.
 
 Version 1.4 · Current local story-year price baseline · Editorial update 23 September 2026
 

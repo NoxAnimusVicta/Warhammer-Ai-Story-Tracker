@@ -21,16 +21,18 @@
   "days_per_year": 365,
   "local_hours_per_day": 24,
   "solar_day_terran_seconds": 86880,
-  "current_date": "18/01/0068 AC43",
+  "current_date": "11/10/0068 AC43",
   "census_date": "27/08/0067 AC43",
   "approval_date": "01/10/0067 AC43",
-  "last_salary_date": "01/01/0068 AC43",
+  "last_salary_date": "01/10/0068 AC43",
   "departure_date": "22/10/0067 AC43",
-  "next_salary_date": "01/02/0068 AC43",
+  "next_salary_date": "01/11/0068 AC43",
   "target_return_date": "11/10/0068 AC43",
   "deadline_date": "21/10/0068 AC43",
   "maintenance": "Advance only with story time. A new major culling resets the year count after its end; changing era must be explicit, with an old-to-new date bridge. Keep occurrence and report dates separate and preserve historic era labels.",
   "current_cycle": 43,
   "current_year": 68,
-  "notation": "67 AC43 = Year 67 after the 43rd recorded major culling; full dates are DD/MM/YYYY AC43. The elapsed phrase about 67 years is rounded historical usage, not a precise anniversary."
+  "notation": "67 AC43 = Year 67 after the 43rd recorded major culling; full dates are DD/MM/YYYY AC43. The elapsed phrase about 67 years is rounded historical usage, not a precise anniversary.",
+  "actual_return_date": "11/10/0068 AC43",
+  "expected_return_from_estate": "18/10/0068 AC43"
 }

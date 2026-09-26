@@ -2655,7 +2655,7 @@
     {
       "start": 1,
       "end": 2,
-      "label": "Auvrienne → Serravonne",
+      "label": "Auvrienne \u2192 Serravonne",
       "kind": "Travel window",
       "point": [
         1935.16231,
@@ -2666,7 +2666,7 @@
     {
       "start": 3,
       "end": 4,
-      "label": "Serravonne → Dalmor",
+      "label": "Serravonne \u2192 Dalmor",
       "kind": "Travel window",
       "point": [
         1962.43382,
@@ -2688,7 +2688,7 @@
     {
       "start": 11,
       "end": 22,
-      "label": "Dalmor → Varnessa",
+      "label": "Dalmor \u2192 Varnessa",
       "kind": "Travel window",
       "point": [
         2077.90578,
@@ -2710,7 +2710,7 @@
     {
       "start": 29,
       "end": 38,
-      "label": "Varnessa → Gavrielle",
+      "label": "Varnessa \u2192 Gavrielle",
       "kind": "Travel window",
       "point": [
         1865.04271,
@@ -2732,7 +2732,7 @@
     {
       "start": 44,
       "end": 49,
-      "label": "Gavrielle → Serevienne",
+      "label": "Gavrielle \u2192 Serevienne",
       "kind": "Travel window",
       "point": [
         1777.39322,
@@ -2754,7 +2754,7 @@
     {
       "start": 56,
       "end": 61,
-      "label": "Serevienne → Kelbrienne",
+      "label": "Serevienne \u2192 Kelbrienne",
       "kind": "Travel window",
       "point": [
         1915.12814,
@@ -2776,7 +2776,7 @@
     {
       "start": 68,
       "end": 77,
-      "label": "Kelbrienne → Miravelle",
+      "label": "Kelbrienne \u2192 Miravelle",
       "kind": "Travel window",
       "point": [
         1918.25848,
@@ -2798,7 +2798,7 @@
     {
       "start": 83,
       "end": 85,
-      "label": "Miravelle → Drossane",
+      "label": "Miravelle \u2192 Drossane",
       "kind": "Travel window",
       "point": [
         1876.31193,
@@ -2820,7 +2820,7 @@
     {
       "start": 91,
       "end": 96,
-      "label": "Drossane → Avercenne",
+      "label": "Drossane \u2192 Avercenne",
       "kind": "Travel window",
       "point": [
         1739.82915,
@@ -2842,7 +2842,7 @@
     {
       "start": 103,
       "end": 106,
-      "label": "Avercenne → Tervessac",
+      "label": "Avercenne \u2192 Tervessac",
       "kind": "Travel window",
       "point": [
         1589.57287,
@@ -2864,7 +2864,7 @@
     {
       "start": 113,
       "end": 137,
-      "label": "Tervessac → Ossendrienne",
+      "label": "Tervessac \u2192 Ossendrienne",
       "kind": "Travel window",
       "point": [
         988.0,
@@ -2886,7 +2886,7 @@
     {
       "start": 143,
       "end": 147,
-      "label": "Ossendrienne → Alescogne",
+      "label": "Ossendrienne \u2192 Alescogne",
       "kind": "Travel window",
       "point": [
         804.0,
@@ -2908,7 +2908,7 @@
     {
       "start": 153,
       "end": 156,
-      "label": "Alescogne → Rivessole",
+      "label": "Alescogne \u2192 Rivessole",
       "kind": "Travel window",
       "point": [
         636.0,
@@ -2930,7 +2930,7 @@
     {
       "start": 162,
       "end": 172,
-      "label": "Rivessole → Bellacenne",
+      "label": "Rivessole \u2192 Bellacenne",
       "kind": "Travel window",
       "point": [
         332.0,
@@ -2952,7 +2952,7 @@
     {
       "start": 179,
       "end": 191,
-      "label": "Bellacenne → Cavrelisse",
+      "label": "Bellacenne \u2192 Cavrelisse",
       "kind": "Travel window",
       "point": [
         476.0,
@@ -2974,7 +2974,7 @@
     {
       "start": 198,
       "end": 208,
-      "label": "Cavrelisse → Charvessant",
+      "label": "Cavrelisse \u2192 Charvessant",
       "kind": "Travel window",
       "point": [
         724.0,
@@ -2996,7 +2996,7 @@
     {
       "start": 215,
       "end": 219,
-      "label": "Charvessant → Orsevigne",
+      "label": "Charvessant \u2192 Orsevigne",
       "kind": "Travel window",
       "point": [
         924.0,
@@ -3018,7 +3018,7 @@
     {
       "start": 226,
       "end": 268,
-      "label": "Orsevigne → Corsavik",
+      "label": "Orsevigne \u2192 Corsavik",
       "kind": "Travel window",
       "point": [
         2672.0,
@@ -3040,7 +3040,7 @@
     {
       "start": 275,
       "end": 280,
-      "label": "Corsavik → Arvendal",
+      "label": "Corsavik \u2192 Arvendal",
       "kind": "Travel window",
       "point": [
         2824.0,
@@ -3062,7 +3062,7 @@
     {
       "start": 287,
       "end": 295,
-      "label": "Arvendal → Orsendal",
+      "label": "Arvendal \u2192 Orsendal",
       "kind": "Travel window",
       "point": [
         3016.0,
@@ -3084,7 +3084,7 @@
     {
       "start": 301,
       "end": 305,
-      "label": "Orsendal → Grevallier",
+      "label": "Orsendal \u2192 Grevallier",
       "kind": "Travel window",
       "point": [
         3016.0,
@@ -3106,7 +3106,7 @@
     {
       "start": 312,
       "end": 336,
-      "label": "Grevallier → Estrevigne",
+      "label": "Grevallier \u2192 Estrevigne",
       "kind": "Travel window",
       "point": [
         1915.12814,
@@ -3128,7 +3128,7 @@
     {
       "start": 343,
       "end": 348,
-      "label": "Estrevigne → Valdrec",
+      "label": "Estrevigne \u2192 Valdrec",
       "kind": "Travel window",
       "point": [
         1915.12814,
@@ -3150,7 +3150,7 @@
     {
       "start": 354,
       "end": 355,
-      "label": "Valdrec → Auvrienne",
+      "label": "Valdrec \u2192 Auvrienne",
       "kind": "Travel window",
       "point": [
         1921.38882,
@@ -3380,7 +3380,7 @@
   ],
   "preparation": {
     "revision": 54,
-    "status": "ready for departure",
+    "status": "historical predeparture arrangements; journey now complete",
     "departureSeason": "northern autumn",
     "returnDeadlineDay": 365,
     "operatingFund": 14500,
@@ -3401,11 +3401,12 @@
         "lastDay": 290
       },
       {
-        "stage": "Iskel–Norrak return",
+        "stage": "Iskel\u2013Norrak return",
         "firstDay": 295,
         "lastDay": 350
       }
-    ]
+    ],
+    "asOf": "21/10/0067 AC43"
   },
   "calendar": {
     "reference": "CALENDAR-REFERENCE.md",
@@ -3779,5 +3780,16 @@
       "21/10/0068 AC43"
     ]
   },
-  "seaReview": "All sea distances follow the corrected corridor geometry. Capital order and booked seasonal route retained; one travel day moved from Avercenne–Tervessac to Grevallier–Estrevigne."
+  "seaReview": "All sea distances follow the corrected corridor geometry. Capital order and booked seasonal route retained; one travel day moved from Avercenne\u2013Tervessac to Grevallier\u2013Estrevigne.",
+  "completion": {
+    "date": "11/10/0068 AC43",
+    "day": 355,
+    "status": "Completed on schedule",
+    "full_visiting_days": 124,
+    "travel_days": 231,
+    "reserve_days_unused": 10,
+    "flights": 0,
+    "current_location": "Auvrienne palace",
+    "reference": "EXPEDITION-RETURN.md"
+  }
 }

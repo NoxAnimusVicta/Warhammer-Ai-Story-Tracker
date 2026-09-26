@@ -1,6 +1,6 @@
 # Malaspina — active conflicts and disputes
 
-18/01/0068 AC43 — latest story review
+11/10/0068 AC43 — expedition return and restricted briefing review
 
 Principal recorded conflicts and unresolved disputes; not an exhaustive incident list. Unlisted regions are not certified peaceful.
 
@@ -14,11 +14,11 @@ A previous border war ended in an armistice without settling ownership of the de
 
 Customs pressure and railway delays continue; estates face divided obligations. Accusations of sponsored claimants and interference with water supplies remain allegations. Serravonne is outside the fighting area.
 
-Travel: The arranged Valdrec–Auvrienne return remains available under current conditions. A renewed offensive, prolonged crossing closure or attack on irrigation works would require a new travel and supply assessment.
+Travel: The expedition completed its prepared route and seasonal passages without a newly enacted closure. Existing local risks remain relevant to future journeys; new warnings require a dated cause.
 
 Record basis: Consolidates the established Cressault record; no new incident.
 
-Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted.
+Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Reviewed across the February–October journey and at return; established classification retained. No additional exceptional losses, front change or closure enacted.
 
 ## Ossavren succession fighting
 
@@ -30,11 +30,11 @@ The broken crown has left several armed authorities contesting revenue, infrastr
 
 Tolls, incompatible railway arrangements and insecurity fragment access to coal, petroleum and markets. Fighting in one district does not close every city or port in the geographic return.
 
-Travel: The prepared Ossendrienne visit and its named transit jurisdictions remain open. Agents reconfirm local authority and passage before entry; renewed fighting on the actual route, rather than the regional label alone, triggers a change.
+Travel: The expedition completed its prepared route and seasonal passages without a newly enacted closure. Existing local risks remain relevant to future journeys; new warnings require a dated cause.
 
 Record basis: Consolidates existing civil-fighting and divided-authority records; battle dates and losses remain unquantified.
 
-Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted.
+Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Reviewed across the February–October journey and at return; established classification retained. No additional exceptional losses, front change or closure enacted.
 
 ## Haldrevik concession clashes
 
@@ -46,11 +46,11 @@ Contested renewals, rent and land rights have produced scattered armed clashes a
 
 Particular sites and feeder roads may be interrupted while other concessions continue working. Dependence on imported food and Varnesk machinery makes prolonged stoppages costly. Commercial ties do not establish Varnesk as a belligerent.
 
-Travel: The arranged Rovensac–Trelovre transit remains in service. Restricted concession interiors are outside ordinary academic permissions; confirmed disruption at a booked port or connection prompts an agent’s notice.
+Travel: The expedition completed its prepared route and seasonal passages without a newly enacted closure. Existing local risks remain relevant to future journeys; new warnings require a dated cause.
 
 Record basis: New limited baseline clarification of established armed concession tensions; no particular battle, seizure or casualty total is enacted.
 
-Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted.
+Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Reviewed across the February–October journey and at return; established classification retained. No additional exceptional losses, front change or closure enacted.
 
 ## Seravelle and island sea-lane insecurity
 
@@ -62,11 +62,11 @@ Raiding and forcible cargo seizures coexist with convoy cooperation and commerci
 
 Escorts, insurance and guarded harbour access form part of ordinary shipping costs. A debt seizure is not automatically piracy, and an unidentified attacker cannot be assigned a state sponsor without evidence.
 
-Travel: Booked commercial services remain available. A confirmed attack, blockade or withdrawn sailing affecting the itinerary requires a specific notice; no planet-wide sea closure is assumed.
+Travel: The expedition completed its prepared route and seasonal passages without a newly enacted closure. Existing local risks remain relevant to future journeys; new warnings require a dated cause.
 
 Record basis: Consolidates established raiding, cargo seizure and unproven privateering allegations.
 
-Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted.
+Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Reviewed across the February–October journey and at return; established classification retained. No additional exceptional losses, front change or closure enacted.
 
 ## Vardol–Averholt rivalry
 
@@ -78,11 +78,11 @@ Rival claims and frontier commitments tie down troops and supply resources. The 
 
 Garrison and transport burdens limit forces available elsewhere. Trade and diplomatic business can continue despite military distrust.
 
-Travel: The separate Avercenne and Estrevigne visits retain their existing permissions. New mobilisation, border restrictions or fighting would change this assessment.
+Travel: The expedition completed its prepared route and seasonal passages without a newly enacted closure. Existing local risks remain relevant to future journeys; new warnings require a dated cause.
 
 Record basis: Status clarification of an existing rivalry; no invented battle.
 
-Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted.
+Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Reviewed across the February–October journey and at return; established classification retained. No additional exceptional losses, front change or closure enacted.
 
 ## Former Serevask federation disputes
 
@@ -94,11 +94,11 @@ The former partners dispute reconstruction debts, customs and water obligations 
 
 Railway, industrial and food trade continues across the political break. Disputed payments or water releases may create local pressure without constituting a war.
 
-Travel: Ordinary academic entry and transit arrangements remain valid. Material new customs restrictions or interrupted supplies require a dated update.
+Travel: The expedition completed its prepared route and seasonal passages without a newly enacted closure. Existing local risks remain relevant to future journeys; new warnings require a dated cause.
 
 Record basis: Consolidates established post-federal disputes; no new embargo.
 
-Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted.
+Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Reviewed across the February–October journey and at return; established classification retained. No additional exceptional losses, front change or closure enacted.
 
 ## Talascan land and labour dispute
 
@@ -110,11 +110,11 @@ Compulsory road levies, common pasture and export leases remain contested under 
 
 Credit, land access and shipping favour mainland firms, while the administration still depends on local pilots and negotiated water rights.
 
-Travel: No general port closure or new itinerary requirement is established. A documented strike, repression or armed outbreak would receive its own status and consequences.
+Travel: The expedition completed its prepared route and seasonal passages without a newly enacted closure. Existing local risks remain relevant to future journeys; new warnings require a dated cause.
 
 Record basis: Consolidates existing colonial tensions; no invented uprising.
 
-Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted.
+Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Reviewed across the February–October journey and at return; established classification retained. No additional exceptional losses, front change or closure enacted.
 
 ## Hunter attacks and human defence
 
@@ -126,29 +126,47 @@ Human settlements maintain defences against intermittent raids and destructive a
 
 Loss of people, skilled workers and facilities can interrupt recovery and trade. No new mass suppression campaign, target, casualty figure or attack date is established by this return.
 
-Travel: Local warnings and confirmed attacks affect particular routes and communities. There is no automatic attack timetable or forced expedition encounter.
+Travel: The expedition completed its prepared route and seasonal passages without a newly enacted closure. Existing local risks remain relevant to future journeys; new warnings require a dated cause.
 
 Record basis: Consolidates established public Hunter pressure; concealed motives and logistics remain outside this register.
 
-Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted.
+Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Reviewed across the February–October journey and at return; established classification retained. No additional exceptional losses, front change or closure enacted.
 
 ## Drossane guesthouse assassination attempt
 
 Event ID: drossane-0068-01-18
 
-Occurred: 18/01/0068 AC43 — morning. Recorded: 18/01/0068 AC43 — same-morning narrative record
+Occurred: 18/01/0068 AC43 — morning. Recorded: 11/10/0068 AC43
 
-Attack stopped; attribution not officially reported
+Attack stopped; later cell contact and restricted Veyrasse briefings completed
 
-Six men using stolen Karsenne uniforms attempted to kill the visiting Veyrassian expedition. Galahad stopped them without gunfire. They subsequently departed by motorcar; the expedition remains at the guesthouse entrance.
+Six men in stolen Karsenne uniforms attempted to kill the expedition on day 87. Galahad stopped them without gunfire and sent them away. All six later reaffirmed cooperation in Valdrec; limited procurement information was corroborated.
 
-Galahad recovered corroborating memories identifying a Caldrienne operation from two attackers. This character knowledge has not become an official public finding. The scholars and street witnesses did not receive his private mental projection; his public old-friends/joke explanation is a cover.
+Galahad’s memory-derived identification of the Caldrienne operation has now been reported privately to the Margrave, Marshal and Lieutenant-General. This is not a public official finding; broader subversion remains his claim. Scholars did not receive his private projection or full cell instructions.
 
 Losses and harm: {"deaths": 0, "shots_fired": 0, "captures": 0, "expedition_injuries": 0, "operative_harm": "Psychic pain and fear; no lasting neurological injury established."}
 
 No declared war, diplomatic rupture, frontier change, transport closure, population deduction, fiscal transaction or market repricing established. Existing theatre classifications remain unchanged. No duplicate demographic or financial event is posted for zero losses and no expenditure.
 
 [Full incident](DROSSANE-INCIDENT.md)
+
+## Veyrasse royal technical commission
+
+Event ID: royal-technical-commission-0068-10-11
+
+Occurred: 11/10/0068 AC43. Recorded: 11/10/0068 AC43
+
+Accepted and authorised; programme preparation pending
+
+The Margrave authorised Galahad’s technical commission after restricted briefings. Rifle production and controlled trials precede review of standing advisory office. No general offensive or procurement payment enacted.
+
+Accepted by Galahad and authorised by the Margrave in a signed minute, witnessed by senior command; no public announcement recorded.
+
+Losses and harm: {"deaths": 0, "injuries": 0, "captures": 0}
+
+No population loss, territorial change, route closure or national equipment increment. Costed allocation and remuneration pending; no fiscal charge guessed.
+
+[Full incident](ROYAL-COMMISSION.md)
 
 ## Maintaining the living return
 

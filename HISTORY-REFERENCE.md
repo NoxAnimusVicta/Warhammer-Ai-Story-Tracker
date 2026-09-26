@@ -8,7 +8,7 @@ Some elderly survivors remember the last major culling directly. Written histori
 
 ## Culling eras
 
-The last major culling is numbered 43 in the shared surviving historical reckoning. At the census of 27/08/0067 AC43, the last major culling had ended about sixty-seven local years earlier, after three years of overlapping campaigns across all inhabited continents. The present date is 18/01/0068 AC43: Year 68 After Culling 43. Reconstructed returns suggest about 56% of the pre-campaign population was killed or taken: approximately 37% killed and 19% captured, with considerable uncertainty. Captives are missing from local returns, not certified dead; displacement is recorded separately.
+The last major culling is numbered 43 in the shared surviving historical reckoning. At the census of 27/08/0067 AC43, the last major culling had ended about sixty-seven local years earlier, after three years of overlapping campaigns across all inhabited continents. The present date is 11/10/0068 AC43: Year 68 After Culling 43. Reconstructed returns suggest about 56% of the pre-campaign population was killed or taken: approximately 37% killed and 19% captured, with considerable uncertainty. Captives are missing from local returns, not certified dead; displacement is recorded separately.
 
 Current year: 68 AC43, after the 43rd recorded major culling. The calendar counts major cullings in the surviving common reckoning, not every Hunter attack and not a claim that only 43 have ever occurred. See [the calendar](CALENDAR-REFERENCE.md) for date conventions. The phrase “Last Major Culling” describes the latest event; “Long Culling” is superseded terminology, not a separate catastrophe. Earlier exact dialogue remains historical.
 
@@ -24,4 +24,4 @@ Before Ambros, the remembered human victories over Hunters were extraordinarily 
 
 ## Narrator scope
 
-This establishes background for future play, not a recovered artefact, a new ability, a solved historical mystery or knowledge automatically acquired by Galahad. No specific surviving relic, bloodline, capital or date is assigned.
+This is established background. Galahad has now studied surviving Ambros-era writings and sites in Veldrassen and Ostrevain during the expedition. The killing’s circumstances remain unresolved; neither recovered psychic collection has proven Ambros authorship, and his sword has not been recovered. No hidden identity, bloodline or exact historical date is established.

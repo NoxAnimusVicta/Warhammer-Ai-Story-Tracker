@@ -1,6 +1,10 @@
-# Expedition cost and corrected pre-departure funding
+# Expedition costs — completed accounts and original budget
 
-Year 67 AC43 baseline lorrat equivalents, reviewed 18/01/0068 AC43; six travellers; the reviewed surface itinerary; departure-day365 deadline. No flights budgeted. This is a calculated prospective cost, not a claim that future invoices have already been paid.
+The expedition returned on **11/10/0068 AC43, day 355**. All journey bills are settled: **11,855 lorrats in operating costs**, **1,145 in approved completion awards** and **1,500 refunded to sponsors** account for the entire **14,500 operating fund**. Including separate ordinary payroll of **2,820**, final institutional expenditure is **15,820**. The final category breakdown appears below the preserved planning record.
+
+## Original predeparture budget
+
+Year 67 AC43 baseline lorrat equivalents; six travellers; the reviewed surface itinerary; departure-day 365 deadline. No flights budgeted. The following forecast records the original appropriation; it is not an additional payment or the current balance.
 
 The earlier 6,000-lorrat figure was not a complete costed appropriation. Correct the preparation record: the Chancery provides 10,000 and the Collegium provides 4,500 toward a fully arranged 14,500 operating fund. The Collegium continues all regular wages outside that fund: Galahad 60 per pay month (720 annually), plus five scholars at 35 (2,100 annually), totalling 2,820 annually. This is settled pre-departure co-funding, not a new fundraising crisis or foreign-patronage dependency.
 
@@ -45,8 +49,26 @@ See [completed preparation arrangements](EXPEDITION-PREPARATION.md) for season, 
 
 The sea-network review raises the sea allowance by 12 L and reduces ashore accommodation/meals by 7 L as one additional shipboard day replaces an ashore day. Net forecast increase: 5 L. This is not a payment or new appropriation; it reduces the reserve by 5 L.
 
-## Settled costs and remaining provision — day 87
+## Final actual costs — 11/10/0068 AC43
 
-As of 18/01/0068 AC43, invoices are settled through day 85. Additional costs: rail 1,047; sea 241; intercity road 192; local transfers 120; lodging 252; meals 333; research 100; freight 60; guides 48; hospitality 120; administration 35; maintenance 12; medical 0. **Total 2,560**, plus predeparture **510** = **3,070 paid**. **11,430 remains** within the original 14,500 appropriation, including **2,439 financial contingency**. The unchanged 12,061 operating forecast leaves 8,991 expected costs still to settle; this is a forecast balance, not another appropriation.
+| Category | Paid lorrats |
+|---|---:|
+| Preparation and opening transport | 510 |
+| Further rail | 4,376 |
+| Further sea | 1,715 |
+| Intercity road | 960 |
+| Local transfers | 450 |
+| Lodging | 912 |
+| Meals | 1,205 |
+| Research | 410 |
+| Freight | 350 |
+| Guides | 270 |
+| Hospitality | 420 |
+| Administration | 145 |
+| Medical | 32 |
+| Maintenance | 100 |
+| **Total operating cost** | **11,855** |
 
-Day 86–87 guesthouse accommodation and meals have not yet been settled. Do not assume free lodging or deduct a guessed bill. Private expenditure of 36 is outside this fund. Three monthly payrolls total 705: Galahad 180 and five scholars 525, paid separately by the Collegium. No leadership premium, new receipt or estate transfer is invented. Ten scheduling reserve days remain unused. The [dated transaction record](expedition-accounts.json) supplies the calculation and settlement boundary.
+All journey bills are settled. Actual cost is 206 below the 12,061 forecast; this does not create a new grant. The remaining 2,645 was approved by both sponsors for 500 scholar bonuses (100 each, transferred to the pay office), 645 paid leadership award, 1,000 Chancery refund and 500 Collegium refund. **Zero remains under Galahad’s control.** Individual scholar collection is not yet recorded.
+
+Operations plus completion awards cost **13,000**. Separate ordinary payroll of **2,820** across twelve paydays gives final institutional expenditure **15,820**. Provision **17,320 − refunds 1,500 = 15,820**. Galahad’s 720 ordinary wages and 645 award are distinct; no royal salary or production grant is included. Ten scheduling reserve days were unused. The original budget above remains the planning record, not a second transaction. Detailed actuals and the day-85 historical snapshot are in expedition-accounts.json.

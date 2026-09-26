@@ -89,7 +89,7 @@ Revision39 removes redundant local map additions and provides real northern/sout
 
 ## Current checkpoint
 
-Read CURRENT-CONTINUITY.md: 18/01/0068 AC43, expedition day 87 morning, outside the Drossane guesthouse after the six operatives departed (exchange 523). All five scholars are uninjured but shaken; Tessier has asked whether to carry on. Read DROSSANE-INCIDENT.md for knowledge boundaries and unresolved instructions. Fieldwork has not resumed. Personal accounted funds 522, earmarks 264 pending the household statement, uncommitted 258. Expedition held 11,430 after 3,070 paid; current guesthouse bills await settlement. Galahad is approximately two years and six months old; his last measured height of 2.59 m remains historical.
+Read CURRENT-CONTINUITY.md, EXPEDITION-RETURN.md and ROYAL-COMMISSION.md: 11/10/0068 AC43, day 355 evening, palace audience concluding after Galahad accepted the signed royal technical commission (exchange 543). Standing Royal Advisor review follows produced rifle trials and controlled demonstration. Facility preparation, costed allocation, formal terms and remuneration are pending. Approximately one week at Serravonne is planned; the train is held, not paid or travelled. Personal funds 1,197; estate 314; expedition closed with zero held. Salary paid through 01/10, next 01/11. He is mature at about 3 m, about three years three months old, with a short white beard.
 
 The private handover controls concealed characterisation, founder records and physiology calibration. Preserve player agency and practical uncertainty. Physical advantages constrain dice outcomes. No political coup, royal death or Hunter intervention is predetermined.
 
@@ -101,12 +101,12 @@ Use the current island and sea-passage references. The revised atlas clarifies e
 
 ## Estate visual continuity
 
-Read ESTATE-REFERENCE.md and assets/estate-r48.jpg before narrating the estate. The player’s image establishes its current visual appearance, including house and courtyard, arcaded service/workshop building, walled gardens, fields, pasture, orchard, wooded slopes and wet lower ground. The existing 56-hectare land account, interior, household, funds and pending repairs remain controlling. Surrounding distant scenery is not automatically owned property. Preserve this dated image; future visuals should follow enacted changes.
+Read ESTATE-REFERENCE.md and assets/estate-r48.jpg before narrating the estate. The player’s image establishes its current visual appearance, including house and courtyard, arcaded service/workshop building, walled gardens, fields, pasture, orchard, wooded slopes and wet lower ground. The existing 56-hectare land account, interior, household, funds and completed initial repairs remain controlling. Surrounding distant scenery is not automatically owned property. Preserve this dated image; future visuals should follow enacted changes.
 
 
 ## Current and future portraits
 
-Read APPEARANCE-REFERENCE.md and assets/portrait-expedition-r50.jpg for Galahad's current expedition appearance. The earlier assets/portrait.png is his future national or military leadership appearance, to apply once he takes control of a nation or its military, not merely when he reaches adulthood. Preserve both images. Use the current checkpoint for age, clothing location and travel; the last measured 2.59 m remains a historical measurement.
+Read APPEARANCE-REFERENCE.md and assets/portrait-expedition-r50.jpg for Galahad's current expedition appearance. The earlier assets/portrait.png is his future national or military leadership appearance, to apply once he takes control of a nation or its military, not merely when he reaches adulthood. Preserve both images. Use the current checkpoint for age, clothing location and travel; approximately 3 m is the current mature height and the short white beard is a later addition; 2.59 m is historical.
 
 
 ## Integrated planning reminders

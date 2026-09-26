@@ -1,6 +1,6 @@
 # House Orsival — current visual reference
 
-Revision 48 · Player-supplied estate artwork · Visual baseline recorded before departure, 21/10/0067 AC43. Current review: 18/01/0068 AC43; no newer artwork or major completed alteration recorded.
+Revision 48 · Player-supplied estate artwork · Visual baseline recorded before departure, 21/10/0067 AC43. Current review: 11/10/0068 AC43. No newer artwork; initial repairs and first furniture purchases are now complete.
 
 ![House Orsival estate, current appearance](estate-r48.jpg)
 
@@ -10,11 +10,11 @@ Cultivated fields extend behind and to the left of the house. Pasture lies acros
 
 ## Applying the reference in the story
 
-Use this image when describing arrival, views from the house, movement around the domestic grounds and the relation between cultivated land, wet ground and woodland. Preserve the established interior: the ground-floor guest bedroom, sitting/dining rooms, drive-facing study, upstairs bedrooms and designated library/archives. The long low storehouse across the service yard remains the intended workshop; its dry, secure repair programme and future equipment remain governed by the existing scene and accounts.
+Use this image when describing arrival, views from the house, movement around the domestic grounds and the relation between cultivated land, wet ground and woodland. Preserve the established interior: the ground-floor guest bedroom, sitting/dining rooms, drive-facing study, upstairs bedrooms and designated library/archives. The long low storehouse across the service yard remains the intended workshop; its building is now dry, secure and lit after repairs, while benches, machinery and specialist equipment remain unpurchased.
 
-The accepted estate remains 56 hectares: 20 arable, 12 meadow/pasture, 14 woodland, 6 orchard/market ground and 4 buildings, cottages, tracks and domestic ground. This perspective view is not a cadastral survey. Distant villages, mountains, water and the wooded tower are surrounding scenery unless ownership is established later. Visible figures, carts and animals do not create a new inventory of personally owned assets or staff. Existing tenancies, limited repairs, financial allocations and projected income remain as recorded.
+The accepted estate remains 56 hectares: 20 arable, 12 meadow/pasture, 14 woodland, 6 orchard/market ground and 4 buildings, cottages, tracks and domestic ground. This perspective view is not a cadastral survey. Distant villages, mountains, water and the wooded tower are surrounding scenery unless ownership is established later. Visible figures, carts and animals do not create a new inventory of personally owned assets or staff. Existing tenancies and boundaries remain. Actual receipts, paid repairs and household funds are reconciled in ESTATE-ACCOUNTS.md; the annual forecast remains a separate model.
 
-The artwork depicts the present property; it does not imply that all planned maintenance, furniture or workshop improvements are already complete. Corva and Veskan live here, with Lucette managing daily household service. No story time passes through adopting the image.
+The artwork records the predeparture property. Narration must add the completed initial repairs and first furniture purchases; it does not imply an equipped workshop or completion of all later furnishing. Corva and Veskan live here, with Lucette managing daily household service. No story time passes through adopting the image.
 
 ## Future changes
 
