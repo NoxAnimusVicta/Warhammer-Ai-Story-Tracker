@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="slate-build" content="f4e5a7863119976928be"><meta name="theme-color" content="#202d29"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Malaspina">
+<meta name="slate-build" content="4bd935f98043f3c02f5e"><meta name="theme-color" content="#202d29"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Malaspina">
 <meta name="description" content="An evolving character dossier for Galahad, a perfected proto-Primarch on Malaspina.">
 <link rel="manifest" href="./manifest.webmanifest"><link rel="apple-touch-icon" href="./sigil-v1.png"><link rel="icon" type="image/png" sizes="1254x1254" href="./sigil-v1.png">
 <title>Malaspina | Galahad</title>
@@ -133,8 +133,11 @@ summary::marker { color: var(--muted); }
 .national-panel .national-metrics { grid-template-columns: repeat(4, minmax(0, 1fr)); }
 .national-metrics > div { min-width: 0; }
 .national-metrics strong { font-variant-numeric: tabular-nums; overflow-wrap: break-word; line-height: 1.4; }
-.national-comparison > label, .national-ranking > label { margin-inline: 18px; }
-.national-comparison > select, .national-ranking > select { margin-inline: 18px; width: calc(100% - 36px); }
+#national-register :is(.national-comparison, .national-ranking) > label { margin-inline: 18px; }
+#national-register :is(.national-comparison, .national-ranking) > select {
+ display: block; box-sizing: border-box; min-width: 0;
+ margin: 0 18px; width: calc(100% - 36px);
+}
 #national-comparison, #national-rank-list { padding: 0 18px 18px; overflow-x: auto; }
 .national-panel .national-table { line-height: 1.6; }
 .national-table td { font-variant-numeric: tabular-nums; overflow-wrap: normal; }
@@ -153,8 +156,8 @@ summary::marker { color: var(--muted); }
  .atlas-metrics > div:nth-child(n+3) { border-top: 1px solid #50634d; }
  .atlas-route-box { padding: 18px 14px; }
  #world-readout:not(:empty), #world-state-readout:not(:empty) { padding: 12px; }
- .national-comparison > label, .national-ranking > label { margin-inline: 12px; }
- .national-comparison > select, .national-ranking > select { margin-inline: 12px; width: calc(100% - 24px); }
+ #national-register :is(.national-comparison, .national-ranking) > label { margin-inline: 12px; }
+ #national-register :is(.national-comparison, .national-ranking) > select { margin-inline: 12px; width: calc(100% - 24px); }
  #national-comparison, #national-rank-list { padding-inline: 12px; }
  .national-panel .national-table { font-size: .78rem; }
  .national-table th:first-child { width: 48%; }
