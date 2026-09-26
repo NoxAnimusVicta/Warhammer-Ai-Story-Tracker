@@ -18,7 +18,7 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the last major culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition — revision 67
+## Current edition — revision 68
 
 The current scene is **Auvrienne palace, 11/10/0068 AC43 evening**, following acceptance of the royal technical commission. The expedition returned on day 355, with ten reserve days unused. The standing **Royal Advisor** appointment remains subject to produced rifle trials and a controlled demonstration. Facility preparation, costed funding and remuneration remain pending. Galahad has not yet departed for his planned week at Serravonne.
 
@@ -52,4 +52,4 @@ The dossier portrait now shows Galahad in his current expedition clothes. The ea
 
 [Historical continuity and Ambros](HISTORY-REFERENCE.md) describes surviving industrial civilisation, oral traditions, hidden archives and the older imperial hero tradition. Substantial reference sections use consistent dropdowns; core state and the map remain visible.
 
-[Documentation audit](DOCUMENTATION-AUDIT.md) records the current consistency checks, corrected stale handover notes and distinction between current records and historical sources. No story time advanced.
+[Year 68 developments](WORLD-YEAR68.md) resolves the expedition-year background: all 43 polities, eight conflict theatres, military inventory movements, industrial and diplomatic changes, the completed authorised pumping stage and ongoing NPC work. Dorlac holds 60 lorrats due but unpaid, separate from Galahad’s 1,197 cash. [Documentation audit](DOCUMENTATION-AUDIT.md) records the current checks and the limits of the estimates. No further story time advances.

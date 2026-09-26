@@ -16,7 +16,7 @@ Borrowing is financing, not revenue or receipts. Liquid reserves and outstanding
 | Output and ordinary production | Capacity baseline 27/08/0067; 410 days | Current constant-price annual run-rate using the recorded national output trend |
 | Opening treasury stocks | 21/10/0067; 355 days | Estimated debt and reserves with an explicit opening-to-current financing bridge |
 | Current public budget | Existing policy and shares | Annual run-rate at 11/10/0068; separate from elapsed cash movement |
-| Military inventory and technology | Latest recorded capacity return | Retained holdings and ratings, explicitly identified as the last recorded return |
+| Military inventory and technology | Preserved capacity return plus dated Year 68 review | Explicit deliveries, repair returns and withdrawals; individual industrial changes beneath stable broad ratings |
 | Prices and wages | Year 67 reference bands | Reviewed at 11/10/0068; unchanged time indices, regional adjustments still apply |
 | Court ages and tenure | 21/10/0067 biographical return | Ranges after 355 days, because exact birthdays and anniversaries are unknown |
 
@@ -24,7 +24,7 @@ Borrowing is financing, not revenue or receipts. Liquid reserves and outstanding
 
 The longer malaspina-world.txt remains an explicitly dated predeparture reference. Old transcript entries and previous projections remain historical records; their original numbers are not rewritten.
 
-`world-continuity-updates.json` records dated replacements for story-sensitive atlas descriptions. Serravonne and Auvrienne now reflect the completed expedition, current Collegium quarters and accepted technical commission. Other geographic descriptions retain their established content. The current atlas applies these replacements without rewriting the historical survey.
+`world-continuity-updates.json` records dated replacements for story-sensitive atlas descriptions. Serravonne and Auvrienne now reflect the completed expedition, current Collegium quarters and accepted technical commission. The Year 68 review additionally supplies dated local notes for named affected settlements and a development record for every polity. The current atlas applies these layers without rewriting the historical survey.
 
 ## Population method and reconciliation
 
@@ -52,8 +52,12 @@ Routine national education, administration and defence envelopes already include
 
 ## Other living records and future updates
 
-The eight existing conflict classifications were reviewed through the completed journey. The separately recorded Drossane incident does not establish a declared war, transport closure, exceptional population loss or national conquest. Prices were reviewed without blanket inflation. Psychic aptitude bands remain uncertain rates, not a counted national roster or evidence of newly discovered practitioners. Galahad's personal, estate and expedition accounts retain their reconciled actual transactions.
+Revision 68 resolves the elapsed year in world-year68.json and WORLD-YEAR68.md: 43 individual polity reviews, eight theatre developments, local project and NPC progress, and a separately reconciled merchant receivable. The data layer applies equipment movements once from opening counts. The current conflict return preserves its prior snapshots. Traditional schools report increasing first manifestations; the private reference reconciles broad stock and flow scenarios without treating them as a public census. Ordinary national programme costs, routine attrition and local raid mortality are already within the projected budget, output and mortality envelopes. No supplementary national charge, exceptional demographic deduction or generic price multiplier is added. Galahad’s cash remains 1,197, estate 314 and expedition zero; Dorlac separately holds 60 due but unpaid.
 
 At each substantial story-time advance, regenerate every current surface from the preserved baseline and shared date. Never compound today's derived estimate onto itself. Preserve snapshots. An accepted exceptional event needs an occurrence date, affected groups and markets, and one shared event ID before adding casualties, migration, spending, infrastructure changes or price shocks. Captured and displaced people are not automatically dead. Do not charge ordinary mortality or existing warfare a second time. Newly established actual returns supersede projections through a documented reconciliation, not silent replacement.
 
 Run the demographic, national, fiscal, calendar and living-world checks together. The current estimates must agree across all 970 settlement records, 43 national profiles, regional totals, comparisons and downloads; financial allocations and transfers must conserve their totals. Rebuilding twice at the same story date must produce identical figures.
+
+## Background development is part of the update
+
+A long time skip requires outcomes for ongoing institutions and NPC work, not merely new dates on old returns. The player has authorised retrospective Year 68 developments within existing story boundaries. These are explicitly introduced campaign decisions, not events recovered from earlier prose. world_year.py applies the ledger to the preserved national and geographic inputs; build.py derives the current conflict publication from the historical source. Existing expenditures and growth estimates encompass these ordinary programmes rather than adding them again. Material exceptional consequences need their own reconciliation. Character knowledge still depends on observation or delivery.

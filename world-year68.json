@@ -1,0 +1,946 @@
+{
+  "schema": 1,
+  "revision": 68,
+  "as_of": "11/10/0068 AC43",
+  "period_start": "22/10/0067 AC43",
+  "authority": "Retrospective campaign developments established in revision 68 under the player’s request to resolve the elapsed expedition year. These are new authorial background decisions, not recovered transcript events, independent canon claims or historical-source discoveries.",
+  "knowledge": "Archive knowledge is not automatic character knowledge. Regional public developments can appear in newspapers and correspondence; exact returns and unreceived NPC statements require delivery. No new encounter, briefing, player choice or journey is inserted into the exact transcript.",
+  "accounting": "All listed national repairs, replacement deliveries, routine losses and administrative programmes are within the ordinary defence, public-works and mortality envelopes already used for the elapsed-year estimates. Do not charge their costs or ordinary deaths again. No exceptional demographic adjustment, supplementary appropriation, new debt transaction or blanket price index is posted. Individual casualty returns remain uncertain. Large future losses outside these envelopes need a separate reconciliation.",
+  "military_basis": "Opening figures are preserved national-register.json estimates. Movements below reconcile that return to 11/10/0068. Accepted_or_restored includes new deliveries and return from repair; withdrawn_or_lost includes scrapping, combat loss and unserviceable workshop withdrawal, not necessarily destruction. These are rounded campaign planning estimates, not serial-number audits. Unchanged totals mean no material net change established after turnover, not a year without activity. Personnel establishments and coarse 1–5 ratings are retained unless a dated change is explicitly listed.",
+  "polity_reviews": [
+    {
+      "id": "review68-veldrassen",
+      "polity_id": "veldrassen",
+      "name": "Veldrassen",
+      "effective_date": "18/08/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Mondessore works completed a locomotive overhaul programme and adopted common inspection gauges across participating provincial depots. Through-freight availability improved, but provincial procurement remains divided. Replacement armoured vehicles and aircraft entered service; obsolete and worn machines were withdrawn. No consolidation of provincial armies occurred.",
+      "military_movements": {
+        "serviceable_armour": {
+          "opening": 4550,
+          "accepted_or_restored": 160,
+          "withdrawn_or_lost": 110,
+          "closing": 4600
+        },
+        "serviceable_aircraft": {
+          "opening": 3380,
+          "accepted_or_restored": 130,
+          "withdrawn_or_lost": 90,
+          "closing": 3420
+        },
+        "serviceable_artillery": {
+          "opening": 9030,
+          "accepted_or_restored": 240,
+          "withdrawn_or_lost": 180,
+          "closing": 9090
+        }
+      },
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-ostrevain",
+      "polity_id": "ostrevain",
+      "name": "Ostrevain",
+      "effective_date": "26/07/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Tessarone completed an artillery refurbishment cycle while agricultural authorities expanded grain-store inspection and seed distribution. Imported precision fittings still limit motorisation; the army remains predominantly rail- and horse-supported. The monarchy renewed access arrangements with participating grain districts without taking over their estates.",
+      "military_movements": {
+        "serviceable_artillery": {
+          "opening": 7160,
+          "accepted_or_restored": 140,
+          "withdrawn_or_lost": 100,
+          "closing": 7200
+        },
+        "serviceable_armour": {
+          "opening": 4170,
+          "accepted_or_restored": 95,
+          "withdrawn_or_lost": 80,
+          "closing": 4185
+        }
+      },
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-rovessara",
+      "polity_id": "rovessara",
+      "name": "Rovessara",
+      "effective_date": "20/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Pellavore yards delivered replacement patrol tonnage and Bellacenne insurers accepted shared convoy reporting from participating Seravelle ports. Precision workshops adopted interchangeable inspection standards on selected export contracts. Talascan levy litigation forced colonial administrators to negotiate; commercial influence did not become sovereignty over independent ports.",
+      "military_movements": {
+        "serviceable_aircraft": {
+          "opening": 1130,
+          "accepted_or_restored": 55,
+          "withdrawn_or_lost": 35,
+          "closing": 1150
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 518000,
+          "accepted_or_restored": 6500,
+          "withdrawn_or_lost": 4000,
+          "closing": 520500
+        }
+      },
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-brannervaux",
+      "polity_id": "brannervaux",
+      "name": "Brannervaux",
+      "effective_date": "06/06/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Molessac crews restored worn lock gates and pump drives on the principal working waterways. A participating water-estate compact now coordinates maintenance windows and release notices; other estates retain their vetoes. Delivery became more predictable without adding a new navigable canal or enlarging the federal army.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-cervaud",
+      "polity_id": "cervaud",
+      "name": "Cervaud",
+      "effective_date": "12/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Charvessant renewed its neutrality and transit arrangements while Vezarolle workshops concentrated on gun-carriage and wagon repairs. Shorter reserve rotations returned more workers to the harvest. Existing garrisons remain; neither larger neighbour obtained basing rights through this review.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-veylac",
+      "polity_id": "veylac",
+      "name": "Veylac",
+      "effective_date": "24/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Bellorante dispersed critical gauges and duplicate drawings after a Hunter strike on an outlying industrial relay and repair depot on 12/04/0068. Replacement communications restored the main service in Month 5; loss and workshop withdrawal exceeded completed armoured-vehicle returns. Rionvesse continued shipping. Machine-tool output recovered unevenly and exposed frontier sites still lack full redundancy.",
+      "military_movements": {
+        "serviceable_armour": {
+          "opening": 1590,
+          "accepted_or_restored": 45,
+          "withdrawn_or_lost": 60,
+          "closing": 1575
+        },
+        "serviceable_aircraft": {
+          "opening": 610,
+          "accepted_or_restored": 26,
+          "withdrawn_or_lost": 30,
+          "closing": 606
+        }
+      },
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-ossavren",
+      "polity_id": "ossavren",
+      "name": "Ossavren successor territories",
+      "effective_date": "18/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Fighting in Months 3–4 over coal feeders damaged rolling stock and workshops. A 19/05/0068 local grain-transit arrangement reopened negotiated services through participating authorities, while rival commands retained separate tolls and arsenals. Losses and cannibalisation exceeded repairs; less of the combined geographic army can now be sustained away from its bases. No claimant reunified the country.",
+      "military_movements": {
+        "serviceable_armour": {
+          "opening": 5370,
+          "accepted_or_restored": 120,
+          "withdrawn_or_lost": 260,
+          "closing": 5230
+        },
+        "serviceable_aircraft": {
+          "opening": 2190,
+          "accepted_or_restored": 70,
+          "withdrawn_or_lost": 120,
+          "closing": 2140
+        },
+        "serviceable_artillery": {
+          "opening": 10300,
+          "accepted_or_restored": 180,
+          "withdrawn_or_lost": 300,
+          "closing": 10180
+        }
+      },
+      "military_overrides": {
+        "field_sustainable": 445000
+      },
+      "capacity_note": "Ossavren’s sustainable combined field force falls from 460,000 to 445,000 because of transport and workshop losses; this is availability, not 15,000 deaths.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-rovengard",
+      "polity_id": "rovengard",
+      "name": "Rovengard",
+      "effective_date": "14/08/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Halsavik established a larger seasonal spare-parts reserve and Eslovanne workshops completed winter-damaged vehicle repairs. Timber and weather reports from Edrask now share the existing shipping post. Winter valleys remain restrictive; restored equipment does not create a year-round northern sea passage.",
+      "military_movements": {
+        "serviceable_armour": {
+          "opening": 300,
+          "accepted_or_restored": 14,
+          "withdrawn_or_lost": 10,
+          "closing": 304
+        }
+      },
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-varnesk",
+      "polity_id": "varnesk",
+      "name": "Varnesk",
+      "effective_date": "22/08/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Norsavia bearing and toolmakers fulfilled deferred maintenance orders, including machinery for Haldrevik. Buyers increasingly specify common gauges and replacement dimensions. Factory throughput improved without a new class of weapon; imported food and disputed foreign concessions still constrain expansion.",
+      "military_movements": {
+        "serviceable_artillery": {
+          "opening": 890,
+          "accepted_or_restored": 32,
+          "withdrawn_or_lost": 24,
+          "closing": 898
+        }
+      },
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-galdresk",
+      "polity_id": "galdresk",
+      "name": "Galdresk",
+      "effective_date": "10/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Grevallier teaching houses completed another supervised healer and ordinary medical-assistant intake. Verniselle instrument makers standardised a small range of repairable surgical tools. Referral letters and duplicated teaching notes circulate between participating houses; neither a national psychic register nor a universal healing service exists.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-halskert",
+      "polity_id": "halskert",
+      "name": "Halskert",
+      "effective_date": "16/08/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Tresselund completed repairs to grain-drying and water-control machinery before the next storage cycle. Seldavre exporters agreed shared inspection certificates with participating northern buyers. Local militia replacement training continued, with no material net expansion of the small military inventory.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-tervayne",
+      "polity_id": "tervayne",
+      "name": "Tervayne",
+      "effective_date": "28/08/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Brescalle supplied replacement marine engines and Tervassin commissioned replacement escort tonnage after older vessels were paid off. Naval trainees rotate through working repair yards. The maritime programme improved availability, but no through-railway to the Eastern Marches was built.",
+      "military_movements": {
+        "fleet_displacement_tonnes": {
+          "opening": 327000,
+          "accepted_or_restored": 5000,
+          "withdrawn_or_lost": 3500,
+          "closing": 328500
+        },
+        "serviceable_aircraft": {
+          "opening": 410,
+          "accepted_or_restored": 20,
+          "withdrawn_or_lost": 15,
+          "closing": 415
+        }
+      },
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-vardol",
+      "polity_id": "vardol",
+      "name": "Vardol",
+      "effective_date": "09/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "An Month 8 frontier exercise and supply rotation alarmed Averholt. Month 9 liaison observers and advance exercise notices reduced the immediate risk of miscalculation without resolving territorial claims. Caldovre completed replacement armour and gun returns; frontier commitments still absorb the same broad share of the field force.",
+      "military_movements": {
+        "serviceable_armour": {
+          "opening": 1710,
+          "accepted_or_restored": 75,
+          "withdrawn_or_lost": 50,
+          "closing": 1735
+        },
+        "serviceable_artillery": {
+          "opening": 4320,
+          "accepted_or_restored": 100,
+          "withdrawn_or_lost": 80,
+          "closing": 4340
+        }
+      },
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-averholt",
+      "polity_id": "averholt",
+      "name": "Averholt",
+      "effective_date": "12/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Avercenne answered Vardol’s Month 8 exercise with precautionary garrison rotations, then accepted reciprocal exercise notices. Rocavane prioritised lorry, carriage and field-gun repair over fleet or armour expansion. The Chalicchio road remained open to cleared trade; no general mobilisation or battle followed.",
+      "military_movements": {
+        "serviceable_artillery": {
+          "opening": 2630,
+          "accepted_or_restored": 65,
+          "withdrawn_or_lost": 55,
+          "closing": 2640
+        }
+      },
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-serevask",
+      "polity_id": "serevask",
+      "name": "Serevask Republic",
+      "effective_date": "21/07/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "A seasonal water-release and freight-document protocol was signed with participating Varnelle and Kelbrun authorities on 07/07/0068. Vallorise filtration workshops began exchanging repair specifications under it. Reconstruction debts and sovereignty remain disputed; Gavrel houses participate individually rather than through a restored federation.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-varnelle",
+      "polity_id": "varnelle",
+      "name": "Varnelle",
+      "effective_date": "29/07/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Varnessa and Serravole began using the Month 7 basin protocol for declared cargo and water notices. Ceralvigne filter and pump repairs reduced missed deliveries on participating routes. Customs revenue remains locally controlled; the agreement did not pool armies or cancel inherited debts.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-kelbrun",
+      "polity_id": "kelbrun",
+      "name": "Kelbrun",
+      "effective_date": "04/08/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Kelbrienne adopted the Month 7 basin freight forms and Oreviano workshops repaired imported pumps using shared fitting specifications. Plantation representatives accepted limited delivery arbitration. Labour conditions and estate power remain contested; machinery imports still limit how widely the improvements can spread.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-gavrel",
+      "polity_id": "gavrel",
+      "name": "Gavrel",
+      "effective_date": "13/08/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Several Gavrielle march houses joined the basin notice scheme and recognised each other’s declared freight seals. Other houses stayed outside. Mesrienne repairers benefited from more predictable orders; this is cooperation between courts, not a unified national government or a larger combined army.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-other-otranto-400",
+      "polity_id": "other-otranto-400",
+      "name": "Bellacosta Cantons",
+      "effective_date": "02/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Jougrenne brokers and Nantac land courts agreed a harvest-season toll schedule on participating roads. Lorrevento merchants can quote those journeys with fewer ad hoc charges. Rival toll holders and plantation jurisdictions remain; no common army or permanent customs union was created.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-other-otranto-700",
+      "polity_id": "other-otranto-700",
+      "name": "Cavressa Principalities",
+      "effective_date": "07/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Collengo and Peregia brokers coordinated fodder contracts and wool grading before winter. Albaret factors now use witnessed weights on participating sales. Mountain supply remains seasonal and individual lords retain their forces; equipment turnover leaves the rounded regional military return broadly level.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-other-otranto-1100",
+      "polity_id": "other-otranto-1100",
+      "name": "Vaulcerre Basin Leagues",
+      "effective_date": "11/08/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Anselleuil reservoir keepers and Jarnan councils renewed the water-sharing compact with Votane estates, using Brannervaux arbiters for disputed measurements. Scheduled gate maintenance was completed. The renewal reduced local delivery disputes without settling all estate claims or creating a federal treasury.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-other-otranto-1450",
+      "polity_id": "other-otranto-1450",
+      "name": "Seravelle Littoral",
+      "effective_date": "30/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Astrellac and participating ports began coordinated convoy departures and shared seizure notices on 18/06/0068. Successful escorts reduced exposure on the main trading axis; raiders shifted toward smaller feeders and isolated sailings. Rovessaran insurance now recognises those escorted departures, while contested debt seizures still require case-by-case judgement.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-other-morholt-1880",
+      "polity_id": "other-morholt-1880",
+      "name": "Haldrevik Concessions",
+      "effective_date": "08/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Armed renewal disputes interrupted some concessions in Month 2. A Month 6 escrow-and-inspection settlement reopened participating sites; a 03/07/0068 Hunter strike then destroyed a remote repair shed and stores. Varnesk replacements restored basic workings by Month 8, but armed vehicles and guns remained below the opening serviceable return. Nonparticipating claims are unresolved.",
+      "military_movements": {
+        "serviceable_armour": {
+          "opening": 70,
+          "accepted_or_restored": 4,
+          "withdrawn_or_lost": 8,
+          "closing": 66
+        },
+        "serviceable_artillery": {
+          "opening": 320,
+          "accepted_or_restored": 14,
+          "withdrawn_or_lost": 24,
+          "closing": 310
+        }
+      },
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-other-morholt-2190",
+      "polity_id": "other-morholt-2190",
+      "name": "Dreissen Wardholds",
+      "effective_date": "03/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Dananske, Dreinvar and Ferorvik wardholds renewed mutual winter-store access and hospice referrals with Galdresk. Veltroven assembled shared replacement fittings for the next shipping season. The agreement binds participating holds, not a newly restored monarchy; military totals remain dispersed.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-other-morholt-2630",
+      "polity_id": "other-morholt-2630",
+      "name": "Varneselle Estates",
+      "effective_date": "19/08/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Varkessant buyers renewed Halskert grain contracts and Cersund estates accepted a seasonal fishing-access settlement. Harbour repairs returned a small patrol craft to service. House and harbour rights remain separate, and access after winter ice still depends on local pilots.",
+      "military_movements": {
+        "fleet_displacement_tonnes": {
+          "opening": 26000,
+          "accepted_or_restored": 180,
+          "withdrawn_or_lost": 0,
+          "closing": 26180
+        }
+      },
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-other-vesalius-2790",
+      "polity_id": "other-vesalius-2790",
+      "name": "Bressavelle Marches",
+      "effective_date": "17/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Temevaux road authorities and Malinne customs offices adopted a shared transit manifest for participating carriers. Tervayne-backed warehouse agents extended repair and storage scheduling at Orsavie. The agreement reduces duplicate inspections without removing separate toll jurisdictions or creating through-rail service.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-other-vesalius-2790-1410",
+      "polity_id": "other-vesalius-2790-1410",
+      "name": "Vallessia Cantons",
+      "effective_date": "23/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Margeuil grain merchants secured written limits and receipts for requisitions by participating Darnenne commands. Galigny estate courts retain appeal rights. Repair workshops concentrated on wagons and artillery carriages; the settlement eased harvest transport but left the regional forces politically divided.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-other-vesalius-3160",
+      "polity_id": "other-vesalius-3160",
+      "name": "Rivessac Coast",
+      "effective_date": "24/08/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Vessaline and Vallarive pilot guilds issued revised local soundings and coordinated stores for visiting coasters. Saultac merchants accepted the new schedules. Ceralte buyers retain commercial access without Admiralty jurisdiction; no new channel or ocean route was created.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-karsenne",
+      "polity_id": "karsenne",
+      "name": "Karsenne Compact",
+      "effective_date": "16/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Drossane councils expanded duplicate assay and mine-safety records and completed a field-gun repair cycle. Existing road and port transfers still carry foreign trade. Negotiators continued the proposed Calvernis railway survey; construction and through-service have not begun. The guesthouse attackers’ real allegiance has not become a public finding.",
+      "military_movements": {
+        "serviceable_artillery": {
+          "opening": 700,
+          "accepted_or_restored": 26,
+          "withdrawn_or_lost": 18,
+          "closing": 708
+        }
+      },
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-caldrienne",
+      "polity_id": "caldrienne",
+      "name": "Duchy of Caldrienne",
+      "effective_date": "01/10/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Valdrec’s depots accepted replacement armour, aircraft and artillery while withdrawing worn equipment. Cressault commanders completed local crossing and irrigation repairs after exchanges of fire in Months 3–4, retaining reinforced posts under the armistice. The force remains much larger than Veyrasse’s; no public intelligence purge or proven collapse of command followed the covert cell’s report.",
+      "military_movements": {
+        "serviceable_armour": {
+          "opening": 1510,
+          "accepted_or_restored": 90,
+          "withdrawn_or_lost": 60,
+          "closing": 1540
+        },
+        "serviceable_aircraft": {
+          "opening": 360,
+          "accepted_or_restored": 22,
+          "withdrawn_or_lost": 16,
+          "closing": 366
+        },
+        "serviceable_artillery": {
+          "opening": 1870,
+          "accepted_or_restored": 60,
+          "withdrawn_or_lost": 45,
+          "closing": 1885
+        }
+      },
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-veyrasse",
+      "polity_id": "veyrasse",
+      "name": "Month 3 of Veyrasse",
+      "effective_date": "30/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Auvrienne’s authorised second pumping stage entered service on 04/04/0068; operating acceptance of the uphill pressure controls followed on 10/06/0068. Cevrane’s crews now maintain the two commissioned replacement stages beside retained older sections. Serravonne railway workshops spread revised maintenance checks. Conventional repair and replacement programmes modestly improved military availability; Galahad’s new rifle and carrier remain unbuilt.",
+      "military_movements": {
+        "serviceable_armour": {
+          "opening": 390,
+          "accepted_or_restored": 18,
+          "withdrawn_or_lost": 12,
+          "closing": 396
+        },
+        "serviceable_aircraft": {
+          "opening": 180,
+          "accepted_or_restored": 12,
+          "withdrawn_or_lost": 8,
+          "closing": 184
+        },
+        "serviceable_artillery": {
+          "opening": 710,
+          "accepted_or_restored": 30,
+          "withdrawn_or_lost": 20,
+          "closing": 720
+        }
+      },
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-calvernis",
+      "polity_id": "calvernis",
+      "name": "Calvernis Republic",
+      "effective_date": "18/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Miravelle yards completed replacement coastal escort tonnage and Cavrelune repairers expanded scheduled engine overhaul. Insurers began recognising participating convoy notices. The Karsenne railway remained a surveyed proposal subject to finance and agreement, not an operating shortcut for the completed expedition.",
+      "military_movements": {
+        "fleet_displacement_tonnes": {
+          "opening": 166000,
+          "accepted_or_restored": 2300,
+          "withdrawn_or_lost": 1500,
+          "closing": 166800
+        },
+        "serviceable_aircraft": {
+          "opening": 240,
+          "accepted_or_restored": 15,
+          "withdrawn_or_lost": 10,
+          "closing": 245
+        }
+      },
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-ceralte",
+      "polity_id": "ceralte",
+      "name": "Ceralte Admiralty",
+      "effective_date": "15/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Dalmor, Bellavara and Montelisse coordinated pilot notices, fuel stocks and repair slots through the established ports. Replacement patrol tonnage entered service and worn machinery was retired. Admiralty escorts protect selected sailings; alleged state support for Seravelle raiders remains unproved.",
+      "military_movements": {
+        "fleet_displacement_tonnes": {
+          "opening": 30000,
+          "accepted_or_restored": 600,
+          "withdrawn_or_lost": 400,
+          "closing": 30200
+        }
+      },
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-varessan",
+      "polity_id": "varessan",
+      "name": "Varessan Sea League",
+      "effective_date": "25/08/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Ardessa and Velisar assemblies renewed leased-depot terms while reserving local water and pilot rights. Stored engine fittings restored a small patrol vessel. The five island assemblies remain self-governing; mainland merchants obtained service access rather than territorial annexation.",
+      "military_movements": {
+        "fleet_displacement_tonnes": {
+          "opening": 14500,
+          "accepted_or_restored": 160,
+          "withdrawn_or_lost": 0,
+          "closing": 14660
+        }
+      },
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-talasca",
+      "polity_id": "talasca",
+      "name": "Talascan Charter Islands",
+      "effective_date": "22/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Month 6 refusal of compulsory road levies and common-pasture petitions reached the colonial courts. A temporary Month 9 order suspended disputed levies in the petitioning districts while a mixed inquiry examines leases. Export shipping continued. The concession is limited, not independence or an island-wide armed uprising.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-nemerai",
+      "polity_id": "nemerai",
+      "name": "Nemerai Crown",
+      "effective_date": "06/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Nemer and Essara technical schools completed another small intake of navigators and engine fitters. The crown and participating island councils funded repairs to existing patrol and signal equipment. Outer-island consent remains necessary; this is a service improvement rather than a new blue-water fleet.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-ordelune",
+      "polity_id": "ordelune",
+      "name": "Ordelune Overseas Districts",
+      "effective_date": "14/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Ordelune and Sorevain councils secured scheduled grain and spare-parts deliveries under existing Ostrevain support. Repairs addressed storm damage to store roofs and moorings. Local consultation widened around winter provisioning without changing the colony’s legal status or its small garrison inventory.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-skeldra",
+      "polity_id": "skeldra",
+      "name": "Skeldran Hearth Confederacy",
+      "effective_date": "29/08/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Skeldra and Heskar hearth assemblies pooled radio spares and rescue-boat stores. A maintenance rotation kept existing sets usable through the shipping season. No foreign garrison, new aircraft industry or permanent central government followed the arrangement.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-merovia",
+      "polity_id": "merovia",
+      "name": "Merovian Island Republic",
+      "effective_date": "04/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Merovia and Iveran yards expanded scheduled pump and engine overhaul, returning patrol tonnage to working service. Insurers accepted inspected repair certificates. Merchant representation remains disputed despite the successful service programme; the cities did not acquire heavy shipbuilding capacity.",
+      "military_movements": {
+        "fleet_displacement_tonnes": {
+          "opening": 24500,
+          "accepted_or_restored": 250,
+          "withdrawn_or_lost": 0,
+          "closing": 24750
+        }
+      },
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-ashalai",
+      "polity_id": "ashalai",
+      "name": "Ashalai Reef Covenant",
+      "effective_date": "18/08/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Ashala and Nalavai covenants negotiated engine-spare deliveries and medical credit while preserving common-land exclusions from collateral. Local pilots coordinated supply calls. The agreement improves access but leaves imported machinery dependence and kin-based jurisdiction intact.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-istrana",
+      "polity_id": "istrana",
+      "name": "Kingdom of Istrana",
+      "effective_date": "27/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Istrana’s assembly approved a limited renewal of fuel and machinery contracts after scrutiny of royal borrowing. Serakai workshops repaired existing patrol equipment and textile drives. Assembly consent remains required; the programme creates no independent aircraft or armoured-vehicle industry.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-edrask",
+      "polity_id": "edrask",
+      "name": "Edrask Governorate",
+      "effective_date": "09/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Edrask and Havren renewed timber-loading and winter grain schedules with Rovengard. Visiting technicians completed mooring and signal repairs before seasonal withdrawal. Visiting mainland warships are excluded from the colony’s locally assigned fleet total.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    },
+    {
+      "id": "review68-norrakai",
+      "polity_id": "norrakai",
+      "name": "Norrakai Moots",
+      "effective_date": "21/08/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "outcome": "Norrak and Iskel seasonal moots renewed refuge and pilotage obligations and shared scarce radio batteries through visiting traders. Existing rescue boats were repaired. Vardol obtained no territorial concession, and the tiny local force gained neither aircraft nor armour.",
+      "military_movements": {},
+      "military_overrides": {},
+      "capacity_note": "Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable.",
+      "fiscal_treatment": "Within the existing ordinary national spending envelopes; no extra cash transaction or duplicate output increment."
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "cressault",
+      "event_id": "theatre68-cressault",
+      "effective_date": "17/06/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "status": "Intermittent fighting",
+      "situation": "Patrol and irrigation-control clashes were followed by repairs and a limited crossing-notice arrangement between local commanders in Month 6. The armistice still holds at national level; fortified posts and occasional local fire remain. Neither side has settled sovereignty.",
+      "effects": "Repairs restored participating crossings and irrigation controls. Troops remain tied to the frontier and local merchants still face inspections; Serravonne is outside the fighting area.",
+      "trend": "Lower immediate disruption after repairs; armed truce remains fragile.",
+      "polity_review_ids": [
+        "review68-veyrasse",
+        "review68-caldrienne"
+      ],
+      "travel": "No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.",
+      "loss_treatment": "Ordinary ongoing-theatre attrition and local raid mortality are inside the baseline planning envelope, not additional deductions. Exact deaths, injuries, captures and displacement remain separately unquantified."
+    },
+    {
+      "id": "ossavren",
+      "event_id": "theatre68-ossavren",
+      "effective_date": "19/05/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "status": "Active civil conflict",
+      "situation": "Contests in Months 3–4 over coal feeders and repair sites damaged rolling stock. A Month 5 grain-transit accord between participating commands reopened negotiated services, without recognising one claimant as sovereign. Outlying districts remain contested.",
+      "effects": "Equipment losses and cannibalisation exceed returns from repair; sustained field availability is reduced. Working ports and negotiated trade continue alongside fighting elsewhere.",
+      "trend": "Partial commercial accommodation amid continued fragmentation.",
+      "polity_review_ids": [
+        "review68-ossavren",
+        "review68-veylac"
+      ],
+      "travel": "No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.",
+      "loss_treatment": "Ordinary ongoing-theatre attrition and local raid mortality are inside the baseline planning envelope, not additional deductions. Exact deaths, injuries, captures and displacement remain separately unquantified."
+    },
+    {
+      "id": "haldrevik",
+      "event_id": "theatre68-haldrevik",
+      "effective_date": "08/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "status": "Localised armed conflict; partial settlements",
+      "situation": "Month 2 renewal clashes led to a Month 6 escrow and inspection compromise at participating concessions. Those sites resumed work, while excluded claims still produce intimidation and occasional armed confrontations. A separate Month 7 Hunter strike delayed recovery at one remote repair site.",
+      "effects": "Imported Varnesk machinery restored basic operations by Month 8. Security equipment remains below its opening serviceable count. Varnesk’s commercial involvement does not make it a belligerent.",
+      "trend": "Some sites reopened; no comprehensive settlement.",
+      "polity_review_ids": [
+        "review68-other-morholt-1880",
+        "review68-varnesk"
+      ],
+      "travel": "No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.",
+      "loss_treatment": "Ordinary ongoing-theatre attrition and local raid mortality are inside the baseline planning envelope, not additional deductions. Exact deaths, injuries, captures and displacement remain separately unquantified."
+    },
+    {
+      "id": "maritime",
+      "event_id": "theatre68-maritime",
+      "effective_date": "18/06/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "status": "Maritime raiding; stronger convoy cooperation",
+      "situation": "Participating Seravelle ports began coordinated departures, shared seizure notices and escort cooperation in Month 6. Main-axis exposure declined while raiders shifted toward smaller feeders and isolated sailings. Ceralte’s sponsorship of raiders remains unproved.",
+      "effects": "Escorted departures can obtain ordinary recognised insurance terms; isolated cargoes still face case-specific premiums and seizures. No planetary blockade or closure of the circumnavigation network occurred.",
+      "trend": "Improved main-lane protection, displaced risk on feeders.",
+      "polity_review_ids": [
+        "review68-other-otranto-1450",
+        "review68-rovessara",
+        "review68-ceralte",
+        "review68-calvernis"
+      ],
+      "travel": "No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.",
+      "loss_treatment": "Ordinary ongoing-theatre attrition and local raid mortality are inside the baseline planning envelope, not additional deductions. Exact deaths, injuries, captures and displacement remain separately unquantified."
+    },
+    {
+      "id": "vardol-averholt",
+      "event_id": "theatre68-vardol-averholt",
+      "effective_date": "12/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "status": "Armed rivalry; reciprocal exercise notices",
+      "situation": "Vardol’s Month 8 frontier exercise prompted precautionary Averholt rotations. Month 9 liaison observers and advance exercise notices reduced the immediate alarm. Territorial claims and permanent garrisons remain.",
+      "effects": "Supply burdens persist but trade routes remain open to cleared traffic. No general mobilisation, exchange of fire or declared war resulted from this episode.",
+      "trend": "Recent de-escalation without political settlement.",
+      "polity_review_ids": [
+        "review68-vardol",
+        "review68-averholt"
+      ],
+      "travel": "No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.",
+      "loss_treatment": "No battle casualties established by this diplomatic or civil episode; do not invent a casualty deduction."
+    },
+    {
+      "id": "southern-basin",
+      "event_id": "theatre68-southern-basin",
+      "effective_date": "07/07/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "status": "Diplomatic dispute; limited working accord",
+      "situation": "Serevask, participating Varnelle and Kelbrun authorities agreed seasonal water-release notices and shared freight documents in Month 7. Some Gavrel houses joined separately. Reconstruction debts and the division of sovereignty remain unresolved.",
+      "effects": "Fewer duplicate inspections and more predictable water notices help participating commerce. The protocol creates neither a restored federation nor a common treasury or army.",
+      "trend": "Practical cooperation increased; core claims remain.",
+      "polity_review_ids": [
+        "review68-serevask",
+        "review68-varnelle",
+        "review68-kelbrun",
+        "review68-gavrel"
+      ],
+      "travel": "No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.",
+      "loss_treatment": "No battle casualties established by this diplomatic or civil episode; do not invent a casualty deduction."
+    },
+    {
+      "id": "talasca",
+      "event_id": "theatre68-talasca",
+      "effective_date": "22/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "status": "Colonial unrest; interim judicial concession",
+      "situation": "Month 6 road-levy refusals and common-pasture petitions led to a Month 9 interim order suspending disputed levies in petitioning districts pending a mixed inquiry. Communities pursue differing aims and are not collectively rebels.",
+      "effects": "Export shipping continues and mainland firms retain advantages. The temporary concession has reduced immediate pressure in the affected districts without resolving leases or colonial inequality.",
+      "trend": "A limited concession, not independence or an organised insurgency.",
+      "polity_review_ids": [
+        "review68-talasca",
+        "review68-rovessara"
+      ],
+      "travel": "No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.",
+      "loss_treatment": "No battle casualties established by this diplomatic or civil episode; do not invent a casualty deduction."
+    },
+    {
+      "id": "hunter-pressure",
+      "event_id": "theatre68-hunter-pressure",
+      "effective_date": "08/09/0068 AC43",
+      "record_date": "11/10/0068 AC43",
+      "status": "Persistent external violence; local recovery",
+      "situation": "On 12/04/0068 Hunters struck an outlying Veylac industrial relay and repair depot; on 03/07/0068 another attack destroyed a remote Haldrevik repair shed and stores. These local attacks were followed by dispersed repairs and duplicated records. Deaths, injuries and missing persons were reported but reliable consolidated counts have not reached this register.",
+      "effects": "Veylac restored principal relay service in Month 5; the Haldrevik site resumed basic work in Month 8 using replacement machinery. Lost skill, equipment and records still constrain recovery. Neither attack is a new major culling or a planetary casualty percentage.",
+      "trend": "Local destruction and recovery continue; no evidence here of Culling 44.",
+      "polity_review_ids": [
+        "review68-veylac",
+        "review68-other-morholt-1880"
+      ],
+      "travel": "No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.",
+      "loss_treatment": "Ordinary ongoing-theatre attrition and local raid mortality are inside the baseline planning envelope, not additional deductions. Exact deaths, injuries, captures and displacement remain separately unquantified."
+    }
+  ],
+  "domestic": [
+    {
+      "id": "works68",
+      "date": "10/06/0068 AC43",
+      "title": "Pumping works: authorised stage completed",
+      "outcome": "Cevrane supervised the second authorised replacement stage, placed in service on 04/04/0068. Uphill pressure controls passed operating acceptance on 10/06/0068. Two replacement stages now operate beside retained older sections; remaining network extensions await further budget decisions. Reduced breakdowns support Galahad’s engineering reputation. No new fee is due under the superseded commission.",
+      "delivery": "Cevrane has an operating report for Savel’s follow-up packet; no new conversation or receipt by Galahad is assumed."
+    },
+    {
+      "id": "teaching68",
+      "date": "30/09/0068 AC43",
+      "title": "Collegium: teaching and duplicate archives",
+      "outcome": "Savel maintained the teaching programme, catalogued incoming expedition duplicates and circulated civil-engineering extracts to relevant faculty. Returned official volumes can now be checked against those earlier packets. Private cipher research was not among the material available to him.",
+      "delivery": "Academic follow-up is to arrive through Savel, as already arranged after the return debriefing."
+    },
+    {
+      "id": "railway68",
+      "date": "19/08/0068 AC43",
+      "title": "Serravonne: maintenance and apprenticeship",
+      "outcome": "Vardesca’s railway staff added repeatable inspection checks from the earlier workshop work to normal maintenance and apprentice instruction. The railway remains in operation; Veskan has resumed ordinary duties after recovery. No resignation, retirement, new pension or salary amount is assigned.",
+      "delivery": "Vardesca and Veskan can describe these changes on Galahad’s planned visit; the maintenance update does not enact that visit."
+    },
+    {
+      "id": "consignment68",
+      "date": "30/09/0068 AC43",
+      "title": "Dorlac: consignment reconciled",
+      "outcome": "The previously uncounted departure remainder is reconciled as five charms. Dorlac sold four during the expedition at 20 lorrats each: 80 gross, her agreed quarter share 20, and 60 due to Galahad. One charm remains unsold. Lifetime sales are now 47. She holds the 60 pending settlement and accepts enquiries rather than prepaid orders for unavailable stock.",
+      "delivery": "The merchant’s account is prepared for delivery, not yet paid to Galahad. Personal cash stays 1,197; the separate 60-lorrat receivable is not spendable cash."
+    },
+    {
+      "id": "older-arts68",
+      "date": "25/09/0068 AC43",
+      "title": "Older arts: new cases and limited teaching",
+      "outcome": "Orchant has begun keeping separate observation notes for one newly manifesting local pupil and two uncertain referrals, emphasising mental boundaries and resistance to intrusive impulses. Other schools increasingly exchange cautious case letters. This is neither a reliable world census nor a planetary protection system; training demand is outpacing experienced teachers.",
+      "delivery": "Orchant’s observations remain hers until shared. No new Order recruit, character encounter, possession or automatic protective ability is assigned."
+    },
+    {
+      "id": "estate68",
+      "date": "11/10/0068 AC43",
+      "title": "Estate: completed maintenance and settled operations",
+      "outcome": "Corva and Lucette completed the repairs and first furniture purchases already recorded in the return statement, coordinated seasonal labour and kept the house supplied. The workshop is dry, secure and lit; equipment remains unpurchased. The actual 162 operating surplus is already included in the 314 estate balance.",
+      "delivery": "This household statement has already been received; do not credit the surplus or charge the repairs again."
+    }
+  ],
+  "consignment": {
+    "opening_stock": 5,
+    "opening_lifetime_sales": 43,
+    "sold": 4,
+    "closing_stock": 1,
+    "closing_lifetime_sales": 47,
+    "unit_retail_lorrats": 20,
+    "gross_lorrats": 80,
+    "commission_rate": 0.25,
+    "commission_lorrats": 20,
+    "receivable_lorrats": 60,
+    "paid_to_galahad_lorrats": 0,
+    "statement_date": "30/09/0068 AC43",
+    "knowledge": "Prepared merchant account; not yet delivered or paid. Newly reconciled background stock, not an additional historic cash receipt."
+  }
+}

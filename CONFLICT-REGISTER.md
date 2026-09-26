@@ -1,6 +1,6 @@
 # Malaspina — active conflicts and disputes
 
-11/10/0068 AC43 — expedition return and restricted briefing review
+11/10/0068 AC43 — elapsed-year theatre reconciliation
 
 Principal recorded conflicts and unresolved disputes; not an exhaustive incident list. Unlisted regions are not certified peaceful.
 
@@ -10,15 +10,17 @@ Intermittent fighting · Eastern Vesalius
 
 Parties: Veyrasse and Caldrienne; armed local claimants.
 
-A previous border war ended in an armistice without settling ownership of the defended valleys, railway crossing and irrigation works. Frontier troops exchange occasional fire and some patrols fail to return. This is an armed truce with local hostilities, not a general offensive or a wholly cold dispute.
+Patrol and irrigation-control clashes were followed by repairs and a limited crossing-notice arrangement between local commanders in Month 6. The armistice still holds at national level; fortified posts and occasional local fire remain. Neither side has settled sovereignty.
 
-Customs pressure and railway delays continue; estates face divided obligations. Accusations of sponsored claimants and interference with water supplies remain allegations. Serravonne is outside the fighting area.
+Repairs restored participating crossings and irrigation controls. Troops remain tied to the frontier and local merchants still face inspections; Serravonne is outside the fighting area.
 
-Travel: The expedition completed its prepared route and seasonal passages without a newly enacted closure. Existing local risks remain relevant to future journeys; new warnings require a dated cause.
+Travel: No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.
 
-Record basis: Consolidates the established Cressault record; no new incident.
+Record basis: Revision 68 retrospective campaign development; see WORLD-YEAR68.md. Ordinary ongoing-theatre attrition and local raid mortality are inside the baseline planning envelope, not additional deductions. Exact deaths, injuries, captures and displacement remain separately unquantified.
 
-Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Reviewed across the February–October journey and at return; established classification retained. No additional exceptional losses, front change or closure enacted.
+Development: 17/06/0068 AC43; event theatre68-cressault.
+
+Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Lower immediate disruption after repairs; armed truce remains fragile.
 
 ## Ossavren succession fighting
 
@@ -26,111 +28,125 @@ Active civil conflict · Otranto
 
 Parties: Rival provincial commands, claimant courts and autonomous city authorities.
 
-The broken crown has left several armed authorities contesting revenue, infrastructure and jurisdiction. Local fighting continues in disputed districts alongside negotiated trade and areas of relative stability. There is no single front, restored central government or unified national army.
+Contests in Months 3–4 over coal feeders and repair sites damaged rolling stock. A Month 5 grain-transit accord between participating commands reopened negotiated services, without recognising one claimant as sovereign. Outlying districts remain contested.
 
-Tolls, incompatible railway arrangements and insecurity fragment access to coal, petroleum and markets. Fighting in one district does not close every city or port in the geographic return.
+Equipment losses and cannibalisation exceed returns from repair; sustained field availability is reduced. Working ports and negotiated trade continue alongside fighting elsewhere.
 
-Travel: The expedition completed its prepared route and seasonal passages without a newly enacted closure. Existing local risks remain relevant to future journeys; new warnings require a dated cause.
+Travel: No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.
 
-Record basis: Consolidates existing civil-fighting and divided-authority records; battle dates and losses remain unquantified.
+Record basis: Revision 68 retrospective campaign development; see WORLD-YEAR68.md. Ordinary ongoing-theatre attrition and local raid mortality are inside the baseline planning envelope, not additional deductions. Exact deaths, injuries, captures and displacement remain separately unquantified.
 
-Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Reviewed across the February–October journey and at return; established classification retained. No additional exceptional losses, front change or closure enacted.
+Development: 19/05/0068 AC43; event theatre68-ossavren.
+
+Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Partial commercial accommodation amid continued fragmentation.
 
 ## Haldrevik concession clashes
 
-Localised armed conflict · Morholt
+Localised armed conflict; partial settlements · Morholt
 
 Parties: Concession security forces, local armed opponents and charter authorities.
 
-Contested renewals, rent and land rights have produced scattered armed clashes around individual working sites, alongside strikes, intimidation and litigation. Company and community positions vary; neither side is a unified national movement. Most disputes remain outside combat.
+Month 2 renewal clashes led to a Month 6 escrow and inspection compromise at participating concessions. Those sites resumed work, while excluded claims still produce intimidation and occasional armed confrontations. A separate Month 7 Hunter strike delayed recovery at one remote repair site.
 
-Particular sites and feeder roads may be interrupted while other concessions continue working. Dependence on imported food and Varnesk machinery makes prolonged stoppages costly. Commercial ties do not establish Varnesk as a belligerent.
+Imported Varnesk machinery restored basic operations by Month 8. Security equipment remains below its opening serviceable count. Varnesk’s commercial involvement does not make it a belligerent.
 
-Travel: The expedition completed its prepared route and seasonal passages without a newly enacted closure. Existing local risks remain relevant to future journeys; new warnings require a dated cause.
+Travel: No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.
 
-Record basis: New limited baseline clarification of established armed concession tensions; no particular battle, seizure or casualty total is enacted.
+Record basis: Revision 68 retrospective campaign development; see WORLD-YEAR68.md. Ordinary ongoing-theatre attrition and local raid mortality are inside the baseline planning envelope, not additional deductions. Exact deaths, injuries, captures and displacement remain separately unquantified.
 
-Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Reviewed across the February–October journey and at return; established classification retained. No additional exceptional losses, front change or closure enacted.
+Development: 08/09/0068 AC43; event theatre68-haldrevik.
+
+Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Some sites reopened; no comprehensive settlement.
 
 ## Seravelle and island sea-lane insecurity
 
-Maritime raiding · Seravelle approaches and connected island shipping lanes
+Maritime raiding; stronger convoy cooperation · Seravelle approaches and connected island shipping lanes
 
 Parties: Raiding crews, merchant escorts and local port patrols.
 
-Raiding and forcible cargo seizures coexist with convoy cooperation and commercial disputes. Incidents are dispersed rather than a continuous naval front. Claims of Ceralte privateering do not establish Admiralty sponsorship or a declared interstate naval war.
+Participating Seravelle ports began coordinated departures, shared seizure notices and escort cooperation in Month 6. Main-axis exposure declined while raiders shifted toward smaller feeders and isolated sailings. Ceralte’s sponsorship of raiders remains unproved.
 
-Escorts, insurance and guarded harbour access form part of ordinary shipping costs. A debt seizure is not automatically piracy, and an unidentified attacker cannot be assigned a state sponsor without evidence.
+Escorted departures can obtain ordinary recognised insurance terms; isolated cargoes still face case-specific premiums and seizures. No planetary blockade or closure of the circumnavigation network occurred.
 
-Travel: The expedition completed its prepared route and seasonal passages without a newly enacted closure. Existing local risks remain relevant to future journeys; new warnings require a dated cause.
+Travel: No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.
 
-Record basis: Consolidates established raiding, cargo seizure and unproven privateering allegations.
+Record basis: Revision 68 retrospective campaign development; see WORLD-YEAR68.md. Ordinary ongoing-theatre attrition and local raid mortality are inside the baseline planning envelope, not additional deductions. Exact deaths, injuries, captures and displacement remain separately unquantified.
 
-Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Reviewed across the February–October journey and at return; established classification retained. No additional exceptional losses, front change or closure enacted.
+Development: 18/06/0068 AC43; event theatre68-maritime.
+
+Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Improved main-lane protection, displaced risk on feeders.
 
 ## Vardol–Averholt rivalry
 
-Armed rivalry · Northern and interior Vesalius
+Armed rivalry; reciprocal exercise notices · Northern and interior Vesalius
 
 Parties: Vardol and Averholt.
 
-Rival claims and frontier commitments tie down troops and supply resources. The current return establishes an armed rivalry, not an ongoing general war. No present exchange of fire or new mobilisation is confirmed by this register.
+Vardol’s Month 8 frontier exercise prompted precautionary Averholt rotations. Month 9 liaison observers and advance exercise notices reduced the immediate alarm. Territorial claims and permanent garrisons remain.
 
-Garrison and transport burdens limit forces available elsewhere. Trade and diplomatic business can continue despite military distrust.
+Supply burdens persist but trade routes remain open to cleared traffic. No general mobilisation, exchange of fire or declared war resulted from this episode.
 
-Travel: The expedition completed its prepared route and seasonal passages without a newly enacted closure. Existing local risks remain relevant to future journeys; new warnings require a dated cause.
+Travel: No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.
 
-Record basis: Status clarification of an existing rivalry; no invented battle.
+Record basis: Revision 68 retrospective campaign development; see WORLD-YEAR68.md. No battle casualties established by this diplomatic or civil episode; do not invent a casualty deduction.
 
-Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Reviewed across the February–October journey and at return; established classification retained. No additional exceptional losses, front change or closure enacted.
+Development: 12/09/0068 AC43; event theatre68-vardol-averholt.
+
+Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Recent de-escalation without political settlement.
 
 ## Former Serevask federation disputes
 
-Diplomatic and economic dispute · Southern Vesalius
+Diplomatic dispute; limited working accord · Southern Vesalius
 
 Parties: Serevask, Varnelle, Kelbrun and the Gavrel march houses.
 
-The former partners dispute reconstruction debts, customs and water obligations while maintaining separate governments and forces. Former federal charters do not grant Serevask sovereignty over the others. No current interstate fighting is established.
+Serevask, participating Varnelle and Kelbrun authorities agreed seasonal water-release notices and shared freight documents in Month 7. Some Gavrel houses joined separately. Reconstruction debts and the division of sovereignty remain unresolved.
 
-Railway, industrial and food trade continues across the political break. Disputed payments or water releases may create local pressure without constituting a war.
+Fewer duplicate inspections and more predictable water notices help participating commerce. The protocol creates neither a restored federation nor a common treasury or army.
 
-Travel: The expedition completed its prepared route and seasonal passages without a newly enacted closure. Existing local risks remain relevant to future journeys; new warnings require a dated cause.
+Travel: No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.
 
-Record basis: Consolidates established post-federal disputes; no new embargo.
+Record basis: Revision 68 retrospective campaign development; see WORLD-YEAR68.md. No battle casualties established by this diplomatic or civil episode; do not invent a casualty deduction.
 
-Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Reviewed across the February–October journey and at return; established classification retained. No additional exceptional losses, front change or closure enacted.
+Development: 07/07/0068 AC43; event theatre68-southern-basin.
+
+Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Practical cooperation increased; core claims remain.
 
 ## Talascan land and labour dispute
 
-Colonial unrest · Western Ocean
+Colonial unrest; interim judicial concession · Western Ocean
 
 Parties: Rovessaran colonial administration and leaseholders; affected island councils and communities.
 
-Compulsory road levies, common pasture and export leases remain contested under unequal colonial courts. This is unresolved civil and political unrest, not a confirmed organised insurgency. Island communities are not collectively classified as rebels.
+Month 6 road-levy refusals and common-pasture petitions led to a Month 9 interim order suspending disputed levies in petitioning districts pending a mixed inquiry. Communities pursue differing aims and are not collectively rebels.
 
-Credit, land access and shipping favour mainland firms, while the administration still depends on local pilots and negotiated water rights.
+Export shipping continues and mainland firms retain advantages. The temporary concession has reduced immediate pressure in the affected districts without resolving leases or colonial inequality.
 
-Travel: The expedition completed its prepared route and seasonal passages without a newly enacted closure. Existing local risks remain relevant to future journeys; new warnings require a dated cause.
+Travel: No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.
 
-Record basis: Consolidates existing colonial tensions; no invented uprising.
+Record basis: Revision 68 retrospective campaign development; see WORLD-YEAR68.md. No battle casualties established by this diplomatic or civil episode; do not invent a casualty deduction.
 
-Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Reviewed across the February–October journey and at return; established classification retained. No additional exceptional losses, front change or closure enacted.
+Development: 22/09/0068 AC43; event theatre68-talasca.
+
+Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: A limited concession, not independence or an organised insurgency.
 
 ## Hunter attacks and human defence
 
-Persistent external violence · Planetary; intermittent local attacks
+Persistent external violence; local recovery · Planetary; intermittent local attacks
 
 Parties: Hunters and independently organised human defenders.
 
-Human settlements maintain defences against intermittent raids and destructive attacks on people, infrastructure and technical capacity. This is a persistent planetary threat, not one continuous battle or a unified human war effort.
+On 12/04/0068 Hunters struck an outlying Veylac industrial relay and repair depot; on 03/07/0068 another attack destroyed a remote Haldrevik repair shed and stores. These local attacks were followed by dispersed repairs and duplicated records. Deaths, injuries and missing persons were reported but reliable consolidated counts have not reached this register.
 
-Loss of people, skilled workers and facilities can interrupt recovery and trade. No new mass suppression campaign, target, casualty figure or attack date is established by this return.
+Veylac restored principal relay service in Month 5; the Haldrevik site resumed basic work in Month 8 using replacement machinery. Lost skill, equipment and records still constrain recovery. Neither attack is a new major culling or a planetary casualty percentage.
 
-Travel: The expedition completed its prepared route and seasonal passages without a newly enacted closure. Existing local risks remain relevant to future journeys; new warnings require a dated cause.
+Travel: No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.
 
-Record basis: Consolidates established public Hunter pressure; concealed motives and logistics remain outside this register.
+Record basis: Revision 68 retrospective campaign development; see WORLD-YEAR68.md. Ordinary ongoing-theatre attrition and local raid mortality are inside the baseline planning envelope, not additional deductions. Exact deaths, injuries, captures and displacement remain separately unquantified.
 
-Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Reviewed across the February–October journey and at return; established classification retained. No additional exceptional losses, front change or closure enacted.
+Development: 08/09/0068 AC43; event theatre68-hunter-pressure.
+
+Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Local destruction and recovery continue; no evidence here of Culling 44.
 
 ## Drossane guesthouse assassination attempt
 
@@ -172,7 +188,7 @@ No population loss, territorial change, route closure or national equipment incr
 
 Local story time only; no wall-clock simulation.
 
-Review active theatres at each substantial time skip and expedition leg transition; review the whole register at least once per elapsed local month, and immediately after a material incident or diplomatic change.
+Resolve ongoing NPC work, active theatres and ordinary institutional development at substantial local time skips. Background events may be established by the narrator within the player-authorised scope; they need not wait for a witnessed scene. Preserve player choices and completed travel.
 
 Preserve the previous return. Record unique event ID, occurrence and report dates or uncertainty, theatre, prior/new status, source and confidence. Link consequences to the relevant population, economic, fiscal and transport records; record none or pending explicitly where appropriate.
 
@@ -180,10 +196,12 @@ Existing ordinary violence and security costs are already within dated baseline 
 
 Distinguish archive assessment from information actually delivered to Galahad. NPCs communicate consequential known route changes before affected decisions. No predetermined escalation or guaranteed peace.
 
+Theatre event IDs link to world-year68.json. Older returns remain in history. Archive developments are not automatically delivered intelligence; report consequential information through an appropriate NPC.
+
 For each material event, retain occurrence time and report time separately. Record deaths, injuries, captures and displacement separately, using ranges or unknowns when evidence is weak. Missing people are not automatically dead. Cross-reference demography.json events, economic-ledger.json changes and relevant national-register.json fiscal/capacity adjustments with the same event ID. Reconcile settlement and census-group subsets and both sides of migration. Do not deduct ordinary mortality or defence expenditure twice. Prices change by affected market and commodity, not by a universal war surcharge. Forecast spending is not cash already paid.
 
 Record affected transport links and effective closure/reopening dates where established. Reassess the expedition against the actual links used. Existing ordinary permissions and preparation remain complete; the register does not retroactively strand the party. Communicate a material new restriction through an appropriate NPC and present consequential choices before departure into the affected area.
 
 At each review, retain the prior snapshot in history, even when the assessment remains unchanged. A status change needs a cause: a ceasefire, battle, agreement, withdrawal, blockade, renewed claim or other established development. Do not invent a battle to satisfy a review schedule. The register is maintained during story updates, not an autonomous real-time war simulator.
 
-Initial edition adds a limited Haldrevik armed-clash baseline to existing concession tensions. Other entries consolidate existing records. No new front line, conquest, blockade, national mobilisation, casualty count or expenditure is booked. Subsequent dated reviews retain these classifications until an established event changes them; documentation alone does not advance the scene.
+Revision 68 resolves the previously frozen expedition year through explicit retrospective campaign developments in WORLD-YEAR68.md. conflict-register.json in the editable project preserves the revision-67 input; the published return is generated with the Year 68 overlay and retains all earlier snapshots. Background events need not be witnessed by Galahad, but occurrence, reporting, consequences and character knowledge must remain distinct. No new player action or future scene is enacted.

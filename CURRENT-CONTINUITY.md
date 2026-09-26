@@ -1,4 +1,4 @@
-# Current continuity — revision 66
+# Current continuity — revision 68
 
 ## Scene and clock
 
@@ -28,6 +28,12 @@ Estate **314** = opening earmarks 264 − remaining initial repairs 72 − first
 
 Expedition **zero held**: 14,500 provision − 11,855 operating costs − 500 scholar awards − 645 leader award − 1,500 refunds. Both sponsors approved the settlement. Scholar money is transferred to the pay office; individual collection is not yet documented. Separate full-trip payroll 2,820 makes final institutional cost 15,820. No royal programme money is included.
 
+## Dorlac and local institutions
+
+Dorlac’s 30/09/0068 consignment reconciliation establishes five pieces remaining at departure, four sold during the expedition at 20 lorrats retail each, one unsold, and 47 lifetime sales. Gross receipts 80 less her agreed 20 commission leave **60 lorrats receivable**, held by her and not yet paid to Galahad. This is separate from personal cash 1,197 and estate cash 314. The statement has not yet been delivered; use Dorlac’s correspondence or a visit to present it, without silently crediting money. No new supply or prepaid order is promised.
+
+Savel maintained teaching and catalogued arriving duplicates; Vardesca’s staff spread earlier maintenance checks through apprentice instruction. Orchant has one newly manifesting pupil and two uncertain referrals in her own observation notes, not known to Galahad until shared. The current psychic pool is reviewed in the private awakening reference; no additional Order member, private research disclosure or new player encounter is granted.
+
 ## House Orsival
 
 Read ESTATE-REFERENCE.md and assets/estate-r48.jpg before narrating the estate. The player’s image establishes its current visual appearance, including house and courtyard, arcaded service/workshop building, walled gardens, fields, pasture, orchard, wooded slopes and wet lower ground. The existing 56-hectare land account, interior, household, funds and enacted repairs remain controlling. Surrounding distant scenery is not automatically owned property. Preserve this dated image; future visuals should follow enacted changes.
@@ -48,7 +54,7 @@ Corva and Veskan remain married and had lived separately after the death of thei
 
 Cevrane secured expanded accompanied access to all sections. Galahad completed and submitted a modular redesign of the entire network. Differing daily accounting cutoffs, wear and poor coordination explain the southern discrepancy; there is **no demonstrated theft**. New modules can work beside retained old sections. Estimated installed cost for each module, including continuity provisions, is below the corresponding annual repair expenditure.
 
-During the four-week interval staff installed the first authorised module. Witnessed operation preserved district supply and supported the estimates. The next stage is authorised; **the whole network has not yet been rebuilt**. Galahad has not gained general command of the works staff. Cevrane’s endorsement and the witnessed return supported Vaust’s successful petition.
+The first replacement module entered service before departure. During the expedition Cevrane supervised the already authorised second stage, commissioned on 04/04/0068; the uphill pressure controls passed operating acceptance on 10/06. Two replacement stages now work beside retained older sections. Remaining extensions await further budget decisions: the whole network is not rebuilt. Cevrane’s dated operating report is ready for Savel’s follow-up packet, but no new briefing or fee is assumed. Galahad has not gained command of the works staff.
 
 ## World continuity
 
@@ -65,7 +71,7 @@ Magic is a real but rare set of locally interpreted practices. Schools can conta
 
 Hunters are the campaign’s original 40K Yautja-inspired regional species; plasma technology follows this setting, not Predator-franchise mechanisms. No offworld education is automatically granted.
 
-The atlas has 970 settlements, 2,210 transport segments and 134 sea segments joining 72 harbours. Sea passages wrap the globe and use reviewed provisioning connections; use SEA-PASSAGES.md. Census: 1,223,820,000 on 27/08/0067 AC43 across 43 disjoint groups. Current 410-day trend estimate: **1,228,556,988** on 11/10/0068 AC43. Cities and Cressault are subsets, never additions. All 43 national groups and 970 settlements now have current dated projections in world-current.json and national-current.json, including reconciled charted/rural subsets. Baseline files remain unchanged. National output and production follow recorded growth trends; treasury estimates use an explicit 355-day bridge. These are modelled current estimates, not fabricated audited accounts. Military equipment and technology are unchanged pending evidence. See LIVING-WORLD-REFERENCE.md. Price bands were reviewed without blanket new-year inflation. The eight existing conflict classifications remain. The Drossane covert incident is separately recorded as drossane-0068-01-18; it establishes no declared war, transport closure, population loss or new expenditure.
+The atlas has 970 settlements, 2,210 transport segments and 134 sea segments joining 72 harbours. Sea passages wrap the globe and use reviewed provisioning connections; use SEA-PASSAGES.md. Census: 1,223,820,000 on 27/08/0067 AC43 across 43 disjoint groups. Current 410-day trend estimate: **1,228,556,988** on 11/10/0068 AC43. Cities and Cressault are subsets, never additions. All 43 national groups and 970 settlements now have current dated projections in world-current.json and national-current.json, including reconciled charted/rural subsets. Baseline files remain unchanged. National output and production follow recorded growth trends; treasury estimates use an explicit 355-day bridge. These are modelled current estimates, not fabricated audited accounts. The Year 68 review now records individual developments for all 43 polities, eight distinct theatre updates and explicit equipment movements from the preserved opening inventory. Coarse technology ratings remain stable while workshop practices, training and infrastructure change beneath them. See WORLD-YEAR68.md and world-year68.json; dated current comparisons include these changes once. Ordinary costs and attrition remain within existing model envelopes, not duplicate charges. The Drossane incident itself still establishes no declared war or new expenditure.
 
 Use CALENDAR-REFERENCE.md, HISTORY-REFERENCE.md, ORIGIN-REFERENCE.md, PHYSIOLOGY-REFERENCE.md, ESTATE-REFERENCE.md and APPEARANCE-REFERENCE.md for their controlling subjects. AC43 continues across the new year; ordinary raids do not reset the era. Ambros founded the predecessor empire of Veldrassen and Ostrevain; killing a Hunter with a sword is the undisputed heart of his legend, with circumstances uncertain. Bile is creator, never biological donor. Optional cohort/fragment planning is not an enacted revelation. Current expedition portrait remains applicable; the formal portrait is reserved for future national or military leadership.
 

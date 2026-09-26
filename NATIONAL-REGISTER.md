@@ -50,7 +50,7 @@ Elapsed treasury movement is explicitly estimated from the preserved financing p
 
 ## Dating
 
-Population and economic estimates: 11/10/0068 AC43. Preserved census: 27/08/0067 AC43. Production follows each recorded annual output trend at constant Year 67 prices. Military holdings and technology ratings remain the latest recorded baseline, not invented purchases or discoveries.
+Population and economic estimates: 11/10/0068 AC43. Military holdings include the dated Year 68 repair, delivery and withdrawal reconciliation. Technology ratings describe broad industrial capability; the review records narrower changes in practice and capacity.
 
 ## Receipts
 
@@ -59,6 +59,10 @@ Own-source public revenue comprises taxes, customs, fees and net public-enterpri
 ## Projection
 
 Treasury stocks are estimates carried from 21/10/0067 using the recorded financing plan pro rata, not audited transactions. Current annual budgets are forward run-rates; do not book them again into these stocks. See LIVING-WORLD-REFERENCE.md for the complete bridge and assumptions.
+
+## Developments
+
+WORLD-YEAR68.md records individual reviews for all 43 geographic returns, current conflict developments and inventory bridges. Ordinary programmes are already inside the modelled budget and production envelopes; no second charge or output bonus is added.
 
 ## Veldrassen
 
@@ -71,6 +75,12 @@ Heavy engineering, railway equipment and general manufactures; coal and processe
 Provincial consent slows concentration; major arsenals and railway junctions remain irreplaceable targets.
 
 Court examination offices and provincial registries preserve records; access varies by patron.
+
+### Year 68 developments
+
+18/08/0068 AC43; recorded 11/10/0068 AC43. Mondessore works completed a locomotive overhaul programme and adopted common inspection gauges across participating provincial depots. Through-freight availability improved, but provincial procurement remains divided. Replacement armoured vehicles and aircraft entered service; obsolete and worn machines were withdrawn. No consolidation of provincial armies occurred.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
 
 Table and hospitality. A composite crown includes humid lowlands, high terraces and temperate uplands; formal court service conceals many provincial kitchens. Maize polenta with beans and mushroom gravy in the uplands; rice replaces maize in irrigated lowland districts. Braised beef with red wine and layered herb pasta; provincial delegates insist on different cheeses. Plateau beer, lowland cane drink and coffee at the court. Altitude matters as much as latitude. Mountain towns import much of their grain, while court menus display produce from every province as a claim to unity.
 
@@ -92,9 +102,9 @@ Table and hospitality. A composite crown includes humid lowlands, high terraces 
 | standing | 1,742,000 |
 | additional reserves | 5,025,000 |
 | field sustainable | 592,000 |
-| serviceable armour | 4,550 |
-| serviceable aircraft | 3,380 |
-| serviceable artillery | 9,030 |
+| serviceable armour | 4,600 |
+| serviceable aircraft | 3,420 |
+| serviceable artillery | 9,090 |
 | fleet displacement tonnes | 1,405,000 |
 | naval role | ocean |
 | metallurgy | 5 |
@@ -111,7 +121,7 @@ Table and hospitality. A composite crown includes humid lowlands, high terraces 
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Railway renewal and arsenals require modest borrowing; provincial balances are not all available to the crown.
 
@@ -175,6 +185,12 @@ Mass manpower outstrips motor transport; imported precision machinery constrains
 
 Estate households preserve healing and harvest observances; arsenal physicians record unusual cases, usually through the patron who brings the subject to them.
 
+### Year 68 developments
+
+26/07/0068 AC43; recorded 11/10/0068 AC43. Tessarone completed an artillery refurbishment cycle while agricultural authorities expanded grain-store inspection and seed distribution. Imported precision fittings still limit motorisation; the army remains predominantly rail- and horse-supported. The monarchy renewed access arrangements with participating grain districts without taking over their estates.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Cereal estates, cattle districts and newly industrial towns trade large quantities of durable staples. Central purchasing has spread army dishes across provincial boundaries. Pepper bean stew thickened with maize meal, with smoked beef on paydays. Stuffed roast fowl, squash dumplings and nut pastries. Brown beer and lightly fermented fruit drinks. Soldiers carry toasted grain and hard cheese; wealthy tables emphasise fresh meat and fruit that has not endured a convoy journey.
 
 | Measure | Estimate |
@@ -195,9 +211,9 @@ Table and hospitality. Cereal estates, cattle districts and newly industrial tow
 | standing | 1,515,000 |
 | additional reserves | 3,881,000 |
 | field sustainable | 485,000 |
-| serviceable armour | 4,170 |
+| serviceable armour | 4,185 |
 | serviceable aircraft | 1,550 |
-| serviceable artillery | 7,160 |
+| serviceable artillery | 7,200 |
 | fleet displacement tonnes | 257,000 |
 | naval role | coast |
 | metallurgy | 4 |
@@ -214,7 +230,7 @@ Table and hospitality. Cereal estates, cattle districts and newly industrial tow
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Arsenal commitments and grain transport exceed ordinary receipts; domestic bonds finance the gap.
 
@@ -278,6 +294,12 @@ Trade interruption threatens fuel and food imports; its skilled workforce is dif
 
 Institutes and hospitals collect documented cases; evidence is better organised than practitioner supply.
 
+### Year 68 developments
+
+20/09/0068 AC43; recorded 11/10/0068 AC43. Pellavore yards delivered replacement patrol tonnage and Bellacenne insurers accepted shared convoy reporting from participating Seravelle ports. Precision workshops adopted interchangeable inspection standards on selected export contracts. Talascan levy litigation forced colonial administrators to negotiate; commercial influence did not become sovereignty over independent ports.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Maritime commerce joins a mild western coast to upland cheese districts and distant spice markets. Restaurant fashion changes faster than village food. Bean-and-greens soup with flatbread and olive oil; tiny fried fish at the quays. Rice cooked in seafood stock, fine stuffed pasta and chilled fruit creams in wealthy city cafés. Bitter coffee, aperitif wine and citrus cordial. Fresh oil, mountain butter and imported spice coexist rather than defining one uniform national cuisine. Ice houses and refrigerated warehouses support the richest urban tables.
 
 | Measure | Estimate |
@@ -299,9 +321,9 @@ Table and hospitality. Maritime commerce joins a mild western coast to upland ch
 | additional reserves | 1,546,000 |
 | field sustainable | 156,000 |
 | serviceable armour | 1,830 |
-| serviceable aircraft | 1,130 |
+| serviceable aircraft | 1,150 |
 | serviceable artillery | 2,310 |
-| fleet displacement tonnes | 518,000 |
+| fleet displacement tonnes | 520,500 |
 | naval role | ocean |
 | metallurgy | 4 |
 | precision | 5 |
@@ -317,7 +339,7 @@ Table and hospitality. Maritime commerce joins a mild western coast to upland ch
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected surplus under unchanged fiscal policy. The earlier return described: Commercial receipts support a small surplus, liquid buffers and gradual debt retirement.
 
@@ -381,6 +403,12 @@ Water allocation and estate vetoes complicate mobilisation; river freight is sen
 
 Water boards retain old records of divination and flood omens beside their engineering archives. Practical credibility depends on repeated results, not an inherited title.
 
+### Year 68 developments
+
+06/06/0068 AC43; recorded 11/10/0068 AC43. Molessac crews restored worn lock gates and pump drives on the principal working waterways. A participating water-estate compact now coordinates maintenance windows and release notices; other estates retain their vetoes. Delivery became more predictable without adding a new navigable canal or enlarging the federal army.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Unequal river cities share barges, mill customs and periodic floods. Grain, pulses and freshwater fish travel more readily than political loyalty. Lentils with smoked carp and flat noodles; poorer bowls omit fish and add greens. River-fish dumplings in herb butter and plum-filled pastries. Pear cider, mild beer and roasted-barley drinks. Floodplain gardens supply onions and beans. Fish smoking and grain warehouses make the river ports vital even to communities beyond the floodplain.
 
 | Measure | Estimate |
@@ -420,7 +448,7 @@ Table and hospitality. Unequal river cities share barges, mill customs and perio
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Lock and irrigation renewal produces a small capital deficit rather than a collapse in ordinary receipts.
 
@@ -484,6 +512,12 @@ Arms and credit depend on competing patrons; prolonged mobilisation drains agric
 
 Border houses keep private warding manuscripts and employ occasional itinerant readers. Rival patrons make access political and discourage sharing successful practice.
 
+### Year 68 developments
+
+12/09/0068 AC43; recorded 11/10/0068 AC43. Charvessant renewed its neutrality and transit arrangements while Vezarolle workshops concentrated on gun-carriage and wagon repairs. Shorter reserve rotations returned more workers to the harvest. Existing garrisons remain; neither larger neighbour obtained basing rights through this review.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Border garrisons borrow cooking from both larger patrons, while local families argue over which dishes predate foreign influence. Cabbage rolls stuffed with rice or barley and a little minced meat. Roast pork with sour cherries and crisp potato cakes. Dark beer, cherry spirit and heavily sweetened coffee for visitors. Ration bread and pickled vegetables dominate remote posts. Market-day sausages are a small luxury that survives frequent changes of uniform.
 
 | Measure | Estimate |
@@ -523,7 +557,7 @@ Table and hospitality. Border garrisons borrow cooking from both larger patrons,
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Frontier obligations and patron-backed credit leave limited cash headroom.
 
@@ -587,6 +621,12 @@ Exposed frontier factories and food imports limit a long war despite excellent m
 
 Factory reading societies debate arcane reports alongside medicine and natural philosophy. Private experiments remain scattered, with no dependable industrial application.
 
+### Year 68 developments
+
+24/09/0068 AC43; recorded 11/10/0068 AC43. Bellorante dispersed critical gauges and duplicate drawings after a Hunter strike on an outlying industrial relay and repair depot on 12/04/0068. Replacement communications restored the main service in Month 5; loss and workshop withdrawal exceeded completed armoured-vehicle returns. Rionvesse continued shipping. Machine-tool output recovered unevenly and exposed frontier sites still lack full redundancy.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Industrial towns link cooler uplands to river farms. Working households value meals that can be reheated when factory shifts end at different hours. Baked beans beneath an onion-and-breadcrumb crust, with smoked sausage when affordable. Cheese-filled pasta browned in butter; orchard-fruit tart at civic dinners. Pale beer, plum cordial and café coffee. Cooperative dining rooms compete with private factory canteens. Imported coastal fish is popular but more expensive than the local root-and-grain staples.
 
 | Measure | Estimate |
@@ -607,8 +647,8 @@ Table and hospitality. Industrial towns link cooler uplands to river farms. Work
 | standing | 329,000 |
 | additional reserves | 793,000 |
 | field sustainable | 115,000 |
-| serviceable armour | 1,590 |
-| serviceable aircraft | 610 |
+| serviceable armour | 1,575 |
+| serviceable aircraft | 606 |
 | serviceable artillery | 1,640 |
 | fleet displacement tonnes | 72,000 |
 | naval role | coast |
@@ -626,7 +666,7 @@ Table and hospitality. Industrial towns link cooler uplands to river farms. Work
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Factory infrastructure and frontier protection require continuing borrowing.
 
@@ -690,6 +730,12 @@ Combined rival returns; no common treasury, staff or army. Rail gauges, tolls an
 
 The fallen crown’s collections are divided among rival courts and displaced teachers. Competing claims to authentic manuscripts matter more than any central school.
 
+### Year 68 developments
+
+18/09/0068 AC43; recorded 11/10/0068 AC43. Fighting in Months 3–4 over coal feeders damaged rolling stock and workshops. A 19/05/0068 local grain-transit arrangement reopened negotiated services through participating authorities, while rival commands retained separate tolls and arsenals. Losses and cannibalisation exceeded repairs; less of the combined geographic army can now be sustained away from its bases. No claimant reunified the country.
+
+Ossavren’s sustainable combined field force falls from 460,000 to 445,000 because of transport and workshop losses; this is availability, not 15,000 deaths. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Former royal roads carried recipes across a realm now divided by customs barriers and rival armies. Shared dishes remain a language of kinship across hostile borders. Red lentil pot with flatbread in warm valleys; barley-and-turnip broth in higher districts. Lamb with preserved lemon and almonds; former court households still serve rosewater rice pudding. Mint tea in warm valleys, mountain beer inland and sweet wine in surviving vineyard districts. Smuggling brings salt, oil and family recipes across front lines. An abundant banquet may conceal shortages in a neighbouring claimant’s territory.
 
 | Measure | Estimate |
@@ -709,10 +755,10 @@ Table and hospitality. Former royal roads carried recipes across a realm now div
 | food supply thousand tonnes grain equivalent | 70,775.858 |
 | standing | 1,998,000 |
 | additional reserves | 4,539,000 |
-| field sustainable | 460,000 |
-| serviceable armour | 5,370 |
-| serviceable aircraft | 2,190 |
-| serviceable artillery | 10,300 |
+| field sustainable | 445,000 |
+| serviceable armour | 5,230 |
+| serviceable aircraft | 2,140 |
+| serviceable artillery | 10,180 |
 | fleet displacement tonnes | 357,000 |
 | naval role | coast |
 | metallurgy | 4 |
@@ -729,7 +775,7 @@ Table and hospitality. Former royal roads carried recipes across a realm now div
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Successor administrations have uneven access to credit; the combined deficit masks local surpluses and shortfalls.
 
@@ -793,6 +839,12 @@ Winter supply and dispersed valley garrisons consume most available transport.
 
 Valley households preserve protective rites and stories of gifted healers. Winter isolation keeps instruction local, and court inquiries rarely reach every settlement.
 
+### Year 68 developments
+
+14/08/0068 AC43; recorded 11/10/0068 AC43. Halsavik established a larger seasonal spare-parts reserve and Eslovanne workshops completed winter-damaged vehicle repairs. Timber and weather reports from Edrask now share the existing shipping post. Winter valleys remain restrictive; restored equipment does not create a year-round northern sea passage.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Sheltered southern valleys support oats, rye, roots and dairy herds; forest preserves add berries and inspected game. Rye-crust fish loaf with potato and onion, carried cold or warmed beside a stove. Venison with sour red berries and cream, followed by baked curd cheese. Small beer, berry cordial and hot herb infusions. A winter pantry matters more than a fashionable fresh ingredient. Household drying racks and communal bake days bind city relatives to valley farms.
 
 | Measure | Estimate |
@@ -813,7 +865,7 @@ Table and hospitality. Sheltered southern valleys support oats, rye, roots and d
 | standing | 243,000 |
 | additional reserves | 712,000 |
 | field sustainable | 58,000 |
-| serviceable armour | 300 |
+| serviceable armour | 304 |
 | serviceable aircraft | 150 |
 | serviceable artillery | 1,310 |
 | fleet displacement tonnes | 69,000 |
@@ -832,7 +884,7 @@ Table and hospitality. Sheltered southern valleys support oats, rye, roots and d
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Winter stores and valley access dominate civilian investment; reserves remain dispersed.
 
@@ -896,6 +948,12 @@ Specialist foundries are strong; grain imports and seasonal routes make an exten
 
 Guarded workshops sometimes collaborate with rare practitioners; no standardised arcane production.
 
+### Year 68 developments
+
+22/08/0068 AC43; recorded 11/10/0068 AC43. Norsavia bearing and toolmakers fulfilled deferred maintenance orders, including machinery for Haldrevik. Buyers increasingly specify common gauges and replacement dimensions. Factory throughput improved without a new class of weapon; imported food and disputed foreign concessions still constrain expansion.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Mining leagues inherit northern preservation techniques but rely heavily on imported grain and valley dairy produce. Potato-and-rye dumplings with smoked pork and fermented cabbage. Beef baked beneath a thick salt-and-rye crust, opened for foundry feasts. Dark rye beer; strong black tea bought through concession merchants. Canteens portion meat by shift entitlement. A late supply train can turn dumplings into thin flour soup without stopping the furnaces.
 
 | Measure | Estimate |
@@ -918,7 +976,7 @@ Table and hospitality. Mining leagues inherit northern preservation techniques b
 | field sustainable | 49,000 |
 | serviceable armour | 500 |
 | serviceable aircraft | 200 |
-| serviceable artillery | 890 |
+| serviceable artillery | 898 |
 | fleet displacement tonnes | 45,000 |
 | naval role | coast |
 | metallurgy | 5 |
@@ -935,7 +993,7 @@ Table and hospitality. Mining leagues inherit northern preservation techniques b
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected surplus under unchanged fiscal policy. The earlier return described: Specialist exports support a modest surplus while seasonal import buffers remain necessary.
 
@@ -999,6 +1057,12 @@ Small arsenals and scattered teaching houses constrain scale; trained wardens ex
 
 Small warden teaching houses preserve field traditions; skilled practitioners remain exceptionally rare.
 
+### Year 68 developments
+
+10/09/0068 AC43; recorded 11/10/0068 AC43. Grevallier teaching houses completed another supervised healer and ordinary medical-assistant intake. Verniselle instrument makers standardised a small range of repairable surgical tools. Referral letters and duplicated teaching notes circulate between participating houses; neither a national psychic register nor a universal healing service exists.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Order houses preserve remedies and practical cookery alongside the older arts. Most food is ordinary, nourishing and carefully stored. Oat broth with roots, mushrooms and dried fish; kitchens adjust texture for the sick. Trout in cream with dill-like herbs, served with small sourdough loaves and berry compote. Unsweetened herbal tea and berry wine on feast days. Healing traditions do not make every herb magical. Supplies are dated and inspected; winter hospitality can impose a serious obligation on an isolated house.
 
 | Measure | Estimate |
@@ -1038,7 +1102,7 @@ Table and hospitality. Order houses preserve remedies and practical cookery alon
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Medical and teaching institutions receive a larger civilian share, with a small borrowing requirement.
 
@@ -1102,6 +1166,12 @@ Seasonal navigation and dependence on imported fuels limit sustained operations 
 
 Pilots and mill communities preserve water omens and inherited household protections. Navigation still relies on soundings, charts and experienced crews.
 
+### Year 68 developments
+
+16/08/0068 AC43; recorded 11/10/0068 AC43. Tresselund completed repairs to grain-drying and water-control machinery before the next storage cycle. Seldavre exporters agreed shared inspection certificates with participating northern buyers. Local militia replacement training continued, with no material net expansion of the small military inventory.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Seasonal river traffic sustains mills, fisheries and gardens in comparatively sheltered valleys. Boat families carry recipes between rival towns. Barley baked with lake fish and onion in covered crocks. Butter-fried freshwater fish, green peas and a layered berry cake during the short summer. Oat beer and tart orchard cider where fruit grows. Smokehouses fill before freeze-up. Spring fish suppers mark reopened navigation and the arrival of news as much as the season’s catch.
 
 | Measure | Estimate |
@@ -1141,7 +1211,7 @@ Table and hospitality. Seasonal river traffic sustains mills, fisheries and gard
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected surplus under unchanged fiscal policy. The earlier return described: River tolls support reserve replenishment and measured debt reduction.
 
@@ -1205,6 +1275,12 @@ Sea lanes carry its power; inland movement is slow and there is no through railw
 
 Port archives collect travellers’ accounts and sea traditions; private patrons sponsor a few readers, whose conflicting methods do not form a naval service.
 
+### Year 68 developments
+
+28/08/0068 AC43; recorded 11/10/0068 AC43. Brescalle supplied replacement marine engines and Tervassin commissioned replacement escort tonnage after older vessels were paid off. Naval trainees rotate through working repair yards. The maritime programme improved availability, but no through-railway to the Eastern Marches was built.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Western ports face a different trading sea from Veyrasse and share more food traffic with southern islands and Otrantian merchants. Fish-and-potato bake beneath an oat crust, with pickled onions. Mussels in cream and white wine, followed by baked custard scented with imported spice. Coastal cider, amber beer and port-house coffee. Sailors’ inexpensive meals favour salted fish; fresh shellfish signals a short journey from water to table. Inland villages are less maritime than the national reputation suggests.
 
 | Measure | Estimate |
@@ -1226,9 +1302,9 @@ Table and hospitality. Western ports face a different trading sea from Veyrasse 
 | additional reserves | 762,000 |
 | field sustainable | 75,000 |
 | serviceable armour | 720 |
-| serviceable aircraft | 410 |
+| serviceable aircraft | 415 |
 | serviceable artillery | 1,280 |
-| fleet displacement tonnes | 327,000 |
+| fleet displacement tonnes | 328,500 |
 | naval role | ocean |
 | metallurgy | 4 |
 | precision | 4 |
@@ -1244,7 +1320,7 @@ Table and hospitality. Western ports face a different trading sea from Veyrasse 
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Harbour renewal and naval support exceed ordinary receipts despite strong maritime earnings.
 
@@ -1308,6 +1384,12 @@ The Averholt frontier and northern garrisons tie down formations; large armies c
 
 Military physicians record unusual perception when it comes to their attention. Household and estate traditions survive outside those files, often deliberately.
 
+### Year 68 developments
+
+09/09/0068 AC43; recorded 11/10/0068 AC43. An Month 8 frontier exercise and supply rotation alarmed Averholt. Month 9 liaison observers and advance exercise notices reduced the immediate risk of miscalculation without resolving territorial claims. Caldovre completed replacement armour and gun returns; frontier commitments still absorb the same broad share of the field force.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Refinery and arsenal towns share a strong canteen tradition with their farming hinterland. Winter provisions matter more inland than at the ports. Rye parcels filled with potato, onion and smoked sausage, baked in communal ovens. Beef in dark beer with prune gravy and steamed bread; elaborate layered honey cake. Rye beer and sour cherry cordial. Shift whistles govern supper in the industrial wards. Kitchen gardens and pickled cabbage cushion disruptions to the grain trains.
 
 | Measure | Estimate |
@@ -1328,9 +1410,9 @@ Table and hospitality. Refinery and arsenal towns share a strong canteen traditi
 | standing | 810,000 |
 | additional reserves | 2,294,000 |
 | field sustainable | 275,000 |
-| serviceable armour | 1,710 |
+| serviceable armour | 1,735 |
 | serviceable aircraft | 880 |
-| serviceable artillery | 4,320 |
+| serviceable artillery | 4,340 |
 | fleet displacement tonnes | 130,000 |
 | naval role | coast |
 | metallurgy | 4 |
@@ -1347,7 +1429,7 @@ Table and hospitality. Refinery and arsenal towns share a strong canteen traditi
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Arsenals and fixed frontier commitments sustain a planned deficit.
 
@@ -1411,6 +1493,12 @@ Provincial bargains and the Vardol frontier absorb resources; interior transport
 
 Provincial collections preserve distinct healing and warding customs. Teachers exchange access through local patrons rather than a realm-wide curriculum.
 
+### Year 68 developments
+
+12/09/0068 AC43; recorded 11/10/0068 AC43. Avercenne answered Vardol’s Month 8 exercise with precautionary garrison rotations, then accepted reciprocal exercise notices. Rocavane prioritised lorry, carriage and field-gun repair over fleet or armour expansion. The Chalicchio road remained open to cleared trade; no general mobilisation or battle followed.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Provincial land bargains preserve different kitchens inside the same realm; grain taxes and shared fairs link the basins. Barley risotto with mushrooms and hard cheese; peasant versions use dripping instead of butter. Stuffed river pike and pastry filled with poppy seed, served when a provincial house receives important guests. Apple wine in orchard districts; malt beer in the colder basins. Public ovens are meeting places as well as fuel economies. A dispute over milling rights can be discussed for an entire supper without anyone naming its political purpose.
 
 | Measure | Estimate |
@@ -1433,7 +1521,7 @@ Table and hospitality. Provincial land bargains preserve different kitchens insi
 | field sustainable | 144,000 |
 | serviceable armour | 570 |
 | serviceable aircraft | 540 |
-| serviceable artillery | 2,630 |
+| serviceable artillery | 2,640 |
 | fleet displacement tonnes | 0 |
 | naval role | none |
 | metallurgy | 3 |
@@ -1450,7 +1538,7 @@ Table and hospitality. Provincial land bargains preserve different kitchens insi
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Provincial roads and grain handling require a modest borrowing programme.
 
@@ -1514,6 +1602,12 @@ The republic controls only its own districts. Varnelle, Kelbrun and Gavrel have 
 
 Republican archives retain fragments of the former basin federation’s case records. Its clerks cannot compel the successor authorities to supply missing material.
 
+### Year 68 developments
+
+21/07/0068 AC43; recorded 11/10/0068 AC43. A seasonal water-release and freight-document protocol was signed with participating Varnelle and Kelbrun authorities on 07/07/0068. Vallorise filtration workshops began exchanging repair specifications under it. Reconstruction debts and sovereignty remain disputed; Gavrel houses participate individually rather than through a restored federation.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. The old Serevask customs federation joined four southern basins, never Vesalius as a whole. Its divided successors still recognise one another’s dishes. Serevask sour rice: rice and lentils finished with soured milk, toasted seed and browned onion. Duck with bitter orange, accompanied by layered rice scented with preserved peel. Strong black tea; fermented rice drink at harvest gatherings. The remnant government maintains public grain kitchens near its ministries. Former federal recipes outlast the tax union, while each successor claims its own version is the original.
 
 | Measure | Estimate |
@@ -1553,7 +1647,7 @@ Table and hospitality. The old Serevask customs federation joined four southern 
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: The reduced republic carries its own inherited obligations; former federation partners are not a shared tax base.
 
@@ -1617,6 +1711,12 @@ Delta channels, customs dependence and disputed upstream water access constrain 
 
 River pilots and household healers trade practical lore around the delta. Port boards occasionally investigate a useful claim without endorsing an entire tradition.
 
+### Year 68 developments
+
+29/07/0068 AC43; recorded 11/10/0068 AC43. Varnessa and Serravole began using the Month 7 basin protocol for declared cargo and water notices. Ceralvigne filter and pump repairs reduced missed deliveries on participating routes. Customs revenue remains locally controlled; the agreement did not pool armies or cancel inherited debts.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Delta rice, fisheries and freight markets furnished the former federation’s export table; incoming crews introduced sour, hot and sweet condiments. Varnelle red rice with river fish, pepper and beans, cooked in one broad pan. Crab broth with fine rice noodles and citrus leaf; confectioners sell sesame brittle. Iced citrus water where ice can be bought; tea and light cane spirit. Fish sauce is an everyday seasoning rather than a luxury. Flood years alter rice prices across all four successor states.
 
 | Measure | Estimate |
@@ -1656,7 +1756,7 @@ Table and hospitality. Delta rice, fisheries and freight markets furnished the f
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected surplus under unchanged fiscal policy. The earlier return described: Customs income broadly covers current plans and permits a small surplus.
 
@@ -1720,6 +1820,12 @@ Plantation levies are numerous but unevenly equipped; imported engines and fuel 
 
 Estate remedies coexist with workers’ inherited protective practices. Private collections are accessible through personal trust, while plantation authorities are wary of independent followings.
 
+### Year 68 developments
+
+04/08/0068 AC43; recorded 11/10/0068 AC43. Kelbrienne adopted the Month 7 basin freight forms and Oreviano workshops repaired imported pumps using shared fitting specifications. Plantation representatives accepted limited delivery arbitration. Labour conditions and estate power remain contested; machinery imports still limit how widely the improvements can spread.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Upriver gardens and plantation labour communities mix basin rice dishes with tubers, legumes and orchard fruit. Steamed tuber cakes with black beans and a sharp herb relish. Pork braised in cane syrup and sour fruit; rice cakes filled with ground nuts for festivals. Roasted-grain coffee substitutes and cane spirit; estate houses serve imported coffee. Labourers eat at field shelters from wrapped parcels. Plantation owners’ lavish fruit tables conceal the uneven access to meat and purchased grain.
 
 | Measure | Estimate |
@@ -1759,7 +1865,7 @@ Table and hospitality. Upriver gardens and plantation labour communities mix bas
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: River works and imported agricultural equipment are financed partly on credit.
 
@@ -1823,6 +1929,12 @@ Household loyalties divide command; repair workshops cannot replace large losses
 
 March houses preserve family books of omens and protections. Their secrecy divides instruction as effectively as the frontier divides military command.
 
+### Year 68 developments
+
+13/08/0068 AC43; recorded 11/10/0068 AC43. Several Gavrielle march houses joined the basin notice scheme and recognised each other’s declared freight seals. Other houses stayed outside. Mesrienne repairers benefited from more predictable orders; this is cooperation between courts, not a unified national government or a larger combined army.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. March-house kitchens descend from basin customs but favour portable grain and smoked provisions for retainers travelling between estates. Millet cakes with goat stew and sour plum relish. Spit-roasted kid with nut paste, followed by dense dried-fruit bread. Sour milk, herbal tea and plum wine. Hospitality includes bread broken by the host, but its quality distinguishes an honoured guest from a hired messenger. Poor tenants substitute lentils for goat.
 
 | Measure | Estimate |
@@ -1862,7 +1974,7 @@ Table and hospitality. March-house kitchens descend from basin customs but favou
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Frontier provisioning strains the limited receipts of rural estates.
 
@@ -1926,6 +2038,12 @@ Canton tolls and planter credit divide the export trade. Escort flotillas answer
 
 Canton healers inherit plant lore and protective observances. Port subscribers occasionally pay to compare case records, but inland custodians resist giving away family knowledge.
 
+### Year 68 developments
+
+02/09/0068 AC43; recorded 11/10/0068 AC43. Jougrenne brokers and Nantac land courts agreed a harvest-season toll schedule on participating roads. Lorrevento merchants can quote those journeys with fewer ad hoc charges. Rival toll holders and plantation jurisdictions remain; no common army or permanent customs union was created.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Rice cooked in coconut milk accompanies peppered fish near the coast; inland labourers eat cassava cakes and bean relish. At Jougrenne, prosperous hosts serve fish wrapped in aromatic leaves, followed by cane syrup fritters. Sour fruit drinks and weak cane beer are ordinary; imported wine belongs to charter banquets.
 
 | Measure | Estimate |
@@ -1965,7 +2083,7 @@ Table and hospitality. Rice cooked in coconut milk accompanies peppered fish nea
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Harbour and plantation districts carry different debts; no canton can spend the combined balance.
 
@@ -2029,6 +2147,12 @@ Rights of passage change between courts. Winter fodder and incompatible toll pri
 
 Court chapbooks mix household wards with dynastic histories. Independent practitioners move between patrons and market fairs, carrying techniques that rival courts claim as their own.
 
+### Year 68 developments
+
+07/09/0068 AC43; recorded 11/10/0068 AC43. Collengo and Peregia brokers coordinated fodder contracts and wool grading before winter. Albaret factors now use witnessed weights on participating sales. Mountain supply remains seasonal and individual lords retain their forces; equipment turnover leaves the rounded regional military return broadly level.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Barley noodles with browned cabbage are everyday food in the cooler districts. Shepherds carry hard cheese and sour rye loaves; court cooks serve mutton with dried plums and a crust of toasted grain. Albaret inns are known for pear pastries. Dark beer and plum spirit travel better than fresh milk.
 
 | Measure | Estimate |
@@ -2068,7 +2192,7 @@ Table and hospitality. Barley noodles with browned cabbage are everyday food in 
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Court obligations and winter supply produce uneven local deficits.
 
@@ -2132,6 +2256,12 @@ Water commands hold separate troops. A damaged gate or withheld release can disa
 
 Reservoir communities preserve water-divining traditions. Boards test useful claims against measured flows; most inherited observances remain unverified.
 
+### Year 68 developments
+
+11/08/0068 AC43; recorded 11/10/0068 AC43. Anselleuil reservoir keepers and Jarnan councils renewed the water-sharing compact with Votane estates, using Brannervaux arbiters for disputed measurements. Scheduled gate maintenance was completed. The renewal reduced local delivery disputes without settling all estate claims or creating a federal treasury.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Millet porridge with greens and groundnut sauce feeds field crews; fish dried beside the canals enriches stews. Jarnan serves spiced rice with river fish on market days. Fermented grain drink is inexpensive, while sweet tea signals a household with access to imported leaves. Drought changes recipes before it changes official water allocations.
 
 | Measure | Estimate |
@@ -2171,7 +2301,7 @@ Table and hospitality. Millet porridge with greens and groundnut sauce feeds fie
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Water authorities borrow for gates and channels against their own toll streams.
 
@@ -2235,6 +2365,12 @@ Port conventions facilitate cargo, not military command. Inland debt disputes an
 
 Harbour families collect foreign protective charms and accounts of unusual perception. Commercial correspondence circulates stories faster than competent teachers.
 
+### Year 68 developments
+
+30/09/0068 AC43; recorded 11/10/0068 AC43. Astrellac and participating ports began coordinated convoy departures and shared seizure notices on 18/06/0068. Successful escorts reduced exposure on the main trading axis; raiders shifted toward smaller feeders and isolated sailings. Rovessaran insurance now recognises those escorted departures, while contested debt seizures still require case-by-case judgement.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Astrellac cooks fish in tomato and fennel broth and lays yesterday’s bread beneath it. Bean-filled pastries and olives travel inland with merchants. Wealthy harbour tables add citrus-roasted poultry and almond cakes; dockworkers buy chickpea fritters. Coastal wine is plentiful locally, while coffee is sold in small, strong cups.
 
 | Measure | Estimate |
@@ -2274,7 +2410,7 @@ Table and hospitality. Astrellac cooks fish in tomato and fennel broth and lays 
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected surplus under unchanged fiscal policy. The earlier return described: Commercial districts accumulate a modest combined surplus while carrying infrastructure bonds.
 
@@ -2338,6 +2474,12 @@ Company forces protect particular assets. Charter disputes, imported food and de
 
 Mining crews preserve warning rites and private accounts of uncanny perception. Concession managers value a useful warning but rarely fund research that might interrupt extraction.
 
+### Year 68 developments
+
+08/09/0068 AC43; recorded 11/10/0068 AC43. Armed renewal disputes interrupted some concessions in Month 2. A Month 6 escrow-and-inspection settlement reopened participating sites; a 03/07/0068 Hunter strike then destroyed a remote repair shed and stores. Varnesk replacements restored basic workings by Month 8, but armed vehicles and guns remained below the opening serviceable return. Nonparticipating claims are unresolved.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Workers eat oat flatbread, pea soup and smoked fish at company canteens. Mushroom pies and berry preserves mark a well-stocked household. Managers import white flour and wine for renewal dinners; crews drink malt beer or roasted-grain coffee. An interrupted supply convoy can make the company shop the only source of food and deepen wage debt.
 
 | Measure | Estimate |
@@ -2358,9 +2500,9 @@ Table and hospitality. Workers eat oat flatbread, pea soup and smoked fish at co
 | standing | 66,000 |
 | additional reserves | 156,000 |
 | field sustainable | 12,000 |
-| serviceable armour | 70 |
+| serviceable armour | 66 |
 | serviceable aircraft | 20 |
-| serviceable artillery | 320 |
+| serviceable artillery | 310 |
 | fleet displacement tonnes | 19,000 |
 | naval role | coast |
 | metallurgy | 2 |
@@ -2377,7 +2519,7 @@ Table and hospitality. Workers eat oat flatbread, pea soup and smoked fish at co
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Public concession receipts fund contract access; private company debts are excluded.
 
@@ -2441,6 +2583,12 @@ Most personnel guard their own supply districts. Winter fuel and food reserves i
 
 Hospices hold copied warding and healing texts obtained from Galdresk visitors. The copies outnumber people able to demonstrate any effect.
 
+### Year 68 developments
+
+03/09/0068 AC43; recorded 11/10/0068 AC43. Dananske, Dreinvar and Ferorvik wardholds renewed mutual winter-store access and hospice referrals with Galdresk. Veltroven assembled shared replacement fittings for the next shipping season. The agreement binds participating holds, not a newly restored monarchy; military totals remain dispersed.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Rye-and-oat bread, dried fish and sour cabbage dominate fortress kitchens. Venison is a costly addition to barley stew, not an everyday entitlement. Festival tables offer potato dumplings with browned butter and tart berry sauce. Hot malt drinks and strong grain spirit accompany winter hospitality; fuel scarcity limits baking as much as flour scarcity does.
 
 | Measure | Estimate |
@@ -2480,7 +2628,7 @@ Table and hospitality. Rye-and-oat bread, dried fish and sour cabbage dominate f
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Winter depots and fortified approaches require borrowing by individual wardholds.
 
@@ -2544,6 +2692,12 @@ Port and estate forces obey different officers. Agricultural limits and dependen
 
 Fishing households and estate infirmaries preserve separate traditions. Port scribes collect storm accounts; families conceal gifts they fear a landlord might appropriate.
 
+### Year 68 developments
+
+19/08/0068 AC43; recorded 11/10/0068 AC43. Varkessant buyers renewed Halskert grain contracts and Cersund estates accepted a seasonal fishing-access settlement. Harbour repairs returned a small patrol craft to service. House and harbour rights remain separate, and access after winter ice still depends on local pilots.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Fish baked under a rye crust is shared along the shore; inland tables favour potato cakes with cultured cream and mushrooms. A formal estate meal adds roast poultry and sour-berry pudding. Small beer accompanies workday suppers, while herb spirits are offered to guests. The port’s fresh bread distinguishes it from outlying households that bake only when fuel permits.
 
 | Measure | Estimate |
@@ -2567,7 +2721,7 @@ Table and hospitality. Fish baked under a rye crust is shared along the shore; i
 | serviceable armour | 80 |
 | serviceable aircraft | 20 |
 | serviceable artillery | 400 |
-| fleet displacement tonnes | 26,000 |
+| fleet displacement tonnes | 26,180 |
 | naval role | coast |
 | metallurgy | 2 |
 | precision | 2 |
@@ -2583,7 +2737,7 @@ Table and hospitality. Fish baked under a rye crust is shared along the shore; i
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Seasonal supply and port upkeep leave a small combined funding gap.
 
@@ -2647,6 +2801,12 @@ Foreign clients subsidise rival toll houses. Local garrisons cannot be added tog
 
 Travelling readers find patrons among rival march houses. Books cross borders as gifts or contraband, leaving local collections partial and politically guarded.
 
+### Year 68 developments
+
+17/09/0068 AC43; recorded 11/10/0068 AC43. Temevaux road authorities and Malinne customs offices adopted a shared transit manifest for participating carriers. Tervayne-backed warehouse agents extended repair and storage scheduling at Orsavie. The agreement reduces duplicate inspections without removing separate toll jurisdictions or creating through-rail service.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Households bake bean-and-onion pies and stretch broth with torn bread. Market inns serve pork with apples and coarse mustard; better tables add freshwater fish in butter and herb sauce. Cider is common in orchard districts, ale elsewhere. Customs officers are notorious for accepting imported coffee as hospitality while charging duty on the next sack.
 
 | Measure | Estimate |
@@ -2686,7 +2846,7 @@ Table and hospitality. Households bake bean-and-onion pies and stretch broth wit
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Separate toll authorities borrow against their own future receipts; their treasuries are not pooled.
 
@@ -2750,6 +2910,12 @@ Military governors and elected market boards compete for transport and stores. R
 
 Granary towns maintain household protection rites alongside practical medicine. Market festivals bring teachers together briefly, without creating a permanent regional academy.
 
+### Year 68 developments
+
+23/09/0068 AC43; recorded 11/10/0068 AC43. Margeuil grain merchants secured written limits and receipts for requisitions by participating Darnenne commands. Galigny estate courts retain appeal rights. Repair workshops concentrated on wagons and artillery carriages; the settlement eased harvest transport but left the regional forces politically divided.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Rice-and-bean dishes with sharp green relish are common in the warmer cantons; upland tables add maize bread and soft cheese. Galigny market stalls sell stuffed peppers when in season. Feast days bring roast poultry with sour fruit, and sweet fritters. Light beer and fruit cordials are ordinary; imported coffee is concentrated in commercial houses.
 
 | Measure | Estimate |
@@ -2789,7 +2955,7 @@ Table and hospitality. Rice-and-bean dishes with sharp green relish are common i
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Storage and transport spending is negotiated separately by canton.
 
@@ -2853,6 +3019,12 @@ Small communes lack a shared naval command. Poorly charted harbours, seasonal la
 
 Pilot families pass down sea omens and protective marks. Inland healers keep different records, and neither tradition offers a reliable substitute for ordinary seamanship or medicine.
 
+### Year 68 developments
+
+24/08/0068 AC43; recorded 11/10/0068 AC43. Vessaline and Vallarive pilot guilds issued revised local soundings and coordinated stores for visiting coasters. Saultac merchants accepted the new schedules. Ceralte buyers retain commercial access without Admiralty jurisdiction; no new channel or ocean route was created.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Coastal kitchens combine fish, white beans, garlic and local greens; inland families make herb dumplings and barley bread. Saultac’s market speciality is poultry braised with olives and sour citrus. Hosts offer almond biscuits with coffee when they can afford it; diluted wine or herbal infusions are more usual. Fresh fish becomes a luxury only a short disrupted journey inland.
 
 | Measure | Estimate |
@@ -2892,7 +3064,7 @@ Table and hospitality. Coastal kitchens combine fish, white beans, garlic and lo
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected surplus under unchanged fiscal policy. The earlier return described: Port communes retain a small combined surplus for local harbour and supply buffers.
 
@@ -2956,6 +3128,12 @@ Strong pass defence and mining; food and coastal export access depend on neighbo
 
 Mining communities preserve protective marks, warning dreams and accounts of unusual perception underground. Council archives collect accidents; practical instruction remains within small trusted circles.
 
+### Year 68 developments
+
+16/09/0068 AC43; recorded 11/10/0068 AC43. Drossane councils expanded duplicate assay and mine-safety records and completed a field-gun repair cycle. Existing road and port transfers still carry foreign trade. Negotiators continued the proposed Calvernis railway survey; construction and through-service have not begun. The guesthouse attackers’ real allegiance has not become a public finding.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Pass commerce carried dairy and grain dishes between otherwise stubbornly independent mining councils. Food is compact enough for a shift or a winter ascent. Drossane cheese dumplings: stale bread, sharp mountain cheese and onion, browned and served in broth. Covered rye pie of smoked goat and mushrooms; the richest versions have a deep butter crust. Whey drinks and small beer during work; juniper spirit after the shift. Lower valleys supply potatoes and cabbage, upland pastures cheese. Bought flour and coastal salt become costly when freight negotiations fail.
 
 | Measure | Estimate |
@@ -2978,7 +3156,7 @@ Table and hospitality. Pass commerce carried dairy and grain dishes between othe
 | field sustainable | 23,000 |
 | serviceable armour | 60 |
 | serviceable aircraft | 60 |
-| serviceable artillery | 700 |
+| serviceable artillery | 708 |
 | fleet displacement tonnes | 0 |
 | naval role | none |
 | metallurgy | 5 |
@@ -2995,7 +3173,7 @@ Table and hospitality. Pass commerce carried dairy and grain dishes between othe
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Existing pass works and mine approaches absorb investment; the proposed Calvernis railway is not funded construction.
 
@@ -3059,6 +3237,12 @@ Largest eastern tank arm, but fuel imports and the armed truce impose costs; off
 
 Estate collections and military medical records preserve different accounts of unusual gifts. Ducal patronage can secure access, but also encourages custodians to conceal what they hold.
 
+### Year 68 developments
+
+01/10/0068 AC43; recorded 11/10/0068 AC43. Valdrec’s depots accepted replacement armour, aircraft and artillery while withdrawing worn equipment. Cressault commanders completed local crossing and irrigation repairs after exchanges of fire in Months 3–4, retaining reinforced posts under the armistice. The force remains much larger than Veyrasse’s; no public intelligence purge or proven collapse of command followed the covert cell’s report.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Agricultural estates feed the northern arsenals; ducal kitchens and barracks draw on the same cattle and grain districts at very different prices. Valdrec sour-pot: cabbage, potato and beef simmered with caraway; soldiers receive more cabbage and less beef. Roast goose with apple stuffing and buckwheat cakes, served at estate weddings and officers’ banquets. Dark malt beer; plum spirit poured in small glasses. Army purchasing can empty market stalls before a mobilisation. Housewives argue over whether a proper sour-pot should contain tomato, an imported coastal habit.
 
 | Measure | Estimate |
@@ -3079,9 +3263,9 @@ Table and hospitality. Agricultural estates feed the northern arsenals; ducal ki
 | standing | 296,000 |
 | additional reserves | 727,000 |
 | field sustainable | 107,000 |
-| serviceable armour | 1,510 |
-| serviceable aircraft | 360 |
-| serviceable artillery | 1,870 |
+| serviceable armour | 1,540 |
+| serviceable aircraft | 366 |
+| serviceable artillery | 1,885 |
 | fleet displacement tonnes | 53,000 |
 | naval role | coast |
 | metallurgy | 4 |
@@ -3098,7 +3282,7 @@ Table and hospitality. Agricultural estates feed the northern arsenals; ducal ki
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Armament production and the armed truce require a continuing bond programme.
 
@@ -3162,6 +3346,12 @@ Chartered houses, municipal funding and freight bottlenecks constrain command; m
 
 Private circles and inherited manuscripts sustain the older arts outside the Collegium’s main priorities. Proven gifts are rare; most scholars judge claims cautiously rather than treating every charm as effective.
 
+### Year 68 developments
+
+30/09/0068 AC43; recorded 11/10/0068 AC43. Auvrienne’s authorised second pumping stage entered service on 04/04/0068; operating acceptance of the uphill pressure controls followed on 10/06/0068. Cevrane’s crews now maintain the two commissioned replacement stages beside retained older sections. Serravonne railway workshops spread revised maintenance checks. Conventional repair and replacement programmes modestly improved military availability; Galahad’s new rifle and carrier remain unbuilt.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Old coastal markets and the railway labour settlements exchange recipes with Caldrienne and Calvernis despite customs quarrels. Ressant pot: white beans, leeks and barley, enriched with smoked pork when wages permit. Railway kitchens keep it warm for staggered shifts. Auvrienne veal in mustard cream, with buttered noodles; pear pastries follow at prosperous tables. Chicory coffee in workshops; real coffee, apple cider and dry valley wine in better-supplied houses. Fresh fish is ordinary near Serravonne, expensive uphill after a disrupted train. Station households stretch yesterday’s bread into broth dumplings.
 
 | Measure | Estimate |
@@ -3182,9 +3372,9 @@ Table and hospitality. Old coastal markets and the railway labour settlements ex
 | standing | 156,000 |
 | additional reserves | 441,000 |
 | field sustainable | 45,000 |
-| serviceable armour | 390 |
-| serviceable aircraft | 180 |
-| serviceable artillery | 710 |
+| serviceable armour | 396 |
+| serviceable aircraft | 184 |
+| serviceable artillery | 720 |
 | fleet displacement tonnes | 31,000 |
 | naval role | coast |
 | metallurgy | 4 |
@@ -3201,7 +3391,7 @@ Table and hospitality. Old coastal markets and the railway labour settlements ex
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Existing rail and municipal waterworks produce a manageable planned deficit; unbuilt national wonders have no appropriation.
 
@@ -3265,6 +3455,12 @@ Strong finance and convoy support; imported food and fuel expose it to interdict
 
 Merchant households collect texts through maritime contacts. Private teaching and discreet patronage flourish more readily than a publicly accountable academy.
 
+### Year 68 developments
+
+18/09/0068 AC43; recorded 11/10/0068 AC43. Miravelle yards completed replacement coastal escort tonnage and Cavrelune repairers expanded scheduled engine overhaul. Insurers began recognising participating convoy notices. The Karsenne railway remained a surveyed proposal subject to finance and agreement, not an operating shortcut for the completed expedition.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. The banking ports absorbed recipes from their merchant crews, while inland households retained grain-and-bean cooking. Miravelle fish pot: firm coastal fish, onions, white beans and wine broth, ladled over yesterday’s bread. Saffron rice with shellfish and a separately served herb oil; expensive spice marks a host’s means. Dry white wine, anise cordial and strong coffee. Dockside stalls sell fried small fish in paper. A merchant’s citrus preserves may have travelled farther than the guests eating them.
 
 | Measure | Estimate |
@@ -3286,9 +3482,9 @@ Table and hospitality. The banking ports absorbed recipes from their merchant cr
 | additional reserves | 421,000 |
 | field sustainable | 38,000 |
 | serviceable armour | 360 |
-| serviceable aircraft | 240 |
+| serviceable aircraft | 245 |
 | serviceable artillery | 690 |
-| fleet displacement tonnes | 166,000 |
+| fleet displacement tonnes | 166,800 |
 | naval role | ocean |
 | metallurgy | 4 |
 | precision | 4 |
@@ -3304,7 +3500,7 @@ Table and hospitality. The banking ports absorbed recipes from their merchant cr
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected surplus under unchanged fiscal policy. The earlier return described: Shipping and banking receipts sustain a surplus despite substantial public infrastructure debt.
 
@@ -3368,6 +3564,12 @@ Experienced coastal crews and minelayers; small population, grain imports and fu
 
 Maritime traditions and itinerant teachers preserve fragmentary practice; crews cannot rely on a gifted escort.
 
+### Year 68 developments
+
+15/09/0068 AC43; recorded 11/10/0068 AC43. Dalmor, Bellavara and Montelisse coordinated pilot notices, fuel stocks and repair slots through the established ports. Replacement patrol tonnage entered service and worn machinery was retired. Admiralty escorts protect selected sailings; alleged state support for Seravelle raiders remains unproved.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Limited grain land and long sea passages made imported flour, preserved fish and safe drinking water matters of government. Dalmor soaked biscuit: ship’s bread softened with fish broth, oil and onions; ashore it gains tomatoes and herbs. Whole baked rockfish under a salt crust, opened at the table; almond-and-citrus cakes for shore leave and family feasts. Weak beer, diluted island wine and lemon syrup when supplies allow. Islanders know several preparations of the same catch. Grain shortages change the size of a loaf before they change a naval ration.
 
 | Measure | Estimate |
@@ -3391,7 +3593,7 @@ Table and hospitality. Limited grain land and long sea passages made imported fl
 | serviceable armour | 10 |
 | serviceable aircraft | 40 |
 | serviceable artillery | 170 |
-| fleet displacement tonnes | 30,000 |
+| fleet displacement tonnes | 30,200 |
 | naval role | island |
 | metallurgy | 3 |
 | precision | 4 |
@@ -3407,7 +3609,7 @@ Table and hospitality. Limited grain land and long sea passages made imported fl
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Naval maintenance and imported provisions require borrowing alongside a maritime contingency buffer.
 
@@ -3471,6 +3673,12 @@ Imported engines, medicine and bunker fuel; island votes limit emergency taxatio
 
 Navigation families preserve weather observations alongside inherited rites; gifted practitioners cannot promise safe passage.
 
+### Year 68 developments
+
+25/08/0068 AC43; recorded 11/10/0068 AC43. Ardessa and Velisar assemblies renewed leased-depot terms while reserving local water and pilot rights. Stored engine fittings restored a small patrol vessel. The five island assemblies remain self-governing; mainland merchants obtained service access rather than territorial annexation.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Terrace farms and convoy stores support distinct island kitchens; mainland warehouses introduced flour and coffee. Barley cakes with bean stew, smoked fish and orchard chutney. Roast lamb with sour fruit and honeyed pears. Small beer and dry orchard cider. Fresh water is served before wine at a guest meal; a full jug signals a household willing to share its cistern.
 
 | Measure | Estimate |
@@ -3494,7 +3702,7 @@ Table and hospitality. Terrace farms and convoy stores support distinct island k
 | serviceable armour | 6 |
 | serviceable aircraft | 18 |
 | serviceable artillery | 40 |
-| fleet displacement tonnes | 14,500 |
+| fleet displacement tonnes | 14,660 |
 | naval role | coast |
 | metallurgy | 2 |
 | precision | 2 |
@@ -3510,7 +3718,7 @@ Table and hospitality. Terrace farms and convoy stores support distinct island k
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected surplus under unchanged fiscal policy. The earlier return described: Assembly levies support a modest surplus; freshwater and island access take priority.
 
@@ -3574,6 +3782,12 @@ External firms dominate commercial credit and shipping; contested leases and imp
 
 Village healers and colonial physicians work within different institutions; registries do not capture all local practice.
 
+### Year 68 developments
+
+22/09/0068 AC43; recorded 11/10/0068 AC43. Month 6 refusal of compulsory road levies and common-pasture petitions reached the colonial courts. A temporary Month 9 order suspended disputed levies in the petitioning districts while a mixed inquiry examines leases. Export shipping continued. The concession is limited, not independence or an island-wide armed uprising.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Older island farming overlaps with settler orchards and export estates. Bean-and-root stew, grilled fish and flat bread. Citrus-braised poultry, stuffed vegetables and orchard tarts. Fruit wine, cane spirit and imported coffee. Company dining rooms and village kitchens use the same crops but distribute the best produce differently.
 
 | Measure | Estimate |
@@ -3613,7 +3827,7 @@ Table and hospitality. Older island farming overlaps with settler orchards and e
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected surplus under unchanged fiscal policy. The earlier return described: The colonial grant is booked once against the parent; private concession profits are not public reserves.
 
@@ -3677,6 +3891,12 @@ No integrated heavy steel industry; outer-island levies require compact consent.
 
 Court archivists collect island traditions; household custodians retain many practices outside royal institutions.
 
+### Year 68 developments
+
+06/09/0068 AC43; recorded 11/10/0068 AC43. Nemer and Essara technical schools completed another small intake of navigators and engine fitters. The crown and participating island councils funded repairs to existing patrol and signal equipment. Outer-island consent remains necessary; this is a service improvement rather than a new blue-water fleet.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Terraced grain and sheltered orchards developed alongside merchant seafaring. Steamed barley with beans, greens and fish broth. Herb-crusted fish, roast kid and nut pastries. Grain beer and spiced pear wine. Outer households preserve more fish and dairy; the capital displays produce from across the compacts.
 
 | Measure | Estimate |
@@ -3716,7 +3936,7 @@ Table and hospitality. Terraced grain and sheltered orchards developed alongside
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Terrace and harbour maintenance produce a small deficit under compact-approved borrowing.
 
@@ -3780,6 +4000,12 @@ Storm-season isolation, limited machine shops and disputed crown leases.
 
 Households preserve weather and healing traditions; the colonial registry records only some practitioners.
 
+### Year 68 developments
+
+14/09/0068 AC43; recorded 11/10/0068 AC43. Ordelune and Sorevain councils secured scheduled grain and spare-parts deliveries under existing Ostrevain support. Repairs addressed storm damage to store roofs and moorings. Local consultation widened around winter provisioning without changing the colony’s legal status or its small garrison inventory.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Cold-water fishing and mixed farming supply households and passing ships. Oat broth with smoked fish, turnips and buttered bread. Mutton pie with leeks and baked apples. Oat ale and berry cordial. Winter smokehouses and communal grain stores remain important even where imported tins are fashionable.
 
 | Measure | Estimate |
@@ -3819,7 +4045,7 @@ Table and hospitality. Cold-water fishing and mixed farming supply households an
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected surplus under unchanged fiscal policy. The earlier return described: A matched metropolitan subsidy covers part of the southern supply burden.
 
@@ -3883,6 +4109,12 @@ Short growing season, scarce imported fuel and little heavy repair capacity.
 
 Custodians preserve communal histories and healing practices; ritual office does not itself establish psychic ability.
 
+### Year 68 developments
+
+29/08/0068 AC43; recorded 11/10/0068 AC43. Skeldra and Heskar hearth assemblies pooled radio spares and rescue-boat stores. A maintenance rotation kept existing sets usable through the shipping season. No foreign garrison, new aircraft industry or permanent central government followed the arrangement.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Collective stores and rescue obligations shape the table. Fish-and-barley broth with turnips and hard cheese. Slow-cooked mutton and berry cakes at assemblies. Weak malt ale and hot berry infusions. Visitors eat from a host hearth’s stores; prolonged stays create reciprocal obligations.
 
 | Measure | Estimate |
@@ -3922,7 +4154,7 @@ Table and hospitality. Collective stores and rescue obligations shape the table.
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected surplus under unchanged fiscal policy. The earlier return described: Low debt accompanies communal stores and rescue commitments; stores themselves are not liquid cash.
 
@@ -3986,6 +4218,12 @@ Imported plate and refined fuel; merchant finance and outer-island representatio
 
 Municipal archives and private societies exchange older texts; unusual talent develops through local patronage.
 
+### Year 68 developments
+
+04/09/0068 AC43; recorded 11/10/0068 AC43. Merovia and Iveran yards expanded scheduled pump and engine overhaul, returning patrol tonnage to working service. Insurers accepted inspected repair certificates. Merchant representation remains disputed despite the successful service programme; the cities did not acquire heavy shipbuilding capacity.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Port commerce brought varied seasonings to island farming and fisheries. Bean soup, fish cakes and pickled greens. Wine-braised lamb, stuffed squash and citrus custard. Dry wine, pale beer and imported coffee. Dockside houses advertise fixed-price meals; wealthy tables display fresh produce from distant islands.
 
 | Measure | Estimate |
@@ -4009,7 +4247,7 @@ Table and hospitality. Port commerce brought varied seasonings to island farming
 | serviceable armour | 22 |
 | serviceable aircraft | 35 |
 | serviceable artillery | 58 |
-| fleet displacement tonnes | 24,500 |
+| fleet displacement tonnes | 24,750 |
 | naval role | coast |
 | metallurgy | 3 |
 | precision | 3 |
@@ -4025,7 +4263,7 @@ Table and hospitality. Port commerce brought varied seasonings to island farming
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Marine works and pumps are partly bond-financed despite substantial liquid reserves.
 
@@ -4089,6 +4327,12 @@ Limited heavy industry and medical imports; dispersed councils cannot mobilise a
 
 Kin custodians and travelling teachers preserve distinct traditions; there is no unified magical college.
 
+### Year 68 developments
+
+18/08/0068 AC43; recorded 11/10/0068 AC43. Ashala and Nalavai covenants negotiated engine-spare deliveries and medical credit while preserving common-land exclusions from collateral. Local pilots coordinated supply calls. The agreement improves access but leaves imported machinery dependence and kin-based jurisdiction intact.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Wet-valley cultivation and reef fisheries support inter-island exchanges. Rice or steamed roots with beans and fish in sour fruit broth. Leaf-wrapped poultry, shellfish and sweet root cakes. Fermented rice drink and fruit infusions. Communal feasts affirm obligations between councils; everyday cooking varies by island.
 
 | Measure | Estimate |
@@ -4128,7 +4372,7 @@ Table and hospitality. Wet-valley cultivation and reef fisheries support inter-i
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Small negotiated loans support water and agricultural works without pledging all communal land.
 
@@ -4192,6 +4436,12 @@ Imported machinery and fuel; royal borrowing requires assembly consent.
 
 Court collections and district schools preserve competing accounts of the older arts without a universal state monopoly.
 
+### Year 68 developments
+
+27/09/0068 AC43; recorded 11/10/0068 AC43. Istrana’s assembly approved a limited renewal of fuel and machinery contracts after scrutiny of royal borrowing. Serakai workshops repaired existing patrol equipment and textile drives. Assembly consent remains required; the programme creates no independent aircraft or armoured-vehicle industry.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. A maritime court draws on irrigated valleys, plantation districts and fishing towns. Rice with bean gravy, greens and salted fish. Fruit-braised pork, fragrant rice and layered sugar cakes. Cane spirit, light beer and imported tea. Mill workers buy meals near the gates; court hospitality prizes fresh produce from several islands.
 
 | Measure | Estimate |
@@ -4231,7 +4481,7 @@ Table and hospitality. A maritime court draws on irrigated valleys, plantation d
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Assembly-approved borrowing supports schools and port works, subject to existing limits on royal credit.
 
@@ -4295,6 +4545,12 @@ Seasonal northern access, disputed concessions and dependence on imported grain 
 
 Local custodians preserve island rites alongside mainland institutions; governors have incomplete records of unusual gifts.
 
+### Year 68 developments
+
+09/09/0068 AC43; recorded 11/10/0068 AC43. Edrask and Havren renewed timber-loading and winter grain schedules with Rovengard. Visiting technicians completed mooring and signal repairs before seasonal withdrawal. Visiting mainland warships are excluded from the colony’s locally assigned fleet total.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Settler dairy farms and older fishing communities exchange food across distinct land systems. Rye bread, fish soup, cabbage and cheese. Roast goose or fish pie with sour berries. Rye ale and juniper-flavoured spirits. Northern stations ration imported flour through winter; southern markets offer more variety.
 
 | Measure | Estimate |
@@ -4334,7 +4590,7 @@ Table and hospitality. Settler dairy farms and older fishing communities exchang
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected surplus under unchanged fiscal policy. The earlier return described: A matched parent subsidy helps fund northern depots and weather stations.
 
@@ -4398,6 +4654,12 @@ Short shipping season, imported grain and almost no industrial depth.
 
 Moot custodians preserve histories and ritual knowledge by apprenticeship; practical weather expertise is not automatically psychic.
 
+### Year 68 developments
+
+21/08/0068 AC43; recorded 11/10/0068 AC43. Norrak and Iskel seasonal moots renewed refuge and pilotage obligations and shared scarce radio batteries through visiting traders. Existing rescue boats were repaired. Vardol obtained no territorial concession, and the tiny local force gained neither aircraft nor armour.
+
+Industry and service changes above are narrower than a full step on the 1–5 national capability scale. Established ratings remain applicable. [Inventory reconciliation](WORLD-YEAR68.md).
+
 Table and hospitality. Seasonal travel and reciprocal refuge duties shape storage and hospitality. Fish broth, preserved meat and coarse grain cakes. Slow-cooked herd meat with roots and berries. Hot herb infusions and occasional imported ale. Stored food is carefully accounted for because rescue hospitality and winter survival draw on the same reserves.
 
 | Measure | Estimate |
@@ -4437,7 +4699,7 @@ Table and hospitality. Seasonal travel and reciprocal refuge duties shape storag
 
 ### Treasury and annual budget
 
-11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; ordinary Year 68 programmes are within these existing spending envelopes.
 
 Projected deficit under unchanged fiscal policy. The earlier return described: Small harbour loans supplement refuge services; distributed stores are excluded from cash reserves.
 
