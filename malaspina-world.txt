@@ -1,5 +1,5 @@
 DATED PLANETARY REFERENCE — census 27/08/0067 AC43; predeparture descriptive checkpoint 21/10/0067 AC43.
-Character observations in this reference describe that earlier checkpoint. For the current day-355 palace scene, research and accounts, read CURRENT-CONTINUITY.md; population-current.json supplies the 11/10/0068 projection. National annual forecasts remain Year 67, treasury stocks 21/10/0067.
+Character observations in this reference describe that earlier checkpoint. For the current day-355 palace scene, research and accounts, read CURRENT-CONTINUITY.md; population-current.json supplies the 11/10/0068 projection. For current national and settlement estimates use national-current.json, world-current.json and LIVING-WORLD-REFERENCE.md. The older prose below is a preserved dated reference.
 
 Malaspina is an isolated, Terra-like human world of ancient industrial cities, fortified aristocratic estates and immense wildernesses, appropriated as an alien hunting preserve. Its system lies in Imperium Nihilus, beyond the Great Rift. Its temperate seas, fertile soils and varied climates once offered favourable conditions for settlement. Engineered wildlife and recurring xenos interventions now make life outside defended districts dangerous. Human civilisation endures through industry, collective defence and guarded traditions of the older arts.
 

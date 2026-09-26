@@ -8,18 +8,18 @@ The three colonies have local populations, older institutions and contested land
 
 ## Regional register
 
-| Region | Government | Census residents | Charted harbours |
+| Region | Government | Estimated residents · 11/10/0068 | Charted harbours |
 |---|---|---:|---|
-| Varessan Sea League | Self-governing | 1,800,000 | Ardessa, Velisar |
-| Talascan Charter Islands | Dependency of Rovessara | 1,100,000 | Talasca, Rovaro |
-| Nemerai Crown | Self-governing | 3,200,000 | Nemer, Essara |
-| Ordelune Overseas Districts | Dependency of Ostrevain | 1,000,000 | Ordelune, Sorevain |
-| Skeldran Hearth Confederacy | Self-governing | 450,000 | Skeldra, Heskar |
-| Merovian Island Republic | Self-governing | 1,600,000 | Merovia, Iveran |
-| Ashalai Reef Covenant | Self-governing | 2,400,000 | Ashala, Nalavai |
-| Kingdom of Istrana | Self-governing | 1,750,000 | Istrana, Serakai |
-| Edrask Governorate | Dependency of Rovengard | 1,200,000 | Edrask, Havren |
-| Norrakai Moots | Self-governing | 120,000 | Norrak, Iskel |
+| Varessan Sea League | Self-governing | 1,808,496 | Ardessa, Velisar |
+| Talascan Charter Islands | Dependency of Rovessara | 1,103,832 | Talasca, Rovaro |
+| Nemerai Crown | Self-governing | 3,219,782 | Nemer, Essara |
+| Ordelune Overseas Districts | Dependency of Ostrevain | 1,004,158 | Ordelune, Sorevain |
+| Skeldran Hearth Confederacy | Self-governing | 450,910 | Skeldra, Heskar |
+| Merovian Island Republic | Self-governing | 1,608,272 | Merovia, Iveran |
+| Ashalai Reef Covenant | Self-governing | 2,416,726 | Ashala, Nalavai |
+| Kingdom of Istrana | Self-governing | 1,759,637 | Istrana, Serakai |
+| Edrask Governorate | Dependency of Rovengard | 1,203,910 | Edrask, Havren |
+| Norrakai Moots | Self-governing | 120,162 | Norrak, Iskel |
 
 ## Varessan Sea League
 
@@ -84,5 +84,5 @@ Charted centres: Norrak, Iskel; inland market Torvik. Other villages, customary 
 ## Census coverage and chronology
 
 The corrected census of 27/08/0067 AC43 is **1,223,820,000** people across **43 disjoint geographic returns**. The ten newly described chains add **14,620,000** previously omitted residents. This is a correction to coverage, not an event adding millions of people during the story. Existing homeland returns remain intact. Cities are subsets; rural and uncharted island residents fill each region’s remaining total. Colonial residents and locally booked resources are excluded from the parent homeland return; visiting parent forces remain in their original return.
-The old 35-day population projection remains a clearly scoped historical estimate for the earlier 33 groups. It is not the corrected whole-world total or the latest scene. No additional story time has elapsed. A new full-coverage projection is dated 21/10/0067 AC43 and uses the 27/08/0067 AC43 census over the actual 55 elapsed days; no interval is charged twice.
+The old 35-day population projection remains a clearly scoped historical estimate for the earlier 33 groups. It is not the corrected whole-world total or the latest scene. No additional story time has elapsed. The current full-coverage projection is dated 11/10/0068 AC43 and uses 410 elapsed days from the census of 27/08/0067; the earlier 55-day estimate is historical. The regional populations above are current projections; full national and settlement estimates are in world-current.json, national-current.json and SETTLEMENT-REGISTER.md. No interval is charged twice.
 Original mainland borders, coastal dependencies and route measurements remain. The opening expedition bookings and permissions do not automatically expand to these islands. Additional visits require itinerary, transport and entry arrangements; the one-year expedition is not silently extended.

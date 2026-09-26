@@ -2,7 +2,7 @@
 
 Price review: **11/10/0068 AC43**. Year 67 AC43 reference bands remain the baseline; no blanket new-year inflation is enacted. Apply recorded regional conditions and actual invoices, not automatic repricing.
 
-Version 1.4 · Current local story-year price baseline · Editorial update 23 September 2026
+Version 1.5 · Year 67 price baseline, reviewed 11/10/0068 AC43 · Editorial update 23 September 2026
 
 This reference supplies the baseline for **new economic estimates** on Malaspina. It supplies consistent fictional purchasing power, normal price bands and rules for local variation. It is not a claim about historical Terran prices or a list of transactions already completed in the story. Established purchases remain historical facts; later explicit corrections take precedence.
 
@@ -203,7 +203,7 @@ Choose bread at **0.05/kg** in Serravonne. The same ordinary loaf in Auvrienne a
 
 Quote in lorrat-equivalents for comparison until a local currency/exchange quote is established. Do not imply the lorrat is legal tender everywhere. Record an actual rate, conversion charge and acceptance conditions before spending foreign money. National output measured in **constant-price lorrat-equivalents** is neither current exchange value nor government cash.
 
-Veyrasse's existing national return of **205 lorrat-equivalents per resident per year** is output across workers and dependants, not an individual salary. A skilled annual cash wage of 300 does not directly contradict it. This document does not alter national production, taxes, population or military budgets.
+Veyrasse's census-baseline national return of **205 lorrat-equivalents per resident per year** is output across workers and dependants, not an individual salary. A skilled annual cash wage of 300 does not directly contradict it. Current projected production, public budgets and per-person output are supplied by national-current.json. LIVING-WORLD-REFERENCE.md records the elapsed-time method; this price reference does not itself reprice completed transactions.
 
 ## Using the reference
 

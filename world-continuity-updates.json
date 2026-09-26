@@ -1,0 +1,20 @@
+{
+  "revision": 66,
+  "basis": "Current continuity through exact exchange 543. These replace dated descriptions in the current atlas only; historical source returns remain preserved.",
+  "changes": [
+    {
+      "effective_date": "11/10/0068 AC43",
+      "collection": "sites",
+      "id": "serravonne",
+      "old": "His parents now reside at the 56-hectare Orsival estate nearby, Galahad has returned to his Collegium room in Auvrienne to complete expedition preparations.",
+      "new": "His parents reside at the 56-hectare Orsival estate nearby. Galahad has returned from the completed expedition to Auvrienne and plans a week at the estate; he has not yet travelled home. His current lodging is in new ground-floor Collegium quarters."
+    },
+    {
+      "effective_date": "11/10/0068 AC43",
+      "collection": "sites",
+      "id": "auvrienne",
+      "old": "Institutional and professional connections support his expanding research.",
+      "new": "Institutional and professional connections support his expanding research. After completing the expedition he returned to new ground-floor Collegium quarters; official reports are inventoried and copying for the Chancery is underway. In the palace he has accepted the Margrave's technical commission. The standing Royal Advisor appointment remains subject to later review."
+    }
+  ]
+}

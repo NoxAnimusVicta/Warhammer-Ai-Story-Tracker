@@ -4,7 +4,7 @@ Current story date: **11/10/0068 AC43** (day/month/year after Culling 43). See [
 
 A read-only companion to the continuing campaign.
 
-The planetary atlas includes a [national staff register](NATIONAL-REGISTER.md), with military, economic and industrial comparisons. Its editable numerical source is [national-register.json](national-register.json). Divided geographic returns remain separate from unified states; the accompanying definitions explain the units and scope.
+The planetary atlas includes a [national staff register](NATIONAL-REGISTER.md), with military, economic and industrial comparisons. Current estimates are in [national-current.json](national-current.json); [national-register.json](national-register.json) preserves the dated baseline. Divided geographic returns remain separate from unified states; the accompanying definitions explain the units and scope.
 
 Continuing the story on another account? Start with the [narrator guide](NARRATOR-GUIDE.md) and [current continuity](CURRENT-CONTINUITY.md). The private handover supplied to the player contains concealed notes and editable sources; it must not be uploaded to this public repository.
 
@@ -18,7 +18,7 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the last major culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition — revision 65
+## Current edition — revision 66
 
 The current scene is **Auvrienne palace, 11/10/0068 AC43 evening**, following acceptance of the royal technical commission. The expedition returned on day 355, with ten reserve days unused. The standing **Royal Advisor** appointment remains subject to produced rifle trials and a controlled demonstration. Facility preparation, costed funding and remuneration remain pending. Galahad has not yet departed for his planned week at Serravonne.
 
@@ -46,7 +46,7 @@ The dossier portrait now shows Galahad in his current expedition clothes. The ea
 
 [Balanced expedition route](expedition-route.html) provides a day selector, mapped surface connections and five-to-six-day research stays, recording the completed return on day 355 and ten unused reserve days. [Printable schedule](expedition-route.md). [Coastline reference](COASTLINE-REFERENCE.md) records the refined mainland shores and preserved Eastern Marches survey.
 
-[Local calendar](CALENDAR-REFERENCE.md): 24h8m solar days in Terran standard units, 365 local days per year. These appear beside population and charted islands. National profiles and comparisons now include annual spending by purpose, budget surpluses/deficits, liquid reserves, outstanding debt, interest and financing plans. The full [national register](NATIONAL-REGISTER.md) distinguishes treasury stocks dated 21/10/0067 from Year 67 annual forecasts. No fresh national cash return is invented; this publication adds no further story time.
+[Local calendar](CALENDAR-REFERENCE.md): 24h8m solar days in Terran standard units, 365 local days per year. These appear beside population and charted islands. National profiles and comparisons now include annual spending by purpose, budget surpluses/deficits, liquid reserves, outstanding debt, interest and financing plans. The full [national register](NATIONAL-REGISTER.md) now carries dated current projections with a separate bridge from treasury stocks at 21/10/0067. [All 970 settlement populations](SETTLEMENT-REGISTER.md), national comparisons and atlas records use the same current estimate. [Living-world methods](LIVING-WORLD-REFERENCE.md) distinguishes current estimates, preserved baselines and actual events. Own-source public revenue excludes transfers; total public receipts include them. Neither includes borrowing. No further story time elapses.
 
 [Optional future plot planning — authorial spoilers](COHORT-AND-FRAGMENT-OPTIONS.md) preserves the cohort direction and an unconfirmed Malcador-fragment possibility. It is not part of Galahad’s knowledge or an enacted origin revelation.
 

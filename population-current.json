@@ -1,5 +1,5 @@
 {
-  "revision": 65,
+  "revision": 66,
   "basis": "27/08/0067 AC43 to 11/10/0068 AC43; 410 elapsed local days",
   "elapsed_local_days": 410,
   "census_epoch": "27/08/0067 AC43",
@@ -679,7 +679,7 @@
         "revision": 42,
         "basis": "35 local days after the dated census; 365-day accounting year, not a defined month calendar",
         "elapsed_local_days": 35,
-        "census_epoch": "Ten months and eleven days after Collegium enrolment \u2014 evening",
+        "census_epoch": "Ten months and eleven days after Collegium enrolment — evening",
         "estimate_epoch": "Expedition approval; four weeks after petition",
         "census_population": 1209200000,
         "estimated_population": 1209597666,
@@ -854,5 +854,10 @@
       },
       "estimated_population": 1224455080
     }
+  },
+  "detail_sources": {
+    "national": "national-current.json",
+    "settlements": "world-current.json",
+    "method": "LIVING-WORLD-REFERENCE.md"
   }
 }

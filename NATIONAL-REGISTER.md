@@ -1,8 +1,8 @@
 # Malaspina — national staff returns
 
-Return: 27/08/0067 AC43
+Return: 11/10/0068 AC43 — modelled current estimates
 
-Rounded estimates. The numerical source is national-register.json.
+Rounded estimates. The current numerical source is national-current.json; national-register.json preserves the baseline.
 
 ## Valuation
 
@@ -34,7 +34,7 @@ Ossavren and smaller-jurisdiction entries are geographic sums across separate au
 
 ## Updates
 
-Return epoch matches the current census. Annual output trend describes ordinary net capacity change, not guaranteed growth. War, closures, purges, investment, losses and political changes require revised returns.
+Current population and economic projections share the stated estimate date. Baselines remain preserved. Recorded losses, investments or migration require explicit event adjustments; projections must never be used as a new baseline without a dated reconciliation.
 
 ## Fiscal
 
@@ -46,11 +46,23 @@ Returns consolidate public authorities within each geographic group, excluding i
 
 ## Fiscal_Updates
 
-Budget plans are not transactions already completed. On later story dates, record actual elapsed receipts, spending, borrowing, principal payments and changes in reserves once; never add an entire annual surplus or deficit automatically. Reforecast after policy, investment, war or disruption. Keep nominal values and the valuation baseline explicit. The present clarification changes no personal or expedition account.
+Elapsed treasury movement is explicitly estimated from the preserved financing plan, separately from newly projected annual run-rates. These are not confirmed transactions. Replace estimates with reconciled accounts when available; do not add a second full annual budget movement. Personal, estate and expedition ledgers remain unchanged.
+
+## Dating
+
+Population and economic estimates: 11/10/0068 AC43. Preserved census: 27/08/0067 AC43. Production follows each recorded annual output trend at constant Year 67 prices. Military holdings and technology ratings remain the latest recorded baseline, not invented purchases or discoveries.
+
+## Receipts
+
+Own-source public revenue comprises taxes, customs, fees and net public-enterprise income. Total public receipts add transfers received from other governments. Borrowing is financing, not revenue or receipts; reserves are a stock, not annual income.
+
+## Projection
+
+Treasury stocks are estimates carried from 21/10/0067 using the recorded financing plan pro rata, not audited transactions. Current annual budgets are forward run-rates; do not book them again into these stocks. See LIVING-WORLD-REFERENCE.md for the complete bridge and assumptions.
 
 ## Veldrassen
 
-National return. Population: 161,900,000.
+National return. Population: 162,900,835.
 
 Veldrassen is a composite monarchy whose mountain court at Cavrelisse presides over provinces ranging from tropical cultivation to cold industrial uplands. Mondessore's locomotive works and a large railway economy give the crown considerable military weight; provincial estates nevertheless control much of the revenue and recruitment on which it depends. The lowlands sell food and forest products uphill, while machinery and government contracts travel back down. Coal exports and heavy engineering sustain foreign influence. Court ceremony presents this diversity as unity, but extraordinary levies still require bargaining. Cervaud is a neighbouring buffer and customer, not a province awaiting effortless annexation. Valdorelle provides a charted coastal gateway, with defended access to Latosane. A provincial coastal dependency with fishing villages and navigation stations supplied from Valdorelle.
 
@@ -64,19 +76,19 @@ Table and hospitality. A composite crown includes humid lowlands, high terraces 
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 39,665.5 |
-| output per person lorrats | 245 |
-| revenue million lorrats | 8,329.8 |
-| defence million lorrats | 4,363.2 |
-| defence share percent | 11 |
+| output million lorrats | 40,155.945 |
+| output per person lorrats | 246.505 |
+| revenue million lorrats | 8,432.794 |
+| defence million lorrats | 4,417.149 |
+| defence share percent | 11.0 |
 | output trend percent | 1.1 |
-| steel thousand tonnes | 36,900 |
-| food coverage percent | 103 |
-| fuel coverage percent | 190 |
-| fuel demand thousand tonnes coal equivalent | 283,325.0 |
-| fuel supply thousand tonnes coal equivalent | 538,317.5 |
-| food demand thousand tonnes grain equivalent | 64,760.0 |
-| food supply thousand tonnes grain equivalent | 66,702.8 |
+| steel thousand tonnes | 37,356.251 |
+| food coverage percent | 103.633 |
+| fuel coverage percent | 190.0 |
+| fuel demand thousand tonnes coal equivalent | 286,828.177 |
+| fuel supply thousand tonnes coal equivalent | 544,973.535 |
+| food demand thousand tonnes grain equivalent | 65,160.334 |
+| food supply thousand tonnes grain equivalent | 67,527.548 |
 | standing | 1,742,000 |
 | additional reserves | 5,025,000 |
 | field sustainable | 592,000 |
@@ -99,59 +111,61 @@ Table and hospitality. A composite crown includes humid lowlands, high terraces 
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Railway renewal and arsenals require modest borrowing; provincial balances are not all available to the crown.
+Projected deficit under unchanged fiscal policy. The earlier return described: Railway renewal and arsenals require modest borrowing; provincial balances are not all available to the crown.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 8,329.800 |
+| revenue | 8,432.794 |
 | transfer income | 0.000 |
-| total receipts | 8,329.800 |
-| total expenditure | 8,621.343 |
-| balance | -291.543 |
+| total receipts | 8,432.794 |
+| total expenditure | 8,733.054 |
+| balance | -300.260 |
 | liquid reserves | 1,832.556 |
-| gross debt | 13,744.170 |
-| net debt | 11,911.614 |
-| interest | 618.488 |
+| gross debt | 14,027.726 |
+| net debt | 12,195.170 |
+| interest | 631.248 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 4,363.200 |
-| Civil administration, courts, policing & diplomacy | 800.724 |
-| Transport, public works & utilities | 1,310.276 |
-| Health, relief & civilian pensions | 582.345 |
-| Education, science & archives | 436.759 |
-| Agriculture, water management & forestry | 509.551 |
-| Public-debt interest | 618.488 |
+| Defence | 4,417.149 |
+| Civil administration, courts, policing & diplomacy | 810.625 |
+| Transport, public works & utilities | 1,326.477 |
+| Health, relief & civilian pensions | 589.545 |
+| Education, science & archives | 442.159 |
+| Agriculture, water management & forestry | 515.851 |
+| Public-debt interest | 631.248 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 1,396.224 |
-| Provisions, fuel, transport & training | 1,090.800 |
-| Arsenal, equipment & base maintenance | 959.904 |
-| New equipment, ammunition & military research | 698.112 |
-| Fortifications, coastal works & shelters | 218.160 |
+| Service pay, allowances & military pensions | 1,413.488 |
+| Provisions, fuel, transport & training | 1,104.287 |
+| Arsenal, equipment & base maintenance | 971.773 |
+| New equipment, ammunition & military research | 706.744 |
+| Fortifications, coastal works & shelters | 220.857 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 291.543 |
+| new net borrowing | 300.260 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 4.5%. Balance / output: -0.735%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 13744.17; opening liquid reserves 1832.556. Estimated period financing (million L-eq): new net borrowing 283.556, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 4.5%. Balance / output: -0.748%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Ostrevain
 
-National return. Population: 116,200,000.
+National return. Population: 117,140,530.
 
 Ostrevain is an agricultural monarchy attempting to turn crop surpluses and a large population into industrial military strength. Orsevigne holds the royal administration; Tessarone concentrates arsenal work, supported by plantation and farming railways. Landed families retain influence over recruitment and produce, while royal commissioners favour factories and central procurement. Its armed forces can draw many soldiers, but transport and imported precision equipment constrain their deployment. Cervaud offers a market and a political buffer. In daily life the contrast is between estate authority, regimented industrial wards and expanding commercial towns, rather than between a uniformly modern capital and an empty countryside. Salterivo provides a charted coastal gateway, with defended access to Yssois. Royal coastal dependency with a governor, local fishing communities and an agricultural resupply station. Charted island harbours: Villessia.
 
@@ -165,19 +179,19 @@ Table and hospitality. Cereal estates, cattle districts and newly industrial tow
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 19,754.0 |
-| output per person lorrats | 170 |
-| revenue million lorrats | 4,148.3 |
-| defence million lorrats | 2,370.5 |
-| defence share percent | 12 |
+| output million lorrats | 19,887.186 |
+| output per person lorrats | 169.772 |
+| revenue million lorrats | 4,176.269 |
+| defence million lorrats | 2,386.482 |
+| defence share percent | 12.0 |
 | output trend percent | 0.6000000000000001 |
-| steel thousand tonnes | 14,520 |
-| food coverage percent | 124 |
-| fuel coverage percent | 74 |
-| fuel demand thousand tonnes coal equivalent | 122,010.0 |
-| fuel supply thousand tonnes coal equivalent | 90,287.4 |
-| food demand thousand tonnes grain equivalent | 46,480.0 |
-| food supply thousand tonnes grain equivalent | 57,635.2 |
+| steel thousand tonnes | 14,617.897 |
+| food coverage percent | 123.834 |
+| fuel coverage percent | 74.0 |
+| fuel demand thousand tonnes coal equivalent | 122,832.618 |
+| fuel supply thousand tonnes coal equivalent | 90,896.137 |
+| food demand thousand tonnes grain equivalent | 46,856.212 |
+| food supply thousand tonnes grain equivalent | 58,023.789 |
 | standing | 1,515,000 |
 | additional reserves | 3,881,000 |
 | field sustainable | 485,000 |
@@ -200,59 +214,61 @@ Table and hospitality. Cereal estates, cattle districts and newly industrial tow
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Arsenal commitments and grain transport exceed ordinary receipts; domestic bonds finance the gap.
+Projected deficit under unchanged fiscal policy. The earlier return described: Arsenal commitments and grain transport exceed ordinary receipts; domestic bonds finance the gap.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 4,148.300 |
+| revenue | 4,176.269 |
 | transfer income | 0.000 |
-| total receipts | 4,148.300 |
-| total expenditure | 4,417.940 |
-| balance | -269.640 |
+| total receipts | 4,176.269 |
+| total expenditure | 4,458.164 |
+| balance | -281.895 |
 | liquid reserves | 497.796 |
-| gross debt | 7,881.770 |
-| net debt | 7,383.974 |
-| interest | 394.089 |
+| gross debt | 8,144.023 |
+| net debt | 7,646.227 |
+| interest | 407.201 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 2,370.500 |
-| Civil administration, courts, policing & diplomacy | 379.696 |
-| Transport, public works & utilities | 396.204 |
-| Health, relief & civilian pensions | 280.645 |
-| Education, science & archives | 165.085 |
-| Agriculture, water management & forestry | 429.221 |
-| Public-debt interest | 394.089 |
+| Defence | 2,386.482 |
+| Civil administration, courts, policing & diplomacy | 382.256 |
+| Transport, public works & utilities | 398.875 |
+| Health, relief & civilian pensions | 282.537 |
+| Education, science & archives | 166.198 |
+| Agriculture, water management & forestry | 432.115 |
+| Public-debt interest | 407.201 |
 | Transfers to other public returns | 2.500 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 948.200 |
-| Provisions, fuel, transport & training | 592.625 |
-| Arsenal, equipment & base maintenance | 402.985 |
-| New equipment, ammunition & military research | 284.460 |
-| Fortifications, coastal works & shelters | 142.230 |
+| Service pay, allowances & military pensions | 954.592 |
+| Provisions, fuel, transport & training | 596.621 |
+| Arsenal, equipment & base maintenance | 405.702 |
+| New equipment, ammunition & military research | 286.378 |
+| Fortifications, coastal works & shelters | 143.189 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 269.640 |
+| new net borrowing | 281.895 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 5.0%. Balance / output: -1.365%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 7881.77; opening liquid reserves 497.796. Estimated period financing (million L-eq): new net borrowing 262.253, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 5.0%. Balance / output: -1.417%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Rovessara
 
-National return. Population: 70,600,000.
+National return. Population: 70,901,481.
 
 Rovessara is a merchant republic governed through commercial councils. Bellacenne houses finance and administration, Avellori supplies precision instruments and electrical apparatus, and Pellavore connects both to overseas buyers. Temperate farming districts, seasonal lowlands and a dry interior give its domestic economy several distinct faces. Banks and shipping houses can finance projects far beyond the republic, but they cannot manufacture uninterrupted sea lanes or unlimited raw materials. Its strength lies in skilled production, credit and trade rather than the largest army. Inland towns consequently matter as food suppliers and customers, not merely as lesser copies of its fashionable port cities. Republican overseas districts administered through elected harbour councils and Rovessaran customs officers. Charted island harbours: Marcavisse.
 
@@ -266,19 +282,19 @@ Table and hospitality. Maritime commerce joins a mild western coast to upland ch
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 22,239.0 |
-| output per person lorrats | 315 |
-| revenue million lorrats | 4,003.0 |
-| defence million lorrats | 2,001.5 |
-| defence share percent | 9 |
+| output million lorrats | 22,488.961 |
+| output per person lorrats | 317.186 |
+| revenue million lorrats | 4,047.993 |
+| defence million lorrats | 2,023.996 |
+| defence share percent | 9.0 |
 | output trend percent | 1.0 |
-| steel thousand tonnes | 9,350 |
-| food coverage percent | 76 |
-| fuel coverage percent | 46 |
-| fuel demand thousand tonnes coal equivalent | 123,550.0 |
-| fuel supply thousand tonnes coal equivalent | 56,833.0 |
-| food demand thousand tonnes grain equivalent | 28,240.0 |
-| food supply thousand tonnes grain equivalent | 21,462.4 |
+| steel thousand tonnes | 9,455.092 |
+| food coverage percent | 76.527 |
+| fuel coverage percent | 46.0 |
+| fuel demand thousand tonnes coal equivalent | 124,938.675 |
+| fuel supply thousand tonnes coal equivalent | 57,471.79 |
+| food demand thousand tonnes grain equivalent | 28,360.592 |
+| food supply thousand tonnes grain equivalent | 21,703.633 |
 | standing | 487,000 |
 | additional reserves | 1,546,000 |
 | field sustainable | 156,000 |
@@ -301,59 +317,61 @@ Table and hospitality. Maritime commerce joins a mild western coast to upland ch
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Commercial receipts support a small surplus, liquid buffers and gradual debt retirement.
+Projected surplus under unchanged fiscal policy. The earlier return described: Commercial receipts support a small surplus, liquid buffers and gradual debt retirement.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 4,003.000 |
+| revenue | 4,047.993 |
 | transfer income | 0.000 |
-| total receipts | 4,003.000 |
-| total expenditure | 3,922.940 |
-| balance | 80.060 |
-| liquid reserves | 1,521.140 |
-| gross debt | 4,603.450 |
-| net debt | 3,082.310 |
-| interest | 184.138 |
+| total receipts | 4,047.993 |
+| total expenditure | 3,963.076 |
+| balance | 84.917 |
+| liquid reserves | 1,552.287 |
+| gross debt | 4,556.730 |
+| net debt | 3,004.443 |
+| interest | 182.269 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 2,001.500 |
-| Civil administration, courts, policing & diplomacy | 381.876 |
-| Transport, public works & utilities | 416.592 |
-| Health, relief & civilian pensions | 329.802 |
-| Education, science & archives | 399.234 |
-| Agriculture, water management & forestry | 208.298 |
-| Public-debt interest | 184.138 |
+| Defence | 2,023.996 |
+| Civil administration, courts, policing & diplomacy | 386.168 |
+| Transport, public works & utilities | 421.274 |
+| Health, relief & civilian pensions | 333.509 |
+| Education, science & archives | 403.721 |
+| Agriculture, water management & forestry | 210.639 |
+| Public-debt interest | 182.269 |
 | Transfers to other public returns | 1.500 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 640.480 |
-| Provisions, fuel, transport & training | 500.375 |
-| Arsenal, equipment & base maintenance | 440.330 |
-| New equipment, ammunition & military research | 320.240 |
-| Fortifications, coastal works & shelters | 100.075 |
+| Service pay, allowances & military pensions | 647.679 |
+| Provisions, fuel, transport & training | 505.999 |
+| Arsenal, equipment & base maintenance | 445.279 |
+| New equipment, ammunition & military research | 323.839 |
+| Fortifications, coastal works & shelters | 101.200 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
 | new net borrowing | 0.000 |
-| net principal repayment | 48.036 |
-| reserve increase | 32.024 |
+| net principal repayment | 50.950 |
+| reserve increase | 33.967 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 4.0%. Balance / output: 0.36%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 4603.45; opening liquid reserves 1521.14. Estimated period financing (million L-eq): new net borrowing 0.0, net principal repayment 46.72, reserve increase 31.147, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 4.0%. Balance / output: 0.378%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Brannervaux
 
-National return. Population: 47,400,000.
+National return. Population: 47,741,000.
 
 Brannervaux is a federation of basin cities, landed districts and water authorities. Rivessole hosts common government; Molessac's pumping and engineering works turn the management of scarce or badly timed water into a major export industry. Productive cultivation coexists with dry rain-shadow districts dependent on imported food and controlled supplies. Members cooperate over transport, maintenance and defence while retaining powers that can delay a common decision. Trade with Veldrassen's factories and neighbouring agricultural states is extensive. The federation is confined to its own territories: neither its river institutions nor its name imply rule over Otranto as a whole.
 
@@ -367,19 +385,19 @@ Table and hospitality. Unequal river cities share barges, mill customs and perio
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 9,006.0 |
-| output per person lorrats | 190 |
-| revenue million lorrats | 1,621.1 |
-| defence million lorrats | 720.5 |
-| defence share percent | 8 |
+| output million lorrats | 9,086.97 |
+| output per person lorrats | 190.339 |
+| revenue million lorrats | 1,635.675 |
+| defence million lorrats | 726.978 |
+| defence share percent | 8.0 |
 | output trend percent | 0.8 |
-| steel thousand tonnes | 3,920 |
-| food coverage percent | 119 |
-| fuel coverage percent | 71 |
-| fuel demand thousand tonnes coal equivalent | 66,360.0 |
-| fuel supply thousand tonnes coal equivalent | 47,115.6 |
-| food demand thousand tonnes grain equivalent | 18,960.0 |
-| food supply thousand tonnes grain equivalent | 22,562.4 |
+| steel thousand tonnes | 3,955.244 |
+| food coverage percent | 119.212 |
+| fuel coverage percent | 71.0 |
+| fuel demand thousand tonnes coal equivalent | 66,956.624 |
+| fuel supply thousand tonnes coal equivalent | 47,539.203 |
+| food demand thousand tonnes grain equivalent | 19,096.4 |
+| food supply thousand tonnes grain equivalent | 22,765.252 |
 | standing | 361,000 |
 | additional reserves | 1,012,000 |
 | field sustainable | 94,000 |
@@ -402,59 +420,61 @@ Table and hospitality. Unequal river cities share barges, mill customs and perio
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Lock and irrigation renewal produces a small capital deficit rather than a collapse in ordinary receipts.
+Projected deficit under unchanged fiscal policy. The earlier return described: Lock and irrigation renewal produces a small capital deficit rather than a collapse in ordinary receipts.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 1,621.100 |
+| revenue | 1,635.675 |
 | transfer income | 0.000 |
-| total receipts | 1,621.100 |
-| total expenditure | 1,645.416 |
-| balance | -24.316 |
+| total receipts | 1,635.675 |
+| total expenditure | 1,660.716 |
+| balance | -25.041 |
 | liquid reserves | 389.064 |
-| gross debt | 1,377.935 |
-| net debt | 988.871 |
-| interest | 62.007 |
+| gross debt | 1,401.585 |
+| net debt | 1,012.521 |
+| interest | 63.071 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 720.500 |
-| Civil administration, courts, policing & diplomacy | 198.469 |
-| Transport, public works & utilities | 207.098 |
-| Health, relief & civilian pensions | 146.695 |
-| Education, science & archives | 86.291 |
-| Agriculture, water management & forestry | 224.356 |
-| Public-debt interest | 62.007 |
+| Defence | 726.978 |
+| Civil administration, courts, policing & diplomacy | 200.253 |
+| Transport, public works & utilities | 208.960 |
+| Health, relief & civilian pensions | 148.014 |
+| Education, science & archives | 87.067 |
+| Agriculture, water management & forestry | 226.373 |
+| Public-debt interest | 63.071 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 288.200 |
-| Provisions, fuel, transport & training | 180.125 |
-| Arsenal, equipment & base maintenance | 122.485 |
-| New equipment, ammunition & military research | 86.460 |
-| Fortifications, coastal works & shelters | 43.230 |
+| Service pay, allowances & military pensions | 290.792 |
+| Provisions, fuel, transport & training | 181.744 |
+| Arsenal, equipment & base maintenance | 123.586 |
+| New equipment, ammunition & military research | 87.237 |
+| Fortifications, coastal works & shelters | 43.619 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 24.316 |
+| new net borrowing | 25.041 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 4.5%. Balance / output: -0.27%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 1377.935; opening liquid reserves 389.064. Estimated period financing (million L-eq): new net borrowing 23.65, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 4.5%. Balance / output: -0.276%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Cervaud
 
-National return. Population: 31,500,000.
+National return. Population: 31,549,545.
 
 Cervaud is a hereditary duchy whose court and officer institutions occupy Charvessant. Vezarolle's workshops support an army unusually important to public life, but cultivated lowlands, forest produce and upland farming sustain the civilian population. The duke bargains with larger Veldrassen and Ostrevain rather than enjoying complete strategic independence. Their credit and arms help preserve the frontier while giving foreign purchasers influence. Border markets also connect Cervaud with smaller neighbouring authorities. Rank and military service carry prestige, yet merchants, farmers and workshop households have livelihoods extending across the same boundaries that officers are expected to defend.
 
@@ -468,19 +488,19 @@ Table and hospitality. Border garrisons borrow cooking from both larger patrons,
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 4,725.0 |
-| output per person lorrats | 150 |
-| revenue million lorrats | 1,181.2 |
-| defence million lorrats | 661.5 |
-| defence share percent | 14 |
+| output million lorrats | 4,762.169 |
+| output per person lorrats | 150.943 |
+| revenue million lorrats | 1,190.492 |
+| defence million lorrats | 666.704 |
+| defence share percent | 14.0 |
 | output trend percent | 0.7000000000000001 |
-| steel thousand tonnes | 2,790 |
-| food coverage percent | 98 |
-| fuel coverage percent | 48 |
-| fuel demand thousand tonnes coal equivalent | 33,075.0 |
-| fuel supply thousand tonnes coal equivalent | 15,876.0 |
-| food demand thousand tonnes grain equivalent | 12,600.0 |
-| food supply thousand tonnes grain equivalent | 12,348.0 |
+| steel thousand tonnes | 2,811.947 |
+| food coverage percent | 98.616 |
+| fuel coverage percent | 48.0 |
+| fuel demand thousand tonnes coal equivalent | 33,335.181 |
+| fuel supply thousand tonnes coal equivalent | 16,000.887 |
+| food demand thousand tonnes grain equivalent | 12,619.818 |
+| food supply thousand tonnes grain equivalent | 12,445.134 |
 | standing | 448,000 |
 | additional reserves | 1,003,000 |
 | field sustainable | 175,000 |
@@ -503,59 +523,61 @@ Table and hospitality. Border garrisons borrow cooking from both larger patrons,
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Frontier obligations and patron-backed credit leave limited cash headroom.
+Projected deficit under unchanged fiscal policy. The earlier return described: Frontier obligations and patron-backed credit leave limited cash headroom.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 1,181.200 |
+| revenue | 1,190.492 |
 | transfer income | 0.000 |
-| total receipts | 1,181.200 |
-| total expenditure | 1,275.696 |
-| balance | -94.496 |
+| total receipts | 1,190.492 |
+| total expenditure | 1,290.298 |
+| balance | -99.806 |
 | liquid reserves | 118.120 |
-| gross debt | 2,008.040 |
-| net debt | 1,889.920 |
-| interest | 120.482 |
+| gross debt | 2,099.947 |
+| net debt | 1,981.827 |
+| interest | 125.997 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 661.500 |
-| Civil administration, courts, policing & diplomacy | 172.800 |
-| Transport, public works & utilities | 108.617 |
-| Health, relief & civilian pensions | 88.869 |
-| Education, science & archives | 49.371 |
-| Agriculture, water management & forestry | 74.057 |
-| Public-debt interest | 120.482 |
+| Defence | 666.704 |
+| Civil administration, courts, policing & diplomacy | 174.159 |
+| Transport, public works & utilities | 109.471 |
+| Health, relief & civilian pensions | 89.568 |
+| Education, science & archives | 49.759 |
+| Agriculture, water management & forestry | 74.640 |
+| Public-debt interest | 125.997 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 264.600 |
-| Provisions, fuel, transport & training | 165.375 |
-| Arsenal, equipment & base maintenance | 112.455 |
-| New equipment, ammunition & military research | 79.380 |
-| Fortifications, coastal works & shelters | 39.690 |
+| Service pay, allowances & military pensions | 266.682 |
+| Provisions, fuel, transport & training | 166.676 |
+| Arsenal, equipment & base maintenance | 113.340 |
+| New equipment, ammunition & military research | 80.004 |
+| Fortifications, coastal works & shelters | 40.002 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 94.496 |
+| new net borrowing | 99.806 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 6.0%. Balance / output: -2.0%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 2008.04; opening liquid reserves 118.12. Estimated period financing (million L-eq): new net borrowing 91.907, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 6.0%. Balance / output: -2.096%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Veylac
 
-National return. Population: 29,900,000.
+National return. Population: 29,973,908.
 
 Veylac is an industrial republic centred on Alescogne's councils, Bellorante's machine-tool works and Rionvesse's ocean trade. Municipal and commercial representation gives organised towns influence, while labour's place in government remains contested. Temperate farming districts provision cold upland factories; dry interior towns specialise in transport and practical manufacturing. Skilled metallurgy gives the republic valuable exports and military equipment, but imported food and fuel remain strategic dependencies. Ossavren's divided neighbours create both markets and frontier risks. The republic's cities are linked by production and commerce, without sharing one uniform climate, social hierarchy or relationship with factory employers. Veylac customs and lighthouse districts protecting its southern approaches. Charted island harbours: Cavresset.
 
@@ -569,19 +591,19 @@ Table and hospitality. Industrial towns link cooler uplands to river farms. Work
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 7,923.5 |
-| output per person lorrats | 265 |
-| revenue million lorrats | 1,663.9 |
-| defence million lorrats | 871.6 |
-| defence share percent | 11 |
+| output million lorrats | 8,021.47 |
+| output per person lorrats | 267.615 |
+| revenue million lorrats | 1,684.473 |
+| defence million lorrats | 882.377 |
+| defence share percent | 11.0 |
 | output trend percent | 1.1 |
-| steel thousand tonnes | 7,390 |
-| food coverage percent | 84 |
-| fuel coverage percent | 73 |
-| fuel demand thousand tonnes coal equivalent | 41,860.0 |
-| fuel supply thousand tonnes coal equivalent | 30,557.8 |
-| food demand thousand tonnes grain equivalent | 11,960.0 |
-| food supply thousand tonnes grain equivalent | 10,046.4 |
+| steel thousand tonnes | 7,481.374 |
+| food coverage percent | 84.829 |
+| fuel coverage percent | 73.0 |
+| fuel demand thousand tonnes coal equivalent | 42,377.579 |
+| fuel supply thousand tonnes coal equivalent | 30,935.632 |
+| food demand thousand tonnes grain equivalent | 11,989.563 |
+| food supply thousand tonnes grain equivalent | 10,170.619 |
 | standing | 329,000 |
 | additional reserves | 793,000 |
 | field sustainable | 115,000 |
@@ -604,59 +626,61 @@ Table and hospitality. Industrial towns link cooler uplands to river farms. Work
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Factory infrastructure and frontier protection require continuing borrowing.
+Projected deficit under unchanged fiscal policy. The earlier return described: Factory infrastructure and frontier protection require continuing borrowing.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 1,663.900 |
+| revenue | 1,684.473 |
 | transfer income | 0.000 |
-| total receipts | 1,663.900 |
-| total expenditure | 1,730.456 |
-| balance | -66.556 |
+| total receipts | 1,684.473 |
+| total expenditure | 1,753.650 |
+| balance | -69.177 |
 | liquid reserves | 332.780 |
-| gross debt | 2,329.460 |
-| net debt | 1,996.680 |
-| interest | 116.473 |
+| gross debt | 2,394.193 |
+| net debt | 2,061.413 |
+| interest | 119.710 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 871.600 |
-| Civil administration, courts, policing & diplomacy | 163.324 |
-| Transport, public works & utilities | 267.258 |
-| Health, relief & civilian pensions | 118.781 |
-| Education, science & archives | 89.086 |
-| Agriculture, water management & forestry | 103.934 |
-| Public-debt interest | 116.473 |
+| Defence | 882.377 |
+| Civil administration, courts, policing & diplomacy | 165.343 |
+| Transport, public works & utilities | 270.563 |
+| Health, relief & civilian pensions | 120.250 |
+| Education, science & archives | 90.188 |
+| Agriculture, water management & forestry | 105.219 |
+| Public-debt interest | 119.710 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 348.640 |
-| Provisions, fuel, transport & training | 217.900 |
-| Arsenal, equipment & base maintenance | 148.172 |
-| New equipment, ammunition & military research | 104.592 |
-| Fortifications, coastal works & shelters | 52.296 |
+| Service pay, allowances & military pensions | 352.951 |
+| Provisions, fuel, transport & training | 220.594 |
+| Arsenal, equipment & base maintenance | 150.004 |
+| New equipment, ammunition & military research | 105.885 |
+| Fortifications, coastal works & shelters | 52.943 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 66.556 |
+| new net borrowing | 69.177 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 5.0%. Balance / output: -0.84%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 2329.46; opening liquid reserves 332.78. Estimated period financing (million L-eq): new net borrowing 64.733, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 5.0%. Balance / output: -0.862%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Ossavren successor territories
 
-Combined geographic return; separate authorities. Population: 167,300,000.
+Combined geographic return; separate authorities. Population: 167,074,518.
 
 Ossavren denotes the territories of a broken crown, not a functioning nation with one army. Ossendrienne remains a vast former capital, while provincial commands, rival courts and autonomous commercial cities control their own taxation and troops. Tressavio trades through Veylac; other districts face Ostrevain or the Seravelle markets. Coal and petroleum resources give competing rulers valuable assets, but tolls, incompatible arrangements and local fighting divide their use. Shared food, family ties and railway habits survive the political fracture. Aggregate military and economic figures measure the whole region's resources; no claimant can simply issue orders to that combined total. Neravisse provides a charted coastal gateway, with defended access to Tatogia. A dependency of Neravisse’s municipal charter, not territory governed by a restored Ossavren crown. Charted island harbours: Cavralto.
 
@@ -670,19 +694,19 @@ Table and hospitality. Former royal roads carried recipes across a realm now div
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 22,585.5 |
-| output per person lorrats | 135 |
-| revenue million lorrats | 5,646.4 |
-| defence million lorrats | 2,936.1 |
-| defence share percent | 13 |
+| output million lorrats | 22,534.766 |
+| output per person lorrats | 134.879 |
+| revenue million lorrats | 5,633.717 |
+| defence million lorrats | 2,929.505 |
+| defence share percent | 13.0 |
 | output trend percent | -0.2 |
-| steel thousand tonnes | 24,040 |
-| food coverage percent | 106 |
-| fuel coverage percent | 170 |
-| fuel demand thousand tonnes coal equivalent | 175,665.0 |
-| fuel supply thousand tonnes coal equivalent | 298,630.5 |
-| food demand thousand tonnes grain equivalent | 66,920.0 |
-| food supply thousand tonnes grain equivalent | 70,935.2 |
+| steel thousand tonnes | 23,985.999 |
+| food coverage percent | 105.905 |
+| fuel coverage percent | 170.0 |
+| fuel demand thousand tonnes coal equivalent | 175,270.404 |
+| fuel supply thousand tonnes coal equivalent | 297,959.687 |
+| food demand thousand tonnes grain equivalent | 66,829.807 |
+| food supply thousand tonnes grain equivalent | 70,775.858 |
 | standing | 1,998,000 |
 | additional reserves | 4,539,000 |
 | field sustainable | 460,000 |
@@ -705,59 +729,61 @@ Table and hospitality. Former royal roads carried recipes across a realm now div
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Successor administrations have uneven access to credit; the combined deficit masks local surpluses and shortfalls.
+Projected deficit under unchanged fiscal policy. The earlier return described: Successor administrations have uneven access to credit; the combined deficit masks local surpluses and shortfalls.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 5,646.400 |
+| revenue | 5,633.717 |
 | transfer income | 0.000 |
-| total receipts | 5,646.400 |
-| total expenditure | 6,267.504 |
-| balance | -621.104 |
+| total receipts | 5,633.717 |
+| total expenditure | 6,296.867 |
+| balance | -663.150 |
 | liquid reserves | 451.712 |
-| gross debt | 7,340.320 |
-| net debt | 6,888.608 |
-| interest | 513.822 |
+| gross debt | 7,944.407 |
+| net debt | 7,492.695 |
+| interest | 556.108 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 2,936.100 |
-| Civil administration, courts, policing & diplomacy | 986.154 |
-| Transport, public works & utilities | 619.868 |
-| Health, relief & civilian pensions | 507.165 |
-| Education, science & archives | 281.758 |
-| Agriculture, water management & forestry | 422.637 |
-| Public-debt interest | 513.822 |
+| Defence | 2,929.505 |
+| Civil administration, courts, policing & diplomacy | 983.939 |
+| Transport, public works & utilities | 618.476 |
+| Health, relief & civilian pensions | 506.026 |
+| Education, science & archives | 281.125 |
+| Agriculture, water management & forestry | 421.688 |
+| Public-debt interest | 556.108 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 1,174.440 |
-| Provisions, fuel, transport & training | 734.025 |
-| Arsenal, equipment & base maintenance | 499.137 |
-| New equipment, ammunition & military research | 352.332 |
-| Fortifications, coastal works & shelters | 176.166 |
+| Service pay, allowances & military pensions | 1,171.802 |
+| Provisions, fuel, transport & training | 732.376 |
+| Arsenal, equipment & base maintenance | 498.016 |
+| New equipment, ammunition & military research | 351.541 |
+| Fortifications, coastal works & shelters | 175.770 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 621.104 |
+| new net borrowing | 663.150 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 7.0%. Balance / output: -2.75%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 7340.32; opening liquid reserves 451.712. Estimated period financing (million L-eq): new net borrowing 604.087, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 7.0%. Balance / output: -2.943%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Rovengard
 
-National return. Population: 29,300,000.
+National return. Population: 29,435,001.
 
 Rovengard is Morholt's largest single monarchy, governed from Arvendal and linked to overseas trade through Halsavik. Eslovanne supplies general engineering, while productive southern districts support farming, food processing and timber industries. Cold northern towns depend on transport from those warmer basins. The crown's practical task is to keep provisions and obligations moving between communities separated by difficult country. Varnesk sells specialist machinery; Halskert and Galdresk are connected through local trade and provisioning routes. Large territorial claims and a substantial population therefore do not translate into an army free to abandon domestic roads, stores and defended settlements. Royal island districts with resident councils, coastal patrols and Halsavik supply contracts. Charted island harbours: Veltrund.
 
@@ -771,19 +797,19 @@ Table and hospitality. Sheltered southern valleys support oats, rye, roots and d
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 4,395.0 |
-| output per person lorrats | 150 |
-| revenue million lorrats | 922.9 |
-| defence million lorrats | 439.5 |
-| defence share percent | 10 |
+| output million lorrats | 4,419.692 |
+| output per person lorrats | 150.151 |
+| revenue million lorrats | 928.085 |
+| defence million lorrats | 441.969 |
+| defence share percent | 10.0 |
 | output trend percent | 0.5 |
-| steel thousand tonnes | 2,180 |
-| food coverage percent | 90 |
-| fuel coverage percent | 112 |
-| fuel demand thousand tonnes coal equivalent | 30,765.0 |
-| fuel supply thousand tonnes coal equivalent | 34,456.8 |
-| food demand thousand tonnes grain equivalent | 11,720.0 |
-| food supply thousand tonnes grain equivalent | 10,548.0 |
+| steel thousand tonnes | 2,192.248 |
+| food coverage percent | 90.091 |
+| fuel coverage percent | 112.0 |
+| fuel demand thousand tonnes coal equivalent | 30,937.843 |
+| fuel supply thousand tonnes coal equivalent | 34,650.384 |
+| food demand thousand tonnes grain equivalent | 11,774.0 |
+| food supply thousand tonnes grain equivalent | 10,607.26 |
 | standing | 243,000 |
 | additional reserves | 712,000 |
 | field sustainable | 58,000 |
@@ -806,59 +832,61 @@ Table and hospitality. Sheltered southern valleys support oats, rye, roots and d
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Winter stores and valley access dominate civilian investment; reserves remain dispersed.
+Projected deficit under unchanged fiscal policy. The earlier return described: Winter stores and valley access dominate civilian investment; reserves remain dispersed.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 922.900 |
+| revenue | 928.085 |
 | transfer income | 0.000 |
-| total receipts | 922.900 |
-| total expenditure | 941.358 |
-| balance | -18.458 |
+| total receipts | 928.085 |
+| total expenditure | 947.359 |
+| balance | -19.274 |
 | liquid reserves | 249.183 |
-| gross debt | 599.885 |
-| net debt | 350.702 |
-| interest | 29.994 |
+| gross debt | 617.837 |
+| net debt | 368.654 |
+| interest | 30.892 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 439.500 |
-| Civil administration, courts, policing & diplomacy | 103.150 |
-| Transport, public works & utilities | 168.791 |
-| Health, relief & civilian pensions | 75.018 |
-| Education, science & archives | 56.264 |
-| Agriculture, water management & forestry | 65.641 |
-| Public-debt interest | 29.994 |
+| Defence | 441.969 |
+| Civil administration, courts, policing & diplomacy | 103.730 |
+| Transport, public works & utilities | 169.739 |
+| Health, relief & civilian pensions | 75.439 |
+| Education, science & archives | 56.580 |
+| Agriculture, water management & forestry | 66.010 |
+| Public-debt interest | 30.892 |
 | Transfers to other public returns | 3.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 175.800 |
-| Provisions, fuel, transport & training | 109.875 |
-| Arsenal, equipment & base maintenance | 74.715 |
-| New equipment, ammunition & military research | 52.740 |
-| Fortifications, coastal works & shelters | 26.370 |
+| Service pay, allowances & military pensions | 176.788 |
+| Provisions, fuel, transport & training | 110.492 |
+| Arsenal, equipment & base maintenance | 75.135 |
+| New equipment, ammunition & military research | 53.036 |
+| Fortifications, coastal works & shelters | 26.518 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 18.458 |
+| new net borrowing | 19.274 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 5.0%. Balance / output: -0.42%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 599.885; opening liquid reserves 249.183. Estimated period financing (million L-eq): new net borrowing 17.952, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 5.0%. Balance / output: -0.436%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Varnesk
 
-National return. Population: 19,700,000.
+National return. Population: 19,739,840.
 
 Varnesk is a league of mining councils and industrial proprietors meeting at Corsavik. Norsavia's specialist steel and machinery are valued across Morholt, and southern cultivated towns supply part of the league's food. Cold extraction districts still depend on imported grain and negotiated transport. Commercial relationships with Rovengard and the Haldrevik concessions give its firms influence beyond league borders. Industrial owners and municipal councils can agree on a profitable contract more readily than a prolonged foreign campaign. Technical skill is concentrated in workshops and training networks, not evenly distributed through every settlement or available without fuel, materials and labour. Rovensk provides a charted coastal gateway, with defended access to Garenorrin.
 
@@ -872,19 +900,19 @@ Table and hospitality. Mining leagues inherit northern preservation techniques b
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 4,629.5 |
-| output per person lorrats | 235 |
-| revenue million lorrats | 972.2 |
-| defence million lorrats | 509.2 |
-| defence share percent | 11 |
+| output million lorrats | 4,671.123 |
+| output per person lorrats | 236.634 |
+| revenue million lorrats | 980.941 |
+| defence million lorrats | 513.778 |
+| defence share percent | 10.999 |
 | output trend percent | 0.8 |
-| steel thousand tonnes | 4,100 |
-| food coverage percent | 66 |
-| fuel coverage percent | 146 |
-| fuel demand thousand tonnes coal equivalent | 27,580.0 |
-| fuel supply thousand tonnes coal equivalent | 40,266.8 |
-| food demand thousand tonnes grain equivalent | 7,880.0 |
-| food supply thousand tonnes grain equivalent | 5,200.8 |
+| steel thousand tonnes | 4,136.862 |
+| food coverage percent | 66.459 |
+| fuel coverage percent | 146.0 |
+| fuel demand thousand tonnes coal equivalent | 27,827.964 |
+| fuel supply thousand tonnes coal equivalent | 40,628.828 |
+| food demand thousand tonnes grain equivalent | 7,895.936 |
+| food supply thousand tonnes grain equivalent | 5,247.559 |
 | standing | 183,000 |
 | additional reserves | 517,000 |
 | field sustainable | 49,000 |
@@ -907,59 +935,61 @@ Table and hospitality. Mining leagues inherit northern preservation techniques b
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Specialist exports support a modest surplus while seasonal import buffers remain necessary.
+Projected surplus under unchanged fiscal policy. The earlier return described: Specialist exports support a modest surplus while seasonal import buffers remain necessary.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 972.200 |
+| revenue | 980.941 |
 | transfer income | 0.000 |
-| total receipts | 972.200 |
-| total expenditure | 957.617 |
-| balance | 14.583 |
-| liquid reserves | 311.104 |
-| gross debt | 874.980 |
-| net debt | 563.876 |
-| interest | 39.374 |
+| total receipts | 980.941 |
+| total expenditure | 965.489 |
+| balance | 15.452 |
+| liquid reserves | 316.777 |
+| gross debt | 866.470 |
+| net debt | 549.693 |
+| interest | 38.991 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 509.200 |
-| Civil administration, courts, policing & diplomacy | 89.989 |
-| Transport, public works & utilities | 147.255 |
-| Health, relief & civilian pensions | 65.447 |
-| Education, science & archives | 49.085 |
-| Agriculture, water management & forestry | 57.267 |
-| Public-debt interest | 39.374 |
+| Defence | 513.778 |
+| Civil administration, courts, policing & diplomacy | 90.798 |
+| Transport, public works & utilities | 148.579 |
+| Health, relief & civilian pensions | 66.035 |
+| Education, science & archives | 49.526 |
+| Agriculture, water management & forestry | 57.782 |
+| Public-debt interest | 38.991 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 203.680 |
-| Provisions, fuel, transport & training | 127.300 |
-| Arsenal, equipment & base maintenance | 86.564 |
-| New equipment, ammunition & military research | 61.104 |
-| Fortifications, coastal works & shelters | 30.552 |
+| Service pay, allowances & military pensions | 205.511 |
+| Provisions, fuel, transport & training | 128.445 |
+| Arsenal, equipment & base maintenance | 87.342 |
+| New equipment, ammunition & military research | 61.653 |
+| Fortifications, coastal works & shelters | 30.827 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
 | new net borrowing | 0.000 |
-| net principal repayment | 8.750 |
-| reserve increase | 5.833 |
+| net principal repayment | 9.271 |
+| reserve increase | 6.181 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 4.5%. Balance / output: 0.315%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 874.98; opening liquid reserves 311.104. Estimated period financing (million L-eq): new net borrowing 0.0, net principal repayment 8.51, reserve increase 5.673, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 4.5%. Balance / output: 0.331%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Galdresk
 
-National return. Population: 11,200,000.
+National return. Population: 11,241,532.
 
 Galdresk is a wardenship of chartered orders, estates and civilian towns. Grevallier's medical and teaching institutions and Verniselle's instrument makers give it influence disproportionate to its small industrial base. Farming districts below the colder uplands help provision isolated communities; railways and negotiated access remain essential. Some houses preserve the older arts alongside practical medicine, but genuine practitioners are scarce and do not constitute a mass magical army. Neighbouring rulers value trained personnel and advice. Within Galdresk, obligations of shelter, patrol and care give institutions social authority without making every resident an initiate or every town a monastery. Orlavik provides a charted coastal gateway, with defended access to Millvik. Wardenship navigation and shelter claims. Seasonal landings and small service crews do not imply a dense iceward population.
 
@@ -973,19 +1003,19 @@ Table and hospitality. Order houses preserve remedies and practical cookery alon
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 1,792.0 |
-| output per person lorrats | 160 |
-| revenue million lorrats | 376.3 |
-| defence million lorrats | 179.2 |
-| defence share percent | 10 |
+| output million lorrats | 1,804.082 |
+| output per person lorrats | 160.484 |
+| revenue million lorrats | 378.837 |
+| defence million lorrats | 180.408 |
+| defence share percent | 10.0 |
 | output trend percent | 0.6000000000000001 |
-| steel thousand tonnes | 370 |
-| food coverage percent | 83 |
-| fuel coverage percent | 72 |
-| fuel demand thousand tonnes coal equivalent | 11,760.0 |
-| fuel supply thousand tonnes coal equivalent | 8,467.2 |
-| food demand thousand tonnes grain equivalent | 4,480.0 |
-| food supply thousand tonnes grain equivalent | 3,718.4 |
+| steel thousand tonnes | 372.495 |
+| food coverage percent | 83.251 |
+| fuel coverage percent | 72.0 |
+| fuel demand thousand tonnes coal equivalent | 11,839.288 |
+| fuel supply thousand tonnes coal equivalent | 8,524.288 |
+| food demand thousand tonnes grain equivalent | 4,496.613 |
+| food supply thousand tonnes grain equivalent | 3,743.47 |
 | standing | 112,000 |
 | additional reserves | 253,000 |
 | field sustainable | 29,000 |
@@ -1008,59 +1038,61 @@ Table and hospitality. Order houses preserve remedies and practical cookery alon
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Medical and teaching institutions receive a larger civilian share, with a small borrowing requirement.
+Projected deficit under unchanged fiscal policy. The earlier return described: Medical and teaching institutions receive a larger civilian share, with a small borrowing requirement.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 376.300 |
+| revenue | 378.837 |
 | transfer income | 0.000 |
-| total receipts | 376.300 |
-| total expenditure | 380.063 |
-| balance | -3.763 |
+| total receipts | 378.837 |
+| total expenditure | 382.740 |
+| balance | -3.903 |
 | liquid reserves | 94.075 |
-| gross debt | 169.335 |
-| net debt | 75.260 |
-| interest | 7.620 |
+| gross debt | 172.995 |
+| net debt | 78.920 |
+| interest | 7.785 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 179.200 |
-| Civil administration, courts, policing & diplomacy | 42.513 |
-| Transport, public works & utilities | 46.378 |
-| Health, relief & civilian pensions | 36.716 |
-| Education, science & archives | 44.446 |
-| Agriculture, water management & forestry | 23.190 |
-| Public-debt interest | 7.620 |
+| Defence | 180.408 |
+| Civil administration, courts, policing & diplomacy | 42.800 |
+| Transport, public works & utilities | 46.691 |
+| Health, relief & civilian pensions | 36.964 |
+| Education, science & archives | 44.746 |
+| Agriculture, water management & forestry | 23.346 |
+| Public-debt interest | 7.785 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 71.680 |
-| Provisions, fuel, transport & training | 44.800 |
-| Arsenal, equipment & base maintenance | 30.464 |
-| New equipment, ammunition & military research | 21.504 |
-| Fortifications, coastal works & shelters | 10.752 |
+| Service pay, allowances & military pensions | 72.164 |
+| Provisions, fuel, transport & training | 45.102 |
+| Arsenal, equipment & base maintenance | 30.669 |
+| New equipment, ammunition & military research | 21.649 |
+| Fortifications, coastal works & shelters | 10.824 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 3.763 |
+| new net borrowing | 3.903 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 4.5%. Balance / output: -0.21%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 169.335; opening liquid reserves 94.075. Estimated period financing (million L-eq): new net borrowing 3.66, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 4.5%. Balance / output: -0.216%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Halskert
 
-National return. Population: 18,700,000.
+National return. Population: 18,811,394.
 
 Halskert is a republic of river towns, agricultural districts and commercial authorities. Orsendal coordinates government and grain trade; Tresselund manufactures equipment for farms and water works. Productive temperate districts make the republic an important supplier to colder neighbours, while warmer pockets add different crops to its exports. Mill owners, merchants and water authorities bargain over maintenance, freight and taxation. Its transport experience supports defence, but fuel imports and seasonal conditions constrain distant operations. Galdresk buys provisions and trades specialist goods, while Rovengard is both a customer and competitor. Civilian food production is a source of power here, not background scenery. Seldavre provides a charted coastal gateway, with defended access to Orsendal. Republican grain-shipping dependencies with elected port boards and permanent fishing settlements. Charted island harbours: Seldren.
 
@@ -1074,19 +1106,19 @@ Table and hospitality. Seasonal river traffic sustains mills, fisheries and gard
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 3,085.5 |
-| output per person lorrats | 165 |
-| revenue million lorrats | 555.4 |
-| defence million lorrats | 246.8 |
-| defence share percent | 8 |
+| output million lorrats | 3,099.367 |
+| output per person lorrats | 164.76 |
+| revenue million lorrats | 557.896 |
+| defence million lorrats | 247.909 |
+| defence share percent | 7.999 |
 | output trend percent | 0.4 |
-| steel thousand tonnes | 1,600 |
-| food coverage percent | 116 |
-| fuel coverage percent | 61 |
-| fuel demand thousand tonnes coal equivalent | 19,635.0 |
-| fuel supply thousand tonnes coal equivalent | 11,977.4 |
-| food demand thousand tonnes grain equivalent | 7,480.0 |
-| food supply thousand tonnes grain equivalent | 8,676.8 |
+| steel thousand tonnes | 1,607.191 |
+| food coverage percent | 115.831 |
+| fuel coverage percent | 61.0 |
+| fuel demand thousand tonnes coal equivalent | 19,723.245 |
+| fuel supply thousand tonnes coal equivalent | 12,031.23 |
+| food demand thousand tonnes grain equivalent | 7,524.558 |
+| food supply thousand tonnes grain equivalent | 8,715.796 |
 | standing | 130,000 |
 | additional reserves | 413,000 |
 | field sustainable | 32,000 |
@@ -1109,59 +1141,61 @@ Table and hospitality. Seasonal river traffic sustains mills, fisheries and gard
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-River tolls support reserve replenishment and measured debt reduction.
+Projected surplus under unchanged fiscal policy. The earlier return described: River tolls support reserve replenishment and measured debt reduction.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 555.400 |
+| revenue | 557.896 |
 | transfer income | 0.000 |
-| total receipts | 555.400 |
-| total expenditure | 541.515 |
-| balance | 13.885 |
-| liquid reserves | 166.620 |
-| gross debt | 305.470 |
-| net debt | 138.850 |
-| interest | 13.746 |
+| total receipts | 557.896 |
+| total expenditure | 543.522 |
+| balance | 14.374 |
+| liquid reserves | 172.022 |
+| gross debt | 297.367 |
+| net debt | 125.345 |
+| interest | 13.382 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 246.800 |
-| Civil administration, courts, policing & diplomacy | 64.623 |
-| Transport, public works & utilities | 67.433 |
-| Health, relief & civilian pensions | 47.765 |
-| Education, science & archives | 28.097 |
-| Agriculture, water management & forestry | 73.051 |
-| Public-debt interest | 13.746 |
+| Defence | 247.909 |
+| Civil administration, courts, policing & diplomacy | 64.913 |
+| Transport, public works & utilities | 67.736 |
+| Health, relief & civilian pensions | 47.980 |
+| Education, science & archives | 28.223 |
+| Agriculture, water management & forestry | 73.379 |
+| Public-debt interest | 13.382 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 98.720 |
-| Provisions, fuel, transport & training | 61.700 |
-| Arsenal, equipment & base maintenance | 41.956 |
-| New equipment, ammunition & military research | 29.616 |
-| Fortifications, coastal works & shelters | 14.808 |
+| Service pay, allowances & military pensions | 99.163 |
+| Provisions, fuel, transport & training | 61.977 |
+| Arsenal, equipment & base maintenance | 42.145 |
+| New equipment, ammunition & military research | 29.749 |
+| Fortifications, coastal works & shelters | 14.875 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
 | new net borrowing | 0.000 |
-| net principal repayment | 8.331 |
-| reserve increase | 5.554 |
+| net principal repayment | 8.624 |
+| reserve increase | 5.750 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 4.5%. Balance / output: 0.45%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 305.47; opening liquid reserves 166.62. Estimated period financing (million L-eq): new net borrowing 0.0, net principal repayment 8.103, reserve increase 5.402, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 4.5%. Balance / output: 0.464%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Tervayne
 
-National return. Population: 36,200,000.
+National return. Population: 36,395,285.
 
 Tervayne is a western Vesalian maritime state whose government and commercial houses occupy Tervessac. Tervassin handles ocean shipping; Brescalle builds marine and civil machinery. Cultivated districts supply provisions while upland towns provide timber and manufactured goods. Its trading networks face Otranto and Morholt across the western ocean, with only indirect connections to the eastern Marches through intervening governments and difficult country. Maritime wealth supports naval supply and overseas influence, not unrestricted inland conquest. Port families, industrial firms and agricultural districts consequently have different priorities, even when foreign merchants describe them collectively as a seafaring people. Overseas supply and navigation districts maintained by Tervayne’s maritime administration and resident port councils. Charted island harbours: Ostrelac.
 
@@ -1175,19 +1209,19 @@ Table and hospitality. Western ports face a different trading sea from Veyrasse 
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 9,774.0 |
-| output per person lorrats | 270 |
-| revenue million lorrats | 2,052.5 |
-| defence million lorrats | 977.4 |
-| defence share percent | 10 |
+| output million lorrats | 9,872.866 |
+| output per person lorrats | 271.268 |
+| revenue million lorrats | 2,073.261 |
+| defence million lorrats | 987.287 |
+| defence share percent | 10.0 |
 | output trend percent | 0.9 |
-| steel thousand tonnes | 5,830 |
-| food coverage percent | 88 |
-| fuel coverage percent | 53 |
-| fuel demand thousand tonnes coal equivalent | 50,680.0 |
-| fuel supply thousand tonnes coal equivalent | 26,860.4 |
-| food demand thousand tonnes grain equivalent | 14,480.0 |
-| food supply thousand tonnes grain equivalent | 12,742.4 |
+| steel thousand tonnes | 5,888.972 |
+| food coverage percent | 88.413 |
+| fuel coverage percent | 53.0 |
+| fuel demand thousand tonnes coal equivalent | 51,192.637 |
+| fuel supply thousand tonnes coal equivalent | 27,132.098 |
+| food demand thousand tonnes grain equivalent | 14,558.114 |
+| food supply thousand tonnes grain equivalent | 12,871.292 |
 | standing | 259,000 |
 | additional reserves | 762,000 |
 | field sustainable | 75,000 |
@@ -1210,59 +1244,61 @@ Table and hospitality. Western ports face a different trading sea from Veyrasse 
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Harbour renewal and naval support exceed ordinary receipts despite strong maritime earnings.
+Projected deficit under unchanged fiscal policy. The earlier return described: Harbour renewal and naval support exceed ordinary receipts despite strong maritime earnings.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 2,052.500 |
+| revenue | 2,073.261 |
 | transfer income | 0.000 |
-| total receipts | 2,052.500 |
-| total expenditure | 2,144.862 |
-| balance | -92.362 |
+| total receipts | 2,073.261 |
+| total expenditure | 2,169.152 |
+| balance | -95.891 |
 | liquid reserves | 410.500 |
-| gross debt | 3,181.375 |
-| net debt | 2,770.875 |
-| interest | 143.162 |
+| gross debt | 3,271.207 |
+| net debt | 2,860.707 |
+| interest | 147.204 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 977.400 |
-| Civil administration, courts, policing & diplomacy | 225.346 |
-| Transport, public works & utilities | 368.748 |
-| Health, relief & civilian pensions | 163.888 |
-| Education, science & archives | 122.916 |
-| Agriculture, water management & forestry | 143.402 |
-| Public-debt interest | 143.162 |
+| Defence | 987.287 |
+| Civil administration, courts, policing & diplomacy | 227.625 |
+| Transport, public works & utilities | 372.478 |
+| Health, relief & civilian pensions | 165.546 |
+| Education, science & archives | 124.159 |
+| Agriculture, water management & forestry | 144.853 |
+| Public-debt interest | 147.204 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 312.768 |
-| Provisions, fuel, transport & training | 244.350 |
-| Arsenal, equipment & base maintenance | 215.028 |
-| New equipment, ammunition & military research | 156.384 |
-| Fortifications, coastal works & shelters | 48.870 |
+| Service pay, allowances & military pensions | 315.932 |
+| Provisions, fuel, transport & training | 246.822 |
+| Arsenal, equipment & base maintenance | 217.203 |
+| New equipment, ammunition & military research | 157.966 |
+| Fortifications, coastal works & shelters | 49.364 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 92.362 |
+| new net borrowing | 95.891 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 4.5%. Balance / output: -0.945%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 3181.375; opening liquid reserves 410.5. Estimated period financing (million L-eq): new net borrowing 89.832, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 4.5%. Balance / output: -0.971%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Vardol
 
-National return. Population: 64,000,000.
+National return. Population: 64,222,936.
 
 Vardol is a northern realm centred on Estrevigne's royal and military administration. Caldovre and surrounding cold-country cities concentrate arsenals, engineering and fuel processing; productive southern districts around Belmerac help feed them. The state can support a large military establishment but must also defend long supply routes and its rivalry with Averholt. Caldrienne is reached by the Valdrec road, not held as a subordinate province. Army procurement gives industrial suppliers political influence, while landed and commercial interests negotiate the cost. Its apparent strength therefore rests on maintaining a demanding system of food, fuel and transport rather than manpower alone. Calvessac provides a charted coastal gateway, with defended access to Quillaux. Northern crown claims maintained by lighthouse crews and seasonal naval stores. Remote interiors are not continuously occupied.
 
@@ -1276,19 +1312,19 @@ Table and hospitality. Refinery and arsenal towns share a strong canteen traditi
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 11,840.0 |
-| output per person lorrats | 185 |
-| revenue million lorrats | 2,486.4 |
-| defence million lorrats | 1,420.8 |
-| defence share percent | 12 |
+| output million lorrats | 11,919.828 |
+| output per person lorrats | 185.601 |
+| revenue million lorrats | 2,503.164 |
+| defence million lorrats | 1,430.379 |
+| defence share percent | 12.0 |
 | output trend percent | 0.6000000000000001 |
-| steel thousand tonnes | 8,110 |
-| food coverage percent | 110 |
-| fuel coverage percent | 155 |
-| fuel demand thousand tonnes coal equivalent | 89,600.0 |
-| fuel supply thousand tonnes coal equivalent | 138,880.0 |
-| food demand thousand tonnes grain equivalent | 25,600.0 |
-| food supply thousand tonnes grain equivalent | 28,160.0 |
+| steel thousand tonnes | 8,164.679 |
+| food coverage percent | 110.357 |
+| fuel coverage percent | 155.0 |
+| fuel demand thousand tonnes coal equivalent | 90,204.102 |
+| fuel supply thousand tonnes coal equivalent | 139,816.359 |
+| food demand thousand tonnes grain equivalent | 25,689.174 |
+| food supply thousand tonnes grain equivalent | 28,349.861 |
 | standing | 810,000 |
 | additional reserves | 2,294,000 |
 | field sustainable | 275,000 |
@@ -1311,59 +1347,61 @@ Table and hospitality. Refinery and arsenal towns share a strong canteen traditi
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Arsenals and fixed frontier commitments sustain a planned deficit.
+Projected deficit under unchanged fiscal policy. The earlier return described: Arsenals and fixed frontier commitments sustain a planned deficit.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 2,486.400 |
+| revenue | 2,503.164 |
 | transfer income | 0.000 |
-| total receipts | 2,486.400 |
-| total expenditure | 2,660.448 |
-| balance | -174.048 |
+| total receipts | 2,503.164 |
+| total expenditure | 2,686.036 |
+| balance | -182.872 |
 | liquid reserves | 372.960 |
-| gross debt | 4,475.520 |
-| net debt | 4,102.560 |
-| interest | 246.154 |
+| gross debt | 4,644.800 |
+| net debt | 4,271.840 |
+| interest | 255.464 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 1,420.800 |
-| Civil administration, courts, policing & diplomacy | 218.569 |
-| Transport, public works & utilities | 357.658 |
-| Health, relief & civilian pensions | 158.959 |
-| Education, science & archives | 119.219 |
-| Agriculture, water management & forestry | 139.089 |
-| Public-debt interest | 246.154 |
+| Defence | 1,430.379 |
+| Civil administration, courts, policing & diplomacy | 220.043 |
+| Transport, public works & utilities | 360.069 |
+| Health, relief & civilian pensions | 160.031 |
+| Education, science & archives | 120.023 |
+| Agriculture, water management & forestry | 140.027 |
+| Public-debt interest | 255.464 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 568.320 |
-| Provisions, fuel, transport & training | 355.200 |
-| Arsenal, equipment & base maintenance | 241.536 |
-| New equipment, ammunition & military research | 170.496 |
-| Fortifications, coastal works & shelters | 85.248 |
+| Service pay, allowances & military pensions | 572.151 |
+| Provisions, fuel, transport & training | 357.595 |
+| Arsenal, equipment & base maintenance | 243.164 |
+| New equipment, ammunition & military research | 171.646 |
+| Fortifications, coastal works & shelters | 85.823 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 174.048 |
+| new net borrowing | 182.872 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 5.5%. Balance / output: -1.47%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 4475.52; opening liquid reserves 372.96. Estimated period financing (million L-eq): new net borrowing 169.28, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 5.5%. Balance / output: -1.534%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Averholt
 
-National return. Population: 48,900,000.
+National return. Population: 49,141,803.
 
 Averholt is a predominantly inland realm held together by provincial bargains. Avercenne conducts common government, Rocavane concentrates mountain engineering, and lower cultivated districts supply the cold upland towns. Rivalry with Vardol competes with domestic defence for resources. Western rail links support trade with Tervayne, while Chalicchio's road reaches Karsenne and the eastern Marches. Provincial institutions protect their own stores and troops, limiting what the central government can concentrate elsewhere. Agricultural merchants, upland industrial firms and landed councils thus contribute different kinds of strength. The realm is a substantial neighbour with internal commitments, not a continent-wide power waiting to absorb every smaller state. Bravessac provides a charted coastal gateway, with defended access to Vetenavaux. Claims administered by the northern coastal province; fishing landings and seasonal shelters receive supplies from Bravessac.
 
@@ -1377,19 +1415,19 @@ Table and hospitality. Provincial land bargains preserve different kitchens insi
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 8,802.0 |
-| output per person lorrats | 180 |
-| revenue million lorrats | 1,848.4 |
-| defence million lorrats | 880.2 |
-| defence share percent | 10 |
+| output million lorrats | 8,920.734 |
+| output per person lorrats | 181.53 |
+| revenue million lorrats | 1,873.334 |
+| defence million lorrats | 892.073 |
+| defence share percent | 10.0 |
 | output trend percent | 1.2000000000000002 |
-| steel thousand tonnes | 3,510 |
-| food coverage percent | 117 |
-| fuel coverage percent | 79 |
-| fuel demand thousand tonnes coal equivalent | 51,345.0 |
-| fuel supply thousand tonnes coal equivalent | 40,562.6 |
-| food demand thousand tonnes grain equivalent | 19,560.0 |
-| food supply thousand tonnes grain equivalent | 22,885.2 |
+| steel thousand tonnes | 3,557.348 |
+| food coverage percent | 117.995 |
+| fuel coverage percent | 79.0 |
+| fuel demand thousand tonnes coal equivalent | 52,037.613 |
+| fuel supply thousand tonnes coal equivalent | 41,109.765 |
+| food demand thousand tonnes grain equivalent | 19,656.721 |
+| food supply thousand tonnes grain equivalent | 23,193.907 |
 | standing | 479,000 |
 | additional reserves | 1,453,000 |
 | field sustainable | 144,000 |
@@ -1412,59 +1450,61 @@ Table and hospitality. Provincial land bargains preserve different kitchens insi
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Provincial roads and grain handling require a modest borrowing programme.
+Projected deficit under unchanged fiscal policy. The earlier return described: Provincial roads and grain handling require a modest borrowing programme.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 1,848.400 |
+| revenue | 1,873.334 |
 | transfer income | 0.000 |
-| total receipts | 1,848.400 |
-| total expenditure | 1,894.610 |
-| balance | -46.210 |
+| total receipts | 1,873.334 |
+| total expenditure | 1,921.042 |
+| balance | -47.708 |
 | liquid reserves | 462.100 |
-| gross debt | 2,033.240 |
-| net debt | 1,571.140 |
-| interest | 101.662 |
+| gross debt | 2,078.184 |
+| net debt | 1,616.084 |
+| interest | 103.909 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 880.200 |
-| Civil administration, courts, policing & diplomacy | 209.932 |
-| Transport, public works & utilities | 219.060 |
-| Health, relief & civilian pensions | 155.167 |
-| Education, science & archives | 91.275 |
-| Agriculture, water management & forestry | 237.314 |
-| Public-debt interest | 101.662 |
+| Defence | 892.073 |
+| Civil administration, courts, policing & diplomacy | 212.764 |
+| Transport, public works & utilities | 222.015 |
+| Health, relief & civilian pensions | 157.260 |
+| Education, science & archives | 92.506 |
+| Agriculture, water management & forestry | 240.515 |
+| Public-debt interest | 103.909 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 352.080 |
-| Provisions, fuel, transport & training | 220.050 |
-| Arsenal, equipment & base maintenance | 149.634 |
-| New equipment, ammunition & military research | 105.624 |
-| Fortifications, coastal works & shelters | 52.812 |
+| Service pay, allowances & military pensions | 356.830 |
+| Provisions, fuel, transport & training | 223.018 |
+| Arsenal, equipment & base maintenance | 151.652 |
+| New equipment, ammunition & military research | 107.049 |
+| Fortifications, coastal works & shelters | 53.524 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 46.210 |
+| new net borrowing | 47.708 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 5.0%. Balance / output: -0.525%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 2033.24; opening liquid reserves 462.1. Estimated period financing (million L-eq): new net borrowing 44.944, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 5.0%. Balance / output: -0.535%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Serevask Republic
 
-National return. Population: 13,000,000.
+National return. Population: 13,024,829.
 
 The Serevask Republic governs its own mountain, upland and forest districts from Serevienne. Vallorise remains an important engineering city, connected commercially to the states that once shared a southern basin federation. Varnelle, Kelbrun and Gavrel now levy their own taxes and command their own forces; old charters create claims over debts and water, not effective Serevask sovereignty. The republic retains archives, technical institutions and useful workshops, but has neither the population nor authority of the former union. Its citizens include mountain households dependent on lower provisions and lowland manufacturers dependent on cross-border customers. It has never governed Vesalius as a whole.
 
@@ -1478,19 +1518,19 @@ Table and hospitality. The old Serevask customs federation joined four southern 
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 2,080.0 |
-| output per person lorrats | 160 |
-| revenue million lorrats | 436.8 |
-| defence million lorrats | 249.6 |
-| defence share percent | 12 |
+| output million lorrats | 2,103.379 |
+| output per person lorrats | 161.49 |
+| revenue million lorrats | 441.71 |
+| defence million lorrats | 252.405 |
+| defence share percent | 12.0 |
 | output trend percent | 1.0 |
-| steel thousand tonnes | 900 |
-| food coverage percent | 91 |
-| fuel coverage percent | 57 |
-| fuel demand thousand tonnes coal equivalent | 13,650.0 |
-| fuel supply thousand tonnes coal equivalent | 7,780.5 |
-| food demand thousand tonnes grain equivalent | 5,200.0 |
-| food supply thousand tonnes grain equivalent | 4,732.0 |
+| steel thousand tonnes | 910.116 |
+| food coverage percent | 91.847 |
+| fuel coverage percent | 57.0 |
+| fuel demand thousand tonnes coal equivalent | 13,803.423 |
+| fuel supply thousand tonnes coal equivalent | 7,867.951 |
+| food demand thousand tonnes grain equivalent | 5,209.932 |
+| food supply thousand tonnes grain equivalent | 4,785.187 |
 | standing | 147,000 |
 | additional reserves | 303,000 |
 | field sustainable | 37,000 |
@@ -1513,59 +1553,61 @@ Table and hospitality. The old Serevask customs federation joined four southern 
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-The reduced republic carries its own inherited obligations; former federation partners are not a shared tax base.
+Projected deficit under unchanged fiscal policy. The earlier return described: The reduced republic carries its own inherited obligations; former federation partners are not a shared tax base.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 436.800 |
+| revenue | 441.710 |
 | transfer income | 0.000 |
-| total receipts | 436.800 |
-| total expenditure | 476.112 |
-| balance | -39.312 |
+| total receipts | 441.710 |
+| total expenditure | 483.284 |
+| balance | -41.574 |
 | liquid reserves | 43.680 |
-| gross debt | 698.880 |
-| net debt | 655.200 |
-| interest | 41.933 |
+| gross debt | 737.115 |
+| net debt | 693.435 |
+| interest | 44.227 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 249.600 |
-| Civil administration, courts, policing & diplomacy | 64.603 |
-| Transport, public works & utilities | 40.607 |
-| Health, relief & civilian pensions | 33.224 |
-| Education, science & archives | 18.458 |
-| Agriculture, water management & forestry | 27.687 |
-| Public-debt interest | 41.933 |
+| Defence | 252.405 |
+| Civil administration, courts, policing & diplomacy | 65.329 |
+| Transport, public works & utilities | 41.063 |
+| Health, relief & civilian pensions | 33.597 |
+| Education, science & archives | 18.665 |
+| Agriculture, water management & forestry | 27.998 |
+| Public-debt interest | 44.227 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 99.840 |
-| Provisions, fuel, transport & training | 62.400 |
-| Arsenal, equipment & base maintenance | 42.432 |
-| New equipment, ammunition & military research | 29.952 |
-| Fortifications, coastal works & shelters | 14.976 |
+| Service pay, allowances & military pensions | 100.962 |
+| Provisions, fuel, transport & training | 63.101 |
+| Arsenal, equipment & base maintenance | 42.909 |
+| New equipment, ammunition & military research | 30.289 |
+| Fortifications, coastal works & shelters | 15.144 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 39.312 |
+| new net borrowing | 41.574 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 6.0%. Balance / output: -1.89%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 698.88; opening liquid reserves 43.68. Estimated period financing (million L-eq): new net borrowing 38.235, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 6.0%. Balance / output: -1.977%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Varnelle
 
-National return. Population: 20,800,000.
+National return. Population: 20,884,145.
 
 Varnelle is a delta state administered through port, water and commercial authorities centred on Varnessa. Serravole's shipping and Ceralvigne's engineering connect cultivated forest districts with overseas markets. Independence from Serevask followed disputes over reconstruction debts and customs after the former federation ceased functioning. Railway and business relationships survived that break. Merchants and water boards have considerable influence, while military establishments defend strategic approaches rather than replace civilian government everywhere. Rivessac, Kelbrun and Gavrel supply neighbouring markets. Control of freight and water makes Varnelle consequential to inland customers, but those customers remain separate political communities. Delta-authority island districts with customs houses, repair yards and provisioning farms. Charted island harbours: Cervallune.
 
@@ -1579,19 +1621,19 @@ Table and hospitality. Delta rice, fisheries and freight markets furnished the f
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 3,952.0 |
-| output per person lorrats | 190 |
-| revenue million lorrats | 829.9 |
-| defence million lorrats | 395.2 |
-| defence share percent | 10 |
+| output million lorrats | 4,009.756 |
+| output per person lorrats | 192.0 |
+| revenue million lorrats | 842.028 |
+| defence million lorrats | 400.976 |
+| defence share percent | 10.0 |
 | output trend percent | 1.3 |
-| steel thousand tonnes | 1,790 |
-| food coverage percent | 112 |
-| fuel coverage percent | 64 |
-| fuel demand thousand tonnes coal equivalent | 21,840.0 |
-| fuel supply thousand tonnes coal equivalent | 13,977.6 |
-| food demand thousand tonnes grain equivalent | 8,320.0 |
-| food supply thousand tonnes grain equivalent | 9,318.4 |
+| steel thousand tonnes | 1,816.16 |
+| food coverage percent | 113.179 |
+| fuel coverage percent | 64.0 |
+| fuel demand thousand tonnes coal equivalent | 22,159.178 |
+| fuel supply thousand tonnes coal equivalent | 14,181.874 |
+| food demand thousand tonnes grain equivalent | 8,353.658 |
+| food supply thousand tonnes grain equivalent | 9,454.583 |
 | standing | 188,000 |
 | additional reserves | 491,000 |
 | field sustainable | 53,000 |
@@ -1614,59 +1656,61 @@ Table and hospitality. Delta rice, fisheries and freight markets furnished the f
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Customs income broadly covers current plans and permits a small surplus.
+Projected surplus under unchanged fiscal policy. The earlier return described: Customs income broadly covers current plans and permits a small surplus.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 829.900 |
+| revenue | 842.028 |
 | transfer income | 0.000 |
-| total receipts | 829.900 |
-| total expenditure | 821.601 |
-| balance | 8.299 |
-| liquid reserves | 232.372 |
-| gross debt | 622.425 |
-| net debt | 390.053 |
-| interest | 28.009 |
+| total receipts | 842.028 |
+| total expenditure | 832.982 |
+| balance | 9.046 |
+| liquid reserves | 235.601 |
+| gross debt | 617.582 |
+| net debt | 381.981 |
+| interest | 27.791 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 395.200 |
-| Civil administration, courts, policing & diplomacy | 87.646 |
-| Transport, public works & utilities | 143.421 |
-| Health, relief & civilian pensions | 63.743 |
-| Education, science & archives | 47.807 |
-| Agriculture, water management & forestry | 55.775 |
-| Public-debt interest | 28.009 |
+| Defence | 400.976 |
+| Civil administration, courts, policing & diplomacy | 88.927 |
+| Transport, public works & utilities | 145.517 |
+| Health, relief & civilian pensions | 64.675 |
+| Education, science & archives | 48.506 |
+| Agriculture, water management & forestry | 56.590 |
+| Public-debt interest | 27.791 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 158.080 |
-| Provisions, fuel, transport & training | 98.800 |
-| Arsenal, equipment & base maintenance | 67.184 |
-| New equipment, ammunition & military research | 47.424 |
-| Fortifications, coastal works & shelters | 23.712 |
+| Service pay, allowances & military pensions | 160.390 |
+| Provisions, fuel, transport & training | 100.244 |
+| Arsenal, equipment & base maintenance | 68.166 |
+| New equipment, ammunition & military research | 48.117 |
+| Fortifications, coastal works & shelters | 24.059 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
 | new net borrowing | 0.000 |
-| net principal repayment | 4.979 |
-| reserve increase | 3.320 |
+| net principal repayment | 5.427 |
+| reserve increase | 3.619 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 4.5%. Balance / output: 0.21%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 622.425; opening liquid reserves 232.372. Estimated period financing (million L-eq): new net borrowing 0.0, net principal repayment 4.843, reserve increase 3.229, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 4.5%. Balance / output: 0.226%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Kelbrun
 
-National return. Population: 17,600,000.
+National return. Population: 17,714,738.
 
 Kelbrun is an independent state of councils and powerful plantation interests governed from Kelbrienne. Oreviano's rubber chemistry and filtration industries turn cultivated resources into valuable manufactured exports. Seasonal uplands supply grain and livestock alongside the wetter districts' plantation products. Estate labour obligations and commercial access shape politics as much as formal council debates. Serevask is a former federal partner and continuing industrial customer; Varnelle and Calvernis provide other trading connections. Army posts secure routes and production districts, but the country's influence chiefly rests on useful materials, technical knowledge and agricultural trade. Its population does not share one estate, employer or social standing. Cervellane provides a charted coastal gateway, with defended access to Cambrelet. Council-administered island dependency with plantation suppliers, fisheries and bonded stores. Charted island harbours: Marcellune.
 
@@ -1680,19 +1724,19 @@ Table and hospitality. Upriver gardens and plantation labour communities mix bas
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 2,112.0 |
-| output per person lorrats | 120 |
-| revenue million lorrats | 443.5 |
-| defence million lorrats | 211.2 |
-| defence share percent | 10 |
+| output million lorrats | 2,140.49 |
+| output per person lorrats | 120.831 |
+| revenue million lorrats | 449.483 |
+| defence million lorrats | 214.049 |
+| defence share percent | 10.0 |
 | output trend percent | 1.2000000000000002 |
-| steel thousand tonnes | 610 |
-| food coverage percent | 131 |
-| fuel coverage percent | 48 |
-| fuel demand thousand tonnes coal equivalent | 12,320.0 |
-| fuel supply thousand tonnes coal equivalent | 5,913.6 |
-| food demand thousand tonnes grain equivalent | 7,040.0 |
-| food supply thousand tonnes grain equivalent | 9,222.4 |
+| steel thousand tonnes | 618.229 |
+| food coverage percent | 131.907 |
+| fuel coverage percent | 48.0 |
+| fuel demand thousand tonnes coal equivalent | 12,486.189 |
+| fuel supply thousand tonnes coal equivalent | 5,993.371 |
+| food demand thousand tonnes grain equivalent | 7,085.895 |
+| food supply thousand tonnes grain equivalent | 9,346.805 |
 | standing | 160,000 |
 | additional reserves | 435,000 |
 | field sustainable | 37,000 |
@@ -1715,59 +1759,61 @@ Table and hospitality. Upriver gardens and plantation labour communities mix bas
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-River works and imported agricultural equipment are financed partly on credit.
+Projected deficit under unchanged fiscal policy. The earlier return described: River works and imported agricultural equipment are financed partly on credit.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 443.500 |
+| revenue | 449.483 |
 | transfer income | 0.000 |
-| total receipts | 443.500 |
-| total expenditure | 456.805 |
-| balance | -13.305 |
+| total receipts | 449.483 |
+| total expenditure | 463.415 |
+| balance | -13.932 |
 | liquid reserves | 79.830 |
-| gross debt | 354.800 |
-| net debt | 274.970 |
-| interest | 19.514 |
+| gross debt | 367.740 |
+| net debt | 287.910 |
+| interest | 20.226 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 211.200 |
-| Civil administration, courts, policing & diplomacy | 52.001 |
-| Transport, public works & utilities | 54.262 |
-| Health, relief & civilian pensions | 38.435 |
-| Education, science & archives | 22.609 |
-| Agriculture, water management & forestry | 58.784 |
-| Public-debt interest | 19.514 |
+| Defence | 214.049 |
+| Civil administration, courts, policing & diplomacy | 52.702 |
+| Transport, public works & utilities | 54.994 |
+| Health, relief & civilian pensions | 38.953 |
+| Education, science & archives | 22.914 |
+| Agriculture, water management & forestry | 59.577 |
+| Public-debt interest | 20.226 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 84.480 |
-| Provisions, fuel, transport & training | 52.800 |
-| Arsenal, equipment & base maintenance | 35.904 |
-| New equipment, ammunition & military research | 25.344 |
-| Fortifications, coastal works & shelters | 12.672 |
+| Service pay, allowances & military pensions | 85.620 |
+| Provisions, fuel, transport & training | 53.512 |
+| Arsenal, equipment & base maintenance | 36.388 |
+| New equipment, ammunition & military research | 25.686 |
+| Fortifications, coastal works & shelters | 12.843 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 13.305 |
+| new net borrowing | 13.932 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 5.5%. Balance / output: -0.63%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 354.8; opening liquid reserves 79.83. Estimated period financing (million L-eq): new net borrowing 12.94, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 5.5%. Balance / output: -0.651%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Gavrel
 
-National return. Population: 7,000,000.
+National return. Population: 7,009,437.
 
 Gavrel is a group of chartered march houses with limited common institutions at Gavrielle. Each house retains its own courts and levies; Mesrienne's workshops and local markets connect their economies without erasing that autonomy. Former federal links to Serevask survive as railways, debts and commercial relationships. Varnelle and the southern cantons offer additional buyers for agricultural and forest products. Local guarantors and patronage matter to travel and trade because no single ministry controls every transaction. The combined return describes their shared resources, while actual military cooperation depends on agreements among houses rather than an automatic unified command. Montalive provides a charted coastal gateway, with defended access to Lesigne. Dependencies of individual march houses under a common coastal supply compact; no unified Gavrel navy or crown is implied. Charted island harbours: Loravise.
 
@@ -1781,19 +1827,19 @@ Table and hospitality. March-house kitchens descend from basin customs but favou
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 840.0 |
-| output per person lorrats | 120 |
-| revenue million lorrats | 210.0 |
-| defence million lorrats | 109.2 |
-| defence share percent | 13 |
+| output million lorrats | 846.608 |
+| output per person lorrats | 120.781 |
+| revenue million lorrats | 211.652 |
+| defence million lorrats | 110.059 |
+| defence share percent | 13.0 |
 | output trend percent | 0.7000000000000001 |
-| steel thousand tonnes | 230 |
-| food coverage percent | 108 |
-| fuel coverage percent | 42 |
-| fuel demand thousand tonnes coal equivalent | 4,900.0 |
-| fuel supply thousand tonnes coal equivalent | 2,058.0 |
-| food demand thousand tonnes grain equivalent | 2,800.0 |
-| food supply thousand tonnes grain equivalent | 3,024.0 |
+| steel thousand tonnes | 231.809 |
+| food coverage percent | 108.703 |
+| fuel coverage percent | 42.0 |
+| fuel demand thousand tonnes coal equivalent | 4,938.545 |
+| fuel supply thousand tonnes coal equivalent | 2,074.189 |
+| food demand thousand tonnes grain equivalent | 2,803.775 |
+| food supply thousand tonnes grain equivalent | 3,047.788 |
 | standing | 83,000 |
 | additional reserves | 190,000 |
 | field sustainable | 23,000 |
@@ -1816,59 +1862,61 @@ Table and hospitality. March-house kitchens descend from basin customs but favou
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Frontier provisioning strains the limited receipts of rural estates.
+Projected deficit under unchanged fiscal policy. The earlier return described: Frontier provisioning strains the limited receipts of rural estates.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 210.000 |
+| revenue | 211.652 |
 | transfer income | 0.000 |
-| total receipts | 210.000 |
-| total expenditure | 221.550 |
-| balance | -11.550 |
+| total receipts | 211.652 |
+| total expenditure | 223.872 |
+| balance | -12.220 |
 | liquid reserves | 25.200 |
-| gross debt | 199.500 |
-| net debt | 174.300 |
-| interest | 11.970 |
+| gross debt | 210.734 |
+| net debt | 185.534 |
+| interest | 12.644 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 109.200 |
-| Civil administration, courts, policing & diplomacy | 35.133 |
-| Transport, public works & utilities | 22.084 |
-| Health, relief & civilian pensions | 18.068 |
-| Education, science & archives | 10.038 |
-| Agriculture, water management & forestry | 15.057 |
-| Public-debt interest | 11.970 |
+| Defence | 110.059 |
+| Civil administration, courts, policing & diplomacy | 35.409 |
+| Transport, public works & utilities | 22.258 |
+| Health, relief & civilian pensions | 18.210 |
+| Education, science & archives | 10.117 |
+| Agriculture, water management & forestry | 15.175 |
+| Public-debt interest | 12.644 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 43.680 |
-| Provisions, fuel, transport & training | 27.300 |
-| Arsenal, equipment & base maintenance | 18.564 |
-| New equipment, ammunition & military research | 13.104 |
-| Fortifications, coastal works & shelters | 6.552 |
+| Service pay, allowances & military pensions | 44.023 |
+| Provisions, fuel, transport & training | 27.515 |
+| Arsenal, equipment & base maintenance | 18.710 |
+| New equipment, ammunition & military research | 13.207 |
+| Fortifications, coastal works & shelters | 6.604 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 11.550 |
+| new net borrowing | 12.220 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 6.0%. Balance / output: -1.375%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 199.5; opening liquid reserves 25.2. Estimated period financing (million L-eq): new net borrowing 11.234, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 6.0%. Balance / output: -1.443%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Bellacosta Cantons
 
-Combined geographic return; separate authorities. Population: 32,400,000.
+Combined geographic return; separate authorities. Population: 32,483,729.
 
 The cantons grew out of harbour and plantation charters left without a royal guarantor after the last major culling. Jougrenne convenes the coastal toll assembly; Nantac administers a separate inland land court. Neither can tax the other’s households. Harbour dues fund escorts while plantation owners pay for roads and demand control of the checkpoints. Veldrassen buys tropical produce and timber here, but its purchasing agents face competing canton tariffs rather than a single ministry. Tenant disputes centre on debt and access to cleared farmland; the assembly meets over commercial quarrels, not to command a national army. Lorrevento provides a charted coastal gateway, with defended access to Chignoro. Separate canton harbour dependencies; local fishing rights and harbour dues remain with the charter communities. Charted island harbours: Vessantine.
 
@@ -1882,19 +1930,19 @@ Table and hospitality. Rice cooked in coconut milk accompanies peppered fish nea
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 4,212.0 |
-| output per person lorrats | 130 |
-| revenue million lorrats | 758.2 |
-| defence million lorrats | 379.1 |
-| defence share percent | 9 |
+| output million lorrats | 4,268.817 |
+| output per person lorrats | 131.414 |
+| revenue million lorrats | 768.428 |
+| defence million lorrats | 384.214 |
+| defence share percent | 9.0 |
 | output trend percent | 1.2000000000000002 |
-| steel thousand tonnes | 1,220 |
-| food coverage percent | 105 |
-| fuel coverage percent | 60 |
-| fuel demand thousand tonnes coal equivalent | 22,680.0 |
-| fuel supply thousand tonnes coal equivalent | 13,608.0 |
-| food demand thousand tonnes grain equivalent | 12,960.0 |
-| food supply thousand tonnes grain equivalent | 13,608.0 |
+| steel thousand tonnes | 1,236.457 |
+| food coverage percent | 106.142 |
+| fuel coverage percent | 60.0 |
+| fuel demand thousand tonnes coal equivalent | 22,985.939 |
+| fuel supply thousand tonnes coal equivalent | 13,791.564 |
+| food demand thousand tonnes grain equivalent | 12,993.492 |
+| food supply thousand tonnes grain equivalent | 13,791.564 |
 | standing | 223,000 |
 | additional reserves | 589,000 |
 | field sustainable | 40,000 |
@@ -1917,59 +1965,61 @@ Table and hospitality. Rice cooked in coconut milk accompanies peppered fish nea
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Harbour and plantation districts carry different debts; no canton can spend the combined balance.
+Projected deficit under unchanged fiscal policy. The earlier return described: Harbour and plantation districts carry different debts; no canton can spend the combined balance.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 758.200 |
+| revenue | 768.428 |
 | transfer income | 0.000 |
-| total receipts | 758.200 |
-| total expenditure | 769.573 |
-| balance | -11.373 |
+| total receipts | 768.428 |
+| total expenditure | 780.112 |
+| balance | -11.684 |
 | liquid reserves | 151.640 |
-| gross debt | 606.560 |
-| net debt | 454.920 |
-| interest | 33.361 |
+| gross debt | 617.621 |
+| net debt | 465.981 |
+| interest | 33.969 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 379.100 |
-| Civil administration, courts, policing & diplomacy | 82.136 |
-| Transport, public works & utilities | 85.707 |
-| Health, relief & civilian pensions | 60.709 |
-| Education, science & archives | 35.711 |
-| Agriculture, water management & forestry | 92.849 |
-| Public-debt interest | 33.361 |
+| Defence | 384.214 |
+| Civil administration, courts, policing & diplomacy | 83.244 |
+| Transport, public works & utilities | 86.863 |
+| Health, relief & civilian pensions | 61.528 |
+| Education, science & archives | 36.193 |
+| Agriculture, water management & forestry | 94.101 |
+| Public-debt interest | 33.969 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 151.640 |
-| Provisions, fuel, transport & training | 94.775 |
-| Arsenal, equipment & base maintenance | 64.447 |
-| New equipment, ammunition & military research | 45.492 |
-| Fortifications, coastal works & shelters | 22.746 |
+| Service pay, allowances & military pensions | 153.686 |
+| Provisions, fuel, transport & training | 96.053 |
+| Arsenal, equipment & base maintenance | 65.316 |
+| New equipment, ammunition & military research | 46.106 |
+| Fortifications, coastal works & shelters | 23.053 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 11.373 |
+| new net borrowing | 11.684 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 5.5%. Balance / output: -0.27%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 606.56; opening liquid reserves 151.64. Estimated period financing (million L-eq): new net borrowing 11.061, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 5.5%. Balance / output: -0.274%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Cavressa Principalities
 
-Combined geographic return; separate authorities. Population: 21,800,000.
+Combined geographic return; separate authorities. Population: 21,826,940.
 
 A chain of small courts and charter towns occupies the southwestern approaches. Collengo’s market charter protects merchants from estate levies, while the lords around Peregia claim payment for escorting their wagons. Winter fodder and access through the uplands matter more than distant dynastic titles. Albaret brokers wool and preserved food between the courts. Marriage contracts frequently change toll rights without moving a border; merchants employ local advocates to interpret them. Southern sea trade offers an alternative to the roads, but only to houses able to finance a shipment. Vellorito provides a charted coastal gateway, with defended access to Totarosco. Dependencies of individual coastal principalities, linked by a limited pilotage compact rather than a new island kingdom. Charted island harbours: Monteliva.
 
@@ -1983,19 +2033,19 @@ Table and hospitality. Barley noodles with browned cabbage are everyday food in 
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 3,052.0 |
-| output per person lorrats | 140 |
-| revenue million lorrats | 549.4 |
-| defence million lorrats | 274.7 |
-| defence share percent | 9 |
+| output million lorrats | 3,079.44 |
+| output per person lorrats | 141.084 |
+| revenue million lorrats | 554.34 |
+| defence million lorrats | 277.17 |
+| defence share percent | 9.001 |
 | output trend percent | 0.8 |
-| steel thousand tonnes | 820 |
-| food coverage percent | 105 |
-| fuel coverage percent | 60 |
-| fuel demand thousand tonnes coal equivalent | 15,260.0 |
-| fuel supply thousand tonnes coal equivalent | 9,156.0 |
-| food demand thousand tonnes grain equivalent | 8,720.0 |
-| food supply thousand tonnes grain equivalent | 9,156.0 |
+| steel thousand tonnes | 827.372 |
+| food coverage percent | 105.813 |
+| fuel coverage percent | 60.0 |
+| fuel demand thousand tonnes coal equivalent | 15,397.198 |
+| fuel supply thousand tonnes coal equivalent | 9,238.319 |
+| food demand thousand tonnes grain equivalent | 8,730.776 |
+| food supply thousand tonnes grain equivalent | 9,238.319 |
 | standing | 158,000 |
 | additional reserves | 378,000 |
 | field sustainable | 28,000 |
@@ -2018,59 +2068,61 @@ Table and hospitality. Barley noodles with browned cabbage are everyday food in 
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Court obligations and winter supply produce uneven local deficits.
+Projected deficit under unchanged fiscal policy. The earlier return described: Court obligations and winter supply produce uneven local deficits.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 549.400 |
+| revenue | 554.340 |
 | transfer income | 0.000 |
-| total receipts | 549.400 |
-| total expenditure | 571.376 |
-| balance | -21.976 |
+| total receipts | 554.340 |
+| total expenditure | 577.500 |
+| balance | -23.160 |
 | liquid reserves | 87.904 |
-| gross debt | 549.400 |
-| net debt | 461.496 |
-| interest | 32.964 |
+| gross debt | 570.774 |
+| net debt | 482.870 |
+| interest | 34.246 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 274.700 |
-| Civil administration, courts, policing & diplomacy | 92.299 |
-| Transport, public works & utilities | 58.017 |
-| Health, relief & civilian pensions | 47.468 |
-| Education, science & archives | 26.371 |
-| Agriculture, water management & forestry | 39.557 |
-| Public-debt interest | 32.964 |
+| Defence | 277.170 |
+| Civil administration, courts, policing & diplomacy | 93.129 |
+| Transport, public works & utilities | 58.539 |
+| Health, relief & civilian pensions | 47.895 |
+| Education, science & archives | 26.608 |
+| Agriculture, water management & forestry | 39.913 |
+| Public-debt interest | 34.246 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 109.880 |
-| Provisions, fuel, transport & training | 68.675 |
-| Arsenal, equipment & base maintenance | 46.699 |
-| New equipment, ammunition & military research | 32.964 |
-| Fortifications, coastal works & shelters | 16.482 |
+| Service pay, allowances & military pensions | 110.869 |
+| Provisions, fuel, transport & training | 69.292 |
+| Arsenal, equipment & base maintenance | 47.119 |
+| New equipment, ammunition & military research | 33.260 |
+| Fortifications, coastal works & shelters | 16.630 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 21.976 |
+| new net borrowing | 23.160 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 6.0%. Balance / output: -0.72%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 549.4; opening liquid reserves 87.904. Estimated period financing (million L-eq): new net borrowing 21.374, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 6.0%. Balance / output: -0.752%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Vaulcerre Basin Leagues
 
-Combined geographic return; separate authorities. Population: 29,600,000.
+Combined geographic return; separate authorities. Population: 29,689,800.
 
 Anselleuil’s reservoir command, Jarnan’s commercial council and the estate assemblies around Votane share a drainage basin but not a government. Their water compact survived the destruction of the authority that first imposed it. Gates must open in an agreed order; delaying an upstream release can destroy a downstream planting season. Brannervaux engineers are employed as arbitrators and suspected of favouring their own merchants. Grain barges, mill repair and fertiliser works sustain the towns. Disputes usually begin as inspections, impoundments and unpaid maintenance bills before soldiers become involved. Cortelune provides a charted coastal gateway, with defended access to Leignay. Offshore charter communities of the basin leagues, sharing pilots and navigation dues without a unified sovereign. Charted island harbours: Cernavie.
 
@@ -2084,19 +2136,19 @@ Table and hospitality. Millet porridge with greens and groundnut sauce feeds fie
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 3,996.0 |
-| output per person lorrats | 135 |
-| revenue million lorrats | 719.3 |
-| defence million lorrats | 359.6 |
-| defence share percent | 9 |
+| output million lorrats | 4,018.45 |
+| output per person lorrats | 135.348 |
+| revenue million lorrats | 723.341 |
+| defence million lorrats | 361.62 |
+| defence share percent | 8.999 |
 | output trend percent | 0.5 |
-| steel thousand tonnes | 1,160 |
-| food coverage percent | 105 |
-| fuel coverage percent | 60 |
-| fuel demand thousand tonnes coal equivalent | 20,720.0 |
-| fuel supply thousand tonnes coal equivalent | 12,432.0 |
-| food demand thousand tonnes grain equivalent | 11,840.0 |
-| food supply thousand tonnes grain equivalent | 12,432.0 |
+| steel thousand tonnes | 1,166.517 |
+| food coverage percent | 105.271 |
+| fuel coverage percent | 60.0 |
+| fuel demand thousand tonnes coal equivalent | 20,836.408 |
+| fuel supply thousand tonnes coal equivalent | 12,501.845 |
+| food demand thousand tonnes grain equivalent | 11,875.92 |
+| food supply thousand tonnes grain equivalent | 12,501.845 |
 | standing | 202,000 |
 | additional reserves | 546,000 |
 | field sustainable | 36,000 |
@@ -2119,59 +2171,61 @@ Table and hospitality. Millet porridge with greens and groundnut sauce feeds fie
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Water authorities borrow for gates and channels against their own toll streams.
+Projected deficit under unchanged fiscal policy. The earlier return described: Water authorities borrow for gates and channels against their own toll streams.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 719.300 |
+| revenue | 723.341 |
 | transfer income | 0.000 |
-| total receipts | 719.300 |
-| total expenditure | 733.686 |
-| balance | -14.386 |
+| total receipts | 723.341 |
+| total expenditure | 738.326 |
+| balance | -14.985 |
 | liquid reserves | 158.246 |
-| gross debt | 647.370 |
-| net debt | 489.124 |
-| interest | 32.368 |
+| gross debt | 661.362 |
+| net debt | 503.116 |
+| interest | 33.068 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 359.600 |
-| Civil administration, courts, policing & diplomacy | 78.595 |
-| Transport, public works & utilities | 82.012 |
-| Health, relief & civilian pensions | 58.092 |
-| Education, science & archives | 34.172 |
-| Agriculture, water management & forestry | 88.847 |
-| Public-debt interest | 32.368 |
+| Defence | 361.620 |
+| Civil administration, courts, policing & diplomacy | 79.037 |
+| Transport, public works & utilities | 82.473 |
+| Health, relief & civilian pensions | 58.418 |
+| Education, science & archives | 34.364 |
+| Agriculture, water management & forestry | 89.346 |
+| Public-debt interest | 33.068 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 143.840 |
-| Provisions, fuel, transport & training | 89.900 |
-| Arsenal, equipment & base maintenance | 61.132 |
-| New equipment, ammunition & military research | 43.152 |
-| Fortifications, coastal works & shelters | 21.576 |
+| Service pay, allowances & military pensions | 144.649 |
+| Provisions, fuel, transport & training | 90.405 |
+| Arsenal, equipment & base maintenance | 61.475 |
+| New equipment, ammunition & military research | 43.394 |
+| Fortifications, coastal works & shelters | 21.697 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 14.386 |
+| new net borrowing | 14.985 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 5.0%. Balance / output: -0.36%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 647.37; opening liquid reserves 158.246. Estimated period financing (million L-eq): new net borrowing 13.992, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 5.0%. Balance / output: -0.373%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Seravelle Littoral
 
-Combined geographic return; separate authorities. Population: 48,400,000.
+Combined geographic return; separate authorities. Population: 48,465,249.
 
 Astrellac’s harbour republic and the inland estate courts share the eastern littoral with smaller free ports. Their commercial convention standardises bills of lading but leaves taxes and criminal law local. Shipping families advance money against harvests; rural houses resent foreclosures by creditors who never leave the coast. Rovessaran insurers and instrument makers are influential customers. Port patrols cooperate against raiders, yet seize one another’s cargo when a debt dispute turns political. Hinterland towns depend on export warehouses for salt, tools and credit, which gives the harbours power beyond their formal borders. Astrellac’s chartered island dependencies within the Seravelle return. Resident councils administer land and fisheries; Astrellac supplies customs officers, escorts and bonded fuel depots. The other Seravelle courts remain independent. Charted island harbours: Cortessia, Vasselac, Rovellisse.
 
@@ -2185,19 +2239,19 @@ Table and hospitality. Astrellac cooks fish in tomato and fennel broth and lays 
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 6,534.0 |
-| output per person lorrats | 135 |
-| revenue million lorrats | 1,176.1 |
-| defence million lorrats | 588.1 |
-| defence share percent | 9 |
+| output million lorrats | 6,570.709 |
+| output per person lorrats | 135.576 |
+| revenue million lorrats | 1,182.708 |
+| defence million lorrats | 591.404 |
+| defence share percent | 9.001 |
 | output trend percent | 0.5 |
-| steel thousand tonnes | 1,540 |
-| food coverage percent | 105 |
-| fuel coverage percent | 60 |
-| fuel demand thousand tonnes coal equivalent | 33,880.0 |
-| fuel supply thousand tonnes coal equivalent | 20,328.0 |
-| food demand thousand tonnes grain equivalent | 19,360.0 |
-| food supply thousand tonnes grain equivalent | 20,328.0 |
+| steel thousand tonnes | 1,548.652 |
+| food coverage percent | 105.448 |
+| fuel coverage percent | 60.0 |
+| fuel demand thousand tonnes coal equivalent | 34,070.343 |
+| fuel supply thousand tonnes coal equivalent | 20,442.206 |
+| food demand thousand tonnes grain equivalent | 19,386.1 |
+| food supply thousand tonnes grain equivalent | 20,442.206 |
 | standing | 364,000 |
 | additional reserves | 882,000 |
 | field sustainable | 66,000 |
@@ -2220,59 +2274,61 @@ Table and hospitality. Astrellac cooks fish in tomato and fennel broth and lays 
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Commercial districts accumulate a modest combined surplus while carrying infrastructure bonds.
+Projected surplus under unchanged fiscal policy. The earlier return described: Commercial districts accumulate a modest combined surplus while carrying infrastructure bonds.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 1,176.100 |
+| revenue | 1,182.708 |
 | transfer income | 0.000 |
-| total receipts | 1,176.100 |
-| total expenditure | 1,158.458 |
-| balance | 17.642 |
-| liquid reserves | 399.874 |
-| gross debt | 1,411.320 |
-| net debt | 1,011.446 |
-| interest | 63.509 |
+| total receipts | 1,182.708 |
+| total expenditure | 1,164.147 |
+| balance | 18.561 |
+| liquid reserves | 406.738 |
+| gross debt | 1,401.025 |
+| net debt | 994.287 |
+| interest | 63.046 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 588.100 |
-| Civil administration, courts, policing & diplomacy | 111.507 |
-| Transport, public works & utilities | 182.466 |
-| Health, relief & civilian pensions | 81.096 |
-| Education, science & archives | 60.822 |
-| Agriculture, water management & forestry | 70.958 |
-| Public-debt interest | 63.509 |
+| Defence | 591.404 |
+| Civil administration, courts, policing & diplomacy | 112.133 |
+| Transport, public works & utilities | 183.491 |
+| Health, relief & civilian pensions | 81.552 |
+| Education, science & archives | 61.164 |
+| Agriculture, water management & forestry | 71.357 |
+| Public-debt interest | 63.046 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 235.240 |
-| Provisions, fuel, transport & training | 147.025 |
-| Arsenal, equipment & base maintenance | 99.977 |
-| New equipment, ammunition & military research | 70.572 |
-| Fortifications, coastal works & shelters | 35.286 |
+| Service pay, allowances & military pensions | 236.562 |
+| Provisions, fuel, transport & training | 147.851 |
+| Arsenal, equipment & base maintenance | 100.539 |
+| New equipment, ammunition & military research | 70.968 |
+| Fortifications, coastal works & shelters | 35.484 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
 | new net borrowing | 0.000 |
-| net principal repayment | 10.585 |
-| reserve increase | 7.057 |
+| net principal repayment | 11.136 |
+| reserve increase | 7.425 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 4.5%. Balance / output: 0.27%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 1411.32; opening liquid reserves 399.874. Estimated period financing (million L-eq): new net borrowing 0.0, net principal repayment 10.295, reserve increase 6.864, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 4.5%. Balance / output: 0.282%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Haldrevik Concessions
 
-Combined geographic return; separate authorities. Population: 8,700,000.
+Combined geographic return; separate authorities. Population: 8,727,372.
 
 Concession houses hold time-limited rights to timber, minerals and fuel rather than sovereignty over every inhabitant. Asanetz keeps the surviving charter archive; Alauvenne houses one of the armed inspection posts. A house can own a railway and still owe rent to the community beneath it. Varnesk firms provide machinery and credit, exchanging technical dependence for preferred ore contracts. Charter renewals provoke strikes, armed intimidation and lawsuits over restoration bonds. Settlements outside a concession bargain for patrols in return for provisions; a company’s withdrawal can be more frightening than its arrival. Trelovre provides a charted coastal gateway, with defended access to Arinrin. Island shore communities under Haldrevik charter protection. Concession leases cover named working sites, not ownership of all inhabitants. Charted island harbours: Rovensac.
 
@@ -2286,19 +2342,19 @@ Table and hospitality. Workers eat oat flatbread, pea soup and smoked fish at co
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 1,131.0 |
-| output per person lorrats | 130 |
-| revenue million lorrats | 203.6 |
-| defence million lorrats | 101.8 |
-| defence share percent | 9 |
+| output million lorrats | 1,142.44 |
+| output per person lorrats | 130.903 |
+| revenue million lorrats | 205.659 |
+| defence million lorrats | 102.83 |
+| defence share percent | 9.001 |
 | output trend percent | 0.9 |
-| steel thousand tonnes | 340 |
-| food coverage percent | 75 |
-| fuel coverage percent | 160 |
-| fuel demand thousand tonnes coal equivalent | 6,090.0 |
-| fuel supply thousand tonnes coal equivalent | 9,744.0 |
-| food demand thousand tonnes grain equivalent | 3,480.0 |
-| food supply thousand tonnes grain equivalent | 2,610.0 |
+| steel thousand tonnes | 343.439 |
+| food coverage percent | 75.521 |
+| fuel coverage percent | 160.0 |
+| fuel demand thousand tonnes coal equivalent | 6,151.601 |
+| fuel supply thousand tonnes coal equivalent | 9,842.562 |
+| food demand thousand tonnes grain equivalent | 3,490.949 |
+| food supply thousand tonnes grain equivalent | 2,636.401 |
 | standing | 66,000 |
 | additional reserves | 156,000 |
 | field sustainable | 12,000 |
@@ -2321,59 +2377,61 @@ Table and hospitality. Workers eat oat flatbread, pea soup and smoked fish at co
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Public concession receipts fund contract access; private company debts are excluded.
+Projected deficit under unchanged fiscal policy. The earlier return described: Public concession receipts fund contract access; private company debts are excluded.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 203.600 |
+| revenue | 205.659 |
 | transfer income | 0.000 |
-| total receipts | 203.600 |
-| total expenditure | 210.726 |
-| balance | -7.126 |
+| total receipts | 205.659 |
+| total expenditure | 213.187 |
+| balance | -7.528 |
 | liquid reserves | 32.576 |
-| gross debt | 142.520 |
-| net debt | 109.944 |
-| interest | 8.551 |
+| gross debt | 149.451 |
+| net debt | 116.875 |
+| interest | 8.967 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 101.800 |
-| Civil administration, courts, policing & diplomacy | 22.082 |
-| Transport, public works & utilities | 36.135 |
-| Health, relief & civilian pensions | 16.060 |
-| Education, science & archives | 12.045 |
-| Agriculture, water management & forestry | 14.053 |
-| Public-debt interest | 8.551 |
+| Defence | 102.830 |
+| Civil administration, courts, policing & diplomacy | 22.305 |
+| Transport, public works & utilities | 36.501 |
+| Health, relief & civilian pensions | 16.222 |
+| Education, science & archives | 12.167 |
+| Agriculture, water management & forestry | 14.195 |
+| Public-debt interest | 8.967 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 40.720 |
-| Provisions, fuel, transport & training | 25.450 |
-| Arsenal, equipment & base maintenance | 17.306 |
-| New equipment, ammunition & military research | 12.216 |
-| Fortifications, coastal works & shelters | 6.108 |
+| Service pay, allowances & military pensions | 41.132 |
+| Provisions, fuel, transport & training | 25.707 |
+| Arsenal, equipment & base maintenance | 17.481 |
+| New equipment, ammunition & military research | 12.340 |
+| Fortifications, coastal works & shelters | 6.170 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 7.126 |
+| new net borrowing | 7.528 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 6.0%. Balance / output: -0.63%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 142.52; opening liquid reserves 32.576. Estimated period financing (million L-eq): new net borrowing 6.931, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 6.0%. Balance / output: -0.659%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Dreissen Wardholds
 
-Combined geographic return; separate authorities. Population: 13,100,000.
+Combined geographic return; separate authorities. Population: 13,167,723.
 
 Dananske, Dreinvar and Ferorvik anchor separate wardholds along the northern approaches. Each warden owes shelter to the villages that provision a fortress, but the obligation is disputed when stores run short. Their annual muster negotiates convoy schedules and exchanges hostages against broken promises; it does not elect a king. Galdresk medical houses maintain small hospices by invitation. Imported grain is strategically more important than ceremonial claims to the iceward interior. Officers measure influence in serviceable engines and winter stores, while civilian assemblies try to keep temporary requisitions from becoming permanent rent. Veltroven provides a charted coastal gateway, with defended access to Kerenvenne. Claims of adjacent wardholds, maintained by fishing visits and seasonal convoy shelters rather than continuous occupation.
 
@@ -2387,19 +2445,19 @@ Table and hospitality. Rye-and-oat bread, dried fish and sour cabbage dominate f
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 1,834.0 |
-| output per person lorrats | 140 |
-| revenue million lorrats | 330.1 |
-| defence million lorrats | 165.1 |
-| defence share percent | 9 |
+| output million lorrats | 1,860.803 |
+| output per person lorrats | 141.315 |
+| revenue million lorrats | 334.924 |
+| defence million lorrats | 167.513 |
+| defence share percent | 9.002 |
 | output trend percent | 1.3 |
-| steel thousand tonnes | 520 |
-| food coverage percent | 75 |
-| fuel coverage percent | 116 |
-| fuel demand thousand tonnes coal equivalent | 9,170.0 |
-| fuel supply thousand tonnes coal equivalent | 10,637.2 |
-| food demand thousand tonnes grain equivalent | 5,240.0 |
-| food supply thousand tonnes grain equivalent | 3,930.0 |
+| steel thousand tonnes | 527.599 |
+| food coverage percent | 75.705 |
+| fuel coverage percent | 116.0 |
+| fuel demand thousand tonnes coal equivalent | 9,304.014 |
+| fuel supply thousand tonnes coal equivalent | 10,792.656 |
+| food demand thousand tonnes grain equivalent | 5,267.089 |
+| food supply thousand tonnes grain equivalent | 3,987.435 |
 | standing | 92,000 |
 | additional reserves | 223,000 |
 | field sustainable | 17,000 |
@@ -2422,59 +2480,61 @@ Table and hospitality. Rye-and-oat bread, dried fish and sour cabbage dominate f
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Winter depots and fortified approaches require borrowing by individual wardholds.
+Projected deficit under unchanged fiscal policy. The earlier return described: Winter depots and fortified approaches require borrowing by individual wardholds.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 330.100 |
+| revenue | 334.924 |
 | transfer income | 0.000 |
-| total receipts | 330.100 |
-| total expenditure | 348.255 |
-| balance | -18.155 |
+| total receipts | 334.924 |
+| total expenditure | 354.229 |
+| balance | -19.305 |
 | liquid reserves | 75.923 |
-| gross debt | 198.060 |
-| net debt | 122.137 |
-| interest | 11.884 |
+| gross debt | 215.718 |
+| net debt | 139.795 |
+| interest | 12.943 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 165.100 |
-| Civil administration, courts, policing & diplomacy | 37.680 |
-| Transport, public works & utilities | 61.658 |
-| Health, relief & civilian pensions | 27.403 |
-| Education, science & archives | 20.553 |
-| Agriculture, water management & forestry | 23.977 |
-| Public-debt interest | 11.884 |
+| Defence | 167.513 |
+| Civil administration, courts, policing & diplomacy | 38.231 |
+| Transport, public works & utilities | 62.559 |
+| Health, relief & civilian pensions | 27.803 |
+| Education, science & archives | 20.853 |
+| Agriculture, water management & forestry | 24.327 |
+| Public-debt interest | 12.943 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 66.040 |
-| Provisions, fuel, transport & training | 41.275 |
-| Arsenal, equipment & base maintenance | 28.067 |
-| New equipment, ammunition & military research | 19.812 |
-| Fortifications, coastal works & shelters | 9.906 |
+| Service pay, allowances & military pensions | 67.005 |
+| Provisions, fuel, transport & training | 41.878 |
+| Arsenal, equipment & base maintenance | 28.477 |
+| New equipment, ammunition & military research | 20.102 |
+| Fortifications, coastal works & shelters | 10.051 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 18.155 |
+| new net borrowing | 19.305 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 6.0%. Balance / output: -0.99%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 198.06; opening liquid reserves 75.923. Estimated period financing (million L-eq): new net borrowing 17.658, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 6.0%. Balance / output: -1.037%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Varneselle Estates
 
-Combined geographic return; separate authorities. Population: 11,100,000.
+Combined geographic return; separate authorities. Population: 11,151,144.
 
 The eastern estates descend from competing settlement grants, with Varkessant’s port charter carved out of the landed claims. Estate bailiffs administer courts and patrol obligations; the port elects its own commercial officers. Fishing communities resist attempts to classify their customary shore access as a landlord’s concession. Halskert buys fish and timber and sells grain, giving its merchants leverage in disputes over freight. Family alliances cross estate borders, but succession cases repeatedly fragment holdings. Seasonal workers move between shore crews and inland workshops, carrying news faster than the formal post. Varkessant’s port-charter dependencies; the mainland estate courts retain their separate jurisdictions. Charted island harbours: Cersund.
 
@@ -2488,19 +2548,19 @@ Table and hospitality. Fish baked under a rye crust is shared along the shore; i
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 1,443.0 |
-| output per person lorrats | 130 |
-| revenue million lorrats | 259.7 |
-| defence million lorrats | 129.9 |
-| defence share percent | 9 |
+| output million lorrats | 1,449.485 |
+| output per person lorrats | 129.985 |
+| revenue million lorrats | 260.867 |
+| defence million lorrats | 130.484 |
+| defence share percent | 9.002 |
 | output trend percent | 0.4 |
-| steel thousand tonnes | 370 |
-| food coverage percent | 75 |
-| fuel coverage percent | 116 |
-| fuel demand thousand tonnes coal equivalent | 7,770.0 |
-| fuel supply thousand tonnes coal equivalent | 9,013.2 |
-| food demand thousand tonnes grain equivalent | 4,440.0 |
-| food supply thousand tonnes grain equivalent | 3,330.0 |
+| steel thousand tonnes | 371.663 |
+| food coverage percent | 74.992 |
+| fuel coverage percent | 116.0 |
+| fuel demand thousand tonnes coal equivalent | 7,804.92 |
+| fuel supply thousand tonnes coal equivalent | 9,053.708 |
+| food demand thousand tonnes grain equivalent | 4,460.458 |
+| food supply thousand tonnes grain equivalent | 3,344.966 |
 | standing | 76,000 |
 | additional reserves | 192,000 |
 | field sustainable | 14,000 |
@@ -2523,59 +2583,61 @@ Table and hospitality. Fish baked under a rye crust is shared along the shore; i
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Seasonal supply and port upkeep leave a small combined funding gap.
+Projected deficit under unchanged fiscal policy. The earlier return described: Seasonal supply and port upkeep leave a small combined funding gap.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 259.700 |
+| revenue | 260.867 |
 | transfer income | 0.000 |
-| total receipts | 259.700 |
-| total expenditure | 266.192 |
-| balance | -6.492 |
+| total receipts | 260.867 |
+| total expenditure | 267.704 |
+| balance | -6.837 |
 | liquid reserves | 51.940 |
-| gross debt | 129.850 |
-| net debt | 77.910 |
-| interest | 7.142 |
+| gross debt | 136.164 |
+| net debt | 84.224 |
+| interest | 7.489 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 129.900 |
-| Civil administration, courts, policing & diplomacy | 29.705 |
-| Transport, public works & utilities | 30.996 |
-| Health, relief & civilian pensions | 21.956 |
-| Education, science & archives | 12.915 |
-| Agriculture, water management & forestry | 33.578 |
-| Public-debt interest | 7.142 |
+| Defence | 130.484 |
+| Civil administration, courts, policing & diplomacy | 29.839 |
+| Transport, public works & utilities | 31.135 |
+| Health, relief & civilian pensions | 22.055 |
+| Education, science & archives | 12.973 |
+| Agriculture, water management & forestry | 33.729 |
+| Public-debt interest | 7.489 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 51.960 |
-| Provisions, fuel, transport & training | 32.475 |
-| Arsenal, equipment & base maintenance | 22.083 |
-| New equipment, ammunition & military research | 15.588 |
-| Fortifications, coastal works & shelters | 7.794 |
+| Service pay, allowances & military pensions | 52.194 |
+| Provisions, fuel, transport & training | 32.621 |
+| Arsenal, equipment & base maintenance | 22.182 |
+| New equipment, ammunition & military research | 15.658 |
+| Fortifications, coastal works & shelters | 7.829 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 6.492 |
+| new net borrowing | 6.837 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 5.5%. Balance / output: -0.45%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 129.85; opening liquid reserves 51.94. Estimated period financing (million L-eq): new net borrowing 6.314, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 5.5%. Balance / output: -0.472%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Bressavelle Marches
 
-Combined geographic return; separate authorities. Population: 27,900,000.
+Combined geographic return; separate authorities. Population: 28,031,688.
 
 The western marches form a belt of fortified lordships, town liberties and cultivated valleys between larger powers. Temevaux’s command guards a road junction; Malinne’s council controls a different customs district. Neither speaks for the entire belt. Tervayne merchants finance road repairs in exchange for bonded warehouses, while inland patrons subsidise rival toll houses. Small rulers survive by alternating clients and keeping neighbouring courts divided. Textile finishing, estate agriculture and wagon repair support a population far larger than its thinly charted principal towns suggest. A traveller’s permit may be valid for one bridge and useless at the next. Orsavie provides a charted coastal gateway, with defended access to Balbrenne. Chartered island lordships tied to the western marches by supply contracts; Tervayne has commercial privileges, not sovereignty. Charted island harbours: Lorvesset.
 
@@ -2589,19 +2651,19 @@ Table and hospitality. Households bake bean-and-onion pies and stretch broth wit
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 4,464.0 |
-| output per person lorrats | 160 |
-| revenue million lorrats | 803.5 |
-| defence million lorrats | 401.8 |
-| defence share percent | 9 |
+| output million lorrats | 4,484.062 |
+| output per person lorrats | 159.964 |
+| revenue million lorrats | 807.111 |
+| defence million lorrats | 403.606 |
+| defence share percent | 9.001 |
 | output trend percent | 0.4 |
-| steel thousand tonnes | 1,030 |
-| food coverage percent | 105 |
-| fuel coverage percent | 60 |
-| fuel demand thousand tonnes coal equivalent | 29,295.0 |
-| fuel supply thousand tonnes coal equivalent | 17,577.0 |
-| food demand thousand tonnes grain equivalent | 11,160.0 |
-| food supply thousand tonnes grain equivalent | 11,718.0 |
+| steel thousand tonnes | 1,034.629 |
+| food coverage percent | 104.976 |
+| fuel coverage percent | 60.0 |
+| fuel demand thousand tonnes coal equivalent | 29,426.659 |
+| fuel supply thousand tonnes coal equivalent | 17,655.996 |
+| food demand thousand tonnes grain equivalent | 11,212.675 |
+| food supply thousand tonnes grain equivalent | 11,770.664 |
 | standing | 200,000 |
 | additional reserves | 509,000 |
 | field sustainable | 36,000 |
@@ -2624,59 +2686,61 @@ Table and hospitality. Households bake bean-and-onion pies and stretch broth wit
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Separate toll authorities borrow against their own future receipts; their treasuries are not pooled.
+Projected deficit under unchanged fiscal policy. The earlier return described: Separate toll authorities borrow against their own future receipts; their treasuries are not pooled.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 803.500 |
+| revenue | 807.111 |
 | transfer income | 0.000 |
-| total receipts | 803.500 |
-| total expenditure | 855.727 |
-| balance | -52.227 |
+| total receipts | 807.111 |
+| total expenditure | 862.617 |
+| balance | -55.506 |
 | liquid reserves | 112.490 |
-| gross debt | 883.850 |
-| net debt | 771.360 |
-| interest | 57.450 |
+| gross debt | 934.646 |
+| net debt | 822.156 |
+| interest | 60.752 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 401.800 |
-| Civil administration, courts, policing & diplomacy | 138.767 |
-| Transport, public works & utilities | 87.225 |
-| Health, relief & civilian pensions | 71.366 |
-| Education, science & archives | 39.648 |
-| Agriculture, water management & forestry | 59.471 |
-| Public-debt interest | 57.450 |
+| Defence | 403.606 |
+| Civil administration, courts, policing & diplomacy | 139.391 |
+| Transport, public works & utilities | 87.617 |
+| Health, relief & civilian pensions | 71.687 |
+| Education, science & archives | 39.826 |
+| Agriculture, water management & forestry | 59.738 |
+| Public-debt interest | 60.752 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 160.720 |
-| Provisions, fuel, transport & training | 100.450 |
-| Arsenal, equipment & base maintenance | 68.306 |
-| New equipment, ammunition & military research | 48.216 |
-| Fortifications, coastal works & shelters | 24.108 |
+| Service pay, allowances & military pensions | 161.443 |
+| Provisions, fuel, transport & training | 100.901 |
+| Arsenal, equipment & base maintenance | 68.613 |
+| New equipment, ammunition & military research | 48.433 |
+| Fortifications, coastal works & shelters | 24.216 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 52.227 |
+| new net borrowing | 55.506 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 6.5%. Balance / output: -1.17%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 883.85; opening liquid reserves 112.49. Estimated period financing (million L-eq): new net borrowing 50.796, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 6.5%. Balance / output: -1.238%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Vallessia Cantons
 
-Combined geographic return; separate authorities. Population: 20,200,000.
+Combined geographic return; separate authorities. Population: 20,227,232.
 
 Southern market cantons rebuilt around local granaries after the last major culling. Margeuil’s elected grain board, Darnenne’s military governor and the landed councils around Galigny compete over transport dues. Common measures for grain survived; a common treasury did not. Merchants connect warm lowland crops with cooler interior districts, using brokers who can guarantee passage through several authorities. Kelbrun buyers seek plantation produce and seasonal labour. Municipal councils resist the governors’ claim that every warehouse is a military asset, particularly after poor harvests make requisitions politically dangerous. Pravessant provides a charted coastal gateway, with defended access to Peillier. Dependencies of individual southern cantons, governed through resident councils and grain-shipping charters. Charted island harbours: Cervelune.
 
@@ -2690,19 +2754,19 @@ Table and hospitality. Rice-and-bean dishes with sharp green relish are common i
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 3,232.0 |
-| output per person lorrats | 160 |
-| revenue million lorrats | 581.8 |
-| defence million lorrats | 290.9 |
-| defence share percent | 9 |
+| output million lorrats | 3,257.424 |
+| output per person lorrats | 161.042 |
+| revenue million lorrats | 586.377 |
+| defence million lorrats | 293.188 |
+| defence share percent | 9.001 |
 | output trend percent | 0.7000000000000001 |
-| steel thousand tonnes | 610 |
-| food coverage percent | 105 |
-| fuel coverage percent | 60 |
-| fuel demand thousand tonnes coal equivalent | 21,210.0 |
-| fuel supply thousand tonnes coal equivalent | 12,726.0 |
-| food demand thousand tonnes grain equivalent | 8,080.0 |
-| food supply thousand tonnes grain equivalent | 8,484.0 |
+| steel thousand tonnes | 614.799 |
+| food coverage percent | 105.684 |
+| fuel coverage percent | 60.0 |
+| fuel demand thousand tonnes coal equivalent | 21,376.846 |
+| fuel supply thousand tonnes coal equivalent | 12,826.108 |
+| food demand thousand tonnes grain equivalent | 8,090.893 |
+| food supply thousand tonnes grain equivalent | 8,550.739 |
 | standing | 151,000 |
 | additional reserves | 375,000 |
 | field sustainable | 27,000 |
@@ -2725,59 +2789,61 @@ Table and hospitality. Rice-and-bean dishes with sharp green relish are common i
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Storage and transport spending is negotiated separately by canton.
+Projected deficit under unchanged fiscal policy. The earlier return described: Storage and transport spending is negotiated separately by canton.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 581.800 |
+| revenue | 586.377 |
 | transfer income | 0.000 |
-| total receipts | 581.800 |
-| total expenditure | 605.072 |
-| balance | -23.272 |
+| total receipts | 586.377 |
+| total expenditure | 610.956 |
+| balance | -24.579 |
 | liquid reserves | 104.724 |
-| gross debt | 494.530 |
-| net debt | 389.806 |
-| interest | 29.672 |
+| gross debt | 517.164 |
+| net debt | 412.440 |
+| interest | 31.030 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 290.900 |
-| Civil administration, courts, policing & diplomacy | 65.435 |
-| Transport, public works & utilities | 68.280 |
-| Health, relief & civilian pensions | 48.365 |
-| Education, science & archives | 28.450 |
-| Agriculture, water management & forestry | 73.970 |
-| Public-debt interest | 29.672 |
+| Defence | 293.188 |
+| Civil administration, courts, policing & diplomacy | 65.950 |
+| Transport, public works & utilities | 68.817 |
+| Health, relief & civilian pensions | 48.745 |
+| Education, science & archives | 28.674 |
+| Agriculture, water management & forestry | 74.552 |
+| Public-debt interest | 31.030 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 116.360 |
-| Provisions, fuel, transport & training | 72.725 |
-| Arsenal, equipment & base maintenance | 49.453 |
-| New equipment, ammunition & military research | 34.908 |
-| Fortifications, coastal works & shelters | 17.454 |
+| Service pay, allowances & military pensions | 117.275 |
+| Provisions, fuel, transport & training | 73.297 |
+| Arsenal, equipment & base maintenance | 49.842 |
+| New equipment, ammunition & military research | 35.183 |
+| Fortifications, coastal works & shelters | 17.591 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 23.272 |
+| new net borrowing | 24.579 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 6.0%. Balance / output: -0.72%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 494.53; opening liquid reserves 104.724. Estimated period financing (million L-eq): new net borrowing 22.634, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 6.0%. Balance / output: -0.755%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Rivessac Coast
 
-Combined geographic return; separate authorities. Population: 16,200,000.
+Combined geographic return; separate authorities. Population: 16,274,642.
 
 Saultac is the best-charted inland market in a southeastern coastal region of small port communes and hereditary agricultural districts. Mainland and island harbours now complement the inland market on the chart. Pilots’ guilds set practical terms for coastal travel; inland houses control cultivated land and the roads supplying the harbours. Ceralte brokers buy provisions here without governing the coast. Rival communes share storm warnings but guard their harbour soundings. The region’s political disputes concern port fees, seasonal labour and who funds guarded access to inland markets, rather than a single national succession. Vessaline provides a charted coastal gateway, with defended access to Saultac. A dependency of the coastal port commune, governed by its harbour charter and resident island councillors. Charted island harbours: Vallarive.
 
@@ -2791,19 +2857,19 @@ Table and hospitality. Coastal kitchens combine fish, white beans, garlic and lo
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 2,592.0 |
-| output per person lorrats | 160 |
-| revenue million lorrats | 466.6 |
-| defence million lorrats | 233.3 |
-| defence share percent | 9 |
+| output million lorrats | 2,624.049 |
+| output per person lorrats | 161.235 |
+| revenue million lorrats | 472.369 |
+| defence million lorrats | 236.185 |
+| defence share percent | 9.001 |
 | output trend percent | 1.1 |
-| steel thousand tonnes | 520 |
-| food coverage percent | 105 |
-| fuel coverage percent | 60 |
-| fuel demand thousand tonnes coal equivalent | 17,010.0 |
-| fuel supply thousand tonnes coal equivalent | 10,206.0 |
-| food demand thousand tonnes grain equivalent | 6,480.0 |
-| food supply thousand tonnes grain equivalent | 6,804.0 |
+| steel thousand tonnes | 526.43 |
+| food coverage percent | 105.811 |
+| fuel coverage percent | 60.0 |
+| fuel demand thousand tonnes coal equivalent | 17,220.32 |
+| fuel supply thousand tonnes coal equivalent | 10,332.192 |
+| food demand thousand tonnes grain equivalent | 6,509.857 |
+| food supply thousand tonnes grain equivalent | 6,888.128 |
 | standing | 118,000 |
 | additional reserves | 292,000 |
 | field sustainable | 21,000 |
@@ -2826,59 +2892,61 @@ Table and hospitality. Coastal kitchens combine fish, white beans, garlic and lo
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Port communes retain a small combined surplus for local harbour and supply buffers.
+Projected surplus under unchanged fiscal policy. The earlier return described: Port communes retain a small combined surplus for local harbour and supply buffers.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 466.600 |
+| revenue | 472.369 |
 | transfer income | 0.000 |
-| total receipts | 466.600 |
-| total expenditure | 461.934 |
-| balance | 4.666 |
-| liquid reserves | 125.982 |
-| gross debt | 233.300 |
-| net debt | 107.318 |
-| interest | 11.665 |
+| total receipts | 472.369 |
+| total expenditure | 467.366 |
+| balance | 5.003 |
+| liquid reserves | 127.797 |
+| gross debt | 230.577 |
+| net debt | 102.780 |
+| interest | 11.529 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 233.300 |
-| Civil administration, courts, policing & diplomacy | 47.733 |
-| Transport, public works & utilities | 78.109 |
-| Health, relief & civilian pensions | 34.715 |
-| Education, science & archives | 26.036 |
-| Agriculture, water management & forestry | 30.376 |
-| Public-debt interest | 11.665 |
+| Defence | 236.185 |
+| Civil administration, courts, policing & diplomacy | 48.323 |
+| Transport, public works & utilities | 79.075 |
+| Health, relief & civilian pensions | 35.144 |
+| Education, science & archives | 26.358 |
+| Agriculture, water management & forestry | 30.752 |
+| Public-debt interest | 11.529 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 93.320 |
-| Provisions, fuel, transport & training | 58.325 |
-| Arsenal, equipment & base maintenance | 39.661 |
-| New equipment, ammunition & military research | 27.996 |
-| Fortifications, coastal works & shelters | 13.998 |
+| Service pay, allowances & military pensions | 94.475 |
+| Provisions, fuel, transport & training | 59.046 |
+| Arsenal, equipment & base maintenance | 40.151 |
+| New equipment, ammunition & military research | 28.342 |
+| Fortifications, coastal works & shelters | 14.171 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
 | new net borrowing | 0.000 |
-| net principal repayment | 2.800 |
-| reserve increase | 1.866 |
+| net principal repayment | 3.002 |
+| reserve increase | 2.001 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 5.0%. Balance / output: 0.18%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 233.3; opening liquid reserves 125.982. Estimated period financing (million L-eq): new net borrowing 0.0, net principal repayment 2.723, reserve increase 1.815, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 5.0%. Balance / output: 0.191%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Karsenne Compact
 
-National return. Population: 8,000,000.
+National return. Population: 8,017,977.
 
 Drossane hosts common business for autonomous mining councils and fortress districts. The Compact is a federation rather than a unified hereditary realm. Ores, engineering skills and defended approaches sustain its bargaining power, but coastal freight charges consume export income. Valley workshops and cultivated pockets support the upland economy. Veyrasse remains an uneasy defensive partner and vital outlet. A direct railway toward Calvernis is sought, not operating; existing roads do not provide an equivalent bulk-freight service.
 
@@ -2892,19 +2960,19 @@ Table and hospitality. Pass commerce carried dairy and grain dishes between othe
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 1,840.0 |
-| output per person lorrats | 230 |
-| revenue million lorrats | 386.4 |
-| defence million lorrats | 220.8 |
-| defence share percent | 12 |
+| output million lorrats | 1,854.474 |
+| output per person lorrats | 231.29 |
+| revenue million lorrats | 389.44 |
+| defence million lorrats | 222.537 |
+| defence share percent | 12.0 |
 | output trend percent | 0.7000000000000001 |
-| steel thousand tonnes | 1,890 |
-| food coverage percent | 72 |
-| fuel coverage percent | 138 |
-| fuel demand thousand tonnes coal equivalent | 11,200.0 |
-| fuel supply thousand tonnes coal equivalent | 15,456.0 |
-| food demand thousand tonnes grain equivalent | 3,200.0 |
-| food supply thousand tonnes grain equivalent | 2,304.0 |
+| steel thousand tonnes | 1,904.867 |
+| food coverage percent | 72.404 |
+| fuel coverage percent | 138.0 |
+| fuel demand thousand tonnes coal equivalent | 11,288.104 |
+| fuel supply thousand tonnes coal equivalent | 15,577.583 |
+| food demand thousand tonnes grain equivalent | 3,207.191 |
+| food supply thousand tonnes grain equivalent | 2,322.124 |
 | standing | 94,000 |
 | additional reserves | 254,000 |
 | field sustainable | 23,000 |
@@ -2927,59 +2995,61 @@ Table and hospitality. Pass commerce carried dairy and grain dishes between othe
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Existing pass works and mine approaches absorb investment; the proposed Calvernis railway is not funded construction.
+Projected deficit under unchanged fiscal policy. The earlier return described: Existing pass works and mine approaches absorb investment; the proposed Calvernis railway is not funded construction.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 386.400 |
+| revenue | 389.440 |
 | transfer income | 0.000 |
-| total receipts | 386.400 |
-| total expenditure | 409.584 |
-| balance | -23.184 |
+| total receipts | 389.440 |
+| total expenditure | 413.837 |
+| balance | -24.397 |
 | liquid reserves | 69.552 |
-| gross debt | 483.000 |
-| net debt | 413.448 |
-| interest | 26.565 |
+| gross debt | 505.549 |
+| net debt | 435.997 |
+| interest | 27.805 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 220.800 |
-| Civil administration, courts, policing & diplomacy | 35.688 |
-| Transport, public works & utilities | 58.399 |
-| Health, relief & civilian pensions | 25.955 |
-| Education, science & archives | 19.466 |
-| Agriculture, water management & forestry | 22.711 |
-| Public-debt interest | 26.565 |
+| Defence | 222.537 |
+| Civil administration, courts, policing & diplomacy | 35.969 |
+| Transport, public works & utilities | 58.858 |
+| Health, relief & civilian pensions | 26.159 |
+| Education, science & archives | 19.619 |
+| Agriculture, water management & forestry | 22.890 |
+| Public-debt interest | 27.805 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 88.320 |
-| Provisions, fuel, transport & training | 55.200 |
-| Arsenal, equipment & base maintenance | 37.536 |
-| New equipment, ammunition & military research | 26.496 |
-| Fortifications, coastal works & shelters | 13.248 |
+| Service pay, allowances & military pensions | 89.016 |
+| Provisions, fuel, transport & training | 55.634 |
+| Arsenal, equipment & base maintenance | 37.831 |
+| New equipment, ammunition & military research | 26.704 |
+| Fortifications, coastal works & shelters | 13.352 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 23.184 |
+| new net borrowing | 24.397 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 5.5%. Balance / output: -1.26%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 483.0; opening liquid reserves 69.552. Estimated period financing (million L-eq): new net borrowing 22.549, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 5.5%. Balance / output: -1.316%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Duchy of Caldrienne
 
-National return. Population: 23,900,000.
+National return. Population: 23,996,686.
 
 Valdrec houses the ducal administration and principal army depots. Productive valleys support estate agriculture and armament towns; the state fields strong infantry, artillery and a comparatively large armoured force. Ducal supervision is more centralised than in Veyrasse, though estate and arsenal interests still compete for resources. The unresolved Cressault claim strains an armed truce. Northern obligations and imports of Karsenne ore prevent its government from directing every resource against the March. Cressavelle provides a charted coastal gateway, with defended access to Valdrec.
 
@@ -2993,19 +3063,19 @@ Table and hospitality. Agricultural estates feed the northern arsenals; ducal ki
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 4,780.0 |
-| output per person lorrats | 200 |
-| revenue million lorrats | 1,195.0 |
-| defence million lorrats | 621.4 |
-| defence share percent | 13 |
+| output million lorrats | 4,833.726 |
+| output per person lorrats | 201.433 |
+| revenue million lorrats | 1,208.432 |
+| defence million lorrats | 628.384 |
+| defence share percent | 13.0 |
 | output trend percent | 1.0 |
-| steel thousand tonnes | 3,150 |
-| food coverage percent | 118 |
-| fuel coverage percent | 72 |
-| fuel demand thousand tonnes coal equivalent | 33,460.0 |
-| fuel supply thousand tonnes coal equivalent | 24,091.2 |
-| food demand thousand tonnes grain equivalent | 9,560.0 |
-| food supply thousand tonnes grain equivalent | 11,280.8 |
+| steel thousand tonnes | 3,185.405 |
+| food coverage percent | 118.846 |
+| fuel coverage percent | 72.0 |
+| fuel demand thousand tonnes coal equivalent | 33,836.083 |
+| fuel supply thousand tonnes coal equivalent | 24,361.98 |
+| food demand thousand tonnes grain equivalent | 9,598.674 |
+| food supply thousand tonnes grain equivalent | 11,407.594 |
 | standing | 296,000 |
 | additional reserves | 727,000 |
 | field sustainable | 107,000 |
@@ -3028,59 +3098,61 @@ Table and hospitality. Agricultural estates feed the northern arsenals; ducal ki
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Armament production and the armed truce require a continuing bond programme.
+Projected deficit under unchanged fiscal policy. The earlier return described: Armament production and the armed truce require a continuing bond programme.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 1,195.000 |
+| revenue | 1,208.432 |
 | transfer income | 0.000 |
-| total receipts | 1,195.000 |
-| total expenditure | 1,272.675 |
-| balance | -77.675 |
+| total receipts | 1,208.432 |
+| total expenditure | 1,289.680 |
+| balance | -81.248 |
 | liquid reserves | 191.200 |
-| gross debt | 1,912.000 |
-| net debt | 1,720.800 |
-| interest | 95.600 |
+| gross debt | 1,987.547 |
+| net debt | 1,796.347 |
+| interest | 99.377 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 621.400 |
-| Civil administration, courts, policing & diplomacy | 122.248 |
-| Transport, public works & utilities | 200.043 |
-| Health, relief & civilian pensions | 88.908 |
-| Education, science & archives | 66.681 |
-| Agriculture, water management & forestry | 77.795 |
-| Public-debt interest | 95.600 |
+| Defence | 628.384 |
+| Civil administration, courts, policing & diplomacy | 123.622 |
+| Transport, public works & utilities | 202.291 |
+| Health, relief & civilian pensions | 89.907 |
+| Education, science & archives | 67.430 |
+| Agriculture, water management & forestry | 78.669 |
+| Public-debt interest | 99.377 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 248.560 |
-| Provisions, fuel, transport & training | 155.350 |
-| Arsenal, equipment & base maintenance | 105.638 |
-| New equipment, ammunition & military research | 74.568 |
-| Fortifications, coastal works & shelters | 37.284 |
+| Service pay, allowances & military pensions | 251.354 |
+| Provisions, fuel, transport & training | 157.096 |
+| Arsenal, equipment & base maintenance | 106.825 |
+| New equipment, ammunition & military research | 75.406 |
+| Fortifications, coastal works & shelters | 37.703 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 77.675 |
+| new net borrowing | 81.248 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 5.0%. Balance / output: -1.625%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 1912.0; opening liquid reserves 191.2. Estimated period financing (million L-eq): new net borrowing 75.547, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 5.0%. Balance / output: -1.681%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## March of Veyrasse
 
-National return. Population: 15,700,000.
+National return. Population: 15,782,930.
 
 The charter balances the Margrave, landed houses, municipal councils and industrial proprietors. Auvrienne holds the court and government; Serravonne is a secondary port and rail junction. Coastal agriculture and workshops depend on inland ores and imported machinery. Railway unions can disrupt mobilisation, and poorer households bear disproportionate service obligations. Caldrienne remains the principal territorial rival; Karsenne is an essential supplier, while Calvernis and Ceralte provide competing maritime connections. The Margrave commands the standing army and foreign relations, while chartered institutions provide much of the money, manpower and transport. Education and engineering offer advancement through patronage. Railway superintendent Leont Vardesca governs railway affairs and dependants, not Serravonne’s government or army.
 
@@ -3094,19 +3166,19 @@ Table and hospitality. Old coastal markets and the railway labour settlements ex
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 3,218.5 |
-| output per person lorrats | 205 |
-| revenue million lorrats | 675.9 |
-| defence million lorrats | 354.0 |
-| defence share percent | 11 |
+| output million lorrats | 3,236.582 |
+| output per person lorrats | 205.069 |
+| revenue million lorrats | 679.697 |
+| defence million lorrats | 355.989 |
+| defence share percent | 10.999 |
 | output trend percent | 0.5 |
-| steel thousand tonnes | 2,120 |
-| food coverage percent | 97 |
-| fuel coverage percent | 62 |
-| fuel demand thousand tonnes coal equivalent | 21,980.0 |
-| fuel supply thousand tonnes coal equivalent | 13,627.6 |
-| food demand thousand tonnes grain equivalent | 6,280.0 |
-| food supply thousand tonnes grain equivalent | 6,091.6 |
+| steel thousand tonnes | 2,131.911 |
+| food coverage percent | 97.032 |
+| fuel coverage percent | 62.0 |
+| fuel demand thousand tonnes coal equivalent | 22,103.487 |
+| fuel supply thousand tonnes coal equivalent | 13,704.162 |
+| food demand thousand tonnes grain equivalent | 6,313.172 |
+| food supply thousand tonnes grain equivalent | 6,125.824 |
 | standing | 156,000 |
 | additional reserves | 441,000 |
 | field sustainable | 45,000 |
@@ -3129,59 +3201,61 @@ Table and hospitality. Old coastal markets and the railway labour settlements ex
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Existing rail and municipal waterworks produce a manageable planned deficit; unbuilt national wonders have no appropriation.
+Projected deficit under unchanged fiscal policy. The earlier return described: Existing rail and municipal waterworks produce a manageable planned deficit; unbuilt national wonders have no appropriation.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 675.900 |
+| revenue | 679.697 |
 | transfer income | 0.000 |
-| total receipts | 675.900 |
-| total expenditure | 692.797 |
-| balance | -16.897 |
+| total receipts | 679.697 |
+| total expenditure | 697.224 |
+| balance | -17.527 |
 | liquid reserves | 168.975 |
-| gross debt | 811.080 |
-| net debt | 642.105 |
-| interest | 36.499 |
+| gross debt | 827.514 |
+| net debt | 658.539 |
+| interest | 37.238 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 354.000 |
-| Civil administration, courts, policing & diplomacy | 66.506 |
-| Transport, public works & utilities | 108.827 |
-| Health, relief & civilian pensions | 48.368 |
-| Education, science & archives | 36.276 |
-| Agriculture, water management & forestry | 42.321 |
-| Public-debt interest | 36.499 |
+| Defence | 355.989 |
+| Civil administration, courts, policing & diplomacy | 66.880 |
+| Transport, public works & utilities | 109.438 |
+| Health, relief & civilian pensions | 48.640 |
+| Education, science & archives | 36.480 |
+| Agriculture, water management & forestry | 42.559 |
+| Public-debt interest | 37.238 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 141.600 |
-| Provisions, fuel, transport & training | 88.500 |
-| Arsenal, equipment & base maintenance | 60.180 |
-| New equipment, ammunition & military research | 42.480 |
-| Fortifications, coastal works & shelters | 21.240 |
+| Service pay, allowances & military pensions | 142.396 |
+| Provisions, fuel, transport & training | 88.997 |
+| Arsenal, equipment & base maintenance | 60.518 |
+| New equipment, ammunition & military research | 42.719 |
+| Fortifications, coastal works & shelters | 21.359 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 16.897 |
+| new net borrowing | 17.527 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 4.5%. Balance / output: -0.525%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 811.08; opening liquid reserves 168.975. Estimated period financing (million L-eq): new net borrowing 16.434, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 4.5%. Balance / output: -0.542%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Calvernis Republic
 
-National return. Population: 18,100,000.
+National return. Population: 18,205,784.
 
 Miravelle is the seat of a republic whose restricted franchise favours shipping, banking and industrial families. Harbour revenues, ship maintenance and manufacturing support convoy escorts, coastal guns, marines and maritime aircraft. Smaller towns supply its commercial ports without erasing rival patronage networks. Veyrasse is a customer and competitor; an alternative outlet for Karsenne could redirect freight and toll income. No agreement has completed that proposed railway. Cavrelune provides a charted coastal gateway, with defended access to Miravelle.
 
@@ -3195,19 +3269,19 @@ Table and hospitality. The banking ports absorbed recipes from their merchant cr
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 5,158.5 |
-| output per person lorrats | 285 |
-| revenue million lorrats | 1,083.3 |
-| defence million lorrats | 515.9 |
-| defence share percent | 10 |
+| output million lorrats | 5,199.079 |
+| output per person lorrats | 285.573 |
+| revenue million lorrats | 1,091.822 |
+| defence million lorrats | 519.958 |
+| defence share percent | 10.001 |
 | output trend percent | 0.7000000000000001 |
-| steel thousand tonnes | 2,180 |
-| food coverage percent | 85 |
-| fuel coverage percent | 49 |
-| fuel demand thousand tonnes coal equivalent | 25,340.0 |
-| fuel supply thousand tonnes coal equivalent | 12,416.6 |
-| food demand thousand tonnes grain equivalent | 7,240.0 |
-| food supply thousand tonnes grain equivalent | 6,154.0 |
+| steel thousand tonnes | 2,197.149 |
+| food coverage percent | 85.171 |
+| fuel coverage percent | 49.0 |
+| fuel demand thousand tonnes coal equivalent | 25,539.335 |
+| fuel supply thousand tonnes coal equivalent | 12,514.274 |
+| food demand thousand tonnes grain equivalent | 7,282.314 |
+| food supply thousand tonnes grain equivalent | 6,202.41 |
 | standing | 137,000 |
 | additional reserves | 421,000 |
 | field sustainable | 38,000 |
@@ -3230,59 +3304,61 @@ Table and hospitality. The banking ports absorbed recipes from their merchant cr
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Shipping and banking receipts sustain a surplus despite substantial public infrastructure debt.
+Projected surplus under unchanged fiscal policy. The earlier return described: Shipping and banking receipts sustain a surplus despite substantial public infrastructure debt.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 1,083.300 |
+| revenue | 1,091.822 |
 | transfer income | 0.000 |
-| total receipts | 1,083.300 |
-| total expenditure | 1,056.217 |
-| balance | 27.083 |
-| liquid reserves | 454.986 |
-| gross debt | 1,516.620 |
-| net debt | 1,061.634 |
-| interest | 60.665 |
+| total receipts | 1,091.822 |
+| total expenditure | 1,063.416 |
+| balance | 28.406 |
+| liquid reserves | 465.522 |
+| gross debt | 1,500.815 |
+| net debt | 1,035.293 |
+| interest | 60.033 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 515.900 |
-| Civil administration, courts, policing & diplomacy | 105.523 |
-| Transport, public works & utilities | 172.675 |
-| Health, relief & civilian pensions | 76.744 |
-| Education, science & archives | 57.558 |
-| Agriculture, water management & forestry | 67.152 |
-| Public-debt interest | 60.665 |
+| Defence | 519.958 |
+| Civil administration, courts, policing & diplomacy | 106.353 |
+| Transport, public works & utilities | 174.033 |
+| Health, relief & civilian pensions | 77.348 |
+| Education, science & archives | 58.011 |
+| Agriculture, water management & forestry | 67.680 |
+| Public-debt interest | 60.033 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 165.088 |
-| Provisions, fuel, transport & training | 128.975 |
-| Arsenal, equipment & base maintenance | 113.498 |
-| New equipment, ammunition & military research | 82.544 |
-| Fortifications, coastal works & shelters | 25.795 |
+| Service pay, allowances & military pensions | 166.386 |
+| Provisions, fuel, transport & training | 129.990 |
+| Arsenal, equipment & base maintenance | 114.391 |
+| New equipment, ammunition & military research | 83.193 |
+| Fortifications, coastal works & shelters | 25.998 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
 | new net borrowing | 0.000 |
-| net principal repayment | 16.250 |
-| reserve increase | 10.833 |
+| net principal repayment | 17.044 |
+| reserve increase | 11.362 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 4.0%. Balance / output: 0.525%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 1516.62; opening liquid reserves 454.986. Estimated period financing (million L-eq): new net borrowing 0.0, net principal repayment 15.805, reserve increase 10.536, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 4.0%. Balance / output: 0.546%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Ceralte Admiralty
 
-National return. Population: 2,900,000.
+National return. Population: 2,909,450.
 
 Dalmor is the fortified harbour and seat of a hereditary protector, senior naval council and island governors. Fishing, pilotage, convoy services and repair yards sustain the chain, while imported grain remains essential. Torpedo craft, mine warfare and knowledge of difficult waters offset limited land resources. Island communities depend on shipping rather than a mainland-style road network. Treaty cooperation coexists with accusations of privateering; no allegation proves official sponsorship.
 
@@ -3296,19 +3372,19 @@ Table and hospitality. Limited grain land and long sea passages made imported fl
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 681.5 |
-| output per person lorrats | 235 |
-| revenue million lorrats | 170.4 |
-| defence million lorrats | 95.4 |
-| defence share percent | 14 |
+| output million lorrats | 684.563 |
+| output per person lorrats | 235.289 |
+| revenue million lorrats | 171.166 |
+| defence million lorrats | 95.829 |
+| defence share percent | 13.999 |
 | output trend percent | 0.4 |
-| steel thousand tonnes | 200 |
-| food coverage percent | 61 |
-| fuel coverage percent | 29 |
-| fuel demand thousand tonnes coal equivalent | 3,045.0 |
-| fuel supply thousand tonnes coal equivalent | 883.0 |
-| food demand thousand tonnes grain equivalent | 1,160.0 |
-| food supply thousand tonnes grain equivalent | 707.6 |
+| steel thousand tonnes | 200.899 |
+| food coverage percent | 61.075 |
+| fuel coverage percent | 28.998 |
+| fuel demand thousand tonnes coal equivalent | 3,058.685 |
+| fuel supply thousand tonnes coal equivalent | 886.968 |
+| food demand thousand tonnes grain equivalent | 1,163.78 |
+| food supply thousand tonnes grain equivalent | 710.78 |
 | standing | 33,000 |
 | additional reserves | 72,000 |
 | field sustainable | 7,000 |
@@ -3331,59 +3407,61 @@ Table and hospitality. Limited grain land and long sea passages made imported fl
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Naval maintenance and imported provisions require borrowing alongside a maritime contingency buffer.
+Projected deficit under unchanged fiscal policy. The earlier return described: Naval maintenance and imported provisions require borrowing alongside a maritime contingency buffer.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 170.400 |
+| revenue | 171.166 |
 | transfer income | 0.000 |
-| total receipts | 170.400 |
-| total expenditure | 176.364 |
-| balance | -5.964 |
+| total receipts | 171.166 |
+| total expenditure | 177.380 |
+| balance | -6.214 |
 | liquid reserves | 51.120 |
-| gross debt | 187.440 |
-| net debt | 136.320 |
-| interest | 8.435 |
+| gross debt | 193.241 |
+| net debt | 142.121 |
+| interest | 8.696 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 95.400 |
-| Civil administration, courts, policing & diplomacy | 15.956 |
-| Transport, public works & utilities | 26.110 |
-| Health, relief & civilian pensions | 11.605 |
-| Education, science & archives | 8.703 |
-| Agriculture, water management & forestry | 10.155 |
-| Public-debt interest | 8.435 |
+| Defence | 95.829 |
+| Civil administration, courts, policing & diplomacy | 16.028 |
+| Transport, public works & utilities | 26.227 |
+| Health, relief & civilian pensions | 11.657 |
+| Education, science & archives | 8.742 |
+| Agriculture, water management & forestry | 10.201 |
+| Public-debt interest | 8.696 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 30.528 |
-| Provisions, fuel, transport & training | 23.850 |
-| Arsenal, equipment & base maintenance | 20.988 |
-| New equipment, ammunition & military research | 15.264 |
-| Fortifications, coastal works & shelters | 4.770 |
+| Service pay, allowances & military pensions | 30.666 |
+| Provisions, fuel, transport & training | 23.957 |
+| Arsenal, equipment & base maintenance | 21.082 |
+| New equipment, ammunition & military research | 15.333 |
+| Fortifications, coastal works & shelters | 4.791 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 5.964 |
+| new net borrowing | 6.214 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 4.5%. Balance / output: -0.875%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 187.44; opening liquid reserves 51.12. Estimated period financing (million L-eq): new net borrowing 5.801, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 4.5%. Balance / output: -0.908%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Varessan Sea League
 
-National return. Population: 1,800,000.
+National return. Population: 1,808,496.
 
 The Varessan Sea League unites five island assemblies under a charter covering convoys, foreign treaties and shared courts. Ardessa hosts the delegates, but each island retains land law and elects its harbour officers. Centuries of terrace cultivation and ocean navigation preceded mainland concessions. Shipwright families build wooden coasters and repair imported motor vessels. Treaty warehouses purchase wool, dried fish and fruit. The League permits leased depots but bars foreign ownership of freshwater catchments. Carrier houses seek closer mainland ties; cultivator assemblies resist customs exemptions that leave them paying the common defence levy.
 
@@ -3397,19 +3475,19 @@ Table and hospitality. Terrace farms and convoy stores support distinct island k
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 279.0 |
-| output per person lorrats | 155 |
-| revenue million lorrats | 39.06 |
-| defence million lorrats | 12.555 |
+| output million lorrats | 280.254 |
+| output per person lorrats | 154.965 |
+| revenue million lorrats | 39.236 |
+| defence million lorrats | 12.611 |
 | defence share percent | 4.5 |
 | output trend percent | 0.4 |
-| steel thousand tonnes | 18 |
-| food coverage percent | 112 |
-| fuel coverage percent | 28 |
-| fuel demand thousand tonnes coal equivalent | 2,160.0 |
-| fuel supply thousand tonnes coal equivalent | 604.8 |
-| food demand thousand tonnes grain equivalent | 720.0 |
-| food supply thousand tonnes grain equivalent | 806.4 |
+| steel thousand tonnes | 18.081 |
+| food coverage percent | 111.975 |
+| fuel coverage percent | 28.0 |
+| fuel demand thousand tonnes coal equivalent | 2,169.708 |
+| fuel supply thousand tonnes coal equivalent | 607.518 |
+| food demand thousand tonnes grain equivalent | 723.398 |
+| food supply thousand tonnes grain equivalent | 810.024 |
 | standing | 9,000 |
 | additional reserves | 25,000 |
 | field sustainable | 2,200 |
@@ -3432,59 +3510,61 @@ Table and hospitality. Terrace farms and convoy stores support distinct island k
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Assembly levies support a modest surplus; freshwater and island access take priority.
+Projected surplus under unchanged fiscal policy. The earlier return described: Assembly levies support a modest surplus; freshwater and island access take priority.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 39.060 |
+| revenue | 39.236 |
 | transfer income | 0.000 |
-| total receipts | 39.060 |
-| total expenditure | 38.669 |
-| balance | 0.391 |
-| liquid reserves | 10.937 |
-| gross debt | 9.765 |
-| net debt | -1.172 |
-| interest | 0.488 |
+| total receipts | 39.236 |
+| total expenditure | 38.830 |
+| balance | 0.406 |
+| liquid reserves | 11.089 |
+| gross debt | 9.536 |
+| net debt | -1.553 |
+| interest | 0.477 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 12.555 |
-| Civil administration, courts, policing & diplomacy | 5.894 |
-| Transport, public works & utilities | 6.150 |
-| Health, relief & civilian pensions | 4.356 |
-| Education, science & archives | 2.563 |
-| Agriculture, water management & forestry | 6.663 |
-| Public-debt interest | 0.488 |
+| Defence | 12.611 |
+| Civil administration, courts, policing & diplomacy | 5.920 |
+| Transport, public works & utilities | 6.178 |
+| Health, relief & civilian pensions | 4.376 |
+| Education, science & archives | 2.575 |
+| Agriculture, water management & forestry | 6.693 |
+| Public-debt interest | 0.477 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 5.022 |
-| Provisions, fuel, transport & training | 3.139 |
-| Arsenal, equipment & base maintenance | 2.134 |
-| New equipment, ammunition & military research | 1.507 |
-| Fortifications, coastal works & shelters | 0.753 |
+| Service pay, allowances & military pensions | 5.044 |
+| Provisions, fuel, transport & training | 3.153 |
+| Arsenal, equipment & base maintenance | 2.144 |
+| New equipment, ammunition & military research | 1.514 |
+| Fortifications, coastal works & shelters | 0.756 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
 | new net borrowing | 0.000 |
-| net principal repayment | 0.235 |
-| reserve increase | 0.156 |
+| net principal repayment | 0.244 |
+| reserve increase | 0.162 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 5.0%. Balance / output: 0.14%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 9.765; opening liquid reserves 10.937. Estimated period financing (million L-eq): new net borrowing 0.0, net principal repayment 0.229, reserve increase 0.152, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 5.0%. Balance / output: 0.145%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Talascan Charter Islands
 
-Colonial geographic return. Population: 1,100,000.
+Colonial geographic return. Population: 1,103,832.
 
 Rovessara governs the Talascan chain through a colonial commissioner, customs posts and commercial leases. Island communities remain the majority and retain village land councils, but the colonial court decides disputes involving export estates and harbour property. Settler merchants and mainland firms control much of the credit and shipping. Councils contest compulsory road levies and the conversion of common pasture into export holdings. The commissioner depends on local pilots and negotiated water rights. These islands have long-established inhabitants and histories, not vacant land discovered by their present rulers.
 
@@ -3498,19 +3578,19 @@ Table and hospitality. Older island farming overlaps with settler orchards and e
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 192.5 |
-| output per person lorrats | 175 |
-| revenue million lorrats | 30.8 |
-| defence million lorrats | 11.55 |
+| output million lorrats | 193.365 |
+| output per person lorrats | 175.176 |
+| revenue million lorrats | 30.938 |
+| defence million lorrats | 11.602 |
 | defence share percent | 6.0 |
 | output trend percent | 0.4 |
-| steel thousand tonnes | 12 |
-| food coverage percent | 108 |
-| fuel coverage percent | 22 |
-| fuel demand thousand tonnes coal equivalent | 1,320.0 |
-| fuel supply thousand tonnes coal equivalent | 290.4 |
-| food demand thousand tonnes grain equivalent | 440.0 |
-| food supply thousand tonnes grain equivalent | 475.2 |
+| steel thousand tonnes | 12.054 |
+| food coverage percent | 108.109 |
+| fuel coverage percent | 22.0 |
+| fuel demand thousand tonnes coal equivalent | 1,325.932 |
+| fuel supply thousand tonnes coal equivalent | 291.705 |
+| food demand thousand tonnes grain equivalent | 441.533 |
+| food supply thousand tonnes grain equivalent | 477.336 |
 | standing | 7,000 |
 | additional reserves | 14,000 |
 | field sustainable | 1,500 |
@@ -3533,59 +3613,61 @@ Table and hospitality. Older island farming overlaps with settler orchards and e
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-The colonial grant is booked once against the parent; private concession profits are not public reserves.
+Projected surplus under unchanged fiscal policy. The earlier return described: The colonial grant is booked once against the parent; private concession profits are not public reserves.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 30.800 |
+| revenue | 30.938 |
 | transfer income | 1.500 |
-| total receipts | 32.300 |
-| total expenditure | 31.416 |
-| balance | 0.884 |
-| liquid reserves | 5.544 |
-| gross debt | 13.860 |
-| net debt | 8.316 |
-| interest | 0.693 |
+| total receipts | 32.438 |
+| total expenditure | 31.528 |
+| balance | 0.910 |
+| liquid reserves | 5.888 |
+| gross debt | 13.345 |
+| net debt | 7.457 |
+| interest | 0.667 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 11.550 |
-| Civil administration, courts, policing & diplomacy | 4.218 |
-| Transport, public works & utilities | 6.902 |
-| Health, relief & civilian pensions | 3.068 |
-| Education, science & archives | 2.301 |
-| Agriculture, water management & forestry | 2.684 |
-| Public-debt interest | 0.693 |
+| Defence | 11.602 |
+| Civil administration, courts, policing & diplomacy | 4.237 |
+| Transport, public works & utilities | 6.933 |
+| Health, relief & civilian pensions | 3.082 |
+| Education, science & archives | 2.311 |
+| Agriculture, water management & forestry | 2.696 |
+| Public-debt interest | 0.667 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 4.620 |
-| Provisions, fuel, transport & training | 2.888 |
-| Arsenal, equipment & base maintenance | 1.964 |
-| New equipment, ammunition & military research | 1.386 |
-| Fortifications, coastal works & shelters | 0.692 |
+| Service pay, allowances & military pensions | 4.641 |
+| Provisions, fuel, transport & training | 2.901 |
+| Arsenal, equipment & base maintenance | 1.973 |
+| New equipment, ammunition & military research | 1.392 |
+| Fortifications, coastal works & shelters | 0.695 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
 | new net borrowing | 0.000 |
-| net principal repayment | 0.530 |
-| reserve increase | 0.354 |
+| net principal repayment | 0.546 |
+| reserve increase | 0.364 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 5.0%. Balance / output: 0.459%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 13.86; opening liquid reserves 5.544. Estimated period financing (million L-eq): new net borrowing 0.0, net principal repayment 0.515, reserve increase 0.344, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 5.0%. Balance / output: 0.471%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Nemerai Crown
 
-National return. Population: 3,200,000.
+National return. Population: 3,219,782.
 
 The Nemerai Crown is an old island monarchy whose ruler is confirmed by hereditary houses, town delegates and custodians of communal farmland. Nemer maintains written land records and a permanent customs service. Outer islands owe ships and levies under separate compacts; the crown cannot simply requisition their harvests. Fisheries, terrace grain and shipping support local machine shops, while heavy plant and refined marine fuel are imported. Foreign powers have treaty warehouses but no general jurisdiction. Court reformers favour technical colleges and a common budget; outer houses fear the loss of their island privileges.
 
@@ -3599,19 +3681,19 @@ Table and hospitality. Terraced grain and sheltered orchards developed alongside
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 464.0 |
-| output per person lorrats | 145 |
-| revenue million lorrats | 60.32 |
-| defence million lorrats | 23.2 |
+| output million lorrats | 466.085 |
+| output per person lorrats | 144.757 |
+| revenue million lorrats | 60.591 |
+| defence million lorrats | 23.304 |
 | defence share percent | 5.0 |
 | output trend percent | 0.4 |
-| steel thousand tonnes | 35 |
-| food coverage percent | 119 |
-| fuel coverage percent | 38 |
-| fuel demand thousand tonnes coal equivalent | 3,840.0 |
-| fuel supply thousand tonnes coal equivalent | 1,459.2 |
-| food demand thousand tonnes grain equivalent | 1,280.0 |
-| food supply thousand tonnes grain equivalent | 1,523.2 |
+| steel thousand tonnes | 35.157 |
+| food coverage percent | 118.8 |
+| fuel coverage percent | 38.0 |
+| fuel demand thousand tonnes coal equivalent | 3,857.258 |
+| fuel supply thousand tonnes coal equivalent | 1,465.758 |
+| food demand thousand tonnes grain equivalent | 1,287.913 |
+| food supply thousand tonnes grain equivalent | 1,530.046 |
 | standing | 17,000 |
 | additional reserves | 58,000 |
 | field sustainable | 4,800 |
@@ -3634,59 +3716,61 @@ Table and hospitality. Terraced grain and sheltered orchards developed alongside
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Terrace and harbour maintenance produce a small deficit under compact-approved borrowing.
+Projected deficit under unchanged fiscal policy. The earlier return described: Terrace and harbour maintenance produce a small deficit under compact-approved borrowing.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 60.320 |
+| revenue | 60.591 |
 | transfer income | 0.000 |
-| total receipts | 60.320 |
-| total expenditure | 61.225 |
-| balance | -0.905 |
+| total receipts | 60.591 |
+| total expenditure | 61.539 |
+| balance | -0.948 |
 | liquid reserves | 15.080 |
-| gross debt | 24.128 |
-| net debt | 9.048 |
-| interest | 1.206 |
+| gross debt | 25.008 |
+| net debt | 9.928 |
+| interest | 1.250 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 23.200 |
-| Civil administration, courts, policing & diplomacy | 8.468 |
-| Transport, public works & utilities | 8.837 |
-| Health, relief & civilian pensions | 6.259 |
-| Education, science & archives | 3.682 |
-| Agriculture, water management & forestry | 9.573 |
-| Public-debt interest | 1.206 |
+| Defence | 23.304 |
+| Civil administration, courts, policing & diplomacy | 8.506 |
+| Transport, public works & utilities | 8.877 |
+| Health, relief & civilian pensions | 6.287 |
+| Education, science & archives | 3.699 |
+| Agriculture, water management & forestry | 9.616 |
+| Public-debt interest | 1.250 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 9.280 |
-| Provisions, fuel, transport & training | 5.800 |
-| Arsenal, equipment & base maintenance | 3.944 |
-| New equipment, ammunition & military research | 2.784 |
-| Fortifications, coastal works & shelters | 1.392 |
+| Service pay, allowances & military pensions | 9.321 |
+| Provisions, fuel, transport & training | 5.826 |
+| Arsenal, equipment & base maintenance | 3.962 |
+| New equipment, ammunition & military research | 2.797 |
+| Fortifications, coastal works & shelters | 1.398 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 0.905 |
+| new net borrowing | 0.948 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 5.0%. Balance / output: -0.195%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 24.128; opening liquid reserves 15.08. Estimated period financing (million L-eq): new net borrowing 0.88, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 5.0%. Balance / output: -0.203%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Ordelune Overseas Districts
 
-Colonial geographic return. Population: 1,000,000.
+Colonial geographic return. Population: 1,004,158.
 
 Ostrevain’s southern overseas districts join two island clusters under a governor at Ordelune, linked by supply sailings rather than continuous land administration. Crown estates, settler farms and older island communities coexist under unequal tax and land arrangements. Wool, grain and preserved food finance the administration; district councils seek a greater share of customs revenue. Outlying harbours depend on local pilots and winter stores. Ostrevain claims the chain but has no effective authority over Austral Land, and the governor cannot promise passage through polar waters.
 
@@ -3700,19 +3784,19 @@ Table and hospitality. Cold-water fishing and mixed farming supply households an
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 135.0 |
-| output per person lorrats | 135 |
-| revenue million lorrats | 18.9 |
-| defence million lorrats | 6.075 |
+| output million lorrats | 135.607 |
+| output per person lorrats | 135.045 |
+| revenue million lorrats | 18.985 |
+| defence million lorrats | 6.102 |
 | defence share percent | 4.5 |
 | output trend percent | 0.4 |
-| steel thousand tonnes | 8 |
-| food coverage percent | 126 |
-| fuel coverage percent | 35 |
-| fuel demand thousand tonnes coal equivalent | 1,200.0 |
-| fuel supply thousand tonnes coal equivalent | 420.0 |
-| food demand thousand tonnes grain equivalent | 400.0 |
-| food supply thousand tonnes grain equivalent | 504.0 |
+| steel thousand tonnes | 8.036 |
+| food coverage percent | 126.042 |
+| fuel coverage percent | 35.0 |
+| fuel demand thousand tonnes coal equivalent | 1,205.393 |
+| fuel supply thousand tonnes coal equivalent | 421.888 |
+| food demand thousand tonnes grain equivalent | 401.663 |
+| food supply thousand tonnes grain equivalent | 506.265 |
 | standing | 5,500 |
 | additional reserves | 17,000 |
 | field sustainable | 1,300 |
@@ -3735,59 +3819,61 @@ Table and hospitality. Cold-water fishing and mixed farming supply households an
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-A matched metropolitan subsidy covers part of the southern supply burden.
+Projected surplus under unchanged fiscal policy. The earlier return described: A matched metropolitan subsidy covers part of the southern supply burden.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 18.900 |
+| revenue | 18.985 |
 | transfer income | 2.500 |
-| total receipts | 21.400 |
-| total expenditure | 20.412 |
-| balance | 0.988 |
-| liquid reserves | 4.536 |
-| gross debt | 5.670 |
-| net debt | 1.134 |
-| interest | 0.284 |
+| total receipts | 21.485 |
+| total expenditure | 20.473 |
+| balance | 1.012 |
+| liquid reserves | 4.920 |
+| gross debt | 5.093 |
+| net debt | 0.173 |
+| interest | 0.255 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 6.075 |
-| Civil administration, courts, policing & diplomacy | 3.232 |
-| Transport, public works & utilities | 3.373 |
-| Health, relief & civilian pensions | 2.389 |
-| Education, science & archives | 1.405 |
-| Agriculture, water management & forestry | 3.654 |
-| Public-debt interest | 0.284 |
+| Defence | 6.102 |
+| Civil administration, courts, policing & diplomacy | 3.247 |
+| Transport, public works & utilities | 3.388 |
+| Health, relief & civilian pensions | 2.400 |
+| Education, science & archives | 1.411 |
+| Agriculture, water management & forestry | 3.670 |
+| Public-debt interest | 0.255 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 2.430 |
-| Provisions, fuel, transport & training | 1.519 |
-| Arsenal, equipment & base maintenance | 1.033 |
-| New equipment, ammunition & military research | 0.729 |
-| Fortifications, coastal works & shelters | 0.364 |
+| Service pay, allowances & military pensions | 2.440 |
+| Provisions, fuel, transport & training | 1.526 |
+| Arsenal, equipment & base maintenance | 1.038 |
+| New equipment, ammunition & military research | 0.732 |
+| Fortifications, coastal works & shelters | 0.366 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
 | new net borrowing | 0.000 |
-| net principal repayment | 0.593 |
-| reserve increase | 0.395 |
+| net principal repayment | 0.607 |
+| reserve increase | 0.405 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 5.0%. Balance / output: 0.732%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 5.67; opening liquid reserves 4.536. Estimated period financing (million L-eq): new net borrowing 0.0, net principal repayment 0.577, reserve increase 0.384, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 5.0%. Balance / output: 0.746%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Skeldran Hearth Confederacy
 
-National return. Population: 450,000.
+National return. Population: 450,910.
 
 The Skeldran Hearth Confederacy is a sovereign compact of island kin groups, fishing towns and grazing communities. Delegates meet at Skeldra; land and shelter rights remain with hearth assemblies. Customary law is transmitted through named custodians and written harbour judgments, with interpreters for several languages. Imported rifles, radios and motor boats coexist with wooden shipbuilding and household workshops. The confederacy grants seasonal anchorage permits but rejects permanent foreign garrisons. Sparse farmland and severe winters favour dispersed stores, reciprocal rescue duties and small defensive forces.
 
@@ -3801,19 +3887,19 @@ Table and hospitality. Collective stores and rescue obligations shape the table.
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 42.75 |
-| output per person lorrats | 95 |
-| revenue million lorrats | 4.275 |
-| defence million lorrats | 1.71 |
-| defence share percent | 4.0 |
+| output million lorrats | 42.942 |
+| output per person lorrats | 95.234 |
+| revenue million lorrats | 4.294 |
+| defence million lorrats | 1.718 |
+| defence share percent | 4.001 |
 | output trend percent | 0.4 |
-| steel thousand tonnes | 1 |
-| food coverage percent | 101 |
-| fuel coverage percent | 55 |
-| fuel demand thousand tonnes coal equivalent | 540.0 |
-| fuel supply thousand tonnes coal equivalent | 297.0 |
-| food demand thousand tonnes grain equivalent | 180.0 |
-| food supply thousand tonnes grain equivalent | 181.8 |
+| steel thousand tonnes | 1.004 |
+| food coverage percent | 101.249 |
+| fuel coverage percent | 55.0 |
+| fuel demand thousand tonnes coal equivalent | 542.427 |
+| fuel supply thousand tonnes coal equivalent | 298.335 |
+| food demand thousand tonnes grain equivalent | 180.364 |
+| food supply thousand tonnes grain equivalent | 182.617 |
 | standing | 2,200 |
 | additional reserves | 14,000 |
 | field sustainable | 450 |
@@ -3836,43 +3922,43 @@ Table and hospitality. Collective stores and rescue obligations shape the table.
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Low debt accompanies communal stores and rescue commitments; stores themselves are not liquid cash.
+Projected surplus under unchanged fiscal policy. The earlier return described: Low debt accompanies communal stores and rescue commitments; stores themselves are not liquid cash.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 4.275 |
+| revenue | 4.294 |
 | transfer income | 0.000 |
-| total receipts | 4.275 |
-| total expenditure | 4.190 |
-| balance | 0.085 |
-| liquid reserves | 1.496 |
-| gross debt | 0.428 |
-| net debt | -1.068 |
-| interest | 0.021 |
+| total receipts | 4.294 |
+| total expenditure | 4.208 |
+| balance | 0.086 |
+| liquid reserves | 1.529 |
+| gross debt | 0.378 |
+| net debt | -1.151 |
+| interest | 0.019 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 1.710 |
-| Civil administration, courts, policing & diplomacy | 0.566 |
-| Transport, public works & utilities | 0.566 |
-| Health, relief & civilian pensions | 0.713 |
-| Education, science & archives | 0.246 |
-| Agriculture, water management & forestry | 0.368 |
-| Public-debt interest | 0.021 |
+| Defence | 1.718 |
+| Civil administration, courts, policing & diplomacy | 0.569 |
+| Transport, public works & utilities | 0.569 |
+| Health, relief & civilian pensions | 0.716 |
+| Education, science & archives | 0.247 |
+| Agriculture, water management & forestry | 0.370 |
+| Public-debt interest | 0.019 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 0.821 |
-| Provisions, fuel, transport & training | 0.445 |
-| Arsenal, equipment & base maintenance | 0.239 |
-| New equipment, ammunition & military research | 0.120 |
+| Service pay, allowances & military pensions | 0.825 |
+| Provisions, fuel, transport & training | 0.447 |
+| Arsenal, equipment & base maintenance | 0.240 |
+| New equipment, ammunition & military research | 0.121 |
 | Fortifications, coastal works & shelters | 0.085 |
 
 #### Annual financing plan — not yet booked
@@ -3880,15 +3966,17 @@ Low debt accompanies communal stores and rescue commitments; stores themselves a
 | Allocation | Million L-eq |
 |---|---:|
 | new net borrowing | 0.000 |
-| net principal repayment | 0.051 |
+| net principal repayment | 0.052 |
 | reserve increase | 0.034 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 5.0%. Balance / output: 0.199%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 0.428; opening liquid reserves 1.496. Estimated period financing (million L-eq): new net borrowing 0.0, net principal repayment 0.05, reserve increase 0.033, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 5.0%. Balance / output: 0.2%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Merovian Island Republic
 
-National return. Population: 1,600,000.
+National return. Population: 1,608,272.
 
 The Merovian Island Republic joins port municipalities and agricultural districts through an elected assembly. Its residence and tax franchise leaves seasonal crews and some outer communities underrepresented. Shipping insurance, repair docks, fruit and wool exports support a modest industrial base. Cooperative farms compete with carriers over freight rates. The republic controls a north-south chain at the meeting of eastern and austral routes; depot access is negotiated commercially rather than reserved to one mainland patron. Rival parties disagree over naval spending and foreign loans.
 
@@ -3902,19 +3990,19 @@ Table and hospitality. Port commerce brought varied seasonings to island farming
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 304.0 |
-| output per person lorrats | 190 |
-| revenue million lorrats | 54.72 |
-| defence million lorrats | 19.76 |
+| output million lorrats | 305.366 |
+| output per person lorrats | 189.872 |
+| revenue million lorrats | 54.966 |
+| defence million lorrats | 19.849 |
 | defence share percent | 6.5 |
 | output trend percent | 0.4 |
-| steel thousand tonnes | 95 |
-| food coverage percent | 104 |
-| fuel coverage percent | 45 |
-| fuel demand thousand tonnes coal equivalent | 1,920.0 |
-| fuel supply thousand tonnes coal equivalent | 864.0 |
-| food demand thousand tonnes grain equivalent | 640.0 |
-| food supply thousand tonnes grain equivalent | 665.6 |
+| steel thousand tonnes | 95.427 |
+| food coverage percent | 103.93 |
+| fuel coverage percent | 45.0 |
+| fuel demand thousand tonnes coal equivalent | 1,928.629 |
+| fuel supply thousand tonnes coal equivalent | 867.883 |
+| food demand thousand tonnes grain equivalent | 643.309 |
+| food supply thousand tonnes grain equivalent | 668.591 |
 | standing | 10,500 |
 | additional reserves | 30,000 |
 | field sustainable | 2,900 |
@@ -3937,59 +4025,61 @@ Table and hospitality. Port commerce brought varied seasonings to island farming
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Marine works and pumps are partly bond-financed despite substantial liquid reserves.
+Projected deficit under unchanged fiscal policy. The earlier return described: Marine works and pumps are partly bond-financed despite substantial liquid reserves.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 54.720 |
+| revenue | 54.966 |
 | transfer income | 0.000 |
-| total receipts | 54.720 |
-| total expenditure | 56.088 |
-| balance | -1.368 |
+| total receipts | 54.966 |
+| total expenditure | 56.392 |
+| balance | -1.426 |
 | liquid reserves | 17.510 |
-| gross debt | 35.568 |
-| net debt | 18.058 |
-| interest | 1.601 |
+| gross debt | 36.899 |
+| net debt | 19.389 |
+| interest | 1.660 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 19.760 |
-| Civil administration, courts, policing & diplomacy | 7.640 |
-| Transport, public works & utilities | 12.502 |
-| Health, relief & civilian pensions | 5.556 |
-| Education, science & archives | 4.167 |
-| Agriculture, water management & forestry | 4.862 |
-| Public-debt interest | 1.601 |
+| Defence | 19.849 |
+| Civil administration, courts, policing & diplomacy | 7.674 |
+| Transport, public works & utilities | 12.558 |
+| Health, relief & civilian pensions | 5.581 |
+| Education, science & archives | 4.186 |
+| Agriculture, water management & forestry | 4.884 |
+| Public-debt interest | 1.660 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 7.904 |
-| Provisions, fuel, transport & training | 4.940 |
-| Arsenal, equipment & base maintenance | 3.359 |
-| New equipment, ammunition & military research | 2.371 |
-| Fortifications, coastal works & shelters | 1.186 |
+| Service pay, allowances & military pensions | 7.940 |
+| Provisions, fuel, transport & training | 4.962 |
+| Arsenal, equipment & base maintenance | 3.374 |
+| New equipment, ammunition & military research | 2.382 |
+| Fortifications, coastal works & shelters | 1.191 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 1.368 |
+| new net borrowing | 1.426 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 4.5%. Balance / output: -0.45%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 35.568; opening liquid reserves 17.51. Estimated period financing (million L-eq): new net borrowing 1.331, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 4.5%. Balance / output: -0.467%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Ashalai Reef Covenant
 
-National return. Population: 2,400,000.
+National return. Population: 2,416,726.
 
 The Ashalai Reef Covenant confederates hereditary kin councils, elected harbour assemblies and inland farming communities. Its gathering at Ashala settles foreign treaties, fishing boundaries and mutual defence without extinguishing local law or language. Islanders have long cultivated wet valleys and traded between reefs. Imported engines, rifles and radios are maintained in port workshops; heavy industry is limited. Foreign firms lease warehouses through negotiated covenants, with no right to seize communal land. Harbour merchants favour broader credit access, while inland councils resist debts secured against future harvests.
 
@@ -4003,19 +4093,19 @@ Table and hospitality. Wet-valley cultivation and reef fisheries support inter-i
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 264.0 |
-| output per person lorrats | 110 |
-| revenue million lorrats | 29.04 |
-| defence million lorrats | 10.56 |
+| output million lorrats | 265.186 |
+| output per person lorrats | 109.729 |
+| revenue million lorrats | 29.171 |
+| defence million lorrats | 10.607 |
 | defence share percent | 4.0 |
 | output trend percent | 0.4 |
-| steel thousand tonnes | 5 |
-| food coverage percent | 121 |
-| fuel coverage percent | 32 |
-| fuel demand thousand tonnes coal equivalent | 2,880.0 |
-| fuel supply thousand tonnes coal equivalent | 921.6 |
-| food demand thousand tonnes grain equivalent | 960.0 |
-| food supply thousand tonnes grain equivalent | 1,161.6 |
+| steel thousand tonnes | 5.022 |
+| food coverage percent | 120.703 |
+| fuel coverage percent | 32.0 |
+| fuel demand thousand tonnes coal equivalent | 2,892.943 |
+| fuel supply thousand tonnes coal equivalent | 925.742 |
+| food demand thousand tonnes grain equivalent | 966.69 |
+| food supply thousand tonnes grain equivalent | 1,166.821 |
 | standing | 8,000 |
 | additional reserves | 45,000 |
 | field sustainable | 1,800 |
@@ -4038,59 +4128,61 @@ Table and hospitality. Wet-valley cultivation and reef fisheries support inter-i
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Small negotiated loans support water and agricultural works without pledging all communal land.
+Projected deficit under unchanged fiscal policy. The earlier return described: Small negotiated loans support water and agricultural works without pledging all communal land.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 29.040 |
+| revenue | 29.171 |
 | transfer income | 0.000 |
-| total receipts | 29.040 |
-| total expenditure | 29.330 |
-| balance | -0.290 |
+| total receipts | 29.171 |
+| total expenditure | 29.476 |
+| balance | -0.305 |
 | liquid reserves | 6.389 |
-| gross debt | 5.808 |
-| net debt | -0.581 |
-| interest | 0.319 |
+| gross debt | 6.090 |
+| net debt | -0.299 |
+| interest | 0.335 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 10.560 |
-| Civil administration, courts, policing & diplomacy | 4.244 |
-| Transport, public works & utilities | 4.428 |
-| Health, relief & civilian pensions | 3.137 |
-| Education, science & archives | 1.845 |
-| Agriculture, water management & forestry | 4.797 |
-| Public-debt interest | 0.319 |
+| Defence | 10.607 |
+| Civil administration, courts, policing & diplomacy | 4.263 |
+| Transport, public works & utilities | 4.448 |
+| Health, relief & civilian pensions | 3.151 |
+| Education, science & archives | 1.853 |
+| Agriculture, water management & forestry | 4.819 |
+| Public-debt interest | 0.335 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 5.069 |
-| Provisions, fuel, transport & training | 2.746 |
-| Arsenal, equipment & base maintenance | 1.478 |
-| New equipment, ammunition & military research | 0.739 |
-| Fortifications, coastal works & shelters | 0.528 |
+| Service pay, allowances & military pensions | 5.092 |
+| Provisions, fuel, transport & training | 2.758 |
+| Arsenal, equipment & base maintenance | 1.485 |
+| New equipment, ammunition & military research | 0.742 |
+| Fortifications, coastal works & shelters | 0.530 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 0.290 |
+| new net borrowing | 0.305 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 5.5%. Balance / output: -0.11%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 5.808; opening liquid reserves 6.389. Estimated period financing (million L-eq): new net borrowing 0.282, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 5.5%. Balance / output: -0.115%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Kingdom of Istrana
 
-National return. Population: 1,750,000.
+National return. Population: 1,759,637.
 
 Istrana is an island kingdom with a hereditary crown, permanent civil service and revenue assembly representing towns and landholding districts. The court claims descent from an older maritime union, but authority rests on negotiated taxes and a small professional fleet. Sugar, fruit, textiles and repaired vessels pass through its ports. State schools train clerks and mechanics; heavy machinery and much marine fuel are imported. The crown cultivates several mainland partners to avoid a protectorate. Outer representatives demand limits on royal borrowing and exclusive contracts awarded to court merchants.
 
@@ -4104,19 +4196,19 @@ Table and hospitality. A maritime court draws on irrigated valleys, plantation d
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 288.75 |
-| output per person lorrats | 165 |
-| revenue million lorrats | 49.088 |
-| defence million lorrats | 17.325 |
+| output million lorrats | 290.048 |
+| output per person lorrats | 164.834 |
+| revenue million lorrats | 49.309 |
+| defence million lorrats | 17.403 |
 | defence share percent | 6.0 |
 | output trend percent | 0.4 |
-| steel thousand tonnes | 44 |
-| food coverage percent | 110 |
-| fuel coverage percent | 40 |
-| fuel demand thousand tonnes coal equivalent | 2,100.0 |
-| fuel supply thousand tonnes coal equivalent | 840.0 |
-| food demand thousand tonnes grain equivalent | 700.0 |
-| food supply thousand tonnes grain equivalent | 770.0 |
+| steel thousand tonnes | 44.198 |
+| food coverage percent | 109.889 |
+| fuel coverage percent | 40.0 |
+| fuel demand thousand tonnes coal equivalent | 2,109.438 |
+| fuel supply thousand tonnes coal equivalent | 843.775 |
+| food demand thousand tonnes grain equivalent | 703.855 |
+| food supply thousand tonnes grain equivalent | 773.461 |
 | standing | 10,000 |
 | additional reserves | 31,000 |
 | field sustainable | 2,600 |
@@ -4139,59 +4231,61 @@ Table and hospitality. A maritime court draws on irrigated valleys, plantation d
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Assembly-approved borrowing supports schools and port works, subject to existing limits on royal credit.
+Projected deficit under unchanged fiscal policy. The earlier return described: Assembly-approved borrowing supports schools and port works, subject to existing limits on royal credit.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 49.088 |
+| revenue | 49.309 |
 | transfer income | 0.000 |
-| total receipts | 49.088 |
-| total expenditure | 51.052 |
-| balance | -1.964 |
+| total receipts | 49.309 |
+| total expenditure | 51.368 |
+| balance | -2.059 |
 | liquid reserves | 9.818 |
-| gross debt | 36.816 |
-| net debt | 26.998 |
-| interest | 1.841 |
+| gross debt | 38.726 |
+| net debt | 28.908 |
+| interest | 1.936 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 17.325 |
-| Civil administration, courts, policing & diplomacy | 7.015 |
-| Transport, public works & utilities | 7.653 |
-| Health, relief & civilian pensions | 6.058 |
-| Education, science & archives | 7.334 |
-| Agriculture, water management & forestry | 3.826 |
-| Public-debt interest | 1.841 |
+| Defence | 17.403 |
+| Civil administration, courts, policing & diplomacy | 7.047 |
+| Transport, public works & utilities | 7.687 |
+| Health, relief & civilian pensions | 6.085 |
+| Education, science & archives | 7.367 |
+| Agriculture, water management & forestry | 3.843 |
+| Public-debt interest | 1.936 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 6.930 |
-| Provisions, fuel, transport & training | 4.331 |
-| Arsenal, equipment & base maintenance | 2.945 |
-| New equipment, ammunition & military research | 2.079 |
-| Fortifications, coastal works & shelters | 1.040 |
+| Service pay, allowances & military pensions | 6.962 |
+| Provisions, fuel, transport & training | 4.350 |
+| Arsenal, equipment & base maintenance | 2.958 |
+| New equipment, ammunition & military research | 2.088 |
+| Fortifications, coastal works & shelters | 1.045 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 1.964 |
+| new net borrowing | 2.059 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 5.0%. Balance / output: -0.68%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 36.816; opening liquid reserves 9.818. Estimated period financing (million L-eq): new net borrowing 1.91, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 5.0%. Balance / output: -0.71%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Edrask Governorate
 
-Colonial geographic return. Population: 1,200,000.
+Colonial geographic return. Population: 1,203,910.
 
 Rovengard’s Edrask Governorate holds the inhabited eastern chain through a governor, harbour garrisons and treaties with older island councils. Fishing communities, timber districts and settler towns have different land rights; some councils accept crown arbitration while resisting new concessions. Timber and preserved fish fund northern weather stations. Defence rests partly on visiting Rovengard ships, which are not permanent additions to the island fleet. Southern ports trade with Istrana; northern calls close seasonally. The governor’s map claim does not imply continuous occupation of mountain interiors.
 
@@ -4205,19 +4299,19 @@ Table and hospitality. Settler dairy farms and older fishing communities exchang
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 180.0 |
-| output per person lorrats | 150 |
-| revenue million lorrats | 27.0 |
-| defence million lorrats | 10.8 |
+| output million lorrats | 180.809 |
+| output per person lorrats | 150.185 |
+| revenue million lorrats | 27.121 |
+| defence million lorrats | 10.849 |
 | defence share percent | 6.0 |
 | output trend percent | 0.4 |
-| steel thousand tonnes | 16 |
-| food coverage percent | 98 |
-| fuel coverage percent | 60 |
-| fuel demand thousand tonnes coal equivalent | 1,440.0 |
-| fuel supply thousand tonnes coal equivalent | 864.0 |
-| food demand thousand tonnes grain equivalent | 480.0 |
-| food supply thousand tonnes grain equivalent | 470.4 |
+| steel thousand tonnes | 16.072 |
+| food coverage percent | 98.121 |
+| fuel coverage percent | 60.0 |
+| fuel demand thousand tonnes coal equivalent | 1,446.472 |
+| fuel supply thousand tonnes coal equivalent | 867.883 |
+| food demand thousand tonnes grain equivalent | 481.564 |
+| food supply thousand tonnes grain equivalent | 472.514 |
 | standing | 8,500 |
 | additional reserves | 18,000 |
 | field sustainable | 1,900 |
@@ -4240,59 +4334,61 @@ Table and hospitality. Settler dairy farms and older fishing communities exchang
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-A matched parent subsidy helps fund northern depots and weather stations.
+Projected surplus under unchanged fiscal policy. The earlier return described: A matched parent subsidy helps fund northern depots and weather stations.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 27.000 |
+| revenue | 27.121 |
 | transfer income | 3.000 |
-| total receipts | 30.000 |
-| total expenditure | 29.430 |
-| balance | 0.570 |
-| liquid reserves | 5.940 |
-| gross debt | 9.450 |
-| net debt | 3.510 |
-| interest | 0.472 |
+| total receipts | 30.121 |
+| total expenditure | 29.544 |
+| balance | 0.577 |
+| liquid reserves | 6.162 |
+| gross debt | 9.117 |
+| net debt | 2.955 |
+| interest | 0.456 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 10.800 |
-| Civil administration, courts, policing & diplomacy | 3.995 |
-| Transport, public works & utilities | 6.537 |
-| Health, relief & civilian pensions | 2.905 |
-| Education, science & archives | 2.179 |
-| Agriculture, water management & forestry | 2.542 |
-| Public-debt interest | 0.472 |
+| Defence | 10.849 |
+| Civil administration, courts, policing & diplomacy | 4.013 |
+| Transport, public works & utilities | 6.566 |
+| Health, relief & civilian pensions | 2.918 |
+| Education, science & archives | 2.189 |
+| Agriculture, water management & forestry | 2.553 |
+| Public-debt interest | 0.456 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 4.320 |
-| Provisions, fuel, transport & training | 2.700 |
-| Arsenal, equipment & base maintenance | 1.836 |
-| New equipment, ammunition & military research | 1.296 |
-| Fortifications, coastal works & shelters | 0.648 |
+| Service pay, allowances & military pensions | 4.340 |
+| Provisions, fuel, transport & training | 2.712 |
+| Arsenal, equipment & base maintenance | 1.844 |
+| New equipment, ammunition & military research | 1.302 |
+| Fortifications, coastal works & shelters | 0.651 |
 
 #### Annual financing plan — not yet booked
 
 | Allocation | Million L-eq |
 |---|---:|
 | new net borrowing | 0.000 |
-| net principal repayment | 0.342 |
-| reserve increase | 0.228 |
+| net principal repayment | 0.346 |
+| reserve increase | 0.231 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 5.0%. Balance / output: 0.317%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 9.45; opening liquid reserves 5.94. Estimated period financing (million L-eq): new net borrowing 0.0, net principal repayment 0.333, reserve increase 0.222, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 5.0%. Balance / output: 0.319%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
 
 ## Norrakai Moots
 
-National return. Population: 120,000.
+National return. Population: 120,162.
 
 The Norrakai Moots unite northern island communities through seasonal assemblies and mutual refuge law. They remain outside Vardol’s crown despite trading with its ports. Fishing, herding and limited sheltered cultivation sustain a sparse population, supplemented by imported grain. Councils negotiate pilotage and weather-station leases without ceding sovereignty. Radios and motor launches connect communities still reliant on locally built boats. Families use seasonal camps and permanent villages; an empty winter landing does not establish uninhabited territory.
 
@@ -4306,19 +4402,19 @@ Table and hospitality. Seasonal travel and reciprocal refuge duties shape storag
 
 | Measure | Estimate |
 |---|---:|
-| output million lorrats | 9.6 |
-| output per person lorrats | 80 |
-| revenue million lorrats | 0.864 |
-| defence million lorrats | 0.336 |
-| defence share percent | 3.5000000000000004 |
+| output million lorrats | 9.643 |
+| output per person lorrats | 80.25 |
+| revenue million lorrats | 0.868 |
+| defence million lorrats | 0.338 |
+| defence share percent | 3.505 |
 | output trend percent | 0.4 |
-| steel thousand tonnes | 0 |
-| food coverage percent | 94 |
-| fuel coverage percent | 45 |
-| fuel demand thousand tonnes coal equivalent | 144.0 |
-| fuel supply thousand tonnes coal equivalent | 64.8 |
-| food demand thousand tonnes grain equivalent | 48.0 |
-| food supply thousand tonnes grain equivalent | 45.12 |
+| steel thousand tonnes | 0.0 |
+| food coverage percent | 94.295 |
+| fuel coverage percent | 45.0 |
+| fuel demand thousand tonnes coal equivalent | 144.647 |
+| fuel supply thousand tonnes coal equivalent | 65.091 |
+| food demand thousand tonnes grain equivalent | 48.065 |
+| food supply thousand tonnes grain equivalent | 45.323 |
 | standing | 450 |
 | additional reserves | 2,500 |
 | field sustainable | 90 |
@@ -4341,40 +4437,40 @@ Table and hospitality. Seasonal travel and reciprocal refuge duties shape storag
 
 ### Treasury and annual budget
 
-Year 67 AC43; treasury stocks at 21/10/0067 AC43. Figures in millions of lorrat-equivalents. Annual forecasts are not transactions already booked.
+11/10/0068 AC43 — projected treasury stocks and annual budget run-rate. Figures in millions of lorrat-equivalents. Annual run-rates are not transactions already booked. Treasury stocks are explicitly modelled estimates; military holdings remain the last recorded return.
 
-Small harbour loans supplement refuge services; distributed stores are excluded from cash reserves.
+Projected deficit under unchanged fiscal policy. The earlier return described: Small harbour loans supplement refuge services; distributed stores are excluded from cash reserves.
 
 | Measure | Million L-eq |
 |---|---:|
-| revenue | 0.864 |
+| revenue | 0.868 |
 | transfer income | 0.000 |
-| total receipts | 0.864 |
-| total expenditure | 0.881 |
-| balance | -0.017 |
+| total receipts | 0.868 |
+| total expenditure | 0.887 |
+| balance | -0.019 |
 | liquid reserves | 0.346 |
-| gross debt | 0.069 |
-| net debt | -0.277 |
-| interest | 0.004 |
+| gross debt | 0.086 |
+| net debt | -0.260 |
+| interest | 0.005 |
 
 #### Annual expenditure
 
 | Allocation | Million L-eq |
 |---|---:|
-| Defence | 0.336 |
-| Civil administration, courts, policing & diplomacy | 0.124 |
-| Transport, public works & utilities | 0.124 |
-| Health, relief & civilian pensions | 0.157 |
+| Defence | 0.338 |
+| Civil administration, courts, policing & diplomacy | 0.125 |
+| Transport, public works & utilities | 0.125 |
+| Health, relief & civilian pensions | 0.158 |
 | Education, science & archives | 0.054 |
 | Agriculture, water management & forestry | 0.082 |
-| Public-debt interest | 0.004 |
+| Public-debt interest | 0.005 |
 | Transfers to other public returns | 0.000 |
 
 #### Defence allocation — included above
 
 | Allocation | Million L-eq |
 |---|---:|
-| Service pay, allowances & military pensions | 0.161 |
+| Service pay, allowances & military pensions | 0.163 |
 | Provisions, fuel, transport & training | 0.087 |
 | Arsenal, equipment & base maintenance | 0.047 |
 | New equipment, ammunition & military research | 0.024 |
@@ -4384,9 +4480,11 @@ Small harbour loans supplement refuge services; distributed stores are excluded 
 
 | Allocation | Million L-eq |
 |---|---:|
-| new net borrowing | 0.017 |
+| new net borrowing | 0.019 |
 | net principal repayment | 0.000 |
 | reserve increase | 0.000 |
 | reserve drawdown | 0.000 |
 
-Effective annual interest: 6.0%. Balance / output: -0.177%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
+Treasury bridge from 21/10/0067 AC43 to 11/10/0068 AC43: 355 elapsed days. Opening debt 0.069; opening liquid reserves 0.346. Estimated period financing (million L-eq): new net borrowing 0.017, net principal repayment 0.0, reserve increase 0.0, reserve drawdown 0.0. These are modelled flows, not audited transactions.
+
+Effective annual interest: 6.0%. Balance / output: -0.197%. Principal repayment and refinancing are financing flows, not expenditure. Defence allocations are subsets of the defence total. Stocks are at the checkpoint; plans are full-year forecasts, not an implied year-end closing balance.
