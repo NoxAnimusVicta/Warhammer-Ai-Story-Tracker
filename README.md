@@ -18,9 +18,9 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the last major culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition — revision 63
+## Current edition — revision 64
 
-The current scene is **Drossane, expedition day 87 morning**, after breakfast with all six still inside the guesthouse. The dossier records the first 85 days of study and travel, day 86’s assay-office visit, the private emitter hypothesis and overnight manuscript, and the new cipher work. Nothing beyond breakfast has been enacted.
+The current scene is **Drossane, expedition day 87 morning**, outside the guesthouse after six disguised attackers departed. The dossier records the first 85 days of study and travel, day 86’s assay-office visit, the private emitter hypothesis and overnight manuscript, and the new cipher work. The [Drossane incident](DROSSANE-INCIDENT.md) records the nonlethal confrontation, exposed Caldrienne operation, private mental projection and provisional coerced cell. Fieldwork has not resumed; no government response or future compliance is assumed.
 
 Personal accounted funds **522**: earmarks **264** pending the household statement, **258** uncommitted. Expedition held **11,430** after **3,070** settled costs; current guesthouse bills await settlement. Three salary payments are already credited; next payday **01/02/0068 AC43**. See [budget](EXPEDITION-BUDGET.md), [transaction record](expedition-accounts.json) and [estate accounts](ESTATE-ACCOUNTS.md). The 218 annual estate remainder remains a conditional forecast.
 

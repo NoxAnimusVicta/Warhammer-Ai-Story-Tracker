@@ -1,6 +1,6 @@
 # Prepared expedition route
 
-Day 1 = departure on **22/10/0067 AC43**, in northern autumn. Dates use day/month/year after the numbered major culling. Planned return: **11/10/0068 AC43**; deadline: **21/10/0068 AC43**. Current position: Drossane, day 87 morning (18/01/0068 AC43), after breakfast and before anyone leaves the guesthouse. Ten reserve days remain unused.
+Day 1 = departure on **22/10/0067 AC43**, in northern autumn. Dates use day/month/year after the numbered major culling. Planned return: **11/10/0068 AC43**; deadline: **21/10/0068 AC43**. Current position: Drossane, day 87 morning (18/01/0068 AC43), outside the guesthouse after the six attackers departed; the scholars are uninjured and fieldwork has not resumed. Ten reserve days remain unused.
 
 Return target: **day 355**. Reserve: **days 356–365 (10 days)**. Fourteen destinations receive six full days and eight receive five: 124 visiting days plus 231 travel days. Date ranges are inclusive. Funding, ordinary permissions, accommodation, payment access and seasonal sailings are arranged. See [preparation register](EXPEDITION-PREPARATION.md), [itemised budget](EXPEDITION-BUDGET.md) and [sea passage review](SEA-PASSAGES.md).
 

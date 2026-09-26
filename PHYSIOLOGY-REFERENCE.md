@@ -1,6 +1,6 @@
 # Galahad — controlling physiology reference
 
-Revision 58 · Developed potential and contextual durability, retaining the accepted endurance and infection-resistance provisions. This is narrator continuity for this campaign, not a universal canonical specification for Custodes or Primarchs. It supersedes older conflicting sleep, stamina and overall combat assumptions, including revision43 and the preparation scene's 3–4-hour sleep statement. Historical dialogue remains unchanged.
+Revision 64 · Demonstrated Drossane abilities and developed potential and contextual durability, retaining the accepted endurance and infection-resistance provisions. This is narrator continuity for this campaign, not a universal canonical specification for Custodes or Primarchs. It supersedes older conflicting sleep, stamina and overall combat assumptions, including revision43 and the preparation scene's 3–4-hour sleep statement. Historical dialogue remains unchanged.
 
 ## Sleep and wakefulness
 
@@ -18,7 +18,7 @@ Sleep deprivation, muscular expenditure, injury and psychic exertion are related
 
 Assess wounds by the damage actually sustained and its functional consequences. Reinforcement, physiological redundancy, rapid sealing and pain tolerance mean a wound that seriously impairs a Marine may barely impede him. Visible injury or pain alone is not evidence of lost fighting effectiveness. Major structural damage and sufficiently powerful attacks remain consequential; durability is not absolute invulnerability.
 
-His stable body–soul integration and exceptional psychic potential provide substantially greater power capacity and endurance than an average psyker or ordinary Space Marine Librarian. Routine use of familiar telekinesis, calming influence or other established abilities must not repeatedly exhaust him. Capacity, precision, range and learned applications remain distinct. No new mastered biomancy, universal telepathy or unrelated power is awarded by this clarification.
+His stable body–soul integration and exceptional psychic potential provide substantially greater power capacity and endurance than an average psyker or ordinary Space Marine Librarian. Routine use of familiar telekinesis, calming influence or other established abilities must not repeatedly exhaust him. Capacity, precision, range and learned applications remain distinct. The original capacity clarification alone awards no new mastered power. Subsequent demonstrated techniques are recorded below; they do not imply universal or unlimited telepathy.
 
 ## Physical comparison and maturity
 
@@ -77,3 +77,13 @@ Fifty years is a scenario assumption, not Galahad's final potential. Do not use 
 - **Emperor:** the [Ouroboris account](https://wh40k.lexicanum.com/wiki/Ouroboris), citing Codex: Tyranids4pp24–25, attributes an ancient victory to him but dates associated Titan damage after the Heresy. Personal participation, complete ignorance and specific biological foresight remain unestablished. Bile may have more applicable experimental information for particular organisms; overall superiority over the Emperor does not follow.
 
 Research used official material and source-referenced secondary accounts; the complete novels were not reread. The accepted campaign provisions stand independently of unresolved canonical immunity claims.
+
+## Demonstrated psychic control — Drossane, day 87
+
+On 18/01/0068 AC43, Galahad held six armed humans and their weapons motionless while approaching them and shielding his scholars. He spread intense fear through the surrounding humans, including companions and bystanders. The scene demonstrates concurrent force and emotional influence, not a measured maximum range, target count or output ceiling.
+
+He deliberately forced access to deeper memories in two men, causing pain and recovering corroborating recollections of their operation. Earlier involuntary surface reception is no longer his only demonstrated form of mind-reading. He obtained relevant faces, settings and intentions, not every memory, the entire command structure or infallible knowledge. No permanent neurological injury was established.
+
+After releasing the hold, he shifted to familiar calming influence and later deliberately transmitted an image and accompanying words to all six operatives. They received the intended Valdrec message; the scholars did not. This establishes directed sending as well as reception. No long-distance communication, remote tracking, permanent link or automatic truth detection was demonstrated.
+
+The men complied immediately under overwhelming coercion. Their acceptance is not irreversible psychic enslavement or tested future loyalty. Fear and calm changed their emotional condition without erasing memory, intelligence or independent motives. Galahad remained uninjured and unimpaired; no ordinary-human or Astartes fatigue penalty was introduced. No bodily durability trial occurred because no firearm discharged.

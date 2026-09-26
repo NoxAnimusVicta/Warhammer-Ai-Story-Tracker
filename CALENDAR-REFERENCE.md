@@ -24,7 +24,7 @@ The civil new year falls near northern winter solstice; northern summer is aroun
 | Expedition approval and historical salary payment | 01/10/0067 AC43 |
 | Predeparture price and treasury baseline | 21/10/0067 AC43 |
 | Departure — expedition Day 1 | 22/10/0067 AC43 |
-| Next regular salary payment — expedition Day 10 | 01/11/0067 AC43 |
+| First expedition salary payment — Day 10 | 01/11/0067 AC43 |
 | Latest salary payment | 01/01/0068 AC43 |
 | Current morning — expedition Day 87 | 18/01/0068 AC43 |
 | Next salary payment | 01/02/0068 AC43 |

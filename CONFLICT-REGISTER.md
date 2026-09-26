@@ -18,7 +18,7 @@ Travel: The arranged Valdrec–Auvrienne return remains available under current 
 
 Record basis: Consolidates the established Cressault record; no new incident.
 
-Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted..
+Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted.
 
 ## Ossavren succession fighting
 
@@ -34,7 +34,7 @@ Travel: The prepared Ossendrienne visit and its named transit jurisdictions rema
 
 Record basis: Consolidates existing civil-fighting and divided-authority records; battle dates and losses remain unquantified.
 
-Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted..
+Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted.
 
 ## Haldrevik concession clashes
 
@@ -50,7 +50,7 @@ Travel: The arranged Rovensac–Trelovre transit remains in service. Restricted 
 
 Record basis: New limited baseline clarification of established armed concession tensions; no particular battle, seizure or casualty total is enacted.
 
-Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted..
+Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted.
 
 ## Seravelle and island sea-lane insecurity
 
@@ -66,7 +66,7 @@ Travel: Booked commercial services remain available. A confirmed attack, blockad
 
 Record basis: Consolidates established raiding, cargo seizure and unproven privateering allegations.
 
-Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted..
+Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted.
 
 ## Vardol–Averholt rivalry
 
@@ -82,7 +82,7 @@ Travel: The separate Avercenne and Estrevigne visits retain their existing permi
 
 Record basis: Status clarification of an existing rivalry; no invented battle.
 
-Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted..
+Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted.
 
 ## Former Serevask federation disputes
 
@@ -98,7 +98,7 @@ Travel: Ordinary academic entry and transit arrangements remain valid. Material 
 
 Record basis: Consolidates established post-federal disputes; no new embargo.
 
-Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted..
+Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted.
 
 ## Talascan land and labour dispute
 
@@ -114,7 +114,7 @@ Travel: No general port closure or new itinerary requirement is established. A d
 
 Record basis: Consolidates existing colonial tensions; no invented uprising.
 
-Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted..
+Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted.
 
 ## Hunter attacks and human defence
 
@@ -130,7 +130,25 @@ Travel: Local warnings and confirmed attacks affect particular routes and commun
 
 Record basis: Consolidates established public Hunter pressure; concealed motives and logistics remain outside this register.
 
-Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted..
+Last reviewed: 18/01/0068 AC43. Losses: unquantified. Trend: Classification retained at monthly reviews on 01/11/0067, 01/12/0067 and 01/01/0068 AC43 and at the present checkpoint; no material new incident enacted.
+
+## Drossane guesthouse assassination attempt
+
+Event ID: drossane-0068-01-18
+
+Occurred: 18/01/0068 AC43 — morning. Recorded: 18/01/0068 AC43 — same-morning narrative record
+
+Attack stopped; attribution not officially reported
+
+Six men using stolen Karsenne uniforms attempted to kill the visiting Veyrassian expedition. Galahad stopped them without gunfire. They subsequently departed by motorcar; the expedition remains at the guesthouse entrance.
+
+Galahad recovered corroborating memories identifying a Caldrienne operation from two attackers. This character knowledge has not become an official public finding. The scholars and street witnesses did not receive his private mental projection; his public old-friends/joke explanation is a cover.
+
+Losses and harm: {"deaths": 0, "shots_fired": 0, "captures": 0, "expedition_injuries": 0, "operative_harm": "Psychic pain and fear; no lasting neurological injury established."}
+
+No declared war, diplomatic rupture, frontier change, transport closure, population deduction, fiscal transaction or market repricing established. Existing theatre classifications remain unchanged. No duplicate demographic or financial event is posted for zero losses and no expenditure.
+
+[Full incident](DROSSANE-INCIDENT.md)
 
 ## Maintaining the living return
 

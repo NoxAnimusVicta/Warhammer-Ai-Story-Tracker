@@ -1,10 +1,20 @@
-# Current continuity — revision 63
+# Current continuity — revision 64
 
 ## Scene and clock
 
-**18/01/0068 AC43, morning; expedition day 87.** Breakfast and the daily briefing are complete in the Drossane guesthouse. Galahad and all five scholars remain inside. No attack, departure, new expenditure or further research has occurred. The exact public archive ends at exchange 511. Maintenance does not advance time.
+**18/01/0068 AC43, morning; expedition day 87.** Galahad stands with all five scholars outside the Drossane guesthouse after the armed confrontation. Six disguised operatives have recovered their firearms and driven away. Tessier has asked, “Shall we carry on?” No fieldwork has resumed. The exact archive ends at exchange 523. Maintenance does not advance time.
 
-Approximately two years and six months old, still growing; roughly six months to bodily maturity around age three at 3 m. The last measured 2.59 m is an earlier observation, not a fresh measurement. Uninjured, alert and unimpaired after one sleepless research night. PHYSIOLOGY-REFERENCE.md controls endurance, durability and psychic potential; no ordinary Astartes fatigue baseline applies.
+Approximately two years and six months old, still growing; roughly six months to bodily maturity around age three at 3 m. The last measured 2.59 m is an earlier observation, not a fresh measurement. Uninjured, alert and unimpaired after one sleepless research night and the confrontation. All five scholars are uninjured but shaken. PHYSIOLOGY-REFERENCE.md controls endurance, durability and psychic potential; no ordinary Astartes fatigue baseline applies.
+
+## Drossane confrontation
+
+Six Caldrienne operatives in stolen Karsenne uniforms attempted a public assassination. Galahad immobilised all six and their weapons, spread fear through nearby humans including his companions, and forcibly searched two men's deeper memories. The recovered recollections corroborate the intended false attribution and identify a briefing officer's face and room appearance, not the officer's true name or higher command. This is Galahad's knowledge, not an official finding shared with the scholars or governments.
+
+He released the restraint under calming influence; all six disarmed and accepted his private instructions. He deliberately projected an image and voice into their minds showing himself leading Veyrassian troops into Valdrec. It was an intention, not prophecy or present military authority. His reward promises and threats against the men and their loved ones produced immediate compliance, not proven loyalty or permanent psychic binding.
+
+The six are a provisional coerced cell. They have been told to return to Caldrienne, support a misleading account of their defeat and assist his future designs. Return, proposed self-inflicted injuries, reports and further cooperation remain unobserved; no contact protocol or remote psychic tracking was established. They retrieved their weapons and left by motorcar. No shots, deaths, captures, confiscations or new funds. Psychic pain and fear occurred; no lasting neurological injury was established.
+
+Scholars and bystanders witnessed the outward encounter but did not receive the private projection or automatically learn the hidden attribution and orders. “Old friends” and “foolish joke” are Galahad's public cover. Calming influence does not erase memories or certify belief. No official investigation or diplomatic response has begun. See [the incident record](DROSSANE-INCIDENT.md) for the observer-by-observer account and unresolved consequences.
 
 ## Travel, learning and present research
 
@@ -24,7 +34,7 @@ Miravelle’s separate lead concerns a purported Hunter-craft item in private bo
 
 ## Party and daily briefing
 
-Osselin Varcet: mechanics, maintenance and tolerances. Iselle Rouvant: chemistry, assay methods and material trials. Elvire Sarnot: surveying and municipal waterworks records. Rovain Tessier: languages, political history, provenance, civic records, correspondence and appointments. Darsenne Aubrel: natural history, cultivation, useful materials, processing and storage. Today’s assignments are given and an evening report arranged; fieldwork has not yet begun. Scholars keep ordinary human rest schedules. Savel supports teaching and receives duplicate reports at home; the Headmaster is unnamed.
+Osselin Varcet: mechanics, maintenance and tolerances. Iselle Rouvant: chemistry, assay methods and material trials. Elvire Sarnot: surveying and municipal waterworks records. Rovain Tessier: languages, political history, provenance, civic records, correspondence and appointments. Darsenne Aubrel: natural history, cultivation, useful materials, processing and storage. Today’s assignments are given and an evening report arranged; fieldwork has not resumed after the street confrontation. Scholars keep ordinary human rest schedules. Savel supports teaching and receives duplicate reports at home; the Headmaster is unnamed.
 
 ## Accommodations and possessions
 
@@ -75,7 +85,7 @@ Magic is a real but rare set of locally interpreted practices. Schools can conta
 
 Hunters are the campaign’s original 40K Yautja-inspired regional species; plasma technology follows this setting, not Predator-franchise mechanisms. No offworld education is automatically granted.
 
-The atlas has 970 settlements, 2,210 transport segments and 134 sea segments joining 72 harbours. Sea passages wrap the globe and use reviewed provisioning connections; use SEA-PASSAGES.md. Census: 1,223,820,000 on 27/08/0067 AC43 across 43 disjoint groups. Current 142-day trend estimate: **1,225,459,668**. Cities and Cressault are subsets, never additions. National capacity/census records remain dated baselines. Year 67 fiscal forecasts and treasury stocks dated 21/10/0067 have not been silently renewed into actual Year 68 cash. Price bands were reviewed without blanket new-year inflation. Existing conflict classifications remain; no new major incident or loss is enacted by this update.
+The atlas has 970 settlements, 2,210 transport segments and 134 sea segments joining 72 harbours. Sea passages wrap the globe and use reviewed provisioning connections; use SEA-PASSAGES.md. Census: 1,223,820,000 on 27/08/0067 AC43 across 43 disjoint groups. Current 142-day trend estimate: **1,225,459,668**. Cities and Cressault are subsets, never additions. National capacity/census records remain dated baselines. Year 67 fiscal forecasts and treasury stocks dated 21/10/0067 have not been silently renewed into actual Year 68 cash. Price bands were reviewed without blanket new-year inflation. The eight existing conflict classifications remain. The Drossane covert incident is separately recorded as drossane-0068-01-18; it establishes no declared war, transport closure, population loss or new expenditure.
 
 Use CALENDAR-REFERENCE.md, HISTORY-REFERENCE.md, ORIGIN-REFERENCE.md, PHYSIOLOGY-REFERENCE.md, ESTATE-REFERENCE.md and APPEARANCE-REFERENCE.md for their controlling subjects. AC43 continues across the new year; ordinary raids do not reset the era. Ambros founded the predecessor empire of Veldrassen and Ostrevain; killing a Hunter with a sword is the undisputed heart of his legend, with circumstances uncertain. Bile is creator, never biological donor. Optional cohort/fragment planning is not an enacted revelation. Current expedition portrait remains applicable; the formal portrait is reserved for future national or military leadership.
 

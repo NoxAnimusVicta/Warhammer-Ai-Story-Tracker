@@ -10439,3 +10439,389 @@ No one has left yet.
 **Armor/Clothing (Equipped):** Pale shirt, dark trousers and leather boots; charcoal coat in your room.  
 **Gear/Inventory:** Research papers dispersed among other notes; initial private cipher and technical notation developed. Existing emitter manuscript not yet fully encoded. Expedition belongings remain at the guesthouse.  
 **Currency:** 522 lorrats personal funds: 264 earmarked, 258 uncommitted, pending the estate statement. Expedition fund: 11,430 lorrats before settlement of current lodging and meals. No new payment recorded.
+
+
+## 512 - User - Leaving the guesthouse
+
+We walk outside
+
+## 513 - Assistant - Outside the guesthouse
+
+The guesthouse door opens onto cold air and the smell of coal smoke.
+
+Morning traffic rattles along the stone street. A delivery cart stands outside a provisioner’s shop; farther downhill, a motor lorry labours through a change of gear. Pale sunlight catches the upper windows while the pavement remains in shadow. Someone has washed the entrance steps, leaving dark streaks between the stones.
+
+You emerge with the scholars close behind. Tessier is folding the list of addresses into his coat pocket. Varcet and Rouvant are still discussing whether the workshop district lies within walking distance.
+
+Across the street stand three men in the dark uniforms of the local authorities.
+
+Their attention settles on you immediately.
+
+There are three more beside a stationary motorcar a little farther along the kerb. One holds its rear door open. Another has a cigarette between his fingers, burned almost to the paper without being smoked.
+
+To Tessier, they merit scarcely a glance. Officials outside an establishment used by foreign visitors are hardly extraordinary.
+
+You have time to see more.
+
+The nearest man’s eyes pass over your face, drop briefly to your empty hands, then move to the people coming through the doorway behind you. His jaw tightens. Across the small distance, a hard thread of anticipation presses against your awareness—concentrated, purposeful, sharply unlike the wandering concerns of the passers-by.
+
+Your familiar calming presence touches him. Some of the tension leaves his shoulders.
+
+His hand continues beneath his coat.
+
+The man beside the motorcar drops the cigarette.
+
+Steel clears cloth: a short firearm drawn from inside a uniform coat. Beside him, the open car door swings wider, revealing another weapon coming up from the rear seat. The three opposite the guesthouse move almost together.
+
+There is no greeting. No demand for papers.
+
+The nearest barrel turns towards your chest. A second passes your shoulder, seeking the scholars clustered at the entrance.
+
+Tessier’s fingers stop on the flap of his pocket.
+
+“Lord—”
+
+The word has barely begun. To your senses, every movement is distinct: the tightening grip, the lifting muzzle, Rouvant turning at the scrape of a boot. Their intention has become unmistakable while the people behind you are only beginning to recognise it.
+
+Six uniformed men. Weapons rising. Your five scholars within a few steps of the open guesthouse door.
+
+You have the opening to act before the first shot.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 2 years, 6 months.  
+**Date:** 18/01/0068 AC43 — morning; expedition day 87, outside the Drossane guesthouse.  
+**Reputation:** Veyrassan scholar-engineer and expedition leader; established professional correspondents abroad.  
+**Weapons (Equipped):** None; greatsword remains at the Collegium.  
+**Armor/Clothing (Equipped):** Pale shirt, dark trousers and leather boots; charcoal coat remains in your room.  
+**Gear/Inventory:** Expedition belongings and concealed research remain inside. All five scholars are nearby; no shots fired or injuries sustained.  
+**Currency:** 522 lorrats personal funds: 264 earmarked, 258 uncommitted, pending the estate statement. Expedition fund: 11,430 lorrats before settlement of current lodging and meals. No new payment.
+
+
+## 514 - User - Psychic restraint and memory search
+
+I walk towards them. Slowly and confidently. My psychic pressure is exuding off me in waves now. Triggering the fear based prey response on every human in a large area. I do not take my eyes off the men. I am also putting physical psychic pressure on them to prevent their movements. Effectively leaving them frozen in place by my will and fear. I walk right up to them until I am less than 30 centimetres away and I am taking up the majority of the firing angle, placing my self between the aimed firearms and the scholars now behind me. I look down at the men frozen in fear with firearms pointed at me and analyse them and as I do my presence rakes through their minds like hot coals. Forcing some to scream in pain and I rip and tear through memories to find the ones relevant and useful to me. The secrets, below the surface thoughts and dissembling.
+
+## 515 - Assistant - The stolen uniforms
+
+Your first step carries you down from the washed stone threshold.
+
+The second sends terror through the street.
+
+Conversation breaks apart. A woman beside the provisioner’s cart drops her basket and retreats without looking for what she has lost. Farther along the pavement, a man turns to run, catches sight of you, and stumbles backwards instead. The sensation reaches people who have not even seen the weapons: the sudden, absolute conviction that something hunting them has come very close.
+
+Behind you, Varcet strikes the doorframe with his shoulder. Tessier recoils into the entrance, catching Rouvant’s sleeve as she moves with him. Your scholars feel it too. Familiarity with your kindness offers little protection against what their bodies are telling them now.
+
+The gunmen have nowhere to retreat.
+
+Your will closes around them.
+
+A heel lifts and stops before it leaves the ground. A wrist strains against pressure that has no visible source. The man by the motorcar tries to turn his weapon; its barrel remains fixed. Their fingers cannot finish the movements they began.
+
+No shot comes.
+
+You cross the street slowly, looking from one face to the next. Their eyes follow you where their heads cannot. The nearest man draws a thin, shuddering breath as your shadow climbs his uniform.
+
+You stop within a handspan of his muzzle.
+
+From here, he has to look almost vertically upwards to meet your eyes. Your body fills his view of the guesthouse entrance. Beyond your shoulders, the other weapons remain caught in your grip.
+
+Then you reach inward.
+
+His scream begins before you find words.
+
+Fear has crowded the surface of his mind with your face: your height, your eyes, the impossible stillness of his own hands. You push through it. The first things that break loose are disordered—a bed, a woman’s voice, the smell of boiled wool. You pass them, following the associations bound to the weapon, the uniform, the sight of you emerging from the guesthouse.
+
+A room comes together.
+
+Low ceiling. Yellow lamplight. Uniform coats laid across a table. A man in civilian clothes speaking to the people gathered around it.
+
+You pull the recollection closer. The speaker’s face sharpens. So does the discomfort of wearing another country’s insignia, and the remembered reassurance that the discomfort would not have to last long.
+
+These are stolen uniforms.
+
+The man beneath your gaze knows it. You feel his memory of putting this one on, the unfamiliar fit beneath the arms, the exchanged glance with a companion already dressed in the same disguise.
+
+The briefing returns in broken sentences.
+
+“Orsival. The scholar.”
+
+“Veyrasse will demand an answer.”
+
+A finger resting on a written description of you.
+
+“They will have seen Karsenne’s men.”
+
+The mind tries to recoil from the recollection. Your pressure drives through the attempt. His scream becomes a hoarse, breathless sound, tears running beneath eyes he cannot turn away.
+
+Behind those instructions lies an older chain of associations: service, payment, reports, the country whose interests give the work its purpose.
+
+**Caldrienne.**
+
+You turn your attention to the man beside him.
+
+He makes a strangled sound as you enter. His memories meet yours from another angle: the same room, the same civilian face seen across the table, the same assumed identity. Recognition joins the fragments. This is a shared operation, not one frightened man’s confused guess.
+
+You find the intention clearly enough. Kill the visiting scholar and his companions in public. Leave witnesses who believe they have watched Karsenne’s authorities murder Veyrasse’s delegation. Let outrage do the rest.
+
+Their knowledge of you is painfully incomplete. A conspicuous foreign prodigy. An important appointment. Political value. Nothing in the recollections you seize resembles preparation for the being now standing over them.
+
+You retain the briefing room and the civilian’s face with extraordinary clarity. His true name does not emerge with them. Nor does the chain beyond him unfold merely because you have found its direction.
+
+Around you, the street is emptying. Your scholars crowd the guesthouse entrance, watching uniformed men hang rigid in the morning light and hearing screams whose cause they cannot see.
+
+All six attackers remain alive and held. No weapon has fired.
+
+You have their purpose, their allegiance, and the face of the man who gave them their instructions. You have spoken none of it aloud.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 2 years, 6 months.  
+**Date:** 18/01/0068 AC43 — morning; expedition day 87, outside the Drossane guesthouse.  
+**Reputation:** Veyrassan scholar-engineer and expedition leader; witnesses now observing an overt psychic confrontation.  
+**Weapons (Equipped):** None; six attackers and their firearms restrained psychically.  
+**Armor/Clothing (Equipped):** Pale shirt, dark trousers and leather boots; charcoal coat remains upstairs.  
+**Gear/Inventory:** Research remains concealed inside. Privately recovered memories identify a Caldrienne operation using stolen Karsenne uniforms. All five scholars remain uninjured near the entrance; all six attackers alive.  
+**Currency:** 522 lorrats personal funds: 264 earmarked, 258 uncommitted, pending the estate statement. Expedition fund: 11,430 lorrats before current lodging and meal settlement. No new payment.
+
+
+## 516 - User - Release and warning
+
+“My mother suggested I find ways to deal with situations non lethally as to provide more options to me further down the line. I am going to release my hold. You will think of your friends, lovers, families and know that if any of fire upon me or the scholars under me you will never see those people again. I will gut you in this street here and now. Listen to me, remain calm and you may walk out of here with your lives.” I say casually while staring down at the group and then in a split second the atmosphere completely changes. I reassert my usually psychic pressure of ease and comfort and remove the physical pressure holding the attackers in place while I stand in front of them taking up the majority of their field of vision.
+
+## 517 - Assistant - Weapons lowered
+
+The nearest man listens with tears drying on his cheeks. At the mention of family, his eyes tighten. He makes no attempt to answer while you are speaking.
+
+Then the pressure changes.
+
+The terrible certainty hanging over the street lifts. Air seems to come more easily into human lungs. Your presence becomes warm and reassuring again, almost intimate at this distance.
+
+The man before you sways as his muscles discover that nothing is holding them.
+
+His firearm remains pointed at your chest for a fraction of a second.
+
+Then he lowers it.
+
+Slowly. Deliberately. His finger straightens away from the trigger, and his eyes stay on yours throughout the movement.
+
+“Understood,” he whispers.
+
+Beside him, the second man you searched begins trembling. He catches his weapon against his own thigh to steady it, then looks down at that movement with sudden alarm, plainly afraid it might be mistaken for something else.
+
+“I’m putting it down.”
+
+He bends carefully, keeping one hand open where you can see it, and lays the firearm on the stones. When he straightens, he holds both palms towards you.
+
+The others follow the example. Barrels descend. One of the men beside the motorcar sets his weapon on the seat and steps away from the open door. Another remains motionless with his gun hanging muzzle-down until his companion mutters something to him; then he, too, lowers it to the pavement.
+
+No one fires.
+
+Your gentler influence gives them enough composure to make those decisions. It leaves the memory of your fingers inside their thoughts untouched. Their eyes keep returning to you, measuring each small movement against the permission to remain alive.
+
+The nearest man finally crouches and puts his own weapon down. His knees crack audibly in the quiet.
+
+Across the street, Tessier releases Rouvant’s sleeve. She looks at the creases his hand has left in the cloth, then back at the surrendered weapons. Varcet is breathing through his mouth. Sarnot keeps Aubrel close to the entrance with a hand against his arm.
+
+They have heard your warning. They have also seen six armed men obey it.
+
+Farther along the street, the woman who dropped her basket stops retreating. She does not come back for it yet. Faces appear cautiously at windows; a shop door closes, its bell giving two small, incongruously cheerful notes.
+
+The man before you swallows. Up close, you can see where the uniform collar has rubbed his neck raw.
+
+“All right,” he says. His voice is steadier now, though scarcely louder. “We’re listening.”
+
+His hands remain empty and visible. Behind him, the other five wait beside the weapons they have put down.
+
+“What do you want us to do?”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 2 years, 6 months.  
+**Date:** 18/01/0068 AC43 — morning; expedition day 87, outside the Drossane guesthouse.  
+**Reputation:** Veyrassan scholar-engineer and expedition leader; public witnesses have seen armed men submit to his overt psychic power.  
+**Weapons (Equipped):** None. Attackers’ firearms set down nearby; not yet collected or searched.  
+**Armor/Clothing (Equipped):** Pale shirt, dark trousers and leather boots; charcoal coat remains upstairs.  
+**Gear/Inventory:** Research remains concealed inside. Physical restraint released; familiar calming presence restored. Six attackers alive and presently compliant; five scholars uninjured at the entrance. Caldrienne affiliation remains privately known to you.  
+**Currency:** 522 lorrats personal funds: 264 earmarked, 258 uncommitted, pending the estate statement. Expedition fund: 11,430 lorrats before current lodging and meal settlement. No new payment.
+
+
+## 518 - User - Instructions to the operatives
+
+“You will laugh, act natural for the crowd. Appear as if we are all friends and this was a simple jest of admittedly crude taste.” I say as I lower my voice to a register that only the men in front of me can clearly hear. “You will return to Caldrienne. On route you will all injury yourselves to a believe degree that will allow you to propose the story to your superiors that I out manuevered you. That I got the drop on you. Suggest some degree of Veyrassian Counter Intelligence, perhaps spies within your own network. You will paint a picture to your superiors that I am not a Scholar but an intelligence asset with military training above any special forces you have ever seen or studied before.” I straighten slightly and my face becomes more stern “Now before any of you think that diverging from this plan is a wise idea let me illuminate the paths before you. Path 1, you do exactly as I say and act as conduits for my will. In the short and long term this will benefit you greatly and allow you to continue your lives without fear of retribution which I can assure you will come if I am betrayed. In years to come the benefits of your loyalty and obedience will compound. Your second path, is that you lie, leave here and do none of the things I have asked and scurry back to your superiors like rats. But I will come for you. It may not be today, or tomorrow. But I will find you. I know the faces of those you care for, those whose lives you value more than your own. I will take them before I take yours. You will understand the consequences of betrayal. You may even manage to evade me for a time but you will live in a constant and perpetual state of paranoia and fear, never knowing which moment I will choose to burn your lives to ash.” I then relax my posture and offer a slight smile. “Personally I would prefer if you all took the first path. It is far more palatable. But I am nothing if not a man of my word. You have committed a grievous transgression against me. You must now prove that you are more useful to me alive than as corpses. You all seem like intelligent and fine men. I do hope you are all able to make the correct choices going forward.” I say with a pleasant, almost paternal smile as I softly clasp my hands together infront of me.
+
+## 519 - Assistant - An uneasy performance
+
+At the name *Caldrienne*, the nearest man’s gaze snaps back to your face.
+
+Until then, there had still been something he could hope you had missed.
+
+You continue quietly. The men by the motorcar draw closer to hear, leaving their weapons where they placed them. One watches your clasped hands. Another watches your mouth, concentrating on every word as though he expects to be asked to repeat it.
+
+When you speak of their families, the man whose mind you searched second shuts his eyes briefly. His lips press together. Beside him, a companion’s expression hardens for an instant before he smooths it away.
+
+None interrupts.
+
+The promise of future reward receives their attention too. You can see them trying to fit it beside the threat: a way to survive this morning, then perhaps a way to survive whatever follows their return.
+
+The nearest man nods once.
+
+“We understand.”
+
+He glances along the group, waiting until each man acknowledges him. Then he looks back up at you.
+
+“That you were prepared. That we misjudged what you are. We’ll give them your account.”
+
+His voice remains low. Whatever he might have said about your threat, he keeps behind his teeth.
+
+Then he tries to laugh.
+
+The first attempt catches in his throat. He clears it, forces breath into his chest, and manages something louder.
+
+“Well,” he says, turning just enough to address the street, “that was a damned foolish joke.”
+
+The man beside him takes the cue. A brief laugh escapes him, too high and too quick. Another supplies a weary smile and shakes his head as if embarrassed by friends who have carried a prank much too far.
+
+Their training begins to reassert itself. Shoulders settle. One adjusts his borrowed coat. The man who had been standing by the car produces the most convincing chuckle of the six, but the tear tracks on his companion’s face remain plainly visible.
+
+Across the road, a shopkeeper peers around his door.
+
+“A joke?”
+
+“Poor judgement,” the nearest man calls back. “Our apologies.”
+
+The shopkeeper’s eyes drop to the firearms on the pavement. He does not answer.
+
+A passer-by arriving from farther uphill slows, sees the smiles, and continues with a puzzled glance over his shoulder. The woman beside the provisioner’s cart starts collecting her scattered purchases, keeping her distance. At the guesthouse, Tessier watches in silence; Rouvant has stopped pretending to look anywhere else.
+
+The laughter gives the street an explanation it can repeat. Those who saw the weapons rise and heard the screams have rather more to remember.
+
+The nearest man turns back to you, maintaining his strained public smile.
+
+“We’ll do as you’ve said,” he murmurs. “But if we’re to be useful afterwards—how are we to hear from you?”
+
+Behind him, the others wait. Nobody reaches for a weapon or attempts to leave.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 2 years, 6 months.  
+**Date:** 18/01/0068 AC43 — morning; expedition day 87, outside the Drossane guesthouse.  
+**Reputation:** Veyrassan scholar-engineer and expedition leader; witnesses have seen an armed confrontation followed by an uneven claim that it was a jest.  
+**Weapons (Equipped):** None. Attackers’ firearms remain set down and uncollected.  
+**Armor/Clothing (Equipped):** Pale shirt, dark trousers and leather boots; charcoal coat remains upstairs.  
+**Gear/Inventory:** Research concealed inside. Six attackers have verbally accepted your instructions; their departure, future reports and continuing obedience are not yet established. Five scholars remain uninjured nearby.  
+**Currency:** 522 lorrats personal funds: 264 earmarked, 258 uncommitted, pending the estate statement. Expedition fund: 11,430 lorrats before current lodging and meal settlement. No new payment.
+
+
+## 520 - User - A projected ambition
+
+I don’t speak with my voice I project directly into their minds an image of the Veyrassian Military with me at its head, marching into Valdrec. My voice accompanies the images being projected “You are operatives, my cell, you will ease my path towards achieving this outcome. The smoother my path becomes the more lives of your countrymen you may prevent from being caught up in the slaughter that is war.”
+
+## 521 - Assistant - The image of Valdrec
+
+Your lips remain still.
+
+The street continues around you: an idling engine, a shop bell, the scrape of a basket being lifted from the pavement.
+
+Into six minds, you place the marching army.
+
+Veyrassian troops entering Valdrec. You at their head. The image carries the weight of your intention, accompanied by a voice that reaches them without crossing the air between you.
+
+“You are operatives, my cell…”
+
+The nearest man’s public smile falters. His gaze flicks towards the others, searching their faces. He finds recognition there. One of the men by his shoulder draws a sharp breath and looks past you towards the guesthouse, as though checking whether anyone else has heard.
+
+The scholars give no answering start. Whatever they make of the exchange, they have not received what you are showing the six men.
+
+You hold the image long enough for your words to settle into it.
+
+“…the slaughter that is war.”
+
+The man whose mind you searched second swallows hard. His eyes remain fixed on you, but his attention has turned inward. Valdrec is a name attached to people and streets for him. You have placed an invading army among those associations.
+
+Beside him, the harder-faced operative keeps his jaw clenched. His eyes move from you to the discarded weapons and back. He gives a small nod.
+
+They understand the scale of what you are asking now. This morning’s false report would only be the beginning. You intend their service to continue inside the country that sent them.
+
+The nearest man wets his lips.
+
+“Understood, my lord.”
+
+He says it aloud, quietly enough that it could pass for the conclusion of an ordinary conversation. The other men acknowledge you with brief, uneven nods. None attempts to answer through the connection; their response comes through faces, voices and the nervous shifting of empty hands.
+
+Your image recedes. The real street remains, with no marching army upon it.
+
+The nearest operative straightens his borrowed collar and puts the strained smile back on for the watching windows. He waits for your dismissal.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 2 years, 6 months.  
+**Date:** 18/01/0068 AC43 — morning; expedition day 87, outside the Drossane guesthouse.  
+**Reputation:** Veyrassan scholar-engineer and expedition leader; the six operatives now know his stated ambition towards Valdrec.  
+**Weapons (Equipped):** None. Attackers’ firearms remain set down and uncollected.  
+**Armor/Clothing (Equipped):** Pale shirt, dark trousers and leather boots; charcoal coat remains upstairs.  
+**Gear/Inventory:** Research concealed inside. Mental image and accompanying words successfully conveyed to all six operatives; they acknowledge the instructions. Five scholars uninjured nearby.  
+**Currency:** 522 lorrats personal funds: 264 earmarked, 258 uncommitted, pending the estate statement. Expedition fund: 11,430 lorrats before current lodging and meal settlement. No new payment.
+
+
+## 522 - User - Dismissal and reassurance
+
+“Good. Now, have a pleasant day my friends.” I say loud enough for the street to hear. Turn on my heel and clasp my hands behind my back as I walk back to the scholars with a smile. “Foolish joke, old friends of mine.” I smile calmly and paternally
+
+## 523 - Assistant - Morning resumes
+
+“And you, my lord.”
+
+The answer follows you across the street, louder and more polished than anything the man has managed since you approached him.
+
+Behind you, the six begin gathering their weapons. They move carefully, keeping the barrels down, and carry them back to the motorcar. A door shuts. Then another. The engine rises above its uneven idle.
+
+At the guesthouse entrance, your scholars make room as you return.
+
+“Foolish joke, old friends of mine.”
+
+For a moment, nobody answers.
+
+Your easy smile and familiar warmth meet five faces still recovering from the encounter. Varcet looks past you at the car. Rouvant smooths the sleeve Tessier caught. Aubrel has both hands wrapped around the strap of his satchel, though it is already securely on his shoulder.
+
+“An extraordinary sense of humour,” Varcet says at last.
+
+The dryness in his voice is unmistakable. He looks back at you, searching your expression, then leaves the observation there.
+
+Tessier draws a slow breath.
+
+“Well. I would appreciate some warning before we meet any more of them.”
+
+He speaks quietly, with an attempt at composure that almost becomes a smile. His fingers return to his coat pocket, checking the folded addresses as though reassuring himself that the ordinary business of the morning still exists.
+
+The motorcar pulls away. Through its rear window, one face remains turned towards you until the vehicle joins the traffic downhill.
+
+Sarnot watches it go.
+
+“Is everyone all right?” she asks.
+
+The others answer in turn. Shaken, but unhurt. Rouvant flexes her hand once, then fastens her notebook case.
+
+Your explanation has given them something they can say in the street. None presses you for another while strangers are watching from doorways. Tessier’s thoughtful glance lingers a little longer than the rest.
+
+A delivery cart starts moving again. Across the road, the provisioner resumes helping his customer collect the last of her purchases. Conversation returns in lowered voices.
+
+Tessier unfolds the addresses.
+
+“We still have the morning appointments,” he says. “Shall we carry on?”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 2 years, 6 months.  
+**Date:** 18/01/0068 AC43 — morning; expedition day 87, outside the Drossane guesthouse.  
+**Reputation:** Veyrassan scholar-engineer and expedition leader; publicly described the confrontation as a crude joke by old friends.  
+**Weapons (Equipped):** None; the departing operatives recovered their firearms.  
+**Armor/Clothing (Equipped):** Pale shirt, dark trousers and leather boots; charcoal coat remains upstairs.  
+**Gear/Inventory:** Research concealed inside. Six operatives have departed in their motorcar; subsequent compliance remains unobserved. All five scholars are present and uninjured.  
+**Currency:** 522 lorrats personal funds: 264 earmarked, 258 uncommitted, pending the estate statement. Expedition fund: 11,430 lorrats before current lodging and meal settlement. No new payment.

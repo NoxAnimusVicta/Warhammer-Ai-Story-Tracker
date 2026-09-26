@@ -89,7 +89,7 @@ Revision39 removes redundant local map additions and provides real northern/sout
 
 ## Current checkpoint
 
-Read CURRENT-CONTINUITY.md: 18/01/0068 AC43, expedition day 87 morning, after breakfast with all six still inside the Drossane guesthouse. Personal accounted funds 522, earmarks 264 pending the household statement, uncommitted 258. Expedition held 11,430 after 3,070 paid; current guesthouse bills await settlement. Galahad is approximately two years and six months old; his last measured height of 2.59 m remains historical.
+Read CURRENT-CONTINUITY.md: 18/01/0068 AC43, expedition day 87 morning, outside the Drossane guesthouse after the six operatives departed (exchange 523). All five scholars are uninjured but shaken; Tessier has asked whether to carry on. Read DROSSANE-INCIDENT.md for knowledge boundaries and unresolved instructions. Fieldwork has not resumed. Personal accounted funds 522, earmarks 264 pending the household statement, uncommitted 258. Expedition held 11,430 after 3,070 paid; current guesthouse bills await settlement. Galahad is approximately two years and six months old; his last measured height of 2.59 m remains historical.
 
 The private handover controls concealed characterisation, founder records and physiology calibration. Preserve player agency and practical uncertainty. Physical advantages constrain dice outcomes. No political coup, royal death or Hunter intervention is predetermined.
 
