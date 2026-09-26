@@ -245,13 +245,13 @@ Undirected service corridors, not compulsory calls for every vessel or guarantee
 | Vessantine | Bellacosta Cantons | Lorrevento, Marcavisse, Rovaro, Talasca |
 | Villessia | Ostrevain | Cernavie, Nemer, Rovellisse, Salterivo |
 
-## Census and chronology
+## Historical survey coverage — revision 52
 
 The revision52 atlas contains 970 settlements and 2,182 transport segments, including 106 sea passages joining 72 harbours. Ten outer-island regions cover 63 additional islands: seven self-governing polities and three colonial administrations. Talasca belongs to Rovessara, Ordelune to Ostrevain and Edrask to Rovengard, with separate geographic returns. The corrected census is 1,223,820,000 across 43 disjoint groups; the added 14,620,000 outer-island residents were omitted from earlier coverage. Existing homeland populations, capacities, coastlines, mainland borders and all earlier routes remain unchanged. This is existing-world clarification, not new growth, migration, colonisation, construction or elapsed story time. Seven railway systems remain; no transcontinental Vesalian railway or direct Karsenne–Calvernis line is opened. Read ISLAND-CHAINS.md and TRANSPORT-REFERENCE.md. Earlier survey counts and blank outer-island assumptions are superseded.
 
 ## Coastline and expedition revision53
 
-See COASTLINE-REFERENCE.md for the corrected mainland shorelines. Transport alignments and measured regional distances are unchanged. The proposed expedition-route.html and expedition-route.md target return on departure-day355, with five or six full days per research stop and ten days in reserve. The approved arrangements and funding are recorded in EXPEDITION-PREPARATION.md and EXPEDITION-BUDGET.md; the earlier provisional qualification is superseded.
+See COASTLINE-REFERENCE.md for the corrected mainland shorelines. Transport alignments and measured regional distances are unchanged. The revision-53 schedule targeted return on departure-day 355, with five or six full days per research stop and ten days in reserve. The expedition subsequently completed that schedule on 11/10/0068 AC43; expedition-route.html and expedition-route.md now record the actual journey. The approved arrangements and funding are recorded in EXPEDITION-PREPARATION.md and EXPEDITION-BUDGET.md; the earlier provisional qualification is superseded.
 
 ## Current sea network and circumnavigation
 
@@ -259,4 +259,4 @@ The comprehensive [sea passage review and register](SEA-PASSAGES.md) supersedes 
 
 Western, Eastern and Austral Ocean services form a circumnavigable network. The chart edge is not a barrier. Island supply, cross-gulf traffic and mainland approaches are connected without requiring every port to serve every other port directly. High-latitude routes require seasonal ice notices; local refuge and feeder harbours do not automatically offer unrestricted bunkering or major repairs.
 
-The approved expedition retains its capital sequence and seasonal corridors. Updated distances and a one-day redistribution between two travel legs preserve the day-355 return, 124 full visiting days and ten-day reserve. Current dates, route lengths and cost calculations are in the itinerary and EXPEDITION-BUDGET.md. No story time or payment is enacted.
+The completed expedition followed the approved capital sequence and seasonal corridors. Updated distances and a one-day redistribution between two travel legs preserve the day-355 return, 124 full visiting days and ten-day reserve. Current dates, route lengths and cost calculations are in the itinerary and EXPEDITION-BUDGET.md. This transport review itself enacts no story time or payment. The completed expedition accounts record the later actual costs.

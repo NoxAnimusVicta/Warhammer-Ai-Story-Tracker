@@ -1,6 +1,6 @@
 # Galahad — controlling physiology reference
 
-Revision 65 · Mature physiology and demonstrated expedition abilities and developed potential and contextual durability, retaining the accepted endurance and infection-resistance provisions. This is narrator continuity for this campaign, not a universal canonical specification for Custodes or Primarchs. It supersedes older conflicting sleep, stamina and overall combat assumptions, including revision43 and the preparation scene's 3–4-hour sleep statement. Historical dialogue remains unchanged.
+Reviewed revision 67 · Mature physiology, demonstrated expedition abilities, developed potential and contextual durability; retains the accepted endurance and infection-resistance provisions. This is narrator continuity for this campaign, not a universal canonical specification for Custodes or Primarchs. It supersedes older conflicting sleep, stamina and overall combat assumptions, including revision43 and the preparation scene's 3–4-hour sleep statement. Historical dialogue remains unchanged.
 
 ## Sleep and wakefulness
 

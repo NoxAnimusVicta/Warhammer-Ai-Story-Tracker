@@ -2,13 +2,13 @@
 
 Price review: **11/10/0068 AC43**. Year 67 AC43 reference bands remain the baseline; no blanket new-year inflation is enacted. Apply recorded regional conditions and actual invoices, not automatic repricing.
 
-Version 1.5 · Year 67 price baseline, reviewed 11/10/0068 AC43 · Editorial update 23 September 2026
+Version 1.6 · Year 67 price baseline, reviewed 11/10/0068 AC43 · Editorial audit 27 September 2026
 
 This reference supplies the baseline for **new economic estimates** on Malaspina. It supplies consistent fictional purchasing power, normal price bands and rules for local variation. It is not a claim about historical Terran prices or a list of transactions already completed in the story. Established purchases remain historical facts; later explicit corrections take precedence.
 
 ## Price date and change over story time
 
-These prices describe the **Year 67 AC43 baseline**, anchored to the evening before expedition departure at Auvrienne, **55 local days after the census of 27/08/0067 AC43**. The real-world editorial date is not the in-world year. A local year contains 365 local solar days, each lasting 24 Terran standard hours and 8 minutes. The numbered date and month lengths are established in the culling calendar. See CALENDAR-REFERENCE.md. The skilled wage of 25 lorrats per pay month is this year's purchasing-power anchor, not a permanent nominal wage.
+These prices describe the **Year 67 AC43 baseline**, anchored to the evening before expedition departure at Auvrienne, **55 local days after the census of 27/08/0067 AC43**. The real-world editorial date is not the in-world year. A local year contains 365 local solar days, each lasting 24 Terran standard hours and 8 minutes. The numbered date and month lengths are established in the culling calendar. See CALENDAR-REFERENCE.md. The skilled wage of 25 lorrats per pay month is the Year 67 purchasing-power anchor, retained at the current review, not a permanent nominal wage.
 
 Use [economic-ledger.json](economic-ledger.json) for dated changes. Its starting regional/category indices are 1.00, meaning the existing tables and regional adjustments apply without an additional time surcharge. No inflation, wage rise or event shock is enacted by introducing the ledger.
 
@@ -209,11 +209,11 @@ Veyrasse's census-baseline national return of **205 lorrat-equivalents per resid
 
 Prices are fictional reference bands, not guaranteed quotations. Identify quantity, unit, quality, place and transaction stage; record what labour, transport and taxes are included. Keep estimates, allocations, invoices and payments distinct. Current household accounts are recorded separately in [ESTATE-ACCOUNTS.md](ESTATE-ACCOUNTS.md).
 
-Version 1.4 retains the price bands and event-led revisions, and reconciles the established calendar. The replacement accounting passages in transcript439 establish the historical estate-pricing settlement. CURRENT-CONTINUITY.md and expedition-accounts.json govern the current balance.
+Version 1.6 retains the price bands and event-led revisions, and reconciles the established calendar. The replacement accounting passages in transcript439 establish the historical estate-pricing settlement. CURRENT-CONTINUITY.md and expedition-accounts.json govern the current balance.
 
 
-## Expedition travel calibration — current price year
+## Expedition travel calibration — Year 67 basis, retained at return
 
-[The expedition budget](EXPEDITION-BUDGET.md) introduces explicit working rates for previously unspecified services: sea passage0.007 lorrat per berth-km including board and lodging; professional twin room0.80/night, single0.60, large suitable room1.20; meals ashore0.75/person/day; two road vehicles and drivers24/day plus0.04/km combined distance/fuel; local full-day hire12 including driver/fuel. These are route-budget calibrations, not universal tariffs or evidence that future invoices are paid. Rail uses the existing0.008–0.018 band, at0.014 per passenger-km. Do not add ship meals twice, charge the opening passage twice, or deduct salaries from operations.
+[The expedition budget](EXPEDITION-BUDGET.md) introduces explicit working rates for previously unspecified services: sea passage 0.007 lorrat per berth-km including board and lodging; professional twin room 0.80/night, single 0.60, large suitable room 1.20; meals ashore 0.75/person/day; two road vehicles and drivers 24/day plus 0.04/km combined distance/fuel; local full-day hire 12 including driver/fuel. These are route-budget calibrations, not universal tariffs or evidence that future invoices are paid. Rail uses the existing 0.008–0.018 band, at 0.014 per passenger-km. Do not add ship meals twice, charge the opening passage twice, or deduct salaries from operations.
 
-Galahad’s established salary is60 per pay month: the exact story records360 over six months and a later payment60. Five travelling scholars retain35 each. The Collegium continues these ordinary wages while they conduct expedition work. The professional engineer45–85 and rare specialist/master70–120+ reference bands remain unchanged; personal pay is an established contract, not automatically whichever generic band is highest. No pay rise or extra salary receipt occurs in this correction.
+Galahad’s established salary is 60 per pay month: the exact story records 360 over six months and a later payment 60. Five travelling scholars retain 35 each. The Collegium continues these ordinary wages while they conduct expedition work. The professional engineer 45–85 and rare specialist/master 70–120+ reference bands remain unchanged; personal pay is an established contract, not automatically whichever generic band is highest. No pay rise or extra salary receipt occurs in this correction.

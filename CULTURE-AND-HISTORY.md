@@ -334,141 +334,61 @@ Smokehouses fill before freeze-up. Spring fish suppers mark reopened navigation 
 
 Tradition: Western island-and-estuary tables
 
-
-
 Rice cooked in coconut milk accompanies peppered fish near the coast; inland labourers eat cassava cakes and bean relish. At Jougrenne, prosperous hosts serve fish wrapped in aromatic leaves, followed by cane syrup fritters. Sour fruit drinks and weak cane beer are ordinary; imported wine belongs to charter banquets.
-
-
-
-
-
-
 
 ## Cavressa Principalities
 
 Tradition: Southwestern upland tables
 
-
-
 Barley noodles with browned cabbage are everyday food in the cooler districts. Shepherds carry hard cheese and sour rye loaves; court cooks serve mutton with dried plums and a crust of toasted grain. Albaret inns are known for pear pastries. Dark beer and plum spirit travel better than fresh milk.
-
-
-
-
-
-
 
 ## Vaulcerre Basin Leagues
 
 Tradition: Northern dry-basin tables
 
-
-
 Millet porridge with greens and groundnut sauce feeds field crews; fish dried beside the canals enriches stews. Jarnan serves spiced rice with river fish on market days. Fermented grain drink is inexpensive, while sweet tea signals a household with access to imported leaves. Drought changes recipes before it changes official water allocations.
-
-
-
-
-
-
 
 ## Seravelle Littoral
 
 Tradition: Eastern coastal tables
 
-
-
 Astrellac cooks fish in tomato and fennel broth and lays yesterday’s bread beneath it. Bean-filled pastries and olives travel inland with merchants. Wealthy harbour tables add citrus-roasted poultry and almond cakes; dockworkers buy chickpea fritters. Coastal wine is plentiful locally, while coffee is sold in small, strong cups.
-
-
-
-
-
-
 
 ## Haldrevik Concessions
 
 Tradition: Concession camp tables
 
-
-
 Workers eat oat flatbread, pea soup and smoked fish at company canteens. Mushroom pies and berry preserves mark a well-stocked household. Managers import white flour and wine for renewal dinners; crews drink malt beer or roasted-grain coffee. An interrupted supply convoy can make the company shop the only source of food and deepen wage debt.
-
-
-
-
-
-
 
 ## Dreissen Wardholds
 
 Tradition: Northern fortress tables
 
-
-
 Rye-and-oat bread, dried fish and sour cabbage dominate fortress kitchens. Venison is a costly addition to barley stew, not an everyday entitlement. Festival tables offer potato dumplings with browned butter and tart berry sauce. Hot malt drinks and strong grain spirit accompany winter hospitality; fuel scarcity limits baking as much as flour scarcity does.
-
-
-
-
-
-
 
 ## Varneselle Estates
 
 Tradition: Eastern estate tables
 
-
-
 Fish baked under a rye crust is shared along the shore; inland tables favour potato cakes with cultured cream and mushrooms. A formal estate meal adds roast poultry and sour-berry pudding. Small beer accompanies workday suppers, while herb spirits are offered to guests. The port’s fresh bread distinguishes it from outlying households that bake only when fuel permits.
-
-
-
-
-
-
 
 ## Bressavelle Marches
 
 Tradition: Western small-state tables
 
-
-
 Households bake bean-and-onion pies and stretch broth with torn bread. Market inns serve pork with apples and coarse mustard; better tables add freshwater fish in butter and herb sauce. Cider is common in orchard districts, ale elsewhere. Customs officers are notorious for accepting imported coffee as hospitality while charging duty on the next sack.
-
-
-
-
-
-
 
 ## Vallessia Cantons
 
 Tradition: Southern small-state tables
 
-
-
 Rice-and-bean dishes with sharp green relish are common in the warmer cantons; upland tables add maize bread and soft cheese. Galigny market stalls sell stuffed peppers when in season. Feast days bring roast poultry with sour fruit, and sweet fritters. Light beer and fruit cordials are ordinary; imported coffee is concentrated in commercial houses.
-
-
-
-
-
-
 
 ## Rivessac Coast
 
 Tradition: Southeastern border tables
 
-
-
 Coastal kitchens combine fish, white beans, garlic and local greens; inland families make herb dumplings and barley bread. Saultac’s market speciality is poultry braised with olives and sour citrus. Hosts offer almond biscuits with coffee when they can afford it; diluted wine or herbal infusions are more usual. Fresh fish becomes a luxury only a short disrupted journey inland.
-
-
-
-
-
-
 
 ## Varessan Sea League
 
