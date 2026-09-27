@@ -2,7 +2,9 @@
 
 Price review: **11/10/0068 AC43**. Year 67 AC43 reference bands remain the baseline; no blanket new-year inflation is enacted. Apply recorded regional conditions and actual invoices, not automatic repricing.
 
-Version 1.6 · Year 67 price baseline, reviewed 11/10/0068 AC43 · Editorial audit 27 September 2026
+Version 1.7 · Year 67 price baseline, reviewed 11/10/0068 AC43 · Capital and estate-enterprise estimates recorded 27 September 2026
+
+Additional references: [capital purchases](#8-capital-purchases-and-industrial-projects), [estate crop and tenancy planning](#9-orsival-estate-production-and-tenant-purchases), and [shelved brewery-and-orchard-drinks proposal](#10-orchard-drinks-and-brewery-feasibility--shelved-proposal). These preserve the economic discussion without enacting a business, purchases, harvests or changes to balances.
 
 This reference supplies the baseline for **new economic estimates** on Malaspina. It supplies consistent fictional purchasing power, normal price bands and rules for local variation. It is not a claim about historical Terran prices or a list of transactions already completed in the story. Established purchases remain historical facts; later explicit corrections take precedence.
 
@@ -209,7 +211,7 @@ Veyrasse's census-baseline national return of **205 lorrat-equivalents per resid
 
 Prices are fictional reference bands, not guaranteed quotations. Identify quantity, unit, quality, place and transaction stage; record what labour, transport and taxes are included. Keep estimates, allocations, invoices and payments distinct. Current household accounts are recorded separately in [ESTATE-ACCOUNTS.md](ESTATE-ACCOUNTS.md).
 
-Version 1.6 retains the price bands and event-led revisions, and reconciles the established calendar. The replacement accounting passages in transcript439 establish the historical estate-pricing settlement. CURRENT-CONTINUITY.md and expedition-accounts.json govern the current balance.
+Version 1.7 retains the existing price bands, event-led revisions and calendar, and adds dated capital and estate-enterprise planning references. The replacement accounting passages in transcript439 establish the historical estate-pricing settlement. CURRENT-CONTINUITY.md and expedition-accounts.json govern the current balance.
 
 
 ## Expedition travel calibration — Year 67 basis, retained at return
@@ -217,3 +219,211 @@ Version 1.6 retains the price bands and event-led revisions, and reconciles the 
 [The expedition budget](EXPEDITION-BUDGET.md) introduces explicit working rates for previously unspecified services: sea passage 0.007 lorrat per berth-km including board and lodging; professional twin room 0.80/night, single 0.60, large suitable room 1.20; meals ashore 0.75/person/day; two road vehicles and drivers 24/day plus 0.04/km combined distance/fuel; local full-day hire 12 including driver/fuel. These are route-budget calibrations, not universal tariffs or evidence that future invoices are paid. Rail uses the existing 0.008–0.018 band, at 0.014 per passenger-km. Do not add ship meals twice, charge the opening passage twice, or deduct salaries from operations.
 
 Galahad’s established salary is 60 per pay month: the exact story records 360 over six months and a later payment 60. Five travelling scholars retain 35 each. The Collegium continues these ordinary wages while they conduct expedition work. The professional engineer 45–85 and rare specialist/master 70–120+ reference bands remain unchanged; personal pay is an established contract, not automatically whichever generic band is highest. No pay rise or extra salary receipt occurs in this correction.
+
+## 8. Capital purchases and industrial projects
+
+**Price basis: 11/10/0068 AC43, ordinary Veyrassian conditions.** These are newly calibrated fictional reference bands from the economic discussion, not quotations or completed purchases. Apply the same dated market-change rules as everyday goods. No universal Terran currency conversion is implied.
+
+**1,000 lorrats = 40 skilled-worker pay months = 3⅓ years of gross skilled wages, or 16⅔ months of Galahad's current 60-lorrat salary.** This is gross income, not disposable savings. The current accounts hold 1,197 personal cash and 314 separate estate cash; Dorlac's 60 receivable is unpaid. Spending 1,000 personally would leave 197, with estate funds still separate. Land and buildings are additional assets, not included in cash. No royal programme grant has been approved or received.
+
+### Property and small businesses
+
+| Purchase or undertaking | Lorrats | Scope |
+|---|---:|---|
+| Modest habitable rural cottage and small garden | 300–650 | Ordinary property, not a farm. |
+| Ordinary small Serravonne house | 700–1,600 | Condition and location matter. |
+| Comparable Auvrienne house | 1,000–2,800 | Capital-city housing premium. |
+| Substantial comfortable provincial family house | 2,000–5,000 | No extensive estate assumed. |
+| Open a small shop | 300–800 | Rented premises, fittings, ordinary stock and initial cash reserve; not freehold purchase. |
+| Open a bakery or similar small production business | 600–1,500 | Rented premises and modest equipment/stock; not an industrial plant. |
+| Buy an established modest shop business | 700–2,000 | Stock and goodwill, excluding its building; verify actual earnings and liabilities. |
+
+The existing 15–25-times sustainable net property-income valuation check still applies; these examples do not replace it or assign a sale value to the Orsival estate. Buying premises, acquiring a business and funding operations are distinct commitments.
+
+### Workshops and civil engineering
+
+| Undertaking | Lorrats | Scope |
+|---|---:|---|
+| Design office | 150–250 | Preserved existing setup band. |
+| Personal prototype workshop | 350–600 | Preserved band; existing suitable premises. |
+| Small staffed machine shop | 1,200–2,500 | Preserved band; limited general-purpose capability, possibly second-hand equipment; existing/leased premises and limited opening provision, not perpetual payroll. |
+| Substantial equipped workshop | 5,000–15,000 | Broader machinery, power and lifting provision; no land/freehold purchase. |
+| Modest factory with dedicated production machinery | 30,000–100,000+ | Defined industrial scope and suitable site; no universal factory tariff. |
+| Farm water supply | 150–600 | Well/intake, pump, storage and limited distribution; specific scope controls. |
+| Significant estate drainage/irrigation improvements | 300–1,200 | Existing estate, measured works. |
+| Small permanent road bridge across a narrow watercourse | 3,000–12,000 | Foundations, access and flood conditions require assessment. |
+| Small town waterworks and distribution | 20,000–80,000 | A local scheme, not a metropolitan network. |
+
+These project bands are broad planning references; obtain itemised site estimates. Exceptional foundations, remote materials or extensive earthworks require explicit adjustments. They do not replace the national-wonder estimates in ARCHITECTURE-REFERENCE.md. The Orsival workshop is already dry, secure and lit but remains unequipped; do not charge its paid repairs again.
+
+### Vehicles and military procurement
+
+| Standard factory-produced item | Lorrats |
+|---|---:|
+| Serviceable used civilian car | 150–400 |
+| New ordinary civilian car | 400–800 |
+| New general-purpose lorry | 600–1,200 |
+| Military machine gun with normal mounting | 100–250 |
+| Field artillery piece with normal carriage and sights | 800–2,000 |
+| Heavy artillery piece | 2,500–7,000 |
+| Armoured car | 1,500–3,500 |
+| Light tank | 3,000–6,000 |
+| Medium tank | 7,000–15,000 |
+| Heavy tank | 15,000–35,000 |
+
+These exclude a new development programme, factory construction, crew, continuing fuel and substantial ammunition stocks. Price is not automatic availability, permission to possess military equipment or an export authorisation. The Auvrienne 762 remains an unbuilt design with no settled production quotation.
+
+Conventional light-to-medium tank planning: **10,000–25,000** for a prototype using an existing capable industrial workshop and bought-in specialist components; **15,000–40,000** to establish a suitable modest workshop and produce that prototype with substantial outsourcing; **100,000–300,000+** to establish a dedicated small production operation before sustained production costs. These are alternative scopes, not cumulative charges. A prototype concentrates development costs into one vehicle. Galahad's abilities may reduce labour/design costs when actually applied, but do not make equipment and outside supplies free. An existing state arsenal avoids purchasing the entire capability personally.
+
+## 9. Orsival estate production and tenant purchases
+
+**Status: proposed crop specification and normal-year planning model, recorded for future use; not a completed survey, planting instruction or actual harvest return.** The established 56-hectare allocation remains unchanged. The user has shelved the associated enterprise discussion. No agricultural conversion, purchase contract or new business is enacted.
+
+### Proposed tenant rotation — 20 hectares
+
+| Crop in a representative year | Area | Planning yield per hectare | Usable output |
+|---|---:|---:|---:|
+| Wheat | 8 ha | 2 t | 16 t |
+| Barley | 4 ha | 1.8 t | 7.2 t |
+| Oats | 3 ha | 1.6 t | 4.8 t |
+| Field beans | 2 ha | 1.2 t | 2.4 t |
+| Clover/grass ley for fodder | 3 ha | 3 t hay | 9 t hay |
+| **Total** | **20 ha** | | **30.4 t grain/beans plus 9 t hay** |
+
+Rotate crops between fields over successive years. Usable outputs allow ordinary field/quality losses, but tenants still retain seed, food and animal feed; the whole output is not automatically marketable surplus. Straw is an unquantified by-product. The clover ley is productive land, not unused space.
+
+**Tenants own their crops; the estate receives rent.** The working rental benchmark is 240/year (20 ha × 12), subject to individual agreements. Never count their harvest revenue as estate income as well as charging cash rent. Existing occupancies remain protected.
+
+### Proposed estate-managed crop mix
+
+| Use | Area | Proposed specification | Normal-year output basis |
+|---|---:|---|---|
+| Orchard | 4 ha | 2 ha apples, 1.2 ha pears, 0.8 ha plums | 32 t saleable fruit: 16 apples, 9.6 pears, 6.4 plums at the model's common 8 t/ha planning yield. |
+| Market garden | 2 ha | Potatoes, onions/carrots, cabbages, beans/peas and a small herb area | 28 t saleable mixed vegetables at 14 t/ha; no surveyed subcrop areas yet. |
+| Meadow/pasture | 12 ha | Mixed grasses and clover | 36 t hay equivalent if fully on the hay-sale basis. |
+| Woodland | 14 ha | Proposed oak, beech, hornbeam and hazel coppice | Inventory still needed; existing illustrative cut is 30 solid m³ roadside sawlogs and 30 stacked m³ fuelwood. |
+
+The orchard/garden division was previously provisional and remains a recorded proposal until adopted. Fruit and vegetable saleable yields already exclude household retention and ordinary unsaleable produce. Do not subtract those again. Replace hay output with grazing use on any area allocated to grazing; do not count both at full capacity. No personally owned herd is established. The woodland example removes 49.5 solid m³ in total, conditional on inventory, access and sustainable growth.
+
+### Space and water
+
+Of 56 ha, 20 are tenant arable; the other 36 comprise 12 meadow/pasture, 6 orchard/gardens, 14 woodland and 4 buildings, cottages, tracks, yards and domestic grounds. **No measured vacant parcel is currently confirmed.** Meadow may be the most practical place to investigate development, subject to grazing rights, drainage and access; woodland or orchard conversion displaces productive assets. One meadow hectare on the current model represents about 3 t hay and 11 lorrats annual contribution after direct costs. Construction costs are additional.
+
+The records establish wet lower ground and drainage channels/crossings, not ownership of a large river or its banks. Artwork is not a boundary survey. A well on estate land is a plausible future project, not a proven aquifer or automatic clean-water supply. Confirm yield and quality, protect the wellhead from floodwater and keep wastewater separate. No river-use rights or abstraction arrangement has been granted.
+
+### Buying tenant crops
+
+Direct farm-gate purchases can avoid retail/merchant costs but there is **no automatic landlord discount or ownership of the harvest**. Existing cereal price band: 12–22/tonne, with malting quality potentially commanding a specific premium. Five tonnes at 18/tonne cost 90; an explicitly negotiated 5% prompt-payment/collection discount gives 85.5. Do not stack a generic bulk discount onto a price that already includes it. Milling, transport and storage are separate unless included.
+
+Rent in kind is a possible negotiated replacement: five tonnes valued at 18/tonne discharge 90 of rent, not supply free grain alongside the same 90 cash rent. First refusal on an agreed surplus at a transparent local price is an option, not an existing right. No contract or rent conversion has been made.
+
+## 10. Orchard drinks and brewery feasibility — shelved proposal
+
+**Decision recorded 27 September 2026: table the business for now and preserve the economic reference.** In-world valuation remains 11/10/0068 AC43. No construction, staff hiring, crop diversion, equipment purchase, harvest stock, sales, borrowing or cash movement is enacted. Forecast future annual harvest capacity is not current stock on hand. Keep this proposal separate from the historical estate accounts and royal technical commission.
+
+### Capacity assumptions
+
+Assume 5–6 tonnes of the proposed 7.2-tonne tenant barley crop can be purchased; that surplus and malting suitability are unconfirmed. At roughly 1.3 tonnes barley per tonne malt and a conservative model of 4–5 litres saleable ordinary-strength beer per kg malt, output is **about 15,000–23,000 litres/year**. This detailed calculation supersedes the earlier rough 16,000–24,000 estimate. Strong beer yields fewer litres. Use contract malting initially; an estate maltings is not included. Hops, yeast, fuel, packaging and suitable water still need sourcing.
+
+The orchard's 16 t apples could support 8,000–9,600 litres cider; 9.6 t pears about 4,300–5,800 litres perry. Together with the conservative beer range this is roughly **27,000–38,000 litres/year before a separate plum product**, approximately 54,000–76,000 half-litre servings. Plum beer uses part of existing beer output and must not be added again as entirely new volume. Dedicated plum wine requires trialled recipe/yield assumptions and purchased ingredients where needed. Dessert fruit may be usable; varieties, pressing yield and blend suitability must be assessed, not assumed ideal.
+
+A 500-litre beer plant would require roughly 30–46 batches for the forecast beer volume, with suitable fermentation capacity. Cider/perry storage is sized for the seasonal harvest peak, not average weekly sales. Brewing, fruit pressing and fermentation are related but distinct equipment requirements.
+
+### Orchard-only sales comparison
+
+These newly calibrated prices are receipts to the estate business, chiefly merchant/tavern sales, **not downstream retail prices**. Container deposits are refundable liabilities, not revenue. All 32 t in the existing saleable-fruit model are diverted; household fruit was already excluded. This is a steady normal-year sale-through model, not guaranteed first-year sales.
+
+| Product | Saleable litres/year | Price band per litre | Working price | Annual receipts |
+|---|---:|---:|---:|---:|
+| Cider | 8,800 | 0.10–0.15 | 0.12 | 1,056 |
+| Perry | 4,800 | 0.12–0.18 | 0.14 | 672 |
+| Plum wine | 3,200 | 0.20–0.30 | 0.24 | 768 |
+| **Total** | **16,800** | | | **2,496** |
+
+Plum output is a provisional recipe assumption, not a measured juice extraction rate; trial before commitment. Purchased recipe ingredients are allowed below. Ordinary processing losses are already in finished volumes.
+
+| Additional annual expense | Lorrats |
+|---|---:|
+| Experienced production manager/cidermaker, 45/month | 540 |
+| Seasonal processing/bottling help, additional to existing orchard labour | 120 |
+| Fuel, pump power and water-system operation | 100 |
+| Yeast, recipe ingredients, cleaning and testing supplies | 80 |
+| Closures, labels, packaging replacements and cask upkeep | 140 |
+| Delivery and selling | 100 |
+| Equipment maintenance | 80 |
+| Administration and provisional local charges | 60 |
+| Exceptional rejected stock/unpaid-invoice allowance | 90 |
+| Additional equipment replacement reserve | 120 |
+| **Total** | **1,430** |
+
+The charges provision is an estimate, not an established alcohol-tax rate or licence. Confirm applicable charges before investment. The exceptional-loss allowance does not subtract normal process loss a second time. Existing orchard cultivation/harvest costs remain in estate operations, with no second deduction here and no assumed saving from ceased fresh-fruit packing/marketing.
+
+Comparison: **2,496 − 1,430 − 480 displaced fresh-fruit revenue = 586 additional annual surplus.** Gross revenue rises by 2,016, not profit. The historical 218 normal-year estate forecast would become 804 on these assumptions; the actual expedition-year surplus of 162 remains unchanged. With realised drinks revenue 20% lower and costs unchanged, additional surplus falls to 86.8. Unsold stock is not cash revenue. No beer profit is included.
+
+### Water supply and orchard-processing capital
+
+Ordinary well installation bands: investigation/trial work/testing 30–80; well construction/protected head 120–300; pump/drive/tank/short pipework 100–220; combined **250–600**, central **400**. This is a more specific scope within the farm-water planning category, not an additional charge on top of it. Difficult drilling or substantial treatment needs requoting.
+
+The following assumes a suitable existing outbuilding, predominantly still drinks, casks plus returnable bottles, and manually operated equipment appropriate to local industry. No suitable spare building is confirmed; the assigned engineering workshop is not automatically reassigned.
+
+| Capital item | Central allowance |
+|---|---:|
+| Well, pump, tank and supply, including initial investigation/testing | 400 |
+| Washable drainage and wastewater collection/handling | 250 |
+| Building adaptation: floors, ventilation, partitions and storage | 450 |
+| Fruit sorting/washing, mill and substantial press | 300 |
+| Fermentation/storage vessels, approximately 24,000–26,000 litres gross capacity | 1,100 |
+| Hot-water plant/basic temperature management | 200 |
+| Transfer pumps, hoses, fittings and testing instruments | 150 |
+| Manual bottle washing/filling/closing equipment | 100 |
+| Initial circulating casks, bottles and crates | 350 |
+| Layout planning, installation checks and commissioning | 100 |
+| **Subtotal** | **3,400** |
+| **15% capital contingency, added once** | **510** |
+| **Installed total** | **3,910** |
+| Opening working cash | 900 |
+| **Funding provision** | **4,810** |
+
+Gross vessel capacity includes fermentation/transfer room, not extra finished output. Working cash bridges wages, consumables and maturation/payment delays; it is funding, not a second annual expense. Assess its adequacy against the actual production/sales calendar. The detailed brewery/cidery budget supersedes any attempt to apply the generic bakery/startup band to this larger seasonal-storage operation.
+
+If a new building is required, provisionally replace the 450 adaptation line with **1,500–3,000** for a modest purpose-built structure and recalculate contingency; do not add both in full. High groundwater, flood exposure, difficult foundations or temperature-control requirements can change the scope. Existing estate repairs are already paid and are not charged again.
+
+### Packaging and employment unit prices
+
+| Item | Current reference band |
+|---|---:|
+| Sound reconditioned 100-litre wooden cask for still drinks | 3–5 |
+| New 100-litre wooden cask | 5–8 |
+| Ordinary reusable 750 ml bottle, bulk purchase | 0.02–0.04 |
+| Closure/simple label per filling | 0.005–0.015 |
+| Reusable twelve-bottle wooden crate | 0.3–0.6 |
+| Experienced working brewer/cidermaker | 40–55/month |
+| Regular production assistant | 16–23/month |
+
+Pressure-rated sparkling packaging needs its own specification and price. The initial 350 pool can cover approximately forty reconditioned 100-litre casks, four thousand ordinary bottles and crates; containers circulate and do not hold the whole annual harvest simultaneously. Bulk storage is separately budgeted above. Replacement/consumables enter annual costs, not another purchase of the entire opening pool. Lucette's existing wage does not include running production.
+
+### Optional 500-litre beer addition
+
+| Additional capital | Range |
+|---|---:|
+| Mash/separation/boiling/cooling equipment | 450–900 |
+| Malt mill and dry grain storage | 60–140 |
+| Beer fermentation and conditioning vessels | 350–700 |
+| Heating/service upgrades | 100–250 |
+| Additional circulating casks | 150–300 |
+| **Installed allowance including 15% contingency** | **About 1,300–2,650** |
+| Additional working cash | 400–700 |
+
+Assumes shared premises/distribution and contract malting, not an estate maltings. Additional barley, malting, hops, yeast, fuel and labour need a separate beer operating budget before any profit is asserted. The orchard's 586 surplus contains no beer contribution.
+
+The orchard-only provision of 4,810 exceeds current personal cash of 1,197. Simple recovery of that funding provision at 586/year is roughly eight years after retaining the modelled replacement reserve, before financing or ramp-up effects. This is a comparison, not a discounted investment appraisal or promise. Smaller production, using only part of the harvest, or paid processing elsewhere remain possible options; none is commissioned. The business remains **shelved**.
+
+### Technical sources and limits
+
+Real-world sources support process assumptions only; they do not supply lorrat prices or establish crops, equipment, permits or groundwater at the fictional estate.
+
+- [Crisp Malt: barley-to-malt conversion and malting-quality premiums](https://crispmalt.com/news/why-does-the-malt-price-change-every-year/).
+- [Crisp craft malt handbook](https://crispmalt.com/wp-content/uploads/2023/04/CRISP_CRAFT-MALT-HANDBOOK.pdf): brewing reference; conservative campaign finished-yield allowance is an extrapolation.
+- [Apple pressing service yield example](https://wattkastapple.fi/en/musteri/): fruit-to-juice comparison, not a guaranteed finished-drink yield.
+- [Washington State University perry research](https://cider.wsu.edu/perry/): dessert-pear suitability and cultivar differences.
+- [Penn State private-water-system flood guidance](https://extension.psu.edu/post-flood-drinking-water-safety-for-private-water-systems): groundwater protection/testing considerations.
