@@ -6,6 +6,8 @@ A read-only companion to the continuing campaign.
 
 The planetary atlas includes a [national staff register](NATIONAL-REGISTER.md), with military, economic and industrial comparisons. Current estimates are in [national-current.json](national-current.json); [national-register.json](national-register.json) preserves the dated baseline. Divided geographic returns remain separate from unified states; the accompanying definitions explain the units and scope.
 
+Select any settlement in the atlas to open **Compare settlements & plan travel**. Compare two dated civic records, explore connected road, rail and sea itineraries, select a required stop and highlight a journey on the map. [Settlement journey reference](SETTLEMENT-TRAVEL.md) explains the time ranges and conditional flight comparisons.
+
 Continuing the story on another account? Start with the [narrator guide](NARRATOR-GUIDE.md) and [current continuity](CURRENT-CONTINUITY.md). The private handover supplied to the player contains concealed notes and editable sources; it must not be uploaded to this public repository.
 
 The [exact conversation archive](story-transcript.md) preserves historical wording, including superseded proposals. Current continuity takes precedence: Malaspina is a Terra-like world curated by the Hunters as a game reserve, and the creature's current name is Vouressan. Historical references to a Death World or Vordrake are not current lore.
