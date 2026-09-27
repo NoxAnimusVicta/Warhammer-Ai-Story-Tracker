@@ -1,6 +1,6 @@
 # Galahad — controlling physiology reference
 
-Reviewed revision 67 · Mature physiology, demonstrated expedition abilities, developed potential and contextual durability; retains the accepted endurance and infection-resistance provisions. This is narrator continuity for this campaign, not a universal canonical specification for Custodes or Primarchs. It supersedes older conflicting sleep, stamina and overall combat assumptions, including revision43 and the preparation scene's 3–4-hour sleep statement. Historical dialogue remains unchanged.
+Reviewed at revision 68, including the agreed running-speed clarification · Mature physiology, demonstrated expedition abilities, developed potential and contextual durability; retains the accepted endurance and infection-resistance provisions. This is narrator continuity for this campaign, not a universal canonical specification for Custodes or Primarchs. It supersedes older conflicting sleep, stamina, short-burst-only running and overall combat assumptions, including revision43 and the preparation scene's 3–4-hour sleep statement. Historical dialogue remains unchanged.
 
 ## Sleep and wakefulness
 
@@ -27,6 +27,25 @@ Unaided physical performance exceeds ordinary Astartes; being below a typical Cu
 At **full maturity**, one typical Custodian is insufficient to reliably defeat Galahad under comparable conditions, considering his combined physical and psychic capabilities. More than one would ordinarily be needed to put him down. Experience, developed powers and equipment can increase that advantage; no fixed opponent-count formula overrides tactics, conditions or exceptional individuals. Do not turn his current lack of experience into permanently reduced potential, or award future experience immediately.
 
 He remains a perfected proto-Primarch. The modest advantage over the adopted Alpha Primus benchmark describes the foundational design; it does not impose a permanent ceiling on developed psychic power or every component of durability. Bodily maturity is not the completion of a lifetime of psychic development. Full bodily maturity occurs around three local years at three metres. At 11/10/0068 AC43 he is approximately three years and three months old and has reached bodily maturity at about 3 metres. The earlier 2.59-metre measurement is historical. No exact birthday is established.
+
+## Unaided running speed and sustained effort — accepted clarification
+
+These specifications apply to **bodily mature Galahad now**, without psychic enhancement. Speeds use kilometres per local hour, consistent with the settlement journey planner.
+
+| Measure | Agreed interpretation |
+| --- | --- |
+| Sustainable distance-running pace | **Approximately 100 km/h** on suitable ground. Maintaining this average for approximately **three hours** is comfortably sustainable, with little to no meaningful impairment afterwards. |
+| Unaided maximum running speed | **Approximately 120–130 km/h**, deliberately slightly below the adopted 135 km/h Custodian comparison. This is a working maximum range, not an unspecified or unlimited baseline. |
+| Demanding running workout | Sustained effort approaching **120–130 km/h** requires substantial exertion. Exceptional endurance makes several hours of high-output running plausible; demanding exercise does not imply ordinary-human sprint exhaustion or immediate loss of function. Repeated acceleration, gradients and significant carried resistance also increase the workload. |
+| Psychic enhancement | A separate means of exceeding the unaided range. No numerical enhanced maximum or newly mastered enhancement technique is awarded by this clarification. |
+
+The **135 km/h Custodian figure is an adopted campaign benchmark**, not a verified universal published speed for Custodes. Galahad remains slightly slower unaided under this comparison. Running speed does not independently settle strength, reactions or overall combat outcomes.
+
+Earlier records accepted unaided movement above 100 km/h but described it as brief or short-burst. The present clarification **supersedes that duration restriction** for mature Galahad. Do not silently restore a brief-sprint-only limit, say that no speed was established, or use the planner's ordinary-human walking/rest schedule for him. Exercise and exhaustion are distinct: a sustained run can provide conditioning without leaving him appreciably tired.
+
+Maximum ground speed is not automatically the average over every route. Tight bends, traffic, difficult footing, navigation and unusual loads may lower actual progress even with ample stamina. Suitable conditions should not be arbitrarily denied merely to cancel the agreed capability.
+
+For the approximately **301 km Auvrienne–Serravonne road**, a 100 km/h average gives approximately **3 hours 1 minute**. An unobstructed 120–130 km/h average gives approximately **2 hours 19 minutes to 2 hours 31 minutes**. These are calculated journey examples, not a journey already performed, and the mapped road distance is an estimate. The separate **350 km railway / 11–17 hours** remains unchanged. No story time, location, injury, equipment or account balance changes.
 
 ## Narration and maintenance rule
 

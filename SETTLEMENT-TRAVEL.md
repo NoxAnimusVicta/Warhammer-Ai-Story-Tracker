@@ -35,6 +35,12 @@ Road journeys add the remainder of a 24-hour day as rest after each complete tra
 
 These conventions are explicitly **planning assumptions**, not additional canon timetables. The displayed elapsed range covers ordinary movement, road rest and the stated routine handling. Waiting for an actual departure, prolonged closures, exceptional delays and overnight accommodation availability cannot be calculated from the existing records. Rough tracks, steep terrain and adverse conditions can make even the upper estimate optimistic; read the conditions on the individual legs. Road speeds describe a broadly serviceable route, not a guarantee that every track accepts every vehicle.
 
+## Galahad's personal running pace
+
+The ordinary walking option does not model Galahad. His [controlling physiology reference](PHYSIOLOGY-REFERENCE.md) establishes approximately **100 km/h as a sustainable pace for three hours with little impairment**, and approximately **120–130 km/h as his unaided maximum** on suitable ground. Near-maximum running is demanding sustained exertion rather than a brief human sprint. Psychic enhancement is separate.
+
+The approximately **301 km road between Auvrienne and Serravonne** would therefore take about **3 hours 1 minute at a 100 km/h average**, or approximately **2 hours 19–31 minutes at a 120–130 km/h average** if conditions permit. Corners, traffic, poor footing and loads can reduce actual average speed. These calculations neither change the established **350 km / 11–17 hour railway journey** nor enact Galahad's departure or arrival.
+
 ## Flight comparisons
 
 The atlas currently records no airfields, scheduled air corridors, aircraft ranges or refuelling network. Consequently, it cannot truthfully list an available scheduled flight between arbitrary settlements.
