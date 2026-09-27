@@ -1,6 +1,6 @@
 # House Orsival — estate accounts
 
-Revision 65 · Reviewed 11/10/0068 AC43; day 355 · Pricing baseline: transcript439; subsequent payments: transcript443
+Revision 69 · Reviewed 02/11/0068 AC43 · Pricing baseline: transcript439; subsequent payments: transcript443
 
 The established land account remains **20 ha tenanted arable + 12 meadow/pasture + 14 woodland + 6 orchard/market ground + 4 buildings/tracks/domestic ground = 56 ha**. Existing occupancies and tenancies remain protected.
 
@@ -70,7 +70,7 @@ The expedition operating fund is 14,500 lorrats: 10,000 from the Chancery and 4,
 
 General wages and prices: [ECONOMIC-REFERENCE.md](ECONOMIC-REFERENCE.md). These accounts supersede the earlier provisional 620/144 forecast and 190/212 allocation. The exact transcript retains those historical passages; they are not the current budget.
 
-### Current estate statement — 11/10/0068 AC43
+### Historical estate statement — 11/10/0068 AC43
 
 | Movement during the expedition | Lorrats |
 |---|---:|
@@ -87,7 +87,7 @@ Operating surplus is **1,570 − 844 − 340 − 224 = 162**. It is the resolved
 
 Initial repairs and first furniture are paid. The workshop building is dry, secure and lit, ready for equipment; no benches, machinery or specialist tools have been purchased. Veskan’s arm has healed. Corva retains the delegated financial and staffing authority; no retirement or complete marital reconciliation is assumed.
 
-### Current personal account — 11/10/0068 AC43
+### Historical personal account — 11/10/0068 AC43
 
 | Movement | Lorrats |
 |---|---:|
@@ -100,6 +100,51 @@ Initial repairs and first furniture are paid. The workshop building is dry, secu
 | Approved leadership award, paid | +645 |
 | **Personal funds** | **1,197** |
 
-The earlier 522 included the household earmarks; they must not be added again. Combined personal and estate funds are **1,511**, held as two distinct accounts. All twelve ordinary expedition paydays are settled, including the three already recorded before day 87. Next salary **01/11/0068 AC43**, still **60/month**.
+The earlier 522 included the household earmarks; they must not be added again. Combined personal and estate funds are **1,511**, held as two distinct accounts. All twelve ordinary expedition paydays are settled, including the three already recorded before day 87. At that checkpoint the next salary was expected on 01/11 at 60/month; the later resignation and final settlement below supersede that expectation.
 
-The expedition is separately closed: **11,855** operations, **500** scholar awards, **645** leadership award and **1,500** refunds account for the full **14,500** fund. No institutional balance remains in Galahad’s control. Royal technical programme funding and remuneration have not been quantified or paid. See [final expedition accounts](expedition-accounts.json) and [commission](ROYAL-COMMISSION.md).
+The expedition is separately closed: **11,855** operations, **500** scholar awards, **645** leadership award and **1,500** refunds account for the full **14,500** fund. No institutional balance remains in Galahad’s control. At that historical checkpoint royal funding and remuneration were not yet quantified or paid; the executed programme is recorded below and in ROYAL-COMMISSION.md. See [final expedition accounts](expedition-accounts.json) and [commission](ROYAL-COMMISSION.md).
+
+
+## Current reconciled accounts — 02/11/0068 AC43
+
+The statements above preserve the closed expedition and earlier planning model. The following movements advance those opening balances once; no new annual forecast or unrecorded harvest income has been credited.
+
+### Personal funds
+
+Opening 11/10: **1,197**.
+
+| Date | Movement | Lorrats |
+|---|---|---:|
+| 11/10/0068 AC43 | Train home | -6 |
+| 12/10/0068 AC43 | Transfer to household | -1,000 |
+| 18/10/0068 AC43 | Paid trial manufacture licence | +900 |
+| 20/10/0068 AC43 | Collegium patronage donation | -500 |
+| 20–22/10/0068 AC43 | Removal and transport of personal belongings | -18 |
+| 18–25/10/0068 AC43 | Food and guard tips | -12 |
+| 01/11/0068 AC43 | Commission pay for 17–30/10 | +70 |
+| 01/11/0068 AC43 | Final Collegium pay for 01–20/10 | +40 |
+| 26/10–02/11/0068 AC43 | Food and guard tips | -12 |
+
+**Closing personal cash: 659.** The final Collegium payment closes salaried employment following resignation on 20/10. The commission continues at 150/month, paid on the first for the preceding month. Ten lorrats earned for 01–02/11 are accrued, not cash held; the next full-month payment would be 150 on 01/12.
+
+### Household funds
+
+Opening 11/10: **314**.
+
+| Date | Movement | Lorrats |
+|---|---|---:|
+| 12/10/0068 AC43 | Transfer from Galahad | +1,000 |
+| 13–17/10/0068 AC43 | Telephone installed, including service through end of Month 10 | -48 |
+| 13–17/10/0068 AC43 | Two trained adult watchhounds 60 and equipment 8 | -68 |
+| 13–17/10/0068 AC43 | Minor tenant drainage and roof repairs | -12 |
+| 13–17/10/0068 AC43 | Additional household food and administration | -10 |
+| 01/11/0068 AC43 | Lucette Month 10 wages | -14 |
+| 01/11/0068 AC43 | Month 11 telephone rental | -2 |
+
+**Closing household cash: 1,160 = 148 reserved + 1,012 uncommitted.** Reserve: 136 operating and 12 hound upkeep. Reserving cash is not spending it. Corva keeps accounts; both parents may pursue informed investments, including outside the estate. No investment or brewery is enacted. Telephone rental is two/month plus toll calls; Lucette remains fourteen/month plus room and meals. The 218 central annual model predates these new obligations and must be revised before reuse; it is not a current forecast including telephone or hounds.
+
+### Other assets and restricted funds
+
+Dorlac retained the former 60 receivable for goodwill during the estate visit. Current receivable **zero**; no loan, equity stake or cash receipt. One consignment charm remains unsold, with 47 lifetime sales. Personal belongings and private research reached the estate on 22/10. Five trial rifles are approved for the House but still await delivery from Auvrienne; no ammunition has been issued.
+
+The **18,000 state programme** is separate: **13,220 recognised cost + 180 outstanding commitments + 4,600 headroom**. This is not Galahad’s money, estate profit or cash available to invest. See [programme terms](ROYAL-COMMISSION.md) and [machine-readable reconciled ledgers](commission-accounts.json). The original 900 licence is already included in personal receipts and programme costs; do not pay it twice.

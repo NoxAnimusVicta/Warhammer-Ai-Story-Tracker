@@ -1,4 +1,4 @@
-Current story date: **11/10/0068 AC43** (day/month/year after Culling 43). See [the calendar](CALENDAR-REFERENCE.md).
+Current story date: **02/11/0068 AC43** (day/month/year after Culling 43). See [the calendar](CALENDAR-REFERENCE.md).
 
 # Malaspina — data-slate
 
@@ -20,17 +20,19 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the last major culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition — revision 68
+## Current edition — revision 69
 
-The current scene is **Auvrienne palace, 11/10/0068 AC43 evening**, following acceptance of the royal technical commission. The expedition returned on day 355, with ten reserve days unused. The standing **Royal Advisor** appointment remains subject to produced rifle trials and a controlled demonstration. Facility preparation, costed funding and remuneration remain pending. Galahad has not yet departed for his planned week at Serravonne.
+The current scene is **Auvrienne military workshop, 02/11/0068 AC43 evening**, after the second production week. **192 trial rifles are accepted:** 187 await military dispatch and five approved House rifles await delivery. Three development rifles remain at the works. Production is paused with staff retained; transport and demonstration will be discussed with the Marshal and Lieutenant-General on 03/11 at nine. Royal Advisor remains under review.
 
-[Completed expedition](EXPEDITION-RETURN.md) records the research, developed cipher, forty recurring correspondents, unnamed six-practitioner Order, two recovered collections and institutional delivery. [Royal commission](ROYAL-COMMISSION.md) records accepted authority and outstanding commitments. [Drossane follow-up](DROSSANE-INCIDENT.md) distinguishes verified Valdrec contact, Galahad’s wider claims and restricted leadership knowledge.
+[Royal commission](ROYAL-COMMISSION.md) records the executed agreement, allocated premises and eighteen core staff, defined manufacture rights, output and pending dispatch. [Commission accounts](commission-accounts.json) reconcile the 18,000 state ceiling: 13,220 recognised cost, 180 outstanding commitments and 4,600 headroom. These are not personal funds.
 
-Personal **1,197**, separate estate **314**; expedition fund closed. Operating costs **11,855**, scholar awards **500**, leader award **645**, sponsor refunds **1,500** reconcile the **14,500** fund. Separate payroll **2,820** makes final institutional expenditure **15,820**. All ordinary salaries through 01/10/0068 are paid; next 01/11. See [budget and actuals](EXPEDITION-BUDGET.md), [transaction record](expedition-accounts.json) and [estate ledger](ESTATE-ACCOUNTS.md).
+Personal cash **659**; household **1,160** (148 reserved; 1,012 uncommitted). Collegium employment ended 20/10; the final 40 and commission pay of 70 were received 01/11. Commission pay continues at 150/month. A 500 patronage donation was paid; private papers, collections and belongings reached the estate on 22/10. The estate now has a telephone and two watchhounds. Dorlac retained the former 60 receivable for goodwill. [Household and personal ledger](ESTATE-ACCOUNTS.md).
+
+The [completed expedition](EXPEDITION-RETURN.md) remains a 355-day journey with ten reserve days unused, forty recurring correspondents, six Order practitioners and two recovered collections. Its 14,500 operating fund is closed; full institutional expense was 15,820 including separate payroll. Historical itinerary and transaction records are preserved. [Drossane follow-up](DROSSANE-INCIDENT.md) retains knowledge boundaries and the limited corroboration of the cell.
 
 [Economic reference](ECONOMIC-REFERENCE.md) dates wages and prices to the Year 67 AC43 baseline, reviewed on the current story date, with regional variation and recorded event-driven changes. [Monumental architecture](ARCHITECTURE-REFERENCE.md) records Galahad’s unbuilt national-wonder designs and current-price estimates. [Estate accounts](ESTATE-ACCOUNTS.md) separates paid expenses, allocations and projected returns.
 
-Ceralte now includes Bellavara and Montelisse, with sea connections to Dalmor. The atlas contains 970 settlements and 2,210 routes, with 134 sea passages connecting 72 harbours. [Ten outer island regions](ISLAND-CHAINS.md) add seven self-governing societies and three colonial administrations across 63 previously unassigned islands. The two Ceralte additions remain within its existing census. The outer chains correct earlier omitted coverage. The current 410-day full-coverage estimate is 1,228,556,988 on 11/10/0068 AC43; earlier estimates remain historical.
+Ceralte now includes Bellavara and Montelisse, with sea connections to Dalmor. The atlas contains 970 settlements and 2,210 routes, with 134 sea passages connecting 72 harbours. [Ten outer island regions](ISLAND-CHAINS.md) add seven self-governing societies and three colonial administrations across 63 previously unassigned islands. The two Ceralte additions remain within its existing census. The outer chains correct earlier omitted coverage. The current 431-day full-coverage estimate is 1,228,800,747 on 02/11/0068 AC43; earlier estimates remain historical.
 
 Galahad reached bodily maturity during the expedition at approximately 3 metres. He is now about three years and three months old, with a short white beard. The departure artwork remains his clothing reference; the formal leadership portrait remains a future reference.
 
@@ -56,4 +58,4 @@ The dossier portrait now shows Galahad in his current expedition clothes. The ea
 
 [Historical continuity and Ambros](HISTORY-REFERENCE.md) describes surviving industrial civilisation, oral traditions, hidden archives and the older imperial hero tradition. Substantial reference sections use consistent dropdowns; core state and the map remain visible.
 
-[Year 68 developments](WORLD-YEAR68.md) resolves the expedition-year background: all 43 polities, eight conflict theatres, military inventory movements, industrial and diplomatic changes, the completed authorised pumping stage and ongoing NPC work. Dorlac holds 60 lorrats due but unpaid, separate from Galahad’s 1,197 cash. [Documentation audit](DOCUMENTATION-AUDIT.md) records the current checks and the limits of the estimates. No further story time advances.
+[Year 68 developments](WORLD-YEAR68.md) resolves the expedition-year background: all 43 polities, eight conflict theatres, military inventory movements, industrial and diplomatic changes, the completed authorised pumping stage and ongoing NPC work. That historical review remains dated 11/10; the current commission, estate and employment records carry the story through 02/11. [Documentation audit](DOCUMENTATION-AUDIT.md) records the current checks and the limits of the estimates. No further story time advances.

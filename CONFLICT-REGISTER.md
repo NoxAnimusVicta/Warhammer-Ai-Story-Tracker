@@ -1,6 +1,6 @@
 # Malaspina — active conflicts and disputes
 
-11/10/0068 AC43 — elapsed-year theatre reconciliation
+02/11/0068 AC43 — post-return review; prior developments retain their occurrence dates
 
 Principal recorded conflicts and unresolved disputes; not an exhaustive incident list. Unlisted regions are not certified peaceful.
 
@@ -20,7 +20,7 @@ Record basis: Revision 68 retrospective campaign development; see WORLD-YEAR68.m
 
 Development: 17/06/0068 AC43; event theatre68-cressault.
 
-Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Lower immediate disruption after repairs; armed truce remains fragile.
+Last reviewed: 02/11/0068 AC43. Losses: unquantified. Trend: Lower immediate disruption after repairs; armed truce remains fragile.
 
 ## Ossavren succession fighting
 
@@ -38,7 +38,7 @@ Record basis: Revision 68 retrospective campaign development; see WORLD-YEAR68.m
 
 Development: 19/05/0068 AC43; event theatre68-ossavren.
 
-Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Partial commercial accommodation amid continued fragmentation.
+Last reviewed: 02/11/0068 AC43. Losses: unquantified. Trend: Partial commercial accommodation amid continued fragmentation.
 
 ## Haldrevik concession clashes
 
@@ -56,7 +56,7 @@ Record basis: Revision 68 retrospective campaign development; see WORLD-YEAR68.m
 
 Development: 08/09/0068 AC43; event theatre68-haldrevik.
 
-Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Some sites reopened; no comprehensive settlement.
+Last reviewed: 02/11/0068 AC43. Losses: unquantified. Trend: Some sites reopened; no comprehensive settlement.
 
 ## Seravelle and island sea-lane insecurity
 
@@ -74,7 +74,7 @@ Record basis: Revision 68 retrospective campaign development; see WORLD-YEAR68.m
 
 Development: 18/06/0068 AC43; event theatre68-maritime.
 
-Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Improved main-lane protection, displaced risk on feeders.
+Last reviewed: 02/11/0068 AC43. Losses: unquantified. Trend: Improved main-lane protection, displaced risk on feeders.
 
 ## Vardol–Averholt rivalry
 
@@ -92,7 +92,7 @@ Record basis: Revision 68 retrospective campaign development; see WORLD-YEAR68.m
 
 Development: 12/09/0068 AC43; event theatre68-vardol-averholt.
 
-Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Recent de-escalation without political settlement.
+Last reviewed: 02/11/0068 AC43. Losses: unquantified. Trend: Recent de-escalation without political settlement.
 
 ## Former Serevask federation disputes
 
@@ -110,7 +110,7 @@ Record basis: Revision 68 retrospective campaign development; see WORLD-YEAR68.m
 
 Development: 07/07/0068 AC43; event theatre68-southern-basin.
 
-Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Practical cooperation increased; core claims remain.
+Last reviewed: 02/11/0068 AC43. Losses: unquantified. Trend: Practical cooperation increased; core claims remain.
 
 ## Talascan land and labour dispute
 
@@ -128,7 +128,7 @@ Record basis: Revision 68 retrospective campaign development; see WORLD-YEAR68.m
 
 Development: 22/09/0068 AC43; event theatre68-talasca.
 
-Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: A limited concession, not independence or an organised insurgency.
+Last reviewed: 02/11/0068 AC43. Losses: unquantified. Trend: A limited concession, not independence or an organised insurgency.
 
 ## Hunter attacks and human defence
 
@@ -146,7 +146,7 @@ Record basis: Revision 68 retrospective campaign development; see WORLD-YEAR68.m
 
 Development: 08/09/0068 AC43; event theatre68-hunter-pressure.
 
-Last reviewed: 11/10/0068 AC43. Losses: unquantified. Trend: Local destruction and recovery continue; no evidence here of Culling 44.
+Last reviewed: 02/11/0068 AC43. Losses: unquantified. Trend: Local destruction and recovery continue; no evidence here of Culling 44.
 
 ## Recorded security incidents
 
@@ -170,6 +170,10 @@ No declared war, diplomatic rupture, frontier change, transport closure, populat
 
 [Full incident](DROSSANE-INCIDENT.md)
 
+## Current review
+
+Reviewed through 02/11/0068 AC43: earlier theatre conditions continue; no new material escalation or exceptional demographic/price shock is established. The technical programme is maintained in ROYAL-COMMISSION.md, not among active wars.
+
 ## Maintaining the living return
 
 Local story time only; no wall-clock simulation.
@@ -185,6 +189,8 @@ Distinguish archive assessment from information actually delivered to Galahad. N
 Theatre event IDs link to world-year68.json. Older returns remain in history. Archive developments are not automatically delivered intelligence; report consequential information through an appropriate NPC.
 
 Active theatres belong in entries. Completed security incidents belong in events and are presented separately from active conflicts. Administrative appointments and technical projects belong in the dossier and their subject references; the royal technical commission is maintained in ROYAL-COMMISSION.md. Earlier snapshots retain their original records.
+
+Reviewed through 02/11/0068 AC43: earlier theatre conditions continue; no new material escalation or exceptional demographic/price shock is established. The technical programme is maintained in ROYAL-COMMISSION.md, not among active wars.
 
 For each material event, retain occurrence time and report time separately. Record deaths, injuries, captures and displacement separately, using ranges or unknowns when evidence is weak. Missing people are not automatically dead. Cross-reference demography.json events, economic-ledger.json changes and relevant national-register.json fiscal/capacity adjustments with the same event ID. Reconcile settlement and census-group subsets and both sides of migration. Do not deduct ordinary mortality or defence expenditure twice. Prices change by affected market and commodity, not by a universal war surcharge. Forecast spending is not cash already paid.
 

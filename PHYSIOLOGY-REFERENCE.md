@@ -1,6 +1,6 @@
 # Galahad — controlling physiology reference
 
-Reviewed at revision 68, including the agreed running-speed clarification · Mature physiology, demonstrated expedition abilities, developed potential and contextual durability; retains the accepted endurance and infection-resistance provisions. This is narrator continuity for this campaign, not a universal canonical specification for Custodes or Primarchs. It supersedes older conflicting sleep, stamina, short-burst-only running and overall combat assumptions, including revision43 and the preparation scene's 3–4-hour sleep statement. Historical dialogue remains unchanged.
+Current review: **02/11/0068 AC43**. Reviewed at revision 69, including the agreed running-speed clarification · Mature physiology, demonstrated expedition abilities, developed potential and contextual durability; retains the accepted endurance and infection-resistance provisions. This is narrator continuity for this campaign, not a universal canonical specification for Custodes or Primarchs. It supersedes older conflicting sleep, stamina, short-burst-only running and overall combat assumptions, including revision43 and the preparation scene's 3–4-hour sleep statement. Historical dialogue remains unchanged.
 
 ## Sleep and wakefulness
 
@@ -47,6 +47,10 @@ Maximum ground speed is not automatically the average over every route. Tight be
 
 For the approximately **301 km Auvrienne–Serravonne road**, a 100 km/h average gives approximately **3 hours 1 minute**. An unobstructed 120–130 km/h average gives approximately **2 hours 19 minutes to 2 hours 31 minutes**. These are calculated journey examples, not a journey already performed, and the mapped road distance is an estimate. The separate **350 km railway / 11–17 hours** remains unchanged. No story time, location, injury, equipment or account balance changes.
 
+## Demonstrated post-return endurance
+
+On 17/10 Galahad made his first deliberate maximum-effort unaided run through the wilderness from the Serravonne area to Auvrienne in a little over three hours. Obstacles and repeated acceleration affected his pace. He arrived sweaty but uninjured and without meaningful impairment; no known witness was established. The journey supports the agreed endurance without precisely measuring his top speed or changing the mapped road/rail distances. No psychic enhancement was used. Approximately six hours of train rest on 12/10 and brief workshop rests remain voluntary recovery; the two production weeks did not establish ordinary-human fatigue or a new psychic technique.
+
 ## Narration and maintenance rule
 
 Read this reference before resolving prolonged activity, fatigue, injury or comparative combat. It takes precedence over older physiology estimates and historical scene wording. Maintain the distinction between established performance, agreed mature potential and demonstrated techniques. Do not reopen accepted campaign specifications merely because canon lacks an exact numerical counterpart. Published lore claims require their own evidence; these agreed figures stand independently as campaign continuity.
@@ -75,7 +79,7 @@ At realised high potential, ordinary Grey Knights are not automatic peers merely
 
 ## Weapons and functional durability
 
-Native human portable single-user firearms on Malaspina are substantially below Astartes bolter class. Weapons of comparable projectile scale require mounted positions or vehicles in the established native arsenal. Captured Hunter technology and Galahad's unbuilt future inventions are separate exceptions. Calibre alone does not determine penetration or terminal effect; do not equate a conventional projectile with an explosive bolt simply because their diameters are similar.
+Native human portable single-user firearms on Malaspina are substantially below Astartes bolter class. Weapons of comparable projectile scale require mounted positions or vehicles in the established native arsenal. Captured Hunter technology and any independently developed future weapons are separate considerations. The completed Auvrienne 762 pilot run does not make it bolter-class. Calibre alone does not determine penetration or terminal effect; do not equate a conventional projectile with an explosive bolt simply because their diameters are similar.
 
 Assess a hit in stages: whether it lands, what actual armour or psychic defence intercepts it, what damage reaches the body, and whether that damage reduces fighting function. Armour damage, bleeding, pain and knockback are not interchangeable with incapacitation. Psychic defence is part of effective combat durability when employed; armoured Primarch feats are not measurements of unprotected flesh.
 

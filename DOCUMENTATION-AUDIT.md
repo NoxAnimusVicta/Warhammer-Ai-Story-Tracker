@@ -1,51 +1,31 @@
-# Documentation audit — revision 68
+# Documentation audit — revision 69
 
-Story checkpoint: **11/10/0068 AC43, evening, exchange 543**. This revision repairs the incomplete elapsed-year review in revision 67. It resolves background developments during the completed expedition; the palace scene does not advance.
+**Current checkpoint: 02/11/0068 AC43, evening, exchange 565.** This maintenance reconciles the narrated home visit, return to Auvrienne and two workshop weeks. It does not advance the story beyond the pending Marshal meeting.
 
-## What changed
+## Reconciled current records
 
-- **All 43 political returns** have individual dated reviews covering institutions, diplomacy, industry, infrastructure, training or military maintenance. They appear in selected national profiles, the national download and the full Year 68 register.
-- **Eight conflict theatres** now have distinct developments: Cressault repairs and a limited crossing arrangement; Ossavren's damaged equipment and partial grain-transit accord; selective Haldrevik settlements; convoy cooperation and displaced raiding; Vardol–Averholt exercise notices; a limited southern water/freight protocol; an interim Talascan levy concession; and two local Hunter attacks followed by uneven recovery.
-- **34 inventory movements across 19 polities** reconcile accepted or restored equipment, withdrawals and current serviceability. Ossavren's supportable combined field force falls from 460,000 to 445,000 because of logistical damage; that is not a claim of 15,000 deaths. Personnel establishments and broad technology ratings do not rise automatically.
-- **Pumping works and NPC activity** now progress through the missing interval. Cevrane's authorised second stage is operating; remaining extensions still need budget decisions. Savel maintained teaching and catalogued reports; Vardesca's workshops spread maintenance checks; Orchant has new observation work.
-- **Dorlac's consignment** is reconciled: five pieces at departure, four sold at 20 lorrats, one remaining. Her quarter share is 20 from 80 gross; 60 is due to Galahad but remains with her. Lifetime sales are 47. It is an unpaid receivable, separate from 1,197 personal cash and 314 estate cash.
-- **Psychic development** is reviewed as an uncertain stock-and-flow problem in the private narrator reference. The public world panel records increasing manifestations and pressure on teachers without presenting a false public census or granting universal protection.
-- **Current app surfaces** use the same review: political profiles, comparisons, rankings, affected settlement notes, the conflict panel, current data downloads and narrator entry points. Existing dropdowns, artwork, controls and styling are retained.
+- The executed royal commission now records its allocated facility, eighteen core staff, paid 900-lorrat licence and defined extension, production pause and remaining demonstration/appointment conditions.
+- Inventory is 195 completed rifles: 192 accepted trial rifles divided into 187 military rifles awaiting dispatch and five approved household rifles awaiting delivery, plus three retained development rifles. No ammunition issue, border deployment or household delivery is recorded prematurely.
+- The 18,000 programme ceiling reconciles to 13,220 recognised costs, 180 further commitments and 4,600 uncommitted headroom. Accrued pay and valued stock are distinguished from cash; state headroom is not personal profit.
+- Personal cash is 659. Household cash is 1,160, comprising 148 reserved and 1,012 uncommitted. Transfers, donation, licence receipt, removal costs, food, tips, telephone, hounds, repairs and wages are recorded once. Dorlac's former 60 receivable was relinquished for goodwill, without inventing a cash receipt or equity holding.
+- Collegium salaried employment ended 20/10. Final wages of 40 and commission pay of 70 were received on 01/11. Commission pay continues at 150/month, due on the first for the preceding month; next payday is 01/12, 29 local days after the current date.
+- Family authority, security preparations, installed telephone and delivered possessions are current. Five rifles remain pending delivery. The estate workshop remains distinct from the state facility; no brewery or new investment has been purchased.
+- Physiology records the actual 17/10 cross-country run and sustained workshop work without changing agreed limits, creating new powers or importing ordinary-human fatigue. Appearance, employment, relationships, research and next commitments agree across the app and narrator entry points.
+- All 970 settlements and 43 national returns use 02/11 estimates, 431 days after the preserved census. Treasury projections span 376 days from their distinct baseline. Island-chain tables and comparison captions agree. Existing price bands remain unchanged after review; actual invoices control enacted spending.
+- The expedition-year developments remain explicitly historical at 11/10. A separate post-return review carries existing conditions forward and adds the enacted Veyrasse pilot programme without treating it as an active conflict, deployed force or nationwide technology upgrade. No additional exceptional demographic or price shock is established.
 
-## Basis and boundaries
+## Preservation and coverage
 
-[WORLD-YEAR68.md](WORLD-YEAR68.md) explicitly identifies these additions as retrospective campaign developments authorised by the player. They were not recovered from an earlier transcript and are not published Warhammer canon. Occurrence and record dates are separate. Archive knowledge is not automatically information received by Galahad; prepared NPC reports must be delivered naturally.
+Current documents were read before editing. Current scene records were checked against the exact transcript and intermediate private checkpoints. Existing historical statements were retained with clear dates where they describe completed travel, prior balances or earlier programme stages. The exact archive through exchange 565 is unchanged; all 100 previous journal entries are preserved, with nine new summaries appended. The completed expedition remains 355 days with ten unused reserve days and its settled accounts unchanged.
 
-Ordinary repairs, replacement procurement, continuing local violence and administrative programmes are within the existing budget, output and mortality planning envelopes. Their costs and routine deaths are not added twice. No exceptional demographic deduction, extra appropriation or universal inflation factor is introduced. National figures remain estimates rather than audited accounts. Future exceptional events need a separate reconciliation.
+Checks cover the maintained public references, generated app sections and downloads, narrator entry points, current subject/estate/commission records, all national and settlement estimates and the associated source relationships. Unchanged baseline geography, census, capacity, artworks and optional concealed story threads are preserved. This is not a claim to have reread every superseded private backup or every external lore source as current authority.
 
-The royal technical commission is accepted, but permanent advisory office, a ready rifle facility, production funding and remuneration remain pending. The rifle and carrier are unbuilt. No new conquest, Order member, Bile revelation, Tyranid arrival or major culling occurs. The completed route remains 355 days with ten reserve days unused. No new player decision, meeting or journey is inserted into the archive.
+## Verification
 
-## Verification and preservation
+All **17 current verification suites passed**: documentation, living world, calendar, national returns, fiscal accounts, conflicts, yearly review, transport, circumnavigation, sea network, current geometry, disclosures, app audit, reader, world navigation, estate viewer and settlement travel. They cover arithmetic, dated sources, preserved history, local links and public/private boundaries, route connectivity, map geometry, zoom limits and disclosure structure.
 
-The current release checks cover all 970 settlements and 43 national returns; exact census-group subsets; budget arithmetic, transfers and treasury bridges; calendar and expedition settlement; dated review IDs and 34 equipment reconciliations; the unpaid consignment balance; geometry, sea routes and map/viewer controls; public links, source/public copies, text encoding and repeatable builds. The new review test checks specific increases and decreases rather than merely accepting that every number changed.
+The app was checked in the in-app browser at 1440-pixel desktop and 430-pixel phone widths across all five tabs, including expanded panels. No page-wide horizontal overflow or browser script errors were observed. Current commission and finance panels, Veyrasse's dated review and comparison captions were inspected. The physical iPhone and native touch gestures were not directly tested; viewer tests cover gesture calculations.
 
-Desktop and 430 × 932 phone-width browser checks cover all five tabs, expanded national developments, the inventory table and conflict presentation. The physical iPhone is not directly tested. Detailed test and publication evidence is retained in the private handover.
+Repeated-build and live-publication evidence is retained in the private handover. A local build alone is not proof of deployment. Private notes and source scripts are excluded from the public upload. Tests reduce regression risk; they do not prove the absence of every possible defect.
 
-Original census, national capacity inputs, geography, artworks, exact transcript and all 100 journal entries are preserved. Superseded checkpoints remain historical. The editable conflict source preserves the prior return; the published conflict JSON is derived with the new review and includes that prior snapshot. No historical conversion script was rerun. Edited current documents were read before revision; unchanged archives and every older backup were not all reread as though they were current authority.
-
-Current references: [continuity](CURRENT-CONTINUITY.md), [year review](WORLD-YEAR68.md), [living-world method](LIVING-WORLD-REFERENCE.md), [conflicts](CONFLICT-REGISTER.md), [national returns](NATIONAL-REGISTER.md), [completed expedition](EXPEDITION-RETURN.md) and [royal commission](ROYAL-COMMISSION.md).
-
-## App audit following the commission-classification report
-
-The story checkpoint and content revision remain 68. This is a correction to presentation and classification, not a new scene or time advance.
-
-- The royal technical commission was incorrectly included in the conflict register's general event list. Its current home remains the **Dossier → Royal technical commission**, with the complete terms in ROYAL-COMMISSION.md and its historical milestone in the Chronicle. It is excluded from the current security-event list. Earlier conflict snapshots preserve the original record.
-- **Active conflicts & disputes** contains the eight current theatres. The completed Drossane attempt is now under **Recorded security incidents**, with its attribution, consequences and full-reference link preserved. It is not presented as an ongoing battle.
-- A calendar replacement had corrupted the yearly-review name to “Month 3 of Veyrasse”. The name is restored to **March of Veyrasse**, and a check now compares all 43 review names against their political records. The related “An Month 8” grammatical error is corrected.
-- National accounting headings display normal words instead of internal field names such as “Fiscal_Scope”. The ranking checkbox now explicitly says that it includes divided **and colonial** returns, matching its existing behaviour.
-- Changing the comparison nation, or reopening the comparison panel, no longer recreates the main national profile and closes its open yearly-review, treasury and food panels. The selected political record still changes normally when a different primary power is chosen.
-
-### Coverage and results
-
-Read-through covered the five app tabs, all 100 journal summaries, all 43 political profiles and dated yearly reviews, the character's current fields and research/relationship/estate records, and the linked completed expedition planner. Historical journal states remain labelled as historical rather than being rewritten as current facts. Files changed for these corrections were read before editing.
-
-Browser checks covered all five tabs at 1440-pixel desktop and 430-pixel phone widths, including all 162 expandable panels in the selected-record configuration. No page-wide horizontal overflow was found. Every political profile loaded with its current date; all nine ranking metrics worked, with 29 independent-state returns or 43 inclusive returns. Comparison changes preserved open profile sections. Settlement search and the Serravonne record, atlas wrapping and polar limits, estate-image zoom/reset, archive status and expedition-day selection were exercised. The physical iPhone and its native touch gestures were not directly tested; automated viewer checks cover wheel/pinch calculations and bounds.
-
-All 16 current verification suites passed, including the new classification/reference/preservation check. They reconcile 970 settlements, 43 disjoint political returns, population, fiscal arithmetic, equipment movements, dates, completed travel and public references. All local app/planner links and image references resolve; generated element IDs are unique. The build is repeatable. Browser error logs were empty during the checks.
-
-The seed, exact transcript, 100 journal entries, calendar, money, physiology, estate reference, geographical and population baselines, expedition accounts and royal-commission terms were unchanged. Updated public derivatives were rebuilt from their maintained sources. This audit does not claim that every old private backup or external linked website was reread or that testing proves the absence of every possible defect.
+Current references: [continuity](CURRENT-CONTINUITY.md), [commission](ROYAL-COMMISSION.md), [accounts](commission-accounts.json), [estate ledger](ESTATE-ACCOUNTS.md), [calendar](CALENDAR-REFERENCE.md), [living estimates](LIVING-WORLD-REFERENCE.md) and [completed expedition](EXPEDITION-RETURN.md).

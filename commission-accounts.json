@@ -1,0 +1,152 @@
+{
+  "schema": 1,
+  "revision": 69,
+  "as_of": "02/11/0068 AC43",
+  "source_exchanges": [
+    544,
+    565
+  ],
+  "personal": {
+    "opening_date": "11/10/0068 AC43",
+    "opening": 1197,
+    "movements": [
+      {
+        "date": "11/10/0068 AC43",
+        "description": "Train home",
+        "amount": -6
+      },
+      {
+        "date": "12/10/0068 AC43",
+        "description": "Transfer to household",
+        "amount": -1000
+      },
+      {
+        "date": "18/10/0068 AC43",
+        "description": "Paid trial manufacture licence",
+        "amount": 900
+      },
+      {
+        "date": "20/10/0068 AC43",
+        "description": "Collegium patronage donation",
+        "amount": -500
+      },
+      {
+        "date": "20\u201322/10/0068 AC43",
+        "description": "Removal and transport of personal belongings",
+        "amount": -18
+      },
+      {
+        "date": "18\u201325/10/0068 AC43",
+        "description": "Food and guard tips",
+        "amount": -12
+      },
+      {
+        "date": "01/11/0068 AC43",
+        "description": "Commission pay for 17\u201330/10",
+        "amount": 70
+      },
+      {
+        "date": "01/11/0068 AC43",
+        "description": "Final Collegium pay for 01\u201320/10",
+        "amount": 40
+      },
+      {
+        "date": "26/10\u201302/11/0068 AC43",
+        "description": "Food and guard tips",
+        "amount": -12
+      }
+    ],
+    "closing": 659
+  },
+  "household": {
+    "opening_date": "11/10/0068 AC43",
+    "opening": 314,
+    "movements": [
+      {
+        "date": "12/10/0068 AC43",
+        "description": "Transfer from Galahad",
+        "amount": 1000
+      },
+      {
+        "date": "13\u201317/10/0068 AC43",
+        "description": "Telephone installed, including service through end of Month 10",
+        "amount": -48
+      },
+      {
+        "date": "13\u201317/10/0068 AC43",
+        "description": "Two trained adult watchhounds 60 and equipment 8",
+        "amount": -68
+      },
+      {
+        "date": "13\u201317/10/0068 AC43",
+        "description": "Minor tenant drainage and roof repairs",
+        "amount": -12
+      },
+      {
+        "date": "13\u201317/10/0068 AC43",
+        "description": "Additional household food and administration",
+        "amount": -10
+      },
+      {
+        "date": "01/11/0068 AC43",
+        "description": "Lucette Month 10 wages",
+        "amount": -14
+      },
+      {
+        "date": "01/11/0068 AC43",
+        "description": "Month 11 telephone rental",
+        "amount": -2
+      }
+    ],
+    "closing": 1160,
+    "reserved": 148,
+    "operating_reserve": 136,
+    "hound_upkeep_reserve": 12,
+    "uncommitted": 1012
+  },
+  "programme": {
+    "ceiling": 18000,
+    "recognised_costs": {
+      "equipment_and_adaptation": 5650,
+      "materials_and_outside_work": 5400,
+      "testing_and_handling": 740,
+      "licence": 900,
+      "staff_payroll": 450,
+      "commission_remuneration": 80
+    },
+    "recognised_total": 13220,
+    "outstanding_commitments": 180,
+    "uncommitted": 4600,
+    "cash_vs_accrual": "Recognised costs include accrued payroll and valued stock issues; not all are cash paid. The 180 is additional outstanding commitment, not a second recognised cost. The 4600 is state headroom, not personal cash or profit."
+  },
+  "inventory": {
+    "original_requirement": 120,
+    "accepted_trial": 192,
+    "military_awaiting_dispatch": 187,
+    "house_approved_awaiting_delivery": 5,
+    "development_retained_at_works": 3,
+    "total_made": 195,
+    "unfinished": 0,
+    "rework_queue": 0,
+    "staff_completed_per_day_demonstrated": 12,
+    "status": "Production paused; assigned staff retained. No border dispatch, household delivery or ammunition issue yet."
+  },
+  "pay": {
+    "commission_monthly": 150,
+    "commission_start": "17/10/0068 AC43",
+    "collegium_ended": "20/10/0068 AC43",
+    "last_paid": "01/11/0068 AC43",
+    "last_commission_payment": 70,
+    "final_collegium_payment": 40,
+    "commission_accrued_unpaid": 10,
+    "next_due": "01/12/0068 AC43",
+    "next_full_month_if_service_continues": 150
+  },
+  "consignment": {
+    "lifetime_sales": 47,
+    "remaining_unsold": 1,
+    "previous_receivable": 60,
+    "current_receivable": 0,
+    "resolution": "During the 13\u201317/10 estate visit Galahad let Dorlac retain the 60 for goodwill and future relations. No cash payment, loan or equity share resulted."
+  }
+}

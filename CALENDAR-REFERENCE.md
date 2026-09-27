@@ -1,6 +1,6 @@
 # Malaspina — culling calendar
 
-**Current date: 11/10/0068 AC43, evening.** In speech: Day 11 of Month 10, **68 AC43**. Dates are **day / numbered month / year after the numbered major culling**.
+**Current date: 02/11/0068 AC43, evening.** In speech: Day 2 of Month 11, **68 AC43**. Dates are **day / numbered month / year after the numbered major culling**.
 
 **AC43 means After Culling 43.** The current year is the sixty-eighth year of the era following the last major culling. “About 67 years since its end” is the rounded historical description, not an exact anniversary. The count follows the surviving common reckoning; it does not prove that only 43 cullings have ever occurred.
 
@@ -25,20 +25,23 @@ The civil new year falls near northern winter solstice; northern summer is aroun
 | Predeparture price and treasury baseline | 21/10/0067 AC43 |
 | Departure — expedition Day 1 | 22/10/0067 AC43 |
 | First expedition salary payment — Day 10 | 01/11/0067 AC43 |
-| Latest salary payment | 01/10/0068 AC43 |
-| Actual return / current evening — Day 355 | 11/10/0068 AC43 |
-| Expected return from estate leave | 18/10/0068 AC43 |
+| Latest salary payment — 70 commission + 40 final Collegium | 01/11/0068 AC43 |
+| Actual expedition return — Day 355 | 11/10/0068 AC43 |
+| Actual return from estate / agreement signed | 17/10/0068 AC43 |
+| Collegium resignation | 20/10/0068 AC43 |
+| Completed production run / current evening | 02/11/0068 AC43 |
+| Marshal meeting, nine | 03/11/0068 AC43 |
 | Original expedition deadline — Day 365 | 21/10/0068 AC43 |
-| Next salary payment | 01/11/0068 AC43 |
+| Next commission payday | 01/12/0068 AC43 |
 
-Approval is 35 days after the census; predeparture evening was 55 days after it. The current evening is **410 days after the census**, **354 elapsed days after departure** and **268 days after the day-87 checkpoint**. Day 1 is departure, so day 365 is departure plus 364 elapsed days. The completed route used 231 travel days and 124 full visiting days; ten reserve days were unused.
+Approval is 35 days after the census; predeparture evening was 55 days after it. The current evening is **431 days after the census**, **375 elapsed days after expedition departure** and **21 days after the actual return**. The expedition itself remains completed at day 355, with 231 travel and 124 visiting days and ten reserve days unused. Day 1 is departure, so day 365 is departure plus 364 elapsed days; post-return time does not extend the completed itinerary.
 
 ## Pay, age and living records
 
-Galahad receives **60 lorrats on the first of each month**. Twelve expedition paydays, 01/11/0067 through 01/10/0068, paid **720** in total. The five scholars received **2,100** separately, making **2,820** ordinary payroll. Personal funds are now **1,197**, including the approved **645** leadership award; separate estate funds are **314**. Next payday is **01/11/0068**, twenty local days after the current date. No new royal remuneration amount has been set.
+Galahad’s commission pays **150/month on the first for the preceding month**. On 01/11 he received **70** for 17–30/10 and **40** final Collegium wages for 01–20/10; salaried Collegium employment ended on 20/10. Next payday is **01/12/0068**, 29 local days after the current date, normally 150 for a full month. The historical twelve expedition paydays totalled 720 for Galahad plus 2,100 for five scholars. Current cash: **659 personal**, **1,160 household**. No future pay is prepaid.
 
 Age is approximately **three years and three months**, with no exact birthday. Bodily maturity at about **3 m** was reached during the expedition. Local time governs ageing; offworld conversion does not reduce elapsed local age.
 
-Census **1,223,820,000** on 27/08/0067 remains unchanged. The **410-day projection is 1,228,556,988**, from separately rounded group trends, not a new enumeration. Earlier 55-day and 142-day projections are retained as historical snapshots. Price bands retain their Year 67 basis after return review without automatic inflation. Current national and settlement estimates are dated 11/10/0068 in world-current.json and national-current.json. Population and production use the 410-day census interval; treasury estimates use 355 days from the separate 21/10/0067 opening stock. Preserved baseline returns are not overwritten. See LIVING-WORLD-REFERENCE.md for assumptions and accounting bridges. The dated Year 68 review records distinct developments across all eight conflict theatres and every polity; private briefings themselves did not enact a new war. See WORLD-YEAR68.md for occurrence and report dates.
+Census **1,223,820,000** on 27/08/0067 remains unchanged. The **431-day projection is 1,228,800,747**, from separately rounded group trends, not a new enumeration. Earlier projections remain historical snapshots. Price bands retain their Year 67 basis with current review and specific invoices. All national and settlement estimates share 02/11/0068 AC43. Population/production use 431 days; treasury estimates use **376 days** from 21/10/0067. The 11/10 Year 68 background review is preserved, with a separately dated post-return assessment and commission record. See LIVING-WORLD-REFERENCE.md.
 
 Record occurrence dates, report dates and forecast periods separately. Advance living records only with story time or established events, preserve prior snapshots and apply payments and growth once. Editorial dates are not story dates. `calendar.json` is the shared date reference.

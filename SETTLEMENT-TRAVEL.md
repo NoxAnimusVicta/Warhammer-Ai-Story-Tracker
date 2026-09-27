@@ -1,6 +1,6 @@
 # Settlement comparison and journey estimates
 
-Atlas checkpoint: **11/10/0068 AC43**. This is a read-only planning model. It does not advance the story, book travel, open borders or establish new infrastructure. Population and geography come from the same current atlas used by the settlement register; later atlas revisions flow into the comparison on rebuilding the app.
+Atlas checkpoint: **02/11/0068 AC43**. This is a read-only planning model. It does not advance the story, book travel, open borders or establish new infrastructure. Population and geography come from the same current atlas used by the settlement register; later atlas revisions flow into the comparison on rebuilding the app.
 
 Select a settlement on the map or in the settlement register, then expand **Compare settlements & plan travel** beneath its record. Search for a second settlement across all powers. Compare residents, annual population trends, terrain, elevation and direct transport connections. Individual settlement treasuries, military inventories and output have not been established and are not inferred from national totals.
 
@@ -40,6 +40,8 @@ These conventions are explicitly **planning assumptions**, not additional canon 
 The ordinary walking option does not model Galahad. His [controlling physiology reference](PHYSIOLOGY-REFERENCE.md) establishes approximately **100 km/h as a sustainable pace for three hours with little impairment**, and approximately **120–130 km/h as his unaided maximum** on suitable ground. Near-maximum running is demanding sustained exertion rather than a brief human sprint. Psychic enhancement is separate.
 
 The approximately **301 km road between Auvrienne and Serravonne** would therefore take about **3 hours 1 minute at a 100 km/h average**, or approximately **2 hours 19–31 minutes at a 120–130 km/h average** if conditions permit. Corners, traffic, poor footing and loads can reduce actual average speed. These calculations neither change the established **350 km / 11–17 hour railway journey** nor enact Galahad's departure or arrival.
+
+On 17/10/0068 Galahad separately completed a concealed cross-country journey from the Serravonne area to Auvrienne in a little over three hours, uninjured and without meaningful impairment. That actual journey was not the mapped road route or a precisely measured speed trial. The planning examples above remain comparisons, not revised road or railway measurements.
 
 ## Flight comparisons
 

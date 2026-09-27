@@ -11869,3 +11869,1075 @@ She closes the signed minute.
 **Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots; short white beard. Uninjured.  
 **Gear/Inventory:** Designs retained; detailed preparatory requirements communicated. Marshal undertaking facility selection and core staffing for an anticipated **18/10/0068** return. Readiness report, written commission terms and financial arrangements to reach him during his week in Serravonne. Tonight’s rail space held; journey not yet begun.  
 **Currency:** **1,197 lorrats personally available; 314 in the estate account.** No new expenditure, commission payment or development funds received. Next regular Collegium salary: **01/11/0068 AC43**.
+
+
+## Out-of-character running discussion after exchange 543
+
+Archive note: the intervening app-maintenance discussion was not appended as it occurred. The visible running discussion below is preserved verbatim; no unavailable earlier assistant responses have been reconstructed. This discussion advanced no story time. The final agreed clarification is in PHYSIOLOGY-REFERENCE.md.
+
+### User
+
+This presents an interesting question, does this mean it would be faster for me to run to Serravonne?
+
+### Assistant
+
+**Yes—given Galahad’s established physical capabilities and endurance, running to Serravonne should be faster than taking the train.** The planner’s walking times describe ordinary humans, not you.
+
+For **Auvrienne → Serravonne**:
+
+| Option | Distance | Journey |
+|---|---:|---:|
+| Recorded railway | 350 km | 11–17 hours |
+| Mapped road | Approximately 301 km | Depends on your sustained pace |
+| Running at an illustrative 60 km/h average | Approximately 301 km | About 5 hours |
+
+You only need to average **roughly 28 km/h** along that road to beat the fastest recorded train journey. That is comfortably consistent with your established capabilities, and several hours of running should not present a serious endurance problem.
+
+We haven’t established your precise sustained running speed, so **five hours is an illustration, not a fixed limit**. Terrain, navigation and whatever you’re carrying would determine the actual time.
+
+### User
+
+I mean there is no reason I couldn’t run at max speed for the amount of time it would take right? It’s gonna be less than 5 hours if I go max sprint the whole time and I could sprint at max speed for 5 hours I think based on my physiology
+
+### Assistant
+
+**Yes—that’s a reasonable interpretation of Galahad’s established physiology.** Sustaining a sprint for several hours fits the exceptional endurance we’ve agreed on. I shouldn’t quietly substitute a human pattern of brief sprinting followed by exhaustion.
+
+The useful distinction is between **maximum speed on clear, suitable ground** and **average speed across the entire journey**. Sharp bends, poor footing, traffic and navigating settlements could require slowing down even when you have ample stamina.
+
+On the approximately 301 km road, these sustained averages would produce:
+
+| Average speed | Travel time |
+|---|---:|
+| 80 km/h | 3 hours 46 minutes |
+| 100 km/h | 3 hours |
+| 120 km/h | 2 hours 31 minutes |
+
+Those are illustrative speeds, not established measurements of your maximum. **A sub-five-hour run is entirely consistent with your capabilities; ordinary muscular fatigue shouldn’t be what prevents it.** We still need to establish your actual sprint speed before giving the journey a firmer duration.
+
+### User
+
+Well we have established a speed for Galahad haven’t we?
+
+### Assistant
+
+**Yes—you’re right. We established unaided sprinting above 100 km/h.** It’s recorded in the earlier discussion and the app’s physiology section. I overlooked it.
+
+The existing wording says **“brief unaided sprints above 100 km/h.”** Our latest discussion extends how long you can sustain that performance; it doesn’t introduce your speed from scratch.
+
+At **100 km/h**, the approximately **301 km** road journey takes **3 hours and 1 minute**. Sustaining a higher average would bring it below three hours, with bends, traffic and footing affecting the actual journey.
+
+We established **over 100 km/h**, rather than an exact maximum. My statement that we hadn’t established a speed was wrong.
+
+### User
+
+So I could maintain a 100 km/h average for 3 hours with little to no issue? How fast would I have to go for it to be considered like a workout?
+
+### Assistant
+
+**Yes. With the physiology we’ve agreed on, maintaining approximately 100 km/h for three hours on a suitable route should be comfortably sustainable for Galahad.** It is exertion, but it shouldn’t leave you exhausted or meaningfully impair you afterwards.
+
+For it to become a **demanding workout**, the relevant measure is how close you are to your actual maximum—not simply exceeding 100 km/h. We established that you can exceed that speed, but never fixed your maximum or measured how effort increases with pace. Giving you a precise “workout speed” now would be inventing a number.
+
+There’s also a distinction between **exercise and exhaustion**: that three-hour run could provide conditioning without leaving you noticeably tired. For a harder session, repeated acceleration toward maximum speed, steep uphill running or substantial carried resistance would make more sense than merely extending a comfortable run.
+
+For narration, **100 km/h can reasonably be treated as your sustainable distance-running pace under good conditions**, while an exact maximum remains unquantified.
+
+### User
+
+Well I am fairly sure the max limit was the theoretical 135km/h of Custodes which I wanted to stay below so without Psychic enhancement my baseline is slightly slower than a Custodes
+
+### Assistant
+
+Yes—that fits your intended baseline. I should have carried that comparison through instead of treating your maximum as entirely open.
+
+We can use **approximately 120–130 km/h as Galahad’s unaided maximum**, beneath the **135 km/h Custodian benchmark adopted for our story**. That Custodian figure remains a campaign assumption, not a verified universal canon limit.
+
+That would make:
+
+- **100 km/h:** a sustainable distance-running pace; roughly three hours to Serravonne, with little impairment afterwards.
+- **120–130 km/h:** a demanding sustained effort approaching your physical maximum. Exceptional endurance lets you maintain it far longer than a human could, but it still involves substantial exertion.
+- **Psychic enhancement:** a separate means of exceeding that unaided range.
+
+The **120–130 figure is my proposed way to quantify your “slightly slower” specification**, rather than a number I can claim we previously recorded.
+
+### User
+
+Alright can we please make this clear in the Github Documentation
+
+### Assistant
+
+Updated and published in the [physiology reference](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/PHYSIOLOGY-REFERENCE.md), travel documentation and app.
+
+- **100 km/h:** sustainable for three hours with little impairment.
+- **120–130 km/h:** unaided maximum; demanding sustained exercise.
+- **135 km/h Custodian comparison:** explicitly a campaign benchmark.
+- Psychic enhancement remains separate; the old brief-sprint restriction is superseded.
+
+Verified live. No story time advanced.
+
+![Published running specifications](C:/Users/jaked/Documents/Codex/2026-09-19/if-we-are-writing-a-40k/work/running-specifications-live.png)
+
+
+## 544 - User - Return to Serravonne
+
+You do not have to post images for verification I can see the documents in GitHub and their links in the app.
+
+Now that my meetings have concluded I board the train to Serravonne and spend most of my time in a state of semi sleep, getting in most of the sleep I will require for the week on the train ride. When I arrive at Serravonne I would take a nice walk through the city and to the outskirts where my estate resides and enter to see my parents
+
+## OOC progress notes before exchange545
+
+I’ll check the latest scene and estate records before continuing the journey home. I’ve noted your preference to use links rather than verification images.
+
+Veskan’s arm has healed, and the estate’s initial repairs are complete. The workshop building is ready but still unequipped. I’m carrying those details into the homecoming and recording the overnight journey so the next scene starts from the correct date and location.
+
+## 545 - Assistant - Homecoming
+
+The late train leaves Auvrienne beneath a roof full of steam.
+
+Tessier’s reservation gives you space in an end compartment, where the loose chairs have been shifted to let you sit diagonally along a broad upholstered bench. You still have to bend your knees, and boarding requires a careful turn of your shoulders beneath the doorway, but there is room to settle. The six-lorrat fare is paid; your portfolio rests securely beside you.
+
+Beyond the window, platform lamps retreat through drifting white vapour. A porter raises his hand. The couplings tighten one after another, and the carriage begins to move.
+
+For the first time since returning to Auvrienne, there is nothing immediately requiring an answer.
+
+You let the rhythm of the wheels draw you into the shallow, restorative sleep you intended. Sounds remain at the edge of awareness: a door opening farther down the carriage, the conductor’s subdued voice, rain briefly ticking against the glass. None demands that you surface completely.
+
+Across the night you gather roughly six hours of rest, enough to account for most of your week’s requirement. When you open your eyes properly, daylight lies across your coat and the countryside is moving past in long bands of cultivated ground, trees and pale stone walls.
+
+The remaining hours pass without incident. At the outskirts of Serravonne, goods sidings begin to multiply beside the passenger line. A locomotive waits beneath a coal gantry; beyond it, workshop doors stand open upon shafts of yellow light. You catch the familiar mixture of hot oil, damp timber and coal smoke before the train has stopped.
+
+Thirteen hours after departure, the brakes take hold beneath you with a long metallic complaint.
+
+Serravonne.
+
+The platform is busy with people arriving, people waiting, and people attempting to move freight through both groups. A boy carrying a basket of bread stops so abruptly at the sight of you that the woman behind him almost walks into his back.
+
+One of the older railway men recognises you a moment later.
+
+“Orsival?” His gaze travels upward, then catches on your short white beard. “Good heavens. Welcome back, my lord.”
+
+His greeting follows you out beneath the station clock.
+
+You take your time through the city. Iron-rimmed wheels rattle over paving stones. From an open kitchen comes the smell of onions browning in fat; farther along, a baker is drawing loaves from an oven with a long wooden peel. The breeze carries the river’s cooler smell between streets crowded with carts, motorcars and pedestrians. Somewhere behind the shopfronts, a hammer strikes metal in steady pairs.
+
+People look. Some recognise the unusually tall young scholar who left almost a year ago; many see only an immense, white-haired stranger in a charcoal coat. Conversations pause as you pass and resume behind you.
+
+The streets eventually widen and loosen into gardens, yards and roadside plots. Beyond the last close-built houses, you can see the wooded slopes above the estate.
+
+By early afternoon, you reach the tree-lined approach.
+
+The grey house stands beneath its weathered terracotta roof, with the long arcaded outbuilding facing it across the service yard. Cultivated fields spread away behind the garden walls. To your right, the orchard rises towards the woods; below the approach, water glints among reeds and drainage channels in the wet ground.
+
+Closer to the house, the repairs are easier to see. The gate hangs squarely. Sound tiles interrupt the older roof in small, uneven patches. Across the yard, the workshop’s repaired door is firmly shut. Through its window there is an expanse of dry, cleared floor, still waiting for the equipment that will give the building its new purpose.
+
+Smoke rises from the kitchen chimney.
+
+Lucette sees you from the service doorway with a folded cloth over one arm. She takes a step forward, then stops and looks up.
+
+“Lord Galahad.” A smile spreads across her face. “You’re home.”
+
+She turns towards the house before you have crossed the courtyard.
+
+“Lady Corva! Sir Veskan!”
+
+There is the scrape of a chair inside.
+
+Corva appears first. Her sleeves are rolled back, and she is still holding a pencil. For a moment she simply stands in the doorway, taking in the broader shoulders, the familiar coat, the beard.
+
+Then she sets the pencil down without looking where it lands and comes straight to you.
+
+“Let me see you.”
+
+She takes your hand in both of hers. Her eyes search your face, lingering at the small changes a year’s letters could describe but never quite convey. She presses your fingers briefly against her cheek.
+
+“There you are,” she says, very softly.
+
+Veskan has reached the doorway behind her. His once-injured arm moves freely as he catches the door and holds it open. He watches you for a moment with a smile he seems unable to contain.
+
+“A beard,” he says. “You neglected to provide adequate warning about that.”
+
+Corva gives a small, breathless laugh. She has not released your hand.
+
+You duck beneath the lintel and enter. There are curtains at windows you remember bare, a runner over the hall’s worn boards, and the smell of cooking reaching through from the service wing. A chair has been drawn close to the sitting-room window. On the table beside it lie an open book and a cup gone cold.
+
+Veskan steps near enough to clasp your forearm, his grip firm with both hands.
+
+“Welcome home, son.”
+
+Corva looks towards Lucette, who is already turning back towards the kitchen.
+
+“Something to eat, please. Whatever’s ready.” Then she looks up at you again. “Come in and sit with us. We’ve been waiting to have you at this table again.”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 years, 3 months; physically mature, approximately 3 metres tall.  
+**Date:** 12/10/0068 AC43 — early afternoon; arrived home after the overnight journey from Auvrienne.  
+**Reputation:** Acclaimed returning scholar and head of House Orsival; royal technical commission authorised. Standing Royal Advisor appointment remains pending the agreed review.  
+**Weapons (Equipped):** None. Greatsword remains in his Collegium quarters.  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots; short white beard. Uninjured and rested.  
+**Gear/Inventory:** Personal effects and original design portfolio. Private research collections remain at the Collegium. Approximately six hours of restorative rest taken aboard the train.  
+**Currency:** **1,191 personal lorrats** after the **6-lorrat rail fare**; **314** in the separate estate account. Dorlac’s **60-lorrat receivable** remains unpaid. Next regular Collegium salary: **01/11/0068 AC43**.
+
+
+## 546 - User - Household investment authority
+
+I spend some time with my family and recounting the events of my journey and then I pull out my wallet and retrieve 1000 Lorrats and place them on the table. "Please add these to the Household funds. I would like us to find some more ways for the Household to generate revenue. However I have just acquired myself a Royal Commission from the Margrave, Marshal and Lieutenant General to begin producing new service weapons for the border conflict and assuming that goes well I will be able to obtain the position of Royal Advisor to the Margrave so I will be tied up handling that for the next several months. While I do so I would like you two to come up with investment ideas for the income generation. I do not mind how you approach this problem, I trust you both to make informed choices with the funds. You do not need to spend the money on the Estate itself if you believe you have better ways to spend the money." I say politely with my subconscious pressure of comfort and ease
+
+## OOC progress note before exchange547
+
+I’ll record the transfer to household funds and your parents’ authority to consider investments beyond the estate, keeping those funds separate from the royal commission.
+
+## 547 - Assistant - Family and household investment
+
+The meal lasts well beyond the time needed to eat it.
+
+Lucette brings bread, a dish of warm vegetables and sliced meat, then leaves the three of you together. Questions interrupt your account almost as often as you pause for breath. Veskan wants to know how foreign railway workshops organise their repairs, and whether the enormous shipyards you describe work through the night. Corva asks about the people: how your scholars managed so long away, who treated you kindly, which places you would willingly visit again.
+
+At one point Veskan draws a rough harbour layout on the back of an old envelope. Corva turns it around to make room for her cup.
+
+“He’s only just come home. You can requisition him for the railway tomorrow.”
+
+“I was asking about ships.”
+
+“A remarkably convenient distinction.”
+
+He grins and puts down the pencil, though he keeps the envelope.
+
+Later, when you place the money on the table, both of them grow still.
+
+Corva looks from the notes to your face. Veskan lowers the cup he has been lifting. They listen as you explain the commission, the prospect of the advisory appointment, and the responsibility you want them to take on while you are occupied.
+
+Your familiar calming presence settles through the room. Corva’s surprise remains plain, but she gathers herself without haste.
+
+“The Margrave herself,” she says.
+
+There is unmistakable pride in her voice. Her eyes move briefly to the portfolio beside you, then back to your face.
+
+Veskan leans forward, forearms resting on the table.
+
+“Then she’s beginning to understand what she has in you.”
+
+He says it quietly, with the conviction of someone who reached that conclusion long before anyone at the palace.
+
+Corva rests her hand over yours for a moment before drawing the notes towards her.
+
+“Yes. We can do this.”
+
+She fetches the household ledger from the sideboard and opens it beside the cleared plates. Her thumb follows the edge of the last completed entry. She counts the money carefully, records the transfer under today’s date, and writes the new balance beneath it.
+
+“One thousand received from you. That gives the household thirteen hundred and fourteen.”
+
+The pencil pauses above the page.
+
+“I’ll keep enough available for the house and our existing obligations. The rest can go where it will do us the most good. A share in an established business, premises worth letting, equipment people will pay to use—we needn’t force every opportunity through these gates.”
+
+Veskan nods.
+
+“There are men around the yards who know their trade and have never had enough money to do more than work for someone else. Some would make good partners. Some would be dreadful.”
+
+He rubs his thumb along the rim of his cup, considering.
+
+“I can start by finding out who actually delivers what he promises. And what people are having to send away for because nobody here provides it reliably.”
+
+“And I’ll look at what they earn, what they owe, and what we would actually own,” Corva says. “Between us, we should be able to distinguish a business from an expensive story.”
+
+She turns the ledger slightly towards him. He moves his chair closer to read the entry.
+
+“We’ll make the enquiries and act where we judge it sound,” she continues. “You’ll have the accounts and regular word of what we’re doing. You won’t need to approve every purchase from Auvrienne.”
+
+Veskan looks up at you.
+
+“Thank you for trusting us with it, son.”
+
+Corva closes the ledger, keeping the money beneath her hand until she can put it away.
+
+“And thank you for telling us about the commission yourself. I would have been very cross to hear it from someone in the market first.”
+
+Her smile softens the words. She reaches for the pot and refills your cup.
+
+“Now. You were telling us about the scholars. What did they make of trying to keep up with you for an entire year?”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 years, 3 months; physically mature, approximately 3 metres tall.  
+**Date:** 12/10/0068 AC43 — afternoon, at the Orsival estate with Corva and Veskan.  
+**Reputation:** Returning scholar and holder of an authorised royal technical commission; parents now informed of the commission and prospective Royal Advisor appointment.  
+**Weapons (Equipped):** None. Greatsword remains at the Collegium.  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots; short white beard. Uninjured and rested.  
+**Gear/Inventory:** Personal effects and original design portfolio. Corva and Veskan authorised to research and make informed income-generating investments, including ventures beyond the estate, without requiring individual approval. No investment purchased yet.  
+**Currency:** **191 personal lorrats; 1,314 in household funds** following the **1,000-lorrat transfer**. Dorlac’s **60-lorrat receivable** remains unpaid. Royal programme funds remain separate; no commission payment received.
+
+
+## 548 - User - Private household security warning
+
+"Before I carry on with the tales of my expedition there is one more thing we must discuss." I then softly speak at a register no one else will here. "I encountered some issues with Caldrienne in my travels. I have no reason to think they will target me again but they have done their due diligence. I must assume they are aware of you two as well. I want you to set aside some of that money for hounds. In time I with reinvestment and more Lorrats I will send when I get them I would like you to hire armed security. I will also ensure I have several models of the new service rifle I am to produce to be brought here for my personal use and inspection. I will ensure we have enough to harm the household. I do not mean to scare you, I do not believe an attack is imminent or even being planned. However it would be unwise of me to not plan for every eventuality. I cannot discuss anymore than I have due to agreements I made with the Margrave, Marshal and Lieutenant General, I may well have said too much already. Please do not repeat this to others but ensure you are prepared for such an event. Whether it is enemies of our House or even The Hunters I do not wish to return home to find either of you injured or worse."
+
+## OOC progress note before exchange549
+
+I’ll keep this warning private to your parents and record the security plans as preparations, with no purchases or rifle deliveries yet.
+
+## 549 - Assistant - Household security preparations
+
+Corva’s hand stops beside the teapot.
+
+Neither of them interrupts. From elsewhere in the house comes the faint clink of crockery; outside, a cart rattles along the drive. Those ordinary sounds seem unusually distinct around your lowered voice.
+
+Veskan’s expression hardens at the mention of Caldrienne. He glances towards Corva, then returns his attention to you. She listens with her lips pressed together, one hand resting on the closed ledger.
+
+Your calming presence eases the first sharp alarm. It cannot make the prospect of someone deliberately seeking out their family an agreeable one.
+
+“We won’t repeat it,” Corva says quietly. “And I won’t ask you to break your confidence with them.”
+
+She opens the ledger again, turning to a clean portion of the page.
+
+“The hounds come before any new investment. I’ll find out what suitable trained animals cost, including their keep, and hold money back for that. There’s no sense spending everything elsewhere and discovering we’ve left ourselves unable to do the first thing you asked.”
+
+She writes **Household security**. Nothing about Caldrienne goes onto the page.
+
+Veskan draws his chair closer, keeping his voice as low as hers.
+
+“We’ll want dogs accustomed to a working property. Lucette must be able to manage them, and the tenants must be able to come about their business.”
+
+His fingers settle against the table’s edge.
+
+“And when we can afford men, I’d rather take time finding people we can trust. Having someone armed inside the house is its own responsibility.”
+
+Corva nods. “We can begin making discreet enquiries. Nobody needs your private affairs explained to them to understand why a household might want a watchman.”
+
+Veskan looks towards the window. Beyond it, the afternoon light lies across the garden wall. When he speaks again, his voice has lost its earlier conversational ease.
+
+“I understand why you’re thinking about the Hunters too.”
+
+For a moment Corva watches him rather than you. Her hand moves across the table to rest beside his.
+
+“We’ll take this seriously,” she says. “The dogs, the provision for security, and somewhere secure for the rifles when you have them. We can prepare without frightening everyone who lives and works here.”
+
+Veskan turns back to you.
+
+“I’m glad you told us. I’d sooner know enough to be careful.”
+
+Corva leaves the ledger open, but puts down her pencil.
+
+“You’ve said you don’t believe another attack is being planned. All right. We’ll prepare on that understanding.” Her eyes search your face. “But if that changes, you must tell us what we need to do, even if you cannot tell us why.”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 years, 3 months; physically mature, approximately 3 metres tall.  
+**Date:** 12/10/0068 AC43 — afternoon, at the Orsival estate with Corva and Veskan.  
+**Reputation:** Returning scholar and holder of an authorised royal technical commission; Royal Advisor appointment remains prospective.  
+**Weapons (Equipped):** None. Greatsword remains at the Collegium.  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots; short white beard. Uninjured and rested.  
+**Gear/Inventory:** Personal effects and original design portfolio. Parents privately warned of possible household risks; instructed to reserve funds for hounds and plan for later armed security. Future household rifles intended, none produced or delivered.  
+**Currency:** **191 personal lorrats; 1,314 in household funds.** Security reserve amount awaits enquiries; no expenditure yet. Dorlac’s **60-lorrat receivable** remains unpaid. Royal programme funds remain separate.
+
+
+## OOC — Estate telephone clarification
+
+**User:** Quick question, does my house have a telephone?
+
+**Assistant progress:** I’ll check the estate records for an installed telephone.
+
+**Assistant:** **We haven’t established an installed telephone at the estate.** I checked the estate records and transcript: the earlier calls with Corva used the railway’s telephone, not one at your house.
+
+A connection to Serravonne’s exchange would fit the setting and be a sensible household improvement—especially now that you need to remain reachable for the royal commission. We should establish the installation and running costs rather than assume it was already included in the repairs.
+
+
+## OOC — Telephone installation timing
+
+**User:** How long would it take to get a telephone installed?
+
+**Assistant progress:** I’ll check whether our setting notes establish installation times or local telephone access.
+
+**Assistant:** **About one to two weeks would be a reasonable planning estimate for your estate**, assuming a usable telephone line runs along a nearby road. This is a proposed setting estimate; we haven’t established the nearest connection point yet.
+
+- **Nearby line, available exchange capacity:** roughly **3–7 working days**, including inspection, connection and testing.
+- **New poles and a substantial extension needed:** roughly **3–6 weeks**.
+- **An existing connection that merely needs restoring:** potentially **1–2 days**.
+
+Your royal commission gives you a credible reason to request priority. **Installation before you return to Auvrienne could be achievable if the nearby infrastructure exists**, but priority cannot eliminate the physical work.
+
+Corva can arrange the inspection and installation while you handle the commission. Until it is connected, urgent messages can go through the railway office for delivery to the estate, as an interim arrangement. No installation has been ordered or money spent yet.
+
+
+## 550 - User - Estate visit and arrangements
+
+I spend the next several days at home with my family. Catching up and tending to the business of the estate, helping money be allocated and organized and assisting with financial planning while I am here. I also make a point to see my tenants, check in with their concerns and harvests and provide any assistance I can and record any grievances for Corva and Veskan to make a note of. I also allocate money to have a telephone hooked up to my estate for ease of contact with any who require me and head into Serravonne itself to make these arrangements. While I am there I also tell Dorlac to keep the 60 Lorrats as an investment in future relations and direct her to my estate and ask her to liaison with my mother and father which may help them in future endeavors and provide Dorlac's business opportunities for expansion.
+
+## OOC progress notes before exchange551
+
+I’ll check the estate accounts and Dorlac’s arrangement, then resolve the next several days, including the telephone installation and your tenants’ concerns.
+
+The telephone survey found a usable roadside line, so it can be connected during your stay. I’m recording Dorlac’s 60 lorrats as money you’ve allowed her to retain for the relationship—not cash received or an ownership stake with unspecified terms.
+
+## 551 - Assistant - Five days at home
+
+Over the next five days, the estate becomes familiar through its routines.
+
+You learn which stair complains under an ordinary footstep, where Lucette leaves the household keys, and which patch of afternoon sunlight reaches the table where Corva prefers to work. Veskan comes home smelling faintly of railway oil. Some evenings you talk until the lamps need tending; on others, being together requires very little conversation.
+
+Your expedition emerges in pieces. A foreign harbour over breakfast. An argument between scholars while you walk the gardens. Buildings described with your hands until Veskan fetches paper and asks you to draw them properly.
+
+The accounts occupy several mornings.
+
+Corva spreads receipts beside her ledger, separating money needed for ordinary obligations from money available for improvements. With your help, the loose papers become a usable schedule: what is due, who is owed, and which prospective investments still need evidence behind them. The household retains a **152-lorrat operating reserve**. The new security expenses receive their own entries.
+
+Two trained adult watch hounds arrive during your stay. They cost **60 lorrats together**, with **8 more** for bedding, leads, bowls and modest adaptations to their quarters. Their former handler spends time introducing them to Lucette and your parents. One watches you with its ears drawn back until familiarity begins to overcome the sheer wrongness of your size; the other becomes intensely interested in your boots.
+
+By the second evening they recognise the household’s voices. Their barking at an unfamiliar cart announces itself through the open windows long before its driver reaches the courtyard.
+
+Corva reserves another **12 lorrats for their initial food and upkeep**, still held rather than spent. Armed staff remain a later commitment; Veskan is making enquiries about references and wages before recommending anyone.
+
+Your visits to the tenants are less formal than they expect.
+
+At first, people give you the answers they think a landlord wants: the harvest was respectable, the roof mostly sound, nothing worth troubling you about. That changes when you walk with them to see the ground and ask them to show you what they mean.
+
+There are grain sacks stacked clear of a damp wall, roots being lifted, and autumn work already under way on ground that has finished yielding for the year. Their crops are their own. Your questions concern the conditions under which they grow them, the expenses they face, and whether the estate is meeting its obligations.
+
+Three matters recur in your notes: an obstructed field-edge drain, a leaking section above a tenant’s store, and uncertainty over whom to notify when repairs are needed. Another household wants written confirmation that a rent payment has reached the estate account; Corva matches it to the entry and provides the receipt.
+
+You help clear the obstruction, lifting material that would have required several labourers to shift together. A grateful tenant follows with a shovel, opening the smaller channel behind you. Water begins moving through the cleared section with a muddy, sucking sound.
+
+The roof patch and remaining minor drainage work cost **12 lorrats in materials and hired assistance**, paid from household funds. The broader wet ground remains a separate problem requiring a proper survey; clearing one channel has not drained the whole property.
+
+Corva and Veskan receive the written concerns, with completed jobs marked and outstanding ones left visible. No one has to wonder whether a complaint vanished after reaching the great house.
+
+In Serravonne, the telephone arrangements prove straightforward once the exchange sends someone to inspect the approach.
+
+A usable line follows the road nearby. Your house needs a short extension and an instrument, rather than a new route all the way from town. The quotation is **48 lorrats installed**, including service through the end of the month. Thereafter, the line and instrument cost **2 lorrats a month**, with separately charged toll calls.
+
+You place the order. On the seventeenth, the workmen test a black telephone in your ground-floor study. A wire runs neatly along the wall before passing outside. The bell gives a sharp, startling ring.
+
+Corva lifts the receiver.
+
+“Orsival residence.”
+
+She listens, confirms that she can hear the exchange clearly, and replaces it with a small, satisfied nod.
+
+“That will save a good many journeys.”
+
+The household now has a working connection. Your office contacts can reach the estate through the Serravonne exchange; the new contact particulars are sent to the Collegium and the Marshal’s office.
+
+Your visit to Iseva Dorlac takes you back among the small objects arranged against dark cloth beneath her shop glass.
+
+She brings out the consignment statement: four pieces sold, her agreed commission deducted, **60 lorrats due to you**, and one piece still awaiting a buyer. When you tell her to retain the money and explain the introduction to your parents, she looks up from the figures.
+
+“That is a considerable kindness, my lord.”
+
+Her eyes return to the statement. She adds a dated note recording your instruction, then offers you a copy.
+
+“I’ll call on them. There are opportunities I hear about before they reach a noticeboard—people looking for premises, craftsmen who can fill orders but cannot carry the stock. I can bring them particulars worth examining.”
+
+She does not promise that every introduction will prove profitable. But she takes the address carefully, and two days later visits the estate with her books and a small bundle of trade correspondence.
+
+Corva receives her at the dining table. Veskan joins them after work. Their first conversation establishes what each can offer and what they would need to know before committing money. No partnership is signed that evening, but Dorlac leaves with an invitation to return with specific proposals.
+
+By the afternoon of the seventeenth, the household ledger reflects the week’s work: **48 for the telephone, 68 for the hounds and their initial equipment, 12 for tenant repairs, and 10 for additional provisions and local administrative expenses**. Household cash stands at **1,176 lorrats**. Of that, **164 remains reserved** for ordinary operations and the hounds’ initial upkeep, leaving **1,012 uncommitted**.
+
+Your own purse still holds **191**. Dorlac’s sixty is no longer owed to you; it has become the goodwill you chose to extend, with no repayment or ownership share stipulated.
+
+That afternoon, Lucette brings a sealed packet into the study.
+
+“From the Marshal’s office, my lord. The messenger asked that it be put directly into your hands.”
+
+The covering sheet identifies it as the promised report on preparations for your return. Beside it, the new telephone rests quietly in its cradle.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 years, 3 months; physically mature, approximately 3 metres tall.  
+**Date:** 17/10/0068 AC43 — afternoon, Orsival estate near Serravonne.  
+**Reputation:** Royal technical commission holder; increasingly present and attentive landlord. Royal Advisor appointment remains prospective.  
+**Weapons (Equipped):** None. Greatsword remains at the Collegium.  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots; short white beard. Uninjured.  
+**Gear/Inventory:** Original design portfolio; tenant concerns and repair records; Marshal’s preparation report received, awaiting examination. Estate telephone operational; two trained watch hounds acquired. No armed guards hired or service rifles produced.  
+**Currency:** **191 personal lorrats; 1,176 household lorrats**, including **164 reserved / 1,012 uncommitted**. **138 household lorrats spent** during the visit. Dorlac’s **60-lorrat receivable relinquished for goodwill**, not deducted from cash. Next regular salary: **01/11/0068**. Royal programme funds remain separate.
+
+
+## 552 - User - Opening the packet
+
+I open up packet and read the contents
+
+## OOC progress note before exchange553
+
+I’ll check the commission’s agreed terms and the Marshal’s commitments before opening the report.
+
+## 553 - Assistant - The Marshal’s report
+
+The packet contains a covering letter, a folded site plan, a staffing return and two copies of a financial agreement. The papers smell of fresh ink. Several corrections have been initialled rather than recopied; the Marshal has evidently preferred to get the answer to you promptly.
+
+His letter is dated the sixteenth.
+
+> **Lord Orsival,**
+>
+> The enclosed arrangements have received Her Excellency’s approval. The works will receive you on the eighteenth. Your core staff have been assigned, and the officer named below has authority to obtain the remaining support through my office.
+>
+> You will find the financial provision and proposed contractual terms enclosed. Your ownership of the designs has been preserved. Please return one signed copy if these terms meet your agreement, or send the amendments you require directly to me.
+>
+> **Calvren Vaucerin, Marshal**
+
+The site plan shows an existing military repair establishment on the industrial outskirts of Auvrienne, reached from the railway goods approaches. Its **eastern workshop and adjoining offices** have been assigned to your programme, with a separate entrance and controlled access.
+
+There is a powered machine hall, stores, an inspection room and space for your drawings and records. Heavy deliveries can enter through the yard. The allocation includes access to the establishment’s existing machinery and services; you are not being handed an empty building and told to furnish it from your own purse.
+
+A pencilled annotation beside the office reads: *Large worktable and suitable seating ordered to Lord Orsival’s dimensions.*
+
+The staffing return identifies **Captain Armand Serault** as your military liaison and **Bastien Ordel** as the workshop foreman. Serault answers to the Marshal for administration and security; Ordel answers to you for the technical work and daily organisation of the shop.
+
+Eighteen people form the initial working establishment: Ordel, ten skilled workshop staff, two materials and inspection specialists, two draughting assistants, two stores and accounts staff, and Serault. The wider establishment supplies its existing gate watch, power and ordinary site services.
+
+The assigned personnel are available for your arrival. Supplemental equipment is due on the twentieth; the report explicitly states that the existing facilities permit work to begin before it arrives. Suppliers have been approached, but your final technical review is required before project-specific orders are released.
+
+The financial sheet carries the Margrave’s approval.
+
+**Initial programme allocation: 18,000 lorrats.**
+
+Its scope is a development and trial programme culminating in **120 accepted rifles**, with provision for preliminary examples, rejected work, testing and instruction. It is not an order to equip the entire army, nor a claim that each future rifle will cost one hundred and fifty lorrats.
+
+| Provision | Lorrats |
+|---|---:|
+| Workshop adaptation and additional equipment | 6,000 |
+| Three months of assigned staff payroll | 2,700 |
+| Your initial licence fee and three months’ commission remuneration | 1,350 |
+| Materials, outside contracts and development wastage | 4,200 |
+| Trial support, transport, instruction and authorised expenses | 1,500 |
+| Programme contingency | 2,250 |
+| **Approved ceiling** | **18,000** |
+
+The machinery, buildings and services already available at the establishment are listed separately as state support. Their purchase value has not been charged again. Assigned staff salaries will be charged to this programme once, with corresponding adjustments to their former departmental accounts.
+
+The money remains in a dedicated military account. You direct expenditure within the approved undertaking; Serault and the accounts staff execute and record it. The contingency is available for justified programme needs without another royal audience, while an increase beyond the total ceiling requires the Marshal to obtain supplementary approval.
+
+Below the budget is a planning estimate of **approximately twelve weeks** to complete the first undertaking, subject to your review on arrival. It is expressly a scheduling allowance, not a finding that the design requires three months of further thought. The workshop’s production and inspection capacity must now be brought into line with your drawings.
+
+The agreement addresses your own position separately.
+
+**Commission remuneration: 150 lorrats per month**, additional to your existing Collegium salary, accruing from commencement of duty under the signed agreement. Payment falls on the first of each month for the preceding period, with partial months calculated proportionately. Authorised travel and programme expenses are paid separately against the programme account.
+
+**Initial design licence: 900 lorrats**, payable when the agreement is executed. It permits the state to manufacture the development examples and first trial shipment, retain and evaluate them, and make the necessary controlled working copies of your drawings.
+
+You retain ownership of the design. Wider manufacture, export rights and any subsequent licence or royalty require a further agreement. The carrier proposal and your unrelated inventions are outside this licence.
+
+The final page confirms that your formal review for **Royal Advisor** follows the produced shipment and its controlled demonstration. The Marshal and Lieutenant-General will submit their assessments directly to the Margrave. The review does not depend upon the border dispute becoming a declared war.
+
+There is also a practical note: no weapons have yet been assigned to your household. Any examples retained for your personal inspection or estate use must be identified in the production and issue records once they exist.
+
+At the bottom of the covering letter, beneath the formal closing, Vaucerin has added a line in his own hand.
+
+> You asked for more than a workshop and a few specialists. This is the beginning. Show us what you can do with it.
+
+The duplicate agreement lies beneath your hand, its signature space empty. A small return envelope is enclosed, together with Serault’s office contact and directions to the works.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 years, 3 months; physically mature, approximately 3 metres tall.  
+**Date:** 17/10/0068 AC43 — afternoon, estate study near Serravonne.  
+**Reputation:** Royal technical commission holder; state-backed first rifle programme approved. Royal Advisor appointment remains prospective.  
+**Weapons (Equipped):** None. Greatsword remains at the Collegium.  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots; short white beard. Uninjured.  
+**Gear/Inventory:** Design portfolio; workshop plan, staffing return and approved programme allocation. Proposed licence and remuneration agreement read, awaiting your decision. Auvrienne works ready to receive you on the eighteenth; no rifles manufactured yet.  
+**Currency:** **191 personal lorrats; 1,176 household lorrats** (**164 reserved / 1,012 uncommitted**). **18,000-lorrat state programme authorised, separately administered.** Proposed **900 licence fee** and **150/month commission pay** are not yet received or accruing. Existing Collegium salary remains **60/month**.
+
+
+## 554 - User - First maximum-speed run
+
+I go find Corva and Veskan and tell them I have been called to begin my work in the capital. I say my goodbyes to them and Lucette and then I begin walking towards the city of Serravonne. However I take a detour into the nearby wilderness and then align myself so I know which direction Auvrienne is in. I then start jogging, slowly at first but gradually picking up speed until I am running as fast as I can, dodging through trees, leaping over obstacles and pushing myself to see how fast I can make this journey while keeping away from roads and civilisation as not to alarm anyone or cause unwanted attention. (Despite the fact we have established Galahad’s ceiling this is the first time he has pushed himself in terms of running speed so from his point of view he is figuring out his limits)
+
+## OOC progress note before exchange555
+
+I’ll use Galahad’s established running speed and endurance, while accounting for the terrain and his effort to stay unseen. For him, this will be a first discovery of what his body can do.
+
+## 555 - Assistant - Running to the capital
+
+Corva puts down her pencil when you tell them.
+
+“Then you had better go. They’ll have been turning the place upside down getting ready for you.”
+
+She smooths a fold in your coat, an old habit made slightly absurd by how far she must reach now, and rests her hand against your arm.
+
+“Telephone when you’re settled.”
+
+Veskan clasps your hand in both of his.
+
+“We’ll look after things here. You look after yourself.”
+
+Lucette comes to the entrance to wish you a good journey. Behind her, one of the hounds noses towards the doorway until she calls it back. You leave your parents together beneath the lintel, the house warm with the sounds of an ordinary afternoon behind them.
+
+For a while, you follow the way towards Serravonne.
+
+Then you leave it.
+
+The sound of wheels dwindles behind you. Cultivated ground gives way to rough grass and scattered trees, then a wooded slope where fallen leaves conceal pale stones. From higher ground you take your bearings: the city behind you, the lie of the hills, the direction of the capital to the north and west.
+
+You settle your carried papers securely before beginning to run.
+
+At first, the pace scarcely demands your attention. Your feet find space between roots; your shoulders turn through gaps. The familiar restraint of moving among people falls away, and you lengthen your stride.
+
+Then lengthen it again.
+
+The air presses your coat against your body. Its loose edges snap behind you. Footfalls strike the earth with a force you usually take care to conceal, throwing damp leaves and little sprays of soil backwards.
+
+A fallen trunk approaches. You clear it without breaking rhythm.
+
+Another rise. Another acceleration.
+
+The trees begin passing with startling speed.
+
+Your perception keeps pace. You register a loose stone, the angle of a root, the narrow opening beyond two trunks; your body answers each observation almost as soon as it forms. Yet you discover quickly that seeing a turn and making it are different things. Momentum must go somewhere. A sharp change of direction demands that you plant, lean and drive again, the ground tearing beneath your boot when it cannot bear the load.
+
+You begin choosing longer, cleaner lines.
+
+Across an open stretch of rough grass, there is room to push without interruption. Your stride becomes a succession of powerful impacts and long moments with neither foot touching the ground. Wind roars around your ears. The slope ahead draws towards you so quickly that a distance which looked substantial a moment ago is already gone.
+
+You push harder.
+
+For a time, harder still means faster. Then the gains diminish. Your legs remain powerful, your breathing controlled, but the rhythm approaches the fastest your unassisted body can usefully sustain. More effort produces smaller improvements. There is a limit here, and for the first time you are close enough to feel its shape.
+
+You do not strike it as a wall of exhaustion.
+
+You hold the pace.
+
+The next stretch of woodland makes you shorten your stride, then you accelerate again beyond it. A gully passes beneath a leap. On the far bank you take several shorter steps to settle your footing before driving uphill. The work spreads through your thighs, hips and back; your breathing deepens, and heat gathers beneath your clothes.
+
+It feels like exertion. Substantial, satisfying exertion. Your reserves remain immense.
+
+The country changes around you. Woodland opens into scrub and grass, then closes again along folds in the ground. You give farmsteads a wide berth. Where a road cuts across your course, you approach under cover and cross only after checking the approaches. Once, the distant sound of an engine sends you along a shallow depression until the vehicle has passed.
+
+No shout follows you. No one gives chase. You find no sign that anyone has witnessed the speed at which you are travelling.
+
+Some of the journey becomes a repeated experiment: accelerate, hold, adjust to the ground, accelerate again. You learn how much distance you need to shed speed, how far a running leap carries you, and how differently firm turf and loose soil receive the same footfall. Your coordination improves through the repetition. The improvement lies in using what you already possess.
+
+By the time the capital’s distant chimney haze appears above the landscape, the light has begun to soften towards evening.
+
+The run has taken **a little over three hours**, including the bends, crossings and diversions necessary to stay away from people. You have repeatedly approached your unaided maximum on suitable stretches; your average across the countryside has necessarily been lower. An exact top speed will require measured ground and a reliable timing reference, but the scale of what you have done is unmistakable.
+
+There is sweat beneath your shirt and mud along your boots and lower trousers. Your breathing is deep, but steady. Your hands remain precise when you adjust the papers you carry. Nothing in your body suggests that you have reached the end of its useful strength.
+
+Ahead, scattered buildings thicken into the outskirts of Auvrienne. You ease down through a jog to a walk while the trees still conceal you, allowing your coat to settle before approaching inhabited ground.
+
+The capital awaits beyond the last belt of woodland. You have arrived on the seventeenth, with the evening still ahead of you and the works expecting you tomorrow.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 years, 3 months; physically mature, approximately 3 metres tall.  
+**Date:** 17/10/0068 AC43 — early evening, wooded outskirts of Auvrienne.  
+**Reputation:** Royal technical commission holder; no known public witness to the cross-country run.  
+**Weapons (Equipped):** None. Greatsword remains at the Collegium.  
+**Armor/Clothing (Equipped):** Charcoal coat, pale shirt, dark trousers and leather boots; short white beard. Clothing sweaty and muddy; uninjured, with no meaningful loss of capability.  
+**Gear/Inventory:** Original design portfolio and commission packet carried safely. First sustained test of unaided maximum running effort completed; established **120–130 km/h ceiling**, not yet precisely measured by Galahad. Financial agreement remains unsigned.  
+**Currency:** **191 personal lorrats; 1,176 household lorrats** (**164 reserved / 1,012 uncommitted**). No travel fare paid. **18,000-lorrat state programme** remains separate; proposed **900 licence fee** and **150/month commission pay** not yet received or accruing.
+
+
+## 556 - User - Return to the works
+
+Now I simply walk out and into the capital as if I was walking this pace all along and deviated from the road for a moment. I brush some of the mud and steady my breathing as I take off my coat to allow the sweat to evaporate as I walk. I then make my way to the Marshal’s office to deliver the letter personally before making my way to my new site to begin my work before the staff arrive
+
+## 557 - Assistant - OOC progress before user clarification
+
+I’ll carry you through the evening arrival and handover, then into the allocated workshop. The packet’s financial agreement is still unsigned, so I’ll keep that separate from your already authorised access to the works.
+
+*Turn interrupted before a final narrative; no scene enacted by this progress note.*
+
+## 558 - User - Signing clarification
+
+Sorry I should have made that more clear, before you continue I will just sign the agreement in his office infront of him
+
+## OOC progress before exchange559
+
+Understood—you’ll sign it in front of the Marshal before going to the works. That settles the agreement, and your commission pay will begin accruing as you start work tonight.
+
+## 559 - Assistant - The first evening at the works
+
+By the time you reach the first busy streets, your breathing has settled. You carry your coat over one arm, letting the evening air cool your shirt. Most of the loose mud brushes away; what remains suggests a walk across country rather than a journey no ordinary traveller could have made on foot in an afternoon.
+
+Auvrienne is changing shifts around you. Workshops release men with darkened cuffs into streets filling with cooking smells. Lamps appear behind shop windows. A tram bell sounds farther downhill, followed by the complaint of wheels against a bend in the rails.
+
+People look at you, naturally. Your height makes anonymity difficult. Nothing in your measured pace gives them reason to suspect how you reached the capital.
+
+At the military offices, your name and the Marshal’s packet secure admission. A clerk carries word ahead, and after a short wait you are shown through.
+
+Vaucerin is still at his desk, his tunic unfastened at the throat. He looks from you to the returned papers.
+
+“Lord Orsival. We expected you tomorrow.”
+
+The surprise passes into a small smile as you place the agreement before him.
+
+“You’ve read the terms?”
+
+You sign in his presence. He draws the papers closer, checks the completed signature, and adds his own endorsement to the execution record. One copy returns to you; the other goes beneath his hand beside the office bell.
+
+“Then we can stop calling them proposed arrangements.”
+
+When you make your intention to begin tonight clear, he writes the seventeenth as your commencement date.
+
+“Serault will have the accounts record this from today. The nine hundred is due under the licence; I’ll have the payment instruction sent through with the agreement.”
+
+He summons the clerk and gives a short series of instructions: register the executed agreement, notify the works that you are coming, and send confirmation to Captain Serault. The payment is authorised, though no money changes hands in the office.
+
+Vaucerin returns his attention to you.
+
+“The night watch can admit you and open the allocated rooms. Ordel and the others report in the morning. If you find anything tonight that they ought to address first, leave it for him in writing.”
+
+He taps the site plan once.
+
+“I look forward to seeing what is on that list.”
+
+The works lie beyond the busiest streets, where the smell of hot food gives way to coal smoke, machine oil and damp masonry. Lamps illuminate the entrance and cast a pale rectangle across the yard. Your arrival has been announced; the gate sergeant checks the papers, enters your name and calls for the man holding the eastern building’s keys.
+
+Inside, the machine hall is quiet.
+
+Long benches stand beneath high windows. Covered machinery forms a row of unfamiliar silhouettes until your guide turns up the lights. Old oil darkens the floor around the heavier equipment. Chalk marks indicate places reserved for the supplemental deliveries. Somewhere in the adjoining building, a pipe knocks as it cools.
+
+The custodian shows you the allocated office, inspection room and stores, then leaves you with the keys and directions to the watch post.
+
+Your special furniture has not yet arrived. An ordinary table has been placed in the office meanwhile. Standing beside it, you spread out the site plan and your working papers.
+
+You begin with what is actually here.
+
+The equipment inventory becomes a series of things to examine rather than promises on a page. You compare the available space with the flow of work you envisaged, check access between rooms, and distinguish machinery ready for use from equipment that still needs attention. The report is broadly accurate. The building has the substance required to begin, even if its present arrangement reflects years of repair work rather than your new programme.
+
+Your first notes concern organisation: clear responsibility for each stage, reliable inspection records, secure custody of drawings, and a way to keep uncertain or rejected work from being mistaken for completed pieces. You mark questions for Ordel beside the relevant entries instead of making assumptions about the skills of people you have not yet met.
+
+Then you turn to the morning’s work. You prepare the initial briefing, separate the documents each group will need, and identify the decisions that require the specialists’ observations before orders are placed. Your original drawings remain under your control.
+
+Outside, the watch changes. Boots cross the yard; a door closes; the establishment settles again.
+
+Light continues to fall beneath your office door. By the time the staff arrive, their first day will already have a shape.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 years, 3 months; physically mature, approximately 3 metres tall.  
+**Date:** 17/10/0068 AC43 — night, allocated military workshop in Auvrienne.  
+**Reputation:** Royal technical commission holder; agreement executed and preparatory work begun ahead of the staff’s arrival. Royal Advisor appointment remains prospective.  
+**Weapons (Equipped):** None. Greatsword remains at the Collegium.  
+**Armor/Clothing (Equipped):** Pale shirt, dark trousers and leather boots; charcoal coat removed. Short white beard; uninjured and fully functional.  
+**Gear/Inventory:** Original design portfolio, executed agreement, workshop keys, inventory review and initial staff briefing. No rifles manufactured; core staff expected on the eighteenth.  
+**Currency:** **191 personal lorrats; 1,176 household lorrats** (**164 reserved / 1,012 uncommitted**). **900-lorrat licence payment now due**, authorised but not yet received. **150/month commission pay accruing from 17/10**, additional to **60/month Collegium pay**. **18,000-lorrat programme funds** remain separately administered.
+
+
+## 560 - User - Overnight workshop optimisation
+
+I spend the rest of the night and morning hyper optimising the workshop. I treat it like a puzzle with an optimal solution. I lay out the budget, staff, room spacing, production estimates. I conduct test runs and begin assembling parts and machinery and producing the first few rifles as I think to occupy my hands. I analyse this workshop from every angle, how to minimise costs, maximise efficiency and push this venture far beyond the expectations that anyone thought possible. To make the pure efficiency and output of this endeavour to outclass anything seen before and to make it another stepping stone for my reputational growth.
+
+## OOC progress before exchange561
+
+I’ll resolve the overnight work at Galahad’s established level of ability, separating what he completes himself from the production gains his staff still need to demonstrate.
+
+## 561 - Assistant - The first three rifles
+
+The workshop ceases to be a collection of rooms.
+
+In your mind, it becomes movement: material entering, work passing between hands, questions travelling back towards someone qualified to answer them. You see the wasted journeys before anyone takes them. You see where a man will finish his task and discover that the next bench is occupied, where two people will need the same equipment, where a missing record will cost an afternoon.
+
+Your pencil moves.
+
+Then you put it down and move the furniture.
+
+Benches scrape across the floor. A cabinet that ordinarily requires a small group to shift travels beneath your hands. You leave the heavier powered installations connected where they stand and reorganise the work around them, treating their positions as constraints rather than reasons to accept the existing arrangement.
+
+By midnight, the first plan has already been replaced by a better one.
+
+You walk its paths, rehearse the handovers and revise it again. Space that initially appeared insufficient becomes usable once you stop asking every room to serve several conflicting purposes. The stores become easier to read at a glance. Drawings have assigned places. Unfinished work no longer needs to share a surface with inspected pieces.
+
+Alongside the layout, you work through the money.
+
+Some purchases on the preliminary schedule duplicate capability already available elsewhere in the establishment. Others would buy speed at one stage while leaving the next stage unable to keep up. You mark these for cancellation or revision before orders are released, retaining the items that genuinely increase useful output. The approved allocation becomes a ceiling you intend to beat rather than a sum you feel obliged to spend.
+
+And while your mind moves through the larger problem, your hands begin making it tangible.
+
+The first rifle occupies part of a cleared bench. You work from your own completed drawings, drawing on the establishment’s available stock and equipment. Periods of machine work alternate with assembly, examination and notes. Whenever one task requires waiting, you turn to another.
+
+There is no audience to slow you down or oblige you to explain.
+
+The night watchman looks through the doorway once. He watches you lift something he plainly expected to require assistance, notices the growing spread of work, and decides against interrupting.
+
+Before dawn, the first assembled example rests beside your papers.
+
+By the time daylight reaches the high windows, there are **three**.
+
+Their finish is that of development pieces, without the final cosmetic attention intended for issued weapons. Each has undergone your initial unloaded bench checks. They are substantial, physical answers to a drawing that existed only on paper yesterday. Live firing and formal acceptance still lie ahead.
+
+You have also accumulated enough observations from making them to revise the production plan again.
+
+The most useful discoveries are not confined to what you can do personally. You separate the operations that depend upon your exceptional speed and judgment from work the appointed staff can perform consistently. Their instructions become clearer. Unnecessary decisions disappear from repetitive tasks, leaving attention available for the places where it matters.
+
+When Bastien Ordel arrives, he stops just inside the hall.
+
+His gaze moves from the relocated benches to the labelled work areas, then to the rifles.
+
+“Who was working with you?”
+
+The night watchman, preparing to leave, answers before anyone else can.
+
+“Nobody, sir.”
+
+Ordel approaches the bench. He studies one of the examples without immediately touching it, then looks at the sheets beside it. His expression changes as he follows the annotations. The surprise remains, but professional interest begins overtaking it.
+
+“May I?”
+
+You bring him into the work, and the morning becomes the first test of how well your arrangements serve other hands.
+
+The staff arrive in ones and twos. You explain the organisation, observe their first rehearsals and adjust it as their individual strengths become apparent. A suggestion from one of the stores staff improves an already shortened handover. You incorporate it immediately. Ordel notices that too.
+
+By midmorning, the hall sounds different: brief questions, purposeful movement, the return of tools to places their users can now find without asking. You are still working across several problems at once, answering a question at one bench while carrying the next revision in your head.
+
+The revised schedule on your table allows **four to six weeks for the 120-rifle trial shipment**, provided the first firing trials support the design and the scheduled supplies arrive. That replaces the original twelve-week planning allowance. It is a forecast grounded in the work now before you; the staff have not yet produced enough accepted weapons to prove a sustained rate.
+
+Ordel studies it for some time.
+
+“Yesterday I would have called this impossible.”
+
+He glances back at the three rifles.
+
+“I’d like to see the first firing results before I put my name beside it. But I can see how you intend us to get there.”
+
+Captain Serault arrives with the administrative papers during the morning. Your licence payment follows through the works cashier: **900 lorrats**, counted and receipted, paid from the programme’s provision for your fee.
+
+He also collects the overnight stock-use record for valuation. The material you have consumed will be charged to the programme; it is neither free nor a personal household expense.
+
+Then he notices what is lying on the inspection bench.
+
+“Those are the first examples?”
+
+Ordel nods.
+
+Serault looks at the date on his paperwork as though it might help him understand the answer.
+
+“I’ll arrange the controlled firing session,” he says. “And the Marshal should know what was waiting for us this morning.”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 years, 3 months; physically mature, approximately 3 metres tall.  
+**Date:** 18/10/0068 AC43 — late morning, Auvrienne military workshop.  
+**Reputation:** Extraordinary overnight results witnessed by the workshop staff; report to the Marshal pending. Royal Advisor appointment remains prospective.  
+**Weapons (Equipped):** None. **Three Auvrienne 762 development rifles assembled**, held at the workshop; initial unloaded bench checks completed, live firing and acceptance pending.  
+**Armor/Clothing (Equipped):** Pale shirt, dark trousers and leather boots; coat set aside. Clothing marked by workshop work; uninjured, alert and fully functional.  
+**Gear/Inventory:** Original designs, revised workshop layout, staff assignments, purchasing review and production schedule. Core staff present. **Four-to-six-week trial-shipment forecast**, conditional on testing and supply; no issued shipment yet.  
+**Currency:** **1,091 personal lorrats** after receipt of the **900-lorrat licence fee**; **1,176 household lorrats** (**164 reserved / 1,012 uncommitted**). Commission pay **150/month**, accruing from 17/10, plus existing **60/month Collegium pay**. **18,000-lorrat programme ceiling** remains separate; consumed stock awaits valuation, and forecast savings are not cash income.
+
+
+## 562 - User - Production week and Collegium resignation
+
+I spend the next week hyper optimising and ensuring production exceeds any estimate of best case scenarios by as wide a margin as possible. I barely leave the workshop at all. I have the night guards fetch street food for me when I require and I always give them extra Lorrats for themselves to encourage loyalty and comfort which coupled with my constant psychic pressure enforcing such emotions should be an easy task. I only leave the grounds of the workshop once and that is to go to the Collegium and have my room cleared out with the inventory set to be transported to my Estate on the outskirts of Serravonne. I then go find the Headmaster and Savel and inform them that I will be resigning from my position with the Collegium due to pressing matters with the Chancery and Military. However I do leave 500 Lorrats from my personal funds with them as a small donation of patronage from the Orsival Family and I express that I will continue this patronage in the future and hopefully. I also state that I am happy to consult with the Collegium and if I have free time and the Collegium requires it, even teach some classes. I make it clear that I do not expect payment in any way for this. The Collegium helped me gain my footing and as such I wish to continue to be a benefit to the institution. Once I get that out of the way I return to the workshop. I barely have to sleep since I got plenty on my train ride to Serravonne when I returned to my estate before coming back to Auvrienne on foot. A couple of nights I will rest my back against the wall in the office, sit on the floor and shut my eyes but it is only a sort of half sleep. Then I return to my work. I continually optimise and improve any and all parts of the operation I can and whenever my hands are not required for optimisation and I do not need notes infront of me to assist in connection making I assemble the firearms myself to continually help along production rates. I also have Serault convey to the Marshal that these firearms are best deployed with armor piercing rounds as the standard and I would recommend that is what we supply in majority to the border along with the firearms themselves once we are ready. By the end of the week I conduct a full survey so that I can appropriately assess the production rates we are at, how many rifles we have made and all the various relevant construction and production variables I need to improve further upon this workshop and project as a whole.
+
+## OOC progress before exchange563
+
+I’ll resolve the week’s production and trials, your departure from the Collegium, and the transport of your belongings. I’ll also reconcile pay, donations and workshop costs so the final survey shows actual results.
+
+The first firing session and the week’s production are resolved. The survey will distinguish assembled rifles from accepted ones and separate Galahad’s personal contribution from the rate the staff can sustain. I’m also recording the resignation date and final pay due, so his Collegium salary doesn’t continue automatically.
+
+## 563 - Assistant - A week at the works
+
+The first controlled firing session takes place within the establishment, allowing you to remain on the grounds. All three development rifles complete it successfully. The inspection staff record the results; Ordel reads the return twice before setting it beside your revised schedule.
+
+“Then we have something to manufacture.”
+
+You spend the following week making those words increasingly inadequate to describe what is happening.
+
+Every day produces another improvement. You follow a delay back to its cause, change the arrangement responsible for it, then watch to see whether the improvement survives contact with ordinary working hands. You revise the allocation of work as you learn who is careful, who is quick, who asks useful questions and who needs a demonstration rather than another paragraph.
+
+The additional equipment arrives on the twentieth. You incorporate what helps, while preventing unnecessary purchases from proceeding merely because they appeared on the first list.
+
+Your own labour fills the hours between everyone else’s.
+
+Ordel leaves with work arranged for the morning and returns to find much of it completed, with a new set of notes explaining what he should examine next. You keep making rifles while considering staffing, expenditure and the next obstruction to production. Where other people must hold a thought aside to concentrate upon their hands, you continue both tasks together.
+
+The night guards become accustomed to a quiet request for food and enough money to buy something for themselves. Warm bread, meat wrapped in paper, a pot of stew carried carefully through the yard: small interruptions in nights that would otherwise consist of lamps, metal and ink.
+
+Your constant calming presence makes approaching you easier. The gifts give that ease something ordinary and understandable to attach itself to. Men begin checking whether you need anything before making their own arrangements. They speak of you more warmly when the watch changes. Familiarity and gratitude take root, without making every man an unquestioning creature of your will.
+
+Twice, you sit with your back against the office wall and close your eyes. The brief periods of shallow rest interrupt your work without becoming a nightly requirement. When you rise, your attention is clear. The hours continue to belong to you in a way they cannot belong to the ordinary people around you.
+
+Your one visit beyond the grounds comes on the twentieth.
+
+At the Collegium, your belongings are inventoried and packed for Serravonne. Your private papers travel sealed, their contents excluded from the public inventory. The two recovered collections and wrapped greatsword are included; institutional books and equipment are returned rather than treated as personal property. Your working design portfolio remains with you.
+
+The Headmaster receives you with Savel present.
+
+Savel listens to your explanation without appearing surprised. When you describe the work now occupying you, he briefly looks towards the Headmaster.
+
+“We were never going to keep him at a teaching desk indefinitely.”
+
+The Headmaster folds his hands on the table.
+
+“No. But I am glad this is a departure in friendship.”
+
+The **500 lorrats** are entered as a donation from House Orsival. Your offer of future consultation and occasional unpaid teaching is recorded separately from employment; there is no attempt to turn your generosity into a compulsory timetable.
+
+“We will bring you questions worth your attention,” Savel says. “And when you have an afternoon to spare, I imagine we shall have no difficulty filling the lecture room.”
+
+Your salaried appointment ends that day. The bursar records **40 lorrats of final earned pay**, due on the first of next month; the ordinary monthly salary will not continue afterwards. Your room is released once the removal is complete.
+
+Packing and transport cost **18 lorrats**. By the twenty-second, a receipt from the estate confirms delivery to Corva, with the cases and seals checked on arrival. The household knows that you reached Auvrienne safely and are occupied at the works.
+
+Then the workshop takes almost all your attention again.
+
+Serault carries your recommendation about predominantly armour-piercing ammunition to the Marshal. The reply authorises an assessment of availability, cost and suitability alongside the rifle trials. It does not yet order a majority armour-piercing issue. The ammunition officers are to return a definite supply proposal before any border shipment; the existing development allocation is not silently turned into an unlimited ammunition budget.
+
+By the twenty-fifth, your survey can use records rather than estimates alone.
+
+**One hundred and twenty trial-shipment rifles have been assembled during the week.** With the original three development examples, the workshop holds **123 rifles** in total.
+
+Of the trial batch, **96 have completed the agreed workshop acceptance checks and controlled firing**. Eighteen await their inspection and firing slot. Six have been returned for correction after inspection; none has been written off. The original three remain development examples, separately recorded.
+
+Ordel brings you the sheets himself.
+
+“There are ninety-six I will sign for now,” he says. “The others are marked exactly as they stand.”
+
+He places the return beside the original twelve-week allowance and the four-to-six-week revision.
+
+For a moment he simply looks at all three.
+
+“We should keep those,” he says. “Otherwise nobody will believe what we thought was reasonable.”
+
+Your survey gives the operation a clearer shape:
+
+| Measure at the close of 25/10 | Recorded result |
+|---|---|
+| Trial rifles assembled during the week | **120** |
+| Accepted trial rifles | **96** |
+| Awaiting inspection and controlled firing | **18** |
+| Returned for correction; not scrapped | **6** |
+| Separate development examples | **3** |
+| Trial rifles accepted during the last three days | **16, 24 and 32** |
+| Staff-only sustainable assembly estimate | **10–12 rifles per normal working day**, still to be demonstrated over a full week without your production labour |
+| Immediate constraint | Inspection and firing capacity catching up with assembly |
+| Revised completion forecast | **All 120 accepted by 27/10**, if the corrections and remaining tests pass |
+
+Your contribution accounts for a substantial part of the difference between the staff’s ordinary capacity and the output now recorded. The improvements you have taught them remain valuable when you step away; your personal speed is an additional advantage rather than something the accounts pretend every worker possesses.
+
+The financial survey records **9,395 lorrats in programme costs to date**, including equipment and adaptation, consumed stock, outside work, testing, your paid licence fee and accrued remuneration. A further **950** is committed to outstanding orders and arrangements. That leaves **7,655 of the approved ceiling uncommitted**, before the remaining work is costed.
+
+Those figures include the resources consumed, not merely the invoices already paid. Nor do they convert the entire unused allocation into savings or a personal bonus.
+
+Serault has already sent progress returns to the Marshal. The reply now on your desk requests a controlled demonstration once the shipment is accepted, so that Vaucerin and Darscelet can submit their assessment to the Margrave. The promised advisory review is approaching considerably sooner than anyone planned.
+
+Beside that letter lie the six correction reports and the inspection schedule.
+
+The work has ceased to be a remarkable claim made in an audience chamber. Ninety-six accepted rifles now support it.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 years, 3 months; physically mature, approximately 3 metres tall.  
+**Date:** 25/10/0068 AC43 — evening, Auvrienne military workshop.  
+**Reputation:** Exceptional production results reported to the Marshal; Collegium relationship continues through patronage and voluntary consultation. Royal Advisor review approaching, appointment not yet granted.  
+**Weapons (Equipped):** None. Greatsword delivered to the estate. Workshop holds **123 rifles: 3 development examples, 96 accepted trial rifles, 18 awaiting testing, 6 requiring correction**.  
+**Armor/Clothing (Equipped):** Working shirt, dark trousers and leather boots; coat kept in the office. Uninjured and mentally clear; two brief periods of shallow rest during the week.  
+**Gear/Inventory:** Working designs and commission papers at the workshop. Former Collegium-room belongings delivered to the estate; salaried appointment ended **20/10**. Production survey complete; ammunition recommendation under assessment.  
+**Currency:** **561 personal lorrats**: 1,091 − 500 donation − 18 removal − 12 food and guards’ gratuities. **1,176 household lorrats**, unchanged. **40 final Collegium pay due 01/11**; commission pay continues at **150/month**. Programme: **9,395 costs recorded + 950 outstanding commitments + 7,655 uncommitted = 18,000**; these are budget figures, not your personal cash.
+
+
+## 564 - User - Second production week and dispatch request
+
+I spend the next week continuing to optimise but allowing Ordel to take the reins more so I can observe how the operation functions without my direct presence. I also ensure production continues as we are still within budget and time constraints and ensure we exceed the required 120 firearms with production aimed to temporarily halt at the end of the second week due to completed margins. I ensure we have well over 120 firearms ready, finished and tested all stored and organised and ready to be sent directly to the frontline. I set aside several for my estate and family and mark them off with Serault stating that due to the massive budgetary savings and the fact we over exceeded production allowing me to keep 20 would keep the inventory well over best case production estimates. I however am only requisitioning 5 for my House. Then I prepare a full report and request a meeting with the Marshal to organise transportation to the border for myself and the weapons.
+
+## OOC progress before exchange565
+
+I’ll resolve the second week under Ordel’s management, reconcile the extra rifles and household allocation with Serault, and prepare the final production report and meeting request. I’ll also apply the first-of-month payments as the story crosses into Month 11.
+
+## 565 - Assistant - The completed batch
+
+The change is most apparent on the first morning you let a question reach Ordel before answering it yourself.
+
+He looks towards your office, pauses, then turns back to the man waiting beside him.
+
+“Show me the return.”
+
+You listen without intervening. He makes the decision, records it, and work resumes.
+
+Over the next several days, you give him more room. Instructions pass through him. He rearranges a morning’s assignments when one section gets ahead of another, brings you the questions that genuinely require your judgment, and handles the rest himself. You continue refining the operation, but its daily movement increasingly belongs to the people who must sustain it.
+
+The remaining eighteen rifles pass through inspection and controlled firing. The six returned examples are corrected and retested. By the twenty-seventh, **the original 120-rifle requirement is complete**.
+
+Production continues.
+
+Serault obtains written authority from the Marshal to extend this trial batch within the existing overall allocation. Your instruction to make the additional rifles is recorded as permission for this defined extension; ownership of your design and the terms for future general manufacture remain unchanged. There is no assumption that one successful batch gives the state unrestricted rights to everything you may invent.
+
+The accounts staff also revise the internal allocations so that the additional materials are properly funded from the unused provision. Nothing requires the original purchasing estimates to remain fixed while actual needs change.
+
+You step back from assembling the production rifles yourself and observe what remains.
+
+The result is slower than a workshop with you working through every night, but far stronger than the establishment’s original expectations. Across six production days, the staff complete **72 additional rifles**. The remaining time is used to clear testing, records and packing. Ordel keeps the work moving while you examine its results rather than supplying its missing labour.
+
+On the evening of the second, the final inspection return reaches your table.
+
+**192 finished and accepted trial rifles. Three separate development examples. No unfinished rifles and no outstanding correction queue.**
+
+The additional seventy-two have demonstrated a staff-run rate of **twelve completed rifles per production day** over this batch. That rate now has observed work behind it. Continued supplies, maintenance and a suitable inspection schedule remain part of sustaining it, but your personal assembly work is no longer concealed inside the figure.
+
+Ordel puts down his pencil.
+
+“We can keep doing this,” he says. “I know who needs what now. And they know where to bring a problem before it holds up everyone behind them.”
+
+At your instruction, production pauses. Machinery is left in order, remaining stock counted, and the completed weapons packed against their inventory entries. The staff remain assigned; pausing manufacture does not dismiss them or stop their pay.
+
+When you discuss the household rifles with Serault, he follows your arithmetic on the return.
+
+“Twenty would still leave us above the original shipment, yes.”
+
+He draws a line beneath the total.
+
+“Five requested. I’ll have those entered properly.”
+
+The Marshal approves the transfer of **five accepted rifles to House Orsival**, and Serault records them individually. They are packed separately for the estate, ready for delivery. You do not take twenty, and the three development examples remain workshop property for further study.
+
+That leaves **187 accepted rifles packed for the military shipment**—**67 more than the original requirement**, even after the household allocation.
+
+Your final report sets the results beside the undertaking you were given:
+
+| Item | Position at the close of 02/11/0068 |
+|---|---:|
+| Original required shipment | 120 rifles |
+| Finished, tested and accepted trial rifles | **192** |
+| Allocated to House Orsival; delivery pending | **5** |
+| Packed for military dispatch | **187** |
+| Separate development examples retained | **3** |
+| Total rifles accounted for | **195** |
+| Staff-run output demonstrated | **12 per production day across the additional batch** |
+| Manufacture | Temporarily halted; staff and equipment retained |
+
+The financial return is equally explicit.
+
+| Programme account | Lorrats |
+|---|---:|
+| Equipment and workshop adaptation | 5,650 |
+| Materials and outside work | 5,400 |
+| Testing, handling and support | 740 |
+| Your paid design licence | 900 |
+| Assigned staff payroll charged through today | 450 |
+| Your commission remuneration charged through today | 80 |
+| **Costs recognised to date** | **13,220** |
+| Outstanding commitments | 180 |
+| **Uncommitted provision** | **4,600** |
+| **Approved total** | **18,000** |
+
+The uncommitted provision remains available for the demonstration, further authorised costs and closing the undertaking. It is not credited to you as a personal reward. Nor is the equipment’s value discarded merely because this batch is finished: the state now has a prepared workshop capable of repeating the work.
+
+The ammunition return confirms that a predominantly armour-piercing allocation can be supported for this limited shipment from military stocks. Final quantities and release will be settled with the receiving formation. No ammunition has yet left for the border.
+
+You submit the report and request the meeting to arrange your own passage and the weapons’ transport. Serault sends the inventory, accounts and acceptance records with it.
+
+The answer comes back before the office closes:
+
+> **Lord Orsival is to attend the Marshal at nine tomorrow morning. Lieutenant-General Darscelet will be present. Bring the final dispatch return and demonstration requirements. Transport and the receiving formation will be settled at the meeting.**
+
+The crates remain secured in the stores. You have delivered considerably more than was requested, within the approved budget, and shown that the workshop can function while you stand back and watch.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 years, 3 months; physically mature, approximately 3 metres tall.  
+**Date:** 02/11/0068 AC43 — evening, Auvrienne military workshop.  
+**Reputation:** Trial-production requirement exceeded; independently functioning staff operation demonstrated. Meeting with the Marshal and Lieutenant-General arranged for **03/11 at nine**. Royal Advisor appointment remains prospective.  
+**Weapons (Equipped):** None. **187 accepted rifles for military dispatch; 5 approved for House Orsival, awaiting delivery; 3 development examples retained at the works.** Greatsword at the estate.  
+**Armor/Clothing (Equipped):** Working shirt, dark trousers and leather boots; coat in the office. Uninjured and fully functional.  
+**Gear/Inventory:** Completed production report, acceptance records, dispatch inventory and accounts. Manufacture temporarily paused; transport and demonstration arrangements pending tomorrow’s meeting.  
+**Currency:** **659 personal lorrats**: 561 + **70 commission pay and 40 final Collegium pay received on 01/11** − 12 food and gratuities. **1,160 household lorrats** after 14 caretaker wages and 2 telephone rental (**148 reserved / 1,012 uncommitted**). Programme: **13,220 recognised costs + 180 commitments + 4,600 uncommitted = 18,000**. Commission pay continues at **150/month**; Collegium payroll is now closed.

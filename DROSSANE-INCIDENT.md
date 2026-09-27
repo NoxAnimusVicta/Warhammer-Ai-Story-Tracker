@@ -1,6 +1,6 @@
 # Drossane guesthouse incident and subsequent cell
 
-**Incident: 18/01/0068 AC43, day 87. Updated through 11/10/0068 AC43, exchange 543.** The later Valdrec contact and restricted palace briefings supersede the original pending-follow-up status.
+**Incident: 18/01/0068 AC43, day 87. Reviewed through 02/11/0068 AC43, exchange 565.** The later Valdrec contact and restricted palace briefings supersede the original pending-follow-up status.
 
 ## What happened
 
@@ -25,6 +25,7 @@ Galahad dismissed them publicly and returned to the scholars, saying, “Foolish
 | Five scholars | Armed apparent officers confronted them; Galahad intervened, the men became distressed and disarmed, and he later offered the joke explanation. They did not receive the private mental projection or learn the Caldrienne attribution and cell instructions automatically. They were shaken and uninjured, and later completed the expedition without recorded injury. |
 | Street witnesses | The visible confrontation, distress, awkward laughter and public parting. Galahad's calming influence eased the atmosphere without erasing what they saw or guaranteeing belief in the cover. |
 | Veyrasse senior leadership | The Margrave, Marshal and Lieutenant-General heard Galahad’s firsthand account on 11/10/0068. They know the reported attack and cell, not automatically the memory searches, family threats, projection or private Order. Broader subversion is his claim, not independently verified national penetration. |
+| Corva and Veskan | Privately warned during the home visit that Caldrienne might know of them; no imminent attack was claimed. They were asked to prepare discreetly. They were not given the cell identities, private methods or full palace account. |
 | Other officials and governments | General Chancery staff received civil findings and a restricted-audience request, not the private intelligence detail. No public attribution, foreign-government response or completed investigation has been established. |
 
 The men were not genuine Karsenne officers carrying out official orders. “Old friends” is a cover, not newly established shared history. Varcet responded with dry humour; Tessier requested warning before further such encounters; Sarnot checked her companions. None publicly challenged Galahad for the full account, and no automatic trust rupture or unquestioning acceptance is recorded.
@@ -39,6 +40,6 @@ Galahad told Darscelet, Vaucerin and Odrienne that the cell was loyal, running d
 
 ## Accounting and outstanding consequences
 
-The original confrontation caused no deaths, shots, captures, confiscations or expenditure. Its unique event ID remains `drossane-0068-01-18`; later follow-up does not post a duplicate loss. Personal and institutional balances have since changed through the completed journey and approved closeout, as recorded in expedition-accounts.json; there are no unpaid Drossane guesthouse bills now.
+The original confrontation caused no deaths, shots, captures, confiscations or expenditure. Its unique event ID remains `drossane-0068-01-18`; later follow-up does not post a duplicate loss. Personal and institutional balances have since changed through the completed journey and approved closeout, as recorded historically in expedition-accounts.json and currently in commission-accounts.json; there are no unpaid Drossane guesthouse bills now.
 
-Future cell reports, continued loyalty, wider penetration, government verification and any public reaction remain unresolved. The Hunter assembly stayed at the assay office. No private manuscript leak, acquired device, diplomatic rupture or exceptional demographic loss has been enacted.
+No further cell contact, hostile attack or new verification was established during the home visit and production weeks. Future cell reports, continued loyalty, wider penetration, government verification and any public reaction remain unresolved. The Hunter assembly stayed at the assay office. No private manuscript leak, acquired device, diplomatic rupture or exceptional demographic loss has been enacted.

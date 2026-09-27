@@ -75,7 +75,7 @@ Read related passages together when assessing lore implications. Distinguish exp
 
 ## Elapsed-year development
 
-Read WORLD-YEAR68.md and world-year68.json. Revision 68 establishes dated background developments across all 43 polities, eight theatres and ongoing local institutions. Earlier unchanged-world statements are superseded. Cevrane’s authorised second pumping stage is operational; remaining extensions are not. Dorlac holds an unpaid 60-lorrat receivable, not added to cash. A meaningful time skip requires NPC and institutional outcomes even outside witnessed scenes, while preserving player agency, report delays and already completed travel. Current inventory movements apply once from preserved baselines; ordinary programme costs are already inside the economic model.
+Read WORLD-YEAR68.md and world-year68.json. Revision 68 establishes dated background developments across all 43 polities, eight theatres and ongoing local institutions. Earlier unchanged-world statements are superseded. Cevrane’s authorised second pumping stage is operational; remaining extensions are not. Dorlac’s historical 60-lorrat receivable was relinquished for goodwill during the home visit; the current accounts record its resolution without a cash receipt. A meaningful time skip requires NPC and institutional outcomes even outside witnessed scenes, while preserving player agency, report delays and already completed travel. Current inventory movements apply once from preserved baselines; ordinary programme costs are already inside the economic model.
 
 ## National capacity returns
 
@@ -93,7 +93,7 @@ Revision39 removes redundant local map additions and provides real northern/sout
 
 ## Current checkpoint
 
-Read CURRENT-CONTINUITY.md, EXPEDITION-RETURN.md and ROYAL-COMMISSION.md: 11/10/0068 AC43, day 355 evening, palace audience concluding after Galahad accepted the signed royal technical commission (exchange 543). Standing Royal Advisor review follows produced rifle trials and controlled demonstration. Facility preparation, costed allocation, formal terms and remuneration are pending. Approximately one week at Serravonne is planned; the train is held, not paid or travelled. Personal funds 1,197; estate 314; expedition closed with zero held. Salary paid through 01/10, next 01/11. He is mature at about 3 m, about three years three months old, with a short white beard.
+Read CURRENT-CONTINUITY.md, ROYAL-COMMISSION.md, ESTATE-ACCOUNTS.md, commission-accounts.json and the exact transcript through exchange 565. Current scene: 02/11/0068 AC43 evening at the allocated Auvrienne military works. Production paused with 195 rifles: 187 military awaiting dispatch, five House rifles awaiting delivery and three retained development rifles. Meeting 03/11 at nine with the Marshal and Darscelet. Personal 659; household 1,160 (148 reserved, 1,012 uncommitted). State ceiling 18,000 = 13,220 cost + 180 commitments + 4,600 headroom. Collegium employment ended 20/10; final pay received 01/11, commission 150/month continues. Royal Advisor is not yet appointed. No dispatch, demonstration or new war has occurred.
 
 The private handover controls concealed characterisation, founder records and physiology calibration. Preserve player agency and practical uncertainty. Physical advantages constrain dice outcomes. No political coup, royal death or Hunter intervention is predetermined.
 

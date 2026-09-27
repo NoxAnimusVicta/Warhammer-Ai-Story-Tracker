@@ -1,6 +1,6 @@
 # Malaspina — developments through the expedition year
 
-**As of 11/10/0068 AC43.** Period: 22/10/0067 AC43–11/10/0068 AC43. The scene remains at the palace after exchange 543.
+**As of 11/10/0068 AC43.** Period: 22/10/0067 AC43–11/10/0068 AC43. Historical checkpoint after exchange 543; for the present scene and resolved commitments read CURRENT-CONTINUITY.md and ROYAL-COMMISSION.md.
 
 ## Authority and knowledge
 
@@ -615,7 +615,7 @@ Industry and service changes above are narrower than a full step on the 1–5 na
 
 No material net change in the rounded military inventory is established; the specific civilian, diplomatic or maintenance outcome is recorded above.
 
-## Local institutions and outstanding accounts
+## Local institutions and accounts at 11/10
 
 ### Pumping works: authorised stage completed
 
@@ -665,12 +665,12 @@ Corva and Lucette completed the repairs and first furniture purchases already re
 
 This household statement has already been received; do not credit the surplus or charge the repairs again.
 
-## Still unresolved
+## Unresolved at the historical 11/10 checkpoint
 
 Galahad has not received a new royal salary, production grant, equipped factory, permanent advisory office or military command. The Marshal’s readiness report remains due for the planned return around 18/10/0068. Neither weapons proposal has been built. The Order remains six practitioners; the six Caldrienne agents retain the limited corroboration already recorded. No new cohort revelation, Tyranid arrival or major culling is enacted.
 
 Exact casualties, surviving private archives, secret motivations and local rumours remain uncertain where the record says so. This review supplies background developments; it does not certify every institution’s report as truthful or insert unplayed conversations into the transcript.
 
-## Next review
+## Subsequent review and maintenance
 
-Carry forward each event ID once. Preserve baseline and this review. At the next meaningful time skip resolve dated commitments, active disputes, seasonal infrastructure and NPC business before updating totals. Use a new occurrence/report date, distinguish new delivery from repair, and reconcile exceptional deaths, captures, migration, costs and price shocks across affected records. Do not simply advance the review date on unchanged prose.
+The 02/11 current references record the executed royal programme, completed rifle run, resigned Collegium employment and extinguished Dorlac receivable. The historical statements above are not current pending tasks. Carry forward each event ID once. Preserve baseline and this review. At the next meaningful time skip resolve dated commitments, active disputes, seasonal infrastructure and NPC business before updating totals. Use a new occurrence/report date, distinguish new delivery from repair, and reconcile exceptional deaths, captures, migration, costs and price shocks across affected records. Do not simply advance the review date on unchanged prose.

@@ -1,8 +1,8 @@
 # Malaspina Economic Reference
 
-Price review: **11/10/0068 AC43**. Year 67 AC43 reference bands remain the baseline; no blanket new-year inflation is enacted. Apply recorded regional conditions and actual invoices, not automatic repricing.
+Price review: **02/11/0068 AC43**. Year 67 AC43 reference bands remain the baseline; no blanket new-year inflation is enacted. Apply recorded regional conditions and actual invoices, not automatic repricing.
 
-Version 1.7 · Year 67 price baseline, reviewed 11/10/0068 AC43 · Capital and estate-enterprise estimates recorded 27 September 2026
+Version 1.8 · Year 67 price baseline, reviewed 02/11/0068 AC43 · Capital and estate-enterprise estimates recorded 27 September 2026
 
 Additional references: [capital purchases](#8-capital-purchases-and-industrial-projects), [estate crop and tenancy planning](#9-orsival-estate-production-and-tenant-purchases), and [shelved brewery-and-orchard-drinks proposal](#10-orchard-drinks-and-brewery-feasibility--shelved-proposal). These preserve the economic discussion without enacting a business, purchases, harvests or changes to balances.
 
@@ -211,20 +211,20 @@ Veyrasse's census-baseline national return of **205 lorrat-equivalents per resid
 
 Prices are fictional reference bands, not guaranteed quotations. Identify quantity, unit, quality, place and transaction stage; record what labour, transport and taxes are included. Keep estimates, allocations, invoices and payments distinct. Current household accounts are recorded separately in [ESTATE-ACCOUNTS.md](ESTATE-ACCOUNTS.md).
 
-Version 1.7 retains the existing price bands, event-led revisions and calendar, and adds dated capital and estate-enterprise planning references. The replacement accounting passages in transcript439 establish the historical estate-pricing settlement. CURRENT-CONTINUITY.md and expedition-accounts.json govern the current balance.
+Version 1.8 retains the existing price bands, event-led revisions and calendar, and adds dated capital and estate-enterprise planning references. The replacement accounting passages in transcript439 establish the historical estate-pricing settlement. CURRENT-CONTINUITY.md and expedition-accounts.json govern the current balance.
 
 
 ## Expedition travel calibration — Year 67 basis, retained at return
 
 [The expedition budget](EXPEDITION-BUDGET.md) introduces explicit working rates for previously unspecified services: sea passage 0.007 lorrat per berth-km including board and lodging; professional twin room 0.80/night, single 0.60, large suitable room 1.20; meals ashore 0.75/person/day; two road vehicles and drivers 24/day plus 0.04/km combined distance/fuel; local full-day hire 12 including driver/fuel. These are route-budget calibrations, not universal tariffs or evidence that future invoices are paid. Rail uses the existing 0.008–0.018 band, at 0.014 per passenger-km. Do not add ship meals twice, charge the opening passage twice, or deduct salaries from operations.
 
-Galahad’s established salary is 60 per pay month: the exact story records 360 over six months and a later payment 60. Five travelling scholars retain 35 each. The Collegium continues these ordinary wages while they conduct expedition work. The professional engineer 45–85 and rare specialist/master 70–120+ reference bands remain unchanged; personal pay is an established contract, not automatically whichever generic band is highest. No pay rise or extra salary receipt occurs in this correction.
+During the expedition Galahad’s established salary was 60 per pay month: the exact story records 360 over six months and a later payment 60. Five travelling scholars retain 35 each. The Collegium continued those wages during expedition service. Galahad resigned on 20/10/0068; his final 40 was paid on 01/11. His executed royal commission pays 150/month from 17/10, on the first for the preceding month; 70 was paid on 01/11. The professional engineer 45–85 and rare specialist/master 70–120+ reference bands remain unchanged; personal pay is an established contract, not automatically whichever generic band is highest. No pay rise or extra salary receipt occurs in this correction.
 
 ## 8. Capital purchases and industrial projects
 
 **Price basis: 11/10/0068 AC43, ordinary Veyrassian conditions.** These are newly calibrated fictional reference bands from the economic discussion, not quotations or completed purchases. Apply the same dated market-change rules as everyday goods. No universal Terran currency conversion is implied.
 
-**1,000 lorrats = 40 skilled-worker pay months = 3⅓ years of gross skilled wages, or 16⅔ months of Galahad's current 60-lorrat salary.** This is gross income, not disposable savings. The current accounts hold 1,197 personal cash and 314 separate estate cash; Dorlac's 60 receivable is unpaid. Spending 1,000 personally would leave 197, with estate funds still separate. Land and buildings are additional assets, not included in cash. No royal programme grant has been approved or received.
+**1,000 lorrats = 40 skilled-worker pay months = 3⅓ years of gross skilled wages, or 6⅔ months of Galahad’s current 150-lorrat commission pay.** This is gross income, not disposable savings. Current personal cash is 659; separate household funds are 1,160, including 148 reserved and 1,012 uncommitted. Dorlac’s former 60 receivable was relinquished. The state’s 18,000 programme ceiling is not personally spendable. Land and buildings are assets outside these cash balances. The 1,000 household contribution has already been paid once.
 
 ### Property and small businesses
 
@@ -271,7 +271,7 @@ These project bands are broad planning references; obtain itemised site estimate
 | Medium tank | 7,000–15,000 |
 | Heavy tank | 15,000–35,000 |
 
-These exclude a new development programme, factory construction, crew, continuing fuel and substantial ammunition stocks. Price is not automatic availability, permission to possess military equipment or an export authorisation. The Auvrienne 762 remains an unbuilt design with no settled production quotation.
+These exclude a new development programme, factory construction, crew, continuing fuel and substantial ammunition stocks. Price is not automatic availability, permission to possess military equipment or an export authorisation. The Auvrienne 762 pilot programme now has a specific actual cost return in ROYAL-COMMISSION.md. Its equipment, development and payroll costs must not be mistaken for a repeat-production unit tariff.
 
 Conventional light-to-medium tank planning: **10,000–25,000** for a prototype using an existing capable industrial workshop and bought-in specialist components; **15,000–40,000** to establish a suitable modest workshop and produce that prototype with substantial outsourcing; **100,000–300,000+** to establish a dedicated small production operation before sustained production costs. These are alternative scopes, not cumulative charges. A prototype concentrates development costs into one vehicle. Galahad's abilities may reduce labour/design costs when actually applied, but do not make equipment and outside supplies free. An existing state arsenal avoids purchasing the entire capability personally.
 
@@ -416,7 +416,7 @@ Pressure-rated sparkling packaging needs its own specification and price. The in
 
 Assumes shared premises/distribution and contract malting, not an estate maltings. Additional barley, malting, hops, yeast, fuel and labour need a separate beer operating budget before any profit is asserted. The orchard's 586 surplus contains no beer contribution.
 
-The orchard-only provision of 4,810 exceeds current personal cash of 1,197. Simple recovery of that funding provision at 586/year is roughly eight years after retaining the modelled replacement reserve, before financing or ramp-up effects. This is a comparison, not a discounted investment appraisal or promise. Smaller production, using only part of the harvest, or paid processing elsewhere remain possible options; none is commissioned. The business remains **shelved**.
+The orchard-only provision of 4,810 exceeds current personal cash of 659. Simple recovery of that funding provision at 586/year is roughly eight years after retaining the modelled replacement reserve, before financing or ramp-up effects. This is a comparison, not a discounted investment appraisal or promise. Smaller production, using only part of the harvest, or paid processing elsewhere remain possible options; none is commissioned. The business remains **shelved**.
 
 ### Technical sources and limits
 
@@ -427,3 +427,10 @@ Real-world sources support process assumptions only; they do not supply lorrat p
 - [Apple pressing service yield example](https://wattkastapple.fi/en/musteri/): fruit-to-juice comparison, not a guaranteed finished-drink yield.
 - [Washington State University perry research](https://cider.wsu.edu/perry/): dessert-pear suitability and cultivar differences.
 - [Penn State private-water-system flood guidance](https://extension.psu.edu/post-flood-drinking-water-safety-for-private-water-systems): groundwater protection/testing considerations.
+
+
+## Recorded post-return quotations and contracts — 02/11/0068 review
+
+These are enacted local transactions, not replacement universal tariffs. Estate telephone installation/service through Month 10 cost **48**; continuing rental is **two/month plus toll calls**. Two trained adult watchhounds cost **60**, equipment **eight**; a further twelve is reserved for upkeep, not already spent. Minor tenant drainage and roof repairs cost **twelve**. Removal of personal Collegium belongings cost **eighteen**. The original 56-hectare split and proposed crop/drinks models remain unchanged; a visit to tenants did not turn planning yields into a surveyed harvest.
+
+Commission remuneration is **150/month**, licence **900 paid**, and state programme ceiling **18,000**. The completed pilot run recognises **13,220** cost, with **180** additional commitments and **4,600** headroom. These include development, equipment and accrued labour; dividing the whole by rifle count would not establish a normal factory unit price. No blanket price-index rise or national technology gain is introduced. [Current personal/household accounts](ESTATE-ACCOUNTS.md) and [programme accounts](commission-accounts.json) govern payments.

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 65,
+  "revision": 69,
   "baseline": {
     "label": "Year 67 AC43 \u2014 21/10/0067 AC43",
     "scene": "Auvrienne Collegium, evening before departure",
@@ -39,7 +39,7 @@
     "replaces_temporary_modifier",
     "source"
   ],
-  "last_review_date": "11/10/0068 AC43",
+  "last_review_date": "02/11/0068 AC43",
   "reviews": [
     {
       "dates": [
@@ -64,6 +64,12 @@
         "11/10/0068 AC43"
       ],
       "finding": "Return review retains dated regional bands; actual invoices and estate receipts are settled separately. No automatic inflation or fabricated national Year 68 treasury return. Royal allocation remains pending."
+    },
+    {
+      "dates": [
+        "02/11/0068 AC43"
+      ],
+      "finding": "Post-return review retains regional/category indices. Specific telephone, hound, removal and commission costs are recorded in ECONOMIC-REFERENCE.md and commission-accounts.json. No new exceptional price shock or broad inflation is established; the prior pending royal allocation is now executed."
     }
   ]
 }
