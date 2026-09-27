@@ -1,0 +1,1131 @@
+{
+  "schema": 1,
+  "revision": 71,
+  "opening_date": "27/08/0067 AC43",
+  "as_of": "02/11/0068 AC43",
+  "elapsed_days": 431,
+  "basis": "Retrospective campaign estimates adopted to correct the omitted personnel review. These are rounded planning estimates tied to the existing Year 68 outcomes, not newly discovered archival musters, exact casualty lists or information automatically known to Galahad. The statistical snapshot remains 02/11; live narration has reached 05/11 and is preserved separately in the transcript.",
+  "definitions": "Standing means estimated serving personnel across active services, cadres, garrisons and obligated household troops. Additional reserves exclude all serving personnel. Authorised staffing ceilings are unknown and are not inferred from the earlier estimates. Sustainable field strength includes support personnel and is a subset of standing strength supportable away from fixed defences for about ninety days. Divided returns remain separate armies; parent and colonial holdings are not double-counted.",
+  "accounting": "Transfers from active service enter reserves once; reserve transfers into active service leave reserves once. Other departures include retirement, discharge, permanent incapacity, desertion and death, without pretending to know the split. Reserve eligibility losses include age, incapacity, emigration and death. Ordinary deaths are already inside demographic mortality; no additional population deduction is applied. No general mobilisation or new war is introduced. Existing personnel budgets cover these modest movements; no second cost is booked.",
+  "method": "Each jurisdiction has an explicit net adjustment and reason. Gross turnover is a planning assumption over the full 431-day interval: normally 5.5% of opening active strength transfers to reserve and 2.5% leaves otherwise; disrupted Veylac, Ossavren and Haldrevik use 6% and 4.5%. Separately trained reserve entry is 1.5% of opening reserves. Active intake and reserve eligibility losses reconcile to the adopted closing estimates. These assumptions are not canonical demographic laws. Flows round to 100 people for large forces, 10 for small forces and 5 for Norrakai. Retain the original approximately 15% personnel uncertainty, wider for fragmented returns. Field adjustments reflect transport, fixed duties and training, not a universal manpower multiplier. Preserve this ledger and reconcile a later dated return rather than compounding it or silently relabelling its date.",
+  "returns": [
+    {
+      "id": "veldrassen",
+      "name": "Veldrassen",
+      "source_review": "review68-veldrassen",
+      "reason": "Provincial replacement intakes slightly exceed departures; depot coordination supports a modest increase without unifying provincial commands.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 1742000,
+        "new_entries": 151400,
+        "reserve_to_active": 0,
+        "to_reserve": 95800,
+        "other_departures": 43600,
+        "closing": 1754000
+      },
+      "additional_reserves": {
+        "opening": 5025000,
+        "direct_training": 75400,
+        "eligibility_losses": 149200,
+        "closing": 5047000
+      },
+      "field": {
+        "previous_review": 592000,
+        "closing": 598000,
+        "reason": "Provincial replacement intakes slightly exceed departures; depot coordination supports a modest increase without unifying provincial commands."
+      }
+    },
+    {
+      "id": "ostrevain",
+      "name": "Ostrevain",
+      "source_review": "review68-ostrevain",
+      "reason": "Replacement recruitment modestly exceeds discharge; transport shortages constrain how many additional personnel can deploy.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 1515000,
+        "new_entries": 129200,
+        "reserve_to_active": 0,
+        "to_reserve": 83300,
+        "other_departures": 37900,
+        "closing": 1523000
+      },
+      "additional_reserves": {
+        "opening": 3881000,
+        "direct_training": 58200,
+        "eligibility_losses": 123500,
+        "closing": 3899000
+      },
+      "field": {
+        "previous_review": 485000,
+        "closing": 486000,
+        "reason": "Replacement recruitment modestly exceeds discharge; transport shortages constrain how many additional personnel can deploy."
+      }
+    },
+    {
+      "id": "rovessara",
+      "name": "Rovessara",
+      "source_review": "review68-rovessara",
+      "reason": "Naval and technical intakes support escort replacement and yard rotations; commercial labour competition restrains expansion.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 487000,
+        "new_entries": 43500,
+        "reserve_to_active": 0,
+        "to_reserve": 26800,
+        "other_departures": 12200,
+        "closing": 491500
+      },
+      "additional_reserves": {
+        "opening": 1546000,
+        "direct_training": 23200,
+        "eligibility_losses": 42000,
+        "closing": 1554000
+      },
+      "field": {
+        "previous_review": 156000,
+        "closing": 158000,
+        "reason": "Naval and technical intakes support escort replacement and yard rotations; commercial labour competition restrains expansion."
+      }
+    },
+    {
+      "id": "brannervaux",
+      "name": "Brannervaux",
+      "source_review": "review68-brannervaux",
+      "reason": "Routine discharge slightly exceeds replacement intake; the water compact improves predictability without enlarging the federal army.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 361000,
+        "new_entries": 27400,
+        "reserve_to_active": 0,
+        "to_reserve": 19900,
+        "other_departures": 9000,
+        "closing": 359500
+      },
+      "additional_reserves": {
+        "opening": 1012000,
+        "direct_training": 15200,
+        "eligibility_losses": 30600,
+        "closing": 1016500
+      },
+      "field": {
+        "previous_review": 94000,
+        "closing": 94000,
+        "reason": "Routine discharge slightly exceeds replacement intake; the water compact improves predictability without enlarging the federal army."
+      }
+    },
+    {
+      "id": "cervaud",
+      "name": "Cervaud",
+      "source_review": "review68-cervaud",
+      "reason": "Shorter reserve rotations and harvest labour needs reduce active commitments while returning trained people to the reserve.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 448000,
+        "new_entries": 31300,
+        "reserve_to_active": 0,
+        "to_reserve": 24600,
+        "other_departures": 11200,
+        "closing": 443500
+      },
+      "additional_reserves": {
+        "opening": 1003000,
+        "direct_training": 15000,
+        "eligibility_losses": 32100,
+        "closing": 1010500
+      },
+      "field": {
+        "previous_review": 175000,
+        "closing": 173500,
+        "reason": "Shorter reserve rotations and harvest labour needs reduce active commitments while returning trained people to the reserve."
+      }
+    },
+    {
+      "id": "veylac",
+      "name": "Veylac",
+      "source_review": "review68-veylac",
+      "reason": "Disruption after the recorded Hunter strike slows replacement training and eligibility retention; the reduction includes departures, not just deaths.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 329000,
+        "new_entries": 31000,
+        "reserve_to_active": 0,
+        "to_reserve": 19700,
+        "other_departures": 14800,
+        "closing": 325500
+      },
+      "additional_reserves": {
+        "opening": 793000,
+        "direct_training": 11900,
+        "eligibility_losses": 34100,
+        "closing": 790500
+      },
+      "field": {
+        "previous_review": 115000,
+        "closing": 113500,
+        "reason": "Disruption after the recorded Hunter strike slows replacement training and eligibility retention; the reduction includes departures, not just deaths."
+      }
+    },
+    {
+      "id": "ossavren",
+      "name": "Ossavren successor territories",
+      "source_review": "review68-ossavren",
+      "reason": "Fragmented recruitment and retention fail to replace all departures during internal fighting. The existing 445,000 logistical field ceiling remains controlling.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 1998000,
+        "new_entries": 187800,
+        "reserve_to_active": 0,
+        "to_reserve": 119900,
+        "other_departures": 89900,
+        "closing": 1976000
+      },
+      "additional_reserves": {
+        "opening": 4539000,
+        "direct_training": 68100,
+        "eligibility_losses": 206000,
+        "closing": 4521000
+      },
+      "field": {
+        "previous_review": 445000,
+        "closing": 445000,
+        "reason": "Fragmented recruitment and retention fail to replace all departures during internal fighting. The existing 445,000 logistical field ceiling remains controlling."
+      }
+    },
+    {
+      "id": "rovengard",
+      "name": "Rovengard",
+      "source_review": "review68-rovengard",
+      "reason": "Seasonal discharge slightly exceeds replacement intake; fixed valley commitments absorb the restored vehicle capacity.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 243000,
+        "new_entries": 18300,
+        "reserve_to_active": 0,
+        "to_reserve": 13400,
+        "other_departures": 6100,
+        "closing": 241800
+      },
+      "additional_reserves": {
+        "opening": 712000,
+        "direct_training": 10700,
+        "eligibility_losses": 21600,
+        "closing": 714500
+      },
+      "field": {
+        "previous_review": 58000,
+        "closing": 58000,
+        "reason": "Seasonal discharge slightly exceeds replacement intake; fixed valley commitments absorb the restored vehicle capacity."
+      }
+    },
+    {
+      "id": "varnesk",
+      "name": "Varnesk",
+      "source_review": "review68-varnesk",
+      "reason": "Specialist replacement training and completed maintenance support small gains while imported grain constrains expansion.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 183000,
+        "new_entries": 15600,
+        "reserve_to_active": 0,
+        "to_reserve": 10100,
+        "other_departures": 4600,
+        "closing": 183900
+      },
+      "additional_reserves": {
+        "opening": 517000,
+        "direct_training": 7800,
+        "eligibility_losses": 16100,
+        "closing": 518800
+      },
+      "field": {
+        "previous_review": 49000,
+        "closing": 49500,
+        "reason": "Specialist replacement training and completed maintenance support small gains while imported grain constrains expansion."
+      }
+    },
+    {
+      "id": "galdresk",
+      "name": "Galdresk",
+      "source_review": "review68-galdresk",
+      "reason": "Medical and support training improves retention and replacement capacity without creating a new mass army.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 112000,
+        "new_entries": 9600,
+        "reserve_to_active": 0,
+        "to_reserve": 6200,
+        "other_departures": 2800,
+        "closing": 112600
+      },
+      "additional_reserves": {
+        "opening": 253000,
+        "direct_training": 3800,
+        "eligibility_losses": 8500,
+        "closing": 254500
+      },
+      "field": {
+        "previous_review": 29000,
+        "closing": 29300,
+        "reason": "Medical and support training improves retention and replacement capacity without creating a new mass army."
+      }
+    },
+    {
+      "id": "halskert",
+      "name": "Halskert",
+      "source_review": "review68-halskert",
+      "reason": "Replacement militia cycles broadly maintain strength; slight active contraction accompanies reserve accumulation.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 130000,
+        "new_entries": 9800,
+        "reserve_to_active": 0,
+        "to_reserve": 7200,
+        "other_departures": 3200,
+        "closing": 129400
+      },
+      "additional_reserves": {
+        "opening": 413000,
+        "direct_training": 6200,
+        "eligibility_losses": 11700,
+        "closing": 414700
+      },
+      "field": {
+        "previous_review": 32000,
+        "closing": 32000,
+        "reason": "Replacement militia cycles broadly maintain strength; slight active contraction accompanies reserve accumulation."
+      }
+    },
+    {
+      "id": "tervayne",
+      "name": "Tervayne",
+      "source_review": "review68-tervayne",
+      "reason": "Naval training rotations and replacement marine machinery support a modest increase in staffed and supportable forces.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 259000,
+        "new_entries": 23000,
+        "reserve_to_active": 0,
+        "to_reserve": 14200,
+        "other_departures": 6500,
+        "closing": 261300
+      },
+      "additional_reserves": {
+        "opening": 762000,
+        "direct_training": 11400,
+        "eligibility_losses": 22400,
+        "closing": 765200
+      },
+      "field": {
+        "previous_review": 75000,
+        "closing": 76200,
+        "reason": "Naval training rotations and replacement marine machinery support a modest increase in staffed and supportable forces."
+      }
+    },
+    {
+      "id": "vardol",
+      "name": "Vardol",
+      "source_review": "review68-vardol",
+      "reason": "Regular intake maintains reinforced frontier commitments; no general mobilisation is assumed from the exercise.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 810000,
+        "new_entries": 71300,
+        "reserve_to_active": 0,
+        "to_reserve": 44600,
+        "other_departures": 20200,
+        "closing": 816500
+      },
+      "additional_reserves": {
+        "opening": 2294000,
+        "direct_training": 34400,
+        "eligibility_losses": 69000,
+        "closing": 2304000
+      },
+      "field": {
+        "previous_review": 275000,
+        "closing": 277000,
+        "reason": "Regular intake maintains reinforced frontier commitments; no general mobilisation is assumed from the exercise."
+      }
+    },
+    {
+      "id": "averholt",
+      "name": "Averholt",
+      "source_review": "review68-averholt",
+      "reason": "Precautionary staffing and improved vehicle repair slightly raise sustainable capacity without a wartime call-up.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 479000,
+        "new_entries": 42100,
+        "reserve_to_active": 0,
+        "to_reserve": 26300,
+        "other_departures": 12000,
+        "closing": 482800
+      },
+      "additional_reserves": {
+        "opening": 1453000,
+        "direct_training": 21800,
+        "eligibility_losses": 41900,
+        "closing": 1459200
+      },
+      "field": {
+        "previous_review": 144000,
+        "closing": 145500,
+        "reason": "Precautionary staffing and improved vehicle repair slightly raise sustainable capacity without a wartime call-up."
+      }
+    },
+    {
+      "id": "serevask",
+      "name": "Serevask Republic",
+      "source_review": "review68-serevask",
+      "reason": "Debt constrains active replacement; improved supply coordination offsets the small manpower reduction in field support.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 147000,
+        "new_entries": 10600,
+        "reserve_to_active": 0,
+        "to_reserve": 8100,
+        "other_departures": 3700,
+        "closing": 145800
+      },
+      "additional_reserves": {
+        "opening": 303000,
+        "direct_training": 4500,
+        "eligibility_losses": 10600,
+        "closing": 305000
+      },
+      "field": {
+        "previous_review": 37000,
+        "closing": 37300,
+        "reason": "Debt constrains active replacement; improved supply coordination offsets the small manpower reduction in field support."
+      }
+    },
+    {
+      "id": "varnelle",
+      "name": "Varnelle",
+      "source_review": "review68-varnelle",
+      "reason": "Local recruitment and more predictable supply allow small gains without pooling the basin armies.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 188000,
+        "new_entries": 16500,
+        "reserve_to_active": 0,
+        "to_reserve": 10300,
+        "other_departures": 4700,
+        "closing": 189500
+      },
+      "additional_reserves": {
+        "opening": 491000,
+        "direct_training": 7400,
+        "eligibility_losses": 14200,
+        "closing": 494500
+      },
+      "field": {
+        "previous_review": 53000,
+        "closing": 53700,
+        "reason": "Local recruitment and more predictable supply allow small gains without pooling the basin armies."
+      }
+    },
+    {
+      "id": "kelbrun",
+      "name": "Kelbrun",
+      "source_review": "review68-kelbrun",
+      "reason": "Replacement intake edges above departures; imported equipment limits field growth.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 160000,
+        "new_entries": 13400,
+        "reserve_to_active": 0,
+        "to_reserve": 8800,
+        "other_departures": 4000,
+        "closing": 160600
+      },
+      "additional_reserves": {
+        "opening": 435000,
+        "direct_training": 6500,
+        "eligibility_losses": 13000,
+        "closing": 437300
+      },
+      "field": {
+        "previous_review": 37000,
+        "closing": 37300,
+        "reason": "Replacement intake edges above departures; imported equipment limits field growth."
+      }
+    },
+    {
+      "id": "gavrel",
+      "name": "Gavrel",
+      "source_review": "review68-gavrel",
+      "reason": "Household turnover produces a small net contraction; participating courts retain separate forces.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 83000,
+        "new_entries": 6300,
+        "reserve_to_active": 0,
+        "to_reserve": 4600,
+        "other_departures": 2100,
+        "closing": 82600
+      },
+      "additional_reserves": {
+        "opening": 190000,
+        "direct_training": 2800,
+        "eligibility_losses": 6300,
+        "closing": 191100
+      },
+      "field": {
+        "previous_review": 23000,
+        "closing": 23000,
+        "reason": "Household turnover produces a small net contraction; participating courts retain separate forces."
+      }
+    },
+    {
+      "id": "other-otranto-400",
+      "name": "Bellacosta Cantons",
+      "source_review": "review68-other-otranto-400",
+      "reason": "Harvest labour and separate toll jurisdictions favour reserve retention over additional active service.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 223000,
+        "new_entries": 16800,
+        "reserve_to_active": 0,
+        "to_reserve": 12300,
+        "other_departures": 5600,
+        "closing": 221900
+      },
+      "additional_reserves": {
+        "opening": 589000,
+        "direct_training": 8800,
+        "eligibility_losses": 19000,
+        "closing": 591100
+      },
+      "field": {
+        "previous_review": 40000,
+        "closing": 40000,
+        "reason": "Harvest labour and separate toll jurisdictions favour reserve retention over additional active service."
+      }
+    },
+    {
+      "id": "other-otranto-700",
+      "name": "Cavressa Principalities",
+      "source_review": "review68-other-otranto-700",
+      "reason": "Seasonal household service and mountain supply slightly reduce the combined active and field returns.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 158000,
+        "new_entries": 11800,
+        "reserve_to_active": 0,
+        "to_reserve": 8700,
+        "other_departures": 4000,
+        "closing": 157100
+      },
+      "additional_reserves": {
+        "opening": 378000,
+        "direct_training": 5700,
+        "eligibility_losses": 12600,
+        "closing": 379800
+      },
+      "field": {
+        "previous_review": 28000,
+        "closing": 27900,
+        "reason": "Seasonal household service and mountain supply slightly reduce the combined active and field returns."
+      }
+    },
+    {
+      "id": "other-otranto-1100",
+      "name": "Vaulcerre Basin Leagues",
+      "source_review": "review68-other-otranto-1100",
+      "reason": "Local replacement intakes maintain broadly level forces; reserve eligibility increases through discharged service personnel.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 202000,
+        "new_entries": 15400,
+        "reserve_to_active": 0,
+        "to_reserve": 11100,
+        "other_departures": 5000,
+        "closing": 201300
+      },
+      "additional_reserves": {
+        "opening": 546000,
+        "direct_training": 8200,
+        "eligibility_losses": 16700,
+        "closing": 548600
+      },
+      "field": {
+        "previous_review": 36000,
+        "closing": 36000,
+        "reason": "Local replacement intakes maintain broadly level forces; reserve eligibility increases through discharged service personnel."
+      }
+    },
+    {
+      "id": "other-otranto-1450",
+      "name": "Seravelle Littoral",
+      "source_review": "review68-other-otranto-1450",
+      "reason": "Participating escort and harbour services increase staffing modestly; no unified regional command results.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 364000,
+        "new_entries": 30900,
+        "reserve_to_active": 0,
+        "to_reserve": 20000,
+        "other_departures": 9100,
+        "closing": 365800
+      },
+      "additional_reserves": {
+        "opening": 882000,
+        "direct_training": 13200,
+        "eligibility_losses": 30000,
+        "closing": 885200
+      },
+      "field": {
+        "previous_review": 66000,
+        "closing": 66800,
+        "reason": "Participating escort and harbour services increase staffing modestly; no unified regional command results."
+      }
+    },
+    {
+      "id": "other-morholt-1880",
+      "name": "Haldrevik Concessions",
+      "source_review": "review68-other-morholt-1880",
+      "reason": "Concession fighting and the remote Hunter strike disrupt retention and support; unavailable personnel are not automatically fatalities.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 66000,
+        "new_entries": 6100,
+        "reserve_to_active": 0,
+        "to_reserve": 4000,
+        "other_departures": 3000,
+        "closing": 65100
+      },
+      "additional_reserves": {
+        "opening": 156000,
+        "direct_training": 2300,
+        "eligibility_losses": 7500,
+        "closing": 154800
+      },
+      "field": {
+        "previous_review": 12000,
+        "closing": 11600,
+        "reason": "Concession fighting and the remote Hunter strike disrupt retention and support; unavailable personnel are not automatically fatalities."
+      }
+    },
+    {
+      "id": "other-morholt-2190",
+      "name": "Dreissen Wardholds",
+      "source_review": "review68-other-morholt-2190",
+      "reason": "Mutual stores and hospice access assist small replacement and support gains across separate wardholds.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 92000,
+        "new_entries": 7700,
+        "reserve_to_active": 0,
+        "to_reserve": 5100,
+        "other_departures": 2300,
+        "closing": 92300
+      },
+      "additional_reserves": {
+        "opening": 223000,
+        "direct_training": 3300,
+        "eligibility_losses": 7400,
+        "closing": 224000
+      },
+      "field": {
+        "previous_review": 17000,
+        "closing": 17200,
+        "reason": "Mutual stores and hospice access assist small replacement and support gains across separate wardholds."
+      }
+    },
+    {
+      "id": "other-morholt-2630",
+      "name": "Varneselle Estates",
+      "source_review": "review68-other-morholt-2630",
+      "reason": "Harbour maintenance supports a small service intake; seasonal restrictions remain.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 76000,
+        "new_entries": 6300,
+        "reserve_to_active": 0,
+        "to_reserve": 4200,
+        "other_departures": 1900,
+        "closing": 76200
+      },
+      "additional_reserves": {
+        "opening": 192000,
+        "direct_training": 2900,
+        "eligibility_losses": 6500,
+        "closing": 192600
+      },
+      "field": {
+        "previous_review": 14000,
+        "closing": 14100,
+        "reason": "Harbour maintenance supports a small service intake; seasonal restrictions remain."
+      }
+    },
+    {
+      "id": "other-vesalius-2790",
+      "name": "Bressavelle Marches",
+      "source_review": "review68-other-vesalius-2790",
+      "reason": "Active turnover is slightly negative; predictable warehouse support marginally improves sustainable deployment.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 200000,
+        "new_entries": 15500,
+        "reserve_to_active": 0,
+        "to_reserve": 11000,
+        "other_departures": 5000,
+        "closing": 199500
+      },
+      "additional_reserves": {
+        "opening": 509000,
+        "direct_training": 7600,
+        "eligibility_losses": 16400,
+        "closing": 511200
+      },
+      "field": {
+        "previous_review": 36000,
+        "closing": 36200,
+        "reason": "Active turnover is slightly negative; predictable warehouse support marginally improves sustainable deployment."
+      }
+    },
+    {
+      "id": "other-vesalius-2790-1410",
+      "name": "Vallessia Cantons",
+      "source_review": "review68-other-vesalius-2790-1410",
+      "reason": "Harvest and requisition limits encourage transfer back to civilian and reserve status; supply improvements maintain field capacity.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 151000,
+        "new_entries": 10900,
+        "reserve_to_active": 0,
+        "to_reserve": 8300,
+        "other_departures": 3800,
+        "closing": 149800
+      },
+      "additional_reserves": {
+        "opening": 375000,
+        "direct_training": 5600,
+        "eligibility_losses": 12100,
+        "closing": 376800
+      },
+      "field": {
+        "previous_review": 27000,
+        "closing": 27000,
+        "reason": "Harvest and requisition limits encourage transfer back to civilian and reserve status; supply improvements maintain field capacity."
+      }
+    },
+    {
+      "id": "other-vesalius-3160",
+      "name": "Rivessac Coast",
+      "source_review": "review68-other-vesalius-3160",
+      "reason": "Coastal service and pilot coordination support modest recruitment and support gains.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 118000,
+        "new_entries": 9900,
+        "reserve_to_active": 0,
+        "to_reserve": 6500,
+        "other_departures": 3000,
+        "closing": 118400
+      },
+      "additional_reserves": {
+        "opening": 292000,
+        "direct_training": 4400,
+        "eligibility_losses": 10000,
+        "closing": 292900
+      },
+      "field": {
+        "previous_review": 21000,
+        "closing": 21200,
+        "reason": "Coastal service and pilot coordination support modest recruitment and support gains."
+      }
+    },
+    {
+      "id": "karsenne",
+      "name": "Karsenne Compact",
+      "source_review": "review68-karsenne",
+      "reason": "Routine intake and gun refurbishment modestly improve capacity; no railway construction or mobilisation is assumed.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 94000,
+        "new_entries": 8100,
+        "reserve_to_active": 0,
+        "to_reserve": 5200,
+        "other_departures": 2400,
+        "closing": 94500
+      },
+      "additional_reserves": {
+        "opening": 254000,
+        "direct_training": 3800,
+        "eligibility_losses": 7600,
+        "closing": 255400
+      },
+      "field": {
+        "previous_review": 23000,
+        "closing": 23200,
+        "reason": "Routine intake and gun refurbishment modestly improve capacity; no railway construction or mobilisation is assumed."
+      }
+    },
+    {
+      "id": "caldrienne",
+      "name": "Duchy of Caldrienne",
+      "source_review": "review68-caldrienne",
+      "reason": "Regular recruiting sustains reinforced frontier posts and replacement equipment crews; this is modest expansion under the armed truce.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 296000,
+        "new_entries": 28900,
+        "reserve_to_active": 0,
+        "to_reserve": 16300,
+        "other_departures": 7400,
+        "closing": 301200
+      },
+      "additional_reserves": {
+        "opening": 727000,
+        "direct_training": 10900,
+        "eligibility_losses": 18700,
+        "closing": 735500
+      },
+      "field": {
+        "previous_review": 107000,
+        "closing": 108800,
+        "reason": "Regular recruiting sustains reinforced frontier posts and replacement equipment crews; this is modest expansion under the armed truce."
+      }
+    },
+    {
+      "id": "veyrasse",
+      "name": "March of Veyrasse",
+      "source_review": "review68-veyrasse",
+      "reason": "Regular recruiting and improved conventional maintenance slightly increase serving and field strength. The pilot rifles do not create additional soldiers.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 156000,
+        "new_entries": 14900,
+        "reserve_to_active": 0,
+        "to_reserve": 8600,
+        "other_departures": 3900,
+        "closing": 158400
+      },
+      "additional_reserves": {
+        "opening": 441000,
+        "direct_training": 6600,
+        "eligibility_losses": 10600,
+        "closing": 445600
+      },
+      "field": {
+        "previous_review": 45000,
+        "closing": 45900,
+        "reason": "Regular recruiting and improved conventional maintenance slightly increase serving and field strength. The pilot rifles do not create additional soldiers."
+      }
+    },
+    {
+      "id": "calvernis",
+      "name": "Calvernis Republic",
+      "source_review": "review68-calvernis",
+      "reason": "Replacement escort and engine programmes support additional trained crews and support staff.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 137000,
+        "new_entries": 12100,
+        "reserve_to_active": 0,
+        "to_reserve": 7500,
+        "other_departures": 3400,
+        "closing": 138200
+      },
+      "additional_reserves": {
+        "opening": 421000,
+        "direct_training": 6300,
+        "eligibility_losses": 11700,
+        "closing": 423100
+      },
+      "field": {
+        "previous_review": 38000,
+        "closing": 38500,
+        "reason": "Replacement escort and engine programmes support additional trained crews and support staff."
+      }
+    },
+    {
+      "id": "ceralte",
+      "name": "Ceralte Admiralty",
+      "source_review": "review68-ceralte",
+      "reason": "Small naval intakes support replacement patrol tonnage and coordinated port services.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 33000,
+        "new_entries": 2850,
+        "reserve_to_active": 0,
+        "to_reserve": 1800,
+        "other_departures": 800,
+        "closing": 33250
+      },
+      "additional_reserves": {
+        "opening": 72000,
+        "direct_training": 1100,
+        "eligibility_losses": 2350,
+        "closing": 72550
+      },
+      "field": {
+        "previous_review": 7000,
+        "closing": 7100,
+        "reason": "Small naval intakes support replacement patrol tonnage and coordinated port services."
+      }
+    },
+    {
+      "id": "varessan",
+      "name": "Varessan Sea League",
+      "source_review": "review68-varessan",
+      "reason": "Patrol restoration supports a small service increase under separate island votes.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 9000,
+        "new_entries": 770,
+        "reserve_to_active": 0,
+        "to_reserve": 500,
+        "other_departures": 220,
+        "closing": 9050
+      },
+      "additional_reserves": {
+        "opening": 25000,
+        "direct_training": 380,
+        "eligibility_losses": 750,
+        "closing": 25130
+      },
+      "field": {
+        "previous_review": 2200,
+        "closing": 2220,
+        "reason": "Patrol restoration supports a small service increase under separate island votes."
+      }
+    },
+    {
+      "id": "talasca",
+      "name": "Talascan Charter Islands",
+      "source_review": "review68-talasca",
+      "reason": "Levy disputes and legal suspension discourage expanded active obligations; no armed uprising is invented.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 7000,
+        "new_entries": 480,
+        "reserve_to_active": 0,
+        "to_reserve": 380,
+        "other_departures": 180,
+        "closing": 6920
+      },
+      "additional_reserves": {
+        "opening": 14000,
+        "direct_training": 210,
+        "eligibility_losses": 470,
+        "closing": 14120
+      },
+      "field": {
+        "previous_review": 1500,
+        "closing": 1480,
+        "reason": "Levy disputes and legal suspension discourage expanded active obligations; no armed uprising is invented."
+      }
+    },
+    {
+      "id": "nemerai",
+      "name": "Nemerai Crown",
+      "source_review": "review68-nemerai",
+      "reason": "Navigation and engine-school intakes support limited staffed patrol and support growth.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 17000,
+        "new_entries": 1500,
+        "reserve_to_active": 0,
+        "to_reserve": 940,
+        "other_departures": 420,
+        "closing": 17140
+      },
+      "additional_reserves": {
+        "opening": 58000,
+        "direct_training": 870,
+        "eligibility_losses": 1460,
+        "closing": 58350
+      },
+      "field": {
+        "previous_review": 4800,
+        "closing": 4860,
+        "reason": "Navigation and engine-school intakes support limited staffed patrol and support growth."
+      }
+    },
+    {
+      "id": "ordelune",
+      "name": "Ordelune Overseas Districts",
+      "source_review": "review68-ordelune",
+      "reason": "Seasonal rotation slightly reduces active strength; grain and spares agreements sustain the existing field allocation.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 5500,
+        "new_entries": 400,
+        "reserve_to_active": 0,
+        "to_reserve": 300,
+        "other_departures": 140,
+        "closing": 5460
+      },
+      "additional_reserves": {
+        "opening": 17000,
+        "direct_training": 260,
+        "eligibility_losses": 470,
+        "closing": 17090
+      },
+      "field": {
+        "previous_review": 1300,
+        "closing": 1300,
+        "reason": "Seasonal rotation slightly reduces active strength; grain and spares agreements sustain the existing field allocation."
+      }
+    },
+    {
+      "id": "skeldra",
+      "name": "Skeldran Hearth Confederacy",
+      "source_review": "review68-skeldra",
+      "reason": "Small hearth-service rotations favour reserve status; pooled stores sustain the existing field capacity.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 2200,
+        "new_entries": 160,
+        "reserve_to_active": 0,
+        "to_reserve": 120,
+        "other_departures": 60,
+        "closing": 2180
+      },
+      "additional_reserves": {
+        "opening": 14000,
+        "direct_training": 210,
+        "eligibility_losses": 250,
+        "closing": 14080
+      },
+      "field": {
+        "previous_review": 450,
+        "closing": 450,
+        "reason": "Small hearth-service rotations favour reserve status; pooled stores sustain the existing field capacity."
+      }
+    },
+    {
+      "id": "merovia",
+      "name": "Merovian Island Republic",
+      "source_review": "review68-merovia",
+      "reason": "Restored patrol tonnage and workshop activity support a small net trained-service intake.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 10500,
+        "new_entries": 940,
+        "reserve_to_active": 0,
+        "to_reserve": 580,
+        "other_departures": 260,
+        "closing": 10600
+      },
+      "additional_reserves": {
+        "opening": 30000,
+        "direct_training": 450,
+        "eligibility_losses": 850,
+        "closing": 30180
+      },
+      "field": {
+        "previous_review": 2900,
+        "closing": 2940,
+        "reason": "Restored patrol tonnage and workshop activity support a small net trained-service intake."
+      }
+    },
+    {
+      "id": "ashalai",
+      "name": "Ashalai Reef Covenant",
+      "source_review": "review68-ashalai",
+      "reason": "Kin-based rotations return more members to reserve while improved supply access maintains field support.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 8000,
+        "new_entries": 600,
+        "reserve_to_active": 0,
+        "to_reserve": 440,
+        "other_departures": 200,
+        "closing": 7960
+      },
+      "additional_reserves": {
+        "opening": 45000,
+        "direct_training": 680,
+        "eligibility_losses": 890,
+        "closing": 45230
+      },
+      "field": {
+        "previous_review": 1800,
+        "closing": 1800,
+        "reason": "Kin-based rotations return more members to reserve while improved supply access maintains field support."
+      }
+    },
+    {
+      "id": "istrana",
+      "name": "Kingdom of Istrana",
+      "source_review": "review68-istrana",
+      "reason": "Limited contract renewal supports modest replacement intake without a new military-industrial branch.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 10000,
+        "new_entries": 860,
+        "reserve_to_active": 0,
+        "to_reserve": 550,
+        "other_departures": 250,
+        "closing": 10060
+      },
+      "additional_reserves": {
+        "opening": 31000,
+        "direct_training": 460,
+        "eligibility_losses": 850,
+        "closing": 31160
+      },
+      "field": {
+        "previous_review": 2600,
+        "closing": 2620,
+        "reason": "Limited contract renewal supports modest replacement intake without a new military-industrial branch."
+      }
+    },
+    {
+      "id": "edrask",
+      "name": "Edrask Governorate",
+      "source_review": "review68-edrask",
+      "reason": "Seasonal local service rotation slightly reduces active personnel; visiting mainland forces are not added to the colonial return.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 8500,
+        "new_entries": 620,
+        "reserve_to_active": 0,
+        "to_reserve": 470,
+        "other_departures": 210,
+        "closing": 8440
+      },
+      "additional_reserves": {
+        "opening": 18000,
+        "direct_training": 270,
+        "eligibility_losses": 630,
+        "closing": 18110
+      },
+      "field": {
+        "previous_review": 1900,
+        "closing": 1900,
+        "reason": "Seasonal local service rotation slightly reduces active personnel; visiting mainland forces are not added to the colonial return."
+      }
+    },
+    {
+      "id": "norrakai",
+      "name": "Norrakai Moots",
+      "source_review": "review68-norrakai",
+      "reason": "A small seasonal service rotation changes headcount without adding aircraft, armour or a central army.",
+      "authorised_establishment": null,
+      "standing": {
+        "opening": 450,
+        "new_entries": 30,
+        "reserve_to_active": 0,
+        "to_reserve": 25,
+        "other_departures": 10,
+        "closing": 445
+      },
+      "additional_reserves": {
+        "opening": 2500,
+        "direct_training": 40,
+        "eligibility_losses": 50,
+        "closing": 2515
+      },
+      "field": {
+        "previous_review": 90,
+        "closing": 90,
+        "reason": "A small seasonal service rotation changes headcount without adding aircraft, armour or a central army."
+      }
+    }
+  ]
+}

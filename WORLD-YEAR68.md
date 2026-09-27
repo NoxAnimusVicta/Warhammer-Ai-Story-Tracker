@@ -14,7 +14,7 @@ All listed national repairs, replacement deliveries, routine losses and administ
 
 Opening figures are preserved national-register.json estimates. Movements below reconcile that return to 11/10/0068. Accepted_or_restored includes new deliveries and return from repair; withdrawn_or_lost includes scrapping, combat loss and unserviceable workshop withdrawal, not necessarily destruction. These are rounded campaign planning estimates, not serial-number audits. Unchanged totals mean no material net change established after turnover, not a year without activity. Personnel establishments and coarse 1–5 ratings are retained unless a dated change is explicitly listed.
 
-Broad ratings are not automatic yearly level gains. Standing personnel and reserves are establishments, not new recruitment totals; sustainable field strength measures supportable deployment, not casualties. Existing trade links remain; local repairs and protocols do not create new atlas edges.
+Broad ratings are not automatic yearly level gains. The historical review omitted personnel turnover. PERSONNEL-REVIEW.md now supplies the separate 02/11 serving and reserve reconciliation; these figures are estimates of actual service, not authorised establishments. Sustainable field strength measures supportable deployment, not casualties. Existing trade links remain; local repairs and protocols do not create new atlas edges.
 
 ## Theatre developments
 

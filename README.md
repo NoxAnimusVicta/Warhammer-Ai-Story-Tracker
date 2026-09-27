@@ -20,7 +20,9 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the last major culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition — revision 70
+## Current edition - revision 71
+
+This edition corrects military personnel at the existing **02/11 statistical checkpoint**. [Personnel reconciliation](PERSONNEL-REVIEW.md) covers all 43 returns; [statistics audit](STATISTICS-AUDIT.md) records associated corrections and unchanged assumptions. Live narration has reached **05/11 at Cressault** in the exact transcript. The dossier remains the dated 02/11 narrative milestone.
 
 Age clarification: Galahad was approximately one local month old at planetfall but appeared five to six human years old. Chronological age adds elapsed local time to that starting month; bodily maturity is separate. The current three-years-and-three-months figure remains a rounded estimate, not an exact birthday calculation. See [age tracking](CALENDAR-REFERENCE.md#chronological-age-and-physical-development).
 

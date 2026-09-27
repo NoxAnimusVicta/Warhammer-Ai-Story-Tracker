@@ -12996,3 +12996,717 @@ Updated the documentation and app. They now distinguish:
 - **Physical maturity:** separate from chronological age.
 
 The current age remains explicitly approximate. Future calendar updates now require an age review, helping prevent the label from being carried forward unchanged.
+
+
+## 572 - User - Final checks and Marshal meeting
+
+I spend the rest of the evening and night conducting test firing and other final checks for the equipment. Then I rest for a couple of hours in the morning and make my way to Marshal's office with the required paperwork to attend my meeting.
+
+## OOC progress before exchange573
+
+I’ll check the production report and meeting arrangements before continuing into the morning.
+
+## 573 - Assistant - The morning appointment
+
+By the time the last day workers leave, the workshop has acquired a different sound. Without the machinery running, every footstep carries between the benches. Somewhere in the stores, a guard tests a padlock; the short metallic clack reaches you distinctly through the open office door.
+
+You take the final return back out with you.
+
+The night passes between the firing position, the inspection benches and the secured shipment. Rifle reports break the quiet at measured intervals. Burnt propellant hangs in the cold air, briefly displacing the familiar smells of oil, timber and metal. Beneath the lamps, you compare the weapons with their recorded results, check the accompanying equipment and work through the packing lists once more.
+
+The additional checks reveal no defect requiring a rifle to be withdrawn. Each weapon taken out for examination is returned to its recorded place. The five intended for your household remain separately accounted for; the three development examples stay at the works. By the time you finish, the dispatch inventory still reads **187**.
+
+Your final notes become an addendum to the acceptance report. There is little ceremony to it: observations, results, your signature. The confidence comes from having checked.
+
+Near dawn, you wash the residue from your hands and return to the office. Outside, the first deliveries rattle past the gates. You settle against the wall, close your eyes and let two hours pass in quiet rest.
+
+When you rise, your movements are easy and precise.
+
+Ordel is already in the workshop when you come out. He looks up from the maintenance list, then at the folder beneath your arm.
+
+“All in order?”
+
+You leave him the completed inspection addendum. He reads the conclusion, gives a small nod and returns to arranging the morning’s work. The production benches remain paused; the establishment continues under his supervision.
+
+***
+
+Auvrienne is fully awake by the time you reach the palace offices.
+
+Wet stone catches the pale morning light. A delivery cart occupies half the street outside a baker’s, and warm bread briefly cuts through the coal smoke. Clerks hurry uphill with their collars raised. Your charcoal coat draws a familiar succession of glances; people notice your face, look higher, and then make room.
+
+At the military entrance, the duty officer checks your name against the appointment list and sends a messenger ahead. You are shown through shortly before nine.
+
+Marshal Vaucerin stands behind his desk. Darscelet occupies the window side of the room, with a railway timetable spread beside a folded frontier map. Two chairs have been moved clear of the space before the desk.
+
+Vaucerin’s copy of your report is already open.
+
+“One hundred and eighty-seven for the army,” he says. “Five for your household. Three retained for development.”
+
+His finger rests beside the original requirement.
+
+“And the establishment can now continue without you assembling the weapons yourself.”
+
+He looks up.
+
+“That last point matters a great deal.”
+
+Darscelet draws the timetable closer.
+
+“We have a guarded rail movement available tomorrow afternoon. The frontier staff have been asked to prepare a receiving detachment and somewhere suitable for instruction behind the Cressault positions. We can send you with the consignment.”
+
+She glances towards the papers you have brought.
+
+“The ammunition allocation and the support you require are what we need to finish this morning.”
+
+Vaucerin clears a place for your folder.
+
+“Let us see your final checks, Lord Orsival. Then take us through what you need on arrival.”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years and 3 months, plus roughly a week or two; estimate, not an exact birthday calculation. Physically mature at approximately 3 metres.  
+**Date:** 03/11/0068 AC43 — shortly before nine, Marshal’s office, Auvrienne.  
+**Reputation:** Completed trial shipment and independently functioning workshop; Royal Advisor appointment remains prospective.  
+**Weapons (Equipped):** None. 187 military rifles and five House rifles remain at the works awaiting dispatch; three development examples retained there. Greatsword at the estate.  
+**Armor/Clothing (Equipped):** Charcoal coat over work shirt, dark trousers and leather boots. Uninjured; rested for approximately two hours.  
+**Gear/Inventory:** Production report, final inspection addendum, acceptance and dispatch records, accounts and demonstration requirements. Meeting with Vaucerin and Darscelet beginning; tomorrow afternoon’s rail movement is available, not yet a completed departure.  
+**Currency:** **659 personal lorrats; 1,160 household lorrats** (148 reserved, 1,012 uncommitted). Last closed programme return, through 02/11: **13,220 recognised costs + 180 commitments + 4,600 headroom = 18,000**. Further testing, transport and continuing payroll await the next cost posting; no additional personal payment made.
+
+
+## 574 - User - Training authority and test targets
+
+I present the final checks and what I shall need on arrival as well as enquire about testing targets. Who exactly I will be training to use the weapons and I will also be clarifying that I expect defacto command of the unit until training with my firearms are complete. I do not require direct chain of command but the superior officer must report to me until I deem the training with this new firearm sufficient.
+
+## OOC progress before exchange575
+
+I’ll check the frontier command arrangements, then resolve their response to your requested training authority and test targets.
+
+## 575 - Assistant - The proposed attachment
+
+Vaucerin reads the inspection addendum while you explain it. He stops once to compare an entry with the acceptance return, then lays both sheets beside the dispatch inventory.
+
+“No withdrawals. No outstanding corrections.”
+
+He signs the covering sheet and passes it to Darscelet.
+
+Your requirements occupy the next several minutes: secure accommodation for the shipment, a suitable firing ground, maintenance space, stores support, medical attendance during trials and soldiers released from ordinary duties long enough to learn properly. Darscelet records these beneath the railway arrangements. Where the frontier establishment can provide something, she marks it against existing facilities.
+
+When you ask who will receive the rifles, she opens a second folder.
+
+“A company drawn from the regular Cressault garrison. One hundred and sixty officers and men for the initial conversion, including its own noncommissioned officers. Experienced soldiers, selected for dependable service and discretion. The remaining twenty-seven rifles give the trial a reserve.”
+
+She turns the top page towards you.
+
+“Captain Lucard Desmaret commands them. His company has served together on the frontier; we are keeping that familiarity intact. He has been told this is a confidential equipment trial under your technical direction. He has not yet received the weapons.”
+
+Vaucerin listens without interrupting as you clarify what you expect from Desmaret: direct reports, compliance with your instructions and effective control of the unit until you consider its training sufficient.
+
+At that, he sets his pen down.
+
+“Your authority over instruction is entirely reasonable. An indefinite command arrangement ending solely at your discretion is more than I will put into this order.”
+
+There is no heat in his voice. He draws the company’s return towards himself.
+
+“These men hold a place in the frontier establishment. I must know when they can be called upon, and Desmaret must know whose orders govern him if that happens.”
+
+Darscelet studies you for a moment before speaking.
+
+“We can give you the practical arrangement you need with a defined attachment.”
+
+She takes a clean sheet.
+
+“Seven training days initially, counted from the first full day after arrival. During that period, the company is relieved of routine duties. You set its instructional programme and direct the training. Desmaret attends you each morning, reports progress and deficiencies, and ensures that his officers and men carry out your training directions.”
+
+Her pen pauses.
+
+“He retains discipline, administration and responsibility for the men. Operational orders remain with frontier command.”
+
+“And nobody certifies them competent with your rifle over your objection,” Vaucerin adds. “If seven days are insufficient, state what remains unfinished and how much further time you require. We will resolve the extension before the attachment expires.”
+
+He pushes the draft far enough across the desk for you to read.
+
+“That is my offer. Control of their training, direct reporting from their captain and your technical certification. It does not make you their field commander.”
+
+Darscelet then unfolds the smaller map.
+
+“For testing, the garrison can provide its rear practice ground. Ordinary targets first, then prepared field obstacles and representative protective materials. There is condemned equipment available for destructive trials. The engineers will arrange the ground and record the results with your staff.”
+
+She indicates the marked practice area, well behind the frontier positions.
+
+“You will have an armourer’s bench, secure storage and a medical orderly. Serault will accompany the shipment as liaison. Ordel remains in Auvrienne with the workshop.”
+
+“As to hostile targets,” Vaucerin says, “the crossing arrangement with Caldrienne still stands. There is intermittent shooting, and there are positions our frontier officers would very much like removed. That does not make every one of them an authorised objective.”
+
+He taps the folded operational map without opening it.
+
+“First let us see what your trained company can do. If an operation is warranted, you will receive a current briefing and a specific decision. I will not promise you an attack today on the strength of yesterday’s frontier report.”
+
+Darscelet sets an ammunition requisition beside the draft attachment.
+
+“An initial allocation of twelve thousand rounds: eight thousand armour-piercing, four thousand ordinary service ammunition. Drawn from military stores, with the issue valued against the programme. Those are allocated quantities; they will be checked and receipted with the consignment. Further expenditure goes through Serault.”
+
+The Marshal looks from the papers to you.
+
+“You have earned the opportunity to demonstrate this properly, Lord Orsival. Tell me whether that attachment gives you what you need.”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years and 3 months, plus roughly a week or two; chronological estimate. Physically mature at approximately 3 metres.  
+**Date:** 03/11/0068 AC43 — morning, Marshal’s office, Auvrienne.  
+**Reputation:** Final inspection report accepted; confidential company trial being arranged. Royal Advisor appointment remains prospective.  
+**Weapons (Equipped):** None. 187 military rifles, five House rifles and three development examples remain at the works.  
+**Armor/Clothing (Equipped):** Charcoal coat, work shirt, dark trousers and leather boots. Uninjured and rested.  
+**Gear/Inventory:** Inspection and dispatch papers; proposed seven-training-day attachment of Captain Lucard Desmaret’s 160-person company. Direct training reports and technical certification offered; indefinite de facto command not granted. Initial 12,000-round allocation authorised, physical issue pending. Guarded rail movement available tomorrow afternoon.  
+**Currency:** **659 personal lorrats; 1,160 household lorrats** (148 reserved, 1,012 uncommitted). Last closed programme return remains **13,220 recognised costs + 180 commitments + 4,600 headroom = 18,000**, through 02/11. New ammunition, transport and continuing service costs must be posted before an updated available balance is quoted.
+
+
+## 576 - User - Acceptance and departure for the frontier
+
+“That will do nicely Marshal, Lieutenant-General.” I say as I nod to both of them. Collect what I need and then make my way back to the workshop to follow the shipment along each step as it is loaded and conduct checks and maintenance the whole time to keep myself preoccupied. I also begin reading briefings of the exact area on the border where I am going with my shipment. How often do skirmishes occur, what sort of military objectives are there, how long has the group of soldiers getting my rifles been positioned on this border and any other relevant details I can think of until I board the train with the weaponry and ammunition and make my way to the border
+
+## OOC progress before exchange577
+
+I’ll carry the accepted arrangement through loading and departure, and use the frontier records to prepare the briefing you read aboard the train.
+
+## 577 - Assistant - The Cressault return
+
+Vaucerin inclines his head and signs the attachment order.
+
+Darscelet adds the instruction releasing Desmaret’s company from routine duties for the initial training period. Your authority over instruction, the captain’s daily reporting and the requirement for your technical certification are written into the same document. A copy goes ahead to the frontier; another joins your papers.
+
+“Serault will have the movement order before noon,” she says. “The current district return will follow it.”
+
+By the time you leave, the arrangement has become a set of orders bearing signatures rather than an understanding across a desk.
+
+***
+
+At the workshop, you accompany the consignment through its final preparations.
+
+Ordel has the stores opened. Crates come out beneath the lamps, their inventory entries checked against the dispatch return. You examine what needs examining, attend to minor maintenance and watch each stage closely enough that the men cease explaining where the next load is going—you are already there when it arrives.
+
+The five household rifles remain in their separate storage. The three development examples stay with Ordel. **All 187 military rifles are entered on the outgoing manifest.**
+
+The ammunition arrives under military escort. Serault checks the issue vouchers and records **eight thousand armour-piercing rounds and four thousand ordinary service rounds**. Their presence is now physical: numbered cases, signed receipts and guards waiting beside the vehicle while the count is completed.
+
+You continue working through the afternoon and into the evening, returning to the briefing whenever there is nothing useful for your hands to do.
+
+The following day, you follow the load to the railway yard.
+
+Coal smoke lies low between the wagons. Porters shout over the scrape of wheels and the ringing blows of coupling work. Your cargo is checked into a secured freight wagon; the seals and papers receive a final comparison before Serault signs for its custody in transit. The escort takes its assigned places.
+
+A place has been arranged for you in the accompanying guard-and-staff carriage. The bench is tolerable once the space opposite is left clear for your legs. Serault puts the district folder on the table between you.
+
+“Latest consolidated return,” he says. “Reports through the second. Anything received after that will be waiting with frontier command.”
+
+***
+
+The briefing gives Cressault considerably more substance than a disputed patch on a map.
+
+It is a cultivated crossing district whose fields depend on managed water and whose trade depends on a railway that neither government wishes to surrender. Estates possess obligations and charters which do not always recognise the same sovereign. Farmers still need gates opened, grain moved and damaged channels repaired while soldiers dispute who has the authority to permit it.
+
+The military summary records **four confirmed exchanges of small-arms fire during the preceding thirty days**, alongside **three confrontations in which patrols challenged one another without firing**. The incidents are unevenly spaced. Several quiet days can pass before a disputed movement produces another report. Claims of additional distant shooting remain unconfirmed.
+
+The crossing-notice arrangement negotiated in Month 6 has reduced disruption. It has not settled the border. There is no sustained battle underway in the latest return, and the national armistice remains in force.
+
+The papers identify the district’s enduring military concerns: the railway crossing and its approaches, irrigation controls, roads connecting the cultivated estates, and the fortified posts from which each side observes and contests movement. Local commanders also attach importance to keeping merchants using their inspection points; authority here produces revenue as well as ground on a map.
+
+None of those entries constitutes an order to attack. They explain why the positions matter and why the dispute persists.
+
+Desmaret’s company has been assigned to the district for **fourteen months**, alternating forward duties with periods in the rear. He has commanded it for **nine months**. Most of its noncommissioned officers served through the earlier disturbances; replacements have joined in smaller groups rather than as a wholesale reconstitution.
+
+His assessment describes a dependable officer who maintains equipment, keeps useful records and knows his men. The attached company return is less flattering about their circumstances: interrupted leave, familiar complaints about accommodation, and soldiers who have spent long enough watching the same boundary to recognise individual figures on the other side.
+
+They will not arrive at your instruction as strangers to soldiering. They will arrive with habits.
+
+Your reception instructions place the company’s training at the rear practice ground, with secure storage and maintenance space assigned nearby. The initial seven training days begin on the first full day after arrival. Serault remains your liaison; Desmaret is to report directly to you each morning on the instructional programme. Ordel retains the workshop in Auvrienne.
+
+A whistle cuts through the carriage.
+
+The coupling takes the weight with a heavy jolt. Outside, the freight-yard lamps begin moving past the window. You keep the folder open as the train pulls away, the consignment finally travelling with you towards Cressault.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years and 3 months, plus roughly a week or two; chronological estimate. Physically mature at approximately 3 metres.  
+**Date:** 04/11/0068 AC43 — afternoon; departing Auvrienne by guarded train towards Cressault.  
+**Reputation:** Royal technical commissioner accompanying the completed shipment; temporary instructional authority accepted and recorded. Royal Advisor appointment remains prospective.  
+**Weapons (Equipped):** None. **187 military rifles and 12,000 rounds in transit** under military custody; five House rifles await separate delivery, and three development rifles remain at the works.  
+**Armor/Clothing (Equipped):** Charcoal coat, shirt, dark trousers and leather boots. Uninjured and functional.  
+**Gear/Inventory:** Signed attachment and movement orders, dispatch and ammunition receipts, inspection records, training requirements and Cressault briefing. Captain Serault accompanies you. Desmaret’s 160-person company awaits instruction; training has not yet begun.  
+**Currency:** **659 personal lorrats; 1,160 household lorrats** (148 reserved, 1,012 uncommitted). Programme return through departure: **14,024 recognised costs + 180 outstanding commitments + 3,796 headroom = 18,000**. The additional 804 comprises 18 final testing, 620 ammunition stock value, 96 transport/handling, 60 staff payroll and 10 commission remuneration. No additional personal cash payment received.
+
+
+## 578 - User - OOC: Transcript preservation check
+
+I just wanted to check you are tracking each exchange in the md document to ensure compactions do not lose information yeah?
+
+## 579 - Assistant - OOC: Archive verified
+
+Yes. I verified that **your full messages and my complete narrative responses are saved through exchange 577**, including the latest train departure—not just summaries.
+
+The working transcript and your main local story folder match exactly. I also maintain separate continuity checkpoints for dates, finances, inventory and pending decisions.
+
+**GitHub still reflects the last publication milestone; the local Markdown archive is ahead of it.** Compaction does not erase those saved files.
+
+
+## 580 - User - Journey analysis and meeting Desmaret
+
+I wait on the train, rest for a couple hours and inspect the cargo habitually while I wait for us to reach the destination. While we travel I watch the scenery and calculate tactical movements of soldiers that would be optimal for a reignited conflict, better entrenched positions, strategic enemy emplacements to remove, how to compensate for Caldrienne's massive numerical advantage of standing forces and vehicles of war and so on. Running tactical simulations in my head like an advanced board game, over and over until I begin to shape the optimal solutions. When I arrive I immediately go to find Captain Desmaret so I can introduce myself.
+
+## OOC progress before exchange581
+
+I’ll check the rail journey and reception arrangements, then continue through your arrival and first meeting with Desmaret.
+
+## 581 - Assistant - Arrival at Cressault
+
+The train climbs away from Auvrienne’s railway basin through a succession of cuttings and cultivated slopes. Factory roofs give way to orchards, low stone boundaries and fields already darkened by recent rain. Water shines in the drainage ditches beside the track.
+
+You watch the country pass and begin taking it apart in your mind.
+
+The maps supply one version of it. The window supplies another: a slope steeper than its printed shading suggests, ground softened by water, a road carrying less traffic than its apparent importance would imply. You retain the differences. Where you can see only part of something, you leave the rest unresolved.
+
+In your imagined conflicts, formations move and halt, orders arrive promptly or arrive late, vehicles break down, weather closes over roads and frightened men misunderstand what was intended. You run the same problem again with one assumption altered, then another.
+
+Caldrienne’s greater strength remains present in every version. More men and vehicles give its commanders choices, reserves and a capacity to absorb losses that Veyrasse cannot simply match. Your own company—and even a successful new rifle—must fit into a larger military system before either can change that balance substantially.
+
+Gradually, the first attractive answers give way to more useful ones. You distinguish what your weapons might improve, what requires other arms and supplies, and what depends on decisions far above a company commander. Some imagined successes prove ruinously expensive when you continue the simulation beyond the initial victory. Others fail because the enemy has no reason to behave as conveniently as your first model allowed.
+
+You keep returning to the problem.
+
+By the time the light begins to fail, you have several promising frameworks to examine against local reports. They remain hypotheses; the train window cannot show you an enemy reserve hidden beyond the horizon. But you have a much sharper understanding of which questions matter when you reach the officers who know this ground.
+
+At scheduled stops, you accompany the custody checks. Seals remain intact, the manifest agrees, and nothing has shifted sufficiently to require the cargo to be repacked. Serault becomes accustomed to finding you beside the wagon before he has finished gathering his papers.
+
+Between stops, you rest for a couple of hours. The wheels continue their steady conversation beneath the floor. When you open your eyes, the window has become a dark mirror interrupted by isolated lamps.
+
+***
+
+The journey takes roughly ten hours, including its stops.
+
+It is late on the fourth when the train eases into the Veyrassian reception sidings at Cressault. The platform lamps illuminate wet boards, piled freight and the shoulders of men waiting in greatcoats. Beyond them lie low warehouse roofs and a line of shuttered buildings. Somewhere in the darkness, water runs through a culvert.
+
+The air smells of coal smoke, damp sacks and horses.
+
+No gunfire greets you. There are simply more sentries than there were at the ordinary stops, and fewer people wandering without a purpose.
+
+Serault steps down with the movement papers while the escort attends to the freight wagon. You unfold yourself through the carriage doorway. One of the waiting soldiers looks up, then takes an involuntary half-step backwards before recovering his attention.
+
+You ask for Captain Desmaret.
+
+A sergeant directs you towards a lamp-lit doorway at the end of the platform. Before you reach it, an officer emerges, fastening the upper button of his coat. He is lean, with rain caught in his closely cropped hair and a worn leather document case tucked beneath one arm.
+
+He sees Serault first. Then his gaze finds you and travels upward.
+
+For a moment, the professional welcome he has prepared plainly fails to accommodate the man before him.
+
+“Lord Orsival?”
+
+He steps forward and salutes.
+
+“Captain Lucard Desmaret. Welcome to Cressault.”
+
+His voice is level again. He offers his hand.
+
+“I have the Marshal’s attachment order. The company has been relieved of its usual duties, and the senior noncommissioned officers have been told to attend with me tomorrow morning.”
+
+Behind him, the sergeant begins directing the receiving party towards the freight. Desmaret glances at their movement before returning his attention to you.
+
+“The stores are ready. We’ll complete the transfer against Captain Serault’s return tonight. Your room is beside the instruction office—ground floor. We had the bed altered after the measurements arrived.”
+
+There is a brief, almost apologetic pause as he reassesses your shoulders.
+
+“I shall have someone look at it again.”
+
+He moves aside, leaving the doorway clear.
+
+“There is hot food inside, and my company return is on the desk. I thought you would prefer to meet the men with some idea of who they are.”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years and 3 months, plus roughly a week or two; chronological estimate. Physically mature at approximately 3 metres.  
+**Date:** 04/11/0068 AC43 — late night; Cressault reception sidings, Veyrassian side.  
+**Reputation:** Arrived to direct the confidential rifle-training programme; first meeting with Captain Lucard Desmaret. Royal Advisor appointment remains prospective.  
+**Weapons (Equipped):** None. **187 rifles and 12,000 rounds have arrived under military escort; unloading and local custody transfer are beginning.** Five House rifles and three development examples remain in Auvrienne.  
+**Armor/Clothing (Equipped):** Charcoal coat, shirt, dark trousers and leather boots. Uninjured and functional; approximately two additional hours of rest aboard the train.  
+**Gear/Inventory:** Attachment orders, manifests, inspection records and frontier briefing. Tactical possibilities examined mentally; no new operational intelligence or attack authority acquired. Initial seven training days run **05–11/11**, subject to the agreed extension process. Desmaret’s company has not yet received individual weapon issues or begun instruction.  
+**Currency:** **659 personal lorrats; 1,160 household lorrats** (148 reserved, 1,012 uncommitted). Last programme return: **14,024 recognised costs + 180 outstanding commitments + 3,796 headroom = 18,000**. No additional personal spending recorded during the journey.
+
+
+## 582 - User - Desmaret’s first impressions
+
+“Before we get to any of that. I would like your thoughts and opinions on the firearm. Before we distribute them to the men. It will also give us time to discuss how things have been going on this border from a soliders point of view. I have only been able to hear it so far from officials but I would value a first hand account from you. “ I say politely with my subconscious pressure of calm, comfort and ease
+
+## OOC progress before exchange583
+
+I’ll keep Desmaret’s first impressions separate from what he can judge after handling and firing the rifle, and give you his account of life on the frontier.
+
+## 583 - Assistant - A soldier’s assessment
+
+Desmaret stops beside the doorway.
+
+The tightness around his mouth eases as you speak. His attention settles on your face rather than your height, and when he answers, the formal cadence of his welcome has softened.
+
+“I would appreciate that, my lord.”
+
+He glances towards the freight wagon.
+
+“I have read the description. I haven’t handled one yet. I can give you a soldier’s first impression tonight, but I should fire it before pretending to give you a verdict.”
+
+He asks Serault to bring one of the consignment rifles into the reception office. The captain records its removal from the crate; the rest of the shipment remains with the receiving party.
+
+Inside, a stove ticks beneath a blackened pipe. The room smells of drying wool, old paper and strong tea. Desmaret clears a space on the table and lays a folded cloth over the scarred wood before accepting the unloaded weapon.
+
+For a little while, he says nothing.
+
+He examines it with the familiarity of a man accustomed to depending on equipment he did not design. His interest moves between the rifle in his hands and the description beside it. He considers its balance, its finish and the ordinary business of carrying it through a long duty period.
+
+“The loading cycle is the obvious attraction,” he says eventually. “But the first thing the men will notice is what it feels like after carrying it all day.”
+
+He shifts his grip, assessing it again.
+
+“If the performance is there, they will accept a burden. Particularly men who have had cause to wish their old rifle could give them another shot sooner. What they won’t forgive is something that becomes a delicate instrument whenever the weather turns.”
+
+There is no accusation in the remark. He is looking at the weapon with growing interest.
+
+“The workmanship gives me confidence. So does your inspection return. I want to see whether ordinary men can keep that confidence after a wet week, with cold fingers and interrupted sleep. You have made these in a workshop under your eye. My sergeants will have to keep them useful when you’re elsewhere.”
+
+He rests the rifle on the cloth.
+
+“And I will need them to understand that a faster weapon does not make ammunition weightless. Some will grasp that immediately. Others will be excited.”
+
+A small smile appears.
+
+“I suspect you know something about men becoming excited by a new machine.”
+
+He draws up a chair without settling into it yet.
+
+“As for the border—the returns are accurate as far as they go. Four exchanges of fire sound like four events. They leave out the days spent expecting the fifth.”
+
+Outside, someone calls a crate number. Serault answers, and the scraping of freight resumes.
+
+“You can have a quiet morning in which everybody is thoroughly miserable. A farmer wants access to a channel. A patrol has stopped a cart because its papers were issued on the wrong side. Somebody’s relief is late. Nobody wants to concede a thing in front of the other side, and meanwhile ordinary work piles up around them.”
+
+He finally sits.
+
+“The crossing arrangement helped. We have fewer arguments turning into confrontations simply because no one knows why a party is moving. The men noticed that improvement. They also notice that they are still here.”
+
+His thumb travels along a pale worn patch on his document case.
+
+“Most of mine are reliable. They know this district. Some recognise the opposing sentries by their walk. That familiarity can steady a man, or make him careless. It depends on the man.”
+
+He looks back at you.
+
+“They complain about leave, meals, wet bedding. They would complain about those things anywhere. Underneath it is the feeling that this posting has no proper end. They hold the same ground, hear that negotiations are progressing, then watch another quarrel begin over water or a barrier.”
+
+When he speaks of Caldrienne’s strength, his tone becomes more measured.
+
+“We know they have the larger army. That doesn’t mean all of it is standing across from my company. I can tell you what we have observed here; I cannot give you an honest count of what they could send next month. What weighs on the men is the possibility that one morning the familiar business stops being familiar.”
+
+His eyes return to the rifle.
+
+“So yes. I want this to be good. I want to put something genuinely better into their hands and tell them their time learning it is worthwhile.”
+
+He meets your gaze again, comfortably enough now to leave the courtesy unadorned.
+
+“My first impression is favourable, Lord Orsival. Tomorrow I would like to earn the right to be more specific.”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years and 3 months, plus roughly a week or two; chronological estimate. Physically mature at approximately 3 metres.  
+**Date:** 04/11/0068 AC43 — late night, reception office at Cressault.  
+**Reputation:** Beginning a professional relationship with Captain Desmaret; his first impression of the rifle is favourable, with firing and service assessment still to follow.  
+**Weapons (Equipped):** None. One unloaded consignment rifle is logged out for inspection in the office; the military total remains **187**. No individual troop issue yet.  
+**Armor/Clothing (Equipped):** Charcoal coat, shirt, dark trousers and leather boots. Uninjured and functional.  
+**Gear/Inventory:** Existing orders, manifests and briefing. Received Desmaret’s firsthand account of company morale and border routine; no new enemy strength estimate or operational order. Familiar calming presence active without erasing his independent judgement.  
+**Currency:** **659 personal lorrats; 1,160 household lorrats** (148 reserved, 1,012 uncommitted). Programme unchanged: **14,024 recognised costs + 180 outstanding commitments + 3,796 headroom = 18,000**.
+
+
+## 584 - User - Private firing and intelligence enquiry
+
+“Why wait. We shall conduct a private test firing now. Just you and I.” I say as I stand up and wait for him by the door. As we walk and conduct the firing test I ask. “So who handles operational intelligence for the border? Who is going to have an approximate idea of how much of the enemies total forces are marshalled in this area and ready for combat in the region and how long reinforcement times are estimated to be?”
+
+## OOC progress before exchange585
+
+I’ll resolve the private firing trial and establish which frontier staff can provide the intelligence estimates you’re asking for.
+
+## 585 - Assistant - The private trial
+
+Desmaret looks at you by the door, then down at the rifle.
+
+For the first time, his smile comes without any preceding hesitation.
+
+“Very well.”
+
+He tells the duty sergeant where you are going and has the watch informed that the rear practice ground will be in use. A small ammunition issue is entered against the trial. Serault remains with the consignment; no audience accompanies you.
+
+Outside, the rain has dwindled to occasional drops from the eaves. Your footsteps pass from paving to a gravelled yard and then onto the approach to the practice ground. Lamps mark the occupied buildings behind you. Beyond their reach, the fields are almost entirely black.
+
+“Major Mathis Vauzel,” Desmaret answers when you ask about intelligence. “He heads the district intelligence staff at frontier headquarters. He prepares the consolidated appreciation for the commander.”
+
+The captain adjusts the rifle’s position beneath his arm as you walk.
+
+“Our reports go to his office. So do those from the other formations here. He has access to information a company captain doesn’t—reports from elsewhere along the frontier, liaison with the capital, assessments of what lies behind the units we actually encounter.”
+
+Water glints beneath a lamp at the practice-ground entrance.
+
+“For what they have here now, Vauzel is the man to start with. For how quickly they can bring more, you want his appreciation alongside the operations staff’s. Intelligence estimates what is available and where. Operations considers what that means for us.”
+
+He glances up at you.
+
+“Ask for the dated return. He distinguishes confirmed identifications from estimates. Sometimes the distinction matters more than the total.”
+
+***
+
+The practice ground smells of soaked earth and old smoke. Desmaret has brought a lantern, whose light catches the edges of the firing shelter and leaves the rest in deep shadow. A prepared target stands within the established range.
+
+For a few moments, conversation stops.
+
+The first report is sharp beneath the shelter roof. Its echo travels out across the dark ground and fades. Desmaret remains intent on the weapon, registering its behaviour rather than hurrying to offer an opinion.
+
+He continues the short trial while you observe. The rifle functions throughout without a stoppage. By the time he finishes, twelve ordinary service rounds have been expended.
+
+When the firing is over, he looks down at it again with an expression distinctly different from the one he wore in the office.
+
+“Yes,” he says quietly. “That is worth bringing here.”
+
+He considers his next words before turning towards you.
+
+“I was expecting the mechanism to be the interesting part. In the hand, the whole thing feels like a serious service weapon. I can work with this.”
+
+A trace of amusement returns.
+
+“You may have difficulty persuading some of the men to give their examples back when the trial ends.”
+
+He sets the rifle securely aside. The lantern illuminates a thin drift of smoke beneath the roof.
+
+“This is enough for me to want the company on the ground tomorrow. I still want their observations after several days with it. Tonight tells me the introduction is worth making.”
+
+Then he returns to your other question.
+
+“I can send a request to headquarters before I turn in. Your commission explains why you need a current operational picture. I’ll ask for Vauzel to brief you, with an operations officer present, on the forces assessed in the district, the uncertainty in those figures and the reinforcement estimates.”
+
+He rests one hand on the edge of the table.
+
+“If there are restrictions on particular sources, they can keep the sources. You need an assessment you can use, not the names of everyone who helped produce it.”
+
+From somewhere behind the buildings comes the distant clang of railway work. Desmaret looks towards it, then back to you.
+
+“And if you want my observations beside their maps, I’ll attend.”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years and 3 months, plus roughly a week or two; chronological estimate. Physically mature at approximately 3 metres.  
+**Date:** 04/11/0068 AC43 — late night, rear practice ground at Cressault.  
+**Reputation:** Desmaret’s favourable first impression strengthened by a successful private firing trial; company instruction remains scheduled for tomorrow.  
+**Weapons (Equipped):** None. One consignment rifle under supervised trial custody; **187 military rifles remain accounted for**. Desmaret fired twelve ordinary service rounds without a stoppage.  
+**Armor/Clothing (Equipped):** Charcoal coat, shirt, dark trousers and leather boots. Uninjured and functional.  
+**Gear/Inventory:** Existing orders and papers. **11,988 rounds remain: 8,000 armour-piercing and 3,988 ordinary service.** Major Mathis Vauzel identified as district intelligence lead; Desmaret has offered to request a joint intelligence/operations briefing. No appointment or enemy strength figures yet confirmed.  
+**Currency:** **659 personal lorrats; 1,160 household lorrats** (148 reserved, 1,012 uncommitted). Programme remains **14,024 recognised costs + 180 commitments + 3,796 headroom = 18,000**. The twelve rounds came from already valued programme stock; their expenditure is not charged twice.
+
+
+## 586 - User - Demonstration and purpose
+
+“That would be very much appreciated. Thank you Captain. If things go well with the rollout of this rifle then I will have many more toys to send your way. Part of the reason I became involved in the upper parts of society to begin with was a desire to stop men like you from wasting your lives on pointless battlefields like this.” I say as I take out the magazine, load another 8 rounds so it is back to a full 10 round capacity and then aim it down the range and begin lining up my shot. “We already have an enemy to fight, that kills our people indiscriminately and hunts us like we are sport.” I say as I exhale and then fire the entire magazine, shot after shot in rapid succession each one on a perfect trajectory and while difficult to see form our current position. Almost zero recoil due to my enhanced physiology. All 10 shots have only left a single entry point on the target as they all landed in the exact same spot. “And we fight over what? Borders, resource disputes, familial squabbles, anything but fighting against the real enemy.” I say as I place the gun down. “If we are going to survive then we need a strong hand to guide a strong military and force unity. Despite what the corrupted nobles and greedy merchant hands may wish.” I say with a restrained anger, not at the Captain but at the world, at the people in charge for allowing this perpetual cycle of war against each other that serves no one but the aliens who prey on our people.
+
+## OOC progress before exchange587
+
+I’ll carry through your demonstration and Desmaret’s reaction, keeping his views on the Hunters, the border and his oath distinct.
+
+## 587 - Assistant - One point of entry
+
+Desmaret listens as you speak, his expression becoming still at the mention of the Hunters.
+
+Then you raise the rifle.
+
+Ten reports follow in quick succession, hard and distinct beneath the shelter roof. Against your shoulder, the weapon scarcely moves. The captain watches its almost motionless outline, then looks downrange as the final echo fades.
+
+You put it down and finish speaking.
+
+For several moments, the only sound is water dripping from the edge of the roof.
+
+Desmaret looks at the target, then back at you.
+
+“Excuse me a moment.”
+
+Once the firing has ceased and the weapon is secure, he takes the lantern down the range. Its light moves slowly across the wet ground. At the target, he raises it, leans closer, and remains there longer than an ordinary inspection requires.
+
+When he returns, he brings the target sheet with him.
+
+One entry point. The repeated passage has worked its edge, but there is no scatter of separate strikes around it.
+
+He lays it on the table beside the rifle.
+
+“I heard ten.”
+
+His eyes lift to yours. The words are an observation, not a challenge.
+
+Until now, your size has been the extraordinary thing standing before him. He has just watched something that neither size nor a well-made firearm can explain by itself.
+
+He looks down at the sheet once more before returning to what you said.
+
+“When the Hunter alarm sounds, nobody asks which family used to own the gate.”
+
+His voice is quieter now.
+
+“We know what the enemy is then. There is no argument about whether the people behind us deserve protecting.”
+
+He draws the chair out and sits, leaving the target between you.
+
+“You asked earlier what this border feels like to a soldier. Part of it is knowing how much effort goes into holding everything exactly where it was. Men, supplies, money. And all the while, there is something above us that can come down whenever it chooses.”
+
+His fingers rest against the table’s edge.
+
+“I would like to serve long enough to see that change.”
+
+There is neither a courtier’s eagerness nor the hurried assent of someone trying to placate you in the admission. He has considered it before tonight.
+
+“The Marshal sent us a rifle trial. You are talking about what the army ought to become.”
+
+He studies your face, measuring the anger without mistaking its direction.
+
+“A force that can make those things pay for coming here would have willing soldiers, my lord. More than you might think.”
+
+His gaze briefly returns to the single hole.
+
+“As for forcing the countries together—I command a company. I know what these men will endure for one another. I won’t pretend that tells me how to govern everyone on the other side of this border.”
+
+He straightens slightly.
+
+“But I understand wanting their lives to purchase something better than another season of the same dispute.”
+
+The captain gathers neither the rifle nor the target yet.
+
+“I’ll send the request to Vauzel tonight. Tomorrow, you will have my officers and sergeants ready to listen. Give us the tools and the instruction, and we will do the work properly.”
+
+For the first time, his interest in your undertaking plainly extends beyond the equipment itself.
+
+He taps one finger beside the puncture.
+
+“Though I suggest we make it clear that this particular result is the instructor’s, before my men decide I expect them to reproduce it.”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years and 3 months, plus roughly a week or two; chronological estimate. Physically mature at approximately 3 metres.  
+**Date:** 04/11/0068 AC43 — late night, rear practice ground at Cressault.  
+**Reputation:** Desmaret has witnessed an extraordinary ten-shot grouping and heard your stated ambition for unity against the Hunters. His professional interest and personal respect have deepened; no political allegiance or change of oath established.  
+**Weapons (Equipped):** None; the trial rifle has been placed down. All **187 military rifles** remain accounted for.  
+**Armor/Clothing (Equipped):** Charcoal coat, shirt, dark trousers and leather boots. Uninjured and functional.  
+**Gear/Inventory:** Existing orders and papers; target sheet inspected by Desmaret. **11,978 rounds remain: 8,000 armour-piercing and 3,978 ordinary service**, after 22 total trial shots. Intelligence briefing requested through Desmaret, appointment still pending. Company instruction begins tomorrow.  
+**Currency:** **659 personal lorrats; 1,160 household lorrats** (148 reserved, 1,012 uncommitted). Programme unchanged: **14,024 recognised costs + 180 commitments + 3,796 headroom = 18,000**. Ammunition expenditure is recorded against stock already valued.
+
+
+## 588 - User - First training day
+
+We spend the rest of the night talking and I know that the captain will spread word of my ambitions and this should cascade to military support in many of my actions to come as I have secured the confidence of the upper and lower echelons of command. I spend all of the next day drilling the troops on how best to fire, maintain and position the weapon during combat scenarios. I show them simulated effects of cold, rain and mud and how they affect the weapon and how to manage the changes. Ways to carry the weapon to keep it held in an efficient manner for combat while reducing strain and tips for overall shot grouping. As I do this I talk to the men and ask them similar questions to the ones I asked the Captain last night. How they feel about the posting, what their biggest complaints are, what they actually think the military should be doing. Those sorts of things. At the end of the day I go find Desmaret and ask if there has been any response to the Intelligence Briefing Request.
+
+## OOC progress before exchange589
+
+I’ll check the current continuity records, then carry the scene through the first day’s training and Desmaret’s reply.
+
+## 589 - Assistant - The first training day
+
+By the time the lamps burn low, Desmaret has stopped addressing every answer to your title. He speaks more readily about his company: the men who keep others steady, the promises about leave he has grown tired of passing on, the families whose letters arrive after the circumstances described in them have already changed.
+
+He returns several times to what you said about the Hunters.
+
+“They ought to hear that from you,” he says eventually. “The men. They know what they’re defending. It helps to know someone further up is thinking beyond the next inspection.”
+
+By morning, something of your conversation has already travelled. At the officers’ briefing, Desmaret describes both your shooting and your reason for coming. Later, you hear a sergeant tell another that the designer intends these weapons to be the beginning of something larger. Your name is acquiring a meaning beyond the signature on their issue papers.
+
+***
+
+The first morning is grey and cold. Wet gravel crunches beneath boots; a thin wind carries coal smoke across the practice ground. Men stand with collars raised while the quartermaster calls names and enters rifle numbers against them.
+
+The receipt is completed: **160 rifles issued to the company, twenty-seven held in reserve**. Serault checks the return before the first groups move onto the range.
+
+You spend the day among them.
+
+Instruction alternates between firing, supervised maintenance and exercises with unloaded weapons. The weather provides ample opportunity to demonstrate the difficulties you describe. Water beads on metal; cuffs darken against damp benches; mud clings stubbornly to boots and equipment. You use controlled demonstrations to distinguish ordinary inconvenience from a fault that deserves attention, then have the men explain their observations back to you.
+
+Their experience gives you something substantial to work with. They already understand discipline and the weight of a weapon carried for hours. What takes adjustment is trusting an unfamiliar rifle without becoming careless because it promises more than the old one.
+
+You notice habits individually. A man who understands an explanation immediately but loses it under observation. Another who learns most quickly by watching his neighbour. A corporal whose patience makes him more useful to the slower learners than the finest shot in his section.
+
+By afternoon, the sergeants are reinforcing your instruction in words their own men recognise. The day's progress continues even when you move to another group.
+
+During pauses, you ask your questions.
+
+At first, the answers concern boots, billets and leave. One soldier glances towards Desmaret before complaining about a roof that leaks onto bedding. The captain listens without intervening, and the next answer comes more easily.
+
+“Leave dates that stay leave dates, my lord. My wife has stopped believing mine.”
+
+“Dry quarters. You can bear most things better after a dry night.”
+
+Then the answers widen.
+
+“I'd like to know what we're supposed to finish,” an older private says. “We hold the crossing. They hold their side. Someone fires, someone writes about it. Next month we're still here.”
+
+A younger man is less patient with the enemy across the border.
+
+“They shoot at us. I want them made to stop.”
+
+Others speak of protecting the railway, keeping the roads open, getting civilians out when alarms sound. When you raise the Hunters, conversation becomes more intent. There is anger, but also an eagerness to hear whether the man bringing them a new rifle has something more substantial to offer than another exhortation to courage.
+
+You give them your attention. By the end of the day, men who initially stood stiffly whenever you approached are volunteering observations and asking questions. They have watched you work through the same cold hours they have, remembering their difficulties and returning to see whether those difficulties were resolved.
+
+Their confidence has a practical foundation now. The larger ambitions have found listeners.
+
+***
+
+Dusk settles while the final equipment returns are checked. The day's ammunition tally is **1,620 ordinary service rounds**, including your demonstrations. Desmaret's sergeants bring him their first assessments: strong initial progress, with individual points to revisit during the remaining six days.
+
+You find him in the company office beneath a yellow lamp, sleeves rolled back, two sheets laid apart from the training returns.
+
+At your question, he picks up the uppermost one.
+
+“Yes. Major Vauzel has confirmed. Tomorrow evening, eighteen hundred, at district headquarters. He has arranged for an operations officer to attend as well.”
+
+He turns the message so you can read it.
+
+“Current estimates of Caldriennian forces opposite this district, their supporting formations, and reinforcement times. He'll have the dated situation map and distinguish confirmed reports from estimates. Your commission papers cover the briefing; Serault has dealt with the confirmation.”
+
+Desmaret places a finger beside the appointment.
+
+“Transport is arranged. We can finish tomorrow's instruction beforehand. I'll accompany you.”
+
+He glances at the other sheet, the first day's training return, and allows himself a small smile.
+
+“And you've given the barrack rooms something different to discuss tonight.”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years and 3 months, plus roughly a week or two; chronological estimate. Physically mature at approximately 3 metres.  
+**Date:** 05/11/0068 AC43 — evening, company office at Cressault.  
+**Reputation:** Confidence growing among Desmaret's officers, sergeants and soldiers. Your ambitions are beginning to circulate locally alongside accounts of your marksmanship and instruction.  
+**Weapons (Equipped):** None presently. **160 military rifles issued; 27 in reserve.**  
+**Armor/Clothing (Equipped):** Charcoal coat, shirt, dark trousers and leather boots; damp and marked by the day's training. Uninjured and functional.  
+**Gear/Inventory:** Commission papers and training records. **10,358 rounds remain: 8,000 armour-piercing and 2,358 ordinary service.** Training day **1 of 7** completed. Intelligence briefing confirmed for **06/11 at 18:00**, district headquarters.  
+**Currency:** **659 personal lorrats; 1,160 household lorrats** (148 reserved, 1,012 uncommitted). Programme's last closed return, **04/11:** 14,024 recognised costs + 180 commitments + 3,796 headroom = 18,000. The 05/11 operating return remains to be reconciled; today's ammunition was drawn from stock already valued.
+
+
+## 590 - User - OOC standing forces audit question
+
+Before we carry on when you did all the updates to the documentation for population, economic data, military data, etc did you update the standing force numbers at all because I feel like they would fluctuate?
+
+## OOC progress before exchange591
+
+I’ll check how the military figures were updated and whether standing forces changed between the dated returns.
+
+## 591 - Assistant - OOC standing forces audit finding
+
+**No—the standing-force numbers were left unchanged.** I checked the baseline against the latest published return: none of the 43 national or regional entries changed its standing personnel or reserve totals. Veyrasse remained at **156,000**, and Caldrienne at **296,000**.
+
+Other military figures did change. For example, Veyrasse’s serviceable armour increased from 390 to 396, aircraft from 180 to 184, and artillery from 710 to 720. Ossavren’s sustainable field strength fell from 460,000 to 445,000 because of logistical losses; that was not a reduction of 15,000 personnel.
+
+The documentation explicitly retained personnel “establishments”—essentially the planned size of the forces—unless a specific change was recorded. **That left a gap: an authorised establishment is not the same as actual serving strength.** I should have distinguished those instead of allowing unchanged establishment figures to stand in for current personnel estimates throughout the elapsed year.
+
+You’re right that actual numbers would fluctuate through recruitment, completed training, retirement, discharge, casualties, desertion and mobilisation. Some countries could remain broadly stable because replacements offset departures, but keeping every country unchanged needs more justification than the existing records provide.
+
+The correction should distinguish **authorised establishment, estimated serving personnel, trained reserves and deployable strength**, with dated changes grounded in each country’s circumstances. It should not simply increase armies at the population-growth rate or add arbitrary variation. So: equipment and some deployment capacity were updated, but the personnel side of the audit was incomplete.

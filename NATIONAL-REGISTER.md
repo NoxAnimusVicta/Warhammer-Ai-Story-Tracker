@@ -64,6 +64,14 @@ Treasury stocks are estimates carried from 21/10/0067 using the recorded financi
 
 WORLD-YEAR68.md records individual reviews for all 43 geographic returns, current conflict developments and inventory bridges. Ordinary programmes are already inside the modelled budget and production envelopes; no second charge or output bonus is added.
 
+## Personnel
+
+Serving personnel and additional trained reserves are dated estimates, not authorised establishments. The separate personnel-review.json reconciles entry, discharge, reserve transfers and eligibility losses. Authorised ceilings are not separately known. Field strength is a supportable subset, not another army. See PERSONNEL-REVIEW.md.
+
+## Personnel Budget
+
+Personnel spending is an aggregate annual envelope including allowances, administration and reserve-related costs; dividing by active personnel is a consistency indicator, not salary. Ordinary turnover remains inside existing expenditure and mortality estimates; no duplicate national charge or demographic deduction is added.
+
 ## Veldrassen
 
 National return. Population: 162,952,348.
@@ -101,9 +109,9 @@ Table and hospitality. A composite crown includes humid lowlands, high terraces 
 | fuel supply thousand tonnes coal equivalent | 545,316.661 |
 | food demand thousand tonnes grain equivalent | 65,180.939 |
 | food supply thousand tonnes grain equivalent | 67,570.064 |
-| standing | 1,742,000 |
-| additional reserves | 5,025,000 |
-| field sustainable | 592,000 |
+| standing | 1,754,000 |
+| additional reserves | 5,047,000 |
+| field sustainable | 598,000 |
 | serviceable armour | 4,600 |
 | serviceable aircraft | 3,420 |
 | serviceable artillery | 9,090 |
@@ -120,6 +128,12 @@ Table and hospitality. A composite crown includes humid lowlands, high terraces 
 | readiness (1–5) | 4 |
 | logistics (1–5) | 4 |
 | cohesion (1–5) | 3 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Provincial replacement intakes slightly exceed departures; depot coordination supports a modest increase without unifying provincial commands.
+
+Authorised establishment: not separately recorded. Serving share of population: 1.076%; sustainable field share: 34.09%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -212,9 +226,9 @@ Table and hospitality. Cereal estates, cattle districts and newly industrial tow
 | fuel supply thousand tonnes coal equivalent | 90,927.426 |
 | food demand thousand tonnes grain equivalent | 46,875.605 |
 | food supply thousand tonnes grain equivalent | 58,043.763 |
-| standing | 1,515,000 |
-| additional reserves | 3,881,000 |
-| field sustainable | 485,000 |
+| standing | 1,523,000 |
+| additional reserves | 3,899,000 |
+| field sustainable | 486,000 |
 | serviceable armour | 4,185 |
 | serviceable aircraft | 1,550 |
 | serviceable artillery | 7,200 |
@@ -231,6 +245,12 @@ Table and hospitality. Cereal estates, cattle districts and newly industrial tow
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 4 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Replacement recruitment modestly exceeds discharge; transport shortages constrain how many additional personnel can deploy.
+
+Authorised establishment: not separately recorded. Serving share of population: 1.3%; sustainable field share: 31.91%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -323,9 +343,9 @@ Table and hospitality. Maritime commerce joins a mild western coast to upland ch
 | fuel supply thousand tonnes coal equivalent | 57,504.702 |
 | food demand thousand tonnes grain equivalent | 28,366.79 |
 | food supply thousand tonnes grain equivalent | 21,716.061 |
-| standing | 487,000 |
-| additional reserves | 1,546,000 |
-| field sustainable | 156,000 |
+| standing | 491,500 |
+| additional reserves | 1,554,000 |
+| field sustainable | 158,000 |
 | serviceable armour | 1,830 |
 | serviceable aircraft | 1,150 |
 | serviceable artillery | 2,310 |
@@ -342,6 +362,12 @@ Table and hospitality. Maritime commerce joins a mild western coast to upland ch
 | readiness (1–5) | 4 |
 | logistics (1–5) | 5 |
 | cohesion (1–5) | 4 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Naval and technical intakes support escort replacement and yard rotations; commercial labour competition restrains expansion.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.693%; sustainable field share: 32.15%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -434,8 +460,8 @@ Table and hospitality. Unequal river cities share barges, mill customs and perio
 | fuel supply thousand tonnes coal equivalent | 47,561.002 |
 | food demand thousand tonnes grain equivalent | 19,103.426 |
 | food supply thousand tonnes grain equivalent | 22,775.691 |
-| standing | 361,000 |
-| additional reserves | 1,012,000 |
+| standing | 359,500 |
+| additional reserves | 1,016,500 |
 | field sustainable | 94,000 |
 | serviceable armour | 430 |
 | serviceable aircraft | 380 |
@@ -453,6 +479,12 @@ Table and hospitality. Unequal river cities share barges, mill customs and perio
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Routine discharge slightly exceeds replacement intake; the water compact improves predictability without enlarging the federal army.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.753%; sustainable field share: 26.15%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -545,9 +577,9 @@ Table and hospitality. Border garrisons borrow cooking from both larger patrons,
 | fuel supply thousand tonnes coal equivalent | 16,007.31 |
 | food demand thousand tonnes grain equivalent | 12,620.834 |
 | food supply thousand tonnes grain equivalent | 12,450.13 |
-| standing | 448,000 |
-| additional reserves | 1,003,000 |
-| field sustainable | 175,000 |
+| standing | 443,500 |
+| additional reserves | 1,010,500 |
+| field sustainable | 173,500 |
 | serviceable armour | 420 |
 | serviceable aircraft | 310 |
 | serviceable artillery | 2,380 |
@@ -564,6 +596,12 @@ Table and hospitality. Border garrisons borrow cooking from both larger patrons,
 | readiness (1–5) | 4 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Shorter reserve rotations and harvest labour needs reduce active commitments while returning trained people to the reserve.
+
+Authorised establishment: not separately recorded. Serving share of population: 1.406%; sustainable field share: 39.12%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -656,9 +694,9 @@ Table and hospitality. Industrial towns link cooler uplands to river farms. Work
 | fuel supply thousand tonnes coal equivalent | 30,955.11 |
 | food demand thousand tonnes grain equivalent | 11,991.08 |
 | food supply thousand tonnes grain equivalent | 10,177.022 |
-| standing | 329,000 |
-| additional reserves | 793,000 |
-| field sustainable | 115,000 |
+| standing | 325,500 |
+| additional reserves | 790,500 |
+| field sustainable | 113,500 |
 | serviceable armour | 1,575 |
 | serviceable aircraft | 606 |
 | serviceable artillery | 1,640 |
@@ -675,6 +713,12 @@ Table and hospitality. Industrial towns link cooler uplands to river farms. Work
 | readiness (1–5) | 4 |
 | logistics (1–5) | 4 |
 | cohesion (1–5) | 4 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Disruption after the recorded Hunter strike slows replacement training and eligibility retention; the reduction includes departures, not just deaths.
+
+Authorised establishment: not separately recorded. Serving share of population: 1.086%; sustainable field share: 34.87%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -767,8 +811,8 @@ Table and hospitality. Former royal roads carried recipes across a realm now div
 | fuel supply thousand tonnes coal equivalent | 297,925.369 |
 | food demand thousand tonnes grain equivalent | 66,825.193 |
 | food supply thousand tonnes grain equivalent | 70,767.707 |
-| standing | 1,998,000 |
-| additional reserves | 4,539,000 |
+| standing | 1,976,000 |
+| additional reserves | 4,521,000 |
 | field sustainable | 445,000 |
 | serviceable armour | 5,230 |
 | serviceable aircraft | 2,140 |
@@ -786,6 +830,12 @@ Table and hospitality. Former royal roads carried recipes across a realm now div
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Fragmented recruitment and retention fail to replace all departures during internal fighting. The existing 445,000 logistical field ceiling remains controlling.
+
+Authorised establishment: not separately recorded. Serving share of population: 1.183%; sustainable field share: 22.52%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -878,8 +928,8 @@ Table and hospitality. Sheltered southern valleys support oats, rye, roots and d
 | fuel supply thousand tonnes coal equivalent | 34,660.329 |
 | food demand thousand tonnes grain equivalent | 11,776.776 |
 | food supply thousand tonnes grain equivalent | 10,610.305 |
-| standing | 243,000 |
-| additional reserves | 712,000 |
+| standing | 241,800 |
+| additional reserves | 714,500 |
 | field sustainable | 58,000 |
 | serviceable armour | 304 |
 | serviceable aircraft | 150 |
@@ -897,6 +947,12 @@ Table and hospitality. Sheltered southern valleys support oats, rye, roots and d
 | readiness (1–5) | 3 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 3 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Seasonal discharge slightly exceeds replacement intake; fixed valley commitments absorb the restored vehicle capacity.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.821%; sustainable field share: 23.99%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -989,9 +1045,9 @@ Table and hospitality. Mining leagues inherit northern preservation techniques b
 | fuel supply thousand tonnes coal equivalent | 40,647.458 |
 | food demand thousand tonnes grain equivalent | 7,896.753 |
 | food supply thousand tonnes grain equivalent | 5,249.965 |
-| standing | 183,000 |
-| additional reserves | 517,000 |
-| field sustainable | 49,000 |
+| standing | 183,900 |
+| additional reserves | 518,800 |
+| field sustainable | 49,500 |
 | serviceable armour | 500 |
 | serviceable aircraft | 200 |
 | serviceable artillery | 898 |
@@ -1008,6 +1064,12 @@ Table and hospitality. Mining leagues inherit northern preservation techniques b
 | readiness (1–5) | 4 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Specialist replacement training and completed maintenance support small gains while imported grain constrains expansion.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.932%; sustainable field share: 26.92%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -1100,9 +1162,9 @@ Table and hospitality. Order houses preserve remedies and practical cookery alon
 | fuel supply thousand tonnes coal equivalent | 8,527.222 |
 | food demand thousand tonnes grain equivalent | 4,497.466 |
 | food supply thousand tonnes grain equivalent | 3,744.759 |
-| standing | 112,000 |
-| additional reserves | 253,000 |
-| field sustainable | 29,000 |
+| standing | 112,600 |
+| additional reserves | 254,500 |
+| field sustainable | 29,300 |
 | serviceable armour | 130 |
 | serviceable aircraft | 70 |
 | serviceable artillery | 610 |
@@ -1119,6 +1181,12 @@ Table and hospitality. Order houses preserve remedies and practical cookery alon
 | readiness (1–5) | 4 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 3 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Medical and support training improves retention and replacement capacity without creating a new mass army.
+
+Authorised establishment: not separately recorded. Serving share of population: 1.001%; sustainable field share: 26.02%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -1211,8 +1279,8 @@ Table and hospitality. Seasonal river traffic sustains mills, fisheries and gard
 | fuel supply thousand tonnes coal equivalent | 12,033.993 |
 | food demand thousand tonnes grain equivalent | 7,526.85 |
 | food supply thousand tonnes grain equivalent | 8,717.798 |
-| standing | 130,000 |
-| additional reserves | 413,000 |
+| standing | 129,400 |
+| additional reserves | 414,700 |
 | field sustainable | 32,000 |
 | serviceable armour | 140 |
 | serviceable aircraft | 70 |
@@ -1230,6 +1298,12 @@ Table and hospitality. Seasonal river traffic sustains mills, fisheries and gard
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 4 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Replacement militia cycles broadly maintain strength; slight active contraction accompanies reserve accumulation.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.688%; sustainable field share: 24.73%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -1322,9 +1396,9 @@ Table and hospitality. Western ports face a different trading sea from Veyrasse 
 | fuel supply thousand tonnes coal equivalent | 27,146.088 |
 | food demand thousand tonnes grain equivalent | 14,562.132 |
 | food supply thousand tonnes grain equivalent | 12,877.928 |
-| standing | 259,000 |
-| additional reserves | 762,000 |
-| field sustainable | 75,000 |
+| standing | 261,300 |
+| additional reserves | 765,200 |
+| field sustainable | 76,200 |
 | serviceable armour | 720 |
 | serviceable aircraft | 415 |
 | serviceable artillery | 1,280 |
@@ -1341,6 +1415,12 @@ Table and hospitality. Western ports face a different trading sea from Veyrasse 
 | readiness (1–5) | 4 |
 | logistics (1–5) | 4 |
 | cohesion (1–5) | 4 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Naval training rotations and replacement marine machinery support a modest increase in staffed and supportable forces.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.718%; sustainable field share: 29.16%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -1433,9 +1513,9 @@ Table and hospitality. Refinery and arsenal towns share a strong canteen traditi
 | fuel supply thousand tonnes coal equivalent | 139,864.488 |
 | food demand thousand tonnes grain equivalent | 25,693.754 |
 | food supply thousand tonnes grain equivalent | 28,359.62 |
-| standing | 810,000 |
-| additional reserves | 2,294,000 |
-| field sustainable | 275,000 |
+| standing | 816,500 |
+| additional reserves | 2,304,000 |
+| field sustainable | 277,000 |
 | serviceable armour | 1,735 |
 | serviceable aircraft | 880 |
 | serviceable artillery | 4,340 |
@@ -1452,6 +1532,12 @@ Table and hospitality. Refinery and arsenal towns share a strong canteen traditi
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 4 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Regular intake maintains reinforced frontier commitments; no general mobilisation is assumed from the exercise.
+
+Authorised establishment: not separately recorded. Serving share of population: 1.271%; sustainable field share: 33.93%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -1544,9 +1630,9 @@ Table and hospitality. Provincial land bargains preserve different kitchens insi
 | fuel supply thousand tonnes coal equivalent | 41,137.988 |
 | food demand thousand tonnes grain equivalent | 19,661.695 |
 | food supply thousand tonnes grain equivalent | 23,209.831 |
-| standing | 479,000 |
-| additional reserves | 1,453,000 |
-| field sustainable | 144,000 |
+| standing | 482,800 |
+| additional reserves | 1,459,200 |
+| field sustainable | 145,500 |
 | serviceable armour | 570 |
 | serviceable aircraft | 540 |
 | serviceable artillery | 2,640 |
@@ -1563,6 +1649,12 @@ Table and hospitality. Provincial land bargains preserve different kitchens insi
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Precautionary staffing and improved vehicle repair slightly raise sustainable capacity without a wartime call-up.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.982%; sustainable field share: 30.14%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -1655,9 +1747,9 @@ Table and hospitality. The old Serevask customs federation joined four southern 
 | fuel supply thousand tonnes coal equivalent | 7,872.457 |
 | food demand thousand tonnes grain equivalent | 5,210.441 |
 | food supply thousand tonnes grain equivalent | 4,787.927 |
-| standing | 147,000 |
-| additional reserves | 303,000 |
-| field sustainable | 37,000 |
+| standing | 145,800 |
+| additional reserves | 305,000 |
+| field sustainable | 37,300 |
 | serviceable armour | 190 |
 | serviceable aircraft | 80 |
 | serviceable artillery | 710 |
@@ -1674,6 +1766,12 @@ Table and hospitality. The old Serevask customs federation joined four southern 
 | readiness (1–5) | 3 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 2 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Debt constrains active replacement; improved supply coordination offsets the small manpower reduction in field support.
+
+Authorised establishment: not separately recorded. Serving share of population: 1.119%; sustainable field share: 25.58%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -1766,9 +1864,9 @@ Table and hospitality. Delta rice, fisheries and freight markets furnished the f
 | fuel supply thousand tonnes coal equivalent | 14,192.417 |
 | food demand thousand tonnes grain equivalent | 8,355.388 |
 | food supply thousand tonnes grain equivalent | 9,461.611 |
-| standing | 188,000 |
-| additional reserves | 491,000 |
-| field sustainable | 53,000 |
+| standing | 189,500 |
+| additional reserves | 494,500 |
+| field sustainable | 53,700 |
 | serviceable armour | 180 |
 | serviceable aircraft | 120 |
 | serviceable artillery | 880 |
@@ -1785,6 +1883,12 @@ Table and hospitality. Delta rice, fisheries and freight markets furnished the f
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Local recruitment and more predictable supply allow small gains without pooling the basin armies.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.907%; sustainable field share: 28.34%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -1877,9 +1981,9 @@ Table and hospitality. Upriver gardens and plantation labour communities mix bas
 | fuel supply thousand tonnes coal equivalent | 5,997.486 |
 | food demand thousand tonnes grain equivalent | 7,088.258 |
 | food supply thousand tonnes grain equivalent | 9,353.221 |
-| standing | 160,000 |
-| additional reserves | 435,000 |
-| field sustainable | 37,000 |
+| standing | 160,600 |
+| additional reserves | 437,300 |
+| field sustainable | 37,300 |
 | serviceable armour | 190 |
 | serviceable aircraft | 40 |
 | serviceable artillery | 820 |
@@ -1896,6 +2000,12 @@ Table and hospitality. Upriver gardens and plantation labour communities mix bas
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 2 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Replacement intake edges above departures; imported equipment limits field growth.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.906%; sustainable field share: 23.23%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -1988,8 +2098,8 @@ Table and hospitality. March-house kitchens descend from basin customs but favou
 | fuel supply thousand tonnes coal equivalent | 2,075.022 |
 | food demand thousand tonnes grain equivalent | 2,803.968 |
 | food supply thousand tonnes grain equivalent | 3,049.011 |
-| standing | 83,000 |
-| additional reserves | 190,000 |
+| standing | 82,600 |
+| additional reserves | 191,100 |
 | field sustainable | 23,000 |
 | serviceable armour | 90 |
 | serviceable aircraft | 20 |
@@ -2007,6 +2117,12 @@ Table and hospitality. March-house kitchens descend from basin customs but favou
 | readiness (1–5) | 3 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 2 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Household turnover produces a small net contraction; participating courts retain separate forces.
+
+Authorised establishment: not separately recorded. Serving share of population: 1.178%; sustainable field share: 27.85%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -2099,8 +2215,8 @@ Table and hospitality. Rice cooked in coconut milk accompanies peppered fish nea
 | fuel supply thousand tonnes coal equivalent | 13,801.032 |
 | food demand thousand tonnes grain equivalent | 12,995.21 |
 | food supply thousand tonnes grain equivalent | 13,801.032 |
-| standing | 223,000 |
-| additional reserves | 589,000 |
+| standing | 221,900 |
+| additional reserves | 591,100 |
 | field sustainable | 40,000 |
 | serviceable armour | 270 |
 | serviceable aircraft | 40 |
@@ -2118,6 +2234,12 @@ Table and hospitality. Rice cooked in coconut milk accompanies peppered fish nea
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Harvest labour and separate toll jurisdictions favour reserve retention over additional active service.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.683%; sustainable field share: 18.03%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -2210,9 +2332,9 @@ Table and hospitality. Barley noodles with browned cabbage are everyday food in 
 | fuel supply thousand tonnes coal equivalent | 9,242.555 |
 | food demand thousand tonnes grain equivalent | 8,731.328 |
 | food supply thousand tonnes grain equivalent | 9,242.555 |
-| standing | 158,000 |
-| additional reserves | 378,000 |
-| field sustainable | 28,000 |
+| standing | 157,100 |
+| additional reserves | 379,800 |
+| field sustainable | 27,900 |
 | serviceable armour | 200 |
 | serviceable aircraft | 30 |
 | serviceable artillery | 760 |
@@ -2229,6 +2351,12 @@ Table and hospitality. Barley noodles with browned cabbage are everyday food in 
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Seasonal household service and mountain supply slightly reduce the combined active and field returns.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.72%; sustainable field share: 17.76%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -2321,8 +2449,8 @@ Table and hospitality. Millet porridge with greens and groundnut sauce feeds fie
 | fuel supply thousand tonnes coal equivalent | 12,505.433 |
 | food demand thousand tonnes grain equivalent | 11,877.764 |
 | food supply thousand tonnes grain equivalent | 12,505.433 |
-| standing | 202,000 |
-| additional reserves | 546,000 |
+| standing | 201,300 |
+| additional reserves | 548,600 |
 | field sustainable | 36,000 |
 | serviceable armour | 190 |
 | serviceable aircraft | 40 |
@@ -2340,6 +2468,12 @@ Table and hospitality. Millet porridge with greens and groundnut sauce feeds fie
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Local replacement intakes maintain broadly level forces; reserve eligibility increases through discharged service personnel.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.678%; sustainable field share: 17.88%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -2432,9 +2566,9 @@ Table and hospitality. Astrellac cooks fish in tomato and fennel broth and lays 
 | fuel supply thousand tonnes coal equivalent | 20,448.073 |
 | food demand thousand tonnes grain equivalent | 19,387.438 |
 | food supply thousand tonnes grain equivalent | 20,448.073 |
-| standing | 364,000 |
-| additional reserves | 882,000 |
-| field sustainable | 66,000 |
+| standing | 365,800 |
+| additional reserves | 885,200 |
+| field sustainable | 66,800 |
 | serviceable armour | 390 |
 | serviceable aircraft | 90 |
 | serviceable artillery | 1,720 |
@@ -2451,6 +2585,12 @@ Table and hospitality. Astrellac cooks fish in tomato and fennel broth and lays 
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Participating escort and harbour services increase staffing modestly; no unified regional command results.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.755%; sustainable field share: 18.26%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -2543,9 +2683,9 @@ Table and hospitality. Workers eat oat flatbread, pea soup and smoked fish at co
 | fuel supply thousand tonnes coal equivalent | 9,847.637 |
 | food demand thousand tonnes grain equivalent | 3,491.511 |
 | food supply thousand tonnes grain equivalent | 2,637.76 |
-| standing | 66,000 |
-| additional reserves | 156,000 |
-| field sustainable | 12,000 |
+| standing | 65,100 |
+| additional reserves | 154,800 |
+| field sustainable | 11,600 |
 | serviceable armour | 66 |
 | serviceable aircraft | 20 |
 | serviceable artillery | 310 |
@@ -2562,6 +2702,12 @@ Table and hospitality. Workers eat oat flatbread, pea soup and smoked fish at co
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Concession fighting and the remote Hunter strike disrupt retention and support; unavailable personnel are not automatically fatalities.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.746%; sustainable field share: 17.82%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -2654,9 +2800,9 @@ Table and hospitality. Rye-and-oat bread, dried fish and sour cabbage dominate f
 | fuel supply thousand tonnes coal equivalent | 10,800.68 |
 | food demand thousand tonnes grain equivalent | 5,268.482 |
 | food supply thousand tonnes grain equivalent | 3,990.399 |
-| standing | 92,000 |
-| additional reserves | 223,000 |
-| field sustainable | 17,000 |
+| standing | 92,300 |
+| additional reserves | 224,000 |
+| field sustainable | 17,200 |
 | serviceable armour | 120 |
 | serviceable aircraft | 20 |
 | serviceable artillery | 460 |
@@ -2673,6 +2819,12 @@ Table and hospitality. Rye-and-oat bread, dried fish and sour cabbage dominate f
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Mutual stores and hospice access assist small replacement and support gains across separate wardholds.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.701%; sustainable field share: 18.63%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -2765,9 +2917,9 @@ Table and hospitality. Fish baked under a rye crust is shared along the shore; i
 | fuel supply thousand tonnes coal equivalent | 9,055.787 |
 | food demand thousand tonnes grain equivalent | 4,461.509 |
 | food supply thousand tonnes grain equivalent | 3,345.734 |
-| standing | 76,000 |
-| additional reserves | 192,000 |
-| field sustainable | 14,000 |
+| standing | 76,200 |
+| additional reserves | 192,600 |
+| field sustainable | 14,100 |
 | serviceable armour | 80 |
 | serviceable aircraft | 20 |
 | serviceable artillery | 400 |
@@ -2784,6 +2936,12 @@ Table and hospitality. Fish baked under a rye crust is shared along the shore; i
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Harbour maintenance supports a small service intake; seasonal restrictions remain.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.683%; sustainable field share: 18.5%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -2876,9 +3034,9 @@ Table and hospitality. Households bake bean-and-onion pies and stretch broth wit
 | fuel supply thousand tonnes coal equivalent | 17,660.051 |
 | food demand thousand tonnes grain equivalent | 11,215.383 |
 | food supply thousand tonnes grain equivalent | 11,773.367 |
-| standing | 200,000 |
-| additional reserves | 509,000 |
-| field sustainable | 36,000 |
+| standing | 199,500 |
+| additional reserves | 511,200 |
+| field sustainable | 36,200 |
 | serviceable armour | 190 |
 | serviceable aircraft | 130 |
 | serviceable artillery | 1,080 |
@@ -2895,6 +3053,12 @@ Table and hospitality. Households bake bean-and-onion pies and stretch broth wit
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Active turnover is slightly negative; predictable warehouse support marginally improves sustainable deployment.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.712%; sustainable field share: 18.15%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -2987,8 +3151,8 @@ Table and hospitality. Rice-and-bean dishes with sharp green relish are common i
 | fuel supply thousand tonnes coal equivalent | 12,831.256 |
 | food demand thousand tonnes grain equivalent | 8,091.451 |
 | food supply thousand tonnes grain equivalent | 8,554.171 |
-| standing | 151,000 |
-| additional reserves | 375,000 |
+| standing | 149,800 |
+| additional reserves | 376,800 |
 | field sustainable | 27,000 |
 | serviceable armour | 170 |
 | serviceable aircraft | 80 |
@@ -3006,6 +3170,12 @@ Table and hospitality. Rice-and-bean dishes with sharp green relish are common i
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Harvest and requisition limits encourage transfer back to civilian and reserve status; supply improvements maintain field capacity.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.741%; sustainable field share: 18.02%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -3098,9 +3268,9 @@ Table and hospitality. Coastal kitchens combine fish, white beans, garlic and lo
 | fuel supply thousand tonnes coal equivalent | 10,338.698 |
 | food demand thousand tonnes grain equivalent | 6,511.392 |
 | food supply thousand tonnes grain equivalent | 6,892.465 |
-| standing | 118,000 |
-| additional reserves | 292,000 |
-| field sustainable | 21,000 |
+| standing | 118,400 |
+| additional reserves | 292,900 |
+| field sustainable | 21,200 |
 | serviceable armour | 120 |
 | serviceable aircraft | 70 |
 | serviceable artillery | 630 |
@@ -3117,6 +3287,12 @@ Table and hospitality. Coastal kitchens combine fish, white beans, garlic and lo
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Coastal service and pilot coordination support modest recruitment and support gains.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.727%; sustainable field share: 17.91%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -3209,9 +3385,9 @@ Table and hospitality. Pass commerce carried dairy and grain dishes between othe
 | fuel supply thousand tonnes coal equivalent | 15,583.836 |
 | food demand thousand tonnes grain equivalent | 3,207.56 |
 | food supply thousand tonnes grain equivalent | 2,323.056 |
-| standing | 94,000 |
-| additional reserves | 254,000 |
-| field sustainable | 23,000 |
+| standing | 94,500 |
+| additional reserves | 255,400 |
+| field sustainable | 23,200 |
 | serviceable armour | 60 |
 | serviceable aircraft | 60 |
 | serviceable artillery | 708 |
@@ -3228,6 +3404,12 @@ Table and hospitality. Pass commerce carried dairy and grain dishes between othe
 | readiness (1–5) | 4 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 3 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Routine intake and gun refurbishment modestly improve capacity; no railway construction or mobilisation is assumed.
+
+Authorised establishment: not separately recorded. Serving share of population: 1.178%; sustainable field share: 24.55%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -3320,9 +3502,9 @@ Table and hospitality. Agricultural estates feed the northern arsenals; ducal ki
 | fuel supply thousand tonnes coal equivalent | 24,375.931 |
 | food demand thousand tonnes grain equivalent | 9,600.662 |
 | food supply thousand tonnes grain equivalent | 11,414.126 |
-| standing | 296,000 |
-| additional reserves | 727,000 |
-| field sustainable | 107,000 |
+| standing | 301,200 |
+| additional reserves | 735,500 |
+| field sustainable | 108,800 |
 | serviceable armour | 1,540 |
 | serviceable aircraft | 366 |
 | serviceable artillery | 1,885 |
@@ -3339,6 +3521,12 @@ Table and hospitality. Agricultural estates feed the northern arsenals; ducal ki
 | readiness (1–5) | 4 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 4 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Regular recruiting sustains reinforced frontier posts and replacement equipment crews; this is modest expansion under the armed truce.
+
+Authorised establishment: not separately recorded. Serving share of population: 1.255%; sustainable field share: 36.12%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -3431,9 +3619,9 @@ Table and hospitality. Old coastal markets and the railway labour settlements ex
 | fuel supply thousand tonnes coal equivalent | 13,708.095 |
 | food demand thousand tonnes grain equivalent | 6,314.878 |
 | food supply thousand tonnes grain equivalent | 6,127.582 |
-| standing | 156,000 |
-| additional reserves | 441,000 |
-| field sustainable | 45,000 |
+| standing | 158,400 |
+| additional reserves | 445,600 |
+| field sustainable | 45,900 |
 | serviceable armour | 396 |
 | serviceable aircraft | 184 |
 | serviceable artillery | 720 |
@@ -3450,6 +3638,12 @@ Table and hospitality. Old coastal markets and the railway labour settlements ex
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Regular recruiting and improved conventional maintenance slightly increase serving and field strength. The pilot rifles do not create additional soldiers.
+
+Authorised establishment: not separately recorded. Serving share of population: 1.003%; sustainable field share: 28.98%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -3542,9 +3736,9 @@ Table and hospitality. The banking ports absorbed recipes from their merchant cr
 | fuel supply thousand tonnes coal equivalent | 12,519.297 |
 | food demand thousand tonnes grain equivalent | 7,284.491 |
 | food supply thousand tonnes grain equivalent | 6,204.9 |
-| standing | 137,000 |
-| additional reserves | 421,000 |
-| field sustainable | 38,000 |
+| standing | 138,200 |
+| additional reserves | 423,100 |
+| field sustainable | 38,500 |
 | serviceable armour | 360 |
 | serviceable aircraft | 245 |
 | serviceable artillery | 690 |
@@ -3561,6 +3755,12 @@ Table and hospitality. The banking ports absorbed recipes from their merchant cr
 | readiness (1–5) | 4 |
 | logistics (1–5) | 4 |
 | cohesion (1–5) | 3 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Replacement escort and engine programmes support additional trained crews and support staff.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.759%; sustainable field share: 27.86%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -3653,9 +3853,9 @@ Table and hospitality. Limited grain land and long sea passages made imported fl
 | fuel supply thousand tonnes coal equivalent | 887.172 |
 | food demand thousand tonnes grain equivalent | 1,163.974 |
 | food supply thousand tonnes grain equivalent | 710.943 |
-| standing | 33,000 |
-| additional reserves | 72,000 |
-| field sustainable | 7,000 |
+| standing | 33,250 |
+| additional reserves | 72,550 |
+| field sustainable | 7,100 |
 | serviceable armour | 10 |
 | serviceable aircraft | 40 |
 | serviceable artillery | 170 |
@@ -3672,6 +3872,12 @@ Table and hospitality. Limited grain land and long sea passages made imported fl
 | readiness (1–5) | 4 |
 | logistics (1–5) | 4 |
 | cohesion (1–5) | 4 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Small naval intakes support replacement patrol tonnage and coordinated port services.
+
+Authorised establishment: not separately recorded. Serving share of population: 1.143%; sustainable field share: 21.35%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -3764,9 +3970,9 @@ Table and hospitality. Terrace farms and convoy stores support distinct island k
 | fuel supply thousand tonnes coal equivalent | 607.658 |
 | food demand thousand tonnes grain equivalent | 723.573 |
 | food supply thousand tonnes grain equivalent | 810.21 |
-| standing | 9,000 |
-| additional reserves | 25,000 |
-| field sustainable | 2,200 |
+| standing | 9,050 |
+| additional reserves | 25,130 |
+| field sustainable | 2,220 |
 | serviceable armour | 6 |
 | serviceable aircraft | 18 |
 | serviceable artillery | 40 |
@@ -3783,6 +3989,12 @@ Table and hospitality. Terrace farms and convoy stores support distinct island k
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Patrol restoration supports a small service increase under separate island votes.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.5%; sustainable field share: 24.53%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -3875,9 +4087,9 @@ Table and hospitality. Older island farming overlaps with settler orchards and e
 | fuel supply thousand tonnes coal equivalent | 291.772 |
 | food demand thousand tonnes grain equivalent | 441.612 |
 | food supply thousand tonnes grain equivalent | 477.445 |
-| standing | 7,000 |
-| additional reserves | 14,000 |
-| field sustainable | 1,500 |
+| standing | 6,920 |
+| additional reserves | 14,120 |
+| field sustainable | 1,480 |
 | serviceable armour | 12 |
 | serviceable aircraft | 15 |
 | serviceable artillery | 36 |
@@ -3894,6 +4106,12 @@ Table and hospitality. Older island farming overlaps with settler orchards and e
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 2 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Levy disputes and legal suspension discourage expanded active obligations; no armed uprising is invented.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.627%; sustainable field share: 21.39%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -3986,9 +4204,9 @@ Table and hospitality. Terraced grain and sheltered orchards developed alongside
 | fuel supply thousand tonnes coal equivalent | 1,466.095 |
 | food demand thousand tonnes grain equivalent | 1,288.32 |
 | food supply thousand tonnes grain equivalent | 1,530.397 |
-| standing | 17,000 |
-| additional reserves | 58,000 |
-| field sustainable | 4,800 |
+| standing | 17,140 |
+| additional reserves | 58,350 |
+| field sustainable | 4,860 |
 | serviceable armour | 15 |
 | serviceable aircraft | 24 |
 | serviceable artillery | 65 |
@@ -4005,6 +4223,12 @@ Table and hospitality. Terraced grain and sheltered orchards developed alongside
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 4 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Navigation and engine-school intakes support limited staffed patrol and support growth.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.532%; sustainable field share: 28.35%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -4097,8 +4321,8 @@ Table and hospitality. Cold-water fishing and mixed farming supply households an
 | fuel supply thousand tonnes coal equivalent | 421.984 |
 | food demand thousand tonnes grain equivalent | 401.749 |
 | food supply thousand tonnes grain equivalent | 506.381 |
-| standing | 5,500 |
-| additional reserves | 17,000 |
+| standing | 5,460 |
+| additional reserves | 17,090 |
 | field sustainable | 1,300 |
 | serviceable armour | 4 |
 | serviceable aircraft | 8 |
@@ -4116,6 +4340,12 @@ Table and hospitality. Cold-water fishing and mixed farming supply households an
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 2 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Seasonal rotation slightly reduces active strength; grain and spares agreements sustain the existing field allocation.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.544%; sustainable field share: 23.81%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -4208,8 +4438,8 @@ Table and hospitality. Collective stores and rescue obligations shape the table.
 | fuel supply thousand tonnes coal equivalent | 298.403 |
 | food demand thousand tonnes grain equivalent | 180.383 |
 | food supply thousand tonnes grain equivalent | 182.659 |
-| standing | 2,200 |
-| additional reserves | 14,000 |
+| standing | 2,180 |
+| additional reserves | 14,080 |
 | field sustainable | 450 |
 | serviceable armour | 0 |
 | serviceable aircraft | 2 |
@@ -4227,6 +4457,12 @@ Table and hospitality. Collective stores and rescue obligations shape the table.
 | readiness (1–5) | 3 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 3 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Small hearth-service rotations favour reserve status; pooled stores sustain the existing field capacity.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.483%; sustainable field share: 20.64%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -4319,9 +4555,9 @@ Table and hospitality. Port commerce brought varied seasonings to island farming
 | fuel supply thousand tonnes coal equivalent | 868.082 |
 | food demand thousand tonnes grain equivalent | 643.479 |
 | food supply thousand tonnes grain equivalent | 668.745 |
-| standing | 10,500 |
-| additional reserves | 30,000 |
-| field sustainable | 2,900 |
+| standing | 10,600 |
+| additional reserves | 30,180 |
+| field sustainable | 2,940 |
 | serviceable armour | 22 |
 | serviceable aircraft | 35 |
 | serviceable artillery | 58 |
@@ -4338,6 +4574,12 @@ Table and hospitality. Port commerce brought varied seasonings to island farming
 | readiness (1–5) | 4 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Restored patrol tonnage and workshop activity support a small net trained-service intake.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.659%; sustainable field share: 27.74%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -4430,8 +4672,8 @@ Table and hospitality. Wet-valley cultivation and reef fisheries support inter-i
 | fuel supply thousand tonnes coal equivalent | 925.955 |
 | food demand thousand tonnes grain equivalent | 967.035 |
 | food supply thousand tonnes grain equivalent | 1,167.089 |
-| standing | 8,000 |
-| additional reserves | 45,000 |
+| standing | 7,960 |
+| additional reserves | 45,230 |
 | field sustainable | 1,800 |
 | serviceable armour | 0 |
 | serviceable aircraft | 9 |
@@ -4449,6 +4691,12 @@ Table and hospitality. Wet-valley cultivation and reef fisheries support inter-i
 | readiness (1–5) | 3 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 3 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Kin-based rotations return more members to reserve while improved supply access maintains field support.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.329%; sustainable field share: 22.61%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -4541,9 +4789,9 @@ Table and hospitality. A maritime court draws on irrigated valleys, plantation d
 | fuel supply thousand tonnes coal equivalent | 843.969 |
 | food demand thousand tonnes grain equivalent | 704.053 |
 | food supply thousand tonnes grain equivalent | 773.638 |
-| standing | 10,000 |
-| additional reserves | 31,000 |
-| field sustainable | 2,600 |
+| standing | 10,060 |
+| additional reserves | 31,160 |
+| field sustainable | 2,620 |
 | serviceable armour | 14 |
 | serviceable aircraft | 20 |
 | serviceable artillery | 44 |
@@ -4560,6 +4808,12 @@ Table and hospitality. A maritime court draws on irrigated valleys, plantation d
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 4 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Limited contract renewal supports modest replacement intake without a new military-industrial branch.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.572%; sustainable field share: 26.04%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -4652,8 +4906,8 @@ Table and hospitality. Settler dairy farms and older fishing communities exchang
 | fuel supply thousand tonnes coal equivalent | 868.082 |
 | food demand thousand tonnes grain equivalent | 481.644 |
 | food supply thousand tonnes grain equivalent | 472.623 |
-| standing | 8,500 |
-| additional reserves | 18,000 |
+| standing | 8,440 |
+| additional reserves | 18,110 |
 | field sustainable | 1,900 |
 | serviceable armour | 10 |
 | serviceable aircraft | 18 |
@@ -4671,6 +4925,12 @@ Table and hospitality. Settler dairy farms and older fishing communities exchang
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 2 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. Seasonal local service rotation slightly reduces active personnel; visiting mainland forces are not added to the colonial return.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.701%; sustainable field share: 22.51%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
@@ -4763,8 +5023,8 @@ Table and hospitality. Seasonal travel and reciprocal refuge duties shape storag
 | fuel supply thousand tonnes coal equivalent | 65.106 |
 | food demand thousand tonnes grain equivalent | 48.068 |
 | food supply thousand tonnes grain equivalent | 45.333 |
-| standing | 450 |
-| additional reserves | 2,500 |
+| standing | 445 |
+| additional reserves | 2,515 |
 | field sustainable | 90 |
 | serviceable armour | 0 |
 | serviceable aircraft | 0 |
@@ -4782,6 +5042,12 @@ Table and hospitality. Seasonal travel and reciprocal refuge duties shape storag
 | readiness (1–5) | 2 |
 | logistics (1–5) | 1 |
 | cohesion (1–5) | 3 |
+
+### Personnel reconciliation
+
+02/11/0068 AC43. A small seasonal service rotation changes headcount without adding aircraft, armour or a central army.
+
+Authorised establishment: not separately recorded. Serving share of population: 0.37%; sustainable field share: 20.22%. [Opening, entries, exits and reserve transfers](PERSONNEL-REVIEW.md).
 
 ### Treasury and annual budget
 
