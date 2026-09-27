@@ -1,6 +1,6 @@
 # Galahad’s monumental architecture
 
-Price review: **02/11/0068 AC43**. Year 67 AC43 reference bands remain the baseline; no blanket new-year inflation is enacted. Apply recorded regional conditions and actual invoices, not automatic repricing.
+Price review: **05/11/0068 AC43**. Year 67 AC43 reference bands remain the baseline; no blanket new-year inflation is enacted. Apply recorded regional conditions and actual invoices, not automatic repricing.
 
 Current design clarification · Constant Year 67 prices, reviewed after the workshop pilot run; bands unchanged
 
@@ -23,4 +23,4 @@ Current-price planning range: **30–80 million lorrats**, with **50 million** a
 
 Assumes accessible materials, suitable foundations and a manageable water route. Borrowing costs and a separate Hoover-scale dam are excluded. Waterworks can open before all decorative work is complete. A 10–20-year programme was suggested, not contracted. Water supply, irrigation and ornamental branches must be hydraulically feasible and kept separate from burial spaces; waste disposal and maintenance need their own provision.
 
-These are Year 67 reference prices retained at the 02/11/0068 review, not fixed nominal prices for decades of future construction. Apply ECONOMIC-REFERENCE.md and the dated economic ledger when revising future budgets. No design fee, appropriation, land acquisition, debt, expense, income or completed structure has been awarded to Galahad. His estate finances and expedition account are unaffected.
+These are Year 67 reference prices retained at the 05/11/0068 review, not fixed nominal prices for decades of future construction. Apply ECONOMIC-REFERENCE.md and the dated economic ledger when revising future budgets. No design fee, appropriation, land acquisition, debt, expense, income or completed structure has been awarded to Galahad. His estate finances and expedition account are unaffected.

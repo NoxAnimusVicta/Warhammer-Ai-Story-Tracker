@@ -1,8 +1,8 @@
 # Malaspina Economic Reference
 
-Price review: **02/11/0068 AC43**. Year 67 AC43 reference bands remain the baseline; no blanket new-year inflation is enacted. Apply recorded regional conditions and actual invoices, not automatic repricing.
+Price review: **05/11/0068 AC43**. Year 67 AC43 reference bands remain the baseline; no blanket new-year inflation is enacted. Apply recorded regional conditions and actual invoices, not automatic repricing.
 
-Version 1.8 · Year 67 price baseline, reviewed 02/11/0068 AC43 · Capital and estate-enterprise estimates recorded 27 September 2026
+Version 1.8 · Year 67 price baseline, reviewed 05/11/0068 AC43 · Capital and estate-enterprise estimates recorded 27 September 2026
 
 Additional references: [capital purchases](#8-capital-purchases-and-industrial-projects), [estate crop and tenancy planning](#9-orsival-estate-production-and-tenant-purchases), and [shelved brewery-and-orchard-drinks proposal](#10-orchard-drinks-and-brewery-feasibility--shelved-proposal). These preserve the economic discussion without enacting a business, purchases, harvests or changes to balances.
 
@@ -429,8 +429,8 @@ Real-world sources support process assumptions only; they do not supply lorrat p
 - [Penn State private-water-system flood guidance](https://extension.psu.edu/post-flood-drinking-water-safety-for-private-water-systems): groundwater protection/testing considerations.
 
 
-## Recorded post-return quotations and contracts — 02/11/0068 review
+## Recorded post-return quotations and contracts — 05/11/0068 review
 
 These are enacted local transactions, not replacement universal tariffs. Estate telephone installation/service through Month 10 cost **48**; continuing rental is **two/month plus toll calls**. Two trained adult watchhounds cost **60**, equipment **eight**; a further twelve is reserved for upkeep, not already spent. Minor tenant drainage and roof repairs cost **twelve**. Removal of personal Collegium belongings cost **eighteen**. The original 56-hectare split and proposed crop/drinks models remain unchanged; a visit to tenants did not turn planning yields into a surveyed harvest.
 
-Commission remuneration is **150/month**, licence **900 paid**, and state programme ceiling **18,000**. The completed pilot run recognises **13,220** cost, with **180** additional commitments and **4,600** headroom. These include development, equipment and accrued labour; dividing the whole by rifle count would not establish a normal factory unit price. No blanket price-index rise or national technology gain is introduced. [Current personal/household accounts](ESTATE-ACCOUNTS.md) and [programme accounts](commission-accounts.json) govern payments.
+Commission remuneration is **150/month**, licence **900 paid**, and state programme ceiling **18,000**. The completed pilot run recognises **14,059** cost through 05/11, with **180** additional commitments and **3,761** headroom. These include development, equipment and accrued labour; dividing the whole by rifle count would not establish a normal factory unit price. No blanket price-index rise or national technology gain is introduced. [Current personal/household accounts](ESTATE-ACCOUNTS.md) and [programme accounts](commission-accounts.json) govern payments.

@@ -21,7 +21,7 @@
   "days_per_year": 365,
   "local_hours_per_day": 24,
   "solar_day_terran_seconds": 86880,
-  "current_date": "02/11/0068 AC43",
+  "current_date": "05/11/0068 AC43",
   "census_date": "27/08/0067 AC43",
   "approval_date": "01/10/0067 AC43",
   "last_salary_date": "01/11/0068 AC43",
@@ -36,7 +36,7 @@
   "actual_return_date": "11/10/0068 AC43",
   "expected_return_from_estate": "18/10/0068 AC43",
   "actual_return_from_estate": "17/10/0068 AC43",
-  "next_appointment": "03/11/0068 AC43, 09:00 \u2014 Marshal and Lieutenant-General",
+  "next_appointment": "06/11/0068 AC43, 18:00 \u2014 Major Mathis Vauzel and an operations officer at district headquarters; Desmaret accompanies Galahad",
   "salary_basis": "Commission 150/month, paid on the first for the preceding month; final Collegium settlement 40 paid 01/11. Collegium employment ended 20/10.",
   "age_tracking": {
     "starting_event": "Planetfall / story Day 0",
@@ -51,7 +51,7 @@
     "rule": "Approximately one local month plus elapsed local story time since planetfall; apparent age and bodily maturity are separate.",
     "birth_date": null,
     "planetfall_calendar_date": null,
-    "review_date": "02/11/0068 AC43",
+    "review_date": "05/11/0068 AC43",
     "current_estimate": "Approximately three local years and three months; rounded, with a further week or two suggested by the predeparture estimate.",
     "precision": "Approximate; no exact birthday or fully dated planetfall anchor established.",
     "predeparture_estimate": {

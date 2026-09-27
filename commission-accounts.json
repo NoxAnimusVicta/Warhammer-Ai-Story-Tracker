@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "revision": 69,
-  "as_of": "02/11/0068 AC43",
+  "revision": 72,
+  "as_of": "05/11/0068 AC43",
   "source_exchanges": [
     544,
-    565
+    589
   ],
   "personal": {
     "opening_date": "11/10/0068 AC43",
@@ -109,27 +109,64 @@
     "recognised_costs": {
       "equipment_and_adaptation": 5650,
       "materials_and_outside_work": 5400,
-      "testing_and_handling": 740,
+      "testing_and_handling": 758,
       "licence": 900,
-      "staff_payroll": 450,
-      "commission_remuneration": 80
+      "staff_payroll": 540,
+      "commission_remuneration": 95,
+      "ammunition_stock_issue": 620,
+      "transport_and_handling": 96
     },
-    "recognised_total": 13220,
+    "recognised_total": 14059,
     "outstanding_commitments": 180,
-    "uncommitted": 4600,
-    "cash_vs_accrual": "Recognised costs include accrued payroll and valued stock issues; not all are cash paid. The 180 is additional outstanding commitment, not a second recognised cost. The 4600 is state headroom, not personal cash or profit."
+    "uncommitted": 3761,
+    "cash_vs_accrual": "Recognised costs include accrued payroll and valued ammunition stock issues; not all are cash paid. The 180 is an additional commitment. The 3761 is state headroom, not personal cash or profit. Consumed ammunition is deducted from issued stock and never purchased twice.",
+    "reconciliation": [
+      {
+        "date": "02/11/0068 AC43",
+        "recognised_total": 13220,
+        "commitments": 180,
+        "headroom": 4600
+      },
+      {
+        "date": "04/11/0068 AC43",
+        "increments": {
+          "final_checks": 18,
+          "ammunition_issue": 620,
+          "transport_handling": 96,
+          "staff_03_04": 60,
+          "commission_03_04": 10
+        },
+        "recognised_total": 14024,
+        "commitments": 180,
+        "headroom": 3796
+      },
+      {
+        "date": "05/11/0068 AC43",
+        "increments": {
+          "staff_05": 30,
+          "commission_05": 5
+        },
+        "recognised_total": 14059,
+        "commitments": 180,
+        "headroom": 3761,
+        "basis": "Close the pending 05/11 return using the continuing established daily payroll rates; no other newly established expense."
+      }
+    ]
   },
   "inventory": {
     "original_requirement": 120,
     "accepted_trial": 192,
-    "military_awaiting_dispatch": 187,
+    "military_awaiting_dispatch": 0,
     "house_approved_awaiting_delivery": 5,
     "development_retained_at_works": 3,
     "total_made": 195,
     "unfinished": 0,
     "rework_queue": 0,
     "staff_completed_per_day_demonstrated": 12,
-    "status": "Production paused; assigned staff retained. No border dispatch, household delivery or ammunition issue yet."
+    "status": "Military consignment delivered late 04/11; receipt and company issue completed 05/11. Production paused in Auvrienne, staff retained. House rifles still await delivery. No loss or damaged rifle established.",
+    "military_at_cressault": 187,
+    "military_issued_to_company": 160,
+    "military_reserve": 27
   },
   "pay": {
     "commission_monthly": 150,
@@ -138,7 +175,7 @@
     "last_paid": "01/11/0068 AC43",
     "last_commission_payment": 70,
     "final_collegium_payment": 40,
-    "commission_accrued_unpaid": 10,
+    "commission_accrued_unpaid": 25,
     "next_due": "01/12/0068 AC43",
     "next_full_month_if_service_continues": 150
   },
@@ -148,5 +185,41 @@
     "previous_receivable": 60,
     "current_receivable": 0,
     "resolution": "During the 13\u201317/10 estate visit Galahad let Dorlac retain the 60 for goodwill and future relations. No cash payment, loan or equity share resulted."
+  },
+  "ammunition": {
+    "issued_date": "04/11/0068 AC43",
+    "issued_total": 12000,
+    "issued_armour_piercing": 8000,
+    "issued_ordinary": 4000,
+    "expenditure": [
+      {
+        "date": "04/11/0068 AC43",
+        "desmaret_ordinary": 12,
+        "galahad_ordinary": 10,
+        "total": 22
+      },
+      {
+        "date": "05/11/0068 AC43",
+        "company_ordinary": 1600,
+        "demonstrations_ordinary": 20,
+        "total": 1620
+      }
+    ],
+    "spent_total": 1642,
+    "remaining_total": 10358,
+    "remaining_armour_piercing": 8000,
+    "remaining_ordinary": 2358,
+    "valuation": "620 lorrats already recognised on issue; stock consumption is not a second financial charge."
+  },
+  "training": {
+    "unit": "Captain Lucard Desmaret\u2019s regular company",
+    "personnel": 160,
+    "start": "05/11/0068 AC43",
+    "end": "11/11/0068 AC43",
+    "full_days": 7,
+    "completed_days": 1,
+    "remaining_days": 6,
+    "certification": "Initial progress only; full certification not yet given. Extension requires documented remaining training needs before expiry.",
+    "authority": "Galahad directs instruction and technical certification. Desmaret reports each morning and executes training directions, retaining discipline and administration. Frontier chain retains operational command."
   }
 }

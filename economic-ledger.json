@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 69,
+  "revision": 72,
   "baseline": {
     "label": "Year 67 AC43 \u2014 21/10/0067 AC43",
     "scene": "Auvrienne Collegium, evening before departure",
@@ -39,7 +39,7 @@
     "replaces_temporary_modifier",
     "source"
   ],
-  "last_review_date": "02/11/0068 AC43",
+  "last_review_date": "05/11/0068 AC43",
   "reviews": [
     {
       "dates": [
@@ -70,6 +70,12 @@
         "02/11/0068 AC43"
       ],
       "finding": "Post-return review retains regional/category indices. Specific telephone, hound, removal and commission costs are recorded in ECONOMIC-REFERENCE.md and commission-accounts.json. No new exceptional price shock or broad inflation is established; the prior pending royal allocation is now executed."
+    },
+    {
+      "dates": [
+        "05/11/0068 AC43"
+      ],
+      "finding": "Regional/category indices retained. Final checks, ammunition stock issue, rail handling and continuing payroll are reconciled in commission-accounts.json. No new general price shock; issued ammunition consumption is not charged twice."
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Settlement comparison and journey estimates
 
-Atlas checkpoint: **02/11/0068 AC43**. This is a read-only planning model. It does not advance the story, book travel, open borders or establish new infrastructure. Population and geography come from the same current atlas used by the settlement register; later atlas revisions flow into the comparison on rebuilding the app.
+Atlas checkpoint: **05/11/0068 AC43**. This is a read-only planning model. It does not advance the story, book travel, open borders or establish new infrastructure. Population and geography come from the same current atlas used by the settlement register; later atlas revisions flow into the comparison on rebuilding the app.
 
 Select a settlement on the map or in the settlement register, then expand **Compare settlements & plan travel** beneath its record. Search for a second settlement across all powers. Compare residents, annual population trends, terrain, elevation and direct transport connections. Individual settlement treasuries, military inventories and output have not been established and are not inferred from national totals.
 

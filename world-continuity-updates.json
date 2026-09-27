@@ -1,20 +1,20 @@
 {
-  "revision": 69,
-  "basis": "Current continuity through exchange 565. Dated replacements in derived atlas only; historical baseline preserved.",
+  "revision": 72,
+  "basis": "Current continuity through exchange 589. Dated replacements in derived atlas only; historical baseline preserved.",
   "changes": [
     {
-      "effective_date": "02/11/0068 AC43",
+      "effective_date": "05/11/0068 AC43",
       "collection": "sites",
       "id": "serravonne",
       "old": "His parents now reside at the 56-hectare Orsival estate nearby, Galahad has returned to his Collegium room in Auvrienne to complete expedition preparations.",
-      "new": "His parents reside at the 56-hectare Orsival estate nearby. Following his 12\u201317/10 visit it has a telephone and two watchhounds. His private papers and former Collegium belongings arrived on 22/10. Galahad is now directing the completed rifle pilot programme in Auvrienne; five approved household rifles still await delivery."
+      "new": "His parents reside at the 56-hectare Orsival estate nearby. Following his 12\u201317/10 visit it has a telephone and two watchhounds. His private papers and former Collegium belongings arrived on 22/10. Galahad is now instructing the receiving company at Cressault; five approved household rifles still await delivery."
     },
     {
-      "effective_date": "02/11/0068 AC43",
+      "effective_date": "05/11/0068 AC43",
       "collection": "sites",
       "id": "auvrienne",
       "old": "Institutional and professional connections support his expanding research.",
-      "new": "Institutional and professional connections support his research. Galahad resigned salaried Collegium employment on 20/10, donated patronage and moved his personal belongings to the estate. He now directs the allocated military works: 192 accepted trial rifles and three development rifles completed by 02/11, awaiting dispatch arrangements and controlled demonstration. The standing Royal Advisor appointment remains under review."
+      "new": "Institutional and professional connections support his research. Galahad resigned salaried Collegium employment on 20/10, donated patronage and moved his personal belongings to the estate. His allocated military works completed 192 accepted trial rifles and three development rifles by 02/11. Ordel retains the paused staff; Galahad and Serault accompanied 187 military rifles to Cressault on 04/11, where company instruction began 05/11. Five House rifles still await delivery. The standing Royal Advisor appointment remains under review."
     }
   ]
 }

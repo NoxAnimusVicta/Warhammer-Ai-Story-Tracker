@@ -1,6 +1,6 @@
 # Royal technical commission — House Orsival
 
-**Current return: 02/11/0068 AC43, evening; through exchange 565.** Authorised by Margrave Odrienne Orcemont on 11/10; written agreement signed before Marshal Calvren Vaucerin on 17/10. Galahad directs the commissioned engineering programme and has direct reporting access. The standing Royal Advisor appointment remains subject to the sovereign’s review after the trial shipment and controlled demonstration; it has not been conferred.
+**Current return: 05/11/0068 AC43, evening; through exchange 589.** Authorised by Margrave Odrienne Orcemont on 11/10; written agreement signed before Marshal Calvren Vaucerin on 17/10. Galahad directs the commissioned engineering programme and has direct reporting access. The standing Royal Advisor appointment remains subject to the sovereign’s review after the trial shipment and controlled demonstration; it has not been conferred.
 
 ## Authority, premises and personnel
 
@@ -18,14 +18,15 @@ The **Airborne Carrier Command Vessel** remains a preliminary airborne/seagoing 
 
 ## Production and custody
 
-| Disposition at the works | Rifles | Status |
+| Current disposition | Rifles | Status |
 |---|---:|---|
-| Accepted military shipment | 187 | Inspected, organised and crated; awaiting dispatch |
+| Military company at Cressault | 160 | Issued on 05/11 after arrival late 04/11 |
+| Military reserve at Cressault | 27 | Accounted reserve rifles |
 | Approved House Orsival transfer | 5 | Individually logged and packed separately; awaiting delivery |
 | Development rifles | 3 | Retained at the works |
 | **Total** | **195** | No unfinished or correction queue |
 
-Only five rifles were requisitioned for the House, not the twenty mentioned as a possible allowance. The military shipment exceeds the original 120 requirement by 67. None has yet reached the estate or the border. Galahad has no rifle equipped.
+Only five rifles were requisitioned for the House, not the twenty mentioned as a possible allowance. The military shipment exceeds the original 120 requirement by 67. The 187 military rifles have reached Cressault; the five House rifles remain in Auvrienne. Galahad has no rifle equipped.
 
 Ordel’s staff demonstrated **twelve completed rifles per production day** across the additional 72, without Galahad doing production assembly, although he continued oversight and improvements. That is a demonstrated batch rate, not a guarantee for every future supply or staffing condition. Production is paused at the player’s instruction; machinery is maintained and remaining stock counted. The original twelve-week estimate and later four-to-six-week forecast are superseded by actual completion in approximately two weeks.
 
@@ -33,28 +34,49 @@ Ordel’s staff demonstrated **twelve completed rifles per production day** acro
 
 The **18,000-lorrat state-administered ceiling** is separate from personal, household and closed expedition accounts. Approved internal reallocation supported the enlarged batch. Existing capital is not bought again; issued stock has been valued.
 
-| Recognised cost through 02/11 | Lorrats |
+| Recognised cost through 05/11 | Lorrats |
 |---|---:|
 | Equipment and adaptation | 5,650 |
 | Materials and outside work | 5,400 |
-| Testing and handling | 740 |
+| Testing and handling | 758 |
+| Valued ammunition issue | 620 |
+| Transport and handling | 96 |
 | Paid licence | 900 |
-| Staff payroll | 450 |
-| Commission remuneration | 80 |
-| **Recognised cost** | **13,220** |
+| Staff payroll | 540 |
+| Commission remuneration | 95 |
+| **Recognised cost** | **14,059** |
 | Additional outstanding commitments | 180 |
-| Uncommitted programme headroom | 4,600 |
+| Uncommitted programme headroom | 3,761 |
 | **Ceiling reconciled** | **18,000** |
 
-The earlier 25/10 figures are superseded cumulative balances, not additional expenditure. Staff payroll comprises 390 for 18–30/10 and 60 for 01–02/11. Commission remuneration comprises 70 for 17–30/10, paid on 01/11, and 10 accrued for 01–02/11. Recognised cost is not identical to cash disbursed. Headroom must still cover remaining demonstration, transport and continuing commitments; it is neither a personal award nor final programme profit.
+The earlier 25/10, 02/11 and 04/11 returns are cumulative historical balances, not additional expenditure. The bridge from 02/11 is 13,220 + 18 final checks + 620 valued ammunition + 96 transport/handling + 60 staff + 10 commission = 14,024 through 04/11. Closing 05/11 adds 30 continuing staff payroll and 5 commission accrual, making 14,059. Staff payroll totals 390 for 18–30/10 plus 150 for 01–05/11. Commission remuneration totals 70 paid for 17–30/10 plus 25 accrued for 01–05/11. No new personal receipt results. Recognised cost is not identical to cash disbursed; remaining headroom must cover subsequent trial costs and commitments.
 
 Galahad’s commission pay is **150/month**, paid on the first for the preceding month. Collegium employment ended on 20/10; its final 40-lorrat settlement was paid on 01/11 alongside the 70 commission payment. Next commission payday is 01/12, normally 150 if November service continues throughout. Future pay is not prepaid.
 
-## Next meeting and limits
+## Delivery, instruction and ammunition
 
-The final production, acceptance and accounting report has gone through Serault to the Marshal. A meeting with Vaucerin and Lieutenant-General Cevrel Darscelet is confirmed for **03/11/0068 at nine** to settle transport, receiving formation and demonstration arrangements. No departure or demonstration has occurred. The limited shipment can be supported predominantly with armour-piercing ammunition from military stocks; quantities and release await coordination with the receiving formation. No ammunition issue is recorded.
+On 03/11 the Marshal and Darscelet confirmed the receiving formation and seven full training days, **05–11/11 inclusive**. The company is relieved of routine posting duties for that period. Galahad sets instruction and technical certification; **Captain Lucard Desmaret** reports each morning and carries out his training directions. Desmaret retains discipline and administration, while operational orders remain with the frontier chain. Any extension requires documented remaining training needs before expiry; this is not indefinite operational command.
 
-The Cressault armed truce remains in force. Galahad proposed field instruction and battlefield use, but no troop command, attack order or general offensive is granted. The technical commission belongs in the dossier and production record, not among active wars.
+The company comprises **160 officers and men**, including NCOs. It has served in the district fourteen months, with Desmaret commanding for nine at arrival. Galahad and Serault accompanied the consignment by rail from Auvrienne on 04/11, reaching Cressault late that night after approximately ten hours over the established roughly 225-km route. No loss or damaged weapon was recorded. Ordel remains responsible for the paused works.
+
+| Ammunition return | Ordinary | Armour-piercing | Total |
+|---|---:|---:|---:|
+| Issued 04/11 | 4,000 | 8,000 | 12,000 |
+| Private trial 04/11: Desmaret 12, Galahad 10 | -22 | 0 | -22 |
+| Company training 05/11, including demonstrations | -1,620 | 0 | -1,620 |
+| **Remaining 05/11** | **2,358** | **8,000** | **10,358** |
+
+The issue was valued once at 620 lorrats. Expenditure of 1,642 rounds reduces stock, without charging the ammunition again. No household ammunition delivery is recorded. All 187 military rifles remain accounted for.
+
+Desmaret's private twelve-round trial functioned without a stoppage. Galahad then demonstrated ten rapid shots through one entry point with almost no visible recoil. The first company day covered firing, supervised maintenance, weather effects and handling. Initial progress is strong; **one of seven full days is complete**, six remain, and final certification and operational demonstration are still pending.
+
+## Intelligence and limits
+
+**Major Mathis Vauzel**, district intelligence lead, has confirmed a briefing with an operations officer for **06/11 at 18:00, district headquarters**. Desmaret accompanies Galahad; Serault has cleared access and transport is arranged. The requested local force estimates, supporting formations and reinforcement times have not yet been supplied. Nationwide standing strengths cannot substitute for a district deployment return.
+
+The 02/11 briefing recorded four confirmed exchanges of small-arms fire and three patrol challenges without firing in the preceding thirty days. These are dated observations, not an annual rate. The Month 6 crossing agreement and Cressault armed truce remain in force. No attack order, general offensive or invasion is granted. This technical commission is recorded in the dossier, not classified as a war.
+
+Desmaret and his officers increasingly respect Galahad's instruction and ambitions for unity against the Hunters. Word is circulating locally; no army-wide political allegiance, personal oath or guaranteed future support is established.
 
 ## Restricted information
 

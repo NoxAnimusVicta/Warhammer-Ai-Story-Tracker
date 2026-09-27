@@ -1,6 +1,6 @@
 # House Orsival — estate accounts
 
-Revision 69 · Reviewed 02/11/0068 AC43 · Pricing baseline: transcript439; subsequent payments: transcript443
+Revision 72 · Reviewed 05/11/0068 AC43 · Pricing baseline: transcript439; subsequent payments: transcript443
 
 The established land account remains **20 ha tenanted arable + 12 meadow/pasture + 14 woodland + 6 orchard/market ground + 4 buildings/tracks/domestic ground = 56 ha**. Existing occupancies and tenancies remain protected.
 
@@ -105,7 +105,7 @@ The earlier 522 included the household earmarks; they must not be added again. C
 The expedition is separately closed: **11,855** operations, **500** scholar awards, **645** leadership award and **1,500** refunds account for the full **14,500** fund. No institutional balance remains in Galahad’s control. At that historical checkpoint royal funding and remuneration were not yet quantified or paid; the executed programme is recorded below and in ROYAL-COMMISSION.md. See [final expedition accounts](expedition-accounts.json) and [commission](ROYAL-COMMISSION.md).
 
 
-## Current reconciled accounts — 02/11/0068 AC43
+## Current reconciled accounts — 05/11/0068 AC43
 
 The statements above preserve the closed expedition and earlier planning model. The following movements advance those opening balances once; no new annual forecast or unrecorded harvest income has been credited.
 
@@ -125,7 +125,7 @@ Opening 11/10: **1,197**.
 | 01/11/0068 AC43 | Final Collegium pay for 01–20/10 | +40 |
 | 26/10–02/11/0068 AC43 | Food and guard tips | -12 |
 
-**Closing personal cash: 659.** The final Collegium payment closes salaried employment following resignation on 20/10. The commission continues at 150/month, paid on the first for the preceding month. Ten lorrats earned for 01–02/11 are accrued, not cash held; the next full-month payment would be 150 on 01/12.
+**Closing personal cash: 659.** The final Collegium payment closes salaried employment following resignation on 20/10. The commission continues at 150/month, paid on the first for the preceding month. Twenty-five lorrats earned for 01–05/11 are accrued, not cash held; the next full-month payment would be 150 on 01/12.
 
 ### Household funds
 
@@ -145,6 +145,6 @@ Opening 11/10: **314**.
 
 ### Other assets and restricted funds
 
-Dorlac retained the former 60 receivable for goodwill during the estate visit. Current receivable **zero**; no loan, equity stake or cash receipt. One consignment charm remains unsold, with 47 lifetime sales. Personal belongings and private research reached the estate on 22/10. Five trial rifles are approved for the House but still await delivery from Auvrienne; no ammunition has been issued.
+Dorlac retained the former 60 receivable for goodwill during the estate visit. Current receivable **zero**; no loan, equity stake or cash receipt. One consignment charm remains unsold, with 47 lifetime sales. Personal belongings and private research reached the estate on 22/10. Five trial rifles are approved for the House but still await delivery from Auvrienne; no household ammunition delivery has been recorded.
 
-The **18,000 state programme** is separate: **13,220 recognised cost + 180 outstanding commitments + 4,600 headroom**. This is not Galahad’s money, estate profit or cash available to invest. See [programme terms](ROYAL-COMMISSION.md) and [machine-readable reconciled ledgers](commission-accounts.json). The original 900 licence is already included in personal receipts and programme costs; do not pay it twice.
+The **18,000 state programme** is separate: **14,059 recognised cost + 180 outstanding commitments + 3,761 headroom**. This is not Galahad’s money, estate profit or cash available to invest. See [programme terms](ROYAL-COMMISSION.md) and [machine-readable reconciled ledgers](commission-accounts.json). The original 900 licence is already included in personal receipts and programme costs; do not pay it twice.

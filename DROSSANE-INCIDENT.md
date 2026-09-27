@@ -1,6 +1,6 @@
 # Drossane guesthouse incident and subsequent cell
 
-**Incident: 18/01/0068 AC43, day 87. Reviewed through 02/11/0068 AC43, exchange 565.** The later Valdrec contact and restricted palace briefings supersede the original pending-follow-up status.
+**Incident: 18/01/0068 AC43, day 87. Reviewed through 05/11/0068 AC43, exchange 589.** The later Valdrec contact and restricted palace briefings supersede the original pending-follow-up status.
 
 ## What happened
 

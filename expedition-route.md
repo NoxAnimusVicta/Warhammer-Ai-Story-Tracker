@@ -1,6 +1,6 @@
 # Completed expedition route
 
-Returned to Auvrienne on **11/10/0068 AC43, day 355** after departure on **22/10/0067**. The original day-365 deadline is **21/10/0068**; all ten reserve days were unused. The current scene has advanced to 02/11/0068 at the Auvrienne military works; see [current continuity](CURRENT-CONTINUITY.md). The tables retain the itinerary actually followed; they do not schedule a second expedition.
+Returned to Auvrienne on **11/10/0068 AC43, day 355** after departure on **22/10/0067**. The original day-365 deadline is **21/10/0068**; all ten reserve days were unused. The current scene has advanced to 05/11/0068 at Cressault after the first company training day; see [current continuity](CURRENT-CONTINUITY.md). The tables retain the itinerary actually followed; they do not schedule a second expedition.
 
 Actual return: **day 355**. Unused reserve: **days 356–365 (10 days)**. Fourteen destinations receive six full days and eight receive five: 124 visiting days plus 231 travel days. Date ranges are inclusive. Funding, ordinary permissions, accommodation, payment access and seasonal sailings are arranged. See [preparation register](EXPEDITION-PREPARATION.md), [itemised budget](EXPEDITION-BUDGET.md) and [sea passage review](SEA-PASSAGES.md).
 

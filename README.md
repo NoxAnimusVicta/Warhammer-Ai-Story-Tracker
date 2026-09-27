@@ -1,4 +1,4 @@
-Current story date: **02/11/0068 AC43** (day/month/year after Culling 43). See [the calendar](CALENDAR-REFERENCE.md).
+Current story date: **05/11/0068 AC43** (day/month/year after Culling 43). See [the calendar](CALENDAR-REFERENCE.md).
 
 # Malaspina — data-slate
 
@@ -20,15 +20,15 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the last major culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition - revision 71
+## Current edition - revision 72
 
-This edition corrects military personnel at the existing **02/11 statistical checkpoint**. [Personnel reconciliation](PERSONNEL-REVIEW.md) covers all 43 returns; [statistics audit](STATISTICS-AUDIT.md) records associated corrections and unchanged assumptions. Live narration has reached **05/11 at Cressault** in the exact transcript. The dossier remains the dated 02/11 narrative milestone.
+This edition synchronises the dossier, references and current estimates with **05/11 at Cressault, after the first training day**. [Personnel reconciliation](PERSONNEL-REVIEW.md) retains the latest 02/11 headcount estimates with an explicit 05/11 review; [statistics audit](STATISTICS-AUDIT.md) explains the dating and associated figures.
 
 Age clarification: Galahad was approximately one local month old at planetfall but appeared five to six human years old. Chronological age adds elapsed local time to that starting month; bodily maturity is separate. The current three-years-and-three-months figure remains a rounded estimate, not an exact birthday calculation. See [age tracking](CALENDAR-REFERENCE.md#chronological-age-and-physical-development).
 
-The current scene is **Auvrienne military workshop, 02/11/0068 AC43 evening**, after the second production week. **192 trial rifles are accepted:** 187 await military dispatch and five approved House rifles await delivery. Three development rifles remain at the works. Production is paused with staff retained; transport and demonstration will be discussed with the Marshal and Lieutenant-General on 03/11 at nine. Royal Advisor remains under review.
+The current scene is **Cressault company office, 05/11/0068 AC43 evening**. The 187 military rifles have arrived: **160 issued, 27 reserve**. Five House rifles await delivery from Auvrienne and three development rifles remain there. **10,358 rounds remain** after private trials and one training day. Training runs 05–11/11; the intelligence briefing is confirmed for 06/11 at 18:00. Royal Advisor remains under review.
 
-[Royal commission](ROYAL-COMMISSION.md) records the executed agreement, allocated premises and eighteen core staff, defined manufacture rights, output and pending dispatch. [Commission accounts](commission-accounts.json) reconcile the 18,000 state ceiling: 13,220 recognised cost, 180 outstanding commitments and 4,600 headroom. These are not personal funds.
+[Royal commission](ROYAL-COMMISSION.md) records the executed agreement, allocated premises and eighteen core staff, defined manufacture rights, output, delivery and bounded training authority. [Commission accounts](commission-accounts.json) reconcile the 18,000 state ceiling: 14,059 recognised cost, 180 outstanding commitments and 3,761 headroom. These are not personal funds.
 
 Personal cash **659**; household **1,160** (148 reserved; 1,012 uncommitted). Collegium employment ended 20/10; the final 40 and commission pay of 70 were received 01/11. Commission pay continues at 150/month. A 500 patronage donation was paid; private papers, collections and belongings reached the estate on 22/10. The estate now has a telephone and two watchhounds. Dorlac retained the former 60 receivable for goodwill. [Household and personal ledger](ESTATE-ACCOUNTS.md).
 
@@ -36,7 +36,7 @@ The [completed expedition](EXPEDITION-RETURN.md) remains a 355-day journey with 
 
 [Economic reference](ECONOMIC-REFERENCE.md) dates wages and prices to the Year 67 AC43 baseline, reviewed on the current story date, with regional variation and recorded event-driven changes. [Monumental architecture](ARCHITECTURE-REFERENCE.md) records Galahad’s unbuilt national-wonder designs and current-price estimates. [Estate accounts](ESTATE-ACCOUNTS.md) separates paid expenses, allocations and projected returns.
 
-Ceralte now includes Bellavara and Montelisse, with sea connections to Dalmor. The atlas contains 970 settlements and 2,210 routes, with 134 sea passages connecting 72 harbours. [Ten outer island regions](ISLAND-CHAINS.md) add seven self-governing societies and three colonial administrations across 63 previously unassigned islands. The two Ceralte additions remain within its existing census. The outer chains correct earlier omitted coverage. The current 431-day full-coverage estimate is 1,228,800,747 on 02/11/0068 AC43; earlier estimates remain historical.
+Ceralte now includes Bellavara and Montelisse, with sea connections to Dalmor. The atlas contains 970 settlements and 2,210 routes, with 134 sea passages connecting 72 harbours. [Ten outer island regions](ISLAND-CHAINS.md) add seven self-governing societies and three colonial administrations across 63 previously unassigned islands. The two Ceralte additions remain within its existing census. The outer chains correct earlier omitted coverage. The current 434-day full-coverage estimate is 1,228,835,572 on 05/11/0068 AC43; earlier estimates remain historical.
 
 Galahad reached bodily maturity during the expedition at approximately 3 metres. He is now about three years and three months old, with a short white beard. The departure artwork remains his clothing reference; the formal leadership portrait remains a future reference.
 
@@ -62,4 +62,4 @@ The dossier portrait now shows Galahad in his current expedition clothes. The ea
 
 [Historical continuity and Ambros](HISTORY-REFERENCE.md) describes surviving industrial civilisation, oral traditions, hidden archives and the older imperial hero tradition. Substantial reference sections use consistent dropdowns; core state and the map remain visible.
 
-[Year 68 developments](WORLD-YEAR68.md) resolves the expedition-year background: all 43 polities, eight conflict theatres, military inventory movements, industrial and diplomatic changes, the completed authorised pumping stage and ongoing NPC work. That historical review remains dated 11/10; the current commission, estate and employment records carry the story through 02/11. [Documentation audit](DOCUMENTATION-AUDIT.md) records the current checks and the limits of the estimates. No further story time advances.
+[Year 68 developments](WORLD-YEAR68.md) resolves the expedition-year background: all 43 polities, eight conflict theatres, military inventory movements, industrial and diplomatic changes, the completed authorised pumping stage and ongoing NPC work. That historical review remains dated 11/10; the current commission, estate and employment records carry the story through 05/11. [Documentation audit](DOCUMENTATION-AUDIT.md) records the current checks and the limits of the estimates. No further story time advances.

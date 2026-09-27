@@ -1,6 +1,6 @@
 # House Orsival — current visual reference
 
-Revision 48 · Player-supplied estate artwork · Visual baseline recorded before departure, 21/10/0067 AC43. Current review: 02/11/0068 AC43. No newer artwork; initial repairs and first furniture purchases are now complete.
+Revision 48 · Player-supplied estate artwork · Visual baseline recorded before departure, 21/10/0067 AC43. Current review: 05/11/0068 AC43. No newer artwork; initial repairs and first furniture purchases are now complete.
 
 ![House Orsival estate, current appearance](estate-r48.jpg)
 

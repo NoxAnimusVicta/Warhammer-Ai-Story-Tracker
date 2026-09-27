@@ -8,18 +8,18 @@ The three colonies have local populations, older institutions and contested land
 
 ## Regional register
 
-| Region | Government | Estimated residents · 02/11/0068 | Charted harbours |
+| Region | Government | Estimated residents · 05/11/0068 | Charted harbours |
 |---|---|---:|---|
-| Varessan Sea League | Self-governing | 1,808,933 | Ardessa, Velisar |
-| Talascan Charter Islands | Dependency of Rovessara | 1,104,029 | Talasca, Rovaro |
-| Nemerai Crown | Self-governing | 3,220,800 | Nemer, Essara |
-| Ordelune Overseas Districts | Dependency of Ostrevain | 1,004,372 | Ordelune, Sorevain |
-| Skeldran Hearth Confederacy | Self-governing | 450,957 | Skeldra, Heskar |
-| Merovian Island Republic | Self-governing | 1,608,697 | Merovia, Iveran |
-| Ashalai Reef Covenant | Self-governing | 2,417,587 | Ashala, Nalavai |
-| Kingdom of Istrana | Self-governing | 1,760,133 | Istrana, Serakai |
-| Edrask Governorate | Dependency of Rovengard | 1,204,111 | Edrask, Havren |
-| Norrakai Moots | Self-governing | 120,170 | Norrak, Iskel |
+| Varessan Sea League | Self-governing | 1,808,995 | Ardessa, Velisar |
+| Talascan Charter Islands | Dependency of Rovessara | 1,104,057 | Talasca, Rovaro |
+| Nemerai Crown | Self-governing | 3,220,945 | Nemer, Essara |
+| Ordelune Overseas Districts | Dependency of Ostrevain | 1,004,402 | Ordelune, Sorevain |
+| Skeldran Hearth Confederacy | Self-governing | 450,963 | Skeldra, Heskar |
+| Merovian Island Republic | Self-governing | 1,608,758 | Merovia, Iveran |
+| Ashalai Reef Covenant | Self-governing | 2,417,710 | Ashala, Nalavai |
+| Kingdom of Istrana | Self-governing | 1,760,204 | Istrana, Serakai |
+| Edrask Governorate | Dependency of Rovengard | 1,204,140 | Edrask, Havren |
+| Norrakai Moots | Self-governing | 120,171 | Norrak, Iskel |
 
 ## Varessan Sea League
 
@@ -84,5 +84,5 @@ Charted centres: Norrak, Iskel; inland market Torvik. Other villages, customary 
 ## Census coverage and chronology
 
 The corrected census of 27/08/0067 AC43 is **1,223,820,000** people across **43 disjoint geographic returns**. The ten newly described chains add **14,620,000** previously omitted residents. This is a correction to coverage, not an event adding millions of people during the story. Existing homeland returns remain intact. Cities are subsets; rural and uncharted island residents fill each region’s remaining total. Colonial residents and locally booked resources are excluded from the parent homeland return; visiting parent forces remain in their original return.
-The old 35-day population projection remains a clearly scoped historical estimate for the earlier 33 groups. It is not the corrected whole-world total or the latest scene. The original coverage correction did not advance story time; the current projection now includes subsequent narrated time. The current full-coverage projection is dated 02/11/0068 AC43 and uses 431 elapsed days from the census of 27/08/0067; the earlier 55-day estimate is historical. The regional populations above are current projections; full national and settlement estimates are in world-current.json, national-current.json and SETTLEMENT-REGISTER.md. No interval is charged twice.
+The old 35-day population projection remains a clearly scoped historical estimate for the earlier 33 groups. It is not the corrected whole-world total or the latest scene. The original coverage correction did not advance story time; the current projection now includes subsequent narrated time. The current full-coverage projection is dated 05/11/0068 AC43 and uses 434 elapsed days from the census of 27/08/0067; the earlier 55-day estimate is historical. The regional populations above are current projections; full national and settlement estimates are in world-current.json, national-current.json and SETTLEMENT-REGISTER.md. No interval is charged twice.
 Original mainland borders, coastal dependencies and route measurements remain. The opening expedition bookings and permissions do not automatically expand to these islands. Additional visits require itinerary, transport and entry arrangements; the one-year expedition is not silently extended.

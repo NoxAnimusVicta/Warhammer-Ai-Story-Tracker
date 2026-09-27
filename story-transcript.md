@@ -13710,3 +13710,42 @@ The documentation explicitly retained personnel “establishments”—essential
 You’re right that actual numbers would fluctuate through recruitment, completed training, retirement, discharge, casualties, desertion and mobilisation. Some countries could remain broadly stable because replacements offset departures, but keeping every country unchanged needs more justification than the existing records provide.
 
 The correction should distinguish **authorised establishment, estimated serving personnel, trained reserves and deployable strength**, with dated changes grounded in each country’s circumstances. It should not simply increase armies at the population-growth rate or add arbitrary variation. So: equipment and some deployment capacity were updated, but the personnel side of the audit was incomplete.
+
+
+## 592 - User - OOC personnel correction and statistics audit
+
+Can we please correct these numbers and any associated numbers and once you are done please check to see if there are any other relevant stats that have not been updated
+
+## OOC progress before exchange593
+
+I’ll reconcile military personnel with the elapsed year and each nation’s circumstances, then check the related figures and other dated statistics for anything that was left unchanged without justification. I’ll read the affected documents in full, validate the app’s totals, and publish the corrections once they agree.
+
+The omission affects all 43 military returns: equipment was reviewed, but serving personnel and reserves stayed at their opening figures. I’m adding a dated personnel reconciliation and recalculating sustainable field strength alongside it. I also found that the original register describes actual serving personnel, so my earlier explanation calling those figures “establishments” was too broad; I’ll preserve that distinction rather than invent authorised staffing limits.
+
+The personnel figures now have explicit entries, departures and reserve transfers, with field strength constrained by each force’s logistics. I found another missed update in the wider check: the court’s age and tenure ranges still used a return from just before a full year had elapsed. I’m correcting those too. Population, production, treasury and equipment figures already have dated update calculations; I’m checking their dependencies rather than applying another increase.
+
+The corrected estimates put Veyrasse at **158,400 serving personnel**, **445,600 reserves** and **45,900 sustainable field strength**; Caldrienne is at **301,200**, **735,500** and **108,800** respectively. These are documented campaign estimates, not exact musters.
+
+The arithmetic and preservation checks pass. The new personnel panel and comparisons also fit the phone and desktop layouts without page overflow. I’m finishing the publication checks now; this correction retains the clearly dated **02/11 statistical snapshot**, while the transcript preserves the story’s later progress to 05/11.
+
+## 593 - Assistant - OOC statistics corrected and published
+
+Updated and published as **revision 71**.
+
+All **43 military returns** now reconcile recruitment, departures and reserve transfers, with revised sustainable field strength. For the **02/11/0068 statistical snapshot**:
+
+| Nation | Serving personnel | Trained reserves | Sustainable field force |
+|---|---:|---:|---:|
+| Veyrasse | 158,400 | 445,600 | 45,900 |
+| Caldrienne | 301,200 | 735,500 | 108,800 |
+
+These are documented estimates with stated assumptions, not exact musters. The app’s profiles, comparisons, rankings and downloads agree. [Full personnel reconciliation](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/PERSONNEL-REVIEW.md).
+
+The broader check also found and corrected outdated **court ages and command-tenure ranges**. Population, economic projections, treasury balances and equipment already had dated updates; other unchanged figures and their reasons are recorded in the [statistics audit](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/STATISTICS-AUDIT.md).
+
+**18 checks passed**, phone and desktop layouts were checked, and all 14 published files match the verified build. The statistical snapshot remains 02/11; our live story remains at 05/11, preserved in the transcript.
+
+
+## 594 - User - OOC complete documentation update
+
+May as well take your time and just update all the github documentation and read anything you edit in full before editing so you have full context. Please take your time to ensure there are no errors, mistakes, inconsistencies or outdated info
