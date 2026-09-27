@@ -40,7 +40,13 @@ Approval is 35 days after the census; predeparture evening was 55 days after it.
 
 Galahad’s commission pays **150/month on the first for the preceding month**. On 01/11 he received **70** for 17–30/10 and **40** final Collegium wages for 01–20/10; salaried Collegium employment ended on 20/10. Next payday is **01/12/0068**, 29 local days after the current date, normally 150 for a full month. The historical twelve expedition paydays totalled 720 for Galahad plus 2,100 for five scholars. Current cash: **659 personal**, **1,160 household**. No future pay is prepaid.
 
-Age is approximately **three years and three months**, with no exact birthday. Bodily maturity at about **3 m** was reached during the expedition. Local time governs ageing; offworld conversion does not reduce elapsed local age.
+### Chronological age and physical development
+
+At planetfall (story Day 0), Galahad was approximately one local month old chronologically, while his accelerated development made him appear about five to six human years old. Chronological age is that starting month plus elapsed local story time; apparent age and bodily maturity never add lived years. No exact birthday or civil-calendar planetfall date is established. The current three-years-and-three-months label is a rounded estimate, not an exact age. Review it against elapsed time at each dated scene rather than copying the previous label. Do not invent an exact day count or convert local ageing through the offworld clock ratio.
+
+The predeparture age estimate was about two years and three months on 21/10/0067. The current date is 376 elapsed local days later, including 21 days since return. This supports roughly three years and three months plus a week or two, but that extra precision is only an estimate inherited from an approximate starting age and earlier intervals. It is not a newly established birthday. Full bodily maturity at about **3 m** was reached during the expedition, around chronological age three.
+
+`calendar.json.age_tracking` records this distinction and dates the age review. Before advancing the story date, reassess the estimate from recorded intervals; do not silently freeze age or turn a rounded checkpoint into an exact birth date.
 
 Census **1,223,820,000** on 27/08/0067 remains unchanged. The **431-day projection is 1,228,800,747**, from separately rounded group trends, not a new enumeration. Earlier projections remain historical snapshots. Price bands retain their Year 67 basis with current review and specific invoices. All national and settlement estimates share 02/11/0068 AC43. Population/production use 431 days; treasury estimates use **376 days** from 21/10/0067. The 11/10 Year 68 background review is preserved, with a separately dated post-return assessment and commission record. See LIVING-WORLD-REFERENCE.md.
 

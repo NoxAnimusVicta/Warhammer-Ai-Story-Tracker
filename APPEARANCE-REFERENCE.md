@@ -1,5 +1,9 @@
 # Galahad - appearance references
 
+## Opening appearance and actual age
+
+At story Day 0 / planetfall, Galahad was approximately one local month old, but appeared like a five- to six-year-old human child because of accelerated development. This is an appearance comparison, not five or six years of lived experience. Chronological age advances by elapsed local time from that approximately one-month starting age; full bodily maturity is recorded separately.
+
 ## Current expedition appearance
 
 ![Galahad in his current expedition clothing](portrait-expedition-r50.jpg)

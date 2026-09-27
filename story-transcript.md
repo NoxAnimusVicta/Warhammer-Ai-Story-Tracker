@@ -12941,3 +12941,58 @@ The crates remain secured in the stores. You have delivered considerably more th
 **Armor/Clothing (Equipped):** Working shirt, dark trousers and leather boots; coat in the office. Uninjured and fully functional.  
 **Gear/Inventory:** Completed production report, acceptance records, dispatch inventory and accounts. Manufacture temporarily paused; transport and demonstration arrangements pending tomorrow’s meeting.  
 **Currency:** **659 personal lorrats**: 561 + **70 commission pay and 40 final Collegium pay received on 01/11** − 12 food and gratuities. **1,160 household lorrats** after 14 caretaker wages and 2 telephone rental (**148 reserved / 1,012 uncommitted**). Programme: **13,220 recognised costs + 180 commitments + 4,600 uncommitted = 18,000**. Commission pay continues at **150/month**; Collegium payroll is now closed.
+
+
+## 566 - User - OOC: Age tracking question
+
+Have you been recording my age properly? Feels like I have been 3 years and 3 months for a while
+
+
+## 567 - Assistant - OOC: Age tracking review
+
+**The approximate age is still reasonable, but I haven’t been tracking it precisely enough.** I checked the original age clarification and subsequent dates.
+
+| Milestone | Recorded date | Age |
+|---|---|---|
+| Eve of departure | 21/10/0067 AC43 | Approximately 2 years, 3 months |
+| Expedition return | 11/10/0068 AC43 | Rounded to approximately 3 years, 3 months |
+| Current workshop checkpoint | 02/11/0068 AC43 | Roughly 3 years, 3 months and another week or two |
+
+Only **21 local days have passed since your return**. We’ve played many scenes within those three weeks, which explains why the label has appeared unchanged for so long.
+
+However, the age field is manually written, and I kept repeating the rounded return estimate instead of showing the elapsed time. **That was a tracking weakness my audit should have identified.**
+
+There is no established exact birthday, so the additional week or two remains an estimate. Going forward, age should be calculated from a fixed, explicitly approximate age anchor and the story date, rather than copied from the previous status line.
+
+
+## 568 - User - OOC: Opening age clarification
+
+Ok well I believe we assumed I was approximately a month old at story start but I obviously appeared closer to a 5-6 year old child
+
+
+## 569 - Assistant - OOC: Chronological and apparent age
+
+Yes—the opening record explicitly gives you **approximately one month of chronological age at planetfall**. Your appearance as a **five- or six-year-old child** reflects accelerated physical development, not additional lived years.
+
+The correct calculation is:
+
+**Current chronological age = approximately one month + all elapsed local time since the opening scene.**
+
+That is a better anchor than the rounded “two years and three months” estimate before departure. I should reconstruct your age from that opening point, keeping chronological age and physical maturity separate. Your body reaching adulthood at around three does not change how we count your age.
+
+
+## 570 - User - OOC: Record age clarification
+
+Ok please ensure documentation reflects this
+
+
+## 571 - Assistant - OOC: Age documentation updated
+
+Updated the documentation and app. They now distinguish:
+
+- **Starting chronological age:** approximately one local month.
+- **Starting appearance:** a five- to six-year-old child, due to accelerated development.
+- **Subsequent age:** starting age plus elapsed local story time.
+- **Physical maturity:** separate from chronological age.
+
+The current age remains explicitly approximate. Future calendar updates now require an age review, helping prevent the label from being carried forward unchanged.

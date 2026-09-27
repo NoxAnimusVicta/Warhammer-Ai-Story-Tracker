@@ -1,10 +1,12 @@
-# Current continuity — revision 69
+# Current continuity — revision 70
 
 ## Scene and clock
 
 **02/11/0068 AC43, evening**, at the allocated military workshop in Auvrienne, after the completed second production week (exchange 565). Production is paused, final report submitted, and the Marshal/Darscelet meeting is confirmed for 03/11 at nine. No dispatch, border journey, demonstration or Royal Advisor appointment has occurred. Maintenance advances no further time.
 
 Galahad remains approximately three years and three months old, mature at about 3 m, with a short white beard. He is uninjured and functional after sustained workshop work. Work shirt, dark trousers and boots; charcoal coat in the office. No weapon equipped. PHYSIOLOGY-REFERENCE.md controls endurance and demonstrated abilities.
+
+Age clarification: At planetfall (story Day 0), Galahad was approximately one local month old chronologically, while his accelerated development made him appear about five to six human years old. Chronological age is that starting month plus elapsed local story time; apparent age and bodily maturity never add lived years. No exact birthday or civil-calendar planetfall date is established. The current three-years-and-three-months label is a rounded estimate, not an exact age. Review it against elapsed time at each dated scene rather than copying the previous label. Do not invent an exact day count or convert local ageing through the offworld clock ratio. See CALENDAR-REFERENCE.md. This is an out-of-character correction; the scene remains through exchange 565.
 
 ## Completed expedition and present commitments
 

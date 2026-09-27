@@ -20,6 +20,10 @@ Assess wounds by the damage actually sustained and its functional consequences. 
 
 His stable body–soul integration and exceptional psychic potential provide substantially greater power capacity and endurance than an average psyker or ordinary Space Marine Librarian. Routine use of familiar telekinesis, calming influence or other established abilities must not repeatedly exhaust him. Capacity, precision, range and learned applications remain distinct. The original capacity clarification alone awards no new mastered power. Subsequent demonstrated techniques are recorded below; they do not imply universal or unlimited telepathy.
 
+## Chronological age and apparent age
+
+At planetfall (story Day 0), Galahad was approximately one local month old chronologically, while his accelerated development made him appear about five to six human years old. Chronological age is that starting month plus elapsed local story time; apparent age and bodily maturity never add lived years. No exact birthday or civil-calendar planetfall date is established. The current three-years-and-three-months label is a rounded estimate, not an exact age. Review it against elapsed time at each dated scene rather than copying the previous label. Do not invent an exact day count or convert local ageing through the offworld clock ratio. See CALENDAR-REFERENCE.md for the dated estimate and elapsed-time anchors.
+
 ## Physical comparison and maturity
 
 Unaided physical performance exceeds ordinary Astartes; being below a typical Custodian in overall unaided physical performance does not impose an Astartes ceiling on sleep, durability, stamina or psychic reserves. Evaluate each established faculty rather than deriving every attribute from a single ranking.

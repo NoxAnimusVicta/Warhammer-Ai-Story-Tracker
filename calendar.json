@@ -37,5 +37,28 @@
   "expected_return_from_estate": "18/10/0068 AC43",
   "actual_return_from_estate": "17/10/0068 AC43",
   "next_appointment": "03/11/0068 AC43, 09:00 \u2014 Marshal and Lieutenant-General",
-  "salary_basis": "Commission 150/month, paid on the first for the preceding month; final Collegium settlement 40 paid 01/11. Collegium employment ended 20/10."
+  "salary_basis": "Commission 150/month, paid on the first for the preceding month; final Collegium settlement 40 paid 01/11. Collegium employment ended 20/10.",
+  "age_tracking": {
+    "starting_event": "Planetfall / story Day 0",
+    "chronological_age_at_start": {
+      "local_months": 1,
+      "approximate": true
+    },
+    "apparent_human_age_at_start_years": [
+      5,
+      6
+    ],
+    "rule": "Approximately one local month plus elapsed local story time since planetfall; apparent age and bodily maturity are separate.",
+    "birth_date": null,
+    "planetfall_calendar_date": null,
+    "review_date": "02/11/0068 AC43",
+    "current_estimate": "Approximately three local years and three months; rounded, with a further week or two suggested by the predeparture estimate.",
+    "precision": "Approximate; no exact birthday or fully dated planetfall anchor established.",
+    "predeparture_estimate": {
+      "date": "21/10/0067 AC43",
+      "years": 2,
+      "months": 3,
+      "approximate": true
+    }
+  }
 }

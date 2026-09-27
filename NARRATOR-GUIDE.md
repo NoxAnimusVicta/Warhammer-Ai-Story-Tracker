@@ -27,6 +27,8 @@ Suggested opening instruction for a new task:
 - Keep technical inventions fictional and high-level. Describe capabilities, limits, resource demands and industrial consequences without real weapon construction instructions.
 - Keep hidden narrator explanations out of the visible slate. Local people describe psychic phenomena through the older arts; Galahad has not acquired offworld terminology merely because the player knows it.
 
+Age maintenance: At planetfall (story Day 0), Galahad was approximately one local month old chronologically, while his accelerated development made him appear about five to six human years old. Chronological age is that starting month plus elapsed local story time; apparent age and bodily maturity never add lived years. No exact birthday or civil-calendar planetfall date is established. The current three-years-and-three-months label is a rounded estimate, not an exact age. Review it against elapsed time at each dated scene rather than copying the previous label. Do not invent an exact day count or convert local ageing through the offworld clock ratio. Use CALENDAR-REFERENCE.md and calendar.json.age_tracking.
+
 Every story response ends with these fields, kept current:
 
 ```

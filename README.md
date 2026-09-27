@@ -20,7 +20,9 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the last major culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition — revision 69
+## Current edition — revision 70
+
+Age clarification: Galahad was approximately one local month old at planetfall but appeared five to six human years old. Chronological age adds elapsed local time to that starting month; bodily maturity is separate. The current three-years-and-three-months figure remains a rounded estimate, not an exact birthday calculation. See [age tracking](CALENDAR-REFERENCE.md#chronological-age-and-physical-development).
 
 The current scene is **Auvrienne military workshop, 02/11/0068 AC43 evening**, after the second production week. **192 trial rifles are accepted:** 187 await military dispatch and five approved House rifles await delivery. Three development rifles remain at the works. Production is paused with staff retained; transport and demonstration will be discussed with the Marshal and Lieutenant-General on 03/11 at nine. Royal Advisor remains under review.
 
