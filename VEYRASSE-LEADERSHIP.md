@@ -1,6 +1,6 @@
 # Veyrasse — court, command and noble standing
 
-Public institutions and biographical reference. Ages and tenure are ranges at 05/11/0068 AC43, 379 days after the recorded baseline of 21/10/0067. Exact birthdays and appointment anniversaries are not established, so a blanket extra birthday would be false precision.
+Public institutions and biographical reference. Ages and tenure are ranges at 06/11/0068 AC43, 380 days after the recorded baseline of 21/10/0067. Exact birthdays and appointment anniversaries are not established, so a blanket extra birthday would be false precision.
 
 ## Ruling house
 Margrave Odrienne Orcemont, woman, 51–52. Margrave is the sovereign office regardless of gender. Rules from the existing fortified palace/government precinct on Auvrienne's upper terraces. Reigned 19–20 years after her mother's death. Married; consort has household and ceremonial responsibilities, not joint sovereignty. Consort's name remains unestablished.
@@ -18,6 +18,6 @@ Benefits: entitled formal style and entry in noble register; eligibility for cou
 A knowing unlawful blow to a noble can be charged as both assault and affront to chartered dignity. Injury, intent, weapons and circumstances determine sentence: fine, compensation, imprisonment or penal labour possible. No automatic execution for an ordinary strike. Accidental contact not affront. Necessary proportionate self-defence lawful regardless of rank, though witnesses, money and patronage affect whether it is recognised. Deliberate murder or grave attempted murder can carry death for any victim; attacking sovereign/official on duty can add state-security charges. Noble assaulting commoner still illegal, often handled more leniently in practice through compensation and influence. Nobles can suffer additional office/rank consequences for serious offences. Insult/disagreement alone not lawful grounds for killing. Private duelling does not create blanket immunity.
 
 
-## Galahad’s present commission — 05/11/0068 AC43
+## Galahad’s present commission — 06/11/0068 AC43
 
 The agreement was executed before Vaucerin on 17/10; the state facility, eighteen core staff and 18,000 programme ceiling are allocated. Of 195 completed rifles, 187 are at Cressault (160 issued, 27 reserve), five approved House rifles await delivery from Auvrienne and three development rifles remain there. Captain Armand Serault accompanies Galahad; Bastien Ordel retains the paused works. The 03/11 meeting authorised seven full days of company instruction, 05–11/11, under Galahad’s technical direction. Desmaret retains discipline and administration; the frontier chain retains operational command. Royal Advisor remains unappointed and no general offensive is authorised. See [commission terms and accounts](ROYAL-COMMISSION.md). Exact birthdays remain unknown.

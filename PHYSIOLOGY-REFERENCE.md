@@ -1,6 +1,6 @@
 # Galahad — controlling physiology reference
 
-Current review: **05/11/0068 AC43**. Reviewed at revision 72, including the agreed running-speed clarification · Mature physiology, demonstrated expedition abilities, developed potential and contextual durability; retains the accepted endurance and infection-resistance provisions. This is narrator continuity for this campaign, not a universal canonical specification for Custodes or Primarchs. It supersedes older conflicting sleep, stamina, short-burst-only running and overall combat assumptions, including revision43 and the preparation scene's 3–4-hour sleep statement. Historical dialogue remains unchanged.
+Current review: **06/11/0068 AC43**. Reviewed at revision 73, including the agreed running-speed clarification · Mature physiology, demonstrated expedition abilities, developed potential and contextual durability; retains the accepted endurance and infection-resistance provisions. This is narrator continuity for this campaign, not a universal canonical specification for Custodes or Primarchs. It supersedes older conflicting sleep, stamina, short-burst-only running and overall combat assumptions, including revision43 and the preparation scene's 3–4-hour sleep statement. Historical dialogue remains unchanged.
 
 ## Sleep and wakefulness
 
@@ -124,6 +124,6 @@ Modest deep soft-tissue repair was demonstrated and observed by a healer over su
 Basic foresight has been explored, but no reliable new prophetic technique is established. The extraordinarily detailed palace planning retrieved scenarios developed months earlier; it is evidence of cognition and preparation. Thousands of private ciphered pages record techniques, observations and tested limits. Bodily maturity and this year’s experience do not complete his ultimate psychic development.
 
 
-## Cressault observation — 04–05/11/0068 AC43
+## Cressault observation — 04–06/11/0068 AC43
 
-During a private supervised trial on 04/11, Galahad fired ten rounds in rapid succession through one entry point, with almost no visible recoil. Captain Desmaret inspected the target. This is a witnessed feat of coordination and physical control, not a precisely measured engagement range or a guarantee of every future shot. Galahad rested for a couple of hours on the train and remained uninjured and functional after the first full company training day. No new psychic technique, ordinary-human fatigue limit or increase to the agreed unaided speed ceiling follows.
+During a private supervised trial on 04/11, Galahad fired ten rounds in rapid succession through one entry point, with almost no visible recoil. Captain Desmaret inspected the target. This is a witnessed feat of coordination and physical control, not a precisely measured engagement range or a guarantee of every future shot. Galahad rested for a couple of hours on the train and remained uninjured and functional after two full company training days and the intervening overnight base survey. At the 06/11 district briefing his usual calming presence accompanied informed questioning; this establishes neither mind-reading nor unrestricted access. No new psychic technique, ordinary-human fatigue limit or increase to the agreed unaided speed ceiling follows.

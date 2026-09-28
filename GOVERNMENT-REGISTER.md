@@ -52,7 +52,7 @@ Odrienne Orcemont remains a competent but unequal and possessive patron. Maurell
 Each person entry includes mortality_review with period_days, age_range, baseline_percent (the calculated historical band), annual_probability, period_probability, health_and_exposure_basis and resolution_basis. The age range must describe the review period, and local lifespan/health conditions must inform the choice. Very large reductions require a recorded longevity_exception: type, event_id and effect. Only Hunter intervention, a psychic feat, invented longevity treatment or acquired xenos treatment qualify. No event is implied by a placeholder. Ordinary clinical care and privilege can improve outcomes without conferring agelessness. National life expectancy is recalculated from annually reviewed household/health conditions; it is never used as a compulsory death age.
 
 
-## Current register — 05/11/0068 AC43
+## Current register — 06/11/0068 AC43
 
 ## Veldrassen
 
@@ -70,7 +70,7 @@ Veldrassen is a composite monarchy whose mountain court at Cavrelisse presides o
 
 ### Sovereign — Lucelle Nemeret
 
-Age 63 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 63–64 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Tall and narrow-shouldered, with close-cropped dark hair, a long nose and carefully mended formal cuffs.
 
@@ -80,11 +80,11 @@ Age 63 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 2.34–3.18%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 2.34–3.48%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Crown Marshal — Tristan Rovantin
 
-Age 66 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 66–67 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Broad-faced, with greying curls, warm brown skin and an immaculate high-collared coat.
 
@@ -94,11 +94,11 @@ Age 66 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 3.06–4.18%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 3.06–4.59%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### First Minister — Odette Sarvigne
 
-Age 57 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 57–58 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Compact and erect, with pale freckled skin, swept-back auburn hair and quick grey eyes.
 
@@ -108,11 +108,11 @@ Age 57 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.41–1.9%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.41–2.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Sylvain Nemeret
 
-Age 23 local years; alive. Completed local years at baseline; birthday unrecorded.
+Age 23–24 local years; alive. Completed local years at baseline; birthday unrecorded.
 
 **Appearance.** Lean and weathered, with a narrow mouth, dark hair tied at the nape and ink-stained fingertips.
 
@@ -140,7 +140,7 @@ Ostrevain is an agricultural monarchy attempting to turn crop surpluses and a la
 
 ### Sovereign — Nerine Sorelli
 
-Age 66 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 66–67 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Long-limbed, with deep brown skin, a shaved head and a slight squint when reading fine print.
 
@@ -150,11 +150,11 @@ Age 66 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 3.06–4.18%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 3.06–4.59%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Marshal of the Royal Army — Yselle Serravin
 
-Age 52 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 52–53 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Stocky, with olive skin, thick silver-streaked hair and a slow, deliberate walk.
 
@@ -164,11 +164,11 @@ Age 52 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.96–1.3%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.96–1.4%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chief Royal Commissioner — Heloise Orselle
 
-Age 47 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 47–48 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Lean and weathered, with a narrow mouth, dark hair tied at the nape and ink-stained fingertips.
 
@@ -178,11 +178,11 @@ Age 47 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.68–0.92%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.68–0.99%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Olivier Sorelli
 
-Age 22 local years; alive. Completed local years at baseline; birthday unrecorded.
+Age 22–23 local years; alive. Completed local years at baseline; birthday unrecorded.
 
 **Appearance.** Round-faced, with cropped chestnut hair, dark eyes and a habit of adjusting a plain signet ring.
 
@@ -192,7 +192,7 @@ Age 22 local years; alive. Completed local years at baseline; birthday unrecorde
 
 **Health.** No disabling condition established.
 
-Ordinary annual age-based mortality reference: 0.28–0.32%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.28–0.33%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Rovessara
 
@@ -210,7 +210,7 @@ Rovessara is a merchant republic governed through commercial councils. Bellacenn
 
 ### First Consul — Gaspard Barvaux
 
-Age 62 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 62–63 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Round-faced, with cropped chestnut hair, dark eyes and a habit of adjusting a plain signet ring.
 
@@ -220,11 +220,11 @@ Age 62 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 2.14–2.91%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 2.14–3.18%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Admiral of the Republic — Rosaline Castrel
 
-Age 50 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 50–51 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Tall, with dark skin, silver at the temples and a low voice that carries without effort.
 
@@ -234,11 +234,11 @@ Age 50 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.83–1.13%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.83–1.21%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy Consul — Dorian Lorrain
 
-Age 57 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 57–58 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Small-framed, with tawny skin, tightly curled hair and wire-framed reading spectacles.
 
@@ -248,7 +248,7 @@ Age 57 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.41–1.9%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.41–2.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Brannervaux
 
@@ -266,7 +266,7 @@ Brannervaux is a federation of basin cities, landed districts and water authorit
 
 ### Federal Convenor — Fleur Delmorne
 
-Age 57 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 57–58 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Square-shouldered, with a lined forehead, fair skin and a neat side part above an old eyebrow scar.
 
@@ -276,11 +276,11 @@ Age 57 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.41–1.9%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.41–2.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Defence Commissioner — Deliane Serravin
 
-Age 52 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 52–53 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Slender, with brown skin, black hair worn long and still hands folded over a document case.
 
@@ -290,11 +290,11 @@ Age 52 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.96–1.3%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.96–1.4%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy Convenor — Arielle Arvelle
 
-Age 37 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 37–38 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Heavy-set, with ruddy cheeks, thinning sandy hair and carefully polished practical boots.
 
@@ -304,7 +304,7 @@ Age 37 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.4–0.48%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.4–0.51%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Cervaud
 
@@ -322,7 +322,7 @@ Cervaud is a hereditary duchy whose court and officer institutions occupy Charve
 
 ### Duke — Fabien Vasselin
 
-Age 61 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 61–62 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Tall and narrow-shouldered, with close-cropped dark hair, a long nose and carefully mended formal cuffs.
 
@@ -332,11 +332,11 @@ Age 61 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.96–2.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.96–2.91%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Marshal — Pascal Cavellier
 
-Age 42 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 42–43 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Broad-faced, with greying curls, warm brown skin and an immaculate high-collared coat.
 
@@ -346,11 +346,11 @@ Age 42 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.51–0.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.51–0.7%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chancellor — Valerie Seravin
 
-Age 40 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 40–41 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Compact and erect, with pale freckled skin, swept-back auburn hair and quick grey eyes.
 
@@ -360,11 +360,11 @@ Age 40 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.45–0.57%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.45–0.61%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Aurelie Vasselin
 
-Age 32 local years; alive. Completed local years at baseline; birthday unrecorded.
+Age 32–33 local years; alive. Completed local years at baseline; birthday unrecorded.
 
 **Appearance.** Square-shouldered, with a lined forehead, fair skin and a neat side part above an old eyebrow scar.
 
@@ -374,7 +374,7 @@ Age 32 local years; alive. Completed local years at baseline; birthday unrecorde
 
 **Health.** No disabling condition established.
 
-Ordinary annual age-based mortality reference: 0.34–0.38%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.34–0.39%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Veylac
 
@@ -392,7 +392,7 @@ Veylac is an industrial republic centred on Alescogne's councils, Bellorante's m
 
 ### Council President — Alban Orcelin
 
-Age 43 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 43–44 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Long-limbed, with deep brown skin, a shaved head and a slight squint when reading fine print.
 
@@ -402,11 +402,11 @@ Age 43 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.53–0.7%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.53–0.76%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chief of Defence — Celestin Trevaux
 
-Age 42 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 42–43 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Stocky, with olive skin, thick silver-streaked hair and a slow, deliberate walk.
 
@@ -416,11 +416,11 @@ Age 42 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.51–0.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.51–0.7%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy President — Renato Duvaret
 
-Age 30 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 30–31 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Lean and weathered, with a narrow mouth, dark hair tied at the nape and ink-stained fingertips.
 
@@ -430,7 +430,7 @@ Age 30 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.33–0.35%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.33–0.36%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Ossavren successor territories
 
@@ -448,7 +448,7 @@ Ossavren denotes the territories of a broken crown, not a functioning nation wit
 
 ### Ossendrienne Civic Convenor — Tristan Trevaux
 
-Age 49 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 49–50 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Round-faced, with cropped chestnut hair, dark eyes and a habit of adjusting a plain signet ring.
 
@@ -458,11 +458,11 @@ Age 49 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.78–1.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.78–1.13%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Ossendrienne Garrison Commander — Vivienne Vellori
 
-Age 57 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 57–58 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Tall, with dark skin, silver at the temples and a low voice that carries without effort.
 
@@ -472,11 +472,11 @@ Age 57 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.41–1.9%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.41–2.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Tressavio Council Speaker — Florent Barvaux
 
-Age 52 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 52–53 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Small-framed, with tawny skin, tightly curled hair and wire-framed reading spectacles.
 
@@ -486,7 +486,7 @@ Age 52 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.96–1.3%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.96–1.4%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Rovengard
 
@@ -504,7 +504,7 @@ Rovengard is Morholt's largest single monarchy, governed from Arvendal and linke
 
 ### Sovereign — Arielle Trevaux
 
-Age 49 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 49–50 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Square-shouldered, with a lined forehead, fair skin and a neat side part above an old eyebrow scar.
 
@@ -514,11 +514,11 @@ Age 49 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.78–1.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.78–1.13%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Marshal of the Crown — Alessia Carvesset
 
-Age 52 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 52–53 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Slender, with brown skin, black hair worn long and still hands folded over a document case.
 
@@ -528,11 +528,11 @@ Age 52 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.96–1.3%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.96–1.4%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chancellor — Alban Darcourt
 
-Age 58 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 58–59 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Heavy-set, with ruddy cheeks, thinning sandy hair and carefully polished practical boots.
 
@@ -542,11 +542,11 @@ Age 58 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.52–2.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.52–2.24%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Olivier Trevaux
 
-Age 35 local years; alive. Completed local years at baseline; birthday unrecorded.
+Age 35–36 local years; alive. Completed local years at baseline; birthday unrecorded.
 
 **Appearance.** Tall and narrow-shouldered, with close-cropped dark hair, a long nose and carefully mended formal cuffs.
 
@@ -556,7 +556,7 @@ Age 35 local years; alive. Completed local years at baseline; birthday unrecorde
 
 **Health.** No disabling condition established.
 
-Ordinary annual age-based mortality reference: 0.37–0.43%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.37–0.46%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Varnesk
 
@@ -574,7 +574,7 @@ Varnesk is a league of mining councils and industrial proprietors meeting at Cor
 
 ### League Chair — Pascal Brissot
 
-Age 62 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 62–63 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Tall and narrow-shouldered, with close-cropped dark hair, a long nose and carefully mended formal cuffs.
 
@@ -584,11 +584,11 @@ Age 62 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 2.14–2.91%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 2.14–3.18%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Defence Director — Heloise Vellori
 
-Age 55 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 55–56 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Broad-faced, with greying curls, warm brown skin and an immaculate high-collared coat.
 
@@ -598,11 +598,11 @@ Age 55 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.19–1.62%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.19–1.76%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy League Chair — Gaspard Rovelle
 
-Age 41 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 41–42 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Compact and erect, with pale freckled skin, swept-back auburn hair and quick grey eyes.
 
@@ -612,7 +612,7 @@ Age 41 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.48–0.61%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.48–0.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Galdresk
 
@@ -630,7 +630,7 @@ Galdresk is a wardenship of chartered orders, estates and civilian towns. Greval
 
 ### First Warden — Florent Resselin
 
-Age 68 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 68–69 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Long-limbed, with deep brown skin, a shaved head and a slight squint when reading fine print.
 
@@ -640,11 +640,11 @@ Age 68 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 3.71–5.04%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 3.71–5.53%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Captain-General of the Wardens — Estelle Sarvigne
 
-Age 67 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 67–68 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Stocky, with olive skin, thick silver-streaked hair and a slow, deliberate walk.
 
@@ -654,11 +654,11 @@ Age 67 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 3.37–4.59%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 3.37–5.04%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy First Warden — Fabien Caldoret
 
-Age 56 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 56–57 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Lean and weathered, with a narrow mouth, dark hair tied at the nape and ink-stained fingertips.
 
@@ -668,7 +668,7 @@ Age 56 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.29–1.76%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.29–1.9%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Halskert
 
@@ -686,7 +686,7 @@ Halskert is a republic of river towns, agricultural districts and commercial aut
 
 ### Council President — Leonie Serravin
 
-Age 63 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 63–64 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Round-faced, with cropped chestnut hair, dark eyes and a habit of adjusting a plain signet ring.
 
@@ -696,11 +696,11 @@ Age 63 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 2.34–3.18%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 2.34–3.48%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Defence Commissioner — Clarisse Arvelle
 
-Age 52 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 52–53 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Tall, with dark skin, silver at the temples and a low voice that carries without effort.
 
@@ -710,11 +710,11 @@ Age 52 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.96–1.3%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.96–1.4%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy President — Camille Cavellier
 
-Age 42 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 42–43 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Small-framed, with tawny skin, tightly curled hair and wire-framed reading spectacles.
 
@@ -724,7 +724,7 @@ Age 42 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.51–0.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.51–0.7%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Tervayne
 
@@ -742,7 +742,7 @@ Tervayne is a western Vesalian maritime state whose government and commercial ho
 
 ### First Sea Councillor — Romain Seravin
 
-Age 64 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 64–65 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Square-shouldered, with a lined forehead, fair skin and a neat side part above an old eyebrow scar.
 
@@ -752,11 +752,11 @@ Age 64 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 2.55–3.48%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 2.55–3.81%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Fleet Admiral — Matteo Nerval
 
-Age 63 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 63–64 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Slender, with brown skin, black hair worn long and still hands folded over a document case.
 
@@ -766,11 +766,11 @@ Age 63 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 2.34–3.18%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 2.34–3.48%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy Sea Councillor — Lucan Caldoret
 
-Age 37 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 37–38 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Heavy-set, with ruddy cheeks, thinning sandy hair and carefully polished practical boots.
 
@@ -780,7 +780,7 @@ Age 37 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.4–0.48%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.4–0.51%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Vardol
 
@@ -798,7 +798,7 @@ Vardol is a northern realm centred on Estrevigne's royal and military administra
 
 ### Sovereign — Matteo Rovelle
 
-Age 64 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 64–65 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Tall and narrow-shouldered, with close-cropped dark hair, a long nose and carefully mended formal cuffs.
 
@@ -808,11 +808,11 @@ Age 64 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 2.55–3.48%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 2.55–3.81%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### High Marshal — Vivienne Montreval
 
-Age 44 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 44–45 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Broad-faced, with greying curls, warm brown skin and an immaculate high-collared coat.
 
@@ -822,11 +822,11 @@ Age 44 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.56–0.76%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.56–0.81%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chancellor — Alban Elmont
 
-Age 30 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 30–31 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Compact and erect, with pale freckled skin, swept-back auburn hair and quick grey eyes.
 
@@ -836,11 +836,11 @@ Age 30 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.33–0.35%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.33–0.36%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Marcellin Rovelle
 
-Age 29 local years; alive. Completed local years at baseline; birthday unrecorded.
+Age 29–30 local years; alive. Completed local years at baseline; birthday unrecorded.
 
 **Appearance.** Lean and weathered, with a narrow mouth, dark hair tied at the nape and ink-stained fingertips.
 
@@ -850,7 +850,7 @@ Age 29 local years; alive. Completed local years at baseline; birthday unrecorde
 
 **Health.** No disabling condition established.
 
-Ordinary annual age-based mortality reference: 0.32–0.34%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.32–0.35%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Averholt
 
@@ -868,7 +868,7 @@ Averholt is a predominantly inland realm held together by provincial bargains. A
 
 ### Sovereign — Renier Aubret
 
-Age 39 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 39–40 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Long-limbed, with deep brown skin, a shaved head and a slight squint when reading fine print.
 
@@ -878,11 +878,11 @@ Age 39 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.44–0.54%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.44–0.57%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Marshal of the Compact — Lucan Favrelli
 
-Age 51 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 51–52 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Stocky, with olive skin, thick silver-streaked hair and a slow, deliberate walk.
 
@@ -892,11 +892,11 @@ Age 51 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.89–1.21%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.89–1.3%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### First Provincial Councillor — Vittore Barvaux
 
-Age 56 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 56–57 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Lean and weathered, with a narrow mouth, dark hair tied at the nape and ink-stained fingertips.
 
@@ -906,11 +906,11 @@ Age 56 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.29–1.76%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.29–1.9%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Gaspard Aubret
 
-Age 35 local years; alive. Completed local years at baseline; birthday unrecorded.
+Age 35–36 local years; alive. Completed local years at baseline; birthday unrecorded.
 
 **Appearance.** Round-faced, with cropped chestnut hair, dark eyes and a habit of adjusting a plain signet ring.
 
@@ -920,7 +920,7 @@ Age 35 local years; alive. Completed local years at baseline; birthday unrecorde
 
 **Health.** No disabling condition established.
 
-Ordinary annual age-based mortality reference: 0.37–0.43%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.37–0.46%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Serevask Republic
 
@@ -938,7 +938,7 @@ The Serevask Republic governs its own mountain, upland and forest districts from
 
 ### Republic President — Marielle Bellorin
 
-Age 61 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 61–62 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Round-faced, with cropped chestnut hair, dark eyes and a habit of adjusting a plain signet ring.
 
@@ -948,11 +948,11 @@ Age 61 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.96–2.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.96–2.91%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chief of Defence — Leonie Arvelle
 
-Age 54 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 54–55 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Tall, with dark skin, silver at the temples and a low voice that carries without effort.
 
@@ -962,11 +962,11 @@ Age 54 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.11–1.51%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.11–1.62%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy President — Marcellin Sorellet
 
-Age 59 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 59–60 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Small-framed, with tawny skin, tightly curled hair and wire-framed reading spectacles.
 
@@ -976,7 +976,7 @@ Age 59 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.65–2.24%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.65–2.43%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Varnelle
 
@@ -994,7 +994,7 @@ Varnelle is a delta state administered through port, water and commercial author
 
 ### First Commissioner — Coralie Lorrain
 
-Age 71 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 71–72 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Square-shouldered, with a lined forehead, fair skin and a neat side part above an old eyebrow scar.
 
@@ -1004,11 +1004,11 @@ Age 71 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 4.98–6.64%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 4.98–7.27%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Defence Commissioner — Fabien Valentin
 
-Age 46 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 46–47 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Slender, with brown skin, black hair worn long and still hands folded over a document case.
 
@@ -1018,11 +1018,11 @@ Age 46 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.64–0.86%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.64–0.92%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy Commissioner — Pascal Arvelle
 
-Age 36 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 36–37 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Heavy-set, with ruddy cheeks, thinning sandy hair and carefully polished practical boots.
 
@@ -1032,7 +1032,7 @@ Age 36 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.39–0.46%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.39–0.48%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Kelbrun
 
@@ -1050,7 +1050,7 @@ Kelbrun is an independent state of councils and powerful plantation interests go
 
 ### Council President — Solenne Aubret
 
-Age 59 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 59–60 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Tall and narrow-shouldered, with close-cropped dark hair, a long nose and carefully mended formal cuffs.
 
@@ -1060,11 +1060,11 @@ Age 59 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.65–2.24%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.65–2.43%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Commandant-General — Valerie Varenne
 
-Age 58 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 58–59 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Broad-faced, with greying curls, warm brown skin and an immaculate high-collared coat.
 
@@ -1074,11 +1074,11 @@ Age 58 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.52–2.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.52–2.24%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy President — Elodie Resselin
 
-Age 45 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 45–46 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Compact and erect, with pale freckled skin, swept-back auburn hair and quick grey eyes.
 
@@ -1088,7 +1088,7 @@ Age 45 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.6–0.81%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.6–0.86%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Gavrel
 
@@ -1106,7 +1106,7 @@ Gavrel is a group of chartered march houses with limited common institutions at 
 
 ### Convenor of the Gavrielle Houses — Benoit Orcelin
 
-Age 60 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 60–61 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Long-limbed, with deep brown skin, a shaved head and a slight squint when reading fine print.
 
@@ -1116,11 +1116,11 @@ Age 60 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.8–2.43%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.8–2.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### March Defence Liaison — Alessia Nemeret
 
-Age 56 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 56–57 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Stocky, with olive skin, thick silver-streaked hair and a slow, deliberate walk.
 
@@ -1130,11 +1130,11 @@ Age 56 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.29–1.76%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.29–1.9%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy Convenor — Yselle Talvessin
 
-Age 50 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 50–51 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Lean and weathered, with a narrow mouth, dark hair tied at the nape and ink-stained fingertips.
 
@@ -1144,7 +1144,7 @@ Age 50 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.83–1.13%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.83–1.21%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Bellacosta Cantons
 
@@ -1162,7 +1162,7 @@ The cantons grew out of harbour and plantation charters left without a royal gua
 
 ### Jougrenne Assembly Speaker — Yselle Varenne
 
-Age 42 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 42–43 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Round-faced, with cropped chestnut hair, dark eyes and a habit of adjusting a plain signet ring.
 
@@ -1172,11 +1172,11 @@ Age 42 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.51–0.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.51–0.7%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Jougrenne Escort Commandant — Rosaline Merault
 
-Age 59 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 59–60 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Tall, with dark skin, silver at the temples and a low voice that carries without effort.
 
@@ -1186,11 +1186,11 @@ Age 59 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.65–2.24%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.65–2.43%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Nantac Land-Court Provost — Marielle Caldoret
 
-Age 39 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 39–40 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Small-framed, with tawny skin, tightly curled hair and wire-framed reading spectacles.
 
@@ -1200,7 +1200,7 @@ Age 39 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.44–0.54%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.44–0.57%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Cavressa Principalities
 
@@ -1218,7 +1218,7 @@ A chain of small courts and charter towns occupies the southwestern approaches. 
 
 ### Collengo First Burgess — Vittore Caldoret
 
-Age 53 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 53–54 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Square-shouldered, with a lined forehead, fair skin and a neat side part above an old eyebrow scar.
 
@@ -1228,11 +1228,11 @@ Age 53 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.03–1.4%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.03–1.51%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Collengo Guard Captain — Celestin Brissot
 
-Age 64 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 64–65 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Slender, with brown skin, black hair worn long and still hands folded over a document case.
 
@@ -1242,11 +1242,11 @@ Age 64 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 2.55–3.48%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 2.55–3.81%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Peregia Court Chancellor — Pascal Rovelle
 
-Age 50 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 50–51 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Heavy-set, with ruddy cheeks, thinning sandy hair and carefully polished practical boots.
 
@@ -1256,7 +1256,7 @@ Age 50 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.83–1.13%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.83–1.21%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Vaulcerre Basin Leagues
 
@@ -1274,7 +1274,7 @@ Anselleuil’s reservoir command, Jarnan’s commercial council and the estate a
 
 ### Jarnan Council Speaker — Fleur Resselin
 
-Age 73 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 73–74 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Tall and narrow-shouldered, with close-cropped dark hair, a long nose and carefully mended formal cuffs.
 
@@ -1284,11 +1284,11 @@ Age 73 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 6.1–7.97%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 6.1–8.73%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Anselleuil Reservoir Commandant — Pascal Serravin
 
-Age 48 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 48–49 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Broad-faced, with greying curls, warm brown skin and an immaculate high-collared coat.
 
@@ -1298,11 +1298,11 @@ Age 48 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.73–0.99%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.73–1.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Votane Estates Delegate — Sabine Nerval
 
-Age 56 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 56–57 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Compact and erect, with pale freckled skin, swept-back auburn hair and quick grey eyes.
 
@@ -1312,7 +1312,7 @@ Age 56 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.29–1.76%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.29–1.9%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Seravelle Littoral
 
@@ -1330,7 +1330,7 @@ Astrellac’s harbour republic and the inland estate courts share the eastern li
 
 ### Astrellac First Consul — Valerie Dalmaret
 
-Age 71 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 71–72 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Long-limbed, with deep brown skin, a shaved head and a slight squint when reading fine print.
 
@@ -1340,11 +1340,11 @@ Age 71 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 4.98–6.64%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 4.98–7.27%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Astrellac Patrol Admiral — Sylvain Orcelin
 
-Age 66 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 66–67 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Stocky, with olive skin, thick silver-streaked hair and a slow, deliberate walk.
 
@@ -1354,11 +1354,11 @@ Age 66 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 3.06–4.18%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 3.06–4.59%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Inland Estates Envoy — Lucan Kelvaret
 
-Age 39 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 39–40 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Lean and weathered, with a narrow mouth, dark hair tied at the nape and ink-stained fingertips.
 
@@ -1368,7 +1368,7 @@ Age 39 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.44–0.54%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.44–0.57%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Haldrevik Concessions
 
@@ -1386,7 +1386,7 @@ Concession houses hold time-limited rights to timber, minerals and fuel rather t
 
 ### Asanetz Charter Registrar — Olivier Grevant
 
-Age 72 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 72–73 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Round-faced, with cropped chestnut hair, dark eyes and a habit of adjusting a plain signet ring.
 
@@ -1396,11 +1396,11 @@ Age 72 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 5.51–7.27%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 5.51–7.97%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Alauvenne Security Commandant — Renier Bellorin
 
-Age 48 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 48–49 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Tall, with dark skin, silver at the temples and a low voice that carries without effort.
 
@@ -1410,11 +1410,11 @@ Age 48 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.73–0.99%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.73–1.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Communities' Liaison — Elodie Morcenne
 
-Age 51 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 51–52 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Small-framed, with tawny skin, tightly curled hair and wire-framed reading spectacles.
 
@@ -1424,7 +1424,7 @@ Age 51 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.89–1.21%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.89–1.3%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Dreissen Wardholds
 
@@ -1442,7 +1442,7 @@ Dananske, Dreinvar and Ferorvik anchor separate wardholds along the northern app
 
 ### Dananske First Warden — Vivienne Cernault
 
-Age 44 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 44–45 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Square-shouldered, with a lined forehead, fair skin and a neat side part above an old eyebrow scar.
 
@@ -1452,11 +1452,11 @@ Age 44 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.56–0.76%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.56–0.81%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Dreinvar Fortress Captain — Celestin Valentin
 
-Age 50 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 50–51 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Slender, with brown skin, black hair worn long and still hands folded over a document case.
 
@@ -1466,11 +1466,11 @@ Age 50 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.83–1.13%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.83–1.21%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Ferorvik Assembly Delegate — Marielle Norravel
 
-Age 59 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 59–60 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Heavy-set, with ruddy cheeks, thinning sandy hair and carefully polished practical boots.
 
@@ -1480,7 +1480,7 @@ Age 59 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.65–2.24%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.65–2.43%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Varneselle Estates
 
@@ -1498,7 +1498,7 @@ The eastern estates descend from competing settlement grants, with Varkessant’
 
 ### Varkessant First Burgess — Sylvain Astrevin
 
-Age 62 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 62–63 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Tall and narrow-shouldered, with close-cropped dark hair, a long nose and carefully mended formal cuffs.
 
@@ -1508,11 +1508,11 @@ Age 62 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 2.14–2.91%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 2.14–3.18%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Varkessant Patrol Captain — Lucan Seravin
 
-Age 42 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 42–43 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Broad-faced, with greying curls, warm brown skin and an immaculate high-collared coat.
 
@@ -1522,11 +1522,11 @@ Age 42 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.51–0.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.51–0.7%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Estates' Arbitration Speaker — Deliane Vaudrin
 
-Age 35 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 35–36 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Compact and erect, with pale freckled skin, swept-back auburn hair and quick grey eyes.
 
@@ -1536,7 +1536,7 @@ Age 35 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.37–0.43%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.37–0.46%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Bressavelle Marches
 
@@ -1554,7 +1554,7 @@ The western marches form a belt of fortified lordships, town liberties and culti
 
 ### Malinne Council Speaker — Sabine Morcenne
 
-Age 48 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 48–49 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Long-limbed, with deep brown skin, a shaved head and a slight squint when reading fine print.
 
@@ -1564,11 +1564,11 @@ Age 48 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.73–0.99%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.73–1.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Temevaux Road Commandant — Marcellin Rovantin
 
-Age 61 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 61–62 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Stocky, with olive skin, thick silver-streaked hair and a slow, deliberate walk.
 
@@ -1578,11 +1578,11 @@ Age 61 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.96–2.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.96–2.91%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Orsavie Charter Envoy — Matteo Montreval
 
-Age 57 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 57–58 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Lean and weathered, with a narrow mouth, dark hair tied at the nape and ink-stained fingertips.
 
@@ -1592,7 +1592,7 @@ Age 57 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.41–1.9%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.41–2.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Vallessia Cantons
 
@@ -1610,7 +1610,7 @@ Southern market cantons rebuilt around local granaries after the last major cull
 
 ### Margeuil Grain-Board Speaker — Yselle Favrelli
 
-Age 68 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 68–69 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Round-faced, with cropped chestnut hair, dark eyes and a habit of adjusting a plain signet ring.
 
@@ -1620,11 +1620,11 @@ Age 68 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 3.71–5.04%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 3.71–5.53%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Darnenne Military Governor — Yselle Vernac
 
-Age 62 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 62–63 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Tall, with dark skin, silver at the temples and a low voice that carries without effort.
 
@@ -1634,11 +1634,11 @@ Age 62 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 2.14–2.91%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 2.14–3.18%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Galigny Appeals Delegate — Sabine Varnier
 
-Age 49 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 49–50 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Small-framed, with tawny skin, tightly curled hair and wire-framed reading spectacles.
 
@@ -1648,7 +1648,7 @@ Age 49 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.78–1.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.78–1.13%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Rivessac Coast
 
@@ -1666,7 +1666,7 @@ Saultac is the best-charted inland market in a southeastern coastal region of sm
 
 ### Vessaline Harbour Speaker — Alessia Vernac
 
-Age 60 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 60–61 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Square-shouldered, with a lined forehead, fair skin and a neat side part above an old eyebrow scar.
 
@@ -1676,11 +1676,11 @@ Age 60 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.8–2.43%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.8–2.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Coastal Patrol Coordinator — Yselle Valentin
 
-Age 61 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 61–62 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Slender, with brown skin, black hair worn long and still hands folded over a document case.
 
@@ -1690,11 +1690,11 @@ Age 61 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.96–2.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.96–2.91%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Saultac Market Delegate — Aurelie Barvaux
 
-Age 47 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 47–48 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Heavy-set, with ruddy cheeks, thinning sandy hair and carefully polished practical boots.
 
@@ -1704,7 +1704,7 @@ Age 47 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.68–0.92%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.68–0.99%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Karsenne Compact
 
@@ -1722,7 +1722,7 @@ Drossane hosts common business for autonomous mining councils and fortress distr
 
 ### Compact Convenor — Clarisse Trevaux
 
-Age 42 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 42–43 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Tall and narrow-shouldered, with close-cropped dark hair, a long nose and carefully mended formal cuffs.
 
@@ -1732,11 +1732,11 @@ Age 42 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.51–0.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.51–0.7%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Defence Convenor — Celine Montreval
 
-Age 54 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 54–55 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Broad-faced, with greying curls, warm brown skin and an immaculate high-collared coat.
 
@@ -1746,11 +1746,11 @@ Age 54 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.11–1.51%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.11–1.62%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy Compact Convenor — Solenne Vaudrin
 
-Age 50 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 50–51 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Compact and erect, with pale freckled skin, swept-back auburn hair and quick grey eyes.
 
@@ -1760,7 +1760,7 @@ Age 50 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.83–1.13%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.83–1.21%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Duchy of Caldrienne
 
@@ -1778,7 +1778,7 @@ Valdrec houses the ducal administration and principal army depots. Productive va
 
 ### Duke — Adrien Nerval
 
-Age 73 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 73–74 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Long-limbed, with deep brown skin, a shaved head and a slight squint when reading fine print.
 
@@ -1788,11 +1788,11 @@ Age 73 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 6.1–7.97%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 6.1–8.73%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Grand Marshal — Tristan Corvelli
 
-Age 44 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 44–45 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Stocky, with olive skin, thick silver-streaked hair and a slow, deliberate walk.
 
@@ -1802,11 +1802,11 @@ Age 44 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.56–0.76%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.56–0.81%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chancellor — Renier Montreval
 
-Age 37 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 37–38 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Lean and weathered, with a narrow mouth, dark hair tied at the nape and ink-stained fingertips.
 
@@ -1816,11 +1816,11 @@ Age 37 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.4–0.48%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.4–0.51%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Adrien Nerval the Younger
 
-Age 33 local years; alive. Completed local years at baseline; birthday unrecorded.
+Age 33–34 local years; alive. Completed local years at baseline; birthday unrecorded.
 
 **Appearance.** Slender, with brown skin, black hair worn long and still hands folded over a document case.
 
@@ -1830,7 +1830,7 @@ Age 33 local years; alive. Completed local years at baseline; birthday unrecorde
 
 **Health.** No disabling condition established.
 
-Ordinary annual age-based mortality reference: 0.35–0.39%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.35–0.41%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## March of Veyrasse
 
@@ -1848,7 +1848,7 @@ The charter balances the Margrave, landed houses, municipal councils and industr
 
 ### Margrave — Odrienne Orcemont
 
-Age 51–52 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 51–53 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Upright and composed, with dark hair silvering at the temples, a narrow face and carefully fitted dark court dress.
 
@@ -1858,11 +1858,11 @@ Age 51–52 local years; alive. Completed local years at register baseline; exac
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.89–1.3%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.89–1.4%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Marshal — Calvren Vaucerin
 
-Age 63–64 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 63–65 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Grey-haired, broad through the shoulders, with lined eyes and a sober uniform kept serviceable rather than ornamental.
 
@@ -1872,11 +1872,11 @@ Age 63–64 local years; alive. Completed local years at register baseline; exac
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 2.34–3.48%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 2.34–3.81%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chief of General Staff — Cevrel Darscelet
 
-Age 49–50 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 49–51 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Lean, with dark hair pinned clear of her face, an attentive gaze and a plain staff uniform; moves with economical precision.
 
@@ -1886,11 +1886,11 @@ Age 49–50 local years; alive. Completed local years at register baseline; exac
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.78–1.13%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.78–1.21%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Maurelle Orcemont
 
-Age 26–27 local years; alive. Completed local years at baseline; birthday unrecorded.
+Age 26–28 local years; alive. Completed local years at baseline; birthday unrecorded.
 
 **Appearance.** Carefully dressed, with glossy dark hair, a smooth oval face and an exquisitely rehearsed public smile.
 
@@ -1918,7 +1918,7 @@ Miravelle is the seat of a republic whose restricted franchise favours shipping,
 
 ### Republic President — Lucelle Cavrenne
 
-Age 44 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 44–45 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Square-shouldered, with a lined forehead, fair skin and a neat side part above an old eyebrow scar.
 
@@ -1928,11 +1928,11 @@ Age 44 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.56–0.76%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.56–0.81%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Admiral-General — Deliane Varenne
 
-Age 58 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 58–59 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Slender, with brown skin, black hair worn long and still hands folded over a document case.
 
@@ -1942,11 +1942,11 @@ Age 58 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.52–2.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.52–2.24%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy President — Romain Sorelli
 
-Age 51 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 51–52 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Heavy-set, with ruddy cheeks, thinning sandy hair and carefully polished practical boots.
 
@@ -1956,7 +1956,7 @@ Age 51 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.89–1.21%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.89–1.3%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Ceralte Admiralty
 
@@ -1974,7 +1974,7 @@ Dalmor is the fortified harbour and seat of a hereditary protector, senior naval
 
 ### Hereditary Protector — Florent Orselle
 
-Age 46 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 46–47 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Tall and narrow-shouldered, with close-cropped dark hair, a long nose and carefully mended formal cuffs.
 
@@ -1984,11 +1984,11 @@ Age 46 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.64–0.86%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.64–0.92%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### First Admiral — Vivienne Darcourt
 
-Age 61 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 61–62 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Broad-faced, with greying curls, warm brown skin and an immaculate high-collared coat.
 
@@ -1998,11 +1998,11 @@ Age 61 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.96–2.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.96–2.91%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Naval Council Chancellor — Emilien Vaudrin
 
-Age 51 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 51–52 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Compact and erect, with pale freckled skin, swept-back auburn hair and quick grey eyes.
 
@@ -2012,11 +2012,11 @@ Age 51 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.89–1.21%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.89–1.3%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Heloise Orselle of Dalmor
 
-Age 23 local years; alive. Completed local years at baseline; birthday unrecorded.
+Age 23–24 local years; alive. Completed local years at baseline; birthday unrecorded.
 
 **Appearance.** Broad-faced, with dark curls, warm brown skin and an immaculate high-collared coat.
 
@@ -2044,7 +2044,7 @@ The Varessan Sea League unites five island assemblies under a charter covering c
 
 ### League Speaker — Benoit Vasselin
 
-Age 51 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 51–52 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Long-limbed, with deep brown skin, a shaved head and a slight squint when reading fine print.
 
@@ -2054,11 +2054,11 @@ Age 51 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.89–1.21%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.89–1.3%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Convoy Captain-General — Emilien Varenne
 
-Age 67 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 67–68 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Stocky, with olive skin, thick silver-streaked hair and a slow, deliberate walk.
 
@@ -2068,11 +2068,11 @@ Age 67 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 3.37–4.59%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 3.37–5.04%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy League Speaker — Valerie Carvesset
 
-Age 33 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 33–34 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Lean and weathered, with a narrow mouth, dark hair tied at the nape and ink-stained fingertips.
 
@@ -2082,7 +2082,7 @@ Age 33 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.35–0.39%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.35–0.41%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Talascan Charter Islands
 
@@ -2100,7 +2100,7 @@ Rovessara governs the Talascan chain through a colonial commissioner, customs po
 
 ### Colonial Commissioner — Benoit Kelvaret
 
-Age 43 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 43–44 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Round-faced, with cropped chestnut hair, dark eyes and a habit of adjusting a plain signet ring.
 
@@ -2110,11 +2110,11 @@ Age 43 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.53–0.7%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.53–0.76%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Colonial Garrison Commandant — Solenne Sorelli
 
-Age 46 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 46–47 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Tall, with dark skin, silver at the temples and a low voice that carries without effort.
 
@@ -2124,11 +2124,11 @@ Age 46 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.64–0.86%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.64–0.92%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chief Colonial Secretary — Matteo Darcourt
 
-Age 42 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 42–43 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Small-framed, with tawny skin, tightly curled hair and wire-framed reading spectacles.
 
@@ -2138,7 +2138,7 @@ Age 42 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.51–0.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.51–0.7%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Nemerai Crown
 
@@ -2156,7 +2156,7 @@ The Nemerai Crown is an old island monarchy whose ruler is confirmed by heredita
 
 ### Sovereign — Emilien Brissot
 
-Age 61 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 61–62 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Square-shouldered, with a lined forehead, fair skin and a neat side part above an old eyebrow scar.
 
@@ -2166,11 +2166,11 @@ Age 61 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.96–2.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.96–2.91%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Admiral of the Crown — Lorent Auvret
 
-Age 45 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 45–46 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Slender, with brown skin, black hair worn long and still hands folded over a document case.
 
@@ -2180,11 +2180,11 @@ Age 45 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.6–0.81%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.6–0.86%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### First Minister — Valerie Auvret
 
-Age 49 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 49–50 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Heavy-set, with ruddy cheeks, thinning sandy hair and carefully polished practical boots.
 
@@ -2194,11 +2194,11 @@ Age 49 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.78–1.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.78–1.13%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Elodie Brissot
 
-Age 30 local years; alive. Completed local years at baseline; birthday unrecorded.
+Age 30–31 local years; alive. Completed local years at baseline; birthday unrecorded.
 
 **Appearance.** Stocky, with olive skin, thick dark hair and a slow, deliberate walk.
 
@@ -2208,7 +2208,7 @@ Age 30 local years; alive. Completed local years at baseline; birthday unrecorde
 
 **Health.** No disabling condition established.
 
-Ordinary annual age-based mortality reference: 0.33–0.35%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.33–0.36%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Ordelune Overseas Districts
 
@@ -2226,7 +2226,7 @@ Ostrevain’s southern overseas districts join two island clusters under a gover
 
 ### Governor — Vittore Varenne
 
-Age 60 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 60–61 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Tall and narrow-shouldered, with close-cropped dark hair, a long nose and carefully mended formal cuffs.
 
@@ -2236,11 +2236,11 @@ Age 60 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.8–2.43%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.8–2.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Garrison Commandant — Lucelle Dalmaret
 
-Age 67 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 67–68 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Broad-faced, with greying curls, warm brown skin and an immaculate high-collared coat.
 
@@ -2250,11 +2250,11 @@ Age 67 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 3.37–4.59%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 3.37–5.04%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chief Secretary — Nerine Orselle
 
-Age 50 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 50–51 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Compact and erect, with pale freckled skin, swept-back auburn hair and quick grey eyes.
 
@@ -2264,7 +2264,7 @@ Age 50 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.83–1.13%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.83–1.21%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Skeldran Hearth Confederacy
 
@@ -2282,7 +2282,7 @@ The Skeldran Hearth Confederacy is a sovereign compact of island kin groups, fis
 
 ### Moot Speaker — Valerie Orselle
 
-Age 72 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 72–73 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Long-limbed, with deep brown skin, a shaved head and a slight squint when reading fine print.
 
@@ -2292,11 +2292,11 @@ Age 72 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 5.51–7.27%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 5.51–7.97%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Mutual Defence Coordinator — Matteo Vellori
 
-Age 47 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 47–48 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Stocky, with olive skin, thick silver-streaked hair and a slow, deliberate walk.
 
@@ -2306,11 +2306,11 @@ Age 47 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.68–0.92%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.68–0.99%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy Moot Speaker — Coralie Duvaret
 
-Age 51 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 51–52 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Lean and weathered, with a narrow mouth, dark hair tied at the nape and ink-stained fingertips.
 
@@ -2320,7 +2320,7 @@ Age 51 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.89–1.21%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.89–1.3%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Merovian Island Republic
 
@@ -2338,7 +2338,7 @@ The Merovian Island Republic joins port municipalities and agricultural district
 
 ### Assembly President — Deliane Valentin
 
-Age 71 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 71–72 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Round-faced, with cropped chestnut hair, dark eyes and a habit of adjusting a plain signet ring.
 
@@ -2348,11 +2348,11 @@ Age 71 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 4.98–6.64%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 4.98–7.27%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Fleet Commandant — Adrien Valentin
 
-Age 44 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 44–45 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Tall, with dark skin, silver at the temples and a low voice that carries without effort.
 
@@ -2362,11 +2362,11 @@ Age 44 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.56–0.76%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.56–0.81%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy President — Armand Vaudrin
 
-Age 46 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 46–47 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Small-framed, with tawny skin, tightly curled hair and wire-framed reading spectacles.
 
@@ -2376,7 +2376,7 @@ Age 46 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.64–0.86%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.64–0.92%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Ashalai Reef Covenant
 
@@ -2394,7 +2394,7 @@ The Ashalai Reef Covenant confederates hereditary kin councils, elected harbour 
 
 ### Covenant Speaker — Matteo Orselle
 
-Age 49 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 49–50 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Square-shouldered, with a lined forehead, fair skin and a neat side part above an old eyebrow scar.
 
@@ -2404,11 +2404,11 @@ Age 49 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.78–1.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.78–1.13%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Mutual Defence Captain — Heloise Astrevin
 
-Age 67 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 67–68 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Slender, with brown skin, black hair worn long and still hands folded over a document case.
 
@@ -2418,11 +2418,11 @@ Age 67 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 3.37–4.59%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 3.37–5.04%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy Speaker — Armand Resselin
 
-Age 42 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 42–43 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Heavy-set, with ruddy cheeks, thinning sandy hair and carefully polished practical boots.
 
@@ -2432,7 +2432,7 @@ Age 42 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.51–0.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.51–0.7%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Kingdom of Istrana
 
@@ -2450,7 +2450,7 @@ Istrana is an island kingdom with a hereditary crown, permanent civil service an
 
 ### Sovereign — Emilien Vasselin
 
-Age 41 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 41–42 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Tall and narrow-shouldered, with close-cropped dark hair, a long nose and carefully mended formal cuffs.
 
@@ -2460,11 +2460,11 @@ Age 41 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.48–0.61%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.48–0.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Admiral of the Kingdom — Sylvain Vellori
 
-Age 66 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 66–67 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Broad-faced, with greying curls, warm brown skin and an immaculate high-collared coat.
 
@@ -2474,11 +2474,11 @@ Age 66 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 3.06–4.18%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 3.06–4.59%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### First Minister — Fabien Varnier
 
-Age 54 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 54–55 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Compact and erect, with pale freckled skin, swept-back auburn hair and quick grey eyes.
 
@@ -2488,11 +2488,11 @@ Age 54 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.11–1.51%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.11–1.62%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Romain Vasselin
 
-Age 22 local years; alive. Completed local years at baseline; birthday unrecorded.
+Age 22–23 local years; alive. Completed local years at baseline; birthday unrecorded.
 
 **Appearance.** Square-shouldered, with a lined forehead, fair skin and a neat side part above an old eyebrow scar.
 
@@ -2502,7 +2502,7 @@ Age 22 local years; alive. Completed local years at baseline; birthday unrecorde
 
 **Health.** No disabling condition established.
 
-Ordinary annual age-based mortality reference: 0.28–0.32%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.28–0.33%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Edrask Governorate
 
@@ -2520,7 +2520,7 @@ Rovengard’s Edrask Governorate holds the inhabited eastern chain through a gov
 
 ### Governor — Yselle Nerval
 
-Age 47 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 47–48 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Long-limbed, with deep brown skin, a shaved head and a slight squint when reading fine print.
 
@@ -2530,11 +2530,11 @@ Age 47 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.68–0.92%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.68–0.99%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Local Forces Commandant — Gaspard Resselin
 
-Age 67 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 67–68 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Stocky, with olive skin, thick silver-streaked hair and a slow, deliberate walk.
 
@@ -2544,11 +2544,11 @@ Age 67 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 3.37–4.59%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 3.37–5.04%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chief Secretary — Solenne Serravin
 
-Age 37 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 37–38 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Lean and weathered, with a narrow mouth, dark hair tied at the nape and ink-stained fingertips.
 
@@ -2558,7 +2558,7 @@ Age 37 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.4–0.48%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.4–0.51%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Norrakai Moots
 
@@ -2576,7 +2576,7 @@ The Norrakai Moots unite northern island communities through seasonal assemblies
 
 ### Moot Speaker — Celiane Sorellet
 
-Age 61 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 61–62 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Round-faced, with cropped chestnut hair, dark eyes and a habit of adjusting a plain signet ring.
 
@@ -2586,11 +2586,11 @@ Age 61 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.96–2.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.96–2.91%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Refuge and Defence Coordinator — Fleur Cavrenne
 
-Age 52 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 52–53 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Tall, with dark skin, silver at the temples and a low voice that carries without effort.
 
@@ -2600,11 +2600,11 @@ Age 52 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 0.96–1.3%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 0.96–1.4%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy Speaker — Benoit Favrelli
 
-Age 54 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
+Age 54–55 local years; alive. Completed local years at register baseline; exact birthday unrecorded.
 
 **Appearance.** Small-framed, with tawny skin, tightly curled hair and wire-framed reading spectacles.
 
@@ -2614,4 +2614,4 @@ Age 54 local years; alive. Completed local years at register baseline; exact bir
 
 **Health.** No disabling condition established; ordinary age-related mortality still applies.
 
-Ordinary annual age-based mortality reference: 1.11–1.51%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
+Ordinary annual age-based mortality reference: 1.11–1.62%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.

@@ -1,4 +1,110 @@
 {
   "reviews": [],
-  "instructions": "Append dated, uniquely identified evidence reviews with society, date, reason and changes {field:{old,new}}. Allowed fields: voice, rights, reason, evidence, evidence_date. Headline overrides are forbidden. Update national economics, services and conflict sources through their existing ledgers. Future reviews are ignored; stale source prose stops the build pending review."
+  "instructions": "Append dated, uniquely identified evidence reviews with society, date, reason and changes {field:{old,new}}. Allowed fields: voice, rights, reason, evidence, evidence_date. Headline overrides are forbidden. Update national economics, services and conflict sources through their existing ledgers. Future reviews are ignored; stale source prose stops the build pending review.",
+  "conflict_reviews": [
+    {
+      "date": "06/11/0068 AC43",
+      "reason": "One further day of story is reconciled. Vauzel supplied district intelligence, not a new escalation or changed civil conditions; retain all eight theatre statuses and social evidence bands.",
+      "previous": [
+        {
+          "id": "cressault",
+          "status": "Intermittent fighting",
+          "situation": "Patrol and irrigation-control clashes were followed by repairs and a limited crossing-notice arrangement between local commanders in Month 6. The armistice still holds at national level; fortified posts and occasional local fire remain. Neither side has settled sovereignty.",
+          "last_review_date": "05/11/0068 AC43"
+        },
+        {
+          "id": "ossavren",
+          "status": "Active civil conflict",
+          "situation": "Contests in Months 3–4 over coal feeders and repair sites damaged rolling stock. A Month 5 grain-transit accord between participating commands reopened negotiated services, without recognising one claimant as sovereign. Outlying districts remain contested.",
+          "last_review_date": "05/11/0068 AC43"
+        },
+        {
+          "id": "haldrevik",
+          "status": "Localised armed conflict; partial settlements",
+          "situation": "Month 2 renewal clashes led to a Month 6 escrow and inspection compromise at participating concessions. Those sites resumed work, while excluded claims still produce intimidation and occasional armed confrontations. A separate Month 7 Hunter strike delayed recovery at one remote repair site.",
+          "last_review_date": "05/11/0068 AC43"
+        },
+        {
+          "id": "maritime",
+          "status": "Maritime raiding; stronger convoy cooperation",
+          "situation": "Participating Seravelle ports began coordinated departures, shared seizure notices and escort cooperation in Month 6. Main-axis exposure declined while raiders shifted toward smaller feeders and isolated sailings. Ceralte’s sponsorship of raiders remains unproved.",
+          "last_review_date": "05/11/0068 AC43"
+        },
+        {
+          "id": "vardol-averholt",
+          "status": "Armed rivalry; reciprocal exercise notices",
+          "situation": "Vardol’s Month 8 frontier exercise prompted precautionary Averholt rotations. Month 9 liaison observers and advance exercise notices reduced the immediate alarm. Territorial claims and permanent garrisons remain.",
+          "last_review_date": "05/11/0068 AC43"
+        },
+        {
+          "id": "southern-basin",
+          "status": "Diplomatic dispute; limited working accord",
+          "situation": "Serevask, participating Varnelle and Kelbrun authorities agreed seasonal water-release notices and shared freight documents in Month 7. Some Gavrel houses joined separately. Reconstruction debts and the division of sovereignty remain unresolved.",
+          "last_review_date": "05/11/0068 AC43"
+        },
+        {
+          "id": "talasca",
+          "status": "Colonial unrest; interim judicial concession",
+          "situation": "Month 6 road-levy refusals and common-pasture petitions led to a Month 9 interim order suspending disputed levies in petitioning districts pending a mixed inquiry. Communities pursue differing aims and are not collectively rebels.",
+          "last_review_date": "05/11/0068 AC43"
+        },
+        {
+          "id": "hunter-pressure",
+          "status": "Persistent external violence; local recovery",
+          "situation": "On 12/04/0068 Hunters struck an outlying Veylac industrial relay and repair depot; on 03/07/0068 another attack destroyed a remote Haldrevik repair shed and stores. These local attacks were followed by dispersed repairs and duplicated records. Deaths, injuries and missing persons were reported but reliable consolidated counts have not reached this register.",
+          "last_review_date": "05/11/0068 AC43"
+        }
+      ],
+      "current": [
+        {
+          "id": "cressault",
+          "status": "Intermittent fighting",
+          "situation": "Patrol and irrigation-control clashes were followed by repairs and a limited crossing-notice arrangement between local commanders in Month 6. The armistice still holds at national level; fortified posts and occasional local fire remain. Neither side has settled sovereignty.",
+          "last_review_date": "06/11/0068 AC43"
+        },
+        {
+          "id": "ossavren",
+          "status": "Active civil conflict",
+          "situation": "Contests in Months 3–4 over coal feeders and repair sites damaged rolling stock. A Month 5 grain-transit accord between participating commands reopened negotiated services, without recognising one claimant as sovereign. Outlying districts remain contested.",
+          "last_review_date": "06/11/0068 AC43"
+        },
+        {
+          "id": "haldrevik",
+          "status": "Localised armed conflict; partial settlements",
+          "situation": "Month 2 renewal clashes led to a Month 6 escrow and inspection compromise at participating concessions. Those sites resumed work, while excluded claims still produce intimidation and occasional armed confrontations. A separate Month 7 Hunter strike delayed recovery at one remote repair site.",
+          "last_review_date": "06/11/0068 AC43"
+        },
+        {
+          "id": "maritime",
+          "status": "Maritime raiding; stronger convoy cooperation",
+          "situation": "Participating Seravelle ports began coordinated departures, shared seizure notices and escort cooperation in Month 6. Main-axis exposure declined while raiders shifted toward smaller feeders and isolated sailings. Ceralte’s sponsorship of raiders remains unproved.",
+          "last_review_date": "06/11/0068 AC43"
+        },
+        {
+          "id": "vardol-averholt",
+          "status": "Armed rivalry; reciprocal exercise notices",
+          "situation": "Vardol’s Month 8 frontier exercise prompted precautionary Averholt rotations. Month 9 liaison observers and advance exercise notices reduced the immediate alarm. Territorial claims and permanent garrisons remain.",
+          "last_review_date": "06/11/0068 AC43"
+        },
+        {
+          "id": "southern-basin",
+          "status": "Diplomatic dispute; limited working accord",
+          "situation": "Serevask, participating Varnelle and Kelbrun authorities agreed seasonal water-release notices and shared freight documents in Month 7. Some Gavrel houses joined separately. Reconstruction debts and the division of sovereignty remain unresolved.",
+          "last_review_date": "06/11/0068 AC43"
+        },
+        {
+          "id": "talasca",
+          "status": "Colonial unrest; interim judicial concession",
+          "situation": "Month 6 road-levy refusals and common-pasture petitions led to a Month 9 interim order suspending disputed levies in petitioning districts pending a mixed inquiry. Communities pursue differing aims and are not collectively rebels.",
+          "last_review_date": "06/11/0068 AC43"
+        },
+        {
+          "id": "hunter-pressure",
+          "status": "Persistent external violence; local recovery",
+          "situation": "On 12/04/0068 Hunters struck an outlying Veylac industrial relay and repair depot; on 03/07/0068 another attack destroyed a remote Haldrevik repair shed and stores. These local attacks were followed by dispersed repairs and duplicated records. Deaths, injuries and missing persons were reported but reliable consolidated counts have not reached this register.",
+          "last_review_date": "06/11/0068 AC43"
+        }
+      ]
+    }
+  ]
 }

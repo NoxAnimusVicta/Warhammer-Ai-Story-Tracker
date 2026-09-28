@@ -1,6 +1,6 @@
 # App record reference
 
-Preserved revision-72 text (05/11/0068 AC43) before the organisation audit. This reference preserves every paragraph consolidated or regrouped on the slate; it is not a newer scene update. The exact story transcript remains authoritative for subsequent exchanges.
+Current source records for revision 73 (06/11/0068 AC43). This reference retains the complete prose consolidated or regrouped on the slate. Historical editions remain in repository history; the exact transcript preserves the sequence of events.
 
 Organisation: identity, contacts and personal accounts in Dossier; biology and psychic development in Physiology; projects and commission in Research; completed expedition and pod history in Chronicle; household accounts beside Estate. Veyrasse-specific social institutions are explicitly labelled in Malaspina. Duplicate project summaries and historical lodging are retained here rather than repeated across current panels.
 
@@ -38,17 +38,17 @@ Royal technical commission
 
 Authorised 11/10 and executed 17/10/0068 AC43. The Auvrienne works completed 195 rifles; production is paused with staff retained under Bastien Ordel. Captain Armand Serault accompanies Galahad at Cressault. The standing Royal Advisor appointment remains under sovereign review.
 
-Rifles and ammunition · 05/11
+Rifles and ammunition · 06/11
 
-187 military rifles delivered: 160 issued to Desmaret’s company, 27 reserve. Five approved House rifles await delivery from Auvrienne; three development rifles remain there. Of 12,000 issued rounds, 10,358 remain: 8,000 armour-piercing and 2,358 ordinary.
+187 military rifles delivered: 160 issued to Desmaret’s company, 27 reserve. Five approved House rifles await delivery from Auvrienne; three development rifles remain there. Of 12,000 issued rounds, 9,558 remain: 8,000 armour-piercing and 1,558 ordinary. A further ordinary-ammunition issue is requested; quantity and valuation await presentation before draw.
 
 Instruction · 05–11/11
 
-One of seven full days complete. Galahad directs training and technical certification; Captain Lucard Desmaret reports each morning and retains discipline and administration. Operational orders remain with the frontier chain. No attack order or general offensive.
+Two of seven full days complete; five remain. Galahad directs training and technical certification; Captain Lucard Desmaret reports each morning and retains discipline and administration. Operational orders remain with the frontier chain. No attack order or general offensive.
 
-Next commitment
+District briefing · 06/11
 
-06/11 at 18:00: Major Mathis Vauzel and an operations officer, district headquarters. Desmaret accompanies Galahad; transport arranged. Local enemy force estimates and reinforcement times are still awaited.
+Vauzel has delivered the corridor appreciation to Galahad and Desmaret. Caldrienne: 18,400 personnel estimated (16,000–21,500); corresponding Veyrassian district: 11,600. Equipment and conditional reinforcement assessments are recorded in the full return. These are subsets of national forces. The meeting is still in progress.
 
 Rights and other designs
 
@@ -100,7 +100,7 @@ Exceptional memory and pattern recognition support fluent speech and independent
 
 ## Planetary population summary
 
-Population estimate on 05/11/0068 AC43, 434 local days after the census of 27/08/0067 AC43: 1,228,835,572. Includes the corrected outer-island coverage. Dated demographic projection.
+Population estimate on 06/11/0068 AC43, 435 local days after the census of 27/08/0067 AC43: 1,228,847,194. Includes the corrected outer-island coverage. Dated demographic projection.
 
 ## Funds and standing — complete source
 
@@ -108,7 +108,7 @@ Population estimate on 05/11/0068 AC43, 434 local days after the census of 27/08
 
 Commission pay: 150/month, paid on the first for the preceding month. On 01/11 received 70 commission pay and 40 final Collegium wages; salaried Collegium employment ended 20/10. Next commission payday 01/12. The 900 licence fee was already paid on 18/10.
 
-State programme: 18,000 ceiling = 14,059 recognised cost + 180 outstanding commitments + 3,761 headroom. Not personal funds or profit. Expedition account closed, zero held; its complete settlement is preserved in the expedition accounts.
+State programme: 18,000 ceiling = 14,094 recognised cost + 180 outstanding commitments + 3,726 headroom. Not personal funds or profit. Expedition account closed, zero held; its complete settlement is preserved in the expedition accounts.
 
 ## Relationships — complete source record
 
@@ -168,13 +168,13 @@ Calvren Vaucerin — Marshal; executed the agreement on 17/10 and authorised the
 
 Cevrel Darscelet — Lieutenant-General and chief of general staff; sponsored the referrals, supports the programme and advisory consideration. The three principals know the reported attack and cell, not automatically the private psychic means or broader research secrets.
 
-Armand Serault — Captain; programme liaison responsible for administration, security, accounts and reporting. Accompanied the consignment to Cressault, checked the 160 issued and 27 reserve rifles, and cleared access to Vauzel’s briefing. Five approved House rifles still await delivery from Auvrienne.
+Armand Serault — Captain; programme liaison responsible for administration, security, accounts and reporting. Accompanied the consignment to Cressault, checked the 160 issued and 27 reserve rifles, and cleared access to Vauzel’s briefing. After the second training day he raised an ordinary-ammunition top-up through stores; quantity and valuation await presentation before draw. Five approved House rifles still await delivery from Auvrienne.
 
 Bastien Ordel — foreman of the eighteen-person core assignment. Staff demonstrated twelve completed rifles per production day on the additional batch under his management and Galahad’s oversight; the team remains employed during the pause.
 
 Lucard Desmaret — Captain of the 160-person regular company at Cressault; posted in the district fourteen months, in command nine months at arrival. Reports each morning during the authorised training period and executes Galahad’s training directions; retains discipline and administration. Successful private firing, extraordinary marksmanship and their discussion of unity against the Hunters deepened professional respect. His officers and soldiers are increasingly receptive, without a personal oath or guaranteed political allegiance.
 
-Mathis Vauzel — Major and district intelligence lead. Confirmed a joint briefing with an operations officer for 06/11 at 18:00 at district headquarters; Desmaret accompanies Galahad. Dated local force estimates and reinforcement assessments have been requested but not yet delivered.
+Mathis Vauzel — Major and district intelligence lead. Met Galahad and Desmaret at district headquarters from 18:00 on 06/11 with an operations officer present. Delivered the dated corridor appreciation on 06/11, including force ranges, equipment and conditional reinforcement windows. Professional candour increased under informed questioning and calming influence; protected source identities remain withheld. The meeting is still in progress.
 
 ## Research — complete source record
 
@@ -190,7 +190,7 @@ Architectural work: unbuilt national-wonder designs for Veyrasse, including imme
 
 Mechanical creations: a naturalistic scrap-metal bird conceals a wind-up mechanism. Drawing the winding gear down its back stores energy for short hops and chirruping mechanical sounds. Small engines and automata accompany an articulated snake with more than a hundred thousand functional and decorative components. Its tiny heat engine circulates a thimbleful of water as working fluid, supplied by a separate fuel charge; it can run for an hour under suitable conditions. Pistons drive the joints; contact pressure at the head redirects it at obstacles. Its components include scales and embellishments. Fingers, nails and the supported bone-blade tip finish the tiny parts. Enhanced vision and motor control suffice without magnification, which makes the work easier.
 
-Prospective arms study: The Auvrienne 762 Heavy Semi-Automatic Infantry Rifle has completed its pilot run: 192 accepted trial rifles plus three development rifles. Of the accepted batch, 187 reached Cressault late 04/11: 160 issued and 27 reserve. Five approved House rifles still await delivery from Auvrienne. Private firing and the first company training day are complete; full certification and a controlled operational demonstration remain pending. The separate oversized personal derivative remains undecided and the Airborne Carrier Command Vessel remains an unbuilt preliminary concept. Original designs remain Galahad’s; the paid 900 licence and defined one-off extension do not convey perpetual general manufacture rights. The older station prototype remains incomplete and unreliable, without a dependable ammunition supply.
+Prospective arms study: The Auvrienne 762 Heavy Semi-Automatic Infantry Rifle has completed its pilot run: 192 accepted trial rifles plus three development rifles. Of the accepted batch, 187 reached Cressault late 04/11: 160 issued and 27 reserve. Five approved House rifles still await delivery from Auvrienne. Private firing and the first two company training days are complete; full certification and a controlled operational demonstration remain pending. The separate oversized personal derivative remains undecided and the Airborne Carrier Command Vessel remains an unbuilt preliminary concept. Original designs remain Galahad’s; the paid 900 licence and defined one-off extension do not convey perpetual general manufacture rights. The older station prototype remains incomplete and unreliable, without a dependable ammunition supply.
 
 Charms and older arts: delicate carvings in hunted teeth, bone, hide and scale use interlinked hooked strokes around a central lozenge, a traditional sign of protection and fortunate passage. Fine emerald sparks char borders with increasing control. Building on Orchant’s instruction, repeated expedition trials now reliably retain a familiar psychic impression for several days and distinguish impressed pieces from inert matching decoration. Reliable protection against misfortune remains unproven. Galahad works in the vocabulary and traditions of local magic, without an offworld education in the Warp.
 
@@ -220,7 +220,7 @@ Experimental magic notebook: Expedition progress includes selective calming/fear
 
 Production management: Workflow, staffing, inspection and stores were reorganised in the allocated Auvrienne works. The original 120 trial rifles cleared acceptance by 27/10; another 72 were staff-built and accepted by 02/11. Staff demonstrated twelve completed rifles per production day without Galahad doing production assembly, although he continued oversight. The final report reconciles costs, commitments and inventory. Production is paused with staff retained; the military consignment reached Cressault on 04/11 and instruction began on 05/11.
 
-Frontier instruction and assessment: Desmaret fired twelve ordinary rounds without stoppage on 04/11. Galahad then placed ten rapid shots through one entry point with almost no visible recoil, witnessed by Desmaret. The 05/11 company day covered firing, supervised maintenance, weather effects and handling; initial progress is strong, with six days remaining before the planned certification review. Conversations exposed concerns about wet billets, leave, indefinite posting and defence against Hunters. Train-journey tactical simulations remain hypotheses; Major Vauzel’s local enemy estimates and reinforcement times are still awaited.
+Frontier instruction and assessment: Desmaret fired twelve ordinary rounds without stoppage on 04/11; Galahad then placed ten rapid shots through one entry point with almost no visible recoil. The 05–06/11 training days covered firing, maintenance, weather effects and handling, with NCOs increasingly correcting errors independently. Two of seven days are complete; final certification remains pending. The overnight base survey documented clothing, drying, food, water, maintenance, parts, fuel, readiness and defensive-work bottlenecks, without enacting improvements. Vauzel’s 06/11 district briefing supplied a central Caldrienne corridor estimate of 18,400 personnel (16,000–21,500), against 11,600 in the corresponding Veyrassian district, with equipment estimates and conditional reinforcement windows. These are national-force subsets. Authorised extracts and confidence notes are retained; protected source identities are withheld. The meeting is still in progress. See ROYAL-COMMISSION.md for the complete appreciation.
 
 ## Holdings — complete source record
 
@@ -236,6 +236,6 @@ Station belongings and records: Original station papers, earlier books and corre
 
 Commissions and consignment: The old civil commission advance remains returned and its cancelled balance is not revived. Dorlac’s 60 consignment proceeds were relinquished for goodwill, leaving no receivable; one charm remains unsold. Her supposed Ceralte supplier remains a cover story. The separate 900 military trial licence was paid on 18/10; future general production rights remain Galahad’s.
 
-Institutional loans and standing: Borrowed Collegium instruments are not personal property and have been returned. The royal programme has allocated state premises, eighteen core staff and an 18,000 ceiling, not a privately owned factory or cash grant. At Cressault there are 160 issued military rifles and 27 reserve rifles; five approved House rifles await delivery from Auvrienne, where three development rifles remain. Of 12,000 issued rounds, 10,358 remain after trials and one training day. Galahad has bounded training authority, not operational command; Royal Advisor and an independent engineering company remain unappointed/unfounded.
+Institutional loans and standing: Borrowed Collegium instruments are not personal property and have been returned. The royal programme has allocated state premises, eighteen core staff and an 18,000 ceiling, not a privately owned factory or cash grant. At Cressault there are 160 issued military rifles and 27 reserve rifles; five approved House rifles await delivery from Auvrienne, where three development rifles remain. Of 12,000 issued rounds, 9,558 remain after trials and two training days; a further ordinary-ammunition issue is requested but not received. Galahad has bounded training authority, not operational command; Royal Advisor and an independent engineering company remain unappointed/unfounded.
 
 Drossane accommodation: Historical lodging during days 85–90, now vacated and fully included in settled expedition costs: stone guesthouse, shared upper corridor and sitting room, high-beamed corner room with reinforced bed, worktable, coal hearth, electric lamps and corridor hot-water bathing. The home visit is complete; Galahad is now at Cressault with the receiving company.

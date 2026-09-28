@@ -32,12 +32,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             63,
-            63
+            64
           ],
-          "age_label": "63",
+          "age_label": "63–64",
           "ordinary_annual_mortality_percent": [
             2.34,
-            3.18
+            3.48
           ]
         },
         {
@@ -58,12 +58,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             66,
-            66
+            67
           ],
-          "age_label": "66",
+          "age_label": "66–67",
           "ordinary_annual_mortality_percent": [
             3.06,
-            4.18
+            4.59
           ]
         },
         {
@@ -84,12 +84,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             57,
-            57
+            58
           ],
-          "age_label": "57",
+          "age_label": "57–58",
           "ordinary_annual_mortality_percent": [
             1.41,
-            1.9
+            2.06
           ]
         },
         {
@@ -110,9 +110,9 @@
           "provenance": "New campaign heir; not an enacted succession.",
           "age_current": [
             23,
-            23
+            24
           ],
-          "age_label": "23",
+          "age_label": "23–24",
           "ordinary_annual_mortality_percent": [
             0.29,
             0.33
@@ -151,12 +151,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             66,
-            66
+            67
           ],
-          "age_label": "66",
+          "age_label": "66–67",
           "ordinary_annual_mortality_percent": [
             3.06,
-            4.18
+            4.59
           ]
         },
         {
@@ -177,12 +177,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             52,
-            52
+            53
           ],
-          "age_label": "52",
+          "age_label": "52–53",
           "ordinary_annual_mortality_percent": [
             0.96,
-            1.3
+            1.4
           ]
         },
         {
@@ -203,12 +203,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             47,
-            47
+            48
           ],
-          "age_label": "47",
+          "age_label": "47–48",
           "ordinary_annual_mortality_percent": [
             0.68,
-            0.92
+            0.99
           ]
         },
         {
@@ -229,12 +229,12 @@
           "provenance": "New campaign heir; not an enacted succession.",
           "age_current": [
             22,
-            22
+            23
           ],
-          "age_label": "22",
+          "age_label": "22–23",
           "ordinary_annual_mortality_percent": [
             0.28,
-            0.32
+            0.33
           ]
         }
       ],
@@ -270,12 +270,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             62,
-            62
+            63
           ],
-          "age_label": "62",
+          "age_label": "62–63",
           "ordinary_annual_mortality_percent": [
             2.14,
-            2.91
+            3.18
           ]
         },
         {
@@ -296,12 +296,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             50,
-            50
+            51
           ],
-          "age_label": "50",
+          "age_label": "50–51",
           "ordinary_annual_mortality_percent": [
             0.83,
-            1.13
+            1.21
           ]
         },
         {
@@ -322,12 +322,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             57,
-            57
+            58
           ],
-          "age_label": "57",
+          "age_label": "57–58",
           "ordinary_annual_mortality_percent": [
             1.41,
-            1.9
+            2.06
           ]
         }
       ],
@@ -363,12 +363,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             57,
-            57
+            58
           ],
-          "age_label": "57",
+          "age_label": "57–58",
           "ordinary_annual_mortality_percent": [
             1.41,
-            1.9
+            2.06
           ]
         },
         {
@@ -389,12 +389,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             52,
-            52
+            53
           ],
-          "age_label": "52",
+          "age_label": "52–53",
           "ordinary_annual_mortality_percent": [
             0.96,
-            1.3
+            1.4
           ]
         },
         {
@@ -415,12 +415,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             37,
-            37
+            38
           ],
-          "age_label": "37",
+          "age_label": "37–38",
           "ordinary_annual_mortality_percent": [
             0.4,
-            0.48
+            0.51
           ]
         }
       ],
@@ -456,12 +456,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             61,
-            61
+            62
           ],
-          "age_label": "61",
+          "age_label": "61–62",
           "ordinary_annual_mortality_percent": [
             1.96,
-            2.66
+            2.91
           ]
         },
         {
@@ -482,12 +482,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             42,
-            42
+            43
           ],
-          "age_label": "42",
+          "age_label": "42–43",
           "ordinary_annual_mortality_percent": [
             0.51,
-            0.66
+            0.7
           ]
         },
         {
@@ -508,12 +508,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             40,
-            40
+            41
           ],
-          "age_label": "40",
+          "age_label": "40–41",
           "ordinary_annual_mortality_percent": [
             0.45,
-            0.57
+            0.61
           ]
         },
         {
@@ -534,12 +534,12 @@
           "provenance": "New campaign heir; not an enacted succession.",
           "age_current": [
             32,
-            32
+            33
           ],
-          "age_label": "32",
+          "age_label": "32–33",
           "ordinary_annual_mortality_percent": [
             0.34,
-            0.38
+            0.39
           ]
         }
       ],
@@ -575,12 +575,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             43,
-            43
+            44
           ],
-          "age_label": "43",
+          "age_label": "43–44",
           "ordinary_annual_mortality_percent": [
             0.53,
-            0.7
+            0.76
           ]
         },
         {
@@ -601,12 +601,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             42,
-            42
+            43
           ],
-          "age_label": "42",
+          "age_label": "42–43",
           "ordinary_annual_mortality_percent": [
             0.51,
-            0.66
+            0.7
           ]
         },
         {
@@ -627,12 +627,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             30,
-            30
+            31
           ],
-          "age_label": "30",
+          "age_label": "30–31",
           "ordinary_annual_mortality_percent": [
             0.33,
-            0.35
+            0.36
           ]
         }
       ],
@@ -668,12 +668,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             49,
-            49
+            50
           ],
-          "age_label": "49",
+          "age_label": "49–50",
           "ordinary_annual_mortality_percent": [
             0.78,
-            1.06
+            1.13
           ]
         },
         {
@@ -694,12 +694,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             57,
-            57
+            58
           ],
-          "age_label": "57",
+          "age_label": "57–58",
           "ordinary_annual_mortality_percent": [
             1.41,
-            1.9
+            2.06
           ]
         },
         {
@@ -720,12 +720,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             52,
-            52
+            53
           ],
-          "age_label": "52",
+          "age_label": "52–53",
           "ordinary_annual_mortality_percent": [
             0.96,
-            1.3
+            1.4
           ]
         }
       ],
@@ -761,12 +761,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             49,
-            49
+            50
           ],
-          "age_label": "49",
+          "age_label": "49–50",
           "ordinary_annual_mortality_percent": [
             0.78,
-            1.06
+            1.13
           ]
         },
         {
@@ -787,12 +787,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             52,
-            52
+            53
           ],
-          "age_label": "52",
+          "age_label": "52–53",
           "ordinary_annual_mortality_percent": [
             0.96,
-            1.3
+            1.4
           ]
         },
         {
@@ -813,12 +813,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             58,
-            58
+            59
           ],
-          "age_label": "58",
+          "age_label": "58–59",
           "ordinary_annual_mortality_percent": [
             1.52,
-            2.06
+            2.24
           ]
         },
         {
@@ -839,12 +839,12 @@
           "provenance": "New campaign heir; not an enacted succession.",
           "age_current": [
             35,
-            35
+            36
           ],
-          "age_label": "35",
+          "age_label": "35–36",
           "ordinary_annual_mortality_percent": [
             0.37,
-            0.43
+            0.46
           ]
         }
       ],
@@ -880,12 +880,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             62,
-            62
+            63
           ],
-          "age_label": "62",
+          "age_label": "62–63",
           "ordinary_annual_mortality_percent": [
             2.14,
-            2.91
+            3.18
           ]
         },
         {
@@ -906,12 +906,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             55,
-            55
+            56
           ],
-          "age_label": "55",
+          "age_label": "55–56",
           "ordinary_annual_mortality_percent": [
             1.19,
-            1.62
+            1.76
           ]
         },
         {
@@ -932,12 +932,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             41,
-            41
+            42
           ],
-          "age_label": "41",
+          "age_label": "41–42",
           "ordinary_annual_mortality_percent": [
             0.48,
-            0.61
+            0.66
           ]
         }
       ],
@@ -973,12 +973,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             68,
-            68
+            69
           ],
-          "age_label": "68",
+          "age_label": "68–69",
           "ordinary_annual_mortality_percent": [
             3.71,
-            5.04
+            5.53
           ]
         },
         {
@@ -999,12 +999,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             67,
-            67
+            68
           ],
-          "age_label": "67",
+          "age_label": "67–68",
           "ordinary_annual_mortality_percent": [
             3.37,
-            4.59
+            5.04
           ]
         },
         {
@@ -1025,12 +1025,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             56,
-            56
+            57
           ],
-          "age_label": "56",
+          "age_label": "56–57",
           "ordinary_annual_mortality_percent": [
             1.29,
-            1.76
+            1.9
           ]
         }
       ],
@@ -1066,12 +1066,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             63,
-            63
+            64
           ],
-          "age_label": "63",
+          "age_label": "63–64",
           "ordinary_annual_mortality_percent": [
             2.34,
-            3.18
+            3.48
           ]
         },
         {
@@ -1092,12 +1092,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             52,
-            52
+            53
           ],
-          "age_label": "52",
+          "age_label": "52–53",
           "ordinary_annual_mortality_percent": [
             0.96,
-            1.3
+            1.4
           ]
         },
         {
@@ -1118,12 +1118,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             42,
-            42
+            43
           ],
-          "age_label": "42",
+          "age_label": "42–43",
           "ordinary_annual_mortality_percent": [
             0.51,
-            0.66
+            0.7
           ]
         }
       ],
@@ -1159,12 +1159,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             64,
-            64
+            65
           ],
-          "age_label": "64",
+          "age_label": "64–65",
           "ordinary_annual_mortality_percent": [
             2.55,
-            3.48
+            3.81
           ]
         },
         {
@@ -1185,12 +1185,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             63,
-            63
+            64
           ],
-          "age_label": "63",
+          "age_label": "63–64",
           "ordinary_annual_mortality_percent": [
             2.34,
-            3.18
+            3.48
           ]
         },
         {
@@ -1211,12 +1211,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             37,
-            37
+            38
           ],
-          "age_label": "37",
+          "age_label": "37–38",
           "ordinary_annual_mortality_percent": [
             0.4,
-            0.48
+            0.51
           ]
         }
       ],
@@ -1252,12 +1252,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             64,
-            64
+            65
           ],
-          "age_label": "64",
+          "age_label": "64–65",
           "ordinary_annual_mortality_percent": [
             2.55,
-            3.48
+            3.81
           ]
         },
         {
@@ -1278,12 +1278,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             44,
-            44
+            45
           ],
-          "age_label": "44",
+          "age_label": "44–45",
           "ordinary_annual_mortality_percent": [
             0.56,
-            0.76
+            0.81
           ]
         },
         {
@@ -1304,12 +1304,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             30,
-            30
+            31
           ],
-          "age_label": "30",
+          "age_label": "30–31",
           "ordinary_annual_mortality_percent": [
             0.33,
-            0.35
+            0.36
           ]
         },
         {
@@ -1330,12 +1330,12 @@
           "provenance": "New campaign heir; not an enacted succession.",
           "age_current": [
             29,
-            29
+            30
           ],
-          "age_label": "29",
+          "age_label": "29–30",
           "ordinary_annual_mortality_percent": [
             0.32,
-            0.34
+            0.35
           ]
         }
       ],
@@ -1371,12 +1371,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             39,
-            39
+            40
           ],
-          "age_label": "39",
+          "age_label": "39–40",
           "ordinary_annual_mortality_percent": [
             0.44,
-            0.54
+            0.57
           ]
         },
         {
@@ -1397,12 +1397,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             51,
-            51
+            52
           ],
-          "age_label": "51",
+          "age_label": "51–52",
           "ordinary_annual_mortality_percent": [
             0.89,
-            1.21
+            1.3
           ]
         },
         {
@@ -1423,12 +1423,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             56,
-            56
+            57
           ],
-          "age_label": "56",
+          "age_label": "56–57",
           "ordinary_annual_mortality_percent": [
             1.29,
-            1.76
+            1.9
           ]
         },
         {
@@ -1449,12 +1449,12 @@
           "provenance": "New campaign heir; not an enacted succession.",
           "age_current": [
             35,
-            35
+            36
           ],
-          "age_label": "35",
+          "age_label": "35–36",
           "ordinary_annual_mortality_percent": [
             0.37,
-            0.43
+            0.46
           ]
         }
       ],
@@ -1490,12 +1490,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             61,
-            61
+            62
           ],
-          "age_label": "61",
+          "age_label": "61–62",
           "ordinary_annual_mortality_percent": [
             1.96,
-            2.66
+            2.91
           ]
         },
         {
@@ -1516,12 +1516,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             54,
-            54
+            55
           ],
-          "age_label": "54",
+          "age_label": "54–55",
           "ordinary_annual_mortality_percent": [
             1.11,
-            1.51
+            1.62
           ]
         },
         {
@@ -1542,12 +1542,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             59,
-            59
+            60
           ],
-          "age_label": "59",
+          "age_label": "59–60",
           "ordinary_annual_mortality_percent": [
             1.65,
-            2.24
+            2.43
           ]
         }
       ],
@@ -1583,12 +1583,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             71,
-            71
+            72
           ],
-          "age_label": "71",
+          "age_label": "71–72",
           "ordinary_annual_mortality_percent": [
             4.98,
-            6.64
+            7.27
           ]
         },
         {
@@ -1609,12 +1609,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             46,
-            46
+            47
           ],
-          "age_label": "46",
+          "age_label": "46–47",
           "ordinary_annual_mortality_percent": [
             0.64,
-            0.86
+            0.92
           ]
         },
         {
@@ -1635,12 +1635,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             36,
-            36
+            37
           ],
-          "age_label": "36",
+          "age_label": "36–37",
           "ordinary_annual_mortality_percent": [
             0.39,
-            0.46
+            0.48
           ]
         }
       ],
@@ -1676,12 +1676,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             59,
-            59
+            60
           ],
-          "age_label": "59",
+          "age_label": "59–60",
           "ordinary_annual_mortality_percent": [
             1.65,
-            2.24
+            2.43
           ]
         },
         {
@@ -1702,12 +1702,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             58,
-            58
+            59
           ],
-          "age_label": "58",
+          "age_label": "58–59",
           "ordinary_annual_mortality_percent": [
             1.52,
-            2.06
+            2.24
           ]
         },
         {
@@ -1728,12 +1728,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             45,
-            45
+            46
           ],
-          "age_label": "45",
+          "age_label": "45–46",
           "ordinary_annual_mortality_percent": [
             0.6,
-            0.81
+            0.86
           ]
         }
       ],
@@ -1769,12 +1769,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             60,
-            60
+            61
           ],
-          "age_label": "60",
+          "age_label": "60–61",
           "ordinary_annual_mortality_percent": [
             1.8,
-            2.43
+            2.66
           ]
         },
         {
@@ -1795,12 +1795,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             56,
-            56
+            57
           ],
-          "age_label": "56",
+          "age_label": "56–57",
           "ordinary_annual_mortality_percent": [
             1.29,
-            1.76
+            1.9
           ]
         },
         {
@@ -1821,12 +1821,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             50,
-            50
+            51
           ],
-          "age_label": "50",
+          "age_label": "50–51",
           "ordinary_annual_mortality_percent": [
             0.83,
-            1.13
+            1.21
           ]
         }
       ],
@@ -1862,12 +1862,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             42,
-            42
+            43
           ],
-          "age_label": "42",
+          "age_label": "42–43",
           "ordinary_annual_mortality_percent": [
             0.51,
-            0.66
+            0.7
           ]
         },
         {
@@ -1888,12 +1888,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             59,
-            59
+            60
           ],
-          "age_label": "59",
+          "age_label": "59–60",
           "ordinary_annual_mortality_percent": [
             1.65,
-            2.24
+            2.43
           ]
         },
         {
@@ -1914,12 +1914,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             39,
-            39
+            40
           ],
-          "age_label": "39",
+          "age_label": "39–40",
           "ordinary_annual_mortality_percent": [
             0.44,
-            0.54
+            0.57
           ]
         }
       ],
@@ -1955,12 +1955,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             53,
-            53
+            54
           ],
-          "age_label": "53",
+          "age_label": "53–54",
           "ordinary_annual_mortality_percent": [
             1.03,
-            1.4
+            1.51
           ]
         },
         {
@@ -1981,12 +1981,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             64,
-            64
+            65
           ],
-          "age_label": "64",
+          "age_label": "64–65",
           "ordinary_annual_mortality_percent": [
             2.55,
-            3.48
+            3.81
           ]
         },
         {
@@ -2007,12 +2007,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             50,
-            50
+            51
           ],
-          "age_label": "50",
+          "age_label": "50–51",
           "ordinary_annual_mortality_percent": [
             0.83,
-            1.13
+            1.21
           ]
         }
       ],
@@ -2048,12 +2048,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             73,
-            73
+            74
           ],
-          "age_label": "73",
+          "age_label": "73–74",
           "ordinary_annual_mortality_percent": [
             6.1,
-            7.97
+            8.73
           ]
         },
         {
@@ -2074,12 +2074,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             48,
-            48
+            49
           ],
-          "age_label": "48",
+          "age_label": "48–49",
           "ordinary_annual_mortality_percent": [
             0.73,
-            0.99
+            1.06
           ]
         },
         {
@@ -2100,12 +2100,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             56,
-            56
+            57
           ],
-          "age_label": "56",
+          "age_label": "56–57",
           "ordinary_annual_mortality_percent": [
             1.29,
-            1.76
+            1.9
           ]
         }
       ],
@@ -2141,12 +2141,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             71,
-            71
+            72
           ],
-          "age_label": "71",
+          "age_label": "71–72",
           "ordinary_annual_mortality_percent": [
             4.98,
-            6.64
+            7.27
           ]
         },
         {
@@ -2167,12 +2167,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             66,
-            66
+            67
           ],
-          "age_label": "66",
+          "age_label": "66–67",
           "ordinary_annual_mortality_percent": [
             3.06,
-            4.18
+            4.59
           ]
         },
         {
@@ -2193,12 +2193,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             39,
-            39
+            40
           ],
-          "age_label": "39",
+          "age_label": "39–40",
           "ordinary_annual_mortality_percent": [
             0.44,
-            0.54
+            0.57
           ]
         }
       ],
@@ -2234,12 +2234,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             72,
-            72
+            73
           ],
-          "age_label": "72",
+          "age_label": "72–73",
           "ordinary_annual_mortality_percent": [
             5.51,
-            7.27
+            7.97
           ]
         },
         {
@@ -2260,12 +2260,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             48,
-            48
+            49
           ],
-          "age_label": "48",
+          "age_label": "48–49",
           "ordinary_annual_mortality_percent": [
             0.73,
-            0.99
+            1.06
           ]
         },
         {
@@ -2286,12 +2286,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             51,
-            51
+            52
           ],
-          "age_label": "51",
+          "age_label": "51–52",
           "ordinary_annual_mortality_percent": [
             0.89,
-            1.21
+            1.3
           ]
         }
       ],
@@ -2327,12 +2327,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             44,
-            44
+            45
           ],
-          "age_label": "44",
+          "age_label": "44–45",
           "ordinary_annual_mortality_percent": [
             0.56,
-            0.76
+            0.81
           ]
         },
         {
@@ -2353,12 +2353,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             50,
-            50
+            51
           ],
-          "age_label": "50",
+          "age_label": "50–51",
           "ordinary_annual_mortality_percent": [
             0.83,
-            1.13
+            1.21
           ]
         },
         {
@@ -2379,12 +2379,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             59,
-            59
+            60
           ],
-          "age_label": "59",
+          "age_label": "59–60",
           "ordinary_annual_mortality_percent": [
             1.65,
-            2.24
+            2.43
           ]
         }
       ],
@@ -2420,12 +2420,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             62,
-            62
+            63
           ],
-          "age_label": "62",
+          "age_label": "62–63",
           "ordinary_annual_mortality_percent": [
             2.14,
-            2.91
+            3.18
           ]
         },
         {
@@ -2446,12 +2446,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             42,
-            42
+            43
           ],
-          "age_label": "42",
+          "age_label": "42–43",
           "ordinary_annual_mortality_percent": [
             0.51,
-            0.66
+            0.7
           ]
         },
         {
@@ -2472,12 +2472,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             35,
-            35
+            36
           ],
-          "age_label": "35",
+          "age_label": "35–36",
           "ordinary_annual_mortality_percent": [
             0.37,
-            0.43
+            0.46
           ]
         }
       ],
@@ -2513,12 +2513,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             48,
-            48
+            49
           ],
-          "age_label": "48",
+          "age_label": "48–49",
           "ordinary_annual_mortality_percent": [
             0.73,
-            0.99
+            1.06
           ]
         },
         {
@@ -2539,12 +2539,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             61,
-            61
+            62
           ],
-          "age_label": "61",
+          "age_label": "61–62",
           "ordinary_annual_mortality_percent": [
             1.96,
-            2.66
+            2.91
           ]
         },
         {
@@ -2565,12 +2565,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             57,
-            57
+            58
           ],
-          "age_label": "57",
+          "age_label": "57–58",
           "ordinary_annual_mortality_percent": [
             1.41,
-            1.9
+            2.06
           ]
         }
       ],
@@ -2606,12 +2606,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             68,
-            68
+            69
           ],
-          "age_label": "68",
+          "age_label": "68–69",
           "ordinary_annual_mortality_percent": [
             3.71,
-            5.04
+            5.53
           ]
         },
         {
@@ -2632,12 +2632,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             62,
-            62
+            63
           ],
-          "age_label": "62",
+          "age_label": "62–63",
           "ordinary_annual_mortality_percent": [
             2.14,
-            2.91
+            3.18
           ]
         },
         {
@@ -2658,12 +2658,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             49,
-            49
+            50
           ],
-          "age_label": "49",
+          "age_label": "49–50",
           "ordinary_annual_mortality_percent": [
             0.78,
-            1.06
+            1.13
           ]
         }
       ],
@@ -2699,12 +2699,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             60,
-            60
+            61
           ],
-          "age_label": "60",
+          "age_label": "60–61",
           "ordinary_annual_mortality_percent": [
             1.8,
-            2.43
+            2.66
           ]
         },
         {
@@ -2725,12 +2725,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             61,
-            61
+            62
           ],
-          "age_label": "61",
+          "age_label": "61–62",
           "ordinary_annual_mortality_percent": [
             1.96,
-            2.66
+            2.91
           ]
         },
         {
@@ -2751,12 +2751,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             47,
-            47
+            48
           ],
-          "age_label": "47",
+          "age_label": "47–48",
           "ordinary_annual_mortality_percent": [
             0.68,
-            0.92
+            0.99
           ]
         }
       ],
@@ -2792,12 +2792,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             42,
-            42
+            43
           ],
-          "age_label": "42",
+          "age_label": "42–43",
           "ordinary_annual_mortality_percent": [
             0.51,
-            0.66
+            0.7
           ]
         },
         {
@@ -2818,12 +2818,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             54,
-            54
+            55
           ],
-          "age_label": "54",
+          "age_label": "54–55",
           "ordinary_annual_mortality_percent": [
             1.11,
-            1.51
+            1.62
           ]
         },
         {
@@ -2844,12 +2844,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             50,
-            50
+            51
           ],
-          "age_label": "50",
+          "age_label": "50–51",
           "ordinary_annual_mortality_percent": [
             0.83,
-            1.13
+            1.21
           ]
         }
       ],
@@ -2885,12 +2885,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             73,
-            73
+            74
           ],
-          "age_label": "73",
+          "age_label": "73–74",
           "ordinary_annual_mortality_percent": [
             6.1,
-            7.97
+            8.73
           ]
         },
         {
@@ -2911,12 +2911,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             44,
-            44
+            45
           ],
-          "age_label": "44",
+          "age_label": "44–45",
           "ordinary_annual_mortality_percent": [
             0.56,
-            0.76
+            0.81
           ]
         },
         {
@@ -2937,12 +2937,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             37,
-            37
+            38
           ],
-          "age_label": "37",
+          "age_label": "37–38",
           "ordinary_annual_mortality_percent": [
             0.4,
-            0.48
+            0.51
           ]
         },
         {
@@ -2963,12 +2963,12 @@
           "provenance": "New campaign heir; not an enacted succession.",
           "age_current": [
             33,
-            33
+            34
           ],
-          "age_label": "33",
+          "age_label": "33–34",
           "ordinary_annual_mortality_percent": [
             0.35,
-            0.39
+            0.41
           ]
         }
       ],
@@ -3004,12 +3004,12 @@
           "provenance": "Existing name, age range, role and characterisation preserved; previously unspecified visual details completed here.",
           "age_current": [
             51,
-            52
+            53
           ],
-          "age_label": "51–52",
+          "age_label": "51–53",
           "ordinary_annual_mortality_percent": [
             0.89,
-            1.3
+            1.4
           ]
         },
         {
@@ -3030,12 +3030,12 @@
           "provenance": "Existing name, age range, role and characterisation preserved; previously unspecified visual details completed here.",
           "age_current": [
             63,
-            64
+            65
           ],
-          "age_label": "63–64",
+          "age_label": "63–65",
           "ordinary_annual_mortality_percent": [
             2.34,
-            3.48
+            3.81
           ]
         },
         {
@@ -3056,12 +3056,12 @@
           "provenance": "Existing name, age range, role and characterisation preserved; previously unspecified visual details completed here.",
           "age_current": [
             49,
-            50
+            51
           ],
-          "age_label": "49–50",
+          "age_label": "49–51",
           "ordinary_annual_mortality_percent": [
             0.78,
-            1.13
+            1.21
           ]
         },
         {
@@ -3082,9 +3082,9 @@
           "provenance": "Existing name, age range, role and characterisation preserved; previously unspecified visual details completed here.",
           "age_current": [
             26,
-            27
+            28
           ],
-          "age_label": "26–27",
+          "age_label": "26–28",
           "ordinary_annual_mortality_percent": [
             0.31,
             0.34
@@ -3123,12 +3123,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             44,
-            44
+            45
           ],
-          "age_label": "44",
+          "age_label": "44–45",
           "ordinary_annual_mortality_percent": [
             0.56,
-            0.76
+            0.81
           ]
         },
         {
@@ -3149,12 +3149,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             58,
-            58
+            59
           ],
-          "age_label": "58",
+          "age_label": "58–59",
           "ordinary_annual_mortality_percent": [
             1.52,
-            2.06
+            2.24
           ]
         },
         {
@@ -3175,12 +3175,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             51,
-            51
+            52
           ],
-          "age_label": "51",
+          "age_label": "51–52",
           "ordinary_annual_mortality_percent": [
             0.89,
-            1.21
+            1.3
           ]
         }
       ],
@@ -3216,12 +3216,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             46,
-            46
+            47
           ],
-          "age_label": "46",
+          "age_label": "46–47",
           "ordinary_annual_mortality_percent": [
             0.64,
-            0.86
+            0.92
           ]
         },
         {
@@ -3242,12 +3242,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             61,
-            61
+            62
           ],
-          "age_label": "61",
+          "age_label": "61–62",
           "ordinary_annual_mortality_percent": [
             1.96,
-            2.66
+            2.91
           ]
         },
         {
@@ -3268,12 +3268,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             51,
-            51
+            52
           ],
-          "age_label": "51",
+          "age_label": "51–52",
           "ordinary_annual_mortality_percent": [
             0.89,
-            1.21
+            1.3
           ]
         },
         {
@@ -3294,9 +3294,9 @@
           "provenance": "New campaign heir; not an enacted succession.",
           "age_current": [
             23,
-            23
+            24
           ],
-          "age_label": "23",
+          "age_label": "23–24",
           "ordinary_annual_mortality_percent": [
             0.29,
             0.33
@@ -3335,12 +3335,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             51,
-            51
+            52
           ],
-          "age_label": "51",
+          "age_label": "51–52",
           "ordinary_annual_mortality_percent": [
             0.89,
-            1.21
+            1.3
           ]
         },
         {
@@ -3361,12 +3361,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             67,
-            67
+            68
           ],
-          "age_label": "67",
+          "age_label": "67–68",
           "ordinary_annual_mortality_percent": [
             3.37,
-            4.59
+            5.04
           ]
         },
         {
@@ -3387,12 +3387,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             33,
-            33
+            34
           ],
-          "age_label": "33",
+          "age_label": "33–34",
           "ordinary_annual_mortality_percent": [
             0.35,
-            0.39
+            0.41
           ]
         }
       ],
@@ -3428,12 +3428,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             43,
-            43
+            44
           ],
-          "age_label": "43",
+          "age_label": "43–44",
           "ordinary_annual_mortality_percent": [
             0.53,
-            0.7
+            0.76
           ]
         },
         {
@@ -3454,12 +3454,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             46,
-            46
+            47
           ],
-          "age_label": "46",
+          "age_label": "46–47",
           "ordinary_annual_mortality_percent": [
             0.64,
-            0.86
+            0.92
           ]
         },
         {
@@ -3480,12 +3480,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             42,
-            42
+            43
           ],
-          "age_label": "42",
+          "age_label": "42–43",
           "ordinary_annual_mortality_percent": [
             0.51,
-            0.66
+            0.7
           ]
         }
       ],
@@ -3521,12 +3521,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             61,
-            61
+            62
           ],
-          "age_label": "61",
+          "age_label": "61–62",
           "ordinary_annual_mortality_percent": [
             1.96,
-            2.66
+            2.91
           ]
         },
         {
@@ -3547,12 +3547,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             45,
-            45
+            46
           ],
-          "age_label": "45",
+          "age_label": "45–46",
           "ordinary_annual_mortality_percent": [
             0.6,
-            0.81
+            0.86
           ]
         },
         {
@@ -3573,12 +3573,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             49,
-            49
+            50
           ],
-          "age_label": "49",
+          "age_label": "49–50",
           "ordinary_annual_mortality_percent": [
             0.78,
-            1.06
+            1.13
           ]
         },
         {
@@ -3599,12 +3599,12 @@
           "provenance": "New campaign heir; not an enacted succession.",
           "age_current": [
             30,
-            30
+            31
           ],
-          "age_label": "30",
+          "age_label": "30–31",
           "ordinary_annual_mortality_percent": [
             0.33,
-            0.35
+            0.36
           ]
         }
       ],
@@ -3640,12 +3640,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             60,
-            60
+            61
           ],
-          "age_label": "60",
+          "age_label": "60–61",
           "ordinary_annual_mortality_percent": [
             1.8,
-            2.43
+            2.66
           ]
         },
         {
@@ -3666,12 +3666,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             67,
-            67
+            68
           ],
-          "age_label": "67",
+          "age_label": "67–68",
           "ordinary_annual_mortality_percent": [
             3.37,
-            4.59
+            5.04
           ]
         },
         {
@@ -3692,12 +3692,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             50,
-            50
+            51
           ],
-          "age_label": "50",
+          "age_label": "50–51",
           "ordinary_annual_mortality_percent": [
             0.83,
-            1.13
+            1.21
           ]
         }
       ],
@@ -3733,12 +3733,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             72,
-            72
+            73
           ],
-          "age_label": "72",
+          "age_label": "72–73",
           "ordinary_annual_mortality_percent": [
             5.51,
-            7.27
+            7.97
           ]
         },
         {
@@ -3759,12 +3759,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             47,
-            47
+            48
           ],
-          "age_label": "47",
+          "age_label": "47–48",
           "ordinary_annual_mortality_percent": [
             0.68,
-            0.92
+            0.99
           ]
         },
         {
@@ -3785,12 +3785,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             51,
-            51
+            52
           ],
-          "age_label": "51",
+          "age_label": "51–52",
           "ordinary_annual_mortality_percent": [
             0.89,
-            1.21
+            1.3
           ]
         }
       ],
@@ -3826,12 +3826,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             71,
-            71
+            72
           ],
-          "age_label": "71",
+          "age_label": "71–72",
           "ordinary_annual_mortality_percent": [
             4.98,
-            6.64
+            7.27
           ]
         },
         {
@@ -3852,12 +3852,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             44,
-            44
+            45
           ],
-          "age_label": "44",
+          "age_label": "44–45",
           "ordinary_annual_mortality_percent": [
             0.56,
-            0.76
+            0.81
           ]
         },
         {
@@ -3878,12 +3878,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             46,
-            46
+            47
           ],
-          "age_label": "46",
+          "age_label": "46–47",
           "ordinary_annual_mortality_percent": [
             0.64,
-            0.86
+            0.92
           ]
         }
       ],
@@ -3919,12 +3919,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             49,
-            49
+            50
           ],
-          "age_label": "49",
+          "age_label": "49–50",
           "ordinary_annual_mortality_percent": [
             0.78,
-            1.06
+            1.13
           ]
         },
         {
@@ -3945,12 +3945,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             67,
-            67
+            68
           ],
-          "age_label": "67",
+          "age_label": "67–68",
           "ordinary_annual_mortality_percent": [
             3.37,
-            4.59
+            5.04
           ]
         },
         {
@@ -3971,12 +3971,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             42,
-            42
+            43
           ],
-          "age_label": "42",
+          "age_label": "42–43",
           "ordinary_annual_mortality_percent": [
             0.51,
-            0.66
+            0.7
           ]
         }
       ],
@@ -4012,12 +4012,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             41,
-            41
+            42
           ],
-          "age_label": "41",
+          "age_label": "41–42",
           "ordinary_annual_mortality_percent": [
             0.48,
-            0.61
+            0.66
           ]
         },
         {
@@ -4038,12 +4038,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             66,
-            66
+            67
           ],
-          "age_label": "66",
+          "age_label": "66–67",
           "ordinary_annual_mortality_percent": [
             3.06,
-            4.18
+            4.59
           ]
         },
         {
@@ -4064,12 +4064,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             54,
-            54
+            55
           ],
-          "age_label": "54",
+          "age_label": "54–55",
           "ordinary_annual_mortality_percent": [
             1.11,
-            1.51
+            1.62
           ]
         },
         {
@@ -4090,12 +4090,12 @@
           "provenance": "New campaign heir; not an enacted succession.",
           "age_current": [
             22,
-            22
+            23
           ],
-          "age_label": "22",
+          "age_label": "22–23",
           "ordinary_annual_mortality_percent": [
             0.28,
-            0.32
+            0.33
           ]
         }
       ],
@@ -4131,12 +4131,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             47,
-            47
+            48
           ],
-          "age_label": "47",
+          "age_label": "47–48",
           "ordinary_annual_mortality_percent": [
             0.68,
-            0.92
+            0.99
           ]
         },
         {
@@ -4157,12 +4157,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             67,
-            67
+            68
           ],
-          "age_label": "67",
+          "age_label": "67–68",
           "ordinary_annual_mortality_percent": [
             3.37,
-            4.59
+            5.04
           ]
         },
         {
@@ -4183,12 +4183,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             37,
-            37
+            38
           ],
-          "age_label": "37",
+          "age_label": "37–38",
           "ordinary_annual_mortality_percent": [
             0.4,
-            0.48
+            0.51
           ]
         }
       ],
@@ -4224,12 +4224,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             61,
-            61
+            62
           ],
-          "age_label": "61",
+          "age_label": "61–62",
           "ordinary_annual_mortality_percent": [
             1.96,
-            2.66
+            2.91
           ]
         },
         {
@@ -4250,12 +4250,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             52,
-            52
+            53
           ],
-          "age_label": "52",
+          "age_label": "52–53",
           "ordinary_annual_mortality_percent": [
             0.96,
-            1.3
+            1.4
           ]
         },
         {
@@ -4276,12 +4276,12 @@
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             54,
-            54
+            55
           ],
-          "age_label": "54",
+          "age_label": "54–55",
           "ordinary_annual_mortality_percent": [
             1.11,
-            1.51
+            1.62
           ]
         }
       ],
@@ -4289,5 +4289,5 @@
       "source": "National description and Year 68 record; personal biographies newly established at the register baseline without advancing time."
     }
   ],
-  "as_of": "05/11/0068 AC43"
+  "as_of": "06/11/0068 AC43"
 }
