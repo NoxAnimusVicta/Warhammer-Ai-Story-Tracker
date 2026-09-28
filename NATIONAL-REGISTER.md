@@ -96,15 +96,21 @@ Current principal figures: Sovereign — Lucelle Nemeret (63); Crown Marshal —
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 65/100 (above reference capacity); confidence 57/100; civil protection 53/100; unrest 36/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 44/100 (basics with limited headroom); confidence 51/100; civil protection 52/100; unrest 44/100 (higher is worse).
 
 Altitude matters as much as latitude. Mountain towns import much of their grain, while court menus display produce from every province as a claim to unity.
 
 Provincial estates constrain crown levies; ordinary household participation and remedies are not established.
 
-Evidence bands: confidence 52–63; protection 13–93; unrest 30–42. These are not polling confidence intervals.
+Evidence bands: standard_of_living 28–58; confidence 40–61; protection 12–92; unrest 32–55. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 56.6–63.9 local years. Conditional remaining years at age 20: 45.7–50.6. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -235,15 +241,21 @@ Current principal figures: Sovereign — Nerine Sorelli (66); Marshal of the Roy
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 51/100 (around reference capacity); confidence 44/100; civil protection 50/100; unrest 50/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 37/100 (basic-needs pressure); confidence 40/100; civil protection 50/100; unrest 54/100 (higher is worse).
 
 Soldiers carry toasted grain and hard cheese; wealthy tables emphasise fresh meat and fruit that has not endured a convoy journey.
 
 Landed families and royal commissioners dominate recruitment; no general household remedy is recorded.
 
-Evidence bands: confidence 38–50; protection 10–90; unrest 44–56. These are not polling confidence intervals.
+Evidence bands: standard_of_living 22–52; confidence 30–50; protection 10–90; unrest 43–66. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 53.9–61.4 local years. Conditional remaining years at age 20: 44.0–48.9. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -374,15 +386,21 @@ Current principal figures: First Consul — Gaspard Barvaux (62); Admiral of the
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 71/100 (above reference capacity); confidence 61/100; civil protection 54/100; unrest 32/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 49/100 (basics with limited headroom); confidence 54/100; civil protection 53/100; unrest 40/100 (higher is worse).
 
 Fresh oil, mountain butter and imported spice coexist rather than defining one uniform national cuisine. Ice houses and refrigerated warehouses support the richest urban tables.
 
 Commercial councils and elected harbour councils give organised interests voice; general resident rights are unspecified.
 
-Evidence bands: confidence 55–67; protection 14–94; unrest 26–38. These are not polling confidence intervals.
+Evidence bands: standard_of_living 33–63; confidence 44–64; protection 13–93; unrest 28–51. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 57.1–64.3 local years. Conditional remaining years at age 20: 46.1–50.9. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -513,15 +531,21 @@ Current principal figures: Federal Convenor — Fleur Delmorne (57); Defence Com
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 59/100 (around reference capacity); confidence 56/100; civil protection 63/100; unrest 37/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 40/100 (basics with limited headroom); confidence 51/100; civil protection 62/100; unrest 44/100 (higher is worse).
 
 Floodplain gardens supply onions and beans. Fish smoking and grain warehouses make the river ports vital even to communities beyond the floodplain.
 
 Member cities and estates retain vetoes; the water compact creates negotiated obligations, not universal representation.
 
-Evidence bands: confidence 51–62; protection 53–73; unrest 31–43. These are not polling confidence intervals.
+Evidence bands: standard_of_living 24–55; confidence 40–61; protection 52–72; unrest 32–56. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 55.2–62.7 local years. Conditional remaining years at age 20: 44.9–49.8. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -652,15 +676,21 @@ Current principal figures: Duke — Fabien Vasselin (61); Marshal — Pascal Cav
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 49/100 (around reference capacity); confidence 43/100; civil protection 50/100; unrest 51/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 35/100 (basic-needs pressure); confidence 38/100; civil protection 51/100; unrest 56/100 (higher is worse).
 
 Ration bread and pickled vegetables dominate remote posts. Market-day sausages are a small luxury that survives frequent changes of uniform.
 
 Hereditary court and officer institutions dominate; no general franchise or civil remedy is described.
 
-Evidence bands: confidence 37–48; protection 10–90; unrest 45–58. These are not polling confidence intervals.
+Evidence bands: standard_of_living 19–50; confidence 28–49; protection 11–91; unrest 45–68. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 53.8–61.3 local years. Conditional remaining years at age 20: 44.0–48.9. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -791,15 +821,21 @@ Current principal figures: Council President — Alban Orcelin (43); Chief of De
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 65/100 (above reference capacity); confidence 63/100; civil protection 54/100; unrest 30/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 45/100 (basics with limited headroom); confidence 57/100; civil protection 52/100; unrest 37/100 (higher is worse).
 
 Cooperative dining rooms compete with private factory canteens. Imported coastal fish is popular but more expensive than the local root-and-grain staples.
 
 Municipal representation and contested labour participation are explicit; civil remedies are not specified.
 
-Evidence bands: confidence 58–69; protection 14–94; unrest 24–36. These are not polling confidence intervals.
+Evidence bands: standard_of_living 30–60; confidence 47–67; protection 12–92; unrest 26–49. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 56.6–63.9 local years. Conditional remaining years at age 20: 45.8–50.7. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -930,15 +966,21 @@ Current principal figures: Ossendrienne Civic Convenor — Tristan Trevaux (49);
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 48/100 (around reference capacity); confidence 34/100; civil protection 30/100; unrest 68/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 32/100 (basic-needs pressure); confidence 29/100; civil protection 31/100; unrest 73/100 (higher is worse).
 
 Smuggling brings salt, oil and family recipes across front lines. An abundant banquet may conceal shortages in a neighbouring claimant’s territory.
 
 Competing armed commands and separate tolls prevent dependable common authority or protection.
 
-Evidence bands: confidence 25–43; protection 10–50; unrest 59–77. These are not polling confidence intervals.
+Evidence bands: standard_of_living 17–47; confidence 16–42; protection 11–51; unrest 59–88. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 53.6–61.1 local years. Conditional remaining years at age 20: 43.8–48.8. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -1069,15 +1111,21 @@ Current principal figures: Sovereign — Arielle Trevaux (49); Marshal of the Cr
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 50/100 (around reference capacity); confidence 54/100; civil protection 50/100; unrest 40/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 35/100 (basic-needs pressure); confidence 49/100; civil protection 51/100; unrest 45/100 (higher is worse).
 
 A winter pantry matters more than a fashionable fresh ingredient. Household drying racks and communal bake days bind city relatives to valley farms.
 
 Resident island councils are documented; the wider crown's household accountability is not specified.
 
-Evidence bands: confidence 48–59; protection 10–90; unrest 34–46. These are not polling confidence intervals.
+Evidence bands: standard_of_living 19–50; confidence 39–59; protection 11–91; unrest 34–57. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 54.0–61.5 local years. Conditional remaining years at age 20: 44.1–49.0. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -1208,15 +1256,21 @@ Current principal figures: League Chair — Pascal Brissot (62); Defence Directo
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 61/100 (above reference capacity); confidence 58/100; civil protection 53/100; unrest 36/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 44/100 (basics with limited headroom); confidence 53/100; civil protection 52/100; unrest 41/100 (higher is worse).
 
 Canteens portion meat by shift entitlement. A late supply train can turn dumplings into thin flour soup without stopping the furnaces.
 
 Mining councils, proprietors and municipal councils govern; workforce voice and civil remedies are not established.
 
-Evidence bands: confidence 52–63; protection 13–93; unrest 29–42. These are not polling confidence intervals.
+Evidence bands: standard_of_living 29–59; confidence 42–63; protection 12–92; unrest 30–53. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 56.2–63.5 local years. Conditional remaining years at age 20: 45.5–50.4. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -1347,15 +1401,21 @@ Current principal figures: First Warden — Florent Resselin (68); Captain-Gener
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 57/100 (around reference capacity); confidence 56/100; civil protection 66/100; unrest 38/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 36/100 (basic-needs pressure); confidence 50/100; civil protection 63/100; unrest 45/100 (higher is worse).
 
 Healing traditions do not make every herb magical. Supplies are dated and inspected; winter hospitality can impose a serious obligation on an isolated house.
 
 Chartered institutions owe shelter, patrol and care, but access is not universal and ordinary electoral voice is unspecified.
 
-Evidence bands: confidence 50–61; protection 56–76; unrest 31–44. These are not polling confidence intervals.
+Evidence bands: standard_of_living 20–51; confidence 39–60; protection 53–73; unrest 33–56. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 54.8–62.3 local years. Conditional remaining years at age 20: 44.6–49.5. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -1486,15 +1546,21 @@ Current principal figures: Council President — Leonie Serravin (63); Defence C
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 51/100 (around reference capacity); confidence 54/100; civil protection 50/100; unrest 39/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 37/100 (basic-needs pressure); confidence 50/100; civil protection 50/100; unrest 44/100 (higher is worse).
 
 Smokehouses fill before freeze-up. Spring fish suppers mark reopened navigation and the arrival of news as much as the season’s catch.
 
 River, commercial and elected port authorities bargain; general resident remedies remain unspecified.
 
-Evidence bands: confidence 49–60; protection 10–90; unrest 33–45. These are not polling confidence intervals.
+Evidence bands: standard_of_living 21–52; confidence 40–60; protection 10–90; unrest 33–56. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 53.9–61.4 local years. Conditional remaining years at age 20: 44.0–48.9. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -1625,15 +1691,21 @@ Current principal figures: First Sea Councillor — Romain Seravin (64); Fleet A
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 66/100 (above reference capacity); confidence 57/100; civil protection 54/100; unrest 36/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 46/100 (basics with limited headroom); confidence 51/100; civil protection 53/100; unrest 43/100 (higher is worse).
 
 Sailors’ inexpensive meals favour salted fish; fresh shellfish signals a short journey from water to table. Inland villages are less maritime than the national reputation suggests.
 
 Port families, commercial houses and resident port councils influence government; general legal protection is unspecified.
 
-Evidence bands: confidence 52–63; protection 14–94; unrest 30–42. These are not polling confidence intervals.
+Evidence bands: standard_of_living 30–60; confidence 41–61; protection 13–93; unrest 32–55. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 56.9–64.2 local years. Conditional remaining years at age 20: 46.0–50.9. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -1764,15 +1836,21 @@ Current principal figures: Sovereign — Matteo Rovelle (64); High Marshal — V
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 54/100 (around reference capacity); confidence 45/100; civil protection 50/100; unrest 48/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 39/100 (basic-needs pressure); confidence 41/100; civil protection 50/100; unrest 53/100 (higher is worse).
 
 Shift whistles govern supper in the industrial wards. Kitchen gardens and pickled cabbage cushion disruptions to the grain trains.
 
 Royal military administration and suppliers dominate; no broad resident franchise or remedy is established.
 
-Evidence bands: confidence 40–51; protection 10–90; unrest 42–54. These are not polling confidence intervals.
+Evidence bands: standard_of_living 24–54; confidence 30–51; protection 10–90; unrest 42–65. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 54.7–62.2 local years. Conditional remaining years at age 20: 44.6–49.5. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -1903,15 +1981,21 @@ Current principal figures: Sovereign — Renier Aubret (39); Marshal of the Comp
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 54/100 (around reference capacity); confidence 55/100; civil protection 61/100; unrest 39/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 39/100 (basic-needs pressure); confidence 50/100; civil protection 61/100; unrest 45/100 (higher is worse).
 
 Public ovens are meeting places as well as fuel economies. A dispute over milling rights can be discussed for an entire supper without anyone naming its political purpose.
 
 Provincial institutions protect local stores and troops against central demands; this is collective, not universal household protection.
 
-Evidence bands: confidence 49–60; protection 51–71; unrest 33–46. These are not polling confidence intervals.
+Evidence bands: standard_of_living 23–54; confidence 40–60; protection 51–71; unrest 33–56. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 54.4–61.9 local years. Conditional remaining years at age 20: 44.4–49.3. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -2042,15 +2126,21 @@ Current principal figures: Republic President — Marielle Bellorin (61); Chief 
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 50/100 (around reference capacity); confidence 53/100; civil protection 53/100; unrest 41/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 36/100 (basic-needs pressure); confidence 48/100; civil protection 52/100; unrest 46/100 (higher is worse).
 
 The remnant government maintains public grain kitchens near its ministries. Former federal recipes outlast the tax union, while each successor claims its own version is the original.
 
 A republic and archives are established, but neither franchise coverage nor household remedies are specified.
 
-Evidence bands: confidence 38–68; protection 13–93; unrest 26–57. These are not polling confidence intervals.
+Evidence bands: standard_of_living 21–51; confidence 29–68; protection 12–92; unrest 26–67. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 54.1–61.6 local years. Conditional remaining years at age 20: 44.2–49.1. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -2181,15 +2271,21 @@ Current principal figures: First Commissioner — Coralie Lorrain (71); Defence 
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 56/100 (around reference capacity); confidence 57/100; civil protection 53/100; unrest 37/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 40/100 (basics with limited headroom); confidence 52/100; civil protection 52/100; unrest 43/100 (higher is worse).
 
 Fish sauce is an everyday seasoning rather than a luxury. Flood years alter rice prices across all four successor states.
 
 Port, water and commercial authorities have influence; individual household remedies are unspecified.
 
-Evidence bands: confidence 51–62; protection 13–93; unrest 31–44. These are not polling confidence intervals.
+Evidence bands: standard_of_living 24–55; confidence 41–62; protection 12–92; unrest 32–55. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 55.3–62.7 local years. Conditional remaining years at age 20: 44.9–49.8. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -2320,15 +2416,21 @@ Current principal figures: Council President — Solenne Aubret (59); Commandant
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 42/100 (around reference capacity); confidence 51/100; civil protection 30/100; unrest 44/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 40/100 (basics with limited headroom); confidence 50/100; civil protection 30/100; unrest 45/100 (higher is worse).
 
 Labourers eat at field shelters from wrapped parcels. Plantation owners’ lavish fruit tables conceal the uneven access to meat and purchased grain.
 
 Powerful plantations and contested estate labour obligations limit protection; limited delivery arbitration is not a labour-rights settlement.
 
-Evidence bands: confidence 45–56; protection 10–50; unrest 38–50. These are not polling confidence intervals.
+Evidence bands: standard_of_living 24–55; confidence 40–60; protection 10–50; unrest 33–57. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 53.8–61.4 local years. Conditional remaining years at age 20: 44.0–48.9. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -2459,15 +2561,21 @@ Current principal figures: Convenor of the Gavrielle Houses — Benoit Orcelin (
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 40/100 (around reference capacity); confidence 42/100; civil protection 38/100; unrest 53/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 40/100 (basics with limited headroom); confidence 42/100; civil protection 40/100; unrest 53/100 (higher is worse).
 
 Hospitality includes bread broken by the host, but its quality distinguishes an honoured guest from a hired messenger. Poor tenants substitute lentils for goat.
 
 House courts and patronage determine access; separate charters provide limited rather than general recourse.
 
-Evidence bands: confidence 36–47; protection 28–48; unrest 46–59. These are not polling confidence intervals.
+Evidence bands: standard_of_living 24–55; confidence 31–52; protection 30–50; unrest 41–64. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 53.6–61.2 local years. Conditional remaining years at age 20: 43.9–48.8. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -2598,15 +2706,21 @@ Current principal figures: Jougrenne Assembly Speaker — Yselle Varenne (42); J
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 41/100 (around reference capacity); confidence 51/100; civil protection 37/100; unrest 44/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 41/100 (basics with limited headroom); confidence 51/100; civil protection 39/100; unrest 44/100 (higher is worse).
 
 
 
 Commercial assemblies and separate land courts exist, while tenant debt and plantation checkpoints limit household leverage.
 
-Evidence bands: confidence 45–56; protection 27–47; unrest 38–50. These are not polling confidence intervals.
+Evidence bands: standard_of_living 26–56; confidence 41–61; protection 29–49; unrest 32–55. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 53.4–61.0 local years. Conditional remaining years at age 20: 43.8–48.7. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -2737,15 +2851,21 @@ Current principal figures: Collengo First Burgess — Vittore Caldoret (53); Col
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 41/100 (around reference capacity); confidence 49/100; civil protection 37/100; unrest 45/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 43/100 (basics with limited headroom); confidence 50/100; civil protection 39/100; unrest 45/100 (higher is worse).
 
 
 
 Market charters protect merchants from estate levies; this recorded privilege is not universal protection.
 
-Evidence bands: confidence 44–55; protection 27–47; unrest 39–51. These are not polling confidence intervals.
+Evidence bands: standard_of_living 27–58; confidence 39–60; protection 29–49; unrest 33–56. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 53.8–61.3 local years. Conditional remaining years at age 20: 44.0–48.9. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -2876,15 +2996,21 @@ Current principal figures: Jarnan Council Speaker — Fleur Resselin (73); Ansel
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 41/100 (around reference capacity); confidence 50/100; civil protection 57/100; unrest 44/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 42/100 (basics with limited headroom); confidence 51/100; civil protection 59/100; unrest 43/100 (higher is worse).
 
 
 
 Commercial and estate councils share an enforceable water compact and arbitration; representation remains sectional.
 
-Evidence bands: confidence 45–56; protection 47–67; unrest 37–50. These are not polling confidence intervals.
+Evidence bands: standard_of_living 26–57; confidence 40–61; protection 49–69; unrest 32–55. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 53.6–61.1 local years. Conditional remaining years at age 20: 43.9–48.8. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -3015,15 +3141,21 @@ Current principal figures: Astrellac First Consul — Valerie Dalmaret (71); Ast
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 41/100 (around reference capacity); confidence 51/100; civil protection 36/100; unrest 49/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 42/100 (basics with limited headroom); confidence 52/100; civil protection 39/100; unrest 49/100 (higher is worse).
 
 
 
 Harbour and estate jurisdictions retain local criminal law, while contested seizures and foreclosures limit practical recourse.
 
-Evidence bands: confidence 45–57; protection 26–46; unrest 43–55. These are not polling confidence intervals.
+Evidence bands: standard_of_living 26–57; confidence 41–62; protection 29–49; unrest 37–60. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 53.6–61.2 local years. Conditional remaining years at age 20: 43.9–48.8. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -3154,15 +3286,21 @@ Current principal figures: Asanetz Charter Registrar — Olivier Grevant (72); A
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 41/100 (around reference capacity); confidence 45/100; civil protection 37/100; unrest 57/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 41/100 (basics with limited headroom); confidence 45/100; civil protection 39/100; unrest 57/100 (higher is worse).
 
 
 
 Charter lawsuits and escrow exist alongside unresolved armed intimidation; partial settlement is not general protection.
 
-Evidence bands: confidence 39–50; protection 27–47; unrest 51–64. These are not polling confidence intervals.
+Evidence bands: standard_of_living 26–56; confidence 35–55; protection 29–49; unrest 46–69. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 53.7–61.3 local years. Conditional remaining years at age 20: 43.9–48.9. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -3293,15 +3431,21 @@ Current principal figures: Dananske First Warden — Vivienne Cernault (44); Dre
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 43/100 (around reference capacity); confidence 51/100; civil protection 47/100; unrest 44/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 43/100 (basics with limited headroom); confidence 51/100; civil protection 49/100; unrest 44/100 (higher is worse).
 
 
 
 Civilian assemblies contest requisitions; shelter duties and mutual stores exist but performance is disputed under scarcity.
 
-Evidence bands: confidence 46–57; protection 27–67; unrest 37–50. These are not polling confidence intervals.
+Evidence bands: standard_of_living 27–58; confidence 41–61; protection 29–69; unrest 32–55. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 54.0–61.6 local years. Conditional remaining years at age 20: 44.1–49.0. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -3432,15 +3576,21 @@ Current principal figures: Varkessant First Burgess — Sylvain Astrevin (62); V
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 41/100 (around reference capacity); confidence 50/100; civil protection 37/100; unrest 44/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 41/100 (basics with limited headroom); confidence 50/100; civil protection 39/100; unrest 44/100 (higher is worse).
 
 
 
 Elected commercial port officers coexist with estate bailiffs and contested customary fishing access.
 
-Evidence bands: confidence 44–56; protection 27–47; unrest 38–50. These are not polling confidence intervals.
+Evidence bands: standard_of_living 26–56; confidence 40–60; protection 29–49; unrest 32–55. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 53.5–61.1 local years. Conditional remaining years at age 20: 43.8–48.7. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -3571,15 +3721,21 @@ Current principal figures: Malinne Council Speaker — Sabine Morcenne (48); Tem
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 49/100 (around reference capacity); confidence 50/100; civil protection 40/100; unrest 44/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 36/100 (basic-needs pressure); confidence 46/100; civil protection 40/100; unrest 48/100 (higher is worse).
 
 
 
 Town liberties and councils exist within fragmented lordships and incompatible toll jurisdictions.
 
-Evidence bands: confidence 44–56; protection 30–50; unrest 37–50. These are not polling confidence intervals.
+Evidence bands: standard_of_living 20–51; confidence 36–56; protection 30–50; unrest 36–60. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 53.7–61.2 local years. Conditional remaining years at age 20: 43.9–48.8. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -3710,15 +3866,21 @@ Current principal figures: Margeuil Grain-Board Speaker — Yselle Favrelli (68)
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 50/100 (around reference capacity); confidence 58/100; civil protection 60/100; unrest 35/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 36/100 (basic-needs pressure); confidence 54/100; civil protection 60/100; unrest 40/100 (higher is worse).
 
 
 
 Elected grain boards secured limits and receipts for requisitions with appeal rights; only participating authorities are bound.
 
-Evidence bands: confidence 53–64; protection 50–70; unrest 29–42. These are not polling confidence intervals.
+Evidence bands: standard_of_living 21–51; confidence 44–64; protection 50–70; unrest 29–52. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 53.7–61.3 local years. Conditional remaining years at age 20: 43.9–48.9. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -3849,15 +4011,21 @@ Current principal figures: Vessaline Harbour Speaker — Alessia Vernac (60); Co
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 50/100 (around reference capacity); confidence 55/100; civil protection 40/100; unrest 40/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 36/100 (basic-needs pressure); confidence 51/100; civil protection 40/100; unrest 44/100 (higher is worse).
 
 
 
 Port communes and island councillors coexist with hereditary land control and contested seasonal labour.
 
-Evidence bands: confidence 49–60; protection 30–50; unrest 33–46. These are not polling confidence intervals.
+Evidence bands: standard_of_living 21–51; confidence 40–61; protection 30–50; unrest 33–56. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 53.9–61.4 local years. Conditional remaining years at age 20: 44.1–49.0. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -3988,15 +4156,21 @@ Current principal figures: Compact Convenor — Clarisse Trevaux (42); Defence C
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 59/100 (around reference capacity); confidence 57/100; civil protection 51/100; unrest 36/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 44/100 (basics with limited headroom); confidence 53/100; civil protection 51/100; unrest 41/100 (higher is worse).
 
 Lower valleys supply potatoes and cabbage, upland pastures cheese. Bought flour and coastal salt become costly when freight negotiations fail.
 
 Autonomous mining councils and fortress districts bargain; household membership and enforceable civil remedies are unspecified.
 
-Evidence bands: confidence 49–66; protection 11–91; unrest 27–45. These are not polling confidence intervals.
+Evidence bands: standard_of_living 28–59; confidence 39–66; protection 11–91; unrest 27–56. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 55.7–63.1 local years. Conditional remaining years at age 20: 45.2–50.1. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -4127,15 +4301,21 @@ Current principal figures: Duke — Adrien Nerval (73); Grand Marshal — Trista
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 58/100 (around reference capacity); confidence 42/100; civil protection 51/100; unrest 46/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 41/100 (basics with limited headroom); confidence 37/100; civil protection 51/100; unrest 52/100 (higher is worse).
 
 Army purchasing can empty market stalls before a mobilisation. Housewives argue over whether a proper sour-pot should contain tomato, an imported coastal habit.
 
 Ducal control is centralised around estate and arsenal interests; no general resident remedy is established.
 
-Evidence bands: confidence 37–48; protection 11–91; unrest 40–52. These are not polling confidence intervals.
+Evidence bands: standard_of_living 25–56; confidence 27–47; protection 11–91; unrest 41–64. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 55.6–63.0 local years. Conditional remaining years at age 20: 45.1–50.0. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -4266,15 +4446,21 @@ Current principal figures: Margrave — Odrienne Orcemont (51–52); Marshal —
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 57/100 (around reference capacity); confidence 50/100; civil protection 40/100; unrest 38/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 41/100 (basics with limited headroom); confidence 45/100; civil protection 41/100; unrest 44/100 (higher is worse).
 
 Fresh fish is ordinary near Serravonne, expensive uphill after a disrupted train. Station households stretch yesterday’s bread into broth dumplings.
 
 Chartered municipal institutions and railway unions have leverage, but poorer households carry disproportionate service obligations and advancement depends on patronage.
 
-Evidence bands: confidence 44–56; protection 30–50; unrest 32–45. These are not polling confidence intervals.
+Evidence bands: standard_of_living 26–56; confidence 35–55; protection 31–51; unrest 32–55. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 55.3–62.7 local years. Conditional remaining years at age 20: 45.0–49.9. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -4405,15 +4591,21 @@ Current principal figures: Republic President — Lucelle Cavrenne (44); Admiral
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 67/100 (above reference capacity); confidence 59/100; civil protection 54/100; unrest 34/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 47/100 (basics with limited headroom); confidence 53/100; civil protection 53/100; unrest 41/100 (higher is worse).
 
 Dockside stalls sell fried small fish in paper. A merchant’s citrus preserves may have travelled farther than the guests eating them.
 
 A restricted franchise favours shipping, banking and industrial families; civil remedies for excluded households are unspecified.
 
-Evidence bands: confidence 54–65; protection 14–94; unrest 27–40. These are not polling confidence intervals.
+Evidence bands: standard_of_living 31–61; confidence 43–63; protection 13–93; unrest 29–52. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 57.0–64.3 local years. Conditional remaining years at age 20: 46.0–50.9. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -4544,15 +4736,21 @@ Current principal figures: Hereditary Protector — Florent Orselle (46); First 
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 61/100 (above reference capacity); confidence 50/100; civil protection 51/100; unrest 43/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 44/100 (basics with limited headroom); confidence 45/100; civil protection 51/100; unrest 49/100 (higher is worse).
 
 Islanders know several preparations of the same catch. Grain shortages change the size of a loaf before they change a naval ration.
 
 Hereditary protector, naval council and governors govern; general household representation and remedies are unspecified.
 
-Evidence bands: confidence 44–56; protection 11–91; unrest 37–49. These are not polling confidence intervals.
+Evidence bands: standard_of_living 29–59; confidence 35–55; protection 11–91; unrest 37–60. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 55.8–63.1 local years. Conditional remaining years at age 20: 45.2–50.1. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -4683,15 +4881,21 @@ Current principal figures: League Speaker — Benoit Vasselin (51); Convoy Capta
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 46/100 (around reference capacity); confidence 66/100; civil protection 77/100; unrest 28/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 45/100 (basics with limited headroom); confidence 65/100; civil protection 79/100; unrest 29/100 (higher is worse).
 
 Fresh water is served before wine at a guest meal; a full jug signals a household willing to share its cistern.
 
 Island assemblies elect harbour officers, retain land law and bar foreign ownership of freshwater catchments under shared courts.
 
-Evidence bands: confidence 60–71; protection 67–87; unrest 22–34. These are not polling confidence intervals.
+Evidence bands: standard_of_living 29–59; confidence 55–75; protection 69–89; unrest 17–40. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 54.2–61.7 local years. Conditional remaining years at age 20: 44.2–49.1. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -4822,15 +5026,21 @@ Current principal figures: Colonial Commissioner — Benoit Kelvaret (43); Colon
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 49/100 (around reference capacity); confidence 53/100; civil protection 28/100; unrest 53/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 47/100 (basics with limited headroom); confidence 53/100; civil protection 30/100; unrest 54/100 (higher is worse).
 
 Company dining rooms and village kitchens use the same crops but distribute the best produce differently.
 
 Village councils retain some voice, but colonial courts and outside credit dominate land disputes; levy suspension covers only petitioning districts.
 
-Evidence bands: confidence 48–59; protection 8–48; unrest 47–59. These are not polling confidence intervals.
+Evidence bands: standard_of_living 31–62; confidence 42–63; protection 10–50; unrest 42–65. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 54.9–62.3 local years. Conditional remaining years at age 20: 44.7–49.6. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -4961,15 +5171,21 @@ Current principal figures: Sovereign — Emilien Brissot (61); Admiral of the Cr
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 45/100 (around reference capacity); confidence 58/100; civil protection 77/100; unrest 35/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 43/100 (basics with limited headroom); confidence 58/100; civil protection 79/100; unrest 36/100 (higher is worse).
 
 Outer households preserve more fish and dairy; the capital displays produce from across the compacts.
 
 Town and communal-land custodians participate, with compacts preventing automatic harvest requisition.
 
-Evidence bands: confidence 53–64; protection 67–87; unrest 29–42. These are not polling confidence intervals.
+Evidence bands: standard_of_living 28–58; confidence 48–68; protection 69–89; unrest 25–48. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 54.0–61.5 local years. Conditional remaining years at age 20: 44.1–49.0. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -5100,15 +5316,21 @@ Current principal figures: Governor — Vittore Varenne (60); Garrison Commandan
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 43/100 (around reference capacity); confidence 52/100; civil protection 37/100; unrest 42/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 42/100 (basics with limited headroom); confidence 52/100; civil protection 39/100; unrest 42/100 (higher is worse).
 
 Winter smokehouses and communal grain stores remain important even where imported tins are fashionable.
 
 District councils gained provisioning consultation but unequal land and taxation remain.
 
-Evidence bands: confidence 46–57; protection 27–47; unrest 36–48. These are not polling confidence intervals.
+Evidence bands: standard_of_living 26–57; confidence 41–62; protection 29–49; unrest 31–54. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 53.9–61.4 local years. Conditional remaining years at age 20: 44.0–48.9. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -5239,15 +5461,21 @@ Current principal figures: Moot Speaker — Valerie Orselle (72); Mutual Defence
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 30/100 (below reference capacity); confidence 61/100; civil protection 76/100; unrest 33/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 35/100 (basic-needs pressure); confidence 63/100; civil protection 78/100; unrest 31/100 (higher is worse).
 
 Visitors eat from a host hearth’s stores; prolonged stays create reciprocal obligations.
 
 Hearth assemblies retain land and shelter rights under customary law and written harbour judgments.
 
-Evidence bands: confidence 56–67; protection 66–86; unrest 27–39. These are not polling confidence intervals.
+Evidence bands: standard_of_living 20–50; confidence 52–73; protection 68–88; unrest 20–43. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 52.0–59.7 local years. Conditional remaining years at age 20: 42.9–47.8. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -5378,15 +5606,21 @@ Current principal figures: Assembly President — Deliane Valentin (71); Fleet C
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 55/100 (around reference capacity); confidence 62/100; civil protection 51/100; unrest 32/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 40/100 (basics with limited headroom); confidence 57/100; civil protection 51/100; unrest 37/100 (higher is worse).
 
 Dockside houses advertise fixed-price meals; wealthy tables display fresh produce from distant islands.
 
 An elected assembly exists but residence and tax rules exclude some crews and outer communities; wider remedies are unspecified.
 
-Evidence bands: confidence 56–67; protection 11–91; unrest 25–38. These are not polling confidence intervals.
+Evidence bands: standard_of_living 24–54; confidence 47–67; protection 11–91; unrest 26–49. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 55.0–62.4 local years. Conditional remaining years at age 20: 44.7–49.6. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -5517,15 +5751,21 @@ Current principal figures: Covenant Speaker — Matteo Orselle (49); Mutual Defe
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 36/100 (below reference capacity); confidence 56/100; civil protection 76/100; unrest 39/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 38/100 (basic-needs pressure); confidence 56/100; civil protection 78/100; unrest 38/100 (higher is worse).
 
 Communal feasts affirm obligations between councils; everyday cooking varies by island.
 
 Kin and elected harbour councils negotiate covenants; foreign creditors cannot seize communal land.
 
-Evidence bands: confidence 50–61; protection 66–86; unrest 32–45. These are not polling confidence intervals.
+Evidence bands: standard_of_living 22–53; confidence 46–66; protection 68–88; unrest 26–50. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 52.5–60.2 local years. Conditional remaining years at age 20: 43.2–48.1. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -5656,15 +5896,21 @@ Current principal figures: Sovereign — Emilien Vasselin (41); Admiral of the K
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 51/100 (around reference capacity); confidence 59/100; civil protection 58/100; unrest 35/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 46/100 (basics with limited headroom); confidence 57/100; civil protection 60/100; unrest 36/100 (higher is worse).
 
 Mill workers buy meals near the gates; court hospitality prizes fresh produce from several islands.
 
 Town and landed representation constrains taxes and royal borrowing, without establishing universal franchise.
 
-Evidence bands: confidence 53–64; protection 48–68; unrest 28–41. These are not polling confidence intervals.
+Evidence bands: standard_of_living 30–61; confidence 47–67; protection 50–70; unrest 25–48. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 55.1–62.6 local years. Conditional remaining years at age 20: 44.8–49.7. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -5795,15 +6041,21 @@ Current principal figures: Governor — Yselle Nerval (47); Local Forces Command
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 46/100 (around reference capacity); confidence 53/100; civil protection 37/100; unrest 41/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 44/100 (basics with limited headroom); confidence 52/100; civil protection 39/100; unrest 42/100 (higher is worse).
 
 Northern stations ration imported flour through winter; southern markets offer more variety.
 
 Treaty councils can resist concessions but inhabitants have unequal land rights under colonial government.
 
-Evidence bands: confidence 47–58; protection 27–47; unrest 35–47. These are not polling confidence intervals.
+Evidence bands: standard_of_living 28–59; confidence 42–62; protection 29–49; unrest 30–54. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 54.4–61.9 local years. Conditional remaining years at age 20: 44.4–49.3. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 
@@ -5934,15 +6186,21 @@ Current principal figures: Moot Speaker — Celiane Sorellet (61); Refuge and De
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — modelled current estimates — source-derived material provision 26/100 (below reference capacity); confidence 60/100; civil protection 73/100; unrest 35/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — household living standard 33/100 (basic-needs pressure); confidence 62/100; civil protection 77/100; unrest 32/100 (higher is worse).
 
 Stored food is carefully accounted for because rescue hospitality and winter survival draw on the same reserves.
 
 Seasonal assemblies negotiate leases while retaining sovereignty and mutual refuge obligations.
 
-Evidence bands: confidence 54–65; protection 63–83; unrest 29–41. These are not polling confidence intervals.
+Evidence bands: standard_of_living 18–48; confidence 52–72; protection 67–87; unrest 21–44. These are not polling confidence intervals.
 
 [Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
+
+### Technology and longevity
+
+Life expectancy at birth: 51.3–59.0 local years. Conditional remaining years at age 20: 42.4–47.4. Estimated, reviewed 05/11/0068 AC43.
+
+[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
 ### Year 68 developments
 

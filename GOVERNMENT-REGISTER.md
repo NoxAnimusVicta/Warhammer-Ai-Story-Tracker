@@ -14,7 +14,7 @@ The officeholder's personality informs proposals, negotiations, enforcement styl
 
 New ages are completed local years at the baseline; existing Veyrasse age ranges and unknown birthdays are preserved. The builder calculates current age intervals from elapsed local days without advancing story time. A new calendar year does not give everyone an immediate birthday. A full elapsed local year increases both ends by one. Death freezes age at the death date. Preserve identity IDs and the dated baseline; do not repeatedly add years to an already projected age.
 
-Appearance, health and personality are separate. A grey head, scar or disability does not establish imminent death or incompetence. Traits are tendencies, not compulsory dialogue or a guarantee of loyalty. Personal relationships and changes of belief require recorded experience. Character knowledge remains separate from narrator knowledge; this register grants Galahad no private access to foreign rulers.
+Appearance, health and personality are separate. Age directly raises ordinary mortality risk; the interwar European reference and national lifespan estimates are recorded in DEVELOPMENT-REFERENCE.md. A scar or disability does not establish imminent death or incompetence. No ordinary human has assumed life extension. Traits are tendencies, not compulsory dialogue or a guarantee of loyalty. Personal relationships and changes of belief require recorded experience. Character knowledge remains separate from narrator knowledge; this register grants Galahad no private access to foreign rulers.
 
 ## Annual leadership review — required at every local new year
 
@@ -23,7 +23,7 @@ The ordinary build never rolls deaths. Before advancing past 01/01, complete a d
 For each person:
 
 1. Check current age, established health, actual residence and exposure, local medical capability, and recorded conflict, epidemic, accident or attack events. National crude mortality is not an individual death probability; it includes children and different living conditions. A country at war does not place every minister in a trench.
-2. Resolve established narrative outcomes first. For genuine uncertainty, set and record an explicit scenario-based probability and modifiers **before** a Python random roll; retain the roll privately. Use the elapsed-period adjustment `1 − (1 − annual probability)^(days / 365)` for ordinary background hazards. Rates are campaign modelling assumptions, not medical predictions. Do not assign a fresh assassination plot, epidemic or Hunter attack merely to fill a table; exceptional hazards need a recorded cause and exposure.
+2. Resolve established narrative outcomes first. For genuine uncertainty, start from the computed age-related historical reference band, then record an explicit scenario-based probability and modifiers **before** a Python random roll; retain the roll privately. Use the elapsed-period adjustment `1 − (1 − annual probability)^(days / 365)` for ordinary background hazards. Rates are campaign modelling assumptions, not medical predictions. Do not assign a fresh assassination plot, epidemic or Hunter attack merely to fill a table; exceptional hazards need a recorded cause and exposure.
 3. Record continued service, death, incapacity, retirement, term expiry or removal, with evidence. Survival is a valid result; there is no quota of deaths. Do not reroll a completed review or roll again for a fatal event already resolved in a scene. Avoid double-counting ordinary deaths already included in demographic projections; link exceptional losses to the shared event ledger.
 4. Review mandates, appointments and any established election dates as well as health. Annual review is not an invented annual election. For heredity use the recognised heir and lawful eligibility; for councils, appointment or election; for colonies, mainland authority; for military roles, civil appointment. Respect Veyrasse's established order, the consort's lack of co-sovereignty and Darscelet's temporary coordination role.
 5. On any vacancy, immediately record a **named acting or permanent successor** with age baseline, appearance, personality, health, remit and selection basis. A candidate or deputy is not automatically the permanent successor. Keep the previous person and death/departure record; never overwrite them out of history. If a designated heir dies, record the newly recognised heir with the same fields.
@@ -45,6 +45,11 @@ An annual review has unique id, date (01/01/YYYY AC43), reason and people entrie
 ## Veyrasse continuity
 
 Odrienne Orcemont remains a competent but unequal and possessive patron. Maurelle remains entitled and thin-skinned despite education. Vaucerin remains a decent professional officer; Darscelet remains the exacting staff planner. Their future deaths, support for Galahad, succession disputes or a coup are not predetermined. The existing [Veyrasse leadership reference](VEYRASSE-LEADERSHIP.md) supplies the detailed charter, family and legal context. No Royal Advisor appointment has been awarded by this maintenance.
+
+
+## Mortality fields required for annual reviews
+
+Each person entry includes mortality_review with period_days, age_range, baseline_percent (the calculated historical band), annual_probability, period_probability, health_and_exposure_basis and resolution_basis. The age range must describe the review period, and local lifespan/health conditions must inform the choice. Very large reductions require a recorded longevity_exception: type, event_id and effect. Only Hunter intervention, a psychic feat, invented longevity treatment or acquired xenos treatment qualify. No event is implied by a placeholder. Ordinary clinical care and privilege can improve outcomes without conferring agelessness. National life expectancy is recalculated from annually reviewed household/health conditions; it is never used as a compulsory death age.
 
 
 ## Current register — 05/11/0068 AC43
@@ -73,7 +78,9 @@ Age 63 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 2.34–3.18%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Crown Marshal — Tristan Rovantin
 
@@ -85,7 +92,9 @@ Age 66 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 3.06–4.18%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### First Minister — Odette Sarvigne
 
@@ -97,7 +106,9 @@ Age 57 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.41–1.9%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Sylvain Nemeret
 
@@ -110,6 +121,8 @@ Age 23 local years; alive. Completed local years at baseline; birthday unrecorde
 **Authority.** Prepared for succession and council work; no independent sovereignty or military command. Adult child of the sovereign, recognised under the succession settlement.
 
 **Health.** No disabling condition established.
+
+Ordinary annual age-based mortality reference: 0.29–0.33%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Ostrevain
 
@@ -135,7 +148,9 @@ Age 66 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 3.06–4.18%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Marshal of the Royal Army — Yselle Serravin
 
@@ -147,7 +162,9 @@ Age 52 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.96–1.3%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chief Royal Commissioner — Heloise Orselle
 
@@ -159,7 +176,9 @@ Age 47 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.68–0.92%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Olivier Sorelli
 
@@ -172,6 +191,8 @@ Age 22 local years; alive. Completed local years at baseline; birthday unrecorde
 **Authority.** Prepared for succession and council work; no independent sovereignty or military command. Adult child of the sovereign, recognised under the succession settlement.
 
 **Health.** No disabling condition established.
+
+Ordinary annual age-based mortality reference: 0.28–0.32%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Rovessara
 
@@ -197,7 +218,9 @@ Age 62 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 2.14–2.91%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Admiral of the Republic — Rosaline Castrel
 
@@ -209,7 +232,9 @@ Age 50 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.83–1.13%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy Consul — Dorian Lorrain
 
@@ -221,7 +246,9 @@ Age 57 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.41–1.9%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Brannervaux
 
@@ -247,7 +274,9 @@ Age 57 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.41–1.9%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Defence Commissioner — Deliane Serravin
 
@@ -259,7 +288,9 @@ Age 52 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.96–1.3%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy Convenor — Arielle Arvelle
 
@@ -271,7 +302,9 @@ Age 37 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.4–0.48%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Cervaud
 
@@ -297,7 +330,9 @@ Age 61 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.96–2.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Marshal — Pascal Cavellier
 
@@ -309,7 +344,9 @@ Age 42 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.51–0.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chancellor — Valerie Seravin
 
@@ -321,7 +358,9 @@ Age 40 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.45–0.57%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Aurelie Vasselin
 
@@ -334,6 +373,8 @@ Age 32 local years; alive. Completed local years at baseline; birthday unrecorde
 **Authority.** Prepared for succession and council work; no independent sovereignty or military command. Adult child of the sovereign, recognised under the succession settlement.
 
 **Health.** No disabling condition established.
+
+Ordinary annual age-based mortality reference: 0.34–0.38%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Veylac
 
@@ -359,7 +400,9 @@ Age 43 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.53–0.7%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chief of Defence — Celestin Trevaux
 
@@ -371,7 +414,9 @@ Age 42 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.51–0.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy President — Renato Duvaret
 
@@ -383,7 +428,9 @@ Age 30 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.33–0.35%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Ossavren successor territories
 
@@ -409,7 +456,9 @@ Age 49 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Speaks for the named local institution only; not sovereign over the combined geographic return.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.78–1.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Ossendrienne Garrison Commander — Vivienne Vellori
 
@@ -421,7 +470,9 @@ Age 57 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.41–1.9%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Tressavio Council Speaker — Florent Barvaux
 
@@ -433,7 +484,9 @@ Age 52 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Represents the separate local authority named in the office; not a national deputy.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.96–1.3%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Rovengard
 
@@ -459,7 +512,9 @@ Age 49 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.78–1.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Marshal of the Crown — Alessia Carvesset
 
@@ -471,7 +526,9 @@ Age 52 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.96–1.3%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chancellor — Alban Darcourt
 
@@ -483,7 +540,9 @@ Age 58 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.52–2.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Olivier Trevaux
 
@@ -496,6 +555,8 @@ Age 35 local years; alive. Completed local years at baseline; birthday unrecorde
 **Authority.** Prepared for succession and council work; no independent sovereignty or military command. Younger collateral relative of the sovereign, not their child.
 
 **Health.** No disabling condition established.
+
+Ordinary annual age-based mortality reference: 0.37–0.43%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Varnesk
 
@@ -521,7 +582,9 @@ Age 62 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 2.14–2.91%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Defence Director — Heloise Vellori
 
@@ -533,7 +596,9 @@ Age 55 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.19–1.62%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy League Chair — Gaspard Rovelle
 
@@ -545,7 +610,9 @@ Age 41 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.48–0.61%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Galdresk
 
@@ -571,7 +638,9 @@ Age 68 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 3.71–5.04%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Captain-General of the Wardens — Estelle Sarvigne
 
@@ -583,7 +652,9 @@ Age 67 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 3.37–4.59%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy First Warden — Fabien Caldoret
 
@@ -595,7 +666,9 @@ Age 56 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.29–1.76%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Halskert
 
@@ -621,7 +694,9 @@ Age 63 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 2.34–3.18%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Defence Commissioner — Clarisse Arvelle
 
@@ -633,7 +708,9 @@ Age 52 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.96–1.3%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy President — Camille Cavellier
 
@@ -645,7 +722,9 @@ Age 42 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.51–0.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Tervayne
 
@@ -671,7 +750,9 @@ Age 64 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 2.55–3.48%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Fleet Admiral — Matteo Nerval
 
@@ -683,7 +764,9 @@ Age 63 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 2.34–3.18%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy Sea Councillor — Lucan Caldoret
 
@@ -695,7 +778,9 @@ Age 37 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.4–0.48%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Vardol
 
@@ -721,7 +806,9 @@ Age 64 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 2.55–3.48%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### High Marshal — Vivienne Montreval
 
@@ -733,7 +820,9 @@ Age 44 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.56–0.76%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chancellor — Alban Elmont
 
@@ -745,7 +834,9 @@ Age 30 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.33–0.35%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Marcellin Rovelle
 
@@ -758,6 +849,8 @@ Age 29 local years; alive. Completed local years at baseline; birthday unrecorde
 **Authority.** Prepared for succession and council work; no independent sovereignty or military command. Adult child of the sovereign, recognised under the succession settlement.
 
 **Health.** No disabling condition established.
+
+Ordinary annual age-based mortality reference: 0.32–0.34%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Averholt
 
@@ -783,7 +876,9 @@ Age 39 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.44–0.54%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Marshal of the Compact — Lucan Favrelli
 
@@ -795,7 +890,9 @@ Age 51 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.89–1.21%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### First Provincial Councillor — Vittore Barvaux
 
@@ -807,7 +904,9 @@ Age 56 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.29–1.76%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Gaspard Aubret
 
@@ -820,6 +919,8 @@ Age 35 local years; alive. Completed local years at baseline; birthday unrecorde
 **Authority.** Prepared for succession and council work; no independent sovereignty or military command. Younger collateral relative of the sovereign, not their child.
 
 **Health.** No disabling condition established.
+
+Ordinary annual age-based mortality reference: 0.37–0.43%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Serevask Republic
 
@@ -845,7 +946,9 @@ Age 61 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.96–2.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chief of Defence — Leonie Arvelle
 
@@ -857,7 +960,9 @@ Age 54 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.11–1.51%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy President — Marcellin Sorellet
 
@@ -869,7 +974,9 @@ Age 59 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.65–2.24%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Varnelle
 
@@ -895,7 +1002,9 @@ Age 71 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 4.98–6.64%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Defence Commissioner — Fabien Valentin
 
@@ -907,7 +1016,9 @@ Age 46 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.64–0.86%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy Commissioner — Pascal Arvelle
 
@@ -919,7 +1030,9 @@ Age 36 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.39–0.46%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Kelbrun
 
@@ -945,7 +1058,9 @@ Age 59 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.65–2.24%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Commandant-General — Valerie Varenne
 
@@ -957,7 +1072,9 @@ Age 58 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.52–2.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy President — Elodie Resselin
 
@@ -969,7 +1086,9 @@ Age 45 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.6–0.81%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Gavrel
 
@@ -995,7 +1114,9 @@ Age 60 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.8–2.43%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### March Defence Liaison — Alessia Nemeret
 
@@ -1007,7 +1128,9 @@ Age 56 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.29–1.76%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy Convenor — Yselle Talvessin
 
@@ -1019,7 +1142,9 @@ Age 50 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.83–1.13%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Bellacosta Cantons
 
@@ -1045,7 +1170,9 @@ Age 42 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Speaks for the named local institution only; not sovereign over the combined geographic return.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.51–0.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Jougrenne Escort Commandant — Rosaline Merault
 
@@ -1057,7 +1184,9 @@ Age 59 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.65–2.24%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Nantac Land-Court Provost — Marielle Caldoret
 
@@ -1069,7 +1198,9 @@ Age 39 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Represents the separate local authority named in the office; not a national deputy.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.44–0.54%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Cavressa Principalities
 
@@ -1095,7 +1226,9 @@ Age 53 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Speaks for the named local institution only; not sovereign over the combined geographic return.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.03–1.4%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Collengo Guard Captain — Celestin Brissot
 
@@ -1107,7 +1240,9 @@ Age 64 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 2.55–3.48%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Peregia Court Chancellor — Pascal Rovelle
 
@@ -1119,7 +1254,9 @@ Age 50 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Represents the separate local authority named in the office; not a national deputy.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.83–1.13%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Vaulcerre Basin Leagues
 
@@ -1145,7 +1282,9 @@ Age 73 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Speaks for the named local institution only; not sovereign over the combined geographic return.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 6.1–7.97%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Anselleuil Reservoir Commandant — Pascal Serravin
 
@@ -1157,7 +1296,9 @@ Age 48 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.73–0.99%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Votane Estates Delegate — Sabine Nerval
 
@@ -1169,7 +1310,9 @@ Age 56 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Represents the separate local authority named in the office; not a national deputy.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.29–1.76%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Seravelle Littoral
 
@@ -1195,7 +1338,9 @@ Age 71 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Speaks for the named local institution only; not sovereign over the combined geographic return.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 4.98–6.64%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Astrellac Patrol Admiral — Sylvain Orcelin
 
@@ -1207,7 +1352,9 @@ Age 66 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 3.06–4.18%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Inland Estates Envoy — Lucan Kelvaret
 
@@ -1219,7 +1366,9 @@ Age 39 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Represents the separate local authority named in the office; not a national deputy.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.44–0.54%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Haldrevik Concessions
 
@@ -1245,7 +1394,9 @@ Age 72 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Speaks for the named local institution only; not sovereign over the combined geographic return.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 5.51–7.27%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Alauvenne Security Commandant — Renier Bellorin
 
@@ -1257,7 +1408,9 @@ Age 48 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.73–0.99%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Communities' Liaison — Elodie Morcenne
 
@@ -1269,7 +1422,9 @@ Age 51 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Represents the separate local authority named in the office; not a national deputy.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.89–1.21%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Dreissen Wardholds
 
@@ -1295,7 +1450,9 @@ Age 44 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Speaks for the named local institution only; not sovereign over the combined geographic return.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.56–0.76%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Dreinvar Fortress Captain — Celestin Valentin
 
@@ -1307,7 +1464,9 @@ Age 50 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.83–1.13%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Ferorvik Assembly Delegate — Marielle Norravel
 
@@ -1319,7 +1478,9 @@ Age 59 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Represents the separate local authority named in the office; not a national deputy.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.65–2.24%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Varneselle Estates
 
@@ -1345,7 +1506,9 @@ Age 62 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Speaks for the named local institution only; not sovereign over the combined geographic return.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 2.14–2.91%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Varkessant Patrol Captain — Lucan Seravin
 
@@ -1357,7 +1520,9 @@ Age 42 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.51–0.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Estates' Arbitration Speaker — Deliane Vaudrin
 
@@ -1369,7 +1534,9 @@ Age 35 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Represents the separate local authority named in the office; not a national deputy.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.37–0.43%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Bressavelle Marches
 
@@ -1395,7 +1562,9 @@ Age 48 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Speaks for the named local institution only; not sovereign over the combined geographic return.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.73–0.99%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Temevaux Road Commandant — Marcellin Rovantin
 
@@ -1407,7 +1576,9 @@ Age 61 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.96–2.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Orsavie Charter Envoy — Matteo Montreval
 
@@ -1419,7 +1590,9 @@ Age 57 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Represents the separate local authority named in the office; not a national deputy.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.41–1.9%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Vallessia Cantons
 
@@ -1445,7 +1618,9 @@ Age 68 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Speaks for the named local institution only; not sovereign over the combined geographic return.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 3.71–5.04%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Darnenne Military Governor — Yselle Vernac
 
@@ -1457,7 +1632,9 @@ Age 62 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 2.14–2.91%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Galigny Appeals Delegate — Sabine Varnier
 
@@ -1469,7 +1646,9 @@ Age 49 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Represents the separate local authority named in the office; not a national deputy.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.78–1.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Rivessac Coast
 
@@ -1495,7 +1674,9 @@ Age 60 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Speaks for the named local institution only; not sovereign over the combined geographic return.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.8–2.43%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Coastal Patrol Coordinator — Yselle Valentin
 
@@ -1507,7 +1688,9 @@ Age 61 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.96–2.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Saultac Market Delegate — Aurelie Barvaux
 
@@ -1519,7 +1702,9 @@ Age 47 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Represents the separate local authority named in the office; not a national deputy.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.68–0.92%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Karsenne Compact
 
@@ -1545,7 +1730,9 @@ Age 42 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.51–0.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Defence Convenor — Celine Montreval
 
@@ -1557,7 +1744,9 @@ Age 54 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.11–1.51%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy Compact Convenor — Solenne Vaudrin
 
@@ -1569,7 +1758,9 @@ Age 50 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.83–1.13%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Duchy of Caldrienne
 
@@ -1595,7 +1786,9 @@ Age 73 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 6.1–7.97%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Grand Marshal — Tristan Corvelli
 
@@ -1607,7 +1800,9 @@ Age 44 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.56–0.76%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chancellor — Renier Montreval
 
@@ -1619,7 +1814,9 @@ Age 37 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.4–0.48%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Adrien Nerval the Younger
 
@@ -1632,6 +1829,8 @@ Age 33 local years; alive. Completed local years at baseline; birthday unrecorde
 **Authority.** Prepared for succession and council work; no independent sovereignty or military command. Adult child of the sovereign, recognised under the succession settlement.
 
 **Health.** No disabling condition established.
+
+Ordinary annual age-based mortality reference: 0.35–0.39%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## March of Veyrasse
 
@@ -1657,7 +1856,9 @@ Age 51–52 local years; alive. Completed local years at register baseline; exac
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.89–1.3%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Marshal — Calvren Vaucerin
 
@@ -1669,7 +1870,9 @@ Age 63–64 local years; alive. Completed local years at register baseline; exac
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 2.34–3.48%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chief of General Staff — Cevrel Darscelet
 
@@ -1681,7 +1884,9 @@ Age 49–50 local years; alive. Completed local years at register baseline; exac
 
 **Authority.** Chief of general staff; acting military coordinator after Vaucerin pending the Margrave’s permanent appointment. Not deputy sovereign.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.78–1.13%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Maurelle Orcemont
 
@@ -1694,6 +1899,8 @@ Age 26–27 local years; alive. Completed local years at baseline; birthday unre
 **Authority.** Prepared for succession and council work; no independent sovereignty or military command.
 
 **Health.** No disabling condition established.
+
+Ordinary annual age-based mortality reference: 0.31–0.34%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Calvernis Republic
 
@@ -1719,7 +1926,9 @@ Age 44 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.56–0.76%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Admiral-General — Deliane Varenne
 
@@ -1731,7 +1940,9 @@ Age 58 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.52–2.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy President — Romain Sorelli
 
@@ -1743,7 +1954,9 @@ Age 51 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.89–1.21%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Ceralte Admiralty
 
@@ -1769,7 +1982,9 @@ Age 46 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.64–0.86%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### First Admiral — Vivienne Darcourt
 
@@ -1781,7 +1996,9 @@ Age 61 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.96–2.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Naval Council Chancellor — Emilien Vaudrin
 
@@ -1793,7 +2010,9 @@ Age 51 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.89–1.21%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Heloise Orselle of Dalmor
 
@@ -1806,6 +2025,8 @@ Age 23 local years; alive. Completed local years at baseline; birthday unrecorde
 **Authority.** Prepared for succession and council work; no independent sovereignty or military command. Adult child of the sovereign, recognised under the succession settlement.
 
 **Health.** No disabling condition established.
+
+Ordinary annual age-based mortality reference: 0.29–0.33%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Varessan Sea League
 
@@ -1831,7 +2052,9 @@ Age 51 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.89–1.21%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Convoy Captain-General — Emilien Varenne
 
@@ -1843,7 +2066,9 @@ Age 67 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 3.37–4.59%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy League Speaker — Valerie Carvesset
 
@@ -1855,7 +2080,9 @@ Age 33 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.35–0.39%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Talascan Charter Islands
 
@@ -1881,7 +2108,9 @@ Age 43 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.53–0.7%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Colonial Garrison Commandant — Solenne Sorelli
 
@@ -1893,7 +2122,9 @@ Age 46 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.64–0.86%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chief Colonial Secretary — Matteo Darcourt
 
@@ -1905,7 +2136,9 @@ Age 42 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.51–0.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Nemerai Crown
 
@@ -1931,7 +2164,9 @@ Age 61 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.96–2.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Admiral of the Crown — Lorent Auvret
 
@@ -1943,7 +2178,9 @@ Age 45 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.6–0.81%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### First Minister — Valerie Auvret
 
@@ -1955,7 +2192,9 @@ Age 49 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.78–1.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Elodie Brissot
 
@@ -1968,6 +2207,8 @@ Age 30 local years; alive. Completed local years at baseline; birthday unrecorde
 **Authority.** Prepared for succession and council work; no independent sovereignty or military command. Adult child of the sovereign, recognised under the succession settlement.
 
 **Health.** No disabling condition established.
+
+Ordinary annual age-based mortality reference: 0.33–0.35%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Ordelune Overseas Districts
 
@@ -1993,7 +2234,9 @@ Age 60 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.8–2.43%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Garrison Commandant — Lucelle Dalmaret
 
@@ -2005,7 +2248,9 @@ Age 67 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 3.37–4.59%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chief Secretary — Nerine Orselle
 
@@ -2017,7 +2262,9 @@ Age 50 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.83–1.13%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Skeldran Hearth Confederacy
 
@@ -2043,7 +2290,9 @@ Age 72 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 5.51–7.27%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Mutual Defence Coordinator — Matteo Vellori
 
@@ -2055,7 +2304,9 @@ Age 47 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.68–0.92%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy Moot Speaker — Coralie Duvaret
 
@@ -2067,7 +2318,9 @@ Age 51 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.89–1.21%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Merovian Island Republic
 
@@ -2093,7 +2346,9 @@ Age 71 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 4.98–6.64%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Fleet Commandant — Adrien Valentin
 
@@ -2105,7 +2360,9 @@ Age 44 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.56–0.76%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy President — Armand Vaudrin
 
@@ -2117,7 +2374,9 @@ Age 46 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.64–0.86%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Ashalai Reef Covenant
 
@@ -2143,7 +2402,9 @@ Age 49 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.78–1.06%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Mutual Defence Captain — Heloise Astrevin
 
@@ -2155,7 +2416,9 @@ Age 67 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 3.37–4.59%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy Speaker — Armand Resselin
 
@@ -2167,7 +2430,9 @@ Age 42 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.51–0.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Kingdom of Istrana
 
@@ -2193,7 +2458,9 @@ Age 41 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.48–0.61%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Admiral of the Kingdom — Sylvain Vellori
 
@@ -2205,7 +2472,9 @@ Age 66 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 3.06–4.18%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### First Minister — Fabien Varnier
 
@@ -2217,7 +2486,9 @@ Age 54 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.11–1.51%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Recognised heir — Romain Vasselin
 
@@ -2230,6 +2501,8 @@ Age 22 local years; alive. Completed local years at baseline; birthday unrecorde
 **Authority.** Prepared for succession and council work; no independent sovereignty or military command. Adult child of the sovereign, recognised under the succession settlement.
 
 **Health.** No disabling condition established.
+
+Ordinary annual age-based mortality reference: 0.28–0.32%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Edrask Governorate
 
@@ -2255,7 +2528,9 @@ Age 47 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.68–0.92%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Local Forces Commandant — Gaspard Resselin
 
@@ -2267,7 +2542,9 @@ Age 67 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 3.37–4.59%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Chief Secretary — Solenne Serravin
 
@@ -2279,7 +2556,9 @@ Age 37 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.4–0.48%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ## Norrakai Moots
 
@@ -2305,7 +2584,9 @@ Age 61 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Leads civil administration and foreign representation within the institutional limits below.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.96–2.66%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Refuge and Defence Coordinator — Fleur Cavrenne
 
@@ -2317,7 +2598,9 @@ Age 52 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Professional direction of assigned forces, subject to civil appointment and authorised supply.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 0.96–1.3%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.
 
 ### Deputy Speaker — Benoit Favrelli
 
@@ -2329,4 +2612,6 @@ Age 54 local years; alive. Completed local years at register baseline; exact bir
 
 **Authority.** Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.
 
-**Health.** No disabling condition established; age alone is not a diagnosis.
+**Health.** No disabling condition established; ordinary age-related mortality still applies.
+
+Ordinary annual age-based mortality reference: 1.11–1.51%. Local conditions, known health and exposure must be reviewed separately; no life extension is presumed.

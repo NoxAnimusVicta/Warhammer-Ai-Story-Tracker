@@ -14262,3 +14262,39 @@ Existing record text and campaign data were preserved. I checked desktop and pho
 ## 618 - User - Full app structure and Malaspina presentation review
 
 Nah you need to take your time and do this properly please. Basically all you did was add some headers to the Dossier. The entire Malaspina Tab is a complete mess. Go through the App carefully and check the whole thing. Please do not skim and take short cuts. Ask questions if needed. For the second time, take your time.
+
+
+## 619 - Assistant - Full reading-structure revision published
+
+The revised app is now live, with a substantial reorganisation of Malaspina:
+
+- Date, planetary figures and map first; map explanations folded beside it.
+- Separate settlement and national records, with consistent sections for government, living conditions, economy, treasury and military.
+- Planetary references grouped into current affairs, geography, history and everyday life.
+- Individual relationship and research entries, plus nine Chronicle chapters preserving all 113 entries.
+
+I reviewed all six tabs at desktop and phone widths, tested all 44 nation/territory selections, and checked expanded comparisons, budgets and travel records. Unique information and source statistics were preserved. Publication succeeded, and the live files match the tested build.
+
+[Open the revised slate](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=68596f6c048fb104c590#world)
+
+
+## 620 - User - Presentation, technology, mortality and living-standard corrections
+
+There are still some issues. formatting errors in the Royal Commission Section of the Archive, uneven spacing between Year 68 Developments and Compare Living Conditions Drop downs in the Malaspina Tab, Technology is not expansive enough and too narrow for Nations, they should also have some sort of natural advancement rates for tech. Age for individuals absolutely is a diagnosis. People should live according to lifespans seen in European countries around 1938. People do not live forever, this planet does not have access to life extension technology. This can only be done if the Hunters play some kind of hand in it, a Psycher achieves this feat or Galahad finds a way to invent life extending technology or acquires it from a xenos race. Living Standard Calculations also make no sense the things you are using to calculate it have very little to do with Standard of Living.
+
+That is the stuff I could find upon a quick inspection, please fix this stuff and do another round of polishing please
+
+
+## 621 - Assistant - Household-input clarification
+
+The existing national accounts do not record household incomes, rents, employment or income distribution, which are needed for meaningful living standards. Should I establish explicit, documented estimates for those missing inputs using the existing wages, prices and national conditions, or leave living-standard results incomplete wherever that evidence is missing?
+
+
+## 622 - User - Annual maintenance of estimated inputs
+
+Whatever you think is best, remember this numbers will need to be subject to yearly updates like the other figures. Practically all of this stuff needs it
+
+
+## 623 - User - National lifespan variation
+
+Lifespans may actually vary from nation to nation and it makes sense for lifespan to be another number that would be subject to updating

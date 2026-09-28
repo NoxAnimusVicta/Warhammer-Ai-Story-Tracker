@@ -27,14 +27,18 @@
           "personality": "Patient provincial negotiator, proud of dynastic continuity; buys consent with contracts and resents public contradiction.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             63,
             63
           ],
-          "age_label": "63"
+          "age_label": "63",
+          "ordinary_annual_mortality_percent": [
+            2.34,
+            3.18
+          ]
         },
         {
           "id": "veldrassen-2",
@@ -49,14 +53,18 @@
           "personality": "Methodical railway planner; mistrusts provincial officers who promise men they cannot supply.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             66,
             66
           ],
-          "age_label": "66"
+          "age_label": "66",
+          "ordinary_annual_mortality_percent": [
+            3.06,
+            4.18
+          ]
         },
         {
           "id": "veldrassen-3",
@@ -71,14 +79,18 @@
           "personality": "Careful procedural negotiator; remembers promises and resists shortcuts, but can let consultation become delay.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             57,
             57
           ],
-          "age_label": "57"
+          "age_label": "57",
+          "ordinary_annual_mortality_percent": [
+            1.41,
+            1.9
+          ]
         },
         {
           "id": "veldrassen-heir",
@@ -100,7 +112,11 @@
             23,
             23
           ],
-          "age_label": "23"
+          "age_label": "23",
+          "ordinary_annual_mortality_percent": [
+            0.29,
+            0.33
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -130,14 +146,18 @@
           "personality": "Ambitious industrial patron; admires factory output and understates the hardship imposed by estate recruitment.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             66,
             66
           ],
-          "age_label": "66"
+          "age_label": "66",
+          "ordinary_annual_mortality_percent": [
+            3.06,
+            4.18
+          ]
         },
         {
           "id": "ostrevain-2",
@@ -152,14 +172,18 @@
           "personality": "Disciplined organiser of large formations; distrusts fashionable machines without spare parts.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             52,
             52
           ],
-          "age_label": "52"
+          "age_label": "52",
+          "ordinary_annual_mortality_percent": [
+            0.96,
+            1.3
+          ]
         },
         {
           "id": "ostrevain-3",
@@ -174,14 +198,18 @@
           "personality": "Bright and impatient reformer; wants transparent accounts, yet underestimates the allies needed to pass them.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             47,
             47
           ],
-          "age_label": "47"
+          "age_label": "47",
+          "ordinary_annual_mortality_percent": [
+            0.68,
+            0.92
+          ]
         },
         {
           "id": "ostrevain-heir",
@@ -203,7 +231,11 @@
             22,
             22
           ],
-          "age_label": "22"
+          "age_label": "22",
+          "ordinary_annual_mortality_percent": [
+            0.28,
+            0.32
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -233,14 +265,18 @@
           "personality": "Elegant negotiator who listens for price before principle; honours profitable contracts but neglects unbankable needs.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             62,
             62
           ],
-          "age_label": "62"
+          "age_label": "62",
+          "ordinary_annual_mortality_percent": [
+            2.14,
+            2.91
+          ]
         },
         {
           "id": "rovessara-2",
@@ -255,14 +291,18 @@
           "personality": "Cool convoy specialist; will abandon an exposed cargo to preserve crews, earning both loyalty and accusations of timidity.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             50,
             50
           ],
-          "age_label": "50"
+          "age_label": "50",
+          "ordinary_annual_mortality_percent": [
+            0.83,
+            1.13
+          ]
         },
         {
           "id": "rovessara-3",
@@ -277,14 +317,18 @@
           "personality": "Affable coalition broker; good at restoring working relations, less willing to confront profitable abuses.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             57,
             57
           ],
-          "age_label": "57"
+          "age_label": "57",
+          "ordinary_annual_mortality_percent": [
+            1.41,
+            1.9
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -314,14 +358,18 @@
           "personality": "Careful arbitrator who insists on measured flows; compromises on ceremony, never on an unrecorded maintenance liability.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             57,
             57
           ],
-          "age_label": "57"
+          "age_label": "57",
+          "ordinary_annual_mortality_percent": [
+            1.41,
+            1.9
+          ]
         },
         {
           "id": "brannervaux-2",
@@ -336,14 +384,18 @@
           "personality": "Patient engineer-officer; secures locks and stores before promising a field operation, sometimes too slowly for frontier delegates.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             52,
             52
           ],
-          "age_label": "52"
+          "age_label": "52",
+          "ordinary_annual_mortality_percent": [
+            0.96,
+            1.3
+          ]
         },
         {
           "id": "brannervaux-3",
@@ -358,14 +410,18 @@
           "personality": "Reserved institutional loyalist; protects continuity and competent staff, sometimes confuses established practice with necessity.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             37,
             37
           ],
-          "age_label": "37"
+          "age_label": "37",
+          "ordinary_annual_mortality_percent": [
+            0.4,
+            0.48
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -395,14 +451,18 @@
           "personality": "Courteous, status-conscious survivor who plays patrons against each other; privately fears becoming a client in all but name.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             61,
             61
           ],
-          "age_label": "61"
+          "age_label": "61",
+          "ordinary_annual_mortality_percent": [
+            1.96,
+            2.66
+          ]
         },
         {
           "id": "cervaud-2",
@@ -417,14 +477,18 @@
           "personality": "Forthright veteran who favours shorter reserve rotations; considers wasting harvest labour a military failure.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             42,
             42
           ],
-          "age_label": "42"
+          "age_label": "42",
+          "ordinary_annual_mortality_percent": [
+            0.51,
+            0.66
+          ]
         },
         {
           "id": "cervaud-3",
@@ -439,14 +503,18 @@
           "personality": "Sharp critic of waste; listens to practitioners but can humiliate officials whose figures do not add up.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             40,
             40
           ],
-          "age_label": "40"
+          "age_label": "40",
+          "ordinary_annual_mortality_percent": [
+            0.45,
+            0.57
+          ]
         },
         {
           "id": "cervaud-heir",
@@ -468,7 +536,11 @@
             32,
             32
           ],
-          "age_label": "32"
+          "age_label": "32",
+          "ordinary_annual_mortality_percent": [
+            0.34,
+            0.38
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -498,14 +570,18 @@
           "personality": "Energetic speaker and committee broker; welcomes technical criticism but deflects demands to widen labour representation.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             43,
             43
           ],
-          "age_label": "43"
+          "age_label": "43",
+          "ordinary_annual_mortality_percent": [
+            0.53,
+            0.7
+          ]
         },
         {
           "id": "veylac-2",
@@ -520,14 +596,18 @@
           "personality": "Practical dispersal advocate after the relay strike; prefers resilient workshops over spectacular concentrations of armour.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             42,
             42
           ],
-          "age_label": "42"
+          "age_label": "42",
+          "ordinary_annual_mortality_percent": [
+            0.51,
+            0.66
+          ]
         },
         {
           "id": "veylac-3",
@@ -542,14 +622,18 @@
           "personality": "Patient organiser with a talent for reassuring rivals; risks promising incompatible groups more than can be delivered.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             30,
             30
           ],
-          "age_label": "30"
+          "age_label": "30",
+          "ordinary_annual_mortality_percent": [
+            0.33,
+            0.35
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -579,14 +663,18 @@
           "personality": "Dry, exhausted mediator who wants the capital fed before a crown restored; accepts ugly toll bargains to keep grain moving.",
           "remit": "Speaks for the named local institution only; not sovereign over the combined geographic return.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             49,
             49
           ],
-          "age_label": "49"
+          "age_label": "49",
+          "ordinary_annual_mortality_percent": [
+            0.78,
+            1.06
+          ]
         },
         {
           "id": "ossavren-2",
@@ -601,14 +689,18 @@
           "personality": "Suspicious city defender; protects repair shops and railway mouths, refuses adventures to prove a claimant's legitimacy.",
           "remit": "Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             57,
             57
           ],
-          "age_label": "57"
+          "age_label": "57",
+          "ordinary_annual_mortality_percent": [
+            1.41,
+            1.9
+          ]
         },
         {
           "id": "ossavren-3",
@@ -623,14 +715,18 @@
           "personality": "Careful procedural negotiator; remembers promises and resists shortcuts, but can let consultation become delay.",
           "remit": "Represents the separate local authority named in the office; not a national deputy.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             52,
             52
           ],
-          "age_label": "52"
+          "age_label": "52",
+          "ordinary_annual_mortality_percent": [
+            0.96,
+            1.3
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -660,14 +756,18 @@
           "personality": "Paternal in public and exacting over winter accounts; values dependable provision more than fashionable conquest.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             49,
             49
           ],
-          "age_label": "49"
+          "age_label": "49",
+          "ordinary_annual_mortality_percent": [
+            0.78,
+            1.06
+          ]
         },
         {
           "id": "rovengard-2",
@@ -682,14 +782,18 @@
           "personality": "Reserved quartermaster by temperament; sacrifices parade readiness to keep dispersed garrisons clothed and fed.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             52,
             52
           ],
-          "age_label": "52"
+          "age_label": "52",
+          "ordinary_annual_mortality_percent": [
+            0.96,
+            1.3
+          ]
         },
         {
           "id": "rovengard-3",
@@ -704,14 +808,18 @@
           "personality": "Bright and impatient reformer; wants transparent accounts, yet underestimates the allies needed to pass them.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             58,
             58
           ],
-          "age_label": "58"
+          "age_label": "58",
+          "ordinary_annual_mortality_percent": [
+            1.52,
+            2.06
+          ]
         },
         {
           "id": "rovengard-heir",
@@ -733,7 +841,11 @@
             35,
             35
           ],
-          "age_label": "35"
+          "age_label": "35",
+          "ordinary_annual_mortality_percent": [
+            0.37,
+            0.43
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -763,14 +875,18 @@
           "personality": "Blunt metallurgist turned negotiator; despises inflated specifications but tolerates harsh labour bargains when deliveries are at stake.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             62,
             62
           ],
-          "age_label": "62"
+          "age_label": "62",
+          "ordinary_annual_mortality_percent": [
+            2.14,
+            2.91
+          ]
         },
         {
           "id": "varnesk-2",
@@ -785,14 +901,18 @@
           "personality": "Cautious industrial defender; guards skilled crews and stores, dislikes creditors dictating tactical priorities.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             55,
             55
           ],
-          "age_label": "55"
+          "age_label": "55",
+          "ordinary_annual_mortality_percent": [
+            1.19,
+            1.62
+          ]
         },
         {
           "id": "varnesk-3",
@@ -807,14 +927,18 @@
           "personality": "Affable coalition broker; good at restoring working relations, less willing to confront profitable abuses.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             41,
             41
           ],
-          "age_label": "41"
+          "age_label": "41",
+          "ordinary_annual_mortality_percent": [
+            0.48,
+            0.61
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -844,14 +968,18 @@
           "personality": "Quiet physician-administrator; protects training and referral access, but can become possessive of institutional privilege.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             68,
             68
           ],
-          "age_label": "68"
+          "age_label": "68",
+          "ordinary_annual_mortality_percent": [
+            3.71,
+            5.04
+          ]
         },
         {
           "id": "galdresk-2",
@@ -866,14 +994,18 @@
           "personality": "Firm local organiser who prioritises escorts, shelter and evacuation; reluctant to lend trained wardens to prestige campaigns.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             67,
             67
           ],
-          "age_label": "67"
+          "age_label": "67",
+          "ordinary_annual_mortality_percent": [
+            3.37,
+            4.59
+          ]
         },
         {
           "id": "galdresk-3",
@@ -888,14 +1020,18 @@
           "personality": "Reserved institutional loyalist; protects continuity and competent staff, sometimes confuses established practice with necessity.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             56,
             56
           ],
-          "age_label": "56"
+          "age_label": "56",
+          "ordinary_annual_mortality_percent": [
+            1.29,
+            1.76
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -925,14 +1061,18 @@
           "personality": "Sociable grain broker who remembers small suppliers; avoids ideological fights but dismisses some urban grievances as seasonal noise.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             63,
             63
           ],
-          "age_label": "63"
+          "age_label": "63",
+          "ordinary_annual_mortality_percent": [
+            2.34,
+            3.18
+          ]
         },
         {
           "id": "halskert-2",
@@ -947,14 +1087,18 @@
           "personality": "Unshowy transport officer; thinks in river levels and reserve stores, dislikes deployment beyond reliable provisioning.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             52,
             52
           ],
-          "age_label": "52"
+          "age_label": "52",
+          "ordinary_annual_mortality_percent": [
+            0.96,
+            1.3
+          ]
         },
         {
           "id": "halskert-3",
@@ -969,14 +1113,18 @@
           "personality": "Sharp critic of waste; listens to practitioners but can humiliate officials whose figures do not add up.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             42,
             42
           ],
-          "age_label": "42"
+          "age_label": "42",
+          "ordinary_annual_mortality_percent": [
+            0.51,
+            0.66
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -1006,14 +1154,18 @@
           "personality": "Confident maritime dealmaker; generous to useful outsiders, impatient with inland communities whose transport costs spoil a contract.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             64,
             64
           ],
-          "age_label": "64"
+          "age_label": "64",
+          "ordinary_annual_mortality_percent": [
+            2.55,
+            3.48
+          ]
         },
         {
           "id": "tervayne-2",
@@ -1028,14 +1180,18 @@
           "personality": "Experienced escort commander; prizes seamanship over pedigree, underestimates how slowly inland allies can mobilise.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             63,
             63
           ],
-          "age_label": "63"
+          "age_label": "63",
+          "ordinary_annual_mortality_percent": [
+            2.34,
+            3.18
+          ]
         },
         {
           "id": "tervayne-3",
@@ -1050,14 +1206,18 @@
           "personality": "Patient organiser with a talent for reassuring rivals; risks promising incompatible groups more than can be delivered.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             37,
             37
           ],
-          "age_label": "37"
+          "age_label": "37",
+          "ordinary_annual_mortality_percent": [
+            0.4,
+            0.48
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -1087,14 +1247,18 @@
           "personality": "Severe ruler who regards deterrence as a public service; can mistake compromise for personal humiliation.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             64,
             64
           ],
-          "age_label": "64"
+          "age_label": "64",
+          "ordinary_annual_mortality_percent": [
+            2.55,
+            3.48
+          ]
         },
         {
           "id": "vardol-2",
@@ -1109,14 +1273,18 @@
           "personality": "Disciplined staff officer who supports exercise notices; prefers credible logistics to threatening formations on paper.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             44,
             44
           ],
-          "age_label": "44"
+          "age_label": "44",
+          "ordinary_annual_mortality_percent": [
+            0.56,
+            0.76
+          ]
         },
         {
           "id": "vardol-3",
@@ -1131,14 +1299,18 @@
           "personality": "Careful procedural negotiator; remembers promises and resists shortcuts, but can let consultation become delay.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             30,
             30
           ],
-          "age_label": "30"
+          "age_label": "30",
+          "ordinary_annual_mortality_percent": [
+            0.33,
+            0.35
+          ]
         },
         {
           "id": "vardol-heir",
@@ -1160,7 +1332,11 @@
             29,
             29
           ],
-          "age_label": "29"
+          "age_label": "29",
+          "ordinary_annual_mortality_percent": [
+            0.32,
+            0.34
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -1190,14 +1366,18 @@
           "personality": "Patient conciliator with a long memory for broken promises; prizes autonomy but postpones difficult common decisions.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             39,
             39
           ],
-          "age_label": "39"
+          "age_label": "39",
+          "ordinary_annual_mortality_percent": [
+            0.44,
+            0.54
+          ]
         },
         {
           "id": "averholt-2",
@@ -1212,14 +1392,18 @@
           "personality": "Thoughtful defensive planner; values liaison and openly challenges impossible troop-concentration orders.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             51,
             51
           ],
-          "age_label": "51"
+          "age_label": "51",
+          "ordinary_annual_mortality_percent": [
+            0.89,
+            1.21
+          ]
         },
         {
           "id": "averholt-3",
@@ -1234,14 +1418,18 @@
           "personality": "Bright and impatient reformer; wants transparent accounts, yet underestimates the allies needed to pass them.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             56,
             56
           ],
-          "age_label": "56"
+          "age_label": "56",
+          "ordinary_annual_mortality_percent": [
+            1.29,
+            1.76
+          ]
         },
         {
           "id": "averholt-heir",
@@ -1263,7 +1451,11 @@
             35,
             35
           ],
-          "age_label": "35"
+          "age_label": "35",
+          "ordinary_annual_mortality_percent": [
+            0.37,
+            0.43
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -1293,14 +1485,18 @@
           "personality": "Cultivated archivist-politician; values lawful records but quotes history selectively to defend present interests.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             61,
             61
           ],
-          "age_label": "61"
+          "age_label": "61",
+          "ordinary_annual_mortality_percent": [
+            1.96,
+            2.66
+          ]
         },
         {
           "id": "serevask-2",
@@ -1315,14 +1511,18 @@
           "personality": "Sober mountain officer who separates claims from available forces; rejects plans based on instant restoration of the federation.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             54,
             54
           ],
-          "age_label": "54"
+          "age_label": "54",
+          "ordinary_annual_mortality_percent": [
+            1.11,
+            1.51
+          ]
         },
         {
           "id": "serevask-3",
@@ -1337,14 +1537,18 @@
           "personality": "Affable coalition broker; good at restoring working relations, less willing to confront profitable abuses.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             59,
             59
           ],
-          "age_label": "59"
+          "age_label": "59",
+          "ordinary_annual_mortality_percent": [
+            1.65,
+            2.24
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -1374,14 +1578,18 @@
           "personality": "Quick, numerate organiser who rewards delivery; sees political arguments as incentive problems and sometimes misses questions of dignity.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             71,
             71
           ],
-          "age_label": "71"
+          "age_label": "71",
+          "ordinary_annual_mortality_percent": [
+            4.98,
+            6.64
+          ]
         },
         {
           "id": "varnelle-2",
@@ -1396,14 +1604,18 @@
           "personality": "Practical estuary commander; integrates patrols and flood works and refuses to strip civilian pumps for prestige operations.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             46,
             46
           ],
-          "age_label": "46"
+          "age_label": "46",
+          "ordinary_annual_mortality_percent": [
+            0.64,
+            0.86
+          ]
         },
         {
           "id": "varnelle-3",
@@ -1418,14 +1630,18 @@
           "personality": "Reserved institutional loyalist; protects continuity and competent staff, sometimes confuses established practice with necessity.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             36,
             36
           ],
-          "age_label": "36"
+          "age_label": "36",
+          "ordinary_annual_mortality_percent": [
+            0.39,
+            0.46
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -1455,14 +1671,18 @@
           "personality": "Polished exporter who treats coercive estate obligations as normal costs of order; dislikes scrutiny of how profit is made.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             59,
             59
           ],
-          "age_label": "59"
+          "age_label": "59",
+          "ordinary_annual_mortality_percent": [
+            1.65,
+            2.24
+          ]
         },
         {
           "id": "kelbrun-2",
@@ -1477,14 +1697,18 @@
           "personality": "Orderly route-security officer; too willing to call an employer's dispute a security emergency.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             58,
             58
           ],
-          "age_label": "58"
+          "age_label": "58",
+          "ordinary_annual_mortality_percent": [
+            1.52,
+            2.06
+          ]
         },
         {
           "id": "kelbrun-3",
@@ -1499,14 +1723,18 @@
           "personality": "Sharp critic of waste; listens to practitioners but can humiliate officials whose figures do not add up.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             45,
             45
           ],
-          "age_label": "45"
+          "age_label": "45",
+          "ordinary_annual_mortality_percent": [
+            0.6,
+            0.81
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -1536,14 +1764,18 @@
           "personality": "Gracious host and tireless patronage broker; offers access freely but expects every favour returned.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             60,
             60
           ],
-          "age_label": "60"
+          "age_label": "60",
+          "ordinary_annual_mortality_percent": [
+            1.8,
+            2.43
+          ]
         },
         {
           "id": "gavrel-2",
@@ -1558,14 +1790,18 @@
           "personality": "Patient mediator between proud captains; keeps exact contingent obligations and resents blame for forces never pledged.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             56,
             56
           ],
-          "age_label": "56"
+          "age_label": "56",
+          "ordinary_annual_mortality_percent": [
+            1.29,
+            1.76
+          ]
         },
         {
           "id": "gavrel-3",
@@ -1580,14 +1816,18 @@
           "personality": "Patient organiser with a talent for reassuring rivals; risks promising incompatible groups more than can be delivered.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             50,
             50
           ],
-          "age_label": "50"
+          "age_label": "50",
+          "ordinary_annual_mortality_percent": [
+            0.83,
+            1.13
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -1617,14 +1857,18 @@
           "personality": "Genial toll negotiator who dislikes unpredictability more than inequality; notices tenant petitions when they threaten the harvest.",
           "remit": "Speaks for the named local institution only; not sovereign over the combined geographic return.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             42,
             42
           ],
-          "age_label": "42"
+          "age_label": "42",
+          "ordinary_annual_mortality_percent": [
+            0.51,
+            0.66
+          ]
         },
         {
           "id": "other-otranto-400-2",
@@ -1639,14 +1883,18 @@
           "personality": "Watchful coastal officer who distrusts private checkpoints and demands written authority for disputed seizures.",
           "remit": "Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             59,
             59
           ],
-          "age_label": "59"
+          "age_label": "59",
+          "ordinary_annual_mortality_percent": [
+            1.65,
+            2.24
+          ]
         },
         {
           "id": "other-otranto-400-3",
@@ -1661,14 +1909,18 @@
           "personality": "Careful procedural negotiator; remembers promises and resists shortcuts, but can let consultation become delay.",
           "remit": "Represents the separate local authority named in the office; not a national deputy.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             39,
             39
           ],
-          "age_label": "39"
+          "age_label": "39",
+          "ordinary_annual_mortality_percent": [
+            0.44,
+            0.54
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -1698,14 +1950,18 @@
           "personality": "Precise advocate of witnessed weights and town privileges; less attentive to households outside the charter.",
           "remit": "Speaks for the named local institution only; not sovereign over the combined geographic return.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             53,
             53
           ],
-          "age_label": "53"
+          "age_label": "53",
+          "ordinary_annual_mortality_percent": [
+            1.03,
+            1.4
+          ]
         },
         {
           "id": "other-otranto-700-2",
@@ -1720,14 +1976,18 @@
           "personality": "Steady guard officer who avoids escort-fee feuds and prefers negotiated passage to proving a point by force.",
           "remit": "Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             64,
             64
           ],
-          "age_label": "64"
+          "age_label": "64",
+          "ordinary_annual_mortality_percent": [
+            2.55,
+            3.48
+          ]
         },
         {
           "id": "other-otranto-700-3",
@@ -1742,14 +2002,18 @@
           "personality": "Bright and impatient reformer; wants transparent accounts, yet underestimates the allies needed to pass them.",
           "remit": "Represents the separate local authority named in the office; not a national deputy.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             50,
             50
           ],
-          "age_label": "50"
+          "age_label": "50",
+          "ordinary_annual_mortality_percent": [
+            0.83,
+            1.13
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -1779,14 +2043,18 @@
           "personality": "Patient mediator who believes measurement can settle almost anything; slow to recognise deliberate bad faith.",
           "remit": "Speaks for the named local institution only; not sovereign over the combined geographic return.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             73,
             73
           ],
-          "age_label": "73"
+          "age_label": "73",
+          "ordinary_annual_mortality_percent": [
+            6.1,
+            7.97
+          ]
         },
         {
           "id": "other-otranto-1100-2",
@@ -1801,14 +2069,18 @@
           "personality": "Exacting keeper of gates and stores; defends release obligations and treats reckless mobilisation as a threat to planting.",
           "remit": "Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             48,
             48
           ],
-          "age_label": "48"
+          "age_label": "48",
+          "ordinary_annual_mortality_percent": [
+            0.73,
+            0.99
+          ]
         },
         {
           "id": "other-otranto-1100-3",
@@ -1823,14 +2095,18 @@
           "personality": "Affable coalition broker; good at restoring working relations, less willing to confront profitable abuses.",
           "remit": "Represents the separate local authority named in the office; not a national deputy.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             56,
             56
           ],
-          "age_label": "56"
+          "age_label": "56",
+          "ordinary_annual_mortality_percent": [
+            1.29,
+            1.76
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -1860,14 +2136,18 @@
           "personality": "Charming creditor-politician who favours predictable shipping law, but confuses legal foreclosures with fair ones.",
           "remit": "Speaks for the named local institution only; not sovereign over the combined geographic return.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             71,
             71
           ],
-          "age_label": "71"
+          "age_label": "71",
+          "ordinary_annual_mortality_percent": [
+            4.98,
+            6.64
+          ]
         },
         {
           "id": "other-otranto-1450-2",
@@ -1882,14 +2162,18 @@
           "personality": "Terse escort veteran; dislikes debt seizures disguised as patrol work and favours sailings honouring common notices.",
           "remit": "Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             66,
             66
           ],
-          "age_label": "66"
+          "age_label": "66",
+          "ordinary_annual_mortality_percent": [
+            3.06,
+            4.18
+          ]
         },
         {
           "id": "other-otranto-1450-3",
@@ -1904,14 +2188,18 @@
           "personality": "Reserved institutional loyalist; protects continuity and competent staff, sometimes confuses established practice with necessity.",
           "remit": "Represents the separate local authority named in the office; not a national deputy.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             39,
             39
           ],
-          "age_label": "39"
+          "age_label": "39",
+          "ordinary_annual_mortality_percent": [
+            0.44,
+            0.54
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -1941,14 +2229,18 @@
           "personality": "Meticulous jurist with stubborn faith in documented obligations; underestimates intimidation outside the archive.",
           "remit": "Speaks for the named local institution only; not sovereign over the combined geographic return.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             72,
             72
           ],
-          "age_label": "72"
+          "age_label": "72",
+          "ordinary_annual_mortality_percent": [
+            5.51,
+            7.27
+          ]
         },
         {
           "id": "other-morholt-1880-2",
@@ -1963,14 +2255,18 @@
           "personality": "Hard, suspicious officer who accepts escrow because it reopened work; resents inspectors questioning his men.",
           "remit": "Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             48,
             48
           ],
-          "age_label": "48"
+          "age_label": "48",
+          "ordinary_annual_mortality_percent": [
+            0.73,
+            0.99
+          ]
         },
         {
           "id": "other-morholt-1880-3",
@@ -1985,14 +2281,18 @@
           "personality": "Sharp critic of waste; listens to practitioners but can humiliate officials whose figures do not add up.",
           "remit": "Represents the separate local authority named in the office; not a national deputy.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             51,
             51
           ],
-          "age_label": "51"
+          "age_label": "51",
+          "ordinary_annual_mortality_percent": [
+            0.89,
+            1.21
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -2022,14 +2322,18 @@
           "personality": "Gruff provider who views shelter as a debt; becomes defensive when village accounts contradict fortress stores.",
           "remit": "Speaks for the named local institution only; not sovereign over the combined geographic return.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             44,
             44
           ],
-          "age_label": "44"
+          "age_label": "44",
+          "ordinary_annual_mortality_percent": [
+            0.56,
+            0.76
+          ]
         },
         {
           "id": "other-morholt-2190-2",
@@ -2044,14 +2348,18 @@
           "personality": "Disciplined winter commander; protects evacuation routes and opposes permanent claims disguised as emergency requisitions.",
           "remit": "Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             50,
             50
           ],
-          "age_label": "50"
+          "age_label": "50",
+          "ordinary_annual_mortality_percent": [
+            0.83,
+            1.13
+          ]
         },
         {
           "id": "other-morholt-2190-3",
@@ -2066,14 +2374,18 @@
           "personality": "Patient organiser with a talent for reassuring rivals; risks promising incompatible groups more than can be delivered.",
           "remit": "Represents the separate local authority named in the office; not a national deputy.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             59,
             59
           ],
-          "age_label": "59"
+          "age_label": "59",
+          "ordinary_annual_mortality_percent": [
+            1.65,
+            2.24
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -2103,14 +2415,18 @@
           "personality": "Soft-spoken organiser who remembers fishing families; protects port privileges before wider reform.",
           "remit": "Speaks for the named local institution only; not sovereign over the combined geographic return.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             62,
             62
           ],
-          "age_label": "62"
+          "age_label": "62",
+          "ordinary_annual_mortality_percent": [
+            2.14,
+            2.91
+          ]
         },
         {
           "id": "other-morholt-2630-2",
@@ -2125,14 +2441,18 @@
           "personality": "Direct coastal officer; recognises customary landings and dislikes bailiffs seeking naval help in private disputes.",
           "remit": "Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             42,
             42
           ],
-          "age_label": "42"
+          "age_label": "42",
+          "ordinary_annual_mortality_percent": [
+            0.51,
+            0.66
+          ]
         },
         {
           "id": "other-morholt-2630-3",
@@ -2147,14 +2467,18 @@
           "personality": "Careful procedural negotiator; remembers promises and resists shortcuts, but can let consultation become delay.",
           "remit": "Represents the separate local authority named in the office; not a national deputy.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             35,
             35
           ],
-          "age_label": "35"
+          "age_label": "35",
+          "ordinary_annual_mortality_percent": [
+            0.37,
+            0.43
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -2184,14 +2508,18 @@
           "personality": "Witty customs negotiator who wins narrow agreements; uses foreign warehouse money without admitting dependence.",
           "remit": "Speaks for the named local institution only; not sovereign over the combined geographic return.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             48,
             48
           ],
-          "age_label": "48"
+          "age_label": "48",
+          "ordinary_annual_mortality_percent": [
+            0.73,
+            0.99
+          ]
         },
         {
           "id": "other-vesalius-2790-2",
@@ -2206,14 +2534,18 @@
           "personality": "Proud road officer who values written orders; can mistake holding a bridge for authority over regional politics.",
           "remit": "Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             61,
             61
           ],
-          "age_label": "61"
+          "age_label": "61",
+          "ordinary_annual_mortality_percent": [
+            1.96,
+            2.66
+          ]
         },
         {
           "id": "other-vesalius-2790-3",
@@ -2228,14 +2560,18 @@
           "personality": "Bright and impatient reformer; wants transparent accounts, yet underestimates the allies needed to pass them.",
           "remit": "Represents the separate local authority named in the office; not a national deputy.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             57,
             57
           ],
-          "age_label": "57"
+          "age_label": "57",
+          "ordinary_annual_mortality_percent": [
+            1.41,
+            1.9
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -2265,14 +2601,18 @@
           "personality": "Plain-spoken defender of granary accounts; distrusts speeches and accepts slow compromise if receipts are honoured.",
           "remit": "Speaks for the named local institution only; not sovereign over the combined geographic return.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             68,
             68
           ],
-          "age_label": "68"
+          "age_label": "68",
+          "ordinary_annual_mortality_percent": [
+            3.71,
+            5.04
+          ]
         },
         {
           "id": "other-vesalius-2790-1410-2",
@@ -2287,14 +2627,18 @@
           "personality": "Impatient but pragmatic administrator; accepts requisition limits because confiscation was destroying cooperation.",
           "remit": "Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             62,
             62
           ],
-          "age_label": "62"
+          "age_label": "62",
+          "ordinary_annual_mortality_percent": [
+            2.14,
+            2.91
+          ]
         },
         {
           "id": "other-vesalius-2790-1410-3",
@@ -2309,14 +2653,18 @@
           "personality": "Affable coalition broker; good at restoring working relations, less willing to confront profitable abuses.",
           "remit": "Represents the separate local authority named in the office; not a national deputy.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             49,
             49
           ],
-          "age_label": "49"
+          "age_label": "49",
+          "ordinary_annual_mortality_percent": [
+            0.78,
+            1.06
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -2346,14 +2694,18 @@
           "personality": "Friendly, guarded negotiator; shares storm warnings willingly but protects commercial advantages.",
           "remit": "Speaks for the named local institution only; not sovereign over the combined geographic return.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             60,
             60
           ],
-          "age_label": "60"
+          "age_label": "60",
+          "ordinary_annual_mortality_percent": [
+            1.8,
+            2.43
+          ]
         },
         {
           "id": "other-vesalius-3160-2",
@@ -2368,14 +2720,18 @@
           "personality": "Adaptable navigator who works through pilots and consent; rejects visiting officers who dismiss local waters.",
           "remit": "Commands only forces assigned by the named local authority or consenting members; not the whole combined geographic army.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             61,
             61
           ],
-          "age_label": "61"
+          "age_label": "61",
+          "ordinary_annual_mortality_percent": [
+            1.96,
+            2.66
+          ]
         },
         {
           "id": "other-vesalius-3160-3",
@@ -2390,14 +2746,18 @@
           "personality": "Reserved institutional loyalist; protects continuity and competent staff, sometimes confuses established practice with necessity.",
           "remit": "Represents the separate local authority named in the office; not a national deputy.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             47,
             47
           ],
-          "age_label": "47"
+          "age_label": "47",
+          "ordinary_annual_mortality_percent": [
+            0.68,
+            0.92
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -2427,14 +2787,18 @@
           "personality": "Dry, testing negotiator who values demonstrated expertise; wants another outlet without exchanging one dependency for another.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             42,
             42
           ],
-          "age_label": "42"
+          "age_label": "42",
+          "ordinary_annual_mortality_percent": [
+            0.51,
+            0.66
+          ]
         },
         {
           "id": "karsenne-2",
@@ -2449,14 +2813,18 @@
           "personality": "Prudent pass-defence specialist; refuses to promise council troops and distrusts allies who treat roads like railways.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             54,
             54
           ],
-          "age_label": "54"
+          "age_label": "54",
+          "ordinary_annual_mortality_percent": [
+            1.11,
+            1.51
+          ]
         },
         {
           "id": "karsenne-3",
@@ -2471,14 +2839,18 @@
           "personality": "Sharp critic of waste; listens to practitioners but can humiliate officials whose figures do not add up.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             50,
             50
           ],
-          "age_label": "50"
+          "age_label": "50",
+          "ordinary_annual_mortality_percent": [
+            0.83,
+            1.13
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -2508,14 +2880,18 @@
           "personality": "Composed dynastic nationalist; studies opponents, rewards useful initiative and sees public concessions as dangerous precedents.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             73,
             73
           ],
-          "age_label": "73"
+          "age_label": "73",
+          "ordinary_annual_mortality_percent": [
+            6.1,
+            7.97
+          ]
         },
         {
           "id": "caldrienne-2",
@@ -2530,14 +2906,18 @@
           "personality": "Ambitious artillery professional; favours calculated local pressure but will not abandon other garrisons for Cressault.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             44,
             44
           ],
-          "age_label": "44"
+          "age_label": "44",
+          "ordinary_annual_mortality_percent": [
+            0.56,
+            0.76
+          ]
         },
         {
           "id": "caldrienne-3",
@@ -2552,14 +2932,18 @@
           "personality": "Patient organiser with a talent for reassuring rivals; risks promising incompatible groups more than can be delivered.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             37,
             37
           ],
-          "age_label": "37"
+          "age_label": "37",
+          "ordinary_annual_mortality_percent": [
+            0.4,
+            0.48
+          ]
         },
         {
           "id": "caldrienne-heir",
@@ -2581,7 +2965,11 @@
             33,
             33
           ],
-          "age_label": "33"
+          "age_label": "33",
+          "ordinary_annual_mortality_percent": [
+            0.35,
+            0.39
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -2611,14 +2999,18 @@
           "personality": "Competent, controlled and possessive patron; measures welfare by usefulness and rank, tolerates harsh labour enforcement and expects gratitude to become obedience.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "Existing name, age range, role and characterisation preserved; previously unspecified visual details completed here.",
           "age_current": [
             51,
             52
           ],
-          "age_label": "51–52"
+          "age_label": "51–52",
+          "ordinary_annual_mortality_percent": [
+            0.89,
+            1.3
+          ]
         },
         {
           "id": "veyrasse-2",
@@ -2633,14 +3025,18 @@
           "personality": "Decent professional who protects trained troops; prizes prepared positions, artillery and rail supply rather than glory.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "Existing name, age range, role and characterisation preserved; previously unspecified visual details completed here.",
           "age_current": [
             63,
             64
           ],
-          "age_label": "63–64"
+          "age_label": "63–64",
+          "ordinary_annual_mortality_percent": [
+            2.34,
+            3.48
+          ]
         },
         {
           "id": "veyrasse-3",
@@ -2655,14 +3051,18 @@
           "personality": "Exacting mobilisation and supply planner; listens closely, corrects inflated assumptions and values demonstrated competence.",
           "remit": "Chief of general staff; acting military coordinator after Vaucerin pending the Margrave’s permanent appointment. Not deputy sovereign.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "Existing name, age range, role and characterisation preserved; previously unspecified visual details completed here.",
           "age_current": [
             49,
             50
           ],
-          "age_label": "49–50"
+          "age_label": "49–50",
+          "ordinary_annual_mortality_percent": [
+            0.78,
+            1.13
+          ]
         },
         {
           "id": "veyrasse-heir",
@@ -2684,7 +3084,11 @@
             26,
             27
           ],
-          "age_label": "26–27"
+          "age_label": "26–27",
+          "ordinary_annual_mortality_percent": [
+            0.31,
+            0.34
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -2714,14 +3118,18 @@
           "personality": "Suave coalition-builder receptive to profitable engineering; mistakes commercial confidence for general consent and conceals family bargains.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             44,
             44
           ],
-          "age_label": "44"
+          "age_label": "44",
+          "ordinary_annual_mortality_percent": [
+            0.56,
+            0.76
+          ]
         },
         {
           "id": "calvernis-2",
@@ -2736,14 +3144,18 @@
           "personality": "Sceptical naval professional; protects repair capacity and requires funded provision before distant commitments.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             58,
             58
           ],
-          "age_label": "58"
+          "age_label": "58",
+          "ordinary_annual_mortality_percent": [
+            1.52,
+            2.06
+          ]
         },
         {
           "id": "calvernis-3",
@@ -2758,14 +3170,18 @@
           "personality": "Bright and impatient reformer; wants transparent accounts, yet underestimates the allies needed to pass them.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             51,
             51
           ],
-          "age_label": "51"
+          "age_label": "51",
+          "ordinary_annual_mortality_percent": [
+            0.89,
+            1.21
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -2795,14 +3211,18 @@
           "personality": "Reserved guardian of island independence; tolerates ambiguous maritime dealings but requires deniability and dependable provisioning.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             46,
             46
           ],
-          "age_label": "46"
+          "age_label": "46",
+          "ordinary_annual_mortality_percent": [
+            0.64,
+            0.86
+          ]
         },
         {
           "id": "ceralte-2",
@@ -2817,14 +3237,18 @@
           "personality": "Sharp-eyed littoral specialist; favours pilots and small craft, regards a grand land campaign as dangerous vanity.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             61,
             61
           ],
-          "age_label": "61"
+          "age_label": "61",
+          "ordinary_annual_mortality_percent": [
+            1.96,
+            2.66
+          ]
         },
         {
           "id": "ceralte-3",
@@ -2839,14 +3263,18 @@
           "personality": "Affable coalition broker; good at restoring working relations, less willing to confront profitable abuses.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             51,
             51
           ],
-          "age_label": "51"
+          "age_label": "51",
+          "ordinary_annual_mortality_percent": [
+            0.89,
+            1.21
+          ]
         },
         {
           "id": "ceralte-heir",
@@ -2868,7 +3296,11 @@
             23,
             23
           ],
-          "age_label": "23"
+          "age_label": "23",
+          "ordinary_annual_mortality_percent": [
+            0.29,
+            0.33
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -2898,14 +3330,18 @@
           "personality": "Warm, tenacious speaker who welcomes trade but treats freshwater ownership as beyond purchase.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             51,
             51
           ],
-          "age_label": "51"
+          "age_label": "51",
+          "ordinary_annual_mortality_percent": [
+            0.89,
+            1.21
+          ]
         },
         {
           "id": "varessan-2",
@@ -2920,14 +3356,18 @@
           "personality": "Collaborative convoy captain who trusts local officers; slow to centralise even when weather demands speed.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             67,
             67
           ],
-          "age_label": "67"
+          "age_label": "67",
+          "ordinary_annual_mortality_percent": [
+            3.37,
+            4.59
+          ]
         },
         {
           "id": "varessan-3",
@@ -2942,14 +3382,18 @@
           "personality": "Reserved institutional loyalist; protects continuity and competent staff, sometimes confuses established practice with necessity.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             33,
             33
           ],
-          "age_label": "33"
+          "age_label": "33",
+          "ordinary_annual_mortality_percent": [
+            0.35,
+            0.39
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -2979,14 +3423,18 @@
           "personality": "Articulate administrator concerned with legal defensibility; grants relief to preserve exports, not equal political standing.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             43,
             43
           ],
-          "age_label": "43"
+          "age_label": "43",
+          "ordinary_annual_mortality_percent": [
+            0.53,
+            0.7
+          ]
         },
         {
           "id": "talasca-2",
@@ -3001,14 +3449,18 @@
           "personality": "Controlled career officer who prefers restraint to an expensive revolt, but ultimately protects colonial administration.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             46,
             46
           ],
-          "age_label": "46"
+          "age_label": "46",
+          "ordinary_annual_mortality_percent": [
+            0.64,
+            0.86
+          ]
         },
         {
           "id": "talasca-3",
@@ -3023,14 +3475,18 @@
           "personality": "Sharp critic of waste; listens to practitioners but can humiliate officials whose figures do not add up.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             42,
             42
           ],
-          "age_label": "42"
+          "age_label": "42",
+          "ordinary_annual_mortality_percent": [
+            0.51,
+            0.66
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -3060,14 +3516,18 @@
           "personality": "Measured reformer who wants technical colleges without breaking compacts; impatient with ceremony, careful over land rights.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             61,
             61
           ],
-          "age_label": "61"
+          "age_label": "61",
+          "ordinary_annual_mortality_percent": [
+            1.96,
+            2.66
+          ]
         },
         {
           "id": "nemerai-2",
@@ -3082,14 +3542,18 @@
           "personality": "Conscientious navigator who values fitters and consent; rejects fleet expansion without maintenance capacity.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             45,
             45
           ],
-          "age_label": "45"
+          "age_label": "45",
+          "ordinary_annual_mortality_percent": [
+            0.6,
+            0.81
+          ]
         },
         {
           "id": "nemerai-3",
@@ -3104,14 +3568,18 @@
           "personality": "Patient organiser with a talent for reassuring rivals; risks promising incompatible groups more than can be delivered.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             49,
             49
           ],
-          "age_label": "49"
+          "age_label": "49",
+          "ordinary_annual_mortality_percent": [
+            0.78,
+            1.06
+          ]
         },
         {
           "id": "nemerai-heir",
@@ -3133,7 +3601,11 @@
             30,
             30
           ],
-          "age_label": "30"
+          "age_label": "30",
+          "ordinary_annual_mortality_percent": [
+            0.33,
+            0.35
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -3163,14 +3635,18 @@
           "personality": "Practical provisioning administrator who listens until land ownership is questioned; fears isolation more than criticism.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             60,
             60
           ],
-          "age_label": "60"
+          "age_label": "60",
+          "ordinary_annual_mortality_percent": [
+            1.8,
+            2.43
+          ]
         },
         {
           "id": "ordelune-2",
@@ -3185,14 +3661,18 @@
           "personality": "Unpretentious stores officer; protects roofs and grain before parades, distrusts distant promises.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             67,
             67
           ],
-          "age_label": "67"
+          "age_label": "67",
+          "ordinary_annual_mortality_percent": [
+            3.37,
+            4.59
+          ]
         },
         {
           "id": "ordelune-3",
@@ -3207,14 +3687,18 @@
           "personality": "Careful procedural negotiator; remembers promises and resists shortcuts, but can let consultation become delay.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             50,
             50
           ],
-          "age_label": "50"
+          "age_label": "50",
+          "ordinary_annual_mortality_percent": [
+            0.83,
+            1.13
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -3244,14 +3728,18 @@
           "personality": "Patient listener with fierce reciprocal duty; distrusts officials who cannot be recalled to a hearth meeting.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             72,
             72
           ],
-          "age_label": "72"
+          "age_label": "72",
+          "ordinary_annual_mortality_percent": [
+            5.51,
+            7.27
+          ]
         },
         {
           "id": "skeldra-2",
@@ -3266,14 +3754,18 @@
           "personality": "Resourceful rescue captain, courageous in weather and cautious about foreign wars; relies too heavily on personal promises.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             47,
             47
           ],
-          "age_label": "47"
+          "age_label": "47",
+          "ordinary_annual_mortality_percent": [
+            0.68,
+            0.92
+          ]
         },
         {
           "id": "skeldra-3",
@@ -3288,14 +3780,18 @@
           "personality": "Bright and impatient reformer; wants transparent accounts, yet underestimates the allies needed to pass them.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             51,
             51
           ],
-          "age_label": "51"
+          "age_label": "51",
+          "ordinary_annual_mortality_percent": [
+            0.89,
+            1.21
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -3325,14 +3821,18 @@
           "personality": "Persuasive centrist balancing cooperatives and insurers; wants efficient services but avoids a divisive franchise fight.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             71,
             71
           ],
-          "age_label": "71"
+          "age_label": "71",
+          "ordinary_annual_mortality_percent": [
+            4.98,
+            6.64
+          ]
         },
         {
           "id": "merovia-2",
@@ -3347,14 +3847,18 @@
           "personality": "Competent yard officer who argues for maintenance before new hulls; expects escort beneficiaries to contribute.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             44,
             44
           ],
-          "age_label": "44"
+          "age_label": "44",
+          "ordinary_annual_mortality_percent": [
+            0.56,
+            0.76
+          ]
         },
         {
           "id": "merovia-3",
@@ -3369,14 +3873,18 @@
           "personality": "Affable coalition broker; good at restoring working relations, less willing to confront profitable abuses.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             46,
             46
           ],
-          "age_label": "46"
+          "age_label": "46",
+          "ordinary_annual_mortality_percent": [
+            0.64,
+            0.86
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -3406,14 +3914,18 @@
           "personality": "Amicable but immovable on common land; welcomes useful machinery, dislikes creditors equating restraint with backwardness.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             49,
             49
           ],
-          "age_label": "49"
+          "age_label": "49",
+          "ordinary_annual_mortality_percent": [
+            0.78,
+            1.06
+          ]
         },
         {
           "id": "ashalai-2",
@@ -3428,14 +3940,18 @@
           "personality": "Observant pilot who favours dispersed stores and rescue cooperation; fears concentrating engines in one port.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             67,
             67
           ],
-          "age_label": "67"
+          "age_label": "67",
+          "ordinary_annual_mortality_percent": [
+            3.37,
+            4.59
+          ]
         },
         {
           "id": "ashalai-3",
@@ -3450,14 +3966,18 @@
           "personality": "Reserved institutional loyalist; protects continuity and competent staff, sometimes confuses established practice with necessity.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             42,
             42
           ],
-          "age_label": "42"
+          "age_label": "42",
+          "ordinary_annual_mortality_percent": [
+            0.51,
+            0.66
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -3487,14 +4007,18 @@
           "personality": "Cultured patron cultivating several foreign partners; accepts scrutiny grudgingly and enjoys being credited for compromise.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             41,
             41
           ],
-          "age_label": "41"
+          "age_label": "41",
+          "ordinary_annual_mortality_percent": [
+            0.48,
+            0.61
+          ]
         },
         {
           "id": "istrana-2",
@@ -3509,14 +4033,18 @@
           "personality": "Economical commander who values inspected repairs; resists ornamental court acquisitions.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             66,
             66
           ],
-          "age_label": "66"
+          "age_label": "66",
+          "ordinary_annual_mortality_percent": [
+            3.06,
+            4.18
+          ]
         },
         {
           "id": "istrana-3",
@@ -3531,14 +4059,18 @@
           "personality": "Sharp critic of waste; listens to practitioners but can humiliate officials whose figures do not add up.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             54,
             54
           ],
-          "age_label": "54"
+          "age_label": "54",
+          "ordinary_annual_mortality_percent": [
+            1.11,
+            1.51
+          ]
         },
         {
           "id": "istrana-heir",
@@ -3560,7 +4092,11 @@
             22,
             22
           ],
-          "age_label": "22"
+          "age_label": "22",
+          "ordinary_annual_mortality_percent": [
+            0.28,
+            0.32
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -3590,14 +4126,18 @@
           "personality": "Unsentimental timber administrator who keeps winter-delivery promises; concessions are negotiable, sovereignty less so.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             47,
             47
           ],
-          "age_label": "47"
+          "age_label": "47",
+          "ordinary_annual_mortality_percent": [
+            0.68,
+            0.92
+          ]
         },
         {
           "id": "edrask-2",
@@ -3612,14 +4152,18 @@
           "personality": "Patient cold-water officer who works with visiting crews without claiming their ships; respects pilots over ceremony.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             67,
             67
           ],
-          "age_label": "67"
+          "age_label": "67",
+          "ordinary_annual_mortality_percent": [
+            3.37,
+            4.59
+          ]
         },
         {
           "id": "edrask-3",
@@ -3634,14 +4178,18 @@
           "personality": "Patient organiser with a talent for reassuring rivals; risks promising incompatible groups more than can be delivered.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             37,
             37
           ],
-          "age_label": "37"
+          "age_label": "37",
+          "ordinary_annual_mortality_percent": [
+            0.4,
+            0.48
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",
@@ -3671,14 +4219,18 @@
           "personality": "Quiet, shrewd negotiator who lets outsiders talk too long; judges policy by whether isolated families can reach refuge.",
           "remit": "Leads civil administration and foreign representation within the institutional limits below.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             61,
             61
           ],
-          "age_label": "61"
+          "age_label": "61",
+          "ordinary_annual_mortality_percent": [
+            1.96,
+            2.66
+          ]
         },
         {
           "id": "norrakai-2",
@@ -3693,14 +4245,18 @@
           "personality": "Calm rescue organiser who knows every engine; postpones prestige voyages to preserve fuel.",
           "remit": "Professional direction of assigned forces, subject to civil appointment and authorised supply.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             52,
             52
           ],
-          "age_label": "52"
+          "age_label": "52",
+          "ordinary_annual_mortality_percent": [
+            0.96,
+            1.3
+          ]
         },
         {
           "id": "norrakai-3",
@@ -3715,14 +4271,18 @@
           "personality": "Careful procedural negotiator; remembers promises and resists shortcuts, but can let consultation become delay.",
           "remit": "Coordinates routine civil administration during an executive vacancy; permanent mandate must be lawfully conferred.",
           "status": "alive",
-          "health": "No disabling condition established; age alone is not a diagnosis.",
+          "health": "No disabling condition established; ordinary age-related mortality still applies.",
           "baseline_date": "05/11/0068 AC43",
           "provenance": "New campaign character; no prior encounter with Galahad implied.",
           "age_current": [
             54,
             54
           ],
-          "age_label": "54"
+          "age_label": "54",
+          "ordinary_annual_mortality_percent": [
+            1.11,
+            1.51
+          ]
         }
       ],
       "military_replacement": "Civil appointing authority selects a qualified officer; record a named acting commander immediately and a permanent successor after decision. The successor must have a complete profile.",

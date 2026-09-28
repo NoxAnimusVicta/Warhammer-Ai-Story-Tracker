@@ -20,9 +20,9 @@ Historical Drossane accommodation, cancelled commission context and repeated fro
 
 ## National social records
 
-All 43 disjoint national, divided and colonial returns now use the source-derived model documented in [SOCIAL-CONDITIONS.md](SOCIAL-CONDITIONS.md). Exchange 612 supersedes the rejected author-assigned scores and invented household distributions. Old inputs survive in the private audit backup and exact history only. Current national accounts drive per-resident output and service capacity, technological provision, fiscal resilience and output trend; reviewed political and theatre evidence supplies explicit bands. Unknown safeguards remain visibly uncertain.
+All 43 disjoint national, divided and colonial returns now use household-budgets-2. Exchanges 620–623 supersede the previous provision-capacity proxy. [DEVELOPMENT-REFERENCE.md](DEVELOPMENT-REFERENCE.md) records explicitly estimated household wages, essential costs, employment, distribution, service access, national lifespan and ordinary technical development. [SOCIAL-CONDITIONS.md](SOCIAL-CONDITIONS.md) retains political evidence and explains the sentiment indicators. Initial household estimates are provisional and dated, not census observations. National GDP and technology no longer automatically become household welfare.
 
-social-conditions.json stores fixed calibration anchors and political evidence, not hand-set headline scores. social-reviews.json accepts dated evidence changes with old-value validation and excludes future events. Source changes require review; no legal rights or unrest events are invented by the calculation. Existing financial, demographic and military facts are unchanged.
+The preserved social-conditions.json contains the former model's calibration and the still-valid political evidence; current results use the maintained household model. Dated social reviews still require old-value matches and changed-source review. development-baseline.json and development-reviews.json add annual coverage checks for all 43 returns. Missing reviews stop a year rollover. Established financial, demographic and military source figures are unchanged.
 
 National comparisons now have four consistent groups: living conditions; economy and public accounts; armed forces; technology. All existing comparison rows are retained. Rankings include the four social measures, with unrest explicitly marked highest-first rather than best-first. Aggregates and colonies retain their scope labels and existing inclusion control.
 
@@ -54,3 +54,14 @@ Relationships now contain individually expandable people and networks, grouped b
 Verification included text-retention comparison across all six tabs, all 44 nation/territory selector choices, population-return placement, profile switching, government biographies, treasury breakdowns, national comparisons, settlement comparisons and journey details, the census, conflicts, project entries and Chronicle chapters. Desktop and 430-by-932 responsive previews were inspected, including expanded-map controls and estate art. No browser script errors were observed. Reader, disclosure, audit-preservation, government, settlement-travel, map-navigation and estate-viewer checks passed. These are responsive browser checks, not physical-iPhone tests.
 
 This revision changes presentation and the one review-date label only. It does not advance the story or alter population, economic, government, military, route, project or character source data. No unique prose was removed to shorten the interface.
+
+
+## Corrections and development model — exchanges 620–623
+
+The commission paragraph now treats a bold phrase in the middle of a sentence as inline text, rather than a section label. National disclosure gaps are consistently 16 pixels on desktop and 12 pixels at phone width, including the transitions into comparison and ranking.
+
+Technology has its own national record with 15 practical fields, source capabilities, specialties, constraints and separate annual ranges for incremental engineering improvement and adoption of demonstrated methods. Original eight capability ratings are preserved; derived fields do not invent unrecorded breakthroughs. Annual reviews reconcile progress and losses against existing production and spending rather than double-counting them.
+
+Living standards now use itemised household resources and essential baskets with explicit distribution and uncertainty. Public sentiment, safeguards and material conditions remain distinct. National life expectancy varies with household conditions, ordinary care and clean water; biographies carry interwar age-related mortality bands. Ordinary humans have no presumed life extension. Partial-year leadership reviews require correctly bounded age and exposure periods; deaths need recorded events and profiled successors.
+
+Source-preservation and model tests cover all 43 returns, all 140 biographies, household wage/price/employment/distribution effects, service-access effects on lifespan, age mortality, repeatable builds, future-event exclusion, old-value validation and incomplete annual reviews. The published narrative milestone and all existing population, financial, military and project records are preserved.

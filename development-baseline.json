@@ -1,0 +1,3274 @@
+{
+  "schema": 1,
+  "date": "05/11/0068 AC43",
+  "profiles": [
+    {
+      "id": "veldrassen",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 17.55,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 6.0,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.5
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 29.61,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 6.0,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.5
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 71.29,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 6.0,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.5
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 61,
+      "water_access": 68,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 1.097 seeded from relative output per resident. Industrial basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Veldrassen is a composite monarchy whose mountain court at Cavrelisse presides over provinces ranging from tropical cultivation to cold industrial uplands. Mondessore's locomotive works and a large railway economy give the crown considerable military weight; provincial estates nevertheless control much of the revenue and recruitment on which it depends. The lowlands sell food and forest products uphill, while machinery and government contracts travel back down. Coal exports and heavy engineering sustain foreign influence. Court ceremony presents this diversity as unity, but extraordinary levies still require bargaining. Cervaud is a neighbouring buffer and customer, not a province awaiting effortless annexation. Valdorelle provides a charted coastal gateway, with defended access to Latosane. A provincial coastal dependency with fishing villages and navigation stations supplied from Valdorelle.",
+      "technology_drivers": {
+        "research_capacity": 0.339,
+        "investment_capacity": 0.543,
+        "exchange": 0.75,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 2.72 and public works 8.15 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "ostrevain",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 14.56,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 24.57,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 59.15,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 52,
+      "water_access": 48,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.910 seeded from relative output per resident. Mixed basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Ostrevain is an agricultural monarchy attempting to turn crop surpluses and a large population into industrial military strength. Orsevigne holds the royal administration; Tessarone concentrates arsenal work, supported by plantation and farming railways. Landed families retain influence over recruitment and produce, while royal commissioners favour factories and central procurement. Its armed forces can draw many soldiers, but transport and imported precision equipment constrain their deployment. Cervaud offers a market and a political buffer. In daily life the contrast is between estate authority, regimented industrial wards and expanding commercial towns, rather than between a uniformly modern capital and an empty countryside. Salterivo provides a charted coastal gateway, with defended access to Yssois. Royal coastal dependency with a governor, local fishing communities and an agricultural resupply station. Charted island harbours: Villessia.",
+      "technology_drivers": {
+        "research_capacity": 0.177,
+        "investment_capacity": 0.227,
+        "exchange": 0.5,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.42 and public works 3.40 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "rovessara",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 19.91,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 6.0,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.5
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 33.59,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 6.0,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.5
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 80.87,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 6.0,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.5
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 64,
+      "water_access": 64,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 1.244 seeded from relative output per resident. Industrial basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Rovessara is a merchant republic governed through commercial councils. Bellacenne houses finance and administration, Avellori supplies precision instruments and electrical apparatus, and Pellavore connects both to overseas buyers. Temperate farming districts, seasonal lowlands and a dry interior give its domestic economy several distinct faces. Banks and shipping houses can finance projects far beyond the republic, but they cannot manufacture uninterrupted sea lanes or unlimited raw materials. Its strength lies in skilled production, credit and trade rather than the largest army. Inland towns consequently matter as food suppliers and customers, not merely as lesser copies of its fashionable port cities. Republican overseas districts administered through elected harbour councils and Rovessaran customs officers. Charted island harbours: Marcavisse.",
+      "technology_drivers": {
+        "research_capacity": 0.712,
+        "investment_capacity": 0.396,
+        "exchange": 1.0,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 5.70 and public works 5.94 L-eq per resident; communication capability 5/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "brannervaux",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 15.42,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 26.02,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 62.64,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 60,
+      "water_access": 56,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.964 seeded from relative output per resident. Mixed basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Brannervaux is a federation of basin cities, landed districts and water authorities. Rivessole hosts common government; Molessac's pumping and engineering works turn the management of scarce or badly timed water into a major export industry. Productive cultivation coexists with dry rain-shadow districts dependent on imported food and controlled supplies. Members cooperate over transport, maintenance and defence while retaining powers that can delay a common decision. Trade with Veldrassen's factories and neighbouring agricultural states is extensive. The federation is confined to its own territories: neither its river institutions nor its name imply rule over Otranto as a whole.",
+      "technology_drivers": {
+        "research_capacity": 0.228,
+        "investment_capacity": 0.292,
+        "exchange": 0.75,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.82 and public works 4.38 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "cervaud",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 13.73,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 23.17,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 55.79,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 54,
+      "water_access": 48,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.858 seeded from relative output per resident. Mixed basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Cervaud is a hereditary duchy whose court and officer institutions occupy Charvessant. Vezarolle's workshops support an army unusually important to public life, but cultivated lowlands, forest produce and upland farming sustain the civilian population. The duke bargains with larger Veldrassen and Ostrevain rather than enjoying complete strategic independence. Their credit and arms help preserve the frontier while giving foreign purchasers influence. Border markets also connect Cervaud with smaller neighbouring authorities. Rank and military service carry prestige, yet merchants, farmers and workshop households have livelihoods extending across the same boundaries that officers are expected to defend.",
+      "technology_drivers": {
+        "research_capacity": 0.197,
+        "investment_capacity": 0.231,
+        "exchange": 0.5,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.58 and public works 3.47 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "veylac",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 18.29,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 6.0,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.5
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 30.86,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 6.0,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.5
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 74.29,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 6.0,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.5
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 62,
+      "water_access": 64,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 1.143 seeded from relative output per resident. Industrial basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Veylac is an industrial republic centred on Alescogne's councils, Bellorante's machine-tool works and Rionvesse's ocean trade. Municipal and commercial representation gives organised towns influence, while labour's place in government remains contested. Temperate farming districts provision cold upland factories; dry interior towns specialise in transport and practical manufacturing. Skilled metallurgy gives the republic valuable exports and military equipment, but imported food and fuel remain strategic dependencies. Ossavren's divided neighbours create both markets and frontier risks. The republic's cities are linked by production and commerce, without sharing one uniform climate, social hierarchy or relationship with factory employers. Veylac customs and lighthouse districts protecting its southern approaches. Charted island harbours: Cavresset.",
+      "technology_drivers": {
+        "research_capacity": 0.376,
+        "investment_capacity": 0.602,
+        "exchange": 0.75,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 3.01 and public works 9.03 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "ossavren",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 12.98,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 21.9,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 52.72,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 54,
+      "water_access": 49,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.811 seeded from relative output per resident. Mixed basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Ossavren denotes the territories of a broken crown, not a functioning nation with one army. Ossendrienne remains a vast former capital, while provincial commands, rival courts and autonomous commercial cities control their own taxation and troops. Tressavio trades through Veylac; other districts face Ostrevain or the Seravelle markets. Coal and petroleum resources give competing rulers valuable assets, but tolls, incompatible arrangements and local fighting divide their use. Shared food, family ties and railway habits survive the political fracture. Aggregate military and economic figures measure the whole region's resources; no claimant can simply issue orders to that combined total. Neravisse provides a charted coastal gateway, with defended access to Tatogia. A dependency of Neravisse’s municipal charter, not territory governed by a restored Ossavren crown. Charted island harbours: Cavralto.",
+      "technology_drivers": {
+        "research_capacity": 0.21,
+        "investment_capacity": 0.247,
+        "exchange": 0.5,
+        "retention": 0.55
+      },
+      "technology_basis": "Education spending 1.68 and public works 3.70 L-eq per resident; communication capability 3/5; retained effort factor 0.55. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "rovengard",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 13.69,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 23.11,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 55.63,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 53,
+      "water_access": 54,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.856 seeded from relative output per resident. Mixed basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Rovengard is Morholt's largest single monarchy, governed from Arvendal and linked to overseas trade through Halsavik. Eslovanne supplies general engineering, while productive southern districts support farming, food processing and timber industries. Cold northern towns depend on transport from those warmer basins. The crown's practical task is to keep provisions and obligations moving between communities separated by difficult country. Varnesk sells specialist machinery; Halskert and Galdresk are connected through local trade and provisioning routes. Large territorial claims and a substantial population therefore do not translate into an army free to abandon domestic roads, stores and defended settlements. Royal island districts with resident councils, coastal patrols and Halsavik supply contracts. Charted island harbours: Veltrund.",
+      "technology_drivers": {
+        "research_capacity": 0.24,
+        "investment_capacity": 0.384,
+        "exchange": 0.5,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.92 and public works 5.77 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "varnesk",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 17.19,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 29.01,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 69.85,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 60,
+      "water_access": 62,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 1.075 seeded from relative output per resident. Mixed basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Varnesk is a league of mining councils and industrial proprietors meeting at Corsavik. Norsavia's specialist steel and machinery are valued across Morholt, and southern cultivated towns supply part of the league's food. Cold extraction districts still depend on imported grain and negotiated transport. Commercial relationships with Rovengard and the Haldrevik concessions give its firms influence beyond league borders. Industrial owners and municipal councils can agree on a profitable contract more readily than a prolonged foreign campaign. Technical skill is concentrated in workshops and training networks, not evenly distributed through every settlement or available without fuel, materials and labour. Rovensk provides a charted coastal gateway, with defended access to Garenorrin.",
+      "technology_drivers": {
+        "research_capacity": 0.314,
+        "investment_capacity": 0.502,
+        "exchange": 0.5,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 2.51 and public works 7.53 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "galdresk",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 14.16,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 23.89,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 57.52,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 65,
+      "water_access": 50,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.885 seeded from relative output per resident. Mixed basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Galdresk is a wardenship of chartered orders, estates and civilian towns. Grevallier's medical and teaching institutions and Verniselle's instrument makers give it influence disproportionate to its small industrial base. Farming districts below the colder uplands help provision isolated communities; railways and negotiated access remain essential. Some houses preserve the older arts alongside practical medicine, but genuine practitioners are scarce and do not constitute a mass magical army. Neighbouring rulers value trained personnel and advice. Within Galdresk, obligations of shelter, patrol and care give institutions social authority without making every resident an initiate or every town a monastery. Orlavik provides a charted coastal gateway, with defended access to Millvik. Wardenship navigation and shelter claims. Seasonal landings and small service crews do not imply a dense iceward population.",
+      "technology_drivers": {
+        "research_capacity": 0.498,
+        "investment_capacity": 0.277,
+        "exchange": 0.75,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 3.98 and public works 4.15 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "halskert",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 14.34,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 24.2,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 58.27,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 52,
+      "water_access": 49,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.896 seeded from relative output per resident. Mixed basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Halskert is a republic of river towns, agricultural districts and commercial authorities. Orsendal coordinates government and grain trade; Tresselund manufactures equipment for farms and water works. Productive temperate districts make the republic an important supplier to colder neighbours, while warmer pockets add different crops to its exports. Mill owners, merchants and water authorities bargain over maintenance, freight and taxation. Its transport experience supports defence, but fuel imports and seasonal conditions constrain distant operations. Galdresk buys provisions and trades specialist goods, while Rovengard is both a customer and competitor. Civilian food production is a source of power here, not background scenery. Seldavre provides a charted coastal gateway, with defended access to Orsendal. Republican grain-shipping dependencies with elected port boards and permanent fishing settlements. Charted island harbours: Seldren.",
+      "technology_drivers": {
+        "research_capacity": 0.188,
+        "investment_capacity": 0.24,
+        "exchange": 0.5,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.50 and public works 3.60 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "tervayne",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 18.41,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 6.0,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.5
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 31.06,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 6.0,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.5
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 74.78,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 6.0,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.5
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 64,
+      "water_access": 65,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 1.150 seeded from relative output per resident. Industrial basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Tervayne is a western Vesalian maritime state whose government and commercial houses occupy Tervessac. Tervassin handles ocean shipping; Brescalle builds marine and civil machinery. Cultivated districts supply provisions while upland towns provide timber and manufactured goods. Its trading networks face Otranto and Morholt across the western ocean, with only indirect connections to the eastern Marches through intervening governments and difficult country. Maritime wealth supports naval supply and overseas influence, not unrestricted inland conquest. Port families, industrial firms and agricultural districts consequently have different priorities, even when foreign merchants describe them collectively as a seafaring people. Overseas supply and navigation districts maintained by Tervayne’s maritime administration and resident port councils. Charted island harbours: Ostrelac.",
+      "technology_drivers": {
+        "research_capacity": 0.427,
+        "investment_capacity": 0.682,
+        "exchange": 0.75,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 3.41 and public works 10.24 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "vardol",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 15.23,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 25.69,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 61.85,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 52,
+      "water_access": 59,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.952 seeded from relative output per resident. Mixed basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Vardol is a northern realm centred on Estrevigne's royal and military administration. Caldovre and surrounding cold-country cities concentrate arsenals, engineering and fuel processing; productive southern districts around Belmerac help feed them. The state can support a large military establishment but must also defend long supply routes and its rivalry with Averholt. Caldrienne is reached by the Valdrec road, not held as a subordinate province. Army procurement gives industrial suppliers political influence, while landed and commercial interests negotiate the cost. Its apparent strength therefore rests on maintaining a demanding system of food, fuel and transport rather than manpower alone. Calvessac provides a charted coastal gateway, with defended access to Quillaux. Northern crown claims maintained by lighthouse crews and seasonal naval stores. Remote interiors are not continuously occupied.",
+      "technology_drivers": {
+        "research_capacity": 0.234,
+        "investment_capacity": 0.374,
+        "exchange": 0.5,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.87 and public works 5.61 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "averholt",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 15.06,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 25.41,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 61.18,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 55,
+      "water_access": 51,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.941 seeded from relative output per resident. Mixed basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Averholt is a predominantly inland realm held together by provincial bargains. Avercenne conducts common government, Rocavane concentrates mountain engineering, and lower cultivated districts supply the cold upland towns. Rivalry with Vardol competes with domestic defence for resources. Western rail links support trade with Tervayne, while Chalicchio's road reaches Karsenne and the eastern Marches. Provincial institutions protect their own stores and troops, limiting what the central government can concentrate elsewhere. Agricultural merchants, upland industrial firms and landed councils thus contribute different kinds of strength. The realm is a substantial neighbour with internal commitments, not a continent-wide power waiting to absorb every smaller state. Bravessac provides a charted coastal gateway, with defended access to Vetenavaux. Claims administered by the northern coastal province; fishing landings and seasonal shelters receive supplies from Bravessac.",
+      "technology_drivers": {
+        "research_capacity": 0.235,
+        "investment_capacity": 0.301,
+        "exchange": 0.5,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.88 and public works 4.52 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "serevask",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 14.2,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 23.97,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 57.71,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 58,
+      "water_access": 47,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.888 seeded from relative output per resident. Mixed basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: The Serevask Republic governs its own mountain, upland and forest districts from Serevienne. Vallorise remains an important engineering city, connected commercially to the states that once shared a southern basin federation. Varnelle, Kelbrun and Gavrel now levy their own taxes and command their own forces; old charters create claims over debts and water, not effective Serevask sovereignty. The republic retains archives, technical institutions and useful workshops, but has neither the population nor authority of the former union. Its citizens include mountain households dependent on lower provisions and lowland manufacturers dependent on cross-border customers. It has never governed Vesalius as a whole.",
+      "technology_drivers": {
+        "research_capacity": 0.179,
+        "investment_capacity": 0.21,
+        "exchange": 0.5,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.43 and public works 3.15 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "varnelle",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 15.49,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 26.14,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 62.92,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 60,
+      "water_access": 56,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.968 seeded from relative output per resident. Mixed basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Varnelle is a delta state administered through port, water and commercial authorities centred on Varnessa. Serravole's shipping and Ceralvigne's engineering connect cultivated forest districts with overseas markets. Independence from Serevask followed disputes over reconstruction debts and customs after the former federation ceased functioning. Railway and business relationships survived that break. Merchants and water boards have considerable influence, while military establishments defend strategic approaches rather than replace civilian government everywhere. Rivessac, Kelbrun and Gavrel supply neighbouring markets. Control of freight and water makes Varnelle consequential to inland customers, but those customers remain separate political communities. Delta-authority island districts with customs houses, repair yards and provisioning farms. Charted island harbours: Cervallune.",
+      "technology_drivers": {
+        "research_capacity": 0.291,
+        "investment_capacity": 0.465,
+        "exchange": 0.5,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 2.32 and public works 6.97 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "kelbrun",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 12.29,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 3,
+          "taxes": 0.8,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 20.73,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 1,
+          "taxes": 1.5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 49.91,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 51,
+      "water_access": 42,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.768 seeded from relative output per resident. Rural basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Kelbrun is an independent state of councils and powerful plantation interests governed from Kelbrienne. Oreviano's rubber chemistry and filtration industries turn cultivated resources into valuable manufactured exports. Seasonal uplands supply grain and livestock alongside the wetter districts' plantation products. Estate labour obligations and commercial access shape politics as much as formal council debates. Serevask is a former federal partner and continuing industrial customer; Varnelle and Calvernis provide other trading connections. Army posts secure routes and production districts, but the country's influence chiefly rests on useful materials, technical knowledge and agricultural trade. Its population does not share one estate, employer or social standing. Cervellane provides a charted coastal gateway, with defended access to Cambrelet. Council-administered island dependency with plantation suppliers, fisheries and bonded stores. Charted island harbours: Marcellune.",
+      "technology_drivers": {
+        "research_capacity": 0.162,
+        "investment_capacity": 0.207,
+        "exchange": 0.25,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.29 and public works 3.11 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "gavrel",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 12.28,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 3,
+          "taxes": 0.8,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 20.73,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 1,
+          "taxes": 1.5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 49.9,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 48,
+      "water_access": 42,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.768 seeded from relative output per resident. Rural basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Gavrel is a group of chartered march houses with limited common institutions at Gavrielle. Each house retains its own courts and levies; Mesrienne's workshops and local markets connect their economies without erasing that autonomy. Former federal links to Serevask survive as railways, debts and commercial relationships. Varnelle and the southern cantons offer additional buyers for agricultural and forest products. Local guarantors and patronage matter to travel and trade because no single ministry controls every transaction. The combined return describes their shared resources, while actual military cooperation depends on agreements among houses rather than an automatic unified command. Montalive provides a charted coastal gateway, with defended access to Lesigne. Dependencies of individual march houses under a common coastal supply compact; no unified Gavrel navy or crown is implied. Charted island harbours: Loravise.",
+      "technology_drivers": {
+        "research_capacity": 0.18,
+        "investment_capacity": 0.212,
+        "exchange": 0.25,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.44 and public works 3.18 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "other-otranto-400",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 12.81,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 3,
+          "taxes": 0.8,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 21.62,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 1,
+          "taxes": 1.5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 52.06,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 44,
+      "water_access": 41,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.801 seeded from relative output per resident. Rural basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: The cantons grew out of harbour and plantation charters left without a royal guarantor after the last major culling. Jougrenne convenes the coastal toll assembly; Nantac administers a separate inland land court. Neither can tax the other’s households. Harbour dues fund escorts while plantation owners pay for roads and demand control of the checkpoints. Veldrassen buys tropical produce and timber here, but its purchasing agents face competing canton tariffs rather than a single ministry. Tenant disputes centre on debt and access to cleared farmland; the assembly meets over commercial quarrels, not to command a national army. Lorrevento provides a charted coastal gateway, with defended access to Chignoro. Separate canton harbour dependencies; local fishing rights and harbour dues remain with the charter communities. Charted island harbours: Vessantine.",
+      "technology_drivers": {
+        "research_capacity": 0.139,
+        "investment_capacity": 0.178,
+        "exchange": 0.25,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.11 and public works 2.68 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "other-otranto-700",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 13.28,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 3,
+          "taxes": 0.8,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 22.4,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 1,
+          "taxes": 1.5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 53.94,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 46,
+      "water_access": 41,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.830 seeded from relative output per resident. Rural basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: A chain of small courts and charter towns occupies the southwestern approaches. Collengo’s market charter protects merchants from estate levies, while the lords around Peregia claim payment for escorting their wagons. Winter fodder and access through the uplands matter more than distant dynastic titles. Albaret brokers wool and preserved food between the courts. Marriage contracts frequently change toll rights without moving a border; merchants employ local advocates to interpret them. Southern sea trade offers an alternative to the roads, but only to houses able to finance a shipment. Vellorito provides a charted coastal gateway, with defended access to Totarosco. Dependencies of individual coastal principalities, linked by a limited pilotage compact rather than a new island kingdom. Charted island harbours: Monteliva.",
+      "technology_drivers": {
+        "research_capacity": 0.152,
+        "investment_capacity": 0.179,
+        "exchange": 0.25,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.22 and public works 2.68 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "other-otranto-1100",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 13.0,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 3,
+          "taxes": 0.8,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 21.94,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 1,
+          "taxes": 1.5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 52.82,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 45,
+      "water_access": 41,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.813 seeded from relative output per resident. Rural basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Anselleuil’s reservoir command, Jarnan’s commercial council and the estate assemblies around Votane share a drainage basin but not a government. Their water compact survived the destruction of the authority that first imposed it. Gates must open in an agreed order; delaying an upstream release can destroy a downstream planting season. Brannervaux engineers are employed as arbitrators and suspected of favouring their own merchants. Grain barges, mill repair and fertiliser works sustain the towns. Disputes usually begin as inspections, impoundments and unpaid maintenance bills before soldiers become involved. Cortelune provides a charted coastal gateway, with defended access to Leignay. Offshore charter communities of the basin leagues, sharing pilots and navigation dues without a unified sovereign. Charted island harbours: Cernavie.",
+      "technology_drivers": {
+        "research_capacity": 0.145,
+        "investment_capacity": 0.185,
+        "exchange": 0.25,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.16 and public works 2.78 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "other-otranto-1450",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 13.01,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 3,
+          "taxes": 0.8,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 21.96,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 1,
+          "taxes": 1.5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 52.87,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 43,
+      "water_access": 44,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.813 seeded from relative output per resident. Rural basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Astrellac’s harbour republic and the inland estate courts share the eastern littoral with smaller free ports. Their commercial convention standardises bills of lading but leaves taxes and criminal law local. Shipping families advance money against harvests; rural houses resent foreclosures by creditors who never leave the coast. Rovessaran insurers and instrument makers are influential customers. Port patrols cooperate against raiders, yet seize one another’s cargo when a debt dispute turns political. Hinterland towns depend on export warehouses for salt, tools and credit, which gives the harbours power beyond their formal borders. Astrellac’s chartered island dependencies within the Seravelle return. Resident councils administer land and fisheries; Astrellac supplies customs officers, escorts and bonded fuel depots. The other Seravelle courts remain independent. Charted island harbours: Cortessia, Vasselac, Rovellisse.",
+      "technology_drivers": {
+        "research_capacity": 0.158,
+        "investment_capacity": 0.252,
+        "exchange": 0.25,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.26 and public works 3.79 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "other-morholt-1880",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 12.79,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 3,
+          "taxes": 0.8,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 21.58,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 1,
+          "taxes": 1.5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 51.95,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 44,
+      "water_access": 46,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.799 seeded from relative output per resident. Rural basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Concession houses hold time-limited rights to timber, minerals and fuel rather than sovereignty over every inhabitant. Asanetz keeps the surviving charter archive; Alauvenne houses one of the armed inspection posts. A house can own a railway and still owe rent to the community beneath it. Varnesk firms provide machinery and credit, exchanging technical dependence for preferred ore contracts. Charter renewals provoke strikes, armed intimidation and lawsuits over restoration bonds. Settlements outside a concession bargain for patrols in return for provisions; a company’s withdrawal can be more frightening than its arrival. Trelovre provides a charted coastal gateway, with defended access to Arinrin. Island shore communities under Haldrevik charter protection. Concession leases cover named working sites, not ownership of all inhabitants. Charted island harbours: Rovensac.",
+      "technology_drivers": {
+        "research_capacity": 0.174,
+        "investment_capacity": 0.279,
+        "exchange": 0.25,
+        "retention": 0.7
+      },
+      "technology_basis": "Education spending 1.39 and public works 4.18 L-eq per resident; communication capability 2/5; retained effort factor 0.7. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "other-morholt-2190",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 13.29,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 3,
+          "taxes": 0.8,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 22.42,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 1,
+          "taxes": 1.5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 53.98,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 45,
+      "water_access": 47,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.830 seeded from relative output per resident. Rural basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Dananske, Dreinvar and Ferorvik anchor separate wardholds along the northern approaches. Each warden owes shelter to the villages that provision a fortress, but the obligation is disputed when stores run short. Their annual muster negotiates convoy schedules and exchanges hostages against broken promises; it does not elect a king. Galdresk medical houses maintain small hospices by invitation. Imported grain is strategically more important than ceremonial claims to the iceward interior. Officers measure influence in serviceable engines and winter stores, while civilian assemblies try to keep temporary requisitions from becoming permanent rent. Veltroven provides a charted coastal gateway, with defended access to Kerenvenne. Claims of adjacent wardholds, maintained by fishing visits and seasonal convoy shelters rather than continuous occupation.",
+      "technology_drivers": {
+        "research_capacity": 0.198,
+        "investment_capacity": 0.317,
+        "exchange": 0.25,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.58 and public works 4.75 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "other-morholt-2630",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 12.74,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 3,
+          "taxes": 0.8,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 21.5,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 1,
+          "taxes": 1.5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 51.76,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 45,
+      "water_access": 41,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.796 seeded from relative output per resident. Rural basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: The eastern estates descend from competing settlement grants, with Varkessant’s port charter carved out of the landed claims. Estate bailiffs administer courts and patrol obligations; the port elects its own commercial officers. Fishing communities resist attempts to classify their customary shore access as a landlord’s concession. Halskert buys fish and timber and sells grain, giving its merchants leverage in disputes over freight. Family alliances cross estate borders, but succession cases repeatedly fragment holdings. Seasonal workers move between shore crews and inland workshops, carrying news faster than the formal post. Varkessant’s port-charter dependencies; the mainland estate courts retain their separate jurisdictions. Charted island harbours: Cersund.",
+      "technology_drivers": {
+        "research_capacity": 0.145,
+        "investment_capacity": 0.186,
+        "exchange": 0.25,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.16 and public works 2.79 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "other-vesalius-2790",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 14.13,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 23.85,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 57.42,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 52,
+      "water_access": 47,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.883 seeded from relative output per resident. Mixed basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: The western marches form a belt of fortified lordships, town liberties and cultivated valleys between larger powers. Temevaux’s command guards a road junction; Malinne’s council controls a different customs district. Neither speaks for the entire belt. Tervayne merchants finance road repairs in exchange for bonded warehouses, while inland patrons subsidise rival toll houses. Small rulers survive by alternating clients and keeping neighbouring courts divided. Textile finishing, estate agriculture and wagon repair support a population far larger than its thinly charted principal towns suggest. A traveller’s permit may be valid for one bridge and useless at the next. Orsavie provides a charted coastal gateway, with defended access to Balbrenne. Chartered island lordships tied to the western marches by supply contracts; Tervayne has commercial privileges, not sovereignty. Charted island harbours: Lorvesset.",
+      "technology_drivers": {
+        "research_capacity": 0.178,
+        "investment_capacity": 0.208,
+        "exchange": 0.5,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.42 and public works 3.13 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "other-vesalius-2790-1410",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 14.18,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 23.94,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 57.62,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 52,
+      "water_access": 48,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.886 seeded from relative output per resident. Mixed basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Southern market cantons rebuilt around local granaries after the last major culling. Margeuil’s elected grain board, Darnenne’s military governor and the landed councils around Galigny compete over transport dues. Common measures for grain survived; a common treasury did not. Merchants connect warm lowland crops with cooler interior districts, using brokers who can guarantee passage through several authorities. Kelbrun buyers seek plantation produce and seasonal labour. Municipal councils resist the governors’ claim that every warehouse is a military asset, particularly after poor harvests make requisitions politically dangerous. Pravessant provides a charted coastal gateway, with defended access to Peillier. Dependencies of individual southern cantons, governed through resident councils and grain-shipping charters. Charted island harbours: Cervelune.",
+      "technology_drivers": {
+        "research_capacity": 0.177,
+        "investment_capacity": 0.227,
+        "exchange": 0.5,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.42 and public works 3.40 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "other-vesalius-3160",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 14.19,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 23.95,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 57.66,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 51,
+      "water_access": 52,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.887 seeded from relative output per resident. Mixed basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Saultac is the best-charted inland market in a southeastern coastal region of small port communes and hereditary agricultural districts. Mainland and island harbours now complement the inland market on the chart. Pilots’ guilds set practical terms for coastal travel; inland houses control cultivated land and the roads supplying the harbours. Ceralte brokers buy provisions here without governing the coast. Rival communes share storm warnings but guard their harbour soundings. The region’s political disputes concern port fees, seasonal labour and who funds guarded access to inland markets, rather than a single national succession. Vessaline provides a charted coastal gateway, with defended access to Saultac. A dependency of the coastal port commune, governed by its harbour charter and resident island councillors. Charted island harbours: Vallarive.",
+      "technology_drivers": {
+        "research_capacity": 0.203,
+        "investment_capacity": 0.324,
+        "exchange": 0.5,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.62 and public works 4.86 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "karsenne",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 17.0,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 28.68,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 69.05,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 55,
+      "water_access": 62,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 1.062 seeded from relative output per resident. Mixed basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Drossane hosts common business for autonomous mining councils and fortress districts. The Compact is a federation rather than a unified hereditary realm. Ores, engineering skills and defended approaches sustain its bargaining power, but coastal freight charges consume export income. Valley workshops and cultivated pockets support the upland economy. Veyrasse remains an uneasy defensive partner and vital outlet. A direct railway toward Calvernis is sought, not operating; existing roads do not provide an equivalent bulk-freight service.",
+      "technology_drivers": {
+        "research_capacity": 0.306,
+        "investment_capacity": 0.49,
+        "exchange": 0.5,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 2.45 and public works 7.34 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "caldrienne",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 15.86,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 26.77,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 64.45,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 57,
+      "water_access": 63,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.991 seeded from relative output per resident. Mixed basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Valdrec houses the ducal administration and principal army depots. Productive valleys support estate agriculture and armament towns; the state fields strong infantry, artillery and a comparatively large armoured force. Ducal supervision is more centralised than in Veyrasse, though estate and arsenal interests still compete for resources. The unresolved Cressault claim strains an armed truce. Northern obligations and imports of Karsenne ore prevent its government from directing every resource against the March. Cressavelle provides a charted coastal gateway, with defended access to Valdrec.",
+      "technology_drivers": {
+        "research_capacity": 0.351,
+        "investment_capacity": 0.562,
+        "exchange": 0.5,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 2.81 and public works 8.43 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "veyrasse",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 16.0,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 27.0,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 65.01,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 55,
+      "water_access": 61,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 1.000 seeded from relative output per resident. Mixed basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: The charter balances the Margrave, landed houses, municipal councils and industrial proprietors. Auvrienne holds the court and government; Serravonne is a secondary port and rail junction. Coastal agriculture and workshops depend on inland ores and imported machinery. Railway unions can disrupt mobilisation, and poorer households bear disproportionate service obligations. Caldrienne remains the principal territorial rival; Karsenne is an essential supplier, while Calvernis and Ceralte provide competing maritime connections. The Margrave commands the standing army and foreign relations, while chartered institutions provide much of the money, manpower and transport. Education and engineering offer advancement through patronage. Railway superintendent Leont Vardesca governs railway affairs and dependants, not Serravonne’s government or army.",
+      "technology_drivers": {
+        "research_capacity": 0.289,
+        "investment_capacity": 0.462,
+        "exchange": 0.5,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 2.31 and public works 6.93 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "calvernis",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 18.89,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 6.0,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.5
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 31.87,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 6.0,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.5
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 76.72,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 6.0,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.5
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 63,
+      "water_access": 65,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 1.180 seeded from relative output per resident. Industrial basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Miravelle is the seat of a republic whose restricted franchise favours shipping, banking and industrial families. Harbour revenues, ship maintenance and manufacturing support convoy escorts, coastal guns, marines and maritime aircraft. Smaller towns supply its commercial ports without erasing rival patronage networks. Veyrasse is a customer and competitor; an alternative outlet for Karsenne could redirect freight and toll income. No agreement has completed that proposed railway. Cavrelune provides a charted coastal gateway, with defended access to Miravelle.",
+      "technology_drivers": {
+        "research_capacity": 0.398,
+        "investment_capacity": 0.637,
+        "exchange": 0.75,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 3.19 and public works 9.56 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "ceralte",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 17.14,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 28.93,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 69.64,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 57,
+      "water_access": 59,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 1.071 seeded from relative output per resident. Mixed basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Dalmor is the fortified harbour and seat of a hereditary protector, senior naval council and island governors. Fishing, pilotage, convoy services and repair yards sustain the chain, while imported grain remains essential. Torpedo craft, mine warfare and knowledge of difficult waters offset limited land resources. Island communities depend on shipping rather than a mainland-style road network. Treaty cooperation coexists with accusations of privateering; no allegation proves official sponsorship.",
+      "technology_drivers": {
+        "research_capacity": 0.376,
+        "investment_capacity": 0.601,
+        "exchange": 0.75,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 3.00 and public works 9.02 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "varessan",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 13.91,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 3,
+          "taxes": 0.8,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 23.47,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 1,
+          "taxes": 1.5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 56.51,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 47,
+      "water_access": 43,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.869 seeded from relative output per resident. Rural basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: The Varessan Sea League unites five island assemblies under a charter covering convoys, foreign treaties and shared courts. Ardessa hosts the delegates, but each island retains land law and elects its harbour officers. Centuries of terrace cultivation and ocean navigation preceded mainland concessions. Shipwright families build wooden coasters and repair imported motor vessels. Treaty warehouses purchase wool, dried fish and fruit. The League permits leased depots but bars foreign ownership of freshwater catchments. Carrier houses seek closer mainland ties; cultivator assemblies resist customs exemptions that leave them paying the common defence levy.",
+      "technology_drivers": {
+        "research_capacity": 0.178,
+        "investment_capacity": 0.228,
+        "exchange": 0.5,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.42 and public works 3.42 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "talasca",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 14.79,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 3,
+          "taxes": 0.8,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 24.96,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 1,
+          "taxes": 1.5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 60.09,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 48,
+      "water_access": 50,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.924 seeded from relative output per resident. Rural basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Rovessara governs the Talascan chain through a colonial commissioner, customs posts and commercial leases. Island communities remain the majority and retain village land councils, but the colonial court decides disputes involving export estates and harbour property. Settler merchants and mainland firms control much of the credit and shipping. Councils contest compulsory road levies and the conversion of common pasture into export holdings. The commissioner depends on local pilots and negotiated water rights. These islands have long-established inhabitants and histories, not vacant land discovered by their present rulers.",
+      "technology_drivers": {
+        "research_capacity": 0.262,
+        "investment_capacity": 0.419,
+        "exchange": 0.5,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 2.09 and public works 6.28 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "nemerai",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 13.44,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 3,
+          "taxes": 0.8,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 22.69,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 1,
+          "taxes": 1.5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 54.62,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 44,
+      "water_access": 46,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.840 seeded from relative output per resident. Rural basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: The Nemerai Crown is an old island monarchy whose ruler is confirmed by hereditary houses, town delegates and custodians of communal farmland. Nemer maintains written land records and a permanent customs service. Outer islands owe ships and levies under separate compacts; the crown cannot simply requisition their harvests. Fisheries, terrace grain and shipping support local machine shops, while heavy plant and refined marine fuel are imported. Foreign powers have treaty warehouses but no general jurisdiction. Court reformers favour technical colleges and a common budget; outer houses fear the loss of their island privileges.",
+      "technology_drivers": {
+        "research_capacity": 0.144,
+        "investment_capacity": 0.184,
+        "exchange": 0.5,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.15 and public works 2.76 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "ordelune",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 12.99,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 3,
+          "taxes": 0.8,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 21.91,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 1,
+          "taxes": 1.5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 52.76,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 47,
+      "water_access": 43,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.812 seeded from relative output per resident. Rural basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Ostrevain’s southern overseas districts join two island clusters under a governor at Ordelune, linked by supply sailings rather than continuous land administration. Crown estates, settler farms and older island communities coexist under unequal tax and land arrangements. Wool, grain and preserved food finance the administration; district councils seek a greater share of customs revenue. Outlying harbours depend on local pilots and winter stores. Ostrevain claims the chain but has no effective authority over Austral Land, and the governor cannot promise passage through polar waters.",
+      "technology_drivers": {
+        "research_capacity": 0.176,
+        "investment_capacity": 0.225,
+        "exchange": 0.25,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.41 and public works 3.37 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "skeldra",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 10.91,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 3,
+          "taxes": 0.8,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 18.4,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 1,
+          "taxes": 1.5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 44.31,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 42,
+      "water_access": 29,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.682 seeded from relative output per resident. Rural basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: The Skeldran Hearth Confederacy is a sovereign compact of island kin groups, fishing towns and grazing communities. Delegates meet at Skeldra; land and shelter rights remain with hearth assemblies. Customary law is transmitted through named custodians and written harbour judgments, with interpreters for several languages. Imported rifles, radios and motor boats coexist with wooden shipbuilding and household workshops. The confederacy grants seasonal anchorage permits but rejects permanent foreign garrisons. Sparse farmland and severe winters favour dispersed stores, reciprocal rescue duties and small defensive forces.",
+      "technology_drivers": {
+        "research_capacity": 0.068,
+        "investment_capacity": 0.084,
+        "exchange": 0.25,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 0.55 and public works 1.26 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "merovia",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 15.4,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 1,
+          "taxes": 0.8,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 25.98,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 0,
+          "taxes": 1.5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 62.55,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 11.5,
+            "housing": 5.5,
+            "fuel_light": 1.8,
+            "clothing_household": 2.2,
+            "care": 1.0,
+            "transport_school": 2.0
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 56,
+      "water_access": 57,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.962 seeded from relative output per resident. Mixed basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: The Merovian Island Republic joins port municipalities and agricultural districts through an elected assembly. Its residence and tax franchise leaves seasonal crews and some outer communities underrepresented. Shipping insurance, repair docks, fruit and wool exports support a modest industrial base. Cooperative farms compete with carriers over freight rates. The republic controls a north-south chain at the meeting of eastern and austral routes; depot access is negotiated commercially rather than reserved to one mainland patron. Rival parties disagree over naval spending and foreign loans.",
+      "technology_drivers": {
+        "research_capacity": 0.325,
+        "investment_capacity": 0.521,
+        "exchange": 0.5,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 2.60 and public works 7.81 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "ashalai",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 11.71,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 3,
+          "taxes": 0.8,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 19.75,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 1,
+          "taxes": 1.5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 47.55,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 40,
+      "water_access": 37,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.732 seeded from relative output per resident. Rural basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: The Ashalai Reef Covenant confederates hereditary kin councils, elected harbour assemblies and inland farming communities. Its gathering at Ashala settles foreign treaties, fishing boundaries and mutual defence without extinguishing local law or language. Islanders have long cultivated wet valleys and traded between reefs. Imported engines, rifles and radios are maintained in port workshops; heavy industry is limited. Foreign firms lease warehouses through negotiated covenants, with no right to seize communal land. Harbour merchants favour broader credit access, while inland councils resist debts secured against future harvests.",
+      "technology_drivers": {
+        "research_capacity": 0.096,
+        "investment_capacity": 0.123,
+        "exchange": 0.25,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 0.77 and public works 1.84 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "istrana",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 14.35,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 3,
+          "taxes": 0.8,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 24.21,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 1,
+          "taxes": 1.5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 58.28,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 51,
+      "water_access": 51,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.897 seeded from relative output per resident. Rural basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Istrana is an island kingdom with a hereditary crown, permanent civil service and revenue assembly representing towns and landholding districts. The court claims descent from an older maritime union, but authority rests on negotiated taxes and a small professional fleet. Sugar, fruit, textiles and repaired vessels pass through its ports. State schools train clerks and mechanics; heavy machinery and much marine fuel are imported. The crown cultivates several mainland partners to avoid a protectorate. Outer representatives demand limits on royal borrowing and exclusive contracts awarded to court merchants.",
+      "technology_drivers": {
+        "research_capacity": 0.523,
+        "investment_capacity": 0.291,
+        "exchange": 0.5,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 4.19 and public works 4.37 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "edrask",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 13.7,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 3,
+          "taxes": 0.8,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 23.11,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 1,
+          "taxes": 1.5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 55.64,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 47,
+      "water_access": 48,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.856 seeded from relative output per resident. Rural basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: Rovengard’s Edrask Governorate holds the inhabited eastern chain through a governor, harbour garrisons and treaties with older island councils. Fishing communities, timber districts and settler towns have different land rights; some councils accept crown arbitration while resisting new concessions. Timber and preserved fish fund northern weather stations. Defence rests partly on visiting Rovengard ships, which are not permanent additions to the island fleet. Southern ports trade with Istrana; northern calls close seasonally. The governor’s map claim does not imply continuous occupation of mountain interiors.",
+      "technology_drivers": {
+        "research_capacity": 0.227,
+        "investment_capacity": 0.364,
+        "exchange": 0.5,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 1.82 and public works 5.45 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    },
+    {
+      "id": "norrakai",
+      "review_date": "05/11/0068 AC43",
+      "households": [
+        {
+          "name": "Labouring and smallholder households",
+          "share": 0.7,
+          "monthly_wage": 10.4,
+          "earners": 1.45,
+          "employment": 0.9,
+          "other_income": 0,
+          "own_produce": 3,
+          "taxes": 0.8,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Skilled and salaried households",
+          "share": 0.25,
+          "monthly_wage": 17.55,
+          "earners": 1.3,
+          "employment": 0.9,
+          "other_income": 1,
+          "own_produce": 1,
+          "taxes": 1.5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        },
+        {
+          "name": "Professional and asset-owning households",
+          "share": 0.05,
+          "monthly_wage": 42.25,
+          "earners": 1.1,
+          "employment": 0.9,
+          "other_income": 18,
+          "own_produce": 0,
+          "taxes": 5,
+          "needs": {
+            "food": 10.0,
+            "housing": 3.0,
+            "fuel_light": 2.0,
+            "clothing_household": 2.5,
+            "care": 1.3,
+            "transport_school": 2.2
+          },
+          "income_uncertainty": 0.2,
+          "price_uncertainty": 0.15
+        }
+      ],
+      "care_access": 35,
+      "water_access": 28,
+      "household_basis": "Initial household-budget estimates: reference wages and the 24 L-eq needs basket, wage factor 0.650 seeded from relative output per resident. Rural basket. Employment and 70/25/5 household weights are common provisional assumptions; they are not census results. Source context: The Norrakai Moots unite northern island communities through seasonal assemblies and mutual refuge law. They remain outside Vardol’s crown despite trading with its ports. Fishing, herding and limited sheltered cultivation sustain a sparse population, supplemented by imported grain. Councils negotiate pilotage and weather-station leases without ceding sovereignty. Radios and motor launches connect communities still reliant on locally built boats. Families use seasonal camps and permanent villages; an empty winter landing does not establish uninhabited territory.",
+      "technology_drivers": {
+        "research_capacity": 0.056,
+        "investment_capacity": 0.069,
+        "exchange": 0.25,
+        "retention": 0.85
+      },
+      "technology_basis": "Education spending 0.45 and public works 1.04 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity."
+    }
+  ]
+}
