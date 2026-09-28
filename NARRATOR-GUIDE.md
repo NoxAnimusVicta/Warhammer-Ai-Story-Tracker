@@ -2,7 +2,7 @@
 
 This is an ongoing, player-led Warhammer 40,000 campaign, not a completed story. The phone data-slate is the player's read-only reference. This guide is outside the fiction and is not displayed in the slate.
 
-Research and invention: read [RESEARCH-PROGRESSION.md](RESEARCH-PROGRESSION.md) before any research scene or time skip. It controls cumulative research, shared technologies, production milestones and conditional Hunter-plasma estimates. The app shows projects, not these narrator rules.
+Research and invention: read [RESEARCH-PROGRESSION.md](RESEARCH-PROGRESSION.md) before any research scene or time skip. It controls cumulative research, shared technologies, production milestones and conditional Hunter-plasma estimates. The Research tab shows the existing research record and a concise collapsible summary of progression and shared Hunter technology, as requested in exchange 606. Detailed lore reasoning remains in the reference.
 
 The checkpoint below is the published revision-72 snapshot (05/11). The exact transcript now continues through the 06/11 district briefing, exchange 599, followed by the research agreements in 600-604; use those later exchanges for live narration.
 

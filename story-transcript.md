@@ -14121,3 +14121,15 @@ I’ve recorded the rule for future research: **new projects inherit all relevan
 ## 604 - User - Publish narrator research reference
 
 Ok can you please update the Github and ensure this information is relevant and easy to find later in the story for the narrator. We do not need to clog the app with anything aside from active, completed and future projects
+
+## 605 - Assistant - Research reference published
+
+Updated and verified on GitHub: [Research progression](https://github.com/NoxAnimusVicta/Warhammer-Ai-Story-Tracker/blob/main/RESEARCH-PROGRESSION.md).
+
+It covers cumulative discoveries, research stages, conditional timelines and rifle-to-shoulder-caster transfer. Links in the narrator guide, README and local handover make it easy to find.
+
+The app remains unchanged, with no added research-rule panels or hypothetical project clutter.
+
+## 606 - User - Research app tab
+
+Actually now I think of it maybe there should be a tab in the app for this
