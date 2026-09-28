@@ -32,6 +32,8 @@ The corrected census contains **1,223,820,000** people. For each complete local 
 
 Each geographic group's current total is apportioned between its recorded settlements and remaining rural/uncharted residents in their baseline proportions. Integer largest-remainder allocation keeps every group exact. No unrecorded urbanisation, local migration boom or exceptional casualty event is invented. Settlements inherit their census group's trend; they are subsets, not additional population. Annual headcount changes are recomputed from current population rather than left at the old base.
 
+The [05/11 vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md) supersedes the old birth/death assumptions for current and future returns. It retains the existing net growth scenarios while fitting gross births/deaths to the national mortality model using an explicit stable-age approximation. This is a model calibration, not independent evidence for fertility or stable age structure. Infant deaths are included once within total deaths. demographic-reviews.json stores dated complete returns; future projections apply them only after their effective dates. The historical 434-day population checkpoint is preserved. Annual reviews must reconsider fertility, mortality, age structure and migration together rather than force the same growth.
+
 Cressault remains a disputed subset within Veyrasse, not a forty-fourth independent return. Colonial residents remain in their separate geographic returns, not counted again in the parent homeland. The estimates do not adjudicate territorial claims. Rounded map headings and exact tables represent the same values at different display precision.
 
 ## Economy and production

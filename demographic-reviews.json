@@ -1,0 +1,785 @@
+{
+  "method": "stable-age-calibration-1",
+  "returns": [
+    {
+      "date": "05/11/0068 AC43",
+      "reason": "Reconcile current vital-rate estimates with the household-based mortality schedule, preserving the established net growth scenario and historical population checkpoint.",
+      "profiles": [
+        {
+          "id": "veldrassen",
+          "name": "Veldrassen",
+          "births_per_1000": 20.035325,
+          "deaths_per_1000": 14.535325,
+          "infant_deaths_per_1000_residents": 1.327934,
+          "age_shares": {
+            "0-19": 0.341351,
+            "20-64": 0.56218,
+            "65+": 0.096469
+          },
+          "annual_rate_percent": 0.55,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.014,
+          "previous_births_per_1000": 34.6,
+          "previous_deaths_per_1000": 29.1,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "ostrevain",
+          "name": "Ostrevain",
+          "births_per_1000": 22.016754,
+          "deaths_per_1000": 14.816754,
+          "infant_deaths_per_1000_residents": 1.669392,
+          "age_shares": {
+            "0-19": 0.363033,
+            "20-64": 0.556753,
+            "65+": 0.080215
+          },
+          "annual_rate_percent": 0.72,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.168,
+          "previous_births_per_1000": 32.0,
+          "previous_deaths_per_1000": 24.8,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "rovessara",
+          "name": "Rovessara",
+          "births_per_1000": 18.781781,
+          "deaths_per_1000": 14.981781,
+          "infant_deaths_per_1000_residents": 1.216048,
+          "age_shares": {
+            "0-19": 0.326434,
+            "20-64": 0.568317,
+            "65+": 0.105249
+          },
+          "annual_rate_percent": 0.38,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 0.988,
+          "previous_births_per_1000": 31.3,
+          "previous_deaths_per_1000": 27.5,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "brannervaux",
+          "name": "Brannervaux",
+          "births_per_1000": 21.037037,
+          "deaths_per_1000": 14.637037,
+          "infant_deaths_per_1000_residents": 1.491033,
+          "age_shares": {
+            "0-19": 0.352521,
+            "20-64": 0.559534,
+            "65+": 0.087946
+          },
+          "annual_rate_percent": 0.64,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.088,
+          "previous_births_per_1000": 35.4,
+          "previous_deaths_per_1000": 29.0,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "cervaud",
+          "name": "Cervaud",
+          "births_per_1000": 18.192491,
+          "deaths_per_1000": 16.792491,
+          "infant_deaths_per_1000_residents": 1.395399,
+          "age_shares": {
+            "0-19": 0.31796,
+            "20-64": 0.581667,
+            "65+": 0.100373
+          },
+          "annual_rate_percent": 0.14,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.175,
+          "previous_births_per_1000": 28.9,
+          "previous_deaths_per_1000": 27.5,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "veylac",
+          "name": "Veylac",
+          "births_per_1000": 17.876303,
+          "deaths_per_1000": 15.676303,
+          "infant_deaths_per_1000_residents": 1.184207,
+          "age_shares": {
+            "0-19": 0.315124,
+            "20-64": 0.57479,
+            "65+": 0.110086
+          },
+          "annual_rate_percent": 0.22,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.01,
+          "previous_births_per_1000": 29.8,
+          "previous_deaths_per_1000": 27.6,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "ossavren",
+          "name": "Ossavren successor territories",
+          "births_per_1000": 16.649142,
+          "deaths_per_1000": 17.849142,
+          "infant_deaths_per_1000_residents": 1.291855,
+          "age_shares": {
+            "0-19": 0.298584,
+            "20-64": 0.591526,
+            "65+": 0.10989
+          },
+          "annual_rate_percent": -0.12,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.186,
+          "previous_births_per_1000": 34.5,
+          "previous_deaths_per_1000": 35.7,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "rovengard",
+          "name": "Rovengard",
+          "births_per_1000": 19.857328,
+          "deaths_per_1000": 15.757328,
+          "infant_deaths_per_1000_residents": 1.49912,
+          "age_shares": {
+            "0-19": 0.338152,
+            "20-64": 0.570427,
+            "65+": 0.091421
+          },
+          "annual_rate_percent": 0.41,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.159,
+          "previous_births_per_1000": 36.3,
+          "previous_deaths_per_1000": 32.2,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "varnesk",
+          "name": "Varnesk",
+          "births_per_1000": 17.741772,
+          "deaths_per_1000": 15.941772,
+          "infant_deaths_per_1000_residents": 1.201609,
+          "age_shares": {
+            "0-19": 0.313306,
+            "20-64": 0.576854,
+            "65+": 0.109839
+          },
+          "annual_rate_percent": 0.18,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.033,
+          "previous_births_per_1000": 31.8,
+          "previous_deaths_per_1000": 30.0,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "galdresk",
+          "name": "Galdresk",
+          "births_per_1000": 19.083858,
+          "deaths_per_1000": 15.783858,
+          "infant_deaths_per_1000_residents": 1.38319,
+          "age_shares": {
+            "0-19": 0.329275,
+            "20-64": 0.572909,
+            "65+": 0.097816
+          },
+          "annual_rate_percent": 0.33,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.11,
+          "previous_births_per_1000": 35.2,
+          "previous_deaths_per_1000": 31.9,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "halskert",
+          "name": "Halskert",
+          "births_per_1000": 20.712801,
+          "deaths_per_1000": 15.412801,
+          "infant_deaths_per_1000_residents": 1.574784,
+          "age_shares": {
+            "0-19": 0.348099,
+            "20-64": 0.56537,
+            "65+": 0.086531
+          },
+          "annual_rate_percent": 0.53,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.169,
+          "previous_births_per_1000": 30.0,
+          "previous_deaths_per_1000": 24.7,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "tervayne",
+          "name": "Tervayne",
+          "births_per_1000": 19.470475,
+          "deaths_per_1000": 14.670475,
+          "infant_deaths_per_1000_residents": 1.268007,
+          "age_shares": {
+            "0-19": 0.334737,
+            "20-64": 0.564612,
+            "65+": 0.100651
+          },
+          "annual_rate_percent": 0.48,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 0.995,
+          "previous_births_per_1000": 35.2,
+          "previous_deaths_per_1000": 30.4,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "vardol",
+          "name": "Vardol",
+          "births_per_1000": 18.989715,
+          "deaths_per_1000": 15.889715,
+          "infant_deaths_per_1000_residents": 1.384997,
+          "age_shares": {
+            "0-19": 0.328088,
+            "20-64": 0.573842,
+            "65+": 0.09807
+          },
+          "annual_rate_percent": 0.31,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.117,
+          "previous_births_per_1000": 35.8,
+          "previous_deaths_per_1000": 32.7,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "averholt",
+          "name": "Averholt",
+          "births_per_1000": 19.933469,
+          "deaths_per_1000": 15.533469,
+          "infant_deaths_per_1000_residents": 1.474453,
+          "age_shares": {
+            "0-19": 0.33924,
+            "20-64": 0.568803,
+            "65+": 0.091957
+          },
+          "annual_rate_percent": 0.44,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.135,
+          "previous_births_per_1000": 30.2,
+          "previous_deaths_per_1000": 25.8,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "serevask",
+          "name": "Serevask Republic",
+          "births_per_1000": 18.264139,
+          "deaths_per_1000": 16.564139,
+          "infant_deaths_per_1000_residents": 1.372975,
+          "age_shares": {
+            "0-19": 0.319008,
+            "20-64": 0.58002,
+            "65+": 0.100972
+          },
+          "annual_rate_percent": 0.17,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.151,
+          "previous_births_per_1000": 35.0,
+          "previous_deaths_per_1000": 33.3,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "varnelle",
+          "name": "Varnelle",
+          "births_per_1000": 19.156691,
+          "deaths_per_1000": 15.556691,
+          "infant_deaths_per_1000_residents": 1.359137,
+          "age_shares": {
+            "0-19": 0.330325,
+            "20-64": 0.571249,
+            "65+": 0.098425
+          },
+          "annual_rate_percent": 0.36,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.086,
+          "previous_births_per_1000": 34.6,
+          "previous_deaths_per_1000": 31.0,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "kelbrun",
+          "name": "Kelbrun",
+          "births_per_1000": 21.058386,
+          "deaths_per_1000": 15.258386,
+          "infant_deaths_per_1000_residents": 1.601578,
+          "age_shares": {
+            "0-19": 0.352087,
+            "20-64": 0.563158,
+            "65+": 0.084755
+          },
+          "annual_rate_percent": 0.58,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.17,
+          "previous_births_per_1000": 34.0,
+          "previous_deaths_per_1000": 28.2,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "gavrel",
+          "name": "Gavrel",
+          "births_per_1000": 18.10568,
+          "deaths_per_1000": 16.90568,
+          "infant_deaths_per_1000_residents": 1.3981,
+          "age_shares": {
+            "0-19": 0.316837,
+            "20-64": 0.582602,
+            "65+": 0.100561
+          },
+          "annual_rate_percent": 0.12,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.183,
+          "previous_births_per_1000": 30.9,
+          "previous_deaths_per_1000": 29.7,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "other-otranto-400",
+          "name": "Bellacosta Cantons",
+          "births_per_1000": 18.853584,
+          "deaths_per_1000": 16.553584,
+          "infant_deaths_per_1000_residents": 1.466055,
+          "age_shares": {
+            "0-19": 0.325887,
+            "20-64": 0.578424,
+            "65+": 0.095689
+          },
+          "annual_rate_percent": 0.23,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.193,
+          "previous_births_per_1000": 32.7,
+          "previous_deaths_per_1000": 30.4,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "other-otranto-700",
+          "name": "Cavressa Principalities",
+          "births_per_1000": 17.999229,
+          "deaths_per_1000": 16.899229,
+          "infant_deaths_per_1000_residents": 1.37986,
+          "age_shares": {
+            "0-19": 0.315588,
+            "20-64": 0.582804,
+            "65+": 0.101608
+          },
+          "annual_rate_percent": 0.11,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.174,
+          "previous_births_per_1000": 30.5,
+          "previous_deaths_per_1000": 29.4,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "other-otranto-1100",
+          "name": "Vaulcerre Basin Leagues",
+          "births_per_1000": 19.066837,
+          "deaths_per_1000": 16.366837,
+          "infant_deaths_per_1000_residents": 1.47131,
+          "age_shares": {
+            "0-19": 0.328526,
+            "20-64": 0.576644,
+            "65+": 0.094829
+          },
+          "annual_rate_percent": 0.27,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.184,
+          "previous_births_per_1000": 29.0,
+          "previous_deaths_per_1000": 26.3,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "other-otranto-1450",
+          "name": "Seravelle Littoral",
+          "births_per_1000": 18.10568,
+          "deaths_per_1000": 16.90568,
+          "infant_deaths_per_1000_residents": 1.3981,
+          "age_shares": {
+            "0-19": 0.316837,
+            "20-64": 0.582602,
+            "65+": 0.100561
+          },
+          "annual_rate_percent": 0.12,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.183,
+          "previous_births_per_1000": 31.6,
+          "previous_deaths_per_1000": 30.4,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "other-morholt-1880",
+          "name": "Haldrevik Concessions",
+          "births_per_1000": 19.091675,
+          "deaths_per_1000": 16.291675,
+          "infant_deaths_per_1000_residents": 1.463519,
+          "age_shares": {
+            "0-19": 0.328885,
+            "20-64": 0.576103,
+            "65+": 0.095012
+          },
+          "annual_rate_percent": 0.28,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.176,
+          "previous_births_per_1000": 36.0,
+          "previous_deaths_per_1000": 33.2,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "other-morholt-2190",
+          "name": "Dreissen Wardholds",
+          "births_per_1000": 20.179742,
+          "deaths_per_1000": 15.579742,
+          "infant_deaths_per_1000_residents": 1.520177,
+          "age_shares": {
+            "0-19": 0.341971,
+            "20-64": 0.568267,
+            "65+": 0.089763
+          },
+          "annual_rate_percent": 0.46,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.157,
+          "previous_births_per_1000": 35.1,
+          "previous_deaths_per_1000": 30.5,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "other-morholt-2630",
+          "name": "Varneselle Estates",
+          "births_per_1000": 20.015197,
+          "deaths_per_1000": 15.915197,
+          "infant_deaths_per_1000_residents": 1.549841,
+          "age_shares": {
+            "0-19": 0.339771,
+            "20-64": 0.570857,
+            "65+": 0.089372
+          },
+          "annual_rate_percent": 0.41,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.19,
+          "previous_births_per_1000": 33.7,
+          "previous_deaths_per_1000": 29.6,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "other-vesalius-2790",
+          "name": "Bressavelle Marches",
+          "births_per_1000": 20.030776,
+          "deaths_per_1000": 15.830776,
+          "infant_deaths_per_1000_residents": 1.538377,
+          "age_shares": {
+            "0-19": 0.340034,
+            "20-64": 0.570295,
+            "65+": 0.089671
+          },
+          "annual_rate_percent": 0.42,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.18,
+          "previous_births_per_1000": 31.7,
+          "previous_deaths_per_1000": 27.5,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "other-vesalius-2790-1410",
+          "name": "Vallessia Cantons",
+          "births_per_1000": 18.066763,
+          "deaths_per_1000": 16.866763,
+          "infant_deaths_per_1000_residents": 1.386032,
+          "age_shares": {
+            "0-19": 0.316414,
+            "20-64": 0.58244,
+            "65+": 0.101146
+          },
+          "annual_rate_percent": 0.12,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.175,
+          "previous_births_per_1000": 35.1,
+          "previous_deaths_per_1000": 33.9,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "other-vesalius-3160",
+          "name": "Rivessac Coast",
+          "births_per_1000": 19.88792,
+          "deaths_per_1000": 15.78792,
+          "infant_deaths_per_1000_residents": 1.508899,
+          "age_shares": {
+            "0-19": 0.338467,
+            "20-64": 0.570514,
+            "65+": 0.091019
+          },
+          "annual_rate_percent": 0.41,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.165,
+          "previous_births_per_1000": 30.3,
+          "previous_deaths_per_1000": 26.2,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "karsenne",
+          "name": "Karsenne Compact",
+          "births_per_1000": 17.997047,
+          "deaths_per_1000": 15.997047,
+          "infant_deaths_per_1000_residents": 1.248237,
+          "age_shares": {
+            "0-19": 0.316323,
+            "20-64": 0.576803,
+            "65+": 0.106874
+          },
+          "annual_rate_percent": 0.2,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.059,
+          "previous_births_per_1000": 29.4,
+          "previous_deaths_per_1000": 27.4,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "caldrienne",
+          "name": "Duchy of Caldrienne",
+          "births_per_1000": 19.064698,
+          "deaths_per_1000": 15.464698,
+          "infant_deaths_per_1000_residents": 1.330996,
+          "age_shares": {
+            "0-19": 0.329341,
+            "20-64": 0.570891,
+            "65+": 0.099768
+          },
+          "annual_rate_percent": 0.36,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.068,
+          "previous_births_per_1000": 32.7,
+          "previous_deaths_per_1000": 29.1,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "veyrasse",
+          "name": "March of Veyrasse",
+          "births_per_1000": 19.859032,
+          "deaths_per_1000": 15.159032,
+          "infant_deaths_per_1000_residents": 1.402429,
+          "age_shares": {
+            "0-19": 0.338761,
+            "20-64": 0.566697,
+            "65+": 0.094542
+          },
+          "annual_rate_percent": 0.47,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.082,
+          "previous_births_per_1000": 35.5,
+          "previous_deaths_per_1000": 30.8,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "calvernis",
+          "name": "Calvernis Republic",
+          "births_per_1000": 19.713692,
+          "deaths_per_1000": 14.513692,
+          "infant_deaths_per_1000_residents": 1.278349,
+          "age_shares": {
+            "0-19": 0.337681,
+            "20-64": 0.562937,
+            "65+": 0.099382
+          },
+          "annual_rate_percent": 0.52,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 0.991,
+          "previous_births_per_1000": 30.4,
+          "previous_deaths_per_1000": 25.2,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "ceralte",
+          "name": "Ceralte Admiralty",
+          "births_per_1000": 18.562656,
+          "deaths_per_1000": 15.662656,
+          "infant_deaths_per_1000_residents": 1.28514,
+          "age_shares": {
+            "0-19": 0.323299,
+            "20-64": 0.573398,
+            "65+": 0.103303
+          },
+          "annual_rate_percent": 0.29,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.058,
+          "previous_births_per_1000": 31.9,
+          "previous_deaths_per_1000": 29.0,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "varessan",
+          "name": "Varessan Sea League",
+          "births_per_1000": 19.872517,
+          "deaths_per_1000": 15.672517,
+          "infant_deaths_per_1000_residents": 1.487673,
+          "age_shares": {
+            "0-19": 0.33841,
+            "20-64": 0.569857,
+            "65+": 0.091733
+          },
+          "annual_rate_percent": 0.42,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.149,
+          "previous_births_per_1000": 31.2,
+          "previous_deaths_per_1000": 27.0,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "talasca",
+          "name": "Talascan Charter Islands",
+          "births_per_1000": 18.949321,
+          "deaths_per_1000": 15.849321,
+          "infant_deaths_per_1000_residents": 1.372521,
+          "age_shares": {
+            "0-19": 0.327656,
+            "20-64": 0.573689,
+            "65+": 0.098655
+          },
+          "annual_rate_percent": 0.31,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.109,
+          "previous_births_per_1000": 32.6,
+          "previous_deaths_per_1000": 29.5,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "nemerai",
+          "name": "Nemerai Crown",
+          "births_per_1000": 20.812161,
+          "deaths_per_1000": 15.312161,
+          "infant_deaths_per_1000_residents": 1.57292,
+          "age_shares": {
+            "0-19": 0.34931,
+            "20-64": 0.564405,
+            "65+": 0.086285
+          },
+          "annual_rate_percent": 0.55,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.162,
+          "previous_births_per_1000": 33.8,
+          "previous_deaths_per_1000": 28.3,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "ordelune",
+          "name": "Ordelune Overseas Districts",
+          "births_per_1000": 19.644055,
+          "deaths_per_1000": 15.944055,
+          "infant_deaths_per_1000_residents": 1.495909,
+          "age_shares": {
+            "0-19": 0.335545,
+            "20-64": 0.572262,
+            "65+": 0.092194
+          },
+          "annual_rate_percent": 0.37,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.169,
+          "previous_births_per_1000": 32.1,
+          "previous_deaths_per_1000": 28.4,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "skeldra",
+          "name": "Skeldran Hearth Confederacy",
+          "births_per_1000": 18.983323,
+          "deaths_per_1000": 17.183323,
+          "infant_deaths_per_1000_residents": 1.585873,
+          "age_shares": {
+            "0-19": 0.326746,
+            "20-64": 0.581895,
+            "65+": 0.091359
+          },
+          "annual_rate_percent": 0.18,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.285,
+          "previous_births_per_1000": 30.7,
+          "previous_deaths_per_1000": 28.9,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "merovia",
+          "name": "Merovian Island Republic",
+          "births_per_1000": 19.896246,
+          "deaths_per_1000": 15.296246,
+          "infant_deaths_per_1000_residents": 1.43021,
+          "age_shares": {
+            "0-19": 0.339052,
+            "20-64": 0.567447,
+            "65+": 0.093502
+          },
+          "annual_rate_percent": 0.46,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.102,
+          "previous_births_per_1000": 31.8,
+          "previous_deaths_per_1000": 27.2,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "ashalai",
+          "name": "Ashalai Reef Covenant",
+          "births_per_1000": 21.746538,
+          "deaths_per_1000": 15.546538,
+          "infant_deaths_per_1000_residents": 1.760217,
+          "age_shares": {
+            "0-19": 0.359247,
+            "20-64": 0.562005,
+            "65+": 0.078747
+          },
+          "annual_rate_percent": 0.62,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.249,
+          "previous_births_per_1000": 35.1,
+          "previous_deaths_per_1000": 28.9,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "istrana",
+          "name": "Kingdom of Istrana",
+          "births_per_1000": 20.04927,
+          "deaths_per_1000": 15.14927,
+          "infant_deaths_per_1000_residents": 1.429445,
+          "age_shares": {
+            "0-19": 0.340932,
+            "20-64": 0.566045,
+            "65+": 0.093023
+          },
+          "annual_rate_percent": 0.49,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.093,
+          "previous_births_per_1000": 32.4,
+          "previous_deaths_per_1000": 27.5,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "edrask",
+          "name": "Edrask Governorate",
+          "births_per_1000": 18.956111,
+          "deaths_per_1000": 16.056111,
+          "infant_deaths_per_1000_residents": 1.405447,
+          "age_shares": {
+            "0-19": 0.327545,
+            "20-64": 0.574998,
+            "65+": 0.097458
+          },
+          "annual_rate_percent": 0.29,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.136,
+          "previous_births_per_1000": 31.9,
+          "previous_deaths_per_1000": 29.0,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        },
+        {
+          "id": "norrakai",
+          "name": "Norrakai Moots",
+          "births_per_1000": 18.825647,
+          "deaths_per_1000": 17.625647,
+          "infant_deaths_per_1000_residents": 1.628634,
+          "age_shares": {
+            "0-19": 0.32448,
+            "20-64": 0.58504,
+            "65+": 0.09048
+          },
+          "annual_rate_percent": 0.12,
+          "net_migration_people_per_year": 0,
+          "hazard_multiplier": 1.332,
+          "previous_births_per_1000": 29.6,
+          "previous_deaths_per_1000": 28.4,
+          "review": "Stable-age scenario calibrated to the existing net trend; no independent fertility or age census. Infant deaths are included in total deaths."
+        }
+      ]
+    }
+  ]
+}

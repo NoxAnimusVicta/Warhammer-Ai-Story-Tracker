@@ -14319,3 +14319,13 @@ The checks passed, and all 15 published files match the tested version.
 ## 625 - User - Remove immersion-breaking app labels
 
 "Independent fan campaign · Warhammer 40,000 belongs to its respective rights holders." Have this in the files I do not mind but I do not need it directly in my app please same for "Published record · Revision 72" They are immersion breaking
+
+## 626 - Assistant - Published immersive label cleanup
+
+Removed both lines from the visible app, including the revision number in the update status. Attribution and version information remain in the files.
+
+[Updated app](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=d5d7d71e7374f07a34c2#physiology) — verified live.
+
+## 627 - User - Simplify lifespan bands and reconcile population growth
+
+Having separate Life Expectancies for at Birth and Remaining after age 20 seems a poor way of showing these stats. We already have population growth rates so we know roughly how many people are born and die and what the replenishment rate of each nation is. As you have it the minimum age you can reach after hitting 20 is beyond the range bands from birth which doesn't make sense. Probably better for you to have a standard rangebands for lifespans per nation and then just leave infant mortality as part of the population growth rate. The population growth rates should be looked at as well to ensure it fits with all the new data

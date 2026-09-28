@@ -35,7 +35,7 @@ Ordinary humans have ordinary mortal lifespans. There is **no native life-extens
 
 Historical calibration: the [British Central Statistical Office's Annual Abstract of Statistics, table 29](https://www.lifetable.de/File/GetDocument/data/GBR/GBRGBR019481950AU1.pdf) supplies Great Britain's **1930–32** life table, a nearby interwar European reference rather than an exact 1938 universal table. Annual male/female mortality at age 60 is 2.427/1.796%, at 70 6.063/4.497%, and at 80 14.562/11.934%. Life expectancy at birth was 58.4/62.5 years. Those averages are not compulsory death ages. Historical age rates are interpolated between five-year points; ages 1–4 and above 100 use explicitly modelled approximations. See mortality.py in the maintained source.
 
-National estimates vary with accessible care, clean water and household deprivation. The shared ordinary-hazard factor is `0.7 + 0.45 × (1 − care access) + 0.35 × (1 − clean-water access) + 0.5 × weighted basic-needs shortfall`, with access as fractions. It scales mortality hazards, not age or the calendar. The displayed range varies this factor by ±20%; it is a scenario range, not a measured life table. Applying the age schedule and summing survival produces life expectancy at birth and conditional remaining years at 20. Health, sanitation and household estimates are reviewed yearly. Exceptional war, epidemic and famine mortality must be added from recorded age/exposure-specific events; crude national deaths cannot be converted directly into lifespan. Until such a schedule exists these are **ordinary-conditions estimates**, not an all-cause wartime forecast.
+National estimates vary with accessible care, clean water and household deprivation. The shared ordinary-hazard factor is `0.7 + 0.45 × (1 − care access) + 0.35 × (1 − clean-water access) + 0.5 × weighted basic-needs shortfall`, with access as fractions. It scales mortality hazards, not age or the calendar. The app shows one typical adult lifespan band: the 25th–75th percentile of modelled death ages for people reaching adulthood (20), rounded to whole local years of total age. This describes the central half, not guaranteed minimum/maximum ages or a confidence interval. Infant/child deaths stay in demographic accounting. The former at-birth and remaining-at-20 expectations are retained only as diagnostic data, not app headlines. See [population reconciliation](DEMOGRAPHIC-REVIEW.md) for the shared survival assumptions, explicitly estimated age structure and revised birth/death rates. Health, sanitation and household estimates are reviewed yearly. Exceptional war, epidemic and famine mortality must be added from recorded age/exposure-specific events; crude national deaths cannot be converted directly into lifespan. Until such a schedule exists these are **ordinary-conditions estimates**, not an all-cause wartime forecast.
 
 Biographies show the age-related reference risk, incorporating age uncertainty and both historical sex curves rather than guessing sex from names. The annual person review then considers actual country, living conditions, medical access, illness and exposure. Age meaningfully increases risk; health labels cannot make it zero. Being 70 is not itself a specific disease, nor does looking healthy remove age-related mortality. Private probabilistic resolutions are made once, proportionate to the elapsed period; builds never reroll or secretly kill people. Every death or incapacity requires a dated event and an appropriately profiled successor.
 
@@ -44,7 +44,7 @@ Biographies show the age-related reference risk, incorporating age uncertainty a
 Before every 01/01 rollover, review **all 43 returns**, even if the result is an explicitly justified unchanged value:
 
 1. Reconcile population, prices, wages, jobs, taxes, household composition and distribution. Record changes to input budgets, never manually edit the living-standard headline.
-2. Review care, sanitation and material hardship; recalculate national lifespan. Resolve any exceptional hazards separately with their evidence and affected population.
+2. Review care, sanitation and material hardship; recalculate national lifespan. Submit a complete dated demographic-reviews.json return for all 43 polities, reconciling fertility, age structure, births, deaths (including infancy once), migration and net growth; do not hold growth fixed automatically when conditions change. Resolve any exceptional hazards separately with their evidence and affected population.
 3. Reconcile each technical field's ordinary improvement, adoption and losses against spending, trade, training and the national output trend. Record starting/closing metrics for any actual adoption programme. Update capability only on evidence.
 4. Review political rights, domestic tensions, public confidence and security against their source events. Neither prosperity nor a good ruler guarantees approval.
 5. Resolve each tracked person's elapsed-period mortality, health, mandate and succession review; do not grant a birthday at every new year or apply a full year's risk to a partial year.
@@ -61,7 +61,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 83.58 | 25.0 | 3.343× |
 
 Accessible ordinary care: 61%; reliable clean water: 68%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 56.6–63.9 local years; remaining at age 20: 45.7–50.6 years. Ordinary conditions estimate.
+Typical adult lifespan: 60–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.72 and public works 8.15 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -91,7 +91,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 71.56 | 24.0 | 2.982× |
 
 Accessible ordinary care: 52%; reliable clean water: 48%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 53.9–61.4 local years; remaining at age 20: 44.0–48.9 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.42 and public works 3.40 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -121,7 +121,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 93.06 | 25.0 | 3.722× |
 
 Accessible ordinary care: 64%; reliable clean water: 64%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 57.1–64.3 local years; remaining at age 20: 46.1–50.9 years. Ordinary conditions estimate.
+Typical adult lifespan: 60–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 5.70 and public works 5.94 L-eq per resident; communication capability 5/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -151,7 +151,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 75.01 | 24.0 | 3.126× |
 
 Accessible ordinary care: 60%; reliable clean water: 56%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 55.2–62.7 local years; remaining at age 20: 44.9–49.8 years. Ordinary conditions estimate.
+Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.82 and public works 4.38 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -181,7 +181,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 68.23 | 24.0 | 2.843× |
 
 Accessible ordinary care: 54%; reliable clean water: 48%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 53.8–61.3 local years; remaining at age 20: 44.0–48.9 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.58 and public works 3.47 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -211,7 +211,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 86.55 | 25.0 | 3.462× |
 
 Accessible ordinary care: 62%; reliable clean water: 64%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 56.6–63.9 local years; remaining at age 20: 45.8–50.7 years. Ordinary conditions estimate.
+Typical adult lifespan: 60–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 3.01 and public works 9.03 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -241,7 +241,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 65.19 | 24.0 | 2.716× |
 
 Accessible ordinary care: 54%; reliable clean water: 49%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 53.6–61.1 local years; remaining at age 20: 43.8–48.8 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.68 and public works 3.70 L-eq per resident; communication capability 3/5; retained effort factor 0.55. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -271,7 +271,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 68.07 | 24.0 | 2.836× |
 
 Accessible ordinary care: 53%; reliable clean water: 54%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 54.0–61.5 local years; remaining at age 20: 44.1–49.0 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.92 and public works 5.77 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -301,7 +301,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 82.15 | 24.0 | 3.423× |
 
 Accessible ordinary care: 60%; reliable clean water: 62%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 56.2–63.5 local years; remaining at age 20: 45.5–50.4 years. Ordinary conditions estimate.
+Typical adult lifespan: 60–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.51 and public works 7.53 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -331,7 +331,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 69.94 | 24.0 | 2.914× |
 
 Accessible ordinary care: 65%; reliable clean water: 50%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 54.8–62.3 local years; remaining at age 20: 44.6–49.5 years. Ordinary conditions estimate.
+Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 3.98 and public works 4.15 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -361,7 +361,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 70.69 | 24.0 | 2.945× |
 
 Accessible ordinary care: 52%; reliable clean water: 49%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 53.9–61.4 local years; remaining at age 20: 44.0–48.9 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.50 and public works 3.60 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -391,7 +391,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 87.03 | 25.0 | 3.481× |
 
 Accessible ordinary care: 64%; reliable clean water: 65%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 56.9–64.2 local years; remaining at age 20: 46.0–50.9 years. Ordinary conditions estimate.
+Typical adult lifespan: 60–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 3.41 and public works 10.24 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -421,7 +421,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 74.23 | 24.0 | 3.093× |
 
 Accessible ordinary care: 52%; reliable clean water: 59%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 54.7–62.2 local years; remaining at age 20: 44.6–49.5 years. Ordinary conditions estimate.
+Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.87 and public works 5.61 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -451,7 +451,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 73.57 | 24.0 | 3.065× |
 
 Accessible ordinary care: 55%; reliable clean water: 51%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 54.4–61.9 local years; remaining at age 20: 44.4–49.3 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.88 and public works 4.52 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -481,7 +481,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 70.13 | 24.0 | 2.922× |
 
 Accessible ordinary care: 58%; reliable clean water: 47%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 54.1–61.6 local years; remaining at age 20: 44.2–49.1 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.43 and public works 3.15 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -511,7 +511,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 75.29 | 24.0 | 3.137× |
 
 Accessible ordinary care: 60%; reliable clean water: 56%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 55.3–62.7 local years; remaining at age 20: 44.9–49.8 years. Ordinary conditions estimate.
+Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.32 and public works 6.97 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -541,7 +541,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 62.41 | 21.0 | 2.972× |
 
 Accessible ordinary care: 51%; reliable clean water: 42%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 53.8–61.4 local years; remaining at age 20: 44.0–48.9 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.29 and public works 3.11 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -571,7 +571,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 62.4 | 21.0 | 2.971× |
 
 Accessible ordinary care: 48%; reliable clean water: 42%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 53.6–61.2 local years; remaining at age 20: 43.9–48.8 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.44 and public works 3.18 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -601,7 +601,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 64.54 | 21.0 | 3.073× |
 
 Accessible ordinary care: 44%; reliable clean water: 41%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 53.4–61.0 local years; remaining at age 20: 43.8–48.7 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.11 and public works 2.68 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -631,7 +631,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 66.4 | 21.0 | 3.162× |
 
 Accessible ordinary care: 46%; reliable clean water: 41%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 53.8–61.3 local years; remaining at age 20: 44.0–48.9 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.22 and public works 2.68 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -661,7 +661,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 65.29 | 21.0 | 3.109× |
 
 Accessible ordinary care: 45%; reliable clean water: 41%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 53.6–61.1 local years; remaining at age 20: 43.9–48.8 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.16 and public works 2.78 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -691,7 +691,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 65.34 | 21.0 | 3.111× |
 
 Accessible ordinary care: 43%; reliable clean water: 44%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 53.6–61.2 local years; remaining at age 20: 43.9–48.8 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.26 and public works 3.79 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -721,7 +721,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 64.43 | 21.0 | 3.068× |
 
 Accessible ordinary care: 44%; reliable clean water: 46%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 53.7–61.3 local years; remaining at age 20: 43.9–48.9 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.39 and public works 4.18 L-eq per resident; communication capability 2/5; retained effort factor 0.7. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -751,7 +751,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 66.44 | 21.0 | 3.164× |
 
 Accessible ordinary care: 45%; reliable clean water: 47%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 54.0–61.6 local years; remaining at age 20: 44.1–49.0 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.58 and public works 4.75 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -781,7 +781,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 64.24 | 21.0 | 3.059× |
 
 Accessible ordinary care: 45%; reliable clean water: 41%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 53.5–61.1 local years; remaining at age 20: 43.8–48.7 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.16 and public works 2.79 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -811,7 +811,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 69.85 | 24.0 | 2.91× |
 
 Accessible ordinary care: 52%; reliable clean water: 47%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 53.7–61.2 local years; remaining at age 20: 43.9–48.8 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.42 and public works 3.13 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -841,7 +841,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 70.04 | 24.0 | 2.918× |
 
 Accessible ordinary care: 52%; reliable clean water: 48%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 53.7–61.3 local years; remaining at age 20: 43.9–48.9 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.42 and public works 3.40 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -871,7 +871,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 70.08 | 24.0 | 2.92× |
 
 Accessible ordinary care: 51%; reliable clean water: 52%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 53.9–61.4 local years; remaining at age 20: 44.1–49.0 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.62 and public works 4.86 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -901,7 +901,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 81.36 | 24.0 | 3.39× |
 
 Accessible ordinary care: 55%; reliable clean water: 62%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 55.7–63.1 local years; remaining at age 20: 45.2–50.1 years. Ordinary conditions estimate.
+Typical adult lifespan: 59–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.45 and public works 7.34 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -931,7 +931,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 76.81 | 24.0 | 3.2× |
 
 Accessible ordinary care: 57%; reliable clean water: 63%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 55.6–63.0 local years; remaining at age 20: 45.1–50.0 years. Ordinary conditions estimate.
+Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.81 and public works 8.43 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -961,7 +961,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 77.36 | 24.0 | 3.223× |
 
 Accessible ordinary care: 55%; reliable clean water: 61%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 55.3–62.7 local years; remaining at age 20: 45.0–49.9 years. Ordinary conditions estimate.
+Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.31 and public works 6.93 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -991,7 +991,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 88.95 | 25.0 | 3.558× |
 
 Accessible ordinary care: 63%; reliable clean water: 65%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 57.0–64.3 local years; remaining at age 20: 46.0–50.9 years. Ordinary conditions estimate.
+Typical adult lifespan: 60–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 3.19 and public works 9.56 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -1021,7 +1021,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 81.94 | 24.0 | 3.414× |
 
 Accessible ordinary care: 57%; reliable clean water: 59%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 55.8–63.1 local years; remaining at age 20: 45.2–50.1 years. Ordinary conditions estimate.
+Typical adult lifespan: 59–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 3.00 and public works 9.02 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -1051,7 +1051,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 68.94 | 21.0 | 3.283× |
 
 Accessible ordinary care: 47%; reliable clean water: 43%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 54.2–61.7 local years; remaining at age 20: 44.2–49.1 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.42 and public works 3.42 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -1081,7 +1081,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 72.49 | 21.0 | 3.452× |
 
 Accessible ordinary care: 48%; reliable clean water: 50%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 54.9–62.3 local years; remaining at age 20: 44.7–49.6 years. Ordinary conditions estimate.
+Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.09 and public works 6.28 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -1111,7 +1111,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 67.07 | 21.0 | 3.194× |
 
 Accessible ordinary care: 44%; reliable clean water: 46%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 54.0–61.5 local years; remaining at age 20: 44.1–49.0 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.15 and public works 2.76 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -1141,7 +1141,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 65.23 | 21.0 | 3.106× |
 
 Accessible ordinary care: 47%; reliable clean water: 43%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 53.9–61.4 local years; remaining at age 20: 44.0–48.9 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.41 and public works 3.37 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -1171,7 +1171,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 56.87 | 21.0 | 2.708× |
 
 Accessible ordinary care: 42%; reliable clean water: 29%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 52.0–59.7 local years; remaining at age 20: 42.9–47.8 years. Ordinary conditions estimate.
+Typical adult lifespan: 57–76 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 0.55 and public works 1.26 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -1201,7 +1201,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 74.92 | 24.0 | 3.122× |
 
 Accessible ordinary care: 56%; reliable clean water: 57%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 55.0–62.4 local years; remaining at age 20: 44.7–49.6 years. Ordinary conditions estimate.
+Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.60 and public works 7.81 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -1231,7 +1231,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 60.07 | 21.0 | 2.861× |
 
 Accessible ordinary care: 40%; reliable clean water: 37%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 52.5–60.2 local years; remaining at age 20: 43.2–48.1 years. Ordinary conditions estimate.
+Typical adult lifespan: 57–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 0.77 and public works 1.84 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -1261,7 +1261,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 70.7 | 21.0 | 3.367× |
 
 Accessible ordinary care: 51%; reliable clean water: 51%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 55.1–62.6 local years; remaining at age 20: 44.8–49.7 years. Ordinary conditions estimate.
+Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 4.19 and public works 4.37 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -1291,7 +1291,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 68.08 | 21.0 | 3.242× |
 
 Accessible ordinary care: 47%; reliable clean water: 48%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 54.4–61.9 local years; remaining at age 20: 44.4–49.3 years. Ordinary conditions estimate.
+Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.82 and public works 5.45 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|
@@ -1321,7 +1321,7 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 | Professional and asset-owning households | 5% | 54.83 | 21.0 | 2.611× |
 
 Accessible ordinary care: 35%; reliable clean water: 28%. Both are scenario estimates, not a survey.
-Life expectancy at birth: 51.3–59.0 local years; remaining at age 20: 42.4–47.4 years. Ordinary conditions estimate.
+Typical adult lifespan: 56–76 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 0.45 and public works 1.04 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 | Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
 |---|---:|---:|---:|

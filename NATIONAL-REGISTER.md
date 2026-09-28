@@ -108,7 +108,7 @@ Evidence bands: standard_of_living 28–58; confidence 40–61; protection 12–
 
 ### Technology and longevity
 
-Life expectancy at birth: 56.6–63.9 local years. Conditional remaining years at age 20: 45.7–50.6. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 60–79 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -253,7 +253,7 @@ Evidence bands: standard_of_living 22–52; confidence 30–50; protection 10–
 
 ### Technology and longevity
 
-Life expectancy at birth: 53.9–61.4 local years. Conditional remaining years at age 20: 44.0–48.9. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -398,7 +398,7 @@ Evidence bands: standard_of_living 33–63; confidence 44–64; protection 13–
 
 ### Technology and longevity
 
-Life expectancy at birth: 57.1–64.3 local years. Conditional remaining years at age 20: 46.1–50.9. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 60–79 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -543,7 +543,7 @@ Evidence bands: standard_of_living 24–55; confidence 40–61; protection 52–
 
 ### Technology and longevity
 
-Life expectancy at birth: 55.2–62.7 local years. Conditional remaining years at age 20: 44.9–49.8. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 59–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -688,7 +688,7 @@ Evidence bands: standard_of_living 19–50; confidence 28–49; protection 11–
 
 ### Technology and longevity
 
-Life expectancy at birth: 53.8–61.3 local years. Conditional remaining years at age 20: 44.0–48.9. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -833,7 +833,7 @@ Evidence bands: standard_of_living 30–60; confidence 47–67; protection 12–
 
 ### Technology and longevity
 
-Life expectancy at birth: 56.6–63.9 local years. Conditional remaining years at age 20: 45.8–50.7. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 60–79 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -978,7 +978,7 @@ Evidence bands: standard_of_living 17–47; confidence 16–42; protection 11–
 
 ### Technology and longevity
 
-Life expectancy at birth: 53.6–61.1 local years. Conditional remaining years at age 20: 43.8–48.8. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -1123,7 +1123,7 @@ Evidence bands: standard_of_living 19–50; confidence 39–59; protection 11–
 
 ### Technology and longevity
 
-Life expectancy at birth: 54.0–61.5 local years. Conditional remaining years at age 20: 44.1–49.0. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -1268,7 +1268,7 @@ Evidence bands: standard_of_living 29–59; confidence 42–63; protection 12–
 
 ### Technology and longevity
 
-Life expectancy at birth: 56.2–63.5 local years. Conditional remaining years at age 20: 45.5–50.4. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 60–79 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -1413,7 +1413,7 @@ Evidence bands: standard_of_living 20–51; confidence 39–60; protection 53–
 
 ### Technology and longevity
 
-Life expectancy at birth: 54.8–62.3 local years. Conditional remaining years at age 20: 44.6–49.5. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 59–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -1558,7 +1558,7 @@ Evidence bands: standard_of_living 21–52; confidence 40–60; protection 10–
 
 ### Technology and longevity
 
-Life expectancy at birth: 53.9–61.4 local years. Conditional remaining years at age 20: 44.0–48.9. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -1703,7 +1703,7 @@ Evidence bands: standard_of_living 30–60; confidence 41–61; protection 13–
 
 ### Technology and longevity
 
-Life expectancy at birth: 56.9–64.2 local years. Conditional remaining years at age 20: 46.0–50.9. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 60–79 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -1848,7 +1848,7 @@ Evidence bands: standard_of_living 24–54; confidence 30–51; protection 10–
 
 ### Technology and longevity
 
-Life expectancy at birth: 54.7–62.2 local years. Conditional remaining years at age 20: 44.6–49.5. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 59–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -1993,7 +1993,7 @@ Evidence bands: standard_of_living 23–54; confidence 40–60; protection 51–
 
 ### Technology and longevity
 
-Life expectancy at birth: 54.4–61.9 local years. Conditional remaining years at age 20: 44.4–49.3. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -2138,7 +2138,7 @@ Evidence bands: standard_of_living 21–51; confidence 29–68; protection 12–
 
 ### Technology and longevity
 
-Life expectancy at birth: 54.1–61.6 local years. Conditional remaining years at age 20: 44.2–49.1. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -2283,7 +2283,7 @@ Evidence bands: standard_of_living 24–55; confidence 41–62; protection 12–
 
 ### Technology and longevity
 
-Life expectancy at birth: 55.3–62.7 local years. Conditional remaining years at age 20: 44.9–49.8. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 59–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -2428,7 +2428,7 @@ Evidence bands: standard_of_living 24–55; confidence 40–60; protection 10–
 
 ### Technology and longevity
 
-Life expectancy at birth: 53.8–61.4 local years. Conditional remaining years at age 20: 44.0–48.9. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -2573,7 +2573,7 @@ Evidence bands: standard_of_living 24–55; confidence 31–52; protection 30–
 
 ### Technology and longevity
 
-Life expectancy at birth: 53.6–61.2 local years. Conditional remaining years at age 20: 43.9–48.8. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -2718,7 +2718,7 @@ Evidence bands: standard_of_living 26–56; confidence 41–61; protection 29–
 
 ### Technology and longevity
 
-Life expectancy at birth: 53.4–61.0 local years. Conditional remaining years at age 20: 43.8–48.7. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -2863,7 +2863,7 @@ Evidence bands: standard_of_living 27–58; confidence 39–60; protection 29–
 
 ### Technology and longevity
 
-Life expectancy at birth: 53.8–61.3 local years. Conditional remaining years at age 20: 44.0–48.9. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -3008,7 +3008,7 @@ Evidence bands: standard_of_living 26–57; confidence 40–61; protection 49–
 
 ### Technology and longevity
 
-Life expectancy at birth: 53.6–61.1 local years. Conditional remaining years at age 20: 43.9–48.8. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -3153,7 +3153,7 @@ Evidence bands: standard_of_living 26–57; confidence 41–62; protection 29–
 
 ### Technology and longevity
 
-Life expectancy at birth: 53.6–61.2 local years. Conditional remaining years at age 20: 43.9–48.8. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -3298,7 +3298,7 @@ Evidence bands: standard_of_living 26–56; confidence 35–55; protection 29–
 
 ### Technology and longevity
 
-Life expectancy at birth: 53.7–61.3 local years. Conditional remaining years at age 20: 43.9–48.9. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -3443,7 +3443,7 @@ Evidence bands: standard_of_living 27–58; confidence 41–61; protection 29–
 
 ### Technology and longevity
 
-Life expectancy at birth: 54.0–61.6 local years. Conditional remaining years at age 20: 44.1–49.0. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -3588,7 +3588,7 @@ Evidence bands: standard_of_living 26–56; confidence 40–60; protection 29–
 
 ### Technology and longevity
 
-Life expectancy at birth: 53.5–61.1 local years. Conditional remaining years at age 20: 43.8–48.7. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -3733,7 +3733,7 @@ Evidence bands: standard_of_living 20–51; confidence 36–56; protection 30–
 
 ### Technology and longevity
 
-Life expectancy at birth: 53.7–61.2 local years. Conditional remaining years at age 20: 43.9–48.8. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -3878,7 +3878,7 @@ Evidence bands: standard_of_living 21–51; confidence 44–64; protection 50–
 
 ### Technology and longevity
 
-Life expectancy at birth: 53.7–61.3 local years. Conditional remaining years at age 20: 43.9–48.9. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -4023,7 +4023,7 @@ Evidence bands: standard_of_living 21–51; confidence 40–61; protection 30–
 
 ### Technology and longevity
 
-Life expectancy at birth: 53.9–61.4 local years. Conditional remaining years at age 20: 44.1–49.0. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -4168,7 +4168,7 @@ Evidence bands: standard_of_living 28–59; confidence 39–66; protection 11–
 
 ### Technology and longevity
 
-Life expectancy at birth: 55.7–63.1 local years. Conditional remaining years at age 20: 45.2–50.1. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 59–79 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -4313,7 +4313,7 @@ Evidence bands: standard_of_living 25–56; confidence 27–47; protection 11–
 
 ### Technology and longevity
 
-Life expectancy at birth: 55.6–63.0 local years. Conditional remaining years at age 20: 45.1–50.0. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 59–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -4458,7 +4458,7 @@ Evidence bands: standard_of_living 26–56; confidence 35–55; protection 31–
 
 ### Technology and longevity
 
-Life expectancy at birth: 55.3–62.7 local years. Conditional remaining years at age 20: 45.0–49.9. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 59–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -4603,7 +4603,7 @@ Evidence bands: standard_of_living 31–61; confidence 43–63; protection 13–
 
 ### Technology and longevity
 
-Life expectancy at birth: 57.0–64.3 local years. Conditional remaining years at age 20: 46.0–50.9. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 60–79 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -4748,7 +4748,7 @@ Evidence bands: standard_of_living 29–59; confidence 35–55; protection 11–
 
 ### Technology and longevity
 
-Life expectancy at birth: 55.8–63.1 local years. Conditional remaining years at age 20: 45.2–50.1. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 59–79 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -4893,7 +4893,7 @@ Evidence bands: standard_of_living 29–59; confidence 55–75; protection 69–
 
 ### Technology and longevity
 
-Life expectancy at birth: 54.2–61.7 local years. Conditional remaining years at age 20: 44.2–49.1. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -5038,7 +5038,7 @@ Evidence bands: standard_of_living 31–62; confidence 42–63; protection 10–
 
 ### Technology and longevity
 
-Life expectancy at birth: 54.9–62.3 local years. Conditional remaining years at age 20: 44.7–49.6. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 59–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -5183,7 +5183,7 @@ Evidence bands: standard_of_living 28–58; confidence 48–68; protection 69–
 
 ### Technology and longevity
 
-Life expectancy at birth: 54.0–61.5 local years. Conditional remaining years at age 20: 44.1–49.0. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -5328,7 +5328,7 @@ Evidence bands: standard_of_living 26–57; confidence 41–62; protection 29–
 
 ### Technology and longevity
 
-Life expectancy at birth: 53.9–61.4 local years. Conditional remaining years at age 20: 44.0–48.9. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -5473,7 +5473,7 @@ Evidence bands: standard_of_living 20–50; confidence 52–73; protection 68–
 
 ### Technology and longevity
 
-Life expectancy at birth: 52.0–59.7 local years. Conditional remaining years at age 20: 42.9–47.8. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 57–76 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -5618,7 +5618,7 @@ Evidence bands: standard_of_living 24–54; confidence 47–67; protection 11–
 
 ### Technology and longevity
 
-Life expectancy at birth: 55.0–62.4 local years. Conditional remaining years at age 20: 44.7–49.6. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 59–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -5763,7 +5763,7 @@ Evidence bands: standard_of_living 22–53; confidence 46–66; protection 68–
 
 ### Technology and longevity
 
-Life expectancy at birth: 52.5–60.2 local years. Conditional remaining years at age 20: 43.2–48.1. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 57–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -5908,7 +5908,7 @@ Evidence bands: standard_of_living 30–61; confidence 47–67; protection 50–
 
 ### Technology and longevity
 
-Life expectancy at birth: 55.1–62.6 local years. Conditional remaining years at age 20: 44.8–49.7. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 59–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -6053,7 +6053,7 @@ Evidence bands: standard_of_living 28–59; confidence 42–62; protection 29–
 
 ### Technology and longevity
 
-Life expectancy at birth: 54.4–61.9 local years. Conditional remaining years at age 20: 44.4–49.3. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 58–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
@@ -6198,7 +6198,7 @@ Evidence bands: standard_of_living 18–48; confidence 52–72; protection 67–
 
 ### Technology and longevity
 
-Life expectancy at birth: 51.3–59.0 local years. Conditional remaining years at age 20: 42.4–47.4. Estimated, reviewed 05/11/0068 AC43.
+Typical adult lifespan: 56–76 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
 [Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
 
