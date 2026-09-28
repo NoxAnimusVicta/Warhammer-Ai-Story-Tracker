@@ -14298,3 +14298,24 @@ Whatever you think is best, remember this numbers will need to be subject to yea
 ## 623 - User - National lifespan variation
 
 Lifespans may actually vary from nation to nation and it makes sense for lifespan to be another number that would be subject to updating
+
+
+## 624 - Assistant - Published household, development and lifespan corrections
+
+Updated and published. **Lifespan now varies by nation and requires yearly review**, based on care, clean water and household deprivation. Life expectancy at birth is separate from adult remaining lifespan and individual mortality risk.
+
+The broader fixes are also complete:
+
+- Corrected Royal Commission formatting and dropdown spacing on phone and PC.
+- Expanded national technology to 15 fields with annual improvement and adoption ranges.
+- Replaced the old living-standard score with household income-versus-cost budgets, with explicit estimates and uncertainty ranges.
+- Added annual review requirements for these figures and leadership mortality/succession.
+
+The checks passed, and all 15 published files match the tested version.
+
+[Open the updated slate](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=14804dc1009d291384a3#world) · [Read the methods and national estimates](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/DEVELOPMENT-REFERENCE.md)
+
+
+## 625 - User - Remove immersion-breaking app labels
+
+"Independent fan campaign · Warhammer 40,000 belongs to its respective rights holders." Have this in the files I do not mind but I do not need it directly in my app please same for "Published record · Revision 72" They are immersion breaking
