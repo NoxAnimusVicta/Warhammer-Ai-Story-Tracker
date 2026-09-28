@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="slate-build" content="3e8c5cb8bd24f736e452"><meta name="theme-color" content="#202d29"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Malaspina">
+<meta name="slate-build" content="68596f6c048fb104c590"><meta name="theme-color" content="#202d29"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Malaspina">
 <meta name="description" content="An evolving character dossier for Galahad, a perfected proto-Primarch on Malaspina.">
 <link rel="manifest" href="./manifest.webmanifest"><link rel="apple-touch-icon" href="./sigil-v1.png"><link rel="icon" type="image/png" sizes="1254x1254" href="./sigil-v1.png">
 <title>Malaspina | Galahad</title>
@@ -326,6 +326,111 @@ main #planetary-conflicts .slate-body > section + section { margin-top:26px; pad
  #research .research-stages>div{grid-template-columns:1fr;gap:5px}
 }
 
+/* Complete records, compact controls, quiet metadata. Map geometry is untouched. */
+main #world > .section-title { display:flex; align-items:end; justify-content:space-between; gap:20px; flex-wrap:wrap; }
+main .slate-date { margin:0; color:var(--gold); font:.8rem/1.6 'Courier New',monospace; }
+.slate-heading-source { display:none!important; }
+main .planetary-overview { margin:0 0 24px; border:1px solid var(--record-line); background:#102323; }
+main .planetary-overview > div { padding:18px 20px; border:0; border-left:1px solid var(--record-line); }
+main .planetary-overview > div:first-child { border-left:0; }
+main .planetary-overview strong { color:#d4d4b1; font:1.3rem/1.5 Georgia,serif; }
+main .planetary-overview span { font:.68rem/1.6 'Courier New',monospace; }
+main .world-chart { margin:0 0 28px; border:1px solid var(--record-line); border-top:3px double #718467; padding:0!important; }
+main .world-chart.panel > h3 { margin:20px 24px 4px; }
+main .world-chart > .atlas-subtitle { margin:0 24px 18px; font:.84rem/1.5 system-ui,sans-serif; color:var(--muted); }
+.atlas-toolbar { display:grid; grid-template-columns:minmax(0,1.2fr) minmax(0,1fr); padding:0 20px 16px; gap:10px 18px; }
+.atlas-toolbar .map-controls { margin:0; padding:0; border:0; gap:4px; }
+.atlas-toolbar .map-controls button { min-height:40px; padding:8px 10px; border-radius:0; font:.78rem/1.4 'Courier New',monospace; }
+.atlas-toolbar .atlas-zoom { grid-column:1/-1; justify-content:flex-end; align-items:center; }
+.atlas-toolbar .atlas-zoom #world-open-regional { margin-right:auto; order:-1; }
+main .world-chart .atlas-layer-controls { margin:0; padding:12px 20px; border:0; gap:8px; }
+.atlas-layer-controls button { min-height:38px; padding:7px 12px; border-radius:0; font:.75rem/1.4 'Courier New',monospace; }
+main .world-chart > .atlas-guide { margin:0; border:0; border-top:1px solid var(--record-line); background:transparent; }
+main .world-chart > .atlas-guide > summary { font-size:.95rem; min-height:46px; padding-block:10px; }
+main .world-chart > .atlas-guide > summary::before { top:20px; }
+main .atlas-guide .atlas-legend { padding:0 0 18px; }
+main .atlas-guide .world-key { margin-bottom:0; }
+main .atlas-guide .world-biome-key { grid-template-columns:repeat(3,minmax(0,1fr)); }
+main .atlas-guide .world-biome-key > p { grid-column:1/-1; }
+.atlas-directory { border-block:1px solid var(--record-line); padding:20px 0; margin:0 0 24px; }
+main .atlas-directory > .slate-group-title { margin:0 0 16px; }
+.atlas-directory-fields { display:grid; grid-template-columns:1fr 1fr 1.2fr; gap:18px; align-items:start; }
+.atlas-field { min-width:0; }
+.atlas-field label { display:block; margin:0 0 8px; color:var(--gold); font:.76rem/1.6 'Courier New',monospace; }
+.atlas-field :is(select,input) { display:block; width:100%; max-width:100%; box-sizing:border-box; min-height:48px; border:1px solid #566953; border-radius:0; padding:10px 12px; background:#102522; color:#e5dcc0; font:1rem/1.4 system-ui,sans-serif; }
+.atlas-field #world-search-count { margin:7px 0 0; font:.73rem/1.5 system-ui,sans-serif; color:var(--muted); }
+main .atlas-directory .directory-note { margin:14px 0 0; max-width:100%; font:.8rem/1.6 system-ui,sans-serif; color:var(--muted); }
+.atlas-selected-records,.world-reference-records { max-width:1040px; margin-inline:auto; }
+.atlas-selected[hidden],.veyrasse-context[hidden] { display:none!important; }
+.atlas-selected { padding:24px; border:1px solid var(--record-line); border-top:3px double #718467; margin-bottom:24px; background:#0d2021; min-width:0; }
+main .atlas-selected #national-register { padding:0; margin:0; border:0; }
+main .atlas-selected #world-readout,main .atlas-selected #world-state-readout { padding:0; background:none; border:0; margin:0 0 20px; }
+main .atlas-selected #world-readout h4 { color:var(--gold); font:small-caps 1.6rem/1.4 Georgia,serif; margin:0 0 16px; }
+main .atlas-selected #world-readout p { font:1rem/1.75 system-ui,sans-serif; }
+main .atlas-selected #world-state-readout p { font:.9rem/1.7 system-ui,sans-serif; margin:6px 0; }
+main .atlas-selected #world-state-readout p.fine { font-size:.78rem; color:var(--muted); }
+main #national-profile > h4 { margin:6px 0 8px; }
+main #national-profile > p.fine { color:var(--muted); font:.78rem/1.7 system-ui,sans-serif; margin:12px 0 20px; }
+main .national-profile-sections { margin-top:24px; }
+main .national-character > .slate-body > p:first-child { font-size:1rem; }
+main .national-panel > details { margin-top:16px; }
+main .national-panel > .national-comparison { border-top:3px double #718467; margin-top:28px; }
+main .national-budget .budget-ledger { margin:16px 0; }
+main .national-budget .budget-ledger .national-table caption { position:absolute; width:1px; height:1px; overflow:hidden; clip-path:inset(50%); }
+main .slate-body .labelled-record { padding:12px 0 16px; border-bottom:1px solid #344c40; }
+main .labelled-record > strong:first-child { display:block; color:var(--gold); margin-bottom:6px; font:1.03rem/1.5 Georgia,serif; }
+main .labelled-record:last-child { border-bottom:0; }
+main .slate-body > .slate-group { margin:24px 0; }
+main .slate-body > .slate-group:first-child { margin-top:0; }
+main .slate-body > .slate-group:last-child { margin-bottom:0; }
+main .slate-body .slate-group-title { font-size:.7rem; margin:0 0 12px; }
+main .slate-entry > .slate-body { max-width:100%; }
+main .slate-entry .slate-body > p:first-of-type { margin-top:0; }
+main .world-reference-records .slate-body > .slate-body { padding:0; }
+main .world-reference-records > .slate-reference { color:var(--muted); font:.82rem/1.7 system-ui,sans-serif; }
+main .world-reference-records .slate-body { max-width:100%; }
+main #journal > .journal-chapter { margin:16px 0; }
+main .journal-chapter > .slate-body > .journal-item { margin:0; border:0; border-bottom:1px solid var(--record-line); background:transparent; }
+main .journal-chapter > .slate-body { padding:0; }
+main .journal-chapter > .slate-body > .journal-item:last-child { border-bottom:0; }
+main .journal-item > summary { font-size:1rem; }
+main .journal-chapter .journal-item > .slate-body { padding-top:16px; }
+/* Expanded map retains only its title, controls and viewport. */
+main .world-chart.world-expanded { margin:0; padding:0; }
+main .world-chart.world-expanded > :is(h3,.atlas-subtitle,.atlas-guide) { display:none; }
+.world-expanded .atlas-toolbar { padding-top:12px; }
+.world-expanded #world-viewport { height:calc(100svh - 192px); max-height:none; }
+@media(max-width:760px) {
+ main #world > .section-title { gap:8px; }
+ main .slate-date { font-size:.72rem; }
+ main .planetary-overview > div { padding:12px; }
+ main .planetary-overview strong { font-size:1.08rem; }
+ main .planetary-overview > div:nth-child(odd) { border-left:0; }
+ main .planetary-overview > div:nth-child(n+3) { border-top:1px solid var(--record-line); }
+ main .planetary-overview span { font-size:.63rem; }
+ main .world-chart.panel > h3 { margin:16px 14px 4px; font-size:1.3rem; }
+ main .world-chart > .atlas-subtitle { margin:0 14px 16px; }
+ .atlas-toolbar { grid-template-columns:1fr; padding:0 12px 12px; gap:8px; }
+ .atlas-toolbar .map-controls button { font-size:.72rem; padding:8px 6px; }
+ .atlas-toolbar .atlas-zoom { grid-column:auto; }
+ main .world-chart .atlas-layer-controls { padding:10px 12px; }
+ .atlas-directory-fields { grid-template-columns:1fr; gap:16px 12px; }
+ .atlas-field:first-child { grid-column:1/-1; }
+ .atlas-field label { font-size:.69rem; }
+ .atlas-selected { padding:16px 12px; }
+ main .atlas-selected .national-metrics > div { padding:12px 10px; }
+ main .atlas-selected #world-readout p { font-size:.95rem; }
+ main .atlas-guide .world-biome-key { grid-template-columns:1fr 1fr; }
+ main .atlas-selected .slate-body { padding:16px 12px; }
+ main .atlas-selected details.slate-record > summary { padding-inline:34px 12px; font-size:1rem; }
+ main .atlas-selected details.slate-record > summary::before { left:14px; }
+ main .world-reference-records .slate-body details > .slate-body { padding:14px 10px; }
+ main .journal-chapter .journal-item > summary { padding:14px 14px 14px 32px; }
+ main .journal-chapter .journal-item > summary::before { left:13px; }
+ .world-expanded #world-viewport { height:calc(100svh - 238px); }
+}
+@media(max-width:380px) { .atlas-directory-fields { grid-template-columns:1fr; } }
+
 </style>
 </head><body>
 <header class="masthead"><div class="seal" aria-hidden="true"><img src="./sigil-gold-clear.png" alt="" width="54" height="54" style="display:block;width:100%;height:100%;object-fit:contain"></div><div><p class="wordmark">MALASPINA</p><p class="eyebrow">DATA-SLATE / PRIVATE BIOLOGICAL ARCHIVE</p></div><p class="meta">FABIUS BILE / RESTRICTED<br>Continuing record · Volume I</p></header>
@@ -607,6 +712,11 @@ if('serviceWorker'in navigator&&/^https?:$/.test(location.protocol)){navigator.s
   const bridge=f.stock_bridge;fiscalTable(body,'Estimated treasury movement · '+bridge.opening_date+' to '+bridge.estimate_date,[['Opening liquid reserves',money(bridge.opening_liquid_reserves)],['Opening gross debt',money(bridge.opening_gross_debt)],...Object.entries(bridge.estimated_financing_flows).map(([k,v])=>[k.replaceAll('_',' '),money(v)])]);
   const a=f.annual_financing_plan;fiscalTable(body,'Annual financing plan · not yet booked',[['Additional net borrowing',money(a.new_net_borrowing)],['Net principal repayment',money(a.net_principal_repayment)],['Planned addition to reserves',money(a.reserve_increase)],['Planned reserve drawdown',money(a.reserve_drawdown)]]);
   paragraph(body,'Accounting.','Interest is included in spending; principal repayment is not. Refinancing maturing debt is excluded from net borrowing. Liquid reserves exclude private wealth, land, buildings and stores. Defence subcategories are not added again to total spending. Rounded estimates do not imply invoice-level certainty.');
+  // Keep the headline balance readable; detailed spending and stock bridges open separately.
+  for(const table of [...body.querySelectorAll('table')].slice(1)){
+   const ledger=el('details',undefined,'record-disclosure budget-ledger'),content=el('div',undefined,'detail-body');
+   ledger.append(el('summary',table.caption.textContent));table.before(ledger);content.append(table);ledger.append(content);
+  }
   const link=el('a','Full national returns & accounting notes');link.href='./NATIONAL-REGISTER.md';body.append(link);detail.append(body);root.append(detail);
  }
  function socialProfile(root,p){const s=p.social,d=el('details',undefined,'record-disclosure national-social');d.append(el('summary','Living standards & public sentiment'));const body=el('div',undefined,'detail-body');
@@ -645,6 +755,21 @@ if('serviceWorker'in navigator&&/^https?:$/.test(location.protocol)){navigator.s
   paragraph(root,'Strengths.',p.specialties+'.');paragraph(root,'Constraints.',p.constraints);paragraph(root,'Older arts.',p.older_arts);
   const trend=p.economy.output_trend_percent;paragraph(root,'Annual output trend.',(trend>=0?'+':'')+trend.toFixed(1)+'% under current conditions; damage, investment and disruption alter the next return.');
   root.append(el('p','L-eq expresses comparable purchasing power in Veyrasse lorrats. Annual output is not treasury cash; treasury stocks are separately identified. Local currencies remain distinct.','fine'));
+  organiseProfile(root);
+ }
+ function organiseProfile(root){
+  const character=el('details',undefined,'record-disclosure national-character'),b=el('div',undefined,'detail-body');
+  character.append(el('summary','National character & economy'),b);
+  const prose=[...root.querySelectorAll(':scope > p:not(.eyebrow)')];
+  for(const p of prose){
+   if(p.textContent.startsWith('Estimate date.')){p.classList.add('fine');b.append(p);continue;}
+   if(p.textContent.startsWith('Older arts.')){root.querySelector('.national-food > .detail-body')?.append(p);continue;}
+   b.append(p);
+  }
+  const foodSummary=root.querySelector('.national-food > summary');if(foodSummary)foodSummary.textContent='Food, culture & older arts';
+  const records=el('div',undefined,'national-profile-sections');
+  for(const item of [root.querySelector('.national-government'),root.querySelector('.national-social'),character,root.querySelector('.national-budget'),root.querySelector('.national-personnel'),root.querySelector('.national-food'),root.querySelector('.national-developments')])if(item)records.append(item);
+  root.append(records);
  }
  function compare(a,b){const root=document.getElementById('national-comparison');root.replaceChildren();
   const groups={'Living conditions':[],'Economy & public accounts':[],'Armed forces':[],'Technology':[]};
@@ -995,6 +1120,154 @@ if(typeof module!=='undefined')module.exports=SettlementTravel;
   document.addEventListener('settlement-selected',event=>{origin=event.detail||'';panel.hidden=!origin;generation++;clearHighlight();if(!origin){iterator=null;return;}document.getElementById('settlement-origin').textContent='Selected settlement: '+name(origin)+' · '+data.epoch;facts();if(panel.querySelector('details').open)journeys();});
   panel.querySelector('details').addEventListener('toggle',()=>{if(panel.querySelector('details').open&&origin&&target.value)journeys();});
   method();filter();
+})();
+
+// Reading architecture. Existing nodes are moved intact; source records remain authoritative.
+(() => {
+ const $=id=>document.getElementById(id);
+ const el=(tag,cls,text)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(text)n.textContent=text;return n;};
+ const summary=d=>d.querySelector(':scope > summary');
+ const body=d=>d.querySelector(':scope > .detail-body');
+ const named=(root,name)=>[...root.querySelectorAll('details')].find(d=>summary(d)?.textContent.trim()===name);
+ function disclosure(title,cls=''){
+  const d=el('details','slate-record record-disclosure '+cls),s=el('summary','',title),b=el('div','detail-body slate-body');d.append(s,b);return d;
+ }
+ function heading(text){return el('h3','slate-group-title',text);}
+ function group(parent,title,nodes){const g=el('div','slate-group');g.append(heading(title),...nodes.filter(Boolean));parent.append(g);return g;}
+ function divide(d){
+  const b=body(d);if(!b)return;
+  let destination=b;
+  for(const n of [...b.children]){
+   if(n.tagName==='H4'){
+    const item=disclosure(n.textContent,'slate-entry');b.insertBefore(item,n);body(item).append(n);n.classList.add('slate-heading-source');destination=body(item);
+   }else if(destination!==b)destination.append(n);
+  }
+ }
+ const world=$('world'),chart=world.querySelector('.world-chart'),lookup=chart.querySelector('.atlas-route-box');
+ const intro=world.querySelector('.world-intro'),calendar=world.querySelector('.calendar-overview');
+ const worldTop=[...world.children].filter(n=>n.tagName==='P');
+ const date=calendar.querySelector('strong');
+ const stamp=el('p','slate-date');stamp.textContent=date?.textContent||calendar.querySelector('p')?.textContent;
+ const title=world.querySelector('.section-title');title.append(stamp);
+ const metrics=chart.querySelector('.atlas-metrics');metrics.classList.add('planetary-overview');title.after(metrics);
+ const profile=disclosure('World profile','world-background');
+ if(intro)body(profile).append(intro);
+ const dating=disclosure('Calendar & record dates');
+ for(const n of [...calendar.children])if(n.tagName!=='H3')body(dating).append(n);
+ calendar.remove();
+ // Keep explanations beside the records they explain instead of ahead of the map.
+ const socialNote=worldTop.find(n=>n.textContent.startsWith('Choose a nation'));
+ const estimateNote=worldTop.find(n=>n.textContent.startsWith('Every national'));
+ if(estimateNote)body(dating).append(estimateNote);
+ const chartCalendar=[...chart.children].find(n=>n.tagName==='P'&&n.textContent.includes('Local calendar'));
+ if(chartCalendar)body(dating).append(chartCalendar);
+ const mapTitle=chart.querySelector(':scope > h3');mapTitle.textContent='Planetary atlas';
+ chart.querySelector(':scope > .eyebrow').classList.add('slate-heading-source');
+ const controls=el('div','atlas-toolbar');
+ for(const cls of ['world-presets','world-modes'])controls.append(chart.querySelector('.'+cls));
+ const zoom=chart.querySelector(':scope > .map-controls');zoom.classList.add('atlas-zoom');controls.append(zoom);
+ chart.querySelector('#world-viewport').before(controls);
+ const layerControls=chart.querySelector(':scope > .map-controls');layerControls?.classList.add('atlas-layer-controls');
+ const guide=disclosure('Map key & passage notes','atlas-guide');
+ const legend=chart.querySelector('.atlas-legend');body(guide).append(legend);
+ for(const n of [...chart.children])if(n.tagName==='P'&&n.classList.contains('fine'))body(guide).append(n);
+ const terrain=chart.querySelector('.world-key');body(guide).append(terrain);chart.append(guide);
+ // Lookup controls form one compact directory; results have separate, complete homes.
+ const directory=el('section','atlas-directory');directory.setAttribute('aria-label','Find a nation or settlement');
+ directory.append(heading('Nations & settlements'));
+ const fields=el('div','atlas-directory-fields');directory.append(fields);
+ for(const [id,label] of [['world-state','Nation or territory'],['world-search','Search settlements'],['world-site','Settlement']]){
+  const field=el('div','atlas-field'),l=lookup.querySelector('label[for="'+id+'"]');l.textContent=label;
+  field.append(l,$(id));if(id==='world-site')field.append($('world-search-count'));fields.append(field);
+ }
+ if(socialNote){socialNote.classList.add('fine','directory-note');directory.append(socialNote);}
+ chart.after(directory);
+ const selected=el('div','atlas-selected-records'),stateReadout=$('world-state-readout');directory.after(selected);
+ const settlement=el('article','atlas-selected settlement-selected');settlement.setAttribute('aria-label','Selected settlement record');
+ settlement.append($('world-readout'),$('settlement-comparison'));selected.append(settlement);
+ const nation=el('article','atlas-selected nation-selected');nation.setAttribute('aria-label','Selected national record');
+ nation.append($('world-state-readout'),$('national-register'));selected.append(nation);
+ lookup.remove();
+ // Planetary references: current returns, geography, historical record, then society.
+ const planet=named(world,'Planet & history'),society=named(world,'Life, learning & service');
+ const geography=disclosure('Continents & political geography');
+ for(const name of ['Political geography','Otranto','Morholt','Vesalius'])body(geography).append(named(planet,name));
+ const hunters=disclosure('The Hunters & the living world');
+ for(const name of ['The preserve','Captured hunter technology','A world denied progress','Bestiary · Vouressan','A world remade for pursuit'])body(hunters).append(named(planet,name));
+ const isolation=named(planet,'Isolation record');planet.remove();
+ const veyrasse=disclosure('Veyrasse · law, service & institutions','veyrasse-context');
+ for(const name of ['Veyrasse · Court, family and standing','Veyrasse · Service and internal tensions','Veyrasse military institutions','Serravonne defences'])body(veyrasse).append(named(society,name));
+ nation.append(veyrasse);
+ const societyTitle=summary(society);societyTitle.textContent='Industry, learning & collective defence';
+ const references=el('div','world-reference-records');world.append(references);
+ group(references,'Current affairs',[named(world,'Active conflicts & disputes'),named(world,'Recorded security incidents'),named(world,'Year 68 developments')]);
+ group(references,'Planetary reference',[profile,geography,named(world,'Population & annual growth'),dating]);
+ group(references,'History & life',[isolation,named(world,'The Last Major Culling'),named(world,'Ambros · history and tradition'),hunters,society]);
+ const download=worldTop.find(n=>n.textContent.includes('Download the dated planetary'));if(download){download.classList.add('slate-reference');references.append(download);}
+ // Eight theatres remain one register, with one expandable entry per theatre.
+ const conflicts=$('planetary-conflicts');
+ for(const section of [...conflicts.querySelectorAll(':scope > .slate-body > section')]){
+  const h=section.querySelector('h4');if(!h)continue;
+  const entry=disclosure(h.textContent,'conflict-entry');section.before(entry);h.classList.add('slate-heading-source');body(entry).append(...section.childNodes);section.remove();
+ }
+ // The culling text is a dated reconstruction, not a conflicting second present-date label.
+ const culling=named(world,'The Last Major Culling');
+ for(const p of culling.querySelectorAll('p'))if(p.textContent.includes('The present date is 11/10/0068 AC43')){
+  for(const n of [...p.childNodes])if(n.nodeType===3)n.textContent=n.textContent.replace('The present date is 11/10/0068 AC43:','This reconstruction was reviewed on 11/10/0068 AC43:');
+ }
+ function selection(){
+  const active=$('national-primary').value,hasNation=!$('national-register').hidden,hasSettlement=!!$('world-site').value&&!!$('world-readout').querySelector('h4');
+  settlement.hidden=!hasSettlement;
+  nation.hidden=!hasNation&&!$('world-state').value;
+  veyrasse.hidden=!hasNation||active!=='veyrasse';
+  // Put the population return immediately under the selected nation's heading.
+  const nationalHeading=$('national-profile').querySelector(':scope > h4');
+  if(hasNation&&nationalHeading&&nationalHeading.nextElementSibling!==stateReadout)nationalHeading.after(stateReadout);
+  else if(!hasNation&&stateReadout.parentElement!==nation)nation.prepend(stateReadout);
+ }
+ const watcher=new MutationObserver(selection);
+ watcher.observe($('national-register'),{childList:true,subtree:true,attributes:true,attributeFilter:['hidden']});
+ watcher.observe($('world-readout'),{childList:true});
+ $('world-state').addEventListener('change',selection);$('world-site').addEventListener('change',selection);selection();
+ // Longer subject records become a directory of discrete entries, with no prose removed.
+ const relationships=named($('dossier'),'Relationships');divide(relationships);
+ const relationshipEntries=[...body(relationships).querySelectorAll(':scope > details')];
+ const categories=[
+  ['Family & household',['Corva Orsival','Veskan Orsival','Lucette Marcenay','Current family contact']],
+  ['Learning, work & patronage',['Leont Vardesca','Odran Savel','Ottrel Cevrane','Iseva Dorlac','Valesse Orchant','Cyrrel Vaust','Collegium faculty']],
+  ['Court & military',['Odrienne Orcemont','Calvren Vaucerin','Cevrel Darscelet','Armand Serault','Bastien Ordel','Lucard Desmaret','Mathis Vauzel']],
+  ['Expedition & private networks',['Alessio Valcera','Aveline Cersault','Bastien Marcelet','Noemie Darcenne','Lucien Sarvelle','Drossane operatives','Expedition colleagues','Professional network','Unnamed psychic Order']]
+ ];
+ for(const [label,names] of categories){const entries=names.map(name=>relationshipEntries.find(d=>summary(d).textContent===name));group(body(relationships),label,entries);}
+ for(const p of body(relationships).querySelectorAll('p'))if(p.textContent.startsWith('Corva has explicit authority'))body(named(relationships,'Corva Orsival')).append(p);
+ const engineering=named($('research'),'Civil engineering & mechanical designs');
+ for(const p of body(engineering).querySelectorAll(':scope > p'))if(p.textContent.startsWith('Production management:'))p.before(el('h4','','Production management'));
+ for(const name of ['Civil engineering & mechanical designs','Psychic engineering & Hunter technology','Research papers, collections & methods'])divide(named($('research'),name));
+ divide(named($('physiology'),'Psychic activity'));
+ // Topic rows are useful for compact physiology and commission facts, without another dropdown layer.
+ for(const d of [...$('physiology').querySelectorAll('details'),named($('research'),'Royal technical commission')]){
+  const b=body(d);if(!b)continue;
+  for(const p of b.querySelectorAll(':scope > p'))if(p.querySelector(':scope > strong:first-child'))p.classList.add('labelled-record');
+ }
+ // Keep the chronological order; long earlier periods are folded as whole chapters.
+ const journal=$('journal'),entries=[...journal.children];
+ const chapters=[
+  ['First training day complete','Cressault & the royal commission'],
+  ['Household preparations','Homecoming & expedition return'],
+  ['Old friends, publicly','The overseas expedition'],
+  ['Ready for the first passage','House Orsival & expedition preparations'],
+  ['Private observations','Collegium studies & patronage'],
+  ['A place at the Collegium','Arrival in Auvrienne'],
+  ['Tomorrow','The first year at Serravonne'],
+  ['The meeting concludes','The first week'],
+  ['A place for the night','Planetfall']
+ ];
+ let chapter=null;
+ for(const entry of entries){
+  const label=summary(entry)?.childNodes[0]?.textContent.trim();const start=chapters.find(([name])=>name===label);
+  if(start){chapter=disclosure(start[1],'journal-chapter');if(!journal.querySelector('.journal-chapter'))chapter.open=true;journal.append(chapter);}
+  if(chapter)body(chapter).append(entry);
+ }
 })();
 
 </script></body></html>
