@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="slate-build" content="5fb3c2d23a9521b4bfa1"><meta name="theme-color" content="#202d29"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Malaspina">
+<meta name="slate-build" content="3e8c5cb8bd24f736e452"><meta name="theme-color" content="#202d29"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Malaspina">
 <meta name="description" content="An evolving character dossier for Galahad, a perfected proto-Primarch on Malaspina.">
 <link rel="manifest" href="./manifest.webmanifest"><link rel="apple-touch-icon" href="./sigil-v1.png"><link rel="icon" type="image/png" sizes="1254x1254" href="./sigil-v1.png">
 <title>Malaspina | Galahad</title>
@@ -98,268 +98,186 @@ html,body{touch-action:manipulation}
 
 .hero figure{min-height:0;height:auto;aspect-ratio:853/1280;align-self:start}.hero figure img{object-fit:contain;object-position:center}
 
-/* Reading layout only: preserve the established slate palette and artwork. */
-#planetary-conflicts > section { margin-top: 24px; padding-top: 24px; border-top: 1px solid var(--line); }
-#planetary-conflicts > section > .record-heading { margin-top: 0; }
-#planetary-conflicts > .fine:last-child { margin-top: 24px; }
-main > section { scroll-margin-top: 90px; }
-main > section > .panel,
-main > section > .grid,
-main > section > .sigil-record { margin-block: 22px; }
-.grid { align-items: start; }
-#physiology > .grid { grid-template-columns: minmax(0, 1fr); }
-.panel p, .detail-body p, .journal-item p { max-width: 80ch; }
-.panel p + p, .detail-body p + p { margin-top: 16px; }
-.panel > :last-child, .detail-body > :last-child { margin-bottom: 0; }
-.panel dl { margin-top: 20px; }
-.panel dl dt { margin-bottom: 5px; }
-.panel dl dd { max-width: 80ch; margin-bottom: 18px; }
-.panel dl dd:last-child { margin-bottom: 0; }
-.detail-body { padding-top: 4px; padding-bottom: 22px; }
-details summary { background: transparent; border-bottom: 0; margin-bottom: 0; }
-details[open] > summary { background: #1c342c; border-bottom: 1px solid #46664f; margin-bottom: 15px; }
-summary { overflow-wrap: break-word; }
-summary::marker { color: var(--muted); }
-.atlas-metrics { grid-template-columns: repeat(4, minmax(0, 1fr)); }
-.atlas-metrics > div { min-width: 0; padding: 16px; }
-.atlas-metrics strong { line-height: 1.4; }
-.atlas-legend { display: flex; flex-wrap: wrap; gap: 10px 20px; padding: 16px 20px; }
-.atlas-route-box { padding: 24px; }
-#world-state-readout:not(:empty), #world-readout:not(:empty) { margin: 18px 0 24px; padding: 16px 18px; border-left: 2px solid var(--gold); background: #142528; }
-#world-readout h4 { margin-top: 0 !important; }
-#world-readout p, #world-state-readout p { max-width: 80ch; }
-#world-readout > p:first-of-type, #world-state-readout > p:first-child { font-variant-numeric: tabular-nums; color: var(--paper); }
-#national-register { margin-top: 30px; padding-top: 24px; border-top: 1px solid var(--line); }
-.national-panel .national-metrics { grid-template-columns: repeat(4, minmax(0, 1fr)); }
-.national-metrics > div { min-width: 0; }
-.national-metrics strong { font-variant-numeric: tabular-nums; overflow-wrap: break-word; line-height: 1.4; }
-#national-register :is(.national-comparison, .national-ranking) > label { margin-inline: 18px; }
-#national-register :is(.national-comparison, .national-ranking) > select {
- display: block; box-sizing: border-box; min-width: 0;
- margin: 0 18px; width: calc(100% - 36px);
+/* Unified reading system. The phosphor palette, metal housing and artwork are unchanged. */
+main { --record-gap:16px; --record-padding:24px; --record-line:#425a4a; }
+main > section { scroll-margin-top:90px; }
+main :is(#dossier,#physiology,#research,#chronicle,#archive) { max-width:1040px; margin-inline:auto; }
+main .section-title { margin:8px 0 20px; }
+main .section-title .eyebrow { margin:0 0 8px; }
+main .section-title h2 { margin:0; }
+main > section > p { max-width:85ch; margin:0 0 20px; line-height:1.75; }
+main .world-intro { font-size:1.05rem; }
+main .grid { gap:var(--record-gap); align-items:start; margin:var(--record-gap) 0; }
+main .slate-empty { display:none; }
+main .slate-group { margin:32px 0; }
+main .slate-group-title {
+ display:flex; align-items:center; gap:14px; margin:32px 0 12px;
+ color:var(--gold); font: .78rem/1.5 'Courier New',monospace;
+ font-weight:600; text-transform:uppercase; letter-spacing:.12em;
 }
-#national-comparison, #national-rank-list { padding: 0 18px 18px; overflow-x: auto; }
-.national-panel .national-table { line-height: 1.6; }
-.national-table td { font-variant-numeric: tabular-nums; overflow-wrap: normal; }
-.national-table th { overflow-wrap: break-word; }
-.national-table caption { font: 1rem/1.5 Georgia, serif; padding-block: 20px 10px; }
-.national-table tbody tr:last-child > * { border-bottom: 0; }
-.national-table + .national-table { margin-top: 18px; }
-.national-food { margin-block: 26px; }
-.journal-item { padding-bottom: 22px; margin-block: 30px; }
-.journal-item .eyebrow { max-width: 80ch; line-height: 1.7; }
-.journal-item h3 { margin-block: 8px 14px; }
-#archive .grid { align-items: stretch; }
-@media (max-width: 760px) {
- .atlas-metrics, .national-panel .national-metrics { grid-template-columns: repeat(2, minmax(0, 1fr)); }
- .atlas-metrics > div:nth-child(odd) { border-left: 0; }
- .atlas-metrics > div:nth-child(n+3) { border-top: 1px solid #50634d; }
- .atlas-route-box { padding: 18px 14px; }
- #world-readout:not(:empty), #world-state-readout:not(:empty) { padding: 12px; }
- #national-register :is(.national-comparison, .national-ranking) > label { margin-inline: 12px; }
- #national-register :is(.national-comparison, .national-ranking) > select { margin-inline: 12px; width: calc(100% - 24px); }
- #national-comparison, #national-rank-list { padding-inline: 12px; }
- .national-panel .national-table { font-size: .78rem; }
- .national-table th:first-child { width: 48%; }
- #national-comparison .national-table th:first-child { width: 40%; }
- .journal-item { padding-left: 16px; }
+main .slate-group-title::after { content:''; height:1px; background:var(--line); flex:1; }
+main .slate-group > .slate-group-title { margin-top:0; }
+main .panel:not(.world-chart):not(details) {
+ padding:var(--record-padding); border:1px solid var(--record-line); border-top:3px double #718467;
+ background:linear-gradient(120deg,#20382e44,transparent),#102023; border-radius:0;
 }
+main :is(.panel,.reading-section) p { max-width:none; line-height:1.75; }
+main :is(.panel,.reading-section) > :last-child { margin-bottom:0; }
+main .panel > :is(h2,h3) { margin:0 0 16px; font:small-caps 1.4rem/1.4 Georgia,serif; }
+main .panel > .eyebrow { margin:0 0 12px; }
+/* One content inset for every native disclosure, including records rendered after selection. */
+main details.slate-record {
+ margin:var(--record-gap) 0; padding:0; border:1px solid var(--record-line);
+ border-top:3px double #718467; border-radius:0; box-shadow:none;
+ background:linear-gradient(110deg,#20382e33,transparent),#102023;
+ overflow:visible; content-visibility:visible;
+}
+main .grid > details.slate-record { margin:0; }
+main details.slate-record > summary {
+ display:block; position:relative; list-style:none; cursor:pointer; box-sizing:border-box;
+ padding:16px var(--record-padding) 16px calc(var(--record-padding) + 22px);
+ min-height:60px; margin:0; border:0; background:transparent;
+ color:#c5cfb0; font:small-caps 1.18rem/1.45 Georgia,serif; overflow-wrap:break-word;
+}
+main details.slate-record > summary::marker { content:''; }
+main details.slate-record > summary::-webkit-details-marker { display:none; }
+main details.slate-record > summary::before {
+ content:''; position:absolute; left:var(--record-padding); top:26px;
+ width:7px; height:7px; box-sizing:border-box; border-right:2px solid var(--gold);
+ border-bottom:2px solid var(--gold); transform:rotate(-45deg);
+}
+main details.slate-record[open] > summary { background:#1c342c; border-bottom:1px solid #46664f; margin:0; }
+main details.slate-record[open] > summary::before { transform:rotate(45deg); }
+main details.slate-record > summary:hover { background:#21392f; }
+main details.slate-record > summary:focus-visible { outline:2px solid var(--gold); outline-offset:-4px; }
+main details.slate-record > .slate-body { padding:var(--record-padding); margin:0; min-width:0; line-height:1.75; }
+main .slate-body > .detail-body { padding:0; margin:0; }
+main .slate-body :is(p,dd,li) { overflow-wrap:break-word; }
+main .slate-body p { margin:0 0 16px; max-width:none; font:1rem/1.75 system-ui,sans-serif; }
+main .slate-body > :first-child { margin-top:0; }
+main .slate-body > :last-child, main .slate-body > .detail-body > :last-child { margin-bottom:0; }
+main .slate-body :is(h3,h4,h5,.record-heading,.subheading) {
+ margin:26px 0 10px; color:var(--gold); font:1.06rem/1.5 Georgia,serif;
+}
+main .slate-body :is(h3,h4,h5) + p { margin-top:0; }
+main .slate-body p > strong:first-child { color:#c6c5a1; }
+main .slate-body :is(dl,ul,ol) { margin:18px 0; }
+main .slate-body dl dt { margin:20px 0 6px; color:var(--gold); }
+main .slate-body dl dt:first-child { margin-top:0; }
+main .slate-body dl dd { margin:0; font:1rem/1.75 system-ui,sans-serif; }
+main .slate-body .eyebrow { margin:20px 0 8px; font:.76rem/1.6 'Courier New',monospace; color:#a6bd8d; }
+main .slate-body .eyebrow:first-child { margin-top:0; }
+main :is(.panel,.slate-body) .fine { font:.85rem/1.7 system-ui,sans-serif; color:var(--muted); }
+/* Nested records are lighter and tighter than their parent. */
+main .slate-body details.slate-record { border-top:1px solid var(--record-line); background:#102021; }
+main .slate-body details.slate-record > summary { font-size:1.05rem; min-height:54px; padding-block:14px; }
+main .slate-body details.slate-record > summary::before { top:23px; }
+main .slate-body details.slate-record > .slate-body { padding:20px; }
+/* Subject overview: long narrative facts span the available column. */
+.identity h1 { font-size:clamp(2.5rem,4.3vw,3.6rem); }
+.identity { padding:26px; }
+.identity .facts { grid-template-columns:repeat(2,minmax(0,1fr)); gap:0 20px; }
+.identity .facts > div:first-child, .identity .facts > div:last-child { grid-column:1/-1; }
+.identity .facts dd { margin:6px 0 0; font-size:.94rem; line-height:1.7; }
+.identity .facts dt { font-size:.73rem; }
+.sigil-record { margin:24px 0; padding:16px 22px; grid-template-columns:108px minmax(0,1fr); gap:24px; }
+.sigil-record img { width:108px; height:108px; }
+.sigil-record h2 { font-size:1.4rem; }
+.sigil-record .eyebrow { font-size:.7rem; }
+/* Dates belong to the entry header, so the chronicle remains legible when collapsed. */
+main .slate-entry-date { display:block; margin:5px 0 0; color:var(--muted); font:.73rem/1.6 'Courier New',monospace; letter-spacing:.025em; }
+main .journal-item p { white-space:pre-wrap; }
+main #journal > details.slate-record { border-top:1px solid var(--record-line); }
+main #archive .grid { align-items:stretch; }
+main .slate-reference { padding-top:16px; border-top:1px solid var(--line); margin-top:22px; }
+/* Atlas: retain the full map canvas, with a shared inset for controls and records. */
+main .calendar-overview { margin:24px 0; }
+main .calendar-overview h3 { font-size:1.25rem; }
+main .world-chart.panel > h3 { margin:0 24px 6px; font:small-caps 1.6rem/1.4 Georgia,serif; }
+main .world-chart > .atlas-subtitle { margin:0 24px 20px; }
+main .world-chart > .eyebrow, main .world-chart > .fine { margin-inline:24px; }
+main .world-chart > .fine:last-child { margin-block:20px; }
+.atlas-metrics { grid-template-columns:repeat(4,minmax(0,1fr)); }
+.atlas-metrics > div { min-width:0; padding:16px; }
+.atlas-metrics strong { line-height:1.4; }
+.atlas-legend { display:flex; flex-wrap:wrap; gap:8px 18px; padding:14px 24px; }
+.atlas-route-box { padding:24px; }
+main .world-chart > details.slate-record { margin:20px 24px; border:1px solid var(--record-line); }
+.world-chart.world-expanded > details.slate-record { display:none; }
+#world-state-readout:not(:empty), #world-readout:not(:empty) { margin:20px 0; padding:16px 18px; border-left:2px solid var(--gold); background:#142528; }
+#world-readout h4 { margin-top:0!important; }
+#world-state-readout p, #world-readout p { margin:0 0 12px; line-height:1.75; }
+#world-state-readout > :last-child, #world-readout > :last-child { margin-bottom:0; }
+#national-register { margin-top:28px; padding-top:24px; border-top:1px solid var(--line); }
+main #national-profile > h4 { font:small-caps 1.6rem/1.4 Georgia,serif; margin:6px 0 20px; }
+main #national-profile > p { font:1rem/1.75 system-ui,sans-serif; margin:0 0 16px; }
+main #national-profile > .eyebrow { font:.73rem/1.6 'Courier New',monospace; margin:0; }
+.national-panel .national-metrics { grid-template-columns:repeat(4,minmax(0,1fr)); margin:18px 0 24px; }
+.national-metrics > div { min-width:0; padding:16px; }
+.national-metrics strong { font:1.15rem/1.4 Georgia,serif; font-variant-numeric:tabular-nums; overflow-wrap:break-word; }
+.national-metrics span { font:.68rem/1.6 'Courier New',monospace; }
+main .national-panel :is(input,select),main #settlement-comparison :is(input,select) { max-width:100%; min-width:0; box-sizing:border-box; border-radius:0; }
+main .national-panel select { width:100%; margin:0 0 16px; }
+main .national-panel label { margin:0 0 8px; font:.78rem/1.5 'Courier New',monospace; }
+main #national-comparison,main #national-rank-list { padding:0; margin-top:20px; min-width:0; }
+main .national-panel .national-table { font: .9rem/1.6 system-ui,sans-serif; }
+main .national-table :is(th,td) { padding:12px 10px; font-variant-numeric:tabular-nums; }
+main .national-table th { font-weight:500; }
+main .national-table td { overflow-wrap:break-word; }
+main .national-table caption { font:1.05rem/1.5 Georgia,serif; padding:24px 0 12px; }
+main .national-table:first-child caption { padding-top:0; }
+main .national-table tbody tr:last-child > * { border-bottom:0; }
+main .national-table small { font:.72rem/1.5 system-ui,sans-serif; }
+main .national-table thead th { font:.8rem/1.5 system-ui,sans-serif; }
+main .national-table:not(.slate-comparison-table) th:first-child { width:65%; }
+main .national-higher { background:#1a3326; }
+main #planetary-conflicts .slate-body > section + section { margin-top:26px; padding-top:22px; border-top:1px solid var(--line); }
+@media(max-width:760px) {
+ main { --record-padding:18px; --record-gap:12px; }
+ main .slate-group { margin:26px 0; }
+ main .slate-group-title { margin-top:26px; font-size:.72rem; gap:10px; }
+ main details.slate-record > summary { font-size:1.08rem; min-height:56px; padding-block:14px; }
+ main details.slate-record > summary::before { top:23px; }
+ main .slate-body details.slate-record > summary { padding-left:32px; padding-right:12px; font-size:1rem; }
+ main .slate-body details.slate-record > summary::before { left:12px; }
+ main .slate-body details.slate-record > .slate-body { padding:14px; }
+ main .slate-body p,main .slate-body dl dd { font-size:.95rem; }
+ main .slate-body :is(h3,h4,h5,.record-heading,.subheading) { font-size:1.03rem; }
+ .identity { padding:20px 13px 10px; }
+ .identity h1 { font-size:2.65rem; }
+ .identity .facts { grid-template-columns:1fr; }
+ .sigil-record { grid-template-columns:88px minmax(0,1fr); gap:16px; padding:14px; }
+ .sigil-record img { width:88px; height:88px; }
+ .sigil-record h2 { font-size:1.2rem; }
+ .sigil-record p { font-size:.85rem; }
+ .atlas-metrics,.national-panel .national-metrics { grid-template-columns:repeat(2,minmax(0,1fr)); }
+ .atlas-metrics > div:nth-child(odd) { border-left:0; }
+ .atlas-metrics > div:nth-child(n+3) { border-top:1px solid #50634d; }
+ .atlas-route-box { padding:18px 12px; }
+ .atlas-legend { padding:14px 12px; }
+ main .world-chart > details.slate-record { margin:16px 12px; }
+ main .world-chart.panel > h3, main .world-chart > :is(.eyebrow,.atlas-subtitle,.fine) { margin-inline:16px; }
+ #world-state-readout:not(:empty),#world-readout:not(:empty) { padding:12px; }
+ .national-metrics > div { padding:12px; }
+ .national-metrics strong { font-size:1.05rem; }
+ main .national-panel .national-table { font-size:.82rem; }
+ main .national-table :is(th,td) { padding:10px 5px; }
+ main .national-panel label { font-size:.75rem; }
+}
+@media(max-width:550px) {
+ main .slate-comparison-table thead { display:none; }
+ main .slate-comparison-table tbody { display:block; }
+ main .slate-comparison-table tbody tr { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); border-bottom:1px solid var(--line); padding:12px 0; }
+ main .slate-comparison-table tbody th { grid-column:1/-1; width:auto!important; padding:0 0 8px; border:0; }
+ main .slate-comparison-table tbody td { border:0; text-align:left; padding:8px; }
+ main .slate-comparison-table td::before { content:attr(data-column); display:block; color:var(--muted); font:.68rem/1.5 system-ui,sans-serif; margin-bottom:5px; }
+ main .slate-comparison-table tbody tr:last-child { border:0; }
+}
+@media(prefers-reduced-motion:reduce) { main * { scroll-behavior:auto!important; } }
 @media print {
- #world-readout:not(:empty), #world-state-readout:not(:empty) { background: white; }
+ main details.slate-record { background:white; color:black; box-shadow:none; }
+ main details.slate-record > summary { break-after:avoid; }
 }
-
-/* Editorial hierarchy inside the existing reading panels. */
-.record-heading { margin: 30px 0 10px; color: var(--gold); font: 1.05rem/1.5 Georgia, serif; }
-.detail-body > .record-heading:first-child { margin-top: 12px; }
-.record-heading + p { margin-top: 0; }
-.panel .subheading { margin: 24px 0 8px; color: var(--gold); font: 1rem/1.5 Georgia, serif; }
-.panel .subheading + p { margin-top: 0; }
-.detail-body p, .panel p { overflow-wrap: break-word; }
-@media (max-width:760px) {
- nav button { font-size: clamp(.6rem, 2.8vw, .75rem); letter-spacing: -.02em; }
-}
-
-/* One visual grammar: tab title, record title, subsection, body, metadata.
-   Substantial reference records use native disclosures; the map and current overview stay visible. */
-main { --record-gap: 24px; --record-padding: 24px; }
-main > section > .panel,
-main > section > .reading-section,
-main > section > .grid,
-#records > .reading-section { margin-block: var(--record-gap); }
-.panel:not(.world-chart), .reading-section {
- padding: var(--record-padding);
- border: 1px solid #425a4a;
- border-top: 3px double #718467;
- border-radius: 0;
- background: linear-gradient(120deg,#20382e44,transparent),#102023;
- box-shadow: inset 0 0 20px #0002;
-}
-.panel > h2, .panel > h3:not(.subheading),
-.reading-section > .reading-title, main .world-archive-group .reading-title {
- margin: 0 0 20px;
- color: #c5cfb0;
- font: small-caps 1.5rem/1.3 Georgia,serif;
-}
-.reading-section > .detail-body,
-main .world-archive-group .reading-section > .detail-body {
- padding: 0; line-height: 1.75;
-}
-.reading-section p, .panel p, .reading-section dd, .panel dd {
- max-width: 80ch; margin-block: 0 16px; line-height: 1.75;
-}
-.reading-section p:last-child, .panel p:last-child { margin-bottom: 0; }
-.reading-section .record-heading, .panel .subheading,
-.reading-section .subheading, .national-food h5 {
- margin: 28px 0 10px; color: var(--gold);
- font: 1.05rem/1.5 Georgia,serif; font-variant: normal;
-}
-.reading-section .record-heading:first-child { margin-top: 0; }
-.reading-section .record-heading + p, .subheading + p { margin-top: 0; }
-.reading-section .detail-body > p > strong:first-child,
-#physiology .panel > p > strong:first-child {
- display: block; color: var(--gold); margin-bottom: 6px;
- font: 1.05rem/1.5 Georgia,serif;
-}
-#physiology .panel > p:has(> strong:first-child),
-.reading-section .detail-body > p:has(> strong:first-child) { margin-top: 24px; }
-.panel > .eyebrow { margin-bottom: 8px; line-height: 1.5; }
-.panel .fine, .reading-section .fine { font-size: .875rem; line-height: 1.65; }
-.grid { gap: var(--record-gap); }
-#dossier > .grid, #physiology > .grid { grid-template-columns: minmax(0,1fr); }
-.panel dl { margin-top: 20px; }
-.panel dl dt { margin: 22px 0 6px; }
-.panel dl dt:first-child { margin-top: 0; }
-.panel dl dd { margin: 0; }
-main .world-archive-group {
- margin: 36px 0; padding: 0; border: 0; border-radius: 0;
- background: none; overflow: visible; content-visibility: visible;
-}
-main .world-archive-group > header {
- padding: 0 0 14px; margin: 0 0 var(--record-gap);
- background: none; border-bottom: 1px solid var(--line);
-}
-main .world-archive-group > header h3 {
- margin: 0; font: small-caps 1.8rem/1.3 Georgia,serif; color: #d0d4b7;
-}
-main .world-archive-group > .reading-section { margin: var(--record-gap) 0; }
-main .world-census-panel { content-visibility: visible; }
-main .world-census-panel > .reading-section {
- padding: 24px 0 0; margin: 24px 0 0; background: none;
- border: 0; border-top: 1px solid var(--line); box-shadow: none;
-}
-main .world-census-panel > .reading-section > .reading-title { font-size: 1.15rem; }
-.world-chart > .world-key { margin: 24px 20px; }
-/* The atlas has a full-width map, so its header needs its own text inset. */
-main .world-chart.panel > h3 { margin: 0 20px 8px; }
-main .world-chart > .atlas-subtitle { margin: 0 20px 20px; }
-main .world-chart > .fine:last-child { margin: 20px; }
-.world-chart.world-expanded > .world-key { display: none; }
-.national-budget { margin: 24px 0; }
-.national-panel .reading-section > .reading-title { font-size: 1.35rem; }
-.national-panel > .reading-section { margin-top: 24px; }
-main .national-food { border: 0; padding: 0; margin: 28px 0; }
-main .national-panel p:not(.fine) { font: 1rem/1.75 system-ui,sans-serif; }
-main .national-panel #national-profile > h4 { font: small-caps 1.5rem/1.3 Georgia,serif; }
-.national-table caption { font: 1.05rem/1.5 Georgia,serif; }
-.national-table td { font-variant-numeric: tabular-nums; }
-.national-panel .national-table { font-size: .875rem; }
-.national-comparison, .national-ranking { margin-top: 24px; }
-.journal-item h3 { font: 1.25rem/1.4 Georgia,serif; }
-.journal-item p { line-height: 1.75; }
-@media (max-width:760px) {
- main { --record-gap: 20px; --record-padding: 18px; }
- .panel > h2, .panel > h3:not(.subheading),
- .reading-section > .reading-title, main .world-archive-group .reading-title { font-size: 1.35rem; }
- main .world-archive-group > header h3 { font-size: 1.55rem; }
- .world-chart > .world-key { margin: 20px 12px; }
- .national-budget { padding: 18px 0; border-inline: 0; background: none; box-shadow: none; }
- .national-panel .national-table { font-size: .8rem; }
- .national-table th, .national-table td { padding-block: 12px; }
- .reading-section .record-heading, .panel .subheading { font-size: 1.05rem; }
-}
-
-/* One consistent disclosure treatment across static and live-generated records. */
-main { --disclosure-gap: 16px; }
-main > section .grid:has(> details.record-disclosure) {
- gap: var(--disclosure-gap); margin-block: var(--disclosure-gap);
-}
-main > section .grid > details.record-disclosure { margin-block: 0; }
-main > section > details.record-disclosure,
-main #records > details.record-disclosure,
-main #journal > details.record-disclosure,
-main details.world-archive-group {
- margin-block: var(--disclosure-gap);
-}
-main details.record-disclosure {
- margin-block: 16px; padding: 0; border: 1px solid #425a4a;
- border-top: 3px double #718467; border-radius: 0;
- background: linear-gradient(120deg,#20382e44,transparent),#102023;
-}
-main details.record-disclosure.panel { padding: 0; }
-#physiology > .grid { gap: 16px; margin-block: 16px; }
-#physiology > .grid > details.record-disclosure { margin: 0; }
-main details.record-disclosure > summary {
- display: list-item; cursor: pointer; min-height: 48px; box-sizing: border-box;
- padding: 16px 22px; margin: 0; color: #c5cfb0;
- font: small-caps 1.25rem/1.5 Georgia,serif; list-style-position: inside;
-}
-main details.record-disclosure > summary::marker { color: var(--gold); }
-main details.record-disclosure > summary:focus-visible { outline: 2px solid var(--gold); outline-offset: -4px; }
-main details.record-disclosure[open] > summary { margin-bottom: 20px; background: #1c342c; border-bottom: 1px solid #46664f; }
-main details.record-disclosure > :not(summary) { margin-left: 22px; margin-right: 22px; }
-main details.record-disclosure > :last-child:not(summary) { margin-bottom: 22px; }
-main details.record-disclosure > .detail-body { padding: 0; }
-main details.world-archive-group { margin-block: var(--disclosure-gap); }
-main details.world-census-panel > details.record-disclosure { padding: 0; border: 1px solid #425a4a; }
-main details.national-food { padding: 0; border: 1px solid #425a4a; }
-main details.journal-item { padding: 0; }
-main details.journal-item > .eyebrow { margin-bottom: 12px; }
-@media(max-width:760px) {
- main details.record-disclosure > summary { padding: 14px 16px; font-size: 1.15rem; }
- main details.record-disclosure > :not(summary) { margin-left: 16px; margin-right: 16px; }
- main details.record-disclosure > :last-child:not(summary) { margin-bottom: 16px; }
-}
-@media print { main details.record-disclosure > summary { break-after: avoid; } }
-
-/* Draw the indicator geometrically; never use a font or emoji arrow. */
-main :is(#dossier,#physiology,#world,#chronicle,#archive) details {
- margin-block: var(--disclosure-gap);
-}
-main :is(#dossier,#physiology,#world,#chronicle,#archive) .grid > details {
- margin-block: 0;
-}
-main details > summary,
-main details.record-disclosure > summary {
- display: block; position: relative; list-style: none;
- padding-left: 46px;
-}
-main details > summary::marker { content: ''; }
-main details > summary::-webkit-details-marker { display: none; }
-main details > summary::before {
- content: ''; position: absolute; left: 23px; top: 1.35em;
- width: 7px; height: 7px; border-right: 2px solid var(--gold);
- border-bottom: 2px solid var(--gold); transform: rotate(-45deg);
- box-sizing: border-box;
-}
-main details[open] > summary::before { transform: rotate(45deg); }
-@media(max-width:760px) {
- main details > summary, main details.record-disclosure > summary { padding-left: 40px; }
- main details > summary::before { left: 17px; }
-}
-
-/* Keep direct headings aligned with body text despite older heading margin rules. */
-main details.record-disclosure.panel > :is(h2,h3,h4,h5,h6,.eyebrow,.record-heading,.subheading),
-main details.record-disclosure.reading-section > :is(h2,h3,h4,h5,h6,.eyebrow,.record-heading,.subheading) {
- margin-left: 22px; margin-right: 22px;
-}
-@media(max-width:760px) {
- main details.record-disclosure.panel > :is(h2,h3,h4,h5,h6,.eyebrow,.record-heading,.subheading),
- main details.record-disclosure.reading-section > :is(h2,h3,h4,h5,h6,.eyebrow,.record-heading,.subheading) {
-  margin-left: 16px; margin-right: 16px;
- }
-}
-
-/* Publication retry: consistent spacing and geometric chevrons, 2026-09-24. */
 
 /* Use the established slate disclosures; keep every control inside its content inset. */
 #settlement-comparison[hidden], #settlement-travel[hidden], #settlement-more[hidden] { display:none; }
@@ -856,6 +774,70 @@ if('serviceWorker'in navigator&&/^https?:$/.test(location.protocol)){navigator.s
  para(commission,moneyParts.slice(2).join('\n\n'));
  const link=document.createElement('a');link.href='./APP-RECORD-REFERENCE.md';link.textContent='Full retained records & historical context';
  document.getElementById('archive').append(link);
+})();
+
+
+// Presentation only: move complete records, never replace their text or data.
+(() => {
+ const main=document.querySelector('main');
+ function title(d){return d.querySelector(':scope > summary')?.textContent.trim();}
+ function group(parent,label,records,before=null){
+  const box=document.createElement('div');box.className='slate-group';
+  const h=document.createElement('h3');h.className='slate-group-title';h.textContent=label;box.append(h);
+  for(const record of records)if(record)box.append(record);
+  parent.insertBefore(box,before);return box;
+ }
+ function find(parent,name){return [...parent.querySelectorAll('details')].find(d=>title(d)===name);}
+ const dossier=document.getElementById('dossier');
+ const sword=find(dossier,'Armament record · Vouressan-bone greatsword');
+ find(dossier,'Armament & effects').append(sword);
+ group(dossier,'Subject record',['Present condition','Recorded appearance','Armament & effects'].map(n=>find(dossier,n)));
+ group(dossier,'House & standing',['Funds & standing','Estate & possessions','Relationships'].map(n=>find(dossier,n)));
+ group(dossier,'Studies & encounters',['Education & political studies','Recent encounters'].map(n=>find(dossier,n)));
+ const physiology=document.getElementById('physiology');
+ for(const [label,names] of [
+  ['Physical systems',['Motor development','Body, soul and combat potential','Integrated organ systems','Metabolic endurance','Toxin resistance','Genetic integrity & psychic defence']],
+  ['Mind & psychic development',['Psychic activity','Language and cognition','Temperamental profile']],
+  ['Origin & inheritance',['Origin record','Homo novus · Founder lineage','Heritable traits']]
+ ])group(physiology,label,names.map(n=>find(physiology,n)));
+ const research=document.getElementById('research'),reference=research.querySelector(':scope > p.fine');
+ for(const [label,names] of [
+  ['Commission & designs',['Royal technical commission','Civil engineering & mechanical designs','Other weapon concepts']],
+  ['Studies & collections',['Psychic engineering & Hunter technology','Research papers, collections & methods']],
+  ['Development reference',['How research progresses','Hunter plasma research & shared discoveries']]
+ ])group(research,label,names.map(n=>find(research,n)),reference);
+ const chronicle=document.getElementById('chronicle'),journal=document.getElementById('journal');
+ group(chronicle,'Campaign reference',[find(chronicle,'Expedition return · Summary'),find(chronicle,'Deployment apparatus · Incubation pod')],journal);
+ const jh=document.createElement('h3');jh.className='slate-group-title';jh.textContent='Chronological record';journal.before(jh);
+ // Dates remain visible when an entry is closed, without duplicating the date.
+ for(const d of journal.children){const date=d.querySelector(':scope > .eyebrow');if(date){date.classList.add('slate-entry-date');d.querySelector('summary').append(date);}}
+ for(const box of main.querySelectorAll('.grid,#records,#research-project-record'))if(!box.children.length)box.classList.add('slate-empty');
+ const archive=document.getElementById('archive'),archiveLink=archive.querySelector(':scope > a');
+ if(archiveLink){const p=document.createElement('p');p.className='slate-reference';p.append(archiveLink);archive.querySelector('.grid > .panel:last-child').append(p);}
+ function normalise(d){
+  if(d.classList.contains('slate-record'))return;
+  const summary=d.querySelector(':scope > summary');if(!summary)return;
+  d.classList.add('slate-record');
+  const content=[...d.childNodes].filter(n=>n!==summary);
+  let body=content.find(n=>n.nodeType===1&&n.classList.contains('detail-body'));
+  if(!body||content.some(n=>n.nodeType===1&&n!==body)){
+   body=document.createElement('div');body.className='detail-body';for(const n of content)body.append(n);d.append(body);
+  }
+  body.classList.add('slate-body');
+ }
+ function tables(root){
+  for(const t of root.querySelectorAll('.comparison-group table')){
+   const labels=[...t.querySelectorAll('thead th')].map(n=>n.textContent);
+   t.classList.add('slate-comparison-table');
+   for(const row of t.querySelectorAll('tbody tr'))[...row.querySelectorAll('td')].forEach((td,i)=>td.dataset.column=labels[i+1]);
+  }
+ }
+ function prepare(root){if(root.matches?.('details'))normalise(root);for(const d of root.querySelectorAll('details'))normalise(d);tables(root);}
+ prepare(main);
+ const observer=new MutationObserver(changes=>{
+  for(const change of changes)for(const node of change.addedNodes)if(node.nodeType===1&&!node.closest('svg'))prepare(node);
+ });
+ observer.observe(main,{childList:true,subtree:true});
 })();
 
 // Read-only route graph. Yen's loop-free alternatives are paged, never truncated to a fixed top-N.

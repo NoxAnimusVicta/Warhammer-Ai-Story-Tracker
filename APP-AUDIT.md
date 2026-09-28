@@ -31,3 +31,12 @@ National comparisons now have four consistent groups: living conditions; economy
 The reader, national, fiscal, disclosure and social-record checks cover syntax, published state, all 43 profiles, source-derived calculations, evidence ranges, input-response checks, dated event replay, future-event exclusion, retained reference text and existing accounting. Browser checks cover all six tabs, desktop and 430-pixel phone layouts, profile selection, grouped comparisons, rankings and estate context. The phone checks are responsive browser previews, not a claim of physical-iPhone testing.
 
 No census, economic ledger, national capacity baseline, map geometry, route, character seed or chronological journal is changed by this audit. Public social assessments remain dated 05/11 independently of later live narration. Exact history can repeat earlier facts by design; it has not been erased to make the current interface shorter.
+
+
+## Presentation consolidation — exchange 616
+
+All six tabs retain their recorded content and existing native disclosures. Dossier records are grouped into subject, House and studies; physiology into physical systems, mind and origin; Research into commission/designs, studies and development reference. The greatsword record now sits inside Armament & effects. The exact chronological entry order is preserved, with each existing date moved into its entry header. Archive reference links sit with the local archive explanation.
+
+The maintained presentation stylesheet replaces overlapping historical overrides with one system for spacing, heading hierarchy, content insets and lighter nested records. Dynamically selected nations and settlements receive the same disclosure treatment. Mobile national comparisons show labelled values in rows that fit the screen, preserving every metric. The phosphor palette, metal frame, artwork, existing tab navigation, map and estate zoom controls remain.
+
+Browser comparison against the preceding published edition confirmed all paragraph, definition and subsection-heading text in each of the six tabs remains present, including the selected Veyrasse record. Source data, national returns and narrative state are unchanged. Responsive checks include desktop and 430-pixel phone views, expanded records, national comparison, settlement travel and consistent disclosure spacing. These are browser previews rather than physical-device tests.

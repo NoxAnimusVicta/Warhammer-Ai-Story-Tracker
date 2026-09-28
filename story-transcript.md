@@ -14220,3 +14220,26 @@ All profiles, desktop/phone presentation and the deployed files were checked.
 ## 614 - User - Governments, leaders and annual succession
 
 Actually now I think of it all the nations probably need something outlining the government types and structure of each nation and who the ruler or representative of the government is as well as any other important figures like head of military for instance. All these individuals will also need to have ages and some brief info describing them visually and personality wise. Then when we do the roll overs each year we need to identify if any of these individuals would die for any reason and if so who would replace them and then add the same sort of info to the successor. We need the visual and personality info in case Galahad interacts with them and to inform how the country behaves under new rulers or different government types. The average King would obviously have more authority than the average President for instance.
+
+
+## 615 - Assistant - Government register published
+
+Published and verified. All **43 societies now have government records covering 140 principal figures**.
+
+In **Malaspina → select a nation → Government & leadership**, you’ll find:
+
+- Government structure, actual authority and institutional limits.
+- Civil and military leaders, deputies and recognised heirs.
+- Ages, appearance, personality and responsibilities.
+- Succession and appointment procedures.
+
+Annual rollovers now require a leadership review covering aging, health, deaths, retirement and political changes. Departed figures remain in the history, and replacements must receive complete biographies. Deaths are assessed from circumstances, not imposed as an annual quota.
+
+Existing Veyrasse characterisation is preserved. Desktop and phone layouts were checked, along with succession and aging validation.
+
+[Full government register](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/GOVERNMENT-REGISTER.md)
+
+
+## 616 - User - Full data-slate presentation polish
+
+Now I am having a look at the artifact and it still feels very disjointed in terms of presentation. Can you please go through everything and just do some general polish and make sure everything is laid out in a nice and clean way that still feels like a data slate? Please take your time with this task and ensure it is done nicely.
