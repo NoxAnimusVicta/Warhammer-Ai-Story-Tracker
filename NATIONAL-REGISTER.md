@@ -86,13 +86,15 @@ Court examination offices and provincial registries preserve records; access var
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 15.9/99 (Middling); confidence 60/100; civil protection 47/100; unrest 32/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 65/100 (above reference capacity); confidence 57/100; civil protection 53/100; unrest 36/100 (higher is worse).
 
-Lowland farm households have dependable local produce in ordinary seasons, but rents and levies restrict purchases. Railway and engineering workers have better cash access; court and landed households live far above the mean.
+Altitude matters as much as latitude. Mountain towns import much of their grain, while court menus display produce from every province as a claim to unity.
 
-Provincial estates mediate protection and taxation. Bargaining preserves local liberties unevenly and does not give poorer households equal access to influence.
+Provincial estates constrain crown levies; ordinary household participation and remedies are not established.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 52–63; protection 13–93; unrest 30–42. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -213,13 +215,15 @@ Estate households preserve healing and harvest observances; arsenal physicians r
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 13.1/99 (Impoverished); confidence 55/100; civil protection 35/100; unrest 40/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 51/100 (around reference capacity); confidence 44/100; civil protection 50/100; unrest 50/100 (higher is worse).
 
-Food-producing districts can provision themselves while many agricultural households have little disposable income. Industrial wards offer wages under close supervision; landholding families capture much of the surplus.
+Soldiers carry toasted grain and hard cheese; wealthy tables emphasise fresh meat and fruit that has not endured a convoy journey.
 
-Landed recruitment and administrative discipline give order at the expense of ordinary residents' freedom to refuse obligations.
+Landed families and royal commissioners dominate recruitment; no general household remedy is recorded.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 38–50; protection 10–90; unrest 44–56. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -340,13 +344,15 @@ Institutes and hospitals collect documented cases; evidence is better organised 
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 21.6/99 (Secure); confidence 63/100; civil protection 55/100; unrest 34/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 71/100 (above reference capacity); confidence 61/100; civil protection 54/100; unrest 32/100 (higher is worse).
 
-Commercial towns offer varied food, manufactured goods and skilled employment. Rent and import prices press on dock labourers while finance and precision trades support conspicuous wealth.
+Fresh oil, mountain butter and imported spice coexist rather than defining one uniform national cuisine. Ice houses and refrigerated warehouses support the richest urban tables.
 
-Commercial representation and functioning contracts coexist with concentrated credit and unequal political access.
+Commercial councils and elected harbour councils give organised interests voice; general resident rights are unspecified.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 55–67; protection 14–94; unrest 26–38. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -467,13 +473,15 @@ Water boards retain old records of divination and flood omens beside their engin
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 15.7/99 (Middling); confidence 62/100; civil protection 58/100; unrest 30/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 59/100 (around reference capacity); confidence 56/100; civil protection 63/100; unrest 37/100 (higher is worse).
 
-Cultivated districts and basin trades provide moderate security where water arrives reliably. Households below disputed gates face sharper uncertainty than prosperous engineering towns.
+Floodplain gardens supply onions and beans. Fish smoking and grain warehouses make the river ports vital even to communities beyond the floodplain.
 
-Water authorities and local assemblies offer remedies, but estate vetoes can delay repairs and shift burdens downstream.
+Member cities and estates retain vetoes; the water compact creates negotiated obligations, not universal representation.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 51–62; protection 53–73; unrest 31–43. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -594,13 +602,15 @@ Border houses keep private warding manuscripts and employ occasional itinerant r
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 13.1/99 (Impoverished); confidence 48/100; civil protection 38/100; unrest 44/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 49/100 (around reference capacity); confidence 43/100; civil protection 50/100; unrest 51/100 (higher is worse).
 
-Agricultural families have modest consumption and lose labour to mobilisation. Skilled town households fare better, but credit dependency limits room for public improvements.
+Ration bread and pickled vegetables dominate remote posts. Market-day sausages are a small luxury that survives frequent changes of uniform.
 
-Military prestige and landed privilege weigh heavily on ordinary households. Shorter reserve rotations ease a real burden without removing it.
+Hereditary court and officer institutions dominate; no general franchise or civil remedy is described.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 37–48; protection 10–90; unrest 45–58. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -721,13 +731,15 @@ Factory reading societies debate arcane reports alongside medicine and natural p
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 19.6/99 (Middling); confidence 60/100; civil protection 60/100; unrest 38/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 65/100 (above reference capacity); confidence 63/100; civil protection 54/100; unrest 30/100 (higher is worse).
 
-Industry supports substantial skilled wages and urban services, while imported food and fuel make household bills vulnerable. The damaged relay district remains less secure than recovered urban centres.
+Cooperative dining rooms compete with private factory canteens. Imported coastal fish is popular but more expensive than the local root-and-grain staples.
 
-Municipal representation gives residents channels to contest policy; industrial labour disputes and uneven recovery still matter.
+Municipal representation and contested labour participation are explicit; civil remedies are not specified.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 58–69; protection 14–94; unrest 24–36. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -848,13 +860,15 @@ The fallen crown’s collections are divided among rival courts and displaced te
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 9.8/99 (Struggling); confidence 29/100; civil protection 24/100; unrest 68/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 48/100 (around reference capacity); confidence 34/100; civil protection 30/100; unrest 68/100 (higher is worse).
 
-Interrupted freight, coal fighting and rival tolls make food, heating and regular work unreliable. Secure enclaves and well-connected households retain comforts inaccessible to many residents.
+Smuggling brings salt, oil and family recipes across front lines. An abundant banquet may conceal shortages in a neighbouring claimant’s territory.
 
-People depend on competing courts and city authorities. Grain agreements help particular routes but do not provide consistent protection across the region.
+Competing armed commands and separate tolls prevent dependable common authority or protection.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 25–43; protection 10–50; unrest 59–77. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -975,13 +989,15 @@ Valley households preserve protective rites and stories of gifted healers. Winte
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 14.1/99 (Impoverished); confidence 60/100; civil protection 44/100; unrest 30/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 50/100 (around reference capacity); confidence 54/100; civil protection 50/100; unrest 40/100 (higher is worse).
 
-Winter stores and valley agriculture support a restrained material life; distant districts have fewer goods and services. Administrative and trading households enjoy much better supply.
+A winter pantry matters more than a fashionable fresh ingredient. Household drying racks and communal bake days bind city relatives to valley farms.
 
-Crown protection is valued where it reaches, but distance and unequal access to officials limit practical remedies.
+Resident island councils are documented; the wider crown's household accountability is not specified.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 48–59; protection 10–90; unrest 34–46. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -1102,13 +1118,15 @@ Guarded workshops sometimes collaborate with rare practitioners; no standardised
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 16.9/99 (Middling); confidence 52/100; civil protection 40/100; unrest 49/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 61/100 (above reference capacity); confidence 58/100; civil protection 53/100; unrest 36/100 (higher is worse).
 
-Skilled mining and industrial work can pay well; ordinary workers remain exposed to hard conditions and imported grain prices. Proprietors benefit disproportionately from mineral sales.
+Canteens portion meat by shift entitlement. A late supply train can turn dumplings into thin flour soup without stopping the furnaces.
 
-Mining councils and industrial owners offer uneven representation. Disputed concessions and dependence on employer-linked commerce sustain grievances.
+Mining councils, proprietors and municipal councils govern; workforce voice and civil remedies are not established.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 52–63; protection 13–93; unrest 29–42. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -1229,13 +1247,15 @@ Small warden teaching houses preserve field traditions; skilled practitioners re
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 15.9/99 (Middling); confidence 69/100; civil protection 64/100; unrest 25/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 57/100 (around reference capacity); confidence 56/100; civil protection 66/100; unrest 38/100 (higher is worse).
 
-Material consumption is moderate, with shelter and medical institutions improving security beyond what cash output alone suggests. Remote settlements still have less access than defended towns.
+Healing traditions do not make every herb magical. Supplies are dated and inspected; winter hospitality can impose a serious obligation on an isolated house.
 
-Wardens, orders and estates exercise substantial authority, but established shelter and care obligations give residents meaningful expectations.
+Chartered institutions owe shelter, patrol and care, but access is not universal and ordinary electoral voice is unspecified.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 50–61; protection 56–76; unrest 31–44. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -1356,13 +1376,15 @@ Pilots and mill communities preserve water omens and inherited household protect
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 16.3/99 (Middling); confidence 64/100; civil protection 59/100; unrest 29/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 51/100 (around reference capacity); confidence 54/100; civil protection 50/100; unrest 39/100 (higher is worse).
 
-Grain-producing households and river towns benefit from food access and trade. Labourers have fewer comforts than commercial families, but storage improvements reduce some seasonal vulnerability.
+Smokehouses fill before freeze-up. Spring fish suppers mark reopened navigation and the arrival of news as much as the season’s catch.
 
-Commercial and agricultural authorities bargain over water and transport; residents' influence varies with property and locality.
+River, commercial and elected port authorities bargain; general resident remedies remain unspecified.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 49–60; protection 10–90; unrest 33–45. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -1483,13 +1505,15 @@ Port archives collect travellers’ accounts and sea traditions; private patrons
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 19.6/99 (Middling); confidence 59/100; civil protection 49/100; unrest 37/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 66/100 (above reference capacity); confidence 57/100; civil protection 54/100; unrest 36/100 (higher is worse).
 
-Ports offer skilled work, imported goods and commercial opportunity; inland households face slower access and fewer services. Shipping wealth is far from evenly distributed.
+Sailors’ inexpensive meals favour salted fish; fresh shellfish signals a short journey from water to table. Inland villages are less maritime than the national reputation suggests.
 
-Port families and industrial firms dominate national choices, while agricultural districts contest their share of costs.
+Port families, commercial houses and resident port councils influence government; general legal protection is unspecified.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 52–63; protection 14–94; unrest 30–42. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -1610,13 +1634,15 @@ Military physicians record unusual perception when it comes to their attention. 
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 14.5/99 (Impoverished); confidence 57/100; civil protection 37/100; unrest 40/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 54/100 (around reference capacity); confidence 45/100; civil protection 50/100; unrest 48/100 (higher is worse).
 
-Farm and industrial households bear substantial military demands. Procurement supports some jobs, but frontier uncertainty competes with ordinary household priorities.
+Shift whistles govern supper in the industrial wards. Kitchen gardens and pickled cabbage cushion disruptions to the grain trains.
 
-Crown and supplier interests carry more weight than poorer residents. De-escalation reduces immediate alarm without ending the burden.
+Royal military administration and suppliers dominate; no broad resident franchise or remedy is established.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 40–51; protection 10–90; unrest 42–54. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -1737,13 +1763,15 @@ Provincial collections preserve distinct healing and warding customs. Teachers e
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 15.2/99 (Middling); confidence 61/100; civil protection 49/100; unrest 32/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 54/100 (around reference capacity); confidence 55/100; civil protection 61/100; unrest 39/100 (higher is worse).
 
-Provincial stores buffer cold districts, though mountain households have limited choice and slow supply. Town trades and larger owners have more secure consumption.
+Public ovens are meeting places as well as fuel economies. A dispute over milling rights can be discussed for an entire supper without anyone naming its political purpose.
 
-Provincial bargaining restrains some central demands but makes protection uneven between districts.
+Provincial institutions protect local stores and troops against central demands; this is collective, not universal household protection.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 49–60; protection 51–71; unrest 33–46. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -1864,13 +1892,15 @@ Republican archives retain fragments of the former basin federation’s case rec
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 15.6/99 (Middling); confidence 61/100; civil protection 59/100; unrest 33/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 50/100 (around reference capacity); confidence 53/100; civil protection 53/100; unrest 41/100 (higher is worse).
 
-Mountain households combine modest goods access with technical and communal institutions. Trade and water arrangements matter strongly to work and provisioning.
+The remnant government maintains public grain kitchens near its ministries. Former federal recipes outlast the tax union, while each successor claims its own version is the original.
 
-Republican institutions retain local legitimacy; inherited debts and disputes constrain what they can deliver.
+A republic and archives are established, but neither franchise coverage nor household remedies are specified.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 38–68; protection 13–93; unrest 26–57. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -1991,13 +2021,15 @@ River pilots and household healers trade practical lore around the delta. Port b
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 16.9/99 (Middling); confidence 60/100; civil protection 52/100; unrest 34/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 56/100 (around reference capacity); confidence 57/100; civil protection 53/100; unrest 37/100 (higher is worse).
 
-Delta cultivation and engineering provide moderate material security, with richer commercial ports beside less prosperous agricultural districts. Water and freight failures quickly reach household budgets.
+Fish sauce is an everyday seasoning rather than a luxury. Flood years alter rice prices across all four successor states.
 
-Commercial and water authorities supply useful services but also command powerful bargaining positions over inland customers and workers.
+Port, water and commercial authorities have influence; individual household remedies are unspecified.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 51–62; protection 13–93; unrest 31–44. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -2118,13 +2150,15 @@ Estate remedies coexist with workers’ inherited protective practices. Private 
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 11.0/99 (Impoverished); confidence 39/100; civil protection 25/100; unrest 57/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 42/100 (around reference capacity); confidence 51/100; civil protection 30/100; unrest 44/100 (higher is worse).
 
-Plantation output does not translate into comfortable lives for most workers. Grain and livestock districts offer different livelihoods; technical and estate households command far greater purchasing power.
+Labourers eat at field shelters from wrapped parcels. Plantation owners’ lavish fruit tables conceal the uneven access to meat and purchased grain.
 
-Estate labour obligations and unequal commercial access are central grievances. Delivery arbitration has not settled labour conditions.
+Powerful plantations and contested estate labour obligations limit protection; limited delivery arbitration is not a labour-rights settlement.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 45–56; protection 10–50; unrest 38–50. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -2245,13 +2279,15 @@ March houses preserve family books of omens and protections. Their secrecy divid
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 11.8/99 (Impoverished); confidence 46/100; civil protection 35/100; unrest 44/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 40/100 (around reference capacity); confidence 42/100; civil protection 38/100; unrest 53/100 (higher is worse).
 
-Most households rely on local agricultural and forest markets with limited purchased comforts. Patronage and fragmented tolls affect access to tools and work.
+Hospitality includes bread broken by the host, but its quality distinguishes an honoured guest from a hired messenger. Poor tenants substitute lentils for goat.
 
-House courts provide differing protections; there is no equally accessible common remedy or unified authority.
+House courts and patronage determine access; separate charters provide limited rather than general recourse.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 36–47; protection 28–48; unrest 46–59. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -2372,13 +2408,15 @@ Canton healers inherit plant lore and protective observances. Port subscribers o
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 12.1/99 (Impoverished); confidence 44/100; civil protection 34/100; unrest 47/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 41/100 (around reference capacity); confidence 51/100; civil protection 37/100; unrest 44/100 (higher is worse).
 
-Tenant households face debt and restricted access to cleared land while harbour and plantation owners profit from exports. Predictable seasonal tolls offer some relief to trade.
 
-Separate land courts and toll assemblies favour different patrons. Tenants' leverage remains weaker than creditors'.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Commercial assemblies and separate land courts exist, while tenant debt and plantation checkpoints limit household leverage.
+
+Evidence bands: confidence 45–56; protection 27–47; unrest 38–50. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -2499,13 +2537,15 @@ Court chapbooks mix household wards with dynastic histories. Independent practit
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 13.0/99 (Impoverished); confidence 50/100; civil protection 41/100; unrest 39/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 41/100 (around reference capacity); confidence 49/100; civil protection 37/100; unrest 45/100 (higher is worse).
 
-Ordinary households have modest farm and wool incomes with costly winter transport. Charter towns and well-financed shipping houses are appreciably better supplied.
 
-Town privileges protect some merchants; residents outside those charters depend more on estate courts and changing rights of passage.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Market charters protect merchants from estate levies; this recorded privilege is not universal protection.
+
+Evidence bands: confidence 44–55; protection 27–47; unrest 39–51. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -2626,13 +2666,15 @@ Reservoir communities preserve water-divining traditions. Boards test useful cla
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 13.2/99 (Impoverished); confidence 53/100; civil protection 45/100; unrest 40/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 41/100 (around reference capacity); confidence 50/100; civil protection 57/100; unrest 44/100 (higher is worse).
 
-Grain, milling and fertiliser work support households when releases arrive on time. A withheld gate can threaten livelihoods far beyond the immediate dispute.
 
-Separate water commands and councils offer negotiated protection, unevenly enforced across estate boundaries.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Commercial and estate councils share an enforceable water compact and arbitration; representation remains sectional.
+
+Evidence bands: confidence 45–56; protection 47–67; unrest 37–50. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -2753,13 +2795,15 @@ Harbour families collect foreign protective charms and accounts of unusual perce
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 14.7/99 (Impoverished); confidence 48/100; civil protection 40/100; unrest 47/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 41/100 (around reference capacity); confidence 51/100; civil protection 36/100; unrest 49/100 (higher is worse).
 
-Harbour trade supports relatively comfortable skilled households, while indebted rural producers face foreclosure and expensive necessities. Safer convoy departures help without securing every feeder route.
 
-Commercial conventions protect cargo better than they resolve unequal rural credit or rival seizure claims.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Harbour and estate jurisdictions retain local criminal law, while contested seizures and foreclosures limit practical recourse.
+
+Evidence bands: confidence 45–57; protection 26–46; unrest 43–55. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -2880,13 +2924,15 @@ Mining crews preserve warning rites and private accounts of uncanny perception. 
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 11.6/99 (Impoverished); confidence 34/100; civil protection 23/100; unrest 63/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 41/100 (around reference capacity); confidence 45/100; civil protection 37/100; unrest 57/100 (higher is worse).
 
-Concession workers depend on imported food and employer-linked transport; interruption threatens wages and supplies together. Owners retain a much richer standard despite local losses.
 
-Armed intimidation, lease disputes and contested bonds make redress unreliable. The escrow settlement covers participating claims only.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Charter lawsuits and escrow exist alongside unresolved armed intimidation; partial settlement is not general protection.
+
+Evidence bands: confidence 39–50; protection 27–47; unrest 51–64. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -3007,13 +3053,15 @@ Hospices hold copied warding and healing texts obtained from Galdresk visitors. 
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 13.7/99 (Impoverished); confidence 59/100; civil protection 49/100; unrest 35/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 43/100 (around reference capacity); confidence 51/100; civil protection 47/100; unrest 44/100 (higher is worse).
 
-Winter survival rests on stores, convoy access and reciprocal shelter. Ordinary households have few luxuries; invited hospices improve care in some districts.
 
-Wardens owe protection, but scarcity tests those obligations and can turn requisition into lasting exaction.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Civilian assemblies contest requisitions; shelter duties and mutual stores exist but performance is disputed under scarcity.
+
+Evidence bands: confidence 46–57; protection 27–67; unrest 37–50. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -3134,13 +3182,15 @@ Fishing households and estate infirmaries preserve separate traditions. Port scr
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 13.0/99 (Impoverished); confidence 46/100; civil protection 34/100; unrest 46/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 41/100 (around reference capacity); confidence 50/100; civil protection 37/100; unrest 44/100 (higher is worse).
 
-Fishing and timber households rely on imported grain and seasonal work. Port merchants and large estates enjoy much greater security than shore crews.
 
-Customary fishing rights remain vulnerable to estate claims; seasonal settlements offer limited protection.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Elected commercial port officers coexist with estate bailiffs and contested customary fishing access.
+
+Evidence bands: confidence 44–56; protection 27–47; unrest 38–50. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -3261,13 +3311,15 @@ Travelling readers find patrons among rival march houses. Books cross borders as
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 14.2/99 (Impoverished); confidence 49/100; civil protection 38/100; unrest 43/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 49/100 (around reference capacity); confidence 50/100; civil protection 40/100; unrest 44/100 (higher is worse).
 
-Cultivated valleys and textile or wagon work sustain modest consumption. Repeated tolls reduce ordinary purchasing power while patron-backed towns fare better.
 
-Protections change between lordships, town liberties and clients. Shared manifests ease inspections but leave separate power structures intact.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Town liberties and councils exist within fragmented lordships and incompatible toll jurisdictions.
+
+Evidence bands: confidence 44–56; protection 30–50; unrest 37–50. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -3388,13 +3440,15 @@ Granary towns maintain household protection rites alongside practical medicine. 
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 15.1/99 (Middling); confidence 55/100; civil protection 48/100; unrest 38/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 50/100 (around reference capacity); confidence 58/100; civil protection 60/100; unrest 35/100 (higher is worse).
 
-Granaries and market farming support basic security, though requisitions can remove household reserves. Commercial and landed families remain more comfortable.
 
-Elected boards, governors and estate courts compete. Written requisition limits improve recourse only where accepted and enforced.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Elected grain boards secured limits and receipts for requisitions with appeal rights; only participating authorities are bound.
+
+Evidence bands: confidence 53–64; protection 50–70; unrest 29–42. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -3515,13 +3569,15 @@ Pilot families pass down sea omens and protective marks. Inland healers keep dif
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 15.2/99 (Middling); confidence 57/100; civil protection 51/100; unrest 34/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 50/100 (around reference capacity); confidence 55/100; civil protection 40/100; unrest 40/100 (higher is worse).
 
-Coastal trade and agriculture provide moderate livelihoods. Seasonal crews and inland villages have less predictable access than chartered port households.
 
-Communes and houses keep separate rights; pilot and merchant influence exceeds that of casual workers.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Port communes and island councillors coexist with hereditary land control and contested seasonal labour.
+
+Evidence bands: confidence 49–60; protection 30–50; unrest 33–46. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -3642,13 +3698,15 @@ Mining communities preserve protective marks, warning dreams and accounts of unu
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 16.8/99 (Middling); confidence 64/100; civil protection 57/100; unrest 33/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 59/100 (around reference capacity); confidence 57/100; civil protection 51/100; unrest 36/100 (higher is worse).
 
-Skilled engineering and mining support better town consumption than many agricultural neighbours. Imported food and costly coastal transfers erode the benefit for ordinary households.
+Lower valleys supply potatoes and cabbage, upland pastures cheese. Bought flour and coastal salt become costly when freight negotiations fail.
 
-Autonomous councils offer local voice and defended approaches, with unequal influence among districts and occupations.
+Autonomous mining councils and fortress districts bargain; household membership and enforceable civil remedies are unspecified.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 49–66; protection 11–91; unrest 27–45. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -3769,13 +3827,15 @@ Estate collections and military medical records preserve different accounts of u
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 14.5/99 (Impoverished); confidence 54/100; civil protection 32/100; unrest 43/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 58/100 (around reference capacity); confidence 42/100; civil protection 51/100; unrest 46/100 (higher is worse).
 
-Productive valleys and arsenals sustain employment, but military commitments and elite consumption absorb much of the surplus. Frontier households bear particularly heavy disruption.
+Army purchasing can empty market stalls before a mobilisation. Housewives argue over whether a proper sour-pot should contain tomato, an imported coastal habit.
 
-Central ducal supervision supplies order with limited popular leverage. Rival estate and arsenal interests do not imply an already collapsing state.
+Ducal control is centralised around estate and arsenal interests; no general resident remedy is established.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 37–48; protection 11–91; unrest 40–52. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -3896,13 +3956,15 @@ Private circles and inherited manuscripts sustain the older arts outside the Col
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 15.7/99 (Middling); confidence 59/100; civil protection 48/100; unrest 38/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 57/100 (around reference capacity); confidence 50/100; civil protection 40/100; unrest 38/100 (higher is worse).
 
-Auvrienne and Serravonne offer skilled work and improving water or railway services; poorer tenants and labourers still have little spare income. Well-connected houses enjoy far greater comfort.
+Fresh fish is ordinary near Serravonne, expensive uphill after a disrupted train. Station households stretch yesterday’s bread into broth dumplings.
 
-Chartered institutions permit bargaining and advancement through education or patronage. Poor households bear disproportionate dangerous service; influence shapes access to justice.
+Chartered municipal institutions and railway unions have leverage, but poorer households carry disproportionate service obligations and advancement depends on patronage.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 44–56; protection 30–50; unrest 32–45. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -4023,13 +4085,15 @@ Merchant households collect texts through maritime contacts. Private teaching an
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 20.1/99 (Secure); confidence 58/100; civil protection 48/100; unrest 40/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 67/100 (above reference capacity); confidence 59/100; civil protection 54/100; unrest 34/100 (higher is worse).
 
-Ports offer varied goods and skilled maintenance work, but household costs depend on imported food and fuel. Banking and shipping families live much better than casual workers.
+Dockside stalls sell fried small fish in paper. A merchant’s citrus preserves may have travelled farther than the guests eating them.
 
-Restricted franchise privileges commercial families. Reliable contracts and escorts do not amount to equal political influence.
+A restricted franchise favours shipping, banking and industrial families; civil remedies for excluded households are unspecified.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 54–65; protection 14–94; unrest 27–40. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -4150,13 +4214,15 @@ Maritime traditions and itinerant teachers preserve fragmentary practice; crews 
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 16.8/99 (Middling); confidence 65/100; civil protection 47/100; unrest 29/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 61/100 (above reference capacity); confidence 50/100; civil protection 51/100; unrest 43/100 (higher is worse).
 
-Fishing, pilotage and repair work sustain island households; grain and fuel prices depend on shipping. Naval and merchant households have more secure stores than outer communities.
+Islanders know several preparations of the same catch. Grain shortages change the size of a loaf before they change a naval ration.
 
-Protection of shipping gives the Admiralty standing, while hereditary and naval offices limit ordinary influence.
+Hereditary protector, naval council and governors govern; general household representation and remedies are unspecified.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 44–56; protection 11–91; unrest 37–49. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -4277,13 +4343,15 @@ Navigation families preserve weather observations alongside inherited rites; gif
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 15.7/99 (Middling); confidence 70/100; civil protection 70/100; unrest 25/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 46/100 (around reference capacity); confidence 66/100; civil protection 77/100; unrest 28/100 (higher is worse).
 
-Terrace farming, fisheries and shared water rights provide useful security despite dependence on imported engines and medicine. Material choice is narrower than in rich mainland ports.
+Fresh water is served before wine at a guest meal; a full jug signals a household willing to share its cistern.
 
-Island assemblies protect land and elect harbour officers. Customs exemptions and defence levies remain contested between carriers and cultivators.
+Island assemblies elect harbour officers, retain land law and bar foreign ownership of freshwater catchments under shared courts.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 60–71; protection 67–87; unrest 22–34. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -4404,13 +4472,15 @@ Village healers and colonial physicians work within different institutions; regi
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 12.6/99 (Impoverished); confidence 35/100; civil protection 28/100; unrest 56/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 49/100 (around reference capacity); confidence 53/100; civil protection 28/100; unrest 53/100 (higher is worse).
 
-Export wealth sits beside much poorer island households. Shipping and credit controlled by outside firms constrain the benefits of local production.
+Company dining rooms and village kitchens use the same crops but distribute the best produce differently.
 
-Village councils retain some land authority, but colonial courts favour stronger commercial access. The levy suspension is a limited concession, not equal treatment.
+Village councils retain some voice, but colonial courts and outside credit dominate land disputes; levy suspension covers only petitioning districts.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 48–59; protection 8–48; unrest 47–59. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -4531,13 +4601,15 @@ Court archivists collect island traditions; household custodians retain many pra
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 15.7/99 (Middling); confidence 65/100; civil protection 61/100; unrest 29/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 45/100 (around reference capacity); confidence 58/100; civil protection 77/100; unrest 35/100 (higher is worse).
 
-Terrace grain and fisheries support modest household security with imported plant and fuel limiting choice. Technical schooling creates a small route to skilled work.
+Outer households preserve more fish and dairy; the capital displays produce from across the compacts.
 
-Crown decisions require bargains with houses, towns and communal-land custodians; outer communities retain protections against unilateral requisition.
+Town and communal-land custodians participate, with compacts preventing automatic harvest requisition.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 53–64; protection 67–87; unrest 29–42. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -4658,13 +4730,15 @@ Households preserve weather and healing traditions; the colonial registry record
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 13.0/99 (Impoverished); confidence 45/100; civil protection 35/100; unrest 44/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 43/100 (around reference capacity); confidence 52/100; civil protection 37/100; unrest 42/100 (higher is worse).
 
-Farming and preserved-food exports support basic livelihoods, but winter isolation limits goods and repairs. Settler and crown-linked households often enjoy better access.
+Winter smokehouses and communal grain stores remain important even where imported tins are fashionable.
 
-Unequal land and tax arrangements remain despite wider consultation over provisioning.
+District councils gained provisioning consultation but unequal land and taxation remain.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 46–57; protection 27–47; unrest 36–48. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -4785,13 +4859,15 @@ Custodians preserve communal histories and healing practices; ritual office does
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 12.8/99 (Impoverished); confidence 73/100; civil protection 73/100; unrest 19/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 30/100 (below reference capacity); confidence 61/100; civil protection 76/100; unrest 33/100 (higher is worse).
 
-Cash incomes and imported comforts are low, but reciprocal shelter, local food and rescue duties buffer hardship. Severe winters still restrict diet and medical access.
+Visitors eat from a host hearth’s stores; prolonged stays create reciprocal obligations.
 
-Hearth assemblies preserve strong local voice and customary land protection without requiring a wealthy central state.
+Hearth assemblies retain land and shelter rights under customary law and written harbour judgments.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 56–67; protection 66–86; unrest 27–39. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -4912,13 +4988,15 @@ Municipal archives and private societies exchange older texts; unusual talent de
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 17.6/99 (Middling); confidence 64/100; civil protection 61/100; unrest 32/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 55/100 (around reference capacity); confidence 62/100; civil protection 51/100; unrest 32/100 (higher is worse).
 
-Repair trades, cooperative farming and exports support moderate comfort. Seasonal crews and outer communities have more precarious access than settled port households.
+Dockside houses advertise fixed-price meals; wealthy tables display fresh produce from distant islands.
 
-An elected assembly offers accountability but its residence and tax franchise excludes some residents.
+An elected assembly exists but residence and tax rules exclude some crews and outer communities; wider remedies are unspecified.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 56–67; protection 11–91; unrest 25–38. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -5039,13 +5117,15 @@ Kin custodians and travelling teachers preserve distinct traditions; there is no
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 13.8/99 (Impoverished); confidence 72/100; civil protection 71/100; unrest 22/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 36/100 (below reference capacity); confidence 56/100; civil protection 76/100; unrest 39/100 (higher is worse).
 
-Cultivation, fishing and communal land provide basic security with limited imported comforts and medical access. Harbour households can purchase more than inland producers.
+Communal feasts affirm obligations between councils; everyday cooking varies by island.
 
-Kin councils and elected harbour assemblies protect common land, though local hierarchy and creditor pressure still affect choices.
+Kin and elected harbour councils negotiate covenants; foreign creditors cannot seize communal land.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 50–61; protection 66–86; unrest 32–45. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -5166,13 +5246,15 @@ Court collections and district schools preserve competing accounts of the older 
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 16.2/99 (Middling); confidence 62/100; civil protection 53/100; unrest 33/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 51/100 (around reference capacity); confidence 59/100; civil protection 58/100; unrest 35/100 (higher is worse).
 
-Agriculture, textiles and repairs support moderate consumption, with schooling offering skilled prospects. Machinery and fuel imports constrain opportunities outside the ports.
+Mill workers buy meals near the gates; court hospitality prizes fresh produce from several islands.
 
-Assembly scrutiny restrains borrowing, but landholding and court merchants retain stronger influence than ordinary workers.
+Town and landed representation constrains taxes and royal borrowing, without establishing universal franchise.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 53–64; protection 48–68; unrest 28–41. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -5293,13 +5375,15 @@ Local custodians preserve island rites alongside mainland institutions; governor
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 13.0/99 (Impoverished); confidence 48/100; civil protection 39/100; unrest 39/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 46/100 (around reference capacity); confidence 53/100; civil protection 37/100; unrest 41/100 (higher is worse).
 
-Fishing and timber communities depend on winter grain shipments and seasonal work. Settler towns and connected traders generally have better supply than remote communities.
+Northern stations ration imported flour through winter; southern markets offer more variety.
 
-Treaty councils provide some leverage, but unequal land rights and new concessions remain contentious.
+Treaty councils can resist concessions but inhabitants have unequal land rights under colonial government.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 47–58; protection 27–47; unrest 35–47. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -5420,13 +5504,15 @@ Moot custodians preserve histories and ritual knowledge by apprenticeship; pract
 
 ### Living standards and public sentiment
 
-05/11/0068 AC43 — indicative campaign baseline. SoL 11.7/99 (Impoverished); confidence 74/100; civil protection 74/100; unrest 18/100 (higher is worse).
+05/11/0068 AC43 — modelled current estimates — source-derived material provision 26/100 (below reference capacity); confidence 60/100; civil protection 73/100; unrest 35/100 (higher is worse).
 
-Fishing, herding and mutual refuge keep households viable with few manufactured comforts. Short seasons and scarce medicine impose real limits despite strong community support.
+Stored food is carefully accounted for because rescue hospitality and winter survival draw on the same reserves.
 
-Seasonal moots preserve local control and refuge obligations. Low unrest reflects these relationships, not abundant wealth.
+Seasonal assemblies negotiate leases while retaining sovereignty and mutual refuge obligations.
 
-[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+Evidence bands: confidence 54–65; protection 63–83; unrest 29–41. These are not polling confidence intervals.
+
+[Inputs, evidence ranges, formulas and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 

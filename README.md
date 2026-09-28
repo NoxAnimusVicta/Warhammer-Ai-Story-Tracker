@@ -1,4 +1,4 @@
-The app now groups commission work under Research, completed expedition and pod history under Chronicle, and household context beside the estate. [Organisation audit](APP-AUDIT.md) records the changes; [retained source records](APP-RECORD-REFERENCE.md) preserve consolidated prose. All 43 national/territorial profiles include [living standards and public sentiment](SOCIAL-CONDITIONS.md), household differences and everyday-life descriptions. These dated campaign estimates are separate from economic output, military cohesion and treasury figures.
+The app now groups commission work under Research, completed expedition and pod history under Chronicle, and household context beside the estate. [Organisation audit](APP-AUDIT.md) records the changes; [retained source records](APP-RECORD-REFERENCE.md) preserve consolidated prose. All 43 national/territorial profiles include [living standards and public sentiment](SOCIAL-CONDITIONS.md), source-derived estimates, evidence ranges and everyday-life descriptions. Their inputs and common formulas are recorded in the linked reference.
 
 The **Research** tab brings the existing research record together with collapsible guidance on cumulative discoveries, development stages and Hunter plasma adaptations. [Full narrator reference](RESEARCH-PROGRESSION.md). This presentation update does not advance the story: the app retains its dated revision-72 milestone; the exact transcript records later play through the 06/11 briefing and the subsequent research agreement.
 
@@ -7,6 +7,8 @@ Published overview date: **05/11/0068 AC43** (day/month/year after Culling 43). 
 # Malaspina — data-slate
 
 A read-only companion to the continuing campaign.
+
+[Living standards and public sentiment](SOCIAL-CONDITIONS.md) now use a common source-derived model for all 43 societies: current output, civilian spending, capability, treasury resilience and documented political conditions. Each profile shows its inputs and evidence ranges. The earlier hand-assigned scores and invented household shares are superseded.
 
 The planetary atlas includes a [national staff register](NATIONAL-REGISTER.md), with military, economic and industrial comparisons. Current estimates are in [national-current.json](national-current.json); [national-register.json](national-register.json) preserves the dated baseline. Divided geographic returns remain separate from unified states; the accompanying definitions explain the units and scope.
 

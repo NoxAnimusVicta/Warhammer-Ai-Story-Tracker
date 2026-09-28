@@ -1,7 +1,7 @@
 'use strict';
 const BASE=new URL('./',self.location.href);
 const PREFIX='malaspina-dossier:'+BASE.pathname+':';
-const CACHE=PREFIX+'v43';
+const CACHE=PREFIX+'v44';
 const FILES=['./','./index.html','./manifest.webmanifest','./sigil-v1.png','./sigil-gold-clear.png','./portrait.png','./portrait-expedition-r50.jpg','./APPEARANCE-REFERENCE.md','./ORIGIN-REFERENCE.md','./ISLAND-CHAINS.md','./ARCHITECTURE-REFERENCE.md','./economic-ledger.json','./ECONOMIC-REFERENCE.md','./ESTATE-ACCOUNTS.md','./PHYSIOLOGY-REFERENCE.md','./TRANSPORT-REFERENCE.md','./SEA-PASSAGES.md','./ESTATE-REFERENCE.md','./estate-r48.jpg','./expedition-route.html','./expedition-route.md','./expedition-route.json','./COASTLINE-REFERENCE.md','./EXPEDITION-BUDGET.md','./EXPEDITION-PREPARATION.md','./NATIONAL-REGISTER.md','./national-register.json','./CALENDAR-REFERENCE.md','./calendar.json','./HISTORY-REFERENCE.md','./history-traditions.json'];
 FILES.push('./SOCIAL-CONDITIONS.md','./social-conditions.json','./APP-RECORD-REFERENCE.md','./RESEARCH-PROGRESSION.md','./PERSONNEL-REVIEW.md','./personnel-review.json','./STATISTICS-AUDIT.md','./SETTLEMENT-TRAVEL.md','./LIVING-WORLD-REFERENCE.md','./SETTLEMENT-REGISTER.md','./national-current.json','./CONFLICT-REGISTER.md','./conflict-register.json','./expedition-accounts.json','./CURRENT-CONTINUITY.md','./DROSSANE-INCIDENT.md','./EXPEDITION-RETURN.md','./ROYAL-COMMISSION.md','./commission-accounts.json','./population-current.json');
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(FILES.map(path=>new URL(path,BASE).href))).then(()=>self.skipWaiting()));});

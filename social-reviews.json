@@ -1,4 +1,4 @@
 {
   "reviews": [],
-  "instructions": "Append uniquely identified dated reviews: id, date (DD/MM/YYYY AC43), society (existing profile ID), reason, changes (field: {old, new}). Empty changes means reviewed unchanged. The builder applies reviews once from the preserved baseline and ignores future-dated entries. No invented historical trend."
+  "instructions": "Append dated, uniquely identified evidence reviews with society, date, reason and changes {field:{old,new}}. Allowed fields: voice, rights, reason, evidence, evidence_date. Headline overrides are forbidden. Update national economics, services and conflict sources through their existing ledgers. Future reviews are ignored; stale source prose stops the build pending review."
 }

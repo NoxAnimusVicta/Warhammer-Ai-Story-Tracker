@@ -1,1125 +1,794 @@
 {
+  "schema": 2,
+  "model": "source-derived-1",
   "as_of": "05/11/0068 AC43",
-  "method": "SOCIAL-CONDITIONS.md",
-  "status": "New authorial baseline; indicative estimates, not surveys",
+  "anchors": {
+    "output_per_person": 161.103,
+    "civil_spending_per_person": 10.959676505462978,
+    "health_spending_per_person": 2.56305986906943
+  },
+  "anchor_note": "Fixed unweighted median of the 43 dated geographic returns on 05/11/0068. A value of 50 means the reference capacity, not adequate household consumption. Do not recalculate anchors when time advances.",
   "profiles": [
     {
       "id": "veldrassen",
-      "confidence": 60,
-      "protection": 47,
-      "unrest": 32,
-      "daily_life": "Lowland farm households have dependable local produce in ordinary seasons, but rents and levies restrict purchases. Railway and engineering workers have better cash access; court and landed households live far above the mean.",
-      "politics": "Provincial estates mediate protection and taxation. Bargaining preserves local liberties unevenly and does not give poorer households equal access to influence.",
-      "review": "Freight reliability, estate levies and access to industrial wages.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 74,
-          "sol": 13
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 23,
-          "sol": 22
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 40
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        0,
+        4
+      ],
+      "reason": "Provincial estates constrain crown levies; ordinary household participation and remedies are not established.",
+      "evidence": {
+        "description": "Veldrassen is a composite monarchy whose mountain court at Cavrelisse presides over provinces ranging from tropical cultivation to cold industrial uplands. Mondessore's locomotive works and a large railway economy give the crown considerable military weight; provincial estates nevertheless control much of the revenue and recruitment on which it depends. The lowlands sell food and forest products uphill, while machinery and government contracts travel back down. Coal exports and heavy engineering sustain foreign influence. Court ceremony presents this diversity as unity, but extraordinary levies still require bargaining. Cervaud is a neighbouring buffer and customer, not a province awaiting effortless annexation. Valdorelle provides a charted coastal gateway, with defended access to Latosane. A provincial coastal dependency with fishing villages and navigation stations supplied from Valdorelle.",
+        "year_review": "Mondessore works completed a locomotive overhaul programme and adopted common inspection gauges across participating provincial depots. Through-freight availability improved, but provincial procurement remains divided. Replacement armoured vehicles and aircraft entered service; obsolete and worn machines were withdrawn. No consolidation of provincial armies occurred."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "ostrevain",
-      "confidence": 55,
-      "protection": 35,
-      "unrest": 40,
-      "daily_life": "Food-producing districts can provision themselves while many agricultural households have little disposable income. Industrial wards offer wages under close supervision; landholding families capture much of the surplus.",
-      "politics": "Landed recruitment and administrative discipline give order at the expense of ordinary residents' freedom to refuse obligations.",
-      "review": "Harvest access, recruitment burdens and distribution of seed and transport improvements.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 81,
-          "sol": 11
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 16,
-          "sol": 19
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 38
-        }
-      ]
+      "voice": [
+        0,
+        1
+      ],
+      "rights": [
+        0,
+        4
+      ],
+      "reason": "Landed families and royal commissioners dominate recruitment; no general household remedy is recorded.",
+      "evidence": {
+        "description": "Ostrevain is an agricultural monarchy attempting to turn crop surpluses and a large population into industrial military strength. Orsevigne holds the royal administration; Tessarone concentrates arsenal work, supported by plantation and farming railways. Landed families retain influence over recruitment and produce, while royal commissioners favour factories and central procurement. Its armed forces can draw many soldiers, but transport and imported precision equipment constrain their deployment. Cervaud offers a market and a political buffer. In daily life the contrast is between estate authority, regimented industrial wards and expanding commercial towns, rather than between a uniformly modern capital and an empty countryside. Salterivo provides a charted coastal gateway, with defended access to Yssois. Royal coastal dependency with a governor, local fishing communities and an agricultural resupply station. Charted island harbours: Villessia.",
+        "year_review": "Tessarone completed an artillery refurbishment cycle while agricultural authorities expanded grain-store inspection and seed distribution. Imported precision fittings still limit motorisation; the army remains predominantly rail- and horse-supported. The monarchy renewed access arrangements with participating grain districts without taking over their estates."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "rovessara",
-      "confidence": 63,
-      "protection": 55,
-      "unrest": 34,
-      "daily_life": "Commercial towns offer varied food, manufactured goods and skilled employment. Rent and import prices press on dock labourers while finance and precision trades support conspicuous wealth.",
-      "politics": "Commercial representation and functioning contracts coexist with concentrated credit and unequal political access.",
-      "review": "Imported necessities, urban rents, labour disputes and colonial liabilities.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 64,
-          "sol": 17
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 31,
-          "sol": 27
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 5,
-          "sol": 46
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        0,
+        4
+      ],
+      "reason": "Commercial councils and elected harbour councils give organised interests voice; general resident rights are unspecified.",
+      "evidence": {
+        "description": "Rovessara is a merchant republic governed through commercial councils. Bellacenne houses finance and administration, Avellori supplies precision instruments and electrical apparatus, and Pellavore connects both to overseas buyers. Temperate farming districts, seasonal lowlands and a dry interior give its domestic economy several distinct faces. Banks and shipping houses can finance projects far beyond the republic, but they cannot manufacture uninterrupted sea lanes or unlimited raw materials. Its strength lies in skilled production, credit and trade rather than the largest army. Inland towns consequently matter as food suppliers and customers, not merely as lesser copies of its fashionable port cities. Republican overseas districts administered through elected harbour councils and Rovessaran customs officers. Charted island harbours: Marcavisse.",
+        "year_review": "Pellavore yards delivered replacement patrol tonnage and Bellacenne insurers accepted shared convoy reporting from participating Seravelle ports. Precision workshops adopted interchangeable inspection standards on selected export contracts. Talascan levy litigation forced colonial administrators to negotiate; commercial influence did not become sovereignty over independent ports."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "brannervaux",
-      "confidence": 62,
-      "protection": 58,
-      "unrest": 30,
-      "daily_life": "Cultivated districts and basin trades provide moderate security where water arrives reliably. Households below disputed gates face sharper uncertainty than prosperous engineering towns.",
-      "politics": "Water authorities and local assemblies offer remedies, but estate vetoes can delay repairs and shift burdens downstream.",
-      "review": "Water reliability and whether the maintenance compact reaches excluded estates.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 75,
-          "sol": 13
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 22,
-          "sol": 22
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 38
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        2,
+        3
+      ],
+      "reason": "Member cities and estates retain vetoes; the water compact creates negotiated obligations, not universal representation.",
+      "evidence": {
+        "description": "Brannervaux is a federation of basin cities, landed districts and water authorities. Rivessole hosts common government; Molessac's pumping and engineering works turn the management of scarce or badly timed water into a major export industry. Productive cultivation coexists with dry rain-shadow districts dependent on imported food and controlled supplies. Members cooperate over transport, maintenance and defence while retaining powers that can delay a common decision. Trade with Veldrassen's factories and neighbouring agricultural states is extensive. The federation is confined to its own territories: neither its river institutions nor its name imply rule over Otranto as a whole.",
+        "year_review": "Molessac crews restored worn lock gates and pump drives on the principal working waterways. A participating water-estate compact now coordinates maintenance windows and release notices; other estates retain their vetoes. Delivery became more predictable without adding a new navigable canal or enlarging the federal army."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "cervaud",
-      "confidence": 48,
-      "protection": 38,
-      "unrest": 44,
-      "daily_life": "Agricultural families have modest consumption and lose labour to mobilisation. Skilled town households fare better, but credit dependency limits room for public improvements.",
-      "politics": "Military prestige and landed privilege weigh heavily on ordinary households. Shorter reserve rotations ease a real burden without removing it.",
-      "review": "Harvest labour, foreign credit and renewed mobilisation demands.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 80,
-          "sol": 11
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 17,
-          "sol": 19
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 35
-        }
-      ]
+      "voice": [
+        0,
+        1
+      ],
+      "rights": [
+        0,
+        4
+      ],
+      "reason": "Hereditary court and officer institutions dominate; no general franchise or civil remedy is described.",
+      "evidence": {
+        "description": "Cervaud is a hereditary duchy whose court and officer institutions occupy Charvessant. Vezarolle's workshops support an army unusually important to public life, but cultivated lowlands, forest produce and upland farming sustain the civilian population. The duke bargains with larger Veldrassen and Ostrevain rather than enjoying complete strategic independence. Their credit and arms help preserve the frontier while giving foreign purchasers influence. Border markets also connect Cervaud with smaller neighbouring authorities. Rank and military service carry prestige, yet merchants, farmers and workshop households have livelihoods extending across the same boundaries that officers are expected to defend.",
+        "year_review": "Charvessant renewed its neutrality and transit arrangements while Vezarolle workshops concentrated on gun-carriage and wagon repairs. Shorter reserve rotations returned more workers to the harvest. Existing garrisons remain; neither larger neighbour obtained basing rights through this review."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "veylac",
-      "confidence": 60,
-      "protection": 60,
-      "unrest": 38,
-      "daily_life": "Industry supports substantial skilled wages and urban services, while imported food and fuel make household bills vulnerable. The damaged relay district remains less secure than recovered urban centres.",
-      "politics": "Municipal representation gives residents channels to contest policy; industrial labour disputes and uneven recovery still matter.",
-      "review": "Import prices, labour conditions and distribution of Hunter-strike recovery.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 68,
-          "sol": 16
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 28,
-          "sol": 25
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 4,
-          "sol": 42
-        }
-      ]
+      "voice": [
+        2,
+        3
+      ],
+      "rights": [
+        0,
+        4
+      ],
+      "reason": "Municipal representation and contested labour participation are explicit; civil remedies are not specified.",
+      "evidence": {
+        "description": "Veylac is an industrial republic centred on Alescogne's councils, Bellorante's machine-tool works and Rionvesse's ocean trade. Municipal and commercial representation gives organised towns influence, while labour's place in government remains contested. Temperate farming districts provision cold upland factories; dry interior towns specialise in transport and practical manufacturing. Skilled metallurgy gives the republic valuable exports and military equipment, but imported food and fuel remain strategic dependencies. Ossavren's divided neighbours create both markets and frontier risks. The republic's cities are linked by production and commerce, without sharing one uniform climate, social hierarchy or relationship with factory employers. Veylac customs and lighthouse districts protecting its southern approaches. Charted island harbours: Cavresset.",
+        "year_review": "Bellorante dispersed critical gauges and duplicate drawings after a Hunter strike on an outlying industrial relay and repair depot on 12/04/0068. Replacement communications restored the main service in Month 5; loss and workshop withdrawal exceeded completed armoured-vehicle returns. Rionvesse continued shipping. Machine-tool output recovered unevenly and exposed frontier sites still lack full redundancy."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "ossavren",
-      "confidence": 29,
-      "protection": 24,
-      "unrest": 68,
-      "daily_life": "Interrupted freight, coal fighting and rival tolls make food, heating and regular work unreliable. Secure enclaves and well-connected households retain comforts inaccessible to many residents.",
-      "politics": "People depend on competing courts and city authorities. Grain agreements help particular routes but do not provide consistent protection across the region.",
-      "review": "Whether the reopened grain corridor holds, local fighting and arbitrary tolls.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 84,
-          "sol": 8
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 13,
-          "sol": 16
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 32
-        }
-      ]
+      "voice": [
+        0,
+        2
+      ],
+      "rights": [
+        0,
+        2
+      ],
+      "reason": "Competing armed commands and separate tolls prevent dependable common authority or protection.",
+      "evidence": {
+        "description": "Ossavren denotes the territories of a broken crown, not a functioning nation with one army. Ossendrienne remains a vast former capital, while provincial commands, rival courts and autonomous commercial cities control their own taxation and troops. Tressavio trades through Veylac; other districts face Ostrevain or the Seravelle markets. Coal and petroleum resources give competing rulers valuable assets, but tolls, incompatible arrangements and local fighting divide their use. Shared food, family ties and railway habits survive the political fracture. Aggregate military and economic figures measure the whole region's resources; no claimant can simply issue orders to that combined total. Neravisse provides a charted coastal gateway, with defended access to Tatogia. A dependency of Neravisse’s municipal charter, not territory governed by a restored Ossavren crown. Charted island harbours: Cavralto.",
+        "year_review": "Fighting in Months 3–4 over coal feeders damaged rolling stock and workshops. A 19/05/0068 local grain-transit arrangement reopened negotiated services through participating authorities, while rival commands retained separate tolls and arsenals. Losses and cannibalisation exceeded repairs; less of the combined geographic army can now be sustained away from its bases. No claimant reunified the country."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "rovengard",
-      "confidence": 60,
-      "protection": 44,
-      "unrest": 30,
-      "daily_life": "Winter stores and valley agriculture support a restrained material life; distant districts have fewer goods and services. Administrative and trading households enjoy much better supply.",
-      "politics": "Crown protection is valued where it reaches, but distance and unequal access to officials limit practical remedies.",
-      "review": "Winter provisioning, spare parts and the reach of repair programmes.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 80,
-          "sol": 12
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 17,
-          "sol": 20
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 37
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        0,
+        4
+      ],
+      "reason": "Resident island councils are documented; the wider crown's household accountability is not specified.",
+      "evidence": {
+        "description": "Rovengard is Morholt's largest single monarchy, governed from Arvendal and linked to overseas trade through Halsavik. Eslovanne supplies general engineering, while productive southern districts support farming, food processing and timber industries. Cold northern towns depend on transport from those warmer basins. The crown's practical task is to keep provisions and obligations moving between communities separated by difficult country. Varnesk sells specialist machinery; Halskert and Galdresk are connected through local trade and provisioning routes. Large territorial claims and a substantial population therefore do not translate into an army free to abandon domestic roads, stores and defended settlements. Royal island districts with resident councils, coastal patrols and Halsavik supply contracts. Charted island harbours: Veltrund.",
+        "year_review": "Halsavik established a larger seasonal spare-parts reserve and Eslovanne workshops completed winter-damaged vehicle repairs. Timber and weather reports from Edrask now share the existing shipping post. Winter valleys remain restrictive; restored equipment does not create a year-round northern sea passage."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "varnesk",
-      "confidence": 52,
-      "protection": 40,
-      "unrest": 49,
-      "daily_life": "Skilled mining and industrial work can pay well; ordinary workers remain exposed to hard conditions and imported grain prices. Proprietors benefit disproportionately from mineral sales.",
-      "politics": "Mining councils and industrial owners offer uneven representation. Disputed concessions and dependence on employer-linked commerce sustain grievances.",
-      "review": "Grain costs, workplace protection and concession disputes.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 74,
-          "sol": 14
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 23,
-          "sol": 23
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 40
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        0,
+        4
+      ],
+      "reason": "Mining councils, proprietors and municipal councils govern; workforce voice and civil remedies are not established.",
+      "evidence": {
+        "description": "Varnesk is a league of mining councils and industrial proprietors meeting at Corsavik. Norsavia's specialist steel and machinery are valued across Morholt, and southern cultivated towns supply part of the league's food. Cold extraction districts still depend on imported grain and negotiated transport. Commercial relationships with Rovengard and the Haldrevik concessions give its firms influence beyond league borders. Industrial owners and municipal councils can agree on a profitable contract more readily than a prolonged foreign campaign. Technical skill is concentrated in workshops and training networks, not evenly distributed through every settlement or available without fuel, materials and labour. Rovensk provides a charted coastal gateway, with defended access to Garenorrin.",
+        "year_review": "Norsavia bearing and toolmakers fulfilled deferred maintenance orders, including machinery for Haldrevik. Buyers increasingly specify common gauges and replacement dimensions. Factory throughput improved without a new class of weapon; imported food and disputed foreign concessions still constrain expansion."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "galdresk",
-      "confidence": 69,
-      "protection": 64,
-      "unrest": 25,
-      "daily_life": "Material consumption is moderate, with shelter and medical institutions improving security beyond what cash output alone suggests. Remote settlements still have less access than defended towns.",
-      "politics": "Wardens, orders and estates exercise substantial authority, but established shelter and care obligations give residents meaningful expectations.",
-      "review": "Hospice reach, winter stores and whether service obligations are honoured.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 78,
-          "sol": 14
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 19,
-          "sol": 21
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 33
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        2,
+        3
+      ],
+      "reason": "Chartered institutions owe shelter, patrol and care, but access is not universal and ordinary electoral voice is unspecified.",
+      "evidence": {
+        "description": "Galdresk is a wardenship of chartered orders, estates and civilian towns. Grevallier's medical and teaching institutions and Verniselle's instrument makers give it influence disproportionate to its small industrial base. Farming districts below the colder uplands help provision isolated communities; railways and negotiated access remain essential. Some houses preserve the older arts alongside practical medicine, but genuine practitioners are scarce and do not constitute a mass magical army. Neighbouring rulers value trained personnel and advice. Within Galdresk, obligations of shelter, patrol and care give institutions social authority without making every resident an initiate or every town a monastery. Orlavik provides a charted coastal gateway, with defended access to Millvik. Wardenship navigation and shelter claims. Seasonal landings and small service crews do not imply a dense iceward population.",
+        "year_review": "Grevallier teaching houses completed another supervised healer and ordinary medical-assistant intake. Verniselle instrument makers standardised a small range of repairable surgical tools. Referral letters and duplicated teaching notes circulate between participating houses; neither a national psychic register nor a universal healing service exists."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "halskert",
-      "confidence": 64,
-      "protection": 59,
-      "unrest": 29,
-      "daily_life": "Grain-producing households and river towns benefit from food access and trade. Labourers have fewer comforts than commercial families, but storage improvements reduce some seasonal vulnerability.",
-      "politics": "Commercial and agricultural authorities bargain over water and transport; residents' influence varies with property and locality.",
-      "review": "Grain prices, water control and the spread of drying improvements.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 76,
-          "sol": 14
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 21,
-          "sol": 22
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 36
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        0,
+        4
+      ],
+      "reason": "River, commercial and elected port authorities bargain; general resident remedies remain unspecified.",
+      "evidence": {
+        "description": "Halskert is a republic of river towns, agricultural districts and commercial authorities. Orsendal coordinates government and grain trade; Tresselund manufactures equipment for farms and water works. Productive temperate districts make the republic an important supplier to colder neighbours, while warmer pockets add different crops to its exports. Mill owners, merchants and water authorities bargain over maintenance, freight and taxation. Its transport experience supports defence, but fuel imports and seasonal conditions constrain distant operations. Galdresk buys provisions and trades specialist goods, while Rovengard is both a customer and competitor. Civilian food production is a source of power here, not background scenery. Seldavre provides a charted coastal gateway, with defended access to Orsendal. Republican grain-shipping dependencies with elected port boards and permanent fishing settlements. Charted island harbours: Seldren.",
+        "year_review": "Tresselund completed repairs to grain-drying and water-control machinery before the next storage cycle. Seldavre exporters agreed shared inspection certificates with participating northern buyers. Local militia replacement training continued, with no material net expansion of the small military inventory."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "tervayne",
-      "confidence": 59,
-      "protection": 49,
-      "unrest": 37,
-      "daily_life": "Ports offer skilled work, imported goods and commercial opportunity; inland households face slower access and fewer services. Shipping wealth is far from evenly distributed.",
-      "politics": "Port families and industrial firms dominate national choices, while agricultural districts contest their share of costs.",
-      "review": "Food and fuel imports, naval taxation and inland transport access.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 68,
-          "sol": 16
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 28,
-          "sol": 25
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 4,
-          "sol": 43
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        0,
+        4
+      ],
+      "reason": "Port families, commercial houses and resident port councils influence government; general legal protection is unspecified.",
+      "evidence": {
+        "description": "Tervayne is a western Vesalian maritime state whose government and commercial houses occupy Tervessac. Tervassin handles ocean shipping; Brescalle builds marine and civil machinery. Cultivated districts supply provisions while upland towns provide timber and manufactured goods. Its trading networks face Otranto and Morholt across the western ocean, with only indirect connections to the eastern Marches through intervening governments and difficult country. Maritime wealth supports naval supply and overseas influence, not unrestricted inland conquest. Port families, industrial firms and agricultural districts consequently have different priorities, even when foreign merchants describe them collectively as a seafaring people. Overseas supply and navigation districts maintained by Tervayne’s maritime administration and resident port councils. Charted island harbours: Ostrelac.",
+        "year_review": "Brescalle supplied replacement marine engines and Tervassin commissioned replacement escort tonnage after older vessels were paid off. Naval trainees rotate through working repair yards. The maritime programme improved availability, but no through-railway to the Eastern Marches was built."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "vardol",
-      "confidence": 57,
-      "protection": 37,
-      "unrest": 40,
-      "daily_life": "Farm and industrial households bear substantial military demands. Procurement supports some jobs, but frontier uncertainty competes with ordinary household priorities.",
-      "politics": "Crown and supplier interests carry more weight than poorer residents. De-escalation reduces immediate alarm without ending the burden.",
-      "review": "Frontier rotation costs, taxation and whether liaison prevents renewed escalation.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 78,
-          "sol": 12
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 19,
-          "sol": 21
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 39
-        }
-      ]
+      "voice": [
+        0,
+        1
+      ],
+      "rights": [
+        0,
+        4
+      ],
+      "reason": "Royal military administration and suppliers dominate; no broad resident franchise or remedy is established.",
+      "evidence": {
+        "description": "Vardol is a northern realm centred on Estrevigne's royal and military administration. Caldovre and surrounding cold-country cities concentrate arsenals, engineering and fuel processing; productive southern districts around Belmerac help feed them. The state can support a large military establishment but must also defend long supply routes and its rivalry with Averholt. Caldrienne is reached by the Valdrec road, not held as a subordinate province. Army procurement gives industrial suppliers political influence, while landed and commercial interests negotiate the cost. Its apparent strength therefore rests on maintaining a demanding system of food, fuel and transport rather than manpower alone. Calvessac provides a charted coastal gateway, with defended access to Quillaux. Northern crown claims maintained by lighthouse crews and seasonal naval stores. Remote interiors are not continuously occupied.",
+        "year_review": "A Month 8 frontier exercise and supply rotation alarmed Averholt. Month 9 liaison observers and advance exercise notices reduced the immediate risk of miscalculation without resolving territorial claims. Caldovre completed replacement armour and gun returns; frontier commitments still absorb the same broad share of the field force."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "averholt",
-      "confidence": 61,
-      "protection": 49,
-      "unrest": 32,
-      "daily_life": "Provincial stores buffer cold districts, though mountain households have limited choice and slow supply. Town trades and larger owners have more secure consumption.",
-      "politics": "Provincial bargaining restrains some central demands but makes protection uneven between districts.",
-      "review": "Winter stores, reserve rotations and relations with Vardol.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 78,
-          "sol": 13
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 19,
-          "sol": 21
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 37
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        2,
+        3
+      ],
+      "reason": "Provincial institutions protect local stores and troops against central demands; this is collective, not universal household protection.",
+      "evidence": {
+        "description": "Averholt is a predominantly inland realm held together by provincial bargains. Avercenne conducts common government, Rocavane concentrates mountain engineering, and lower cultivated districts supply the cold upland towns. Rivalry with Vardol competes with domestic defence for resources. Western rail links support trade with Tervayne, while Chalicchio's road reaches Karsenne and the eastern Marches. Provincial institutions protect their own stores and troops, limiting what the central government can concentrate elsewhere. Agricultural merchants, upland industrial firms and landed councils thus contribute different kinds of strength. The realm is a substantial neighbour with internal commitments, not a continent-wide power waiting to absorb every smaller state. Bravessac provides a charted coastal gateway, with defended access to Vetenavaux. Claims administered by the northern coastal province; fishing landings and seasonal shelters receive supplies from Bravessac.",
+        "year_review": "Avercenne answered Vardol’s Month 8 exercise with precautionary garrison rotations, then accepted reciprocal exercise notices. Rocavane prioritised lorry, carriage and field-gun repair over fleet or armour expansion. The Chalicchio road remained open to cleared trade; no general mobilisation or battle followed."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "serevask",
-      "confidence": 61,
-      "protection": 59,
-      "unrest": 33,
-      "daily_life": "Mountain households combine modest goods access with technical and communal institutions. Trade and water arrangements matter strongly to work and provisioning.",
-      "politics": "Republican institutions retain local legitimacy; inherited debts and disputes constrain what they can deliver.",
-      "review": "Water releases, repair work and the distribution of debt costs.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 75,
-          "sol": 13
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 22,
-          "sol": 22
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 35
-        }
-      ]
+      "voice": [
+        0,
+        4
+      ],
+      "rights": [
+        0,
+        4
+      ],
+      "reason": "A republic and archives are established, but neither franchise coverage nor household remedies are specified.",
+      "evidence": {
+        "description": "The Serevask Republic governs its own mountain, upland and forest districts from Serevienne. Vallorise remains an important engineering city, connected commercially to the states that once shared a southern basin federation. Varnelle, Kelbrun and Gavrel now levy their own taxes and command their own forces; old charters create claims over debts and water, not effective Serevask sovereignty. The republic retains archives, technical institutions and useful workshops, but has neither the population nor authority of the former union. Its citizens include mountain households dependent on lower provisions and lowland manufacturers dependent on cross-border customers. It has never governed Vesalius as a whole.",
+        "year_review": "A seasonal water-release and freight-document protocol was signed with participating Varnelle and Kelbrun authorities on 07/07/0068. Vallorise filtration workshops began exchanging repair specifications under it. Reconstruction debts and sovereignty remain disputed; Gavrel houses participate individually rather than through a restored federation."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "varnelle",
-      "confidence": 60,
-      "protection": 52,
-      "unrest": 34,
-      "daily_life": "Delta cultivation and engineering provide moderate material security, with richer commercial ports beside less prosperous agricultural districts. Water and freight failures quickly reach household budgets.",
-      "politics": "Commercial and water authorities supply useful services but also command powerful bargaining positions over inland customers and workers.",
-      "review": "Delivery reliability, customs burdens and access to basin repairs.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 73,
-          "sol": 14
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 24,
-          "sol": 23
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 39
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        0,
+        4
+      ],
+      "reason": "Port, water and commercial authorities have influence; individual household remedies are unspecified.",
+      "evidence": {
+        "description": "Varnelle is a delta state administered through port, water and commercial authorities centred on Varnessa. Serravole's shipping and Ceralvigne's engineering connect cultivated forest districts with overseas markets. Independence from Serevask followed disputes over reconstruction debts and customs after the former federation ceased functioning. Railway and business relationships survived that break. Merchants and water boards have considerable influence, while military establishments defend strategic approaches rather than replace civilian government everywhere. Rivessac, Kelbrun and Gavrel supply neighbouring markets. Control of freight and water makes Varnelle consequential to inland customers, but those customers remain separate political communities. Delta-authority island districts with customs houses, repair yards and provisioning farms. Charted island harbours: Cervallune.",
+        "year_review": "Varnessa and Serravole began using the Month 7 basin protocol for declared cargo and water notices. Ceralvigne filter and pump repairs reduced missed deliveries on participating routes. Customs revenue remains locally controlled; the agreement did not pool armies or cancel inherited debts."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "kelbrun",
-      "confidence": 39,
-      "protection": 25,
-      "unrest": 57,
-      "daily_life": "Plantation output does not translate into comfortable lives for most workers. Grain and livestock districts offer different livelihoods; technical and estate households command far greater purchasing power.",
-      "politics": "Estate labour obligations and unequal commercial access are central grievances. Delivery arbitration has not settled labour conditions.",
-      "review": "Coercive obligations, land access and whether machinery gains reach workers.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 84,
-          "sol": 9
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 13,
-          "sol": 18
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 36
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        0,
+        2
+      ],
+      "reason": "Powerful plantations and contested estate labour obligations limit protection; limited delivery arbitration is not a labour-rights settlement.",
+      "evidence": {
+        "description": "Kelbrun is an independent state of councils and powerful plantation interests governed from Kelbrienne. Oreviano's rubber chemistry and filtration industries turn cultivated resources into valuable manufactured exports. Seasonal uplands supply grain and livestock alongside the wetter districts' plantation products. Estate labour obligations and commercial access shape politics as much as formal council debates. Serevask is a former federal partner and continuing industrial customer; Varnelle and Calvernis provide other trading connections. Army posts secure routes and production districts, but the country's influence chiefly rests on useful materials, technical knowledge and agricultural trade. Its population does not share one estate, employer or social standing. Cervellane provides a charted coastal gateway, with defended access to Cambrelet. Council-administered island dependency with plantation suppliers, fisheries and bonded stores. Charted island harbours: Marcellune.",
+        "year_review": "Kelbrienne adopted the Month 7 basin freight forms and Oreviano workshops repaired imported pumps using shared fitting specifications. Plantation representatives accepted limited delivery arbitration. Labour conditions and estate power remain contested; machinery imports still limit how widely the improvements can spread."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "gavrel",
-      "confidence": 46,
-      "protection": 35,
-      "unrest": 44,
-      "daily_life": "Most households rely on local agricultural and forest markets with limited purchased comforts. Patronage and fragmented tolls affect access to tools and work.",
-      "politics": "House courts provide differing protections; there is no equally accessible common remedy or unified authority.",
-      "review": "House disputes, freight participation and imported repair costs.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 83,
-          "sol": 10
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 14,
-          "sol": 18
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 34
-        }
-      ]
+      "voice": [
+        0,
+        1
+      ],
+      "rights": [
+        1,
+        2
+      ],
+      "reason": "House courts and patronage determine access; separate charters provide limited rather than general recourse.",
+      "evidence": {
+        "description": "Gavrel is a group of chartered march houses with limited common institutions at Gavrielle. Each house retains its own courts and levies; Mesrienne's workshops and local markets connect their economies without erasing that autonomy. Former federal links to Serevask survive as railways, debts and commercial relationships. Varnelle and the southern cantons offer additional buyers for agricultural and forest products. Local guarantors and patronage matter to travel and trade because no single ministry controls every transaction. The combined return describes their shared resources, while actual military cooperation depends on agreements among houses rather than an automatic unified command. Montalive provides a charted coastal gateway, with defended access to Lesigne. Dependencies of individual march houses under a common coastal supply compact; no unified Gavrel navy or crown is implied. Charted island harbours: Loravise.",
+        "year_review": "Several Gavrielle march houses joined the basin notice scheme and recognised each other’s declared freight seals. Other houses stayed outside. Mesrienne repairers benefited from more predictable orders; this is cooperation between courts, not a unified national government or a larger combined army."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "other-otranto-400",
-      "confidence": 44,
-      "protection": 34,
-      "unrest": 47,
-      "daily_life": "Tenant households face debt and restricted access to cleared land while harbour and plantation owners profit from exports. Predictable seasonal tolls offer some relief to trade.",
-      "politics": "Separate land courts and toll assemblies favour different patrons. Tenants' leverage remains weaker than creditors'.",
-      "review": "Land debt, toll enforcement and expiry of harvest-season agreements.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 82,
-          "sol": 10
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 15,
-          "sol": 19
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 35
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        1,
+        2
+      ],
+      "reason": "Commercial assemblies and separate land courts exist, while tenant debt and plantation checkpoints limit household leverage.",
+      "evidence": {
+        "description": "The cantons grew out of harbour and plantation charters left without a royal guarantor after the last major culling. Jougrenne convenes the coastal toll assembly; Nantac administers a separate inland land court. Neither can tax the other’s households. Harbour dues fund escorts while plantation owners pay for roads and demand control of the checkpoints. Veldrassen buys tropical produce and timber here, but its purchasing agents face competing canton tariffs rather than a single ministry. Tenant disputes centre on debt and access to cleared farmland; the assembly meets over commercial quarrels, not to command a national army. Lorrevento provides a charted coastal gateway, with defended access to Chignoro. Separate canton harbour dependencies; local fishing rights and harbour dues remain with the charter communities. Charted island harbours: Vessantine.",
+        "year_review": "Jougrenne brokers and Nantac land courts agreed a harvest-season toll schedule on participating roads. Lorrevento merchants can quote those journeys with fewer ad hoc charges. Rival toll holders and plantation jurisdictions remain; no common army or permanent customs union was created."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "other-otranto-700",
-      "confidence": 50,
-      "protection": 41,
-      "unrest": 39,
-      "daily_life": "Ordinary households have modest farm and wool incomes with costly winter transport. Charter towns and well-financed shipping houses are appreciably better supplied.",
-      "politics": "Town privileges protect some merchants; residents outside those charters depend more on estate courts and changing rights of passage.",
-      "review": "Fodder, toll changes and access to witnessed trading weights.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 81,
-          "sol": 11
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 16,
-          "sol": 19
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 35
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        1,
+        2
+      ],
+      "reason": "Market charters protect merchants from estate levies; this recorded privilege is not universal protection.",
+      "evidence": {
+        "description": "A chain of small courts and charter towns occupies the southwestern approaches. Collengo’s market charter protects merchants from estate levies, while the lords around Peregia claim payment for escorting their wagons. Winter fodder and access through the uplands matter more than distant dynastic titles. Albaret brokers wool and preserved food between the courts. Marriage contracts frequently change toll rights without moving a border; merchants employ local advocates to interpret them. Southern sea trade offers an alternative to the roads, but only to houses able to finance a shipment. Vellorito provides a charted coastal gateway, with defended access to Totarosco. Dependencies of individual coastal principalities, linked by a limited pilotage compact rather than a new island kingdom. Charted island harbours: Monteliva.",
+        "year_review": "Collengo and Peregia brokers coordinated fodder contracts and wool grading before winter. Albaret factors now use witnessed weights on participating sales. Mountain supply remains seasonal and individual lords retain their forces; equipment turnover leaves the rounded regional military return broadly level."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "other-otranto-1100",
-      "confidence": 53,
-      "protection": 45,
-      "unrest": 40,
-      "daily_life": "Grain, milling and fertiliser work support households when releases arrive on time. A withheld gate can threaten livelihoods far beyond the immediate dispute.",
-      "politics": "Separate water commands and councils offer negotiated protection, unevenly enforced across estate boundaries.",
-      "review": "Gate maintenance, water allocation and enforceability of arbitration.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 80,
-          "sol": 11
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 17,
-          "sol": 20
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 35
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        2,
+        3
+      ],
+      "reason": "Commercial and estate councils share an enforceable water compact and arbitration; representation remains sectional.",
+      "evidence": {
+        "description": "Anselleuil’s reservoir command, Jarnan’s commercial council and the estate assemblies around Votane share a drainage basin but not a government. Their water compact survived the destruction of the authority that first imposed it. Gates must open in an agreed order; delaying an upstream release can destroy a downstream planting season. Brannervaux engineers are employed as arbitrators and suspected of favouring their own merchants. Grain barges, mill repair and fertiliser works sustain the towns. Disputes usually begin as inspections, impoundments and unpaid maintenance bills before soldiers become involved. Cortelune provides a charted coastal gateway, with defended access to Leignay. Offshore charter communities of the basin leagues, sharing pilots and navigation dues without a unified sovereign. Charted island harbours: Cernavie.",
+        "year_review": "Anselleuil reservoir keepers and Jarnan councils renewed the water-sharing compact with Votane estates, using Brannervaux arbiters for disputed measurements. Scheduled gate maintenance was completed. The renewal reduced local delivery disputes without settling all estate claims or creating a federal treasury."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "other-otranto-1450",
-      "confidence": 48,
-      "protection": 40,
-      "unrest": 47,
-      "daily_life": "Harbour trade supports relatively comfortable skilled households, while indebted rural producers face foreclosure and expensive necessities. Safer convoy departures help without securing every feeder route.",
-      "politics": "Commercial conventions protect cargo better than they resolve unequal rural credit or rival seizure claims.",
-      "review": "Freight security, harvest debt and disputed cargo seizures.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 76,
-          "sol": 12
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 21,
-          "sol": 21
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 38
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        1,
+        2
+      ],
+      "reason": "Harbour and estate jurisdictions retain local criminal law, while contested seizures and foreclosures limit practical recourse.",
+      "evidence": {
+        "description": "Astrellac’s harbour republic and the inland estate courts share the eastern littoral with smaller free ports. Their commercial convention standardises bills of lading but leaves taxes and criminal law local. Shipping families advance money against harvests; rural houses resent foreclosures by creditors who never leave the coast. Rovessaran insurers and instrument makers are influential customers. Port patrols cooperate against raiders, yet seize one another’s cargo when a debt dispute turns political. Hinterland towns depend on export warehouses for salt, tools and credit, which gives the harbours power beyond their formal borders. Astrellac’s chartered island dependencies within the Seravelle return. Resident councils administer land and fisheries; Astrellac supplies customs officers, escorts and bonded fuel depots. The other Seravelle courts remain independent. Charted island harbours: Cortessia, Vasselac, Rovellisse.",
+        "year_review": "Astrellac and participating ports began coordinated convoy departures and shared seizure notices on 18/06/0068. Successful escorts reduced exposure on the main trading axis; raiders shifted toward smaller feeders and isolated sailings. Rovessaran insurance now recognises those escorted departures, while contested debt seizures still require case-by-case judgement."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "other-morholt-1880",
-      "confidence": 34,
-      "protection": 23,
-      "unrest": 63,
-      "daily_life": "Concession workers depend on imported food and employer-linked transport; interruption threatens wages and supplies together. Owners retain a much richer standard despite local losses.",
-      "politics": "Armed intimidation, lease disputes and contested bonds make redress unreliable. The escrow settlement covers participating claims only.",
-      "review": "Strike aftermath, Hunter damage, charter enforcement and grain access.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 82,
-          "sol": 9
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 15,
-          "sol": 20
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 39
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        1,
+        2
+      ],
+      "reason": "Charter lawsuits and escrow exist alongside unresolved armed intimidation; partial settlement is not general protection.",
+      "evidence": {
+        "description": "Concession houses hold time-limited rights to timber, minerals and fuel rather than sovereignty over every inhabitant. Asanetz keeps the surviving charter archive; Alauvenne houses one of the armed inspection posts. A house can own a railway and still owe rent to the community beneath it. Varnesk firms provide machinery and credit, exchanging technical dependence for preferred ore contracts. Charter renewals provoke strikes, armed intimidation and lawsuits over restoration bonds. Settlements outside a concession bargain for patrols in return for provisions; a company’s withdrawal can be more frightening than its arrival. Trelovre provides a charted coastal gateway, with defended access to Arinrin. Island shore communities under Haldrevik charter protection. Concession leases cover named working sites, not ownership of all inhabitants. Charted island harbours: Rovensac.",
+        "year_review": "Armed renewal disputes interrupted some concessions in Month 2. A Month 6 escrow-and-inspection settlement reopened participating sites; a 03/07/0068 Hunter strike then destroyed a remote repair shed and stores. Varnesk replacements restored basic workings by Month 8, but armed vehicles and guns remained below the opening serviceable return. Nonparticipating claims are unresolved."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "other-morholt-2190",
-      "confidence": 59,
-      "protection": 49,
-      "unrest": 35,
-      "daily_life": "Winter survival rests on stores, convoy access and reciprocal shelter. Ordinary households have few luxuries; invited hospices improve care in some districts.",
-      "politics": "Wardens owe protection, but scarcity tests those obligations and can turn requisition into lasting exaction.",
-      "review": "Store access, hospice provision and temporary levies becoming permanent.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 82,
-          "sol": 12
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 16,
-          "sol": 20
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 2,
-          "sol": 32
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        1,
+        3
+      ],
+      "reason": "Civilian assemblies contest requisitions; shelter duties and mutual stores exist but performance is disputed under scarcity.",
+      "evidence": {
+        "description": "Dananske, Dreinvar and Ferorvik anchor separate wardholds along the northern approaches. Each warden owes shelter to the villages that provision a fortress, but the obligation is disputed when stores run short. Their annual muster negotiates convoy schedules and exchanges hostages against broken promises; it does not elect a king. Galdresk medical houses maintain small hospices by invitation. Imported grain is strategically more important than ceremonial claims to the iceward interior. Officers measure influence in serviceable engines and winter stores, while civilian assemblies try to keep temporary requisitions from becoming permanent rent. Veltroven provides a charted coastal gateway, with defended access to Kerenvenne. Claims of adjacent wardholds, maintained by fishing visits and seasonal convoy shelters rather than continuous occupation.",
+        "year_review": "Dananske, Dreinvar and Ferorvik wardholds renewed mutual winter-store access and hospice referrals with Galdresk. Veltroven assembled shared replacement fittings for the next shipping season. The agreement binds participating holds, not a newly restored monarchy; military totals remain dispersed."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "other-morholt-2630",
-      "confidence": 46,
-      "protection": 34,
-      "unrest": 46,
-      "daily_life": "Fishing and timber households rely on imported grain and seasonal work. Port merchants and large estates enjoy much greater security than shore crews.",
-      "politics": "Customary fishing rights remain vulnerable to estate claims; seasonal settlements offer limited protection.",
-      "review": "Grain freight, shore access and succession disputes.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 81,
-          "sol": 11
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 16,
-          "sol": 19
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 35
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        1,
+        2
+      ],
+      "reason": "Elected commercial port officers coexist with estate bailiffs and contested customary fishing access.",
+      "evidence": {
+        "description": "The eastern estates descend from competing settlement grants, with Varkessant’s port charter carved out of the landed claims. Estate bailiffs administer courts and patrol obligations; the port elects its own commercial officers. Fishing communities resist attempts to classify their customary shore access as a landlord’s concession. Halskert buys fish and timber and sells grain, giving its merchants leverage in disputes over freight. Family alliances cross estate borders, but succession cases repeatedly fragment holdings. Seasonal workers move between shore crews and inland workshops, carrying news faster than the formal post. Varkessant’s port-charter dependencies; the mainland estate courts retain their separate jurisdictions. Charted island harbours: Cersund.",
+        "year_review": "Varkessant buyers renewed Halskert grain contracts and Cersund estates accepted a seasonal fishing-access settlement. Harbour repairs returned a small patrol craft to service. House and harbour rights remain separate, and access after winter ice still depends on local pilots."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "other-vesalius-2790",
-      "confidence": 49,
-      "protection": 38,
-      "unrest": 43,
-      "daily_life": "Cultivated valleys and textile or wagon work sustain modest consumption. Repeated tolls reduce ordinary purchasing power while patron-backed towns fare better.",
-      "politics": "Protections change between lordships, town liberties and clients. Shared manifests ease inspections but leave separate power structures intact.",
-      "review": "Tolls, foreign subsidies and the cost of secure passage.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 79,
-          "sol": 12
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 18,
-          "sol": 20
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 36
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        1,
+        2
+      ],
+      "reason": "Town liberties and councils exist within fragmented lordships and incompatible toll jurisdictions.",
+      "evidence": {
+        "description": "The western marches form a belt of fortified lordships, town liberties and cultivated valleys between larger powers. Temevaux’s command guards a road junction; Malinne’s council controls a different customs district. Neither speaks for the entire belt. Tervayne merchants finance road repairs in exchange for bonded warehouses, while inland patrons subsidise rival toll houses. Small rulers survive by alternating clients and keeping neighbouring courts divided. Textile finishing, estate agriculture and wagon repair support a population far larger than its thinly charted principal towns suggest. A traveller’s permit may be valid for one bridge and useless at the next. Orsavie provides a charted coastal gateway, with defended access to Balbrenne. Chartered island lordships tied to the western marches by supply contracts; Tervayne has commercial privileges, not sovereignty. Charted island harbours: Lorvesset.",
+        "year_review": "Temevaux road authorities and Malinne customs offices adopted a shared transit manifest for participating carriers. Tervayne-backed warehouse agents extended repair and storage scheduling at Orsavie. The agreement reduces duplicate inspections without removing separate toll jurisdictions or creating through-rail service."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "other-vesalius-2790-1410",
-      "confidence": 55,
-      "protection": 48,
-      "unrest": 38,
-      "daily_life": "Granaries and market farming support basic security, though requisitions can remove household reserves. Commercial and landed families remain more comfortable.",
-      "politics": "Elected boards, governors and estate courts compete. Written requisition limits improve recourse only where accepted and enforced.",
-      "review": "Harvest adequacy, requisition receipts and competing transport demands.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 79,
-          "sol": 13
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 18,
-          "sol": 21
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 35
-        }
-      ]
+      "voice": [
+        2,
+        3
+      ],
+      "rights": [
+        2,
+        3
+      ],
+      "reason": "Elected grain boards secured limits and receipts for requisitions with appeal rights; only participating authorities are bound.",
+      "evidence": {
+        "description": "Southern market cantons rebuilt around local granaries after the last major culling. Margeuil’s elected grain board, Darnenne’s military governor and the landed councils around Galigny compete over transport dues. Common measures for grain survived; a common treasury did not. Merchants connect warm lowland crops with cooler interior districts, using brokers who can guarantee passage through several authorities. Kelbrun buyers seek plantation produce and seasonal labour. Municipal councils resist the governors’ claim that every warehouse is a military asset, particularly after poor harvests make requisitions politically dangerous. Pravessant provides a charted coastal gateway, with defended access to Peillier. Dependencies of individual southern cantons, governed through resident councils and grain-shipping charters. Charted island harbours: Cervelune.",
+        "year_review": "Margeuil grain merchants secured written limits and receipts for requisitions by participating Darnenne commands. Galigny estate courts retain appeal rights. Repair workshops concentrated on wagons and artillery carriages; the settlement eased harvest transport but left the regional forces politically divided."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "other-vesalius-3160",
-      "confidence": 57,
-      "protection": 51,
-      "unrest": 34,
-      "daily_life": "Coastal trade and agriculture provide moderate livelihoods. Seasonal crews and inland villages have less predictable access than chartered port households.",
-      "politics": "Communes and houses keep separate rights; pilot and merchant influence exceeds that of casual workers.",
-      "review": "Seasonal employment, inland roads and harbour fees.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 78,
-          "sol": 13
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 19,
-          "sol": 21
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 36
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        1,
+        2
+      ],
+      "reason": "Port communes and island councillors coexist with hereditary land control and contested seasonal labour.",
+      "evidence": {
+        "description": "Saultac is the best-charted inland market in a southeastern coastal region of small port communes and hereditary agricultural districts. Mainland and island harbours now complement the inland market on the chart. Pilots’ guilds set practical terms for coastal travel; inland houses control cultivated land and the roads supplying the harbours. Ceralte brokers buy provisions here without governing the coast. Rival communes share storm warnings but guard their harbour soundings. The region’s political disputes concern port fees, seasonal labour and who funds guarded access to inland markets, rather than a single national succession. Vessaline provides a charted coastal gateway, with defended access to Saultac. A dependency of the coastal port commune, governed by its harbour charter and resident island councillors. Charted island harbours: Vallarive.",
+        "year_review": "Vessaline and Vallarive pilot guilds issued revised local soundings and coordinated stores for visiting coasters. Saultac merchants accepted the new schedules. Ceralte buyers retain commercial access without Admiralty jurisdiction; no new channel or ocean route was created."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "karsenne",
-      "confidence": 64,
-      "protection": 57,
-      "unrest": 33,
-      "daily_life": "Skilled engineering and mining support better town consumption than many agricultural neighbours. Imported food and costly coastal transfers erode the benefit for ordinary households.",
-      "politics": "Autonomous councils offer local voice and defended approaches, with unequal influence among districts and occupations.",
-      "review": "Mine safety, food imports and freight charges; the proposed railway is not yet a benefit.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 74,
-          "sol": 14
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 23,
-          "sol": 23
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 37
-        }
-      ]
+      "voice": [
+        1,
+        3
+      ],
+      "rights": [
+        0,
+        4
+      ],
+      "reason": "Autonomous mining councils and fortress districts bargain; household membership and enforceable civil remedies are unspecified.",
+      "evidence": {
+        "description": "Drossane hosts common business for autonomous mining councils and fortress districts. The Compact is a federation rather than a unified hereditary realm. Ores, engineering skills and defended approaches sustain its bargaining power, but coastal freight charges consume export income. Valley workshops and cultivated pockets support the upland economy. Veyrasse remains an uneasy defensive partner and vital outlet. A direct railway toward Calvernis is sought, not operating; existing roads do not provide an equivalent bulk-freight service.",
+        "year_review": "Drossane councils expanded duplicate assay and mine-safety records and completed a field-gun repair cycle. Existing road and port transfers still carry foreign trade. Negotiators continued the proposed Calvernis railway survey; construction and through-service have not begun. The guesthouse attackers’ real allegiance has not become a public finding."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "caldrienne",
-      "confidence": 54,
-      "protection": 32,
-      "unrest": 43,
-      "daily_life": "Productive valleys and arsenals sustain employment, but military commitments and elite consumption absorb much of the surplus. Frontier households bear particularly heavy disruption.",
-      "politics": "Central ducal supervision supplies order with limited popular leverage. Rival estate and arsenal interests do not imply an already collapsing state.",
-      "review": "Border levies, fuel imports, harvest disruption and military requisitions.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 79,
-          "sol": 12
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 18,
-          "sol": 21
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 40
-        }
-      ]
+      "voice": [
+        0,
+        1
+      ],
+      "rights": [
+        0,
+        4
+      ],
+      "reason": "Ducal control is centralised around estate and arsenal interests; no general resident remedy is established.",
+      "evidence": {
+        "description": "Valdrec houses the ducal administration and principal army depots. Productive valleys support estate agriculture and armament towns; the state fields strong infantry, artillery and a comparatively large armoured force. Ducal supervision is more centralised than in Veyrasse, though estate and arsenal interests still compete for resources. The unresolved Cressault claim strains an armed truce. Northern obligations and imports of Karsenne ore prevent its government from directing every resource against the March. Cressavelle provides a charted coastal gateway, with defended access to Valdrec.",
+        "year_review": "Valdrec’s depots accepted replacement armour, aircraft and artillery while withdrawing worn equipment. Cressault commanders completed local crossing and irrigation repairs after exchanges of fire in Months 3–4, retaining reinforced posts under the armistice. The force remains much larger than Veyrasse’s; no public intelligence purge or proven collapse of command followed the covert cell’s report."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "veyrasse",
-      "confidence": 59,
-      "protection": 48,
-      "unrest": 38,
-      "daily_life": "Auvrienne and Serravonne offer skilled work and improving water or railway services; poorer tenants and labourers still have little spare income. Well-connected houses enjoy far greater comfort.",
-      "politics": "Chartered institutions permit bargaining and advancement through education or patronage. Poor households bear disproportionate dangerous service; influence shapes access to justice.",
-      "review": "Conscription fairness, wages versus food and rent, and whether civil improvements reach poorer districts. The small rifle trial has no assumed national welfare effect.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 76,
-          "sol": 13
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 21,
-          "sol": 22
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 39
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        1,
+        2
+      ],
+      "reason": "Chartered municipal institutions and railway unions have leverage, but poorer households carry disproportionate service obligations and advancement depends on patronage.",
+      "evidence": {
+        "description": "The charter balances the Margrave, landed houses, municipal councils and industrial proprietors. Auvrienne holds the court and government; Serravonne is a secondary port and rail junction. Coastal agriculture and workshops depend on inland ores and imported machinery. Railway unions can disrupt mobilisation, and poorer households bear disproportionate service obligations. Caldrienne remains the principal territorial rival; Karsenne is an essential supplier, while Calvernis and Ceralte provide competing maritime connections. The Margrave commands the standing army and foreign relations, while chartered institutions provide much of the money, manpower and transport. Education and engineering offer advancement through patronage. Railway superintendent Leont Vardesca governs railway affairs and dependants, not Serravonne’s government or army.",
+        "year_review": "Auvrienne’s authorised second pumping stage entered service on 04/04/0068; operating acceptance of the uphill pressure controls followed on 10/06/0068. Cevrane’s crews now maintain the two commissioned replacement stages beside retained older sections. Serravonne railway workshops spread revised maintenance checks. Conventional repair and replacement programmes modestly improved military availability; Galahad’s new rifle and carrier remain unbuilt."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "calvernis",
-      "confidence": 58,
-      "protection": 48,
-      "unrest": 40,
-      "daily_life": "Ports offer varied goods and skilled maintenance work, but household costs depend on imported food and fuel. Banking and shipping families live much better than casual workers.",
-      "politics": "Restricted franchise privileges commercial families. Reliable contracts and escorts do not amount to equal political influence.",
-      "review": "Import costs, urban rents, patronage and exclusion from representation.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 67,
-          "sol": 16
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 29,
-          "sol": 26
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 4,
-          "sol": 45
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        0,
+        4
+      ],
+      "reason": "A restricted franchise favours shipping, banking and industrial families; civil remedies for excluded households are unspecified.",
+      "evidence": {
+        "description": "Miravelle is the seat of a republic whose restricted franchise favours shipping, banking and industrial families. Harbour revenues, ship maintenance and manufacturing support convoy escorts, coastal guns, marines and maritime aircraft. Smaller towns supply its commercial ports without erasing rival patronage networks. Veyrasse is a customer and competitor; an alternative outlet for Karsenne could redirect freight and toll income. No agreement has completed that proposed railway. Cavrelune provides a charted coastal gateway, with defended access to Miravelle.",
+        "year_review": "Miravelle yards completed replacement coastal escort tonnage and Cavrelune repairers expanded scheduled engine overhaul. Insurers began recognising participating convoy notices. The Karsenne railway remained a surveyed proposal subject to finance and agreement, not an operating shortcut for the completed expedition."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "ceralte",
-      "confidence": 65,
-      "protection": 47,
-      "unrest": 29,
-      "daily_life": "Fishing, pilotage and repair work sustain island households; grain and fuel prices depend on shipping. Naval and merchant households have more secure stores than outer communities.",
-      "politics": "Protection of shipping gives the Admiralty standing, while hereditary and naval offices limit ordinary influence.",
-      "review": "Grain reliability, convoy coverage and unequal access among islands.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 74,
-          "sol": 14
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 23,
-          "sol": 23
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 39
-        }
-      ]
+      "voice": [
+        0,
+        1
+      ],
+      "rights": [
+        0,
+        4
+      ],
+      "reason": "Hereditary protector, naval council and governors govern; general household representation and remedies are unspecified.",
+      "evidence": {
+        "description": "Dalmor is the fortified harbour and seat of a hereditary protector, senior naval council and island governors. Fishing, pilotage, convoy services and repair yards sustain the chain, while imported grain remains essential. Torpedo craft, mine warfare and knowledge of difficult waters offset limited land resources. Island communities depend on shipping rather than a mainland-style road network. Treaty cooperation coexists with accusations of privateering; no allegation proves official sponsorship.",
+        "year_review": "Dalmor, Bellavara and Montelisse coordinated pilot notices, fuel stocks and repair slots through the established ports. Replacement patrol tonnage entered service and worn machinery was retired. Admiralty escorts protect selected sailings; alleged state support for Seravelle raiders remains unproved."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "varessan",
-      "confidence": 70,
-      "protection": 70,
-      "unrest": 25,
-      "daily_life": "Terrace farming, fisheries and shared water rights provide useful security despite dependence on imported engines and medicine. Material choice is narrower than in rich mainland ports.",
-      "politics": "Island assemblies protect land and elect harbour officers. Customs exemptions and defence levies remain contested between carriers and cultivators.",
-      "review": "Import access and whether depot concessions shift costs onto farmers.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 79,
-          "sol": 14
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 19,
-          "sol": 21
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 2,
-          "sol": 32
-        }
-      ]
+      "voice": [
+        3,
+        4
+      ],
+      "rights": [
+        3,
+        4
+      ],
+      "reason": "Island assemblies elect harbour officers, retain land law and bar foreign ownership of freshwater catchments under shared courts.",
+      "evidence": {
+        "description": "The Varessan Sea League unites five island assemblies under a charter covering convoys, foreign treaties and shared courts. Ardessa hosts the delegates, but each island retains land law and elects its harbour officers. Centuries of terrace cultivation and ocean navigation preceded mainland concessions. Shipwright families build wooden coasters and repair imported motor vessels. Treaty warehouses purchase wool, dried fish and fruit. The League permits leased depots but bars foreign ownership of freshwater catchments. Carrier houses seek closer mainland ties; cultivator assemblies resist customs exemptions that leave them paying the common defence levy.",
+        "year_review": "Ardessa and Velisar assemblies renewed leased-depot terms while reserving local water and pilot rights. Stored engine fittings restored a small patrol vessel. The five island assemblies remain self-governing; mainland merchants obtained service access rather than territorial annexation."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "talasca",
-      "confidence": 35,
-      "protection": 28,
-      "unrest": 56,
-      "daily_life": "Export wealth sits beside much poorer island households. Shipping and credit controlled by outside firms constrain the benefits of local production.",
-      "politics": "Village councils retain some land authority, but colonial courts favour stronger commercial access. The levy suspension is a limited concession, not equal treatment.",
-      "review": "Compulsory levies, common pasture and the mixed inquiry's actual remedies.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 83,
-          "sol": 10
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 14,
-          "sol": 22
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 42
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        0,
+        2
+      ],
+      "reason": "Village councils retain some voice, but colonial courts and outside credit dominate land disputes; levy suspension covers only petitioning districts.",
+      "evidence": {
+        "description": "Rovessara governs the Talascan chain through a colonial commissioner, customs posts and commercial leases. Island communities remain the majority and retain village land councils, but the colonial court decides disputes involving export estates and harbour property. Settler merchants and mainland firms control much of the credit and shipping. Councils contest compulsory road levies and the conversion of common pasture into export holdings. The commissioner depends on local pilots and negotiated water rights. These islands have long-established inhabitants and histories, not vacant land discovered by their present rulers.",
+        "year_review": "Month 6 refusal of compulsory road levies and common-pasture petitions reached the colonial courts. A temporary Month 9 order suspended disputed levies in the petitioning districts while a mixed inquiry examines leases. Export shipping continued. The concession is limited, not independence or an island-wide armed uprising."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "nemerai",
-      "confidence": 65,
-      "protection": 61,
-      "unrest": 29,
-      "daily_life": "Terrace grain and fisheries support modest household security with imported plant and fuel limiting choice. Technical schooling creates a small route to skilled work.",
-      "politics": "Crown decisions require bargains with houses, towns and communal-land custodians; outer communities retain protections against unilateral requisition.",
-      "review": "School access, budget reform and preservation of island consent.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 80,
-          "sol": 14
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 18,
-          "sol": 21
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 2,
-          "sol": 34
-        }
-      ]
+      "voice": [
+        2,
+        3
+      ],
+      "rights": [
+        3,
+        4
+      ],
+      "reason": "Town and communal-land custodians participate, with compacts preventing automatic harvest requisition.",
+      "evidence": {
+        "description": "The Nemerai Crown is an old island monarchy whose ruler is confirmed by hereditary houses, town delegates and custodians of communal farmland. Nemer maintains written land records and a permanent customs service. Outer islands owe ships and levies under separate compacts; the crown cannot simply requisition their harvests. Fisheries, terrace grain and shipping support local machine shops, while heavy plant and refined marine fuel are imported. Foreign powers have treaty warehouses but no general jurisdiction. Court reformers favour technical colleges and a common budget; outer houses fear the loss of their island privileges.",
+        "year_review": "Nemer and Essara technical schools completed another small intake of navigators and engine fitters. The crown and participating island councils funded repairs to existing patrol and signal equipment. Outer-island consent remains necessary; this is a service improvement rather than a new blue-water fleet."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "ordelune",
-      "confidence": 45,
-      "protection": 35,
-      "unrest": 44,
-      "daily_life": "Farming and preserved-food exports support basic livelihoods, but winter isolation limits goods and repairs. Settler and crown-linked households often enjoy better access.",
-      "politics": "Unequal land and tax arrangements remain despite wider consultation over provisioning.",
-      "review": "Winter deliveries, disputed leases and distribution of customs income.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 83,
-          "sol": 11
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 14,
-          "sol": 20
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 36
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        1,
+        2
+      ],
+      "reason": "District councils gained provisioning consultation but unequal land and taxation remain.",
+      "evidence": {
+        "description": "Ostrevain’s southern overseas districts join two island clusters under a governor at Ordelune, linked by supply sailings rather than continuous land administration. Crown estates, settler farms and older island communities coexist under unequal tax and land arrangements. Wool, grain and preserved food finance the administration; district councils seek a greater share of customs revenue. Outlying harbours depend on local pilots and winter stores. Ostrevain claims the chain but has no effective authority over Austral Land, and the governor cannot promise passage through polar waters.",
+        "year_review": "Ordelune and Sorevain councils secured scheduled grain and spare-parts deliveries under existing Ostrevain support. Repairs addressed storm damage to store roofs and moorings. Local consultation widened around winter provisioning without changing the colony’s legal status or its small garrison inventory."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "skeldra",
-      "confidence": 73,
-      "protection": 73,
-      "unrest": 19,
-      "daily_life": "Cash incomes and imported comforts are low, but reciprocal shelter, local food and rescue duties buffer hardship. Severe winters still restrict diet and medical access.",
-      "politics": "Hearth assemblies preserve strong local voice and customary land protection without requiring a wealthy central state.",
-      "review": "Winter stores, fuel scarcity and whether rescue obligations can be met.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 86,
-          "sol": 12
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 13,
-          "sol": 17
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 1,
-          "sol": 25
-        }
-      ]
+      "voice": [
+        3,
+        4
+      ],
+      "rights": [
+        3,
+        4
+      ],
+      "reason": "Hearth assemblies retain land and shelter rights under customary law and written harbour judgments.",
+      "evidence": {
+        "description": "The Skeldran Hearth Confederacy is a sovereign compact of island kin groups, fishing towns and grazing communities. Delegates meet at Skeldra; land and shelter rights remain with hearth assemblies. Customary law is transmitted through named custodians and written harbour judgments, with interpreters for several languages. Imported rifles, radios and motor boats coexist with wooden shipbuilding and household workshops. The confederacy grants seasonal anchorage permits but rejects permanent foreign garrisons. Sparse farmland and severe winters favour dispersed stores, reciprocal rescue duties and small defensive forces.",
+        "year_review": "Skeldra and Heskar hearth assemblies pooled radio spares and rescue-boat stores. A maintenance rotation kept existing sets usable through the shipping season. No foreign garrison, new aircraft industry or permanent central government followed the arrangement."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "merovia",
-      "confidence": 64,
-      "protection": 61,
-      "unrest": 32,
-      "daily_life": "Repair trades, cooperative farming and exports support moderate comfort. Seasonal crews and outer communities have more precarious access than settled port households.",
-      "politics": "An elected assembly offers accountability but its residence and tax franchise excludes some residents.",
-      "review": "Freight charges, outer representation and foreign-loan burdens.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 73,
-          "sol": 15
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 24,
-          "sol": 23
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 36
-        }
-      ]
+      "voice": [
+        2,
+        3
+      ],
+      "rights": [
+        0,
+        4
+      ],
+      "reason": "An elected assembly exists but residence and tax rules exclude some crews and outer communities; wider remedies are unspecified.",
+      "evidence": {
+        "description": "The Merovian Island Republic joins port municipalities and agricultural districts through an elected assembly. Its residence and tax franchise leaves seasonal crews and some outer communities underrepresented. Shipping insurance, repair docks, fruit and wool exports support a modest industrial base. Cooperative farms compete with carriers over freight rates. The republic controls a north-south chain at the meeting of eastern and austral routes; depot access is negotiated commercially rather than reserved to one mainland patron. Rival parties disagree over naval spending and foreign loans.",
+        "year_review": "Merovia and Iveran yards expanded scheduled pump and engine overhaul, returning patrol tonnage to working service. Insurers accepted inspected repair certificates. Merchant representation remains disputed despite the successful service programme; the cities did not acquire heavy shipbuilding capacity."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "ashalai",
-      "confidence": 72,
-      "protection": 71,
-      "unrest": 22,
-      "daily_life": "Cultivation, fishing and communal land provide basic security with limited imported comforts and medical access. Harbour households can purchase more than inland producers.",
-      "politics": "Kin councils and elected harbour assemblies protect common land, though local hierarchy and creditor pressure still affect choices.",
-      "review": "Medical supplies, harvest debt and keeping communal land outside collateral.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 85,
-          "sol": 13
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 14,
-          "sol": 18
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 1,
-          "sol": 27
-        }
-      ]
+      "voice": [
+        2,
+        3
+      ],
+      "rights": [
+        3,
+        4
+      ],
+      "reason": "Kin and elected harbour councils negotiate covenants; foreign creditors cannot seize communal land.",
+      "evidence": {
+        "description": "The Ashalai Reef Covenant confederates hereditary kin councils, elected harbour assemblies and inland farming communities. Its gathering at Ashala settles foreign treaties, fishing boundaries and mutual defence without extinguishing local law or language. Islanders have long cultivated wet valleys and traded between reefs. Imported engines, rifles and radios are maintained in port workshops; heavy industry is limited. Foreign firms lease warehouses through negotiated covenants, with no right to seize communal land. Harbour merchants favour broader credit access, while inland councils resist debts secured against future harvests.",
+        "year_review": "Ashala and Nalavai covenants negotiated engine-spare deliveries and medical credit while preserving common-land exclusions from collateral. Local pilots coordinated supply calls. The agreement improves access but leaves imported machinery dependence and kin-based jurisdiction intact."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "istrana",
-      "confidence": 62,
-      "protection": 53,
-      "unrest": 33,
-      "daily_life": "Agriculture, textiles and repairs support moderate consumption, with schooling offering skilled prospects. Machinery and fuel imports constrain opportunities outside the ports.",
-      "politics": "Assembly scrutiny restrains borrowing, but landholding and court merchants retain stronger influence than ordinary workers.",
-      "review": "Exclusive contracts, school access and the cost of royal borrowing.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 78,
-          "sol": 14
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 19,
-          "sol": 22
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 37
-        }
-      ]
+      "voice": [
+        2,
+        3
+      ],
+      "rights": [
+        2,
+        3
+      ],
+      "reason": "Town and landed representation constrains taxes and royal borrowing, without establishing universal franchise.",
+      "evidence": {
+        "description": "Istrana is an island kingdom with a hereditary crown, permanent civil service and revenue assembly representing towns and landholding districts. The court claims descent from an older maritime union, but authority rests on negotiated taxes and a small professional fleet. Sugar, fruit, textiles and repaired vessels pass through its ports. State schools train clerks and mechanics; heavy machinery and much marine fuel are imported. The crown cultivates several mainland partners to avoid a protectorate. Outer representatives demand limits on royal borrowing and exclusive contracts awarded to court merchants.",
+        "year_review": "Istrana’s assembly approved a limited renewal of fuel and machinery contracts after scrutiny of royal borrowing. Serakai workshops repaired existing patrol equipment and textile drives. Assembly consent remains required; the programme creates no independent aircraft or armoured-vehicle industry."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "edrask",
-      "confidence": 48,
-      "protection": 39,
-      "unrest": 39,
-      "daily_life": "Fishing and timber communities depend on winter grain shipments and seasonal work. Settler towns and connected traders generally have better supply than remote communities.",
-      "politics": "Treaty councils provide some leverage, but unequal land rights and new concessions remain contentious.",
-      "review": "Grain schedules, concession disputes and equal access to harbour services.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 83,
-          "sol": 11
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 14,
-          "sol": 20
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 3,
-          "sol": 35
-        }
-      ]
+      "voice": [
+        1,
+        2
+      ],
+      "rights": [
+        1,
+        2
+      ],
+      "reason": "Treaty councils can resist concessions but inhabitants have unequal land rights under colonial government.",
+      "evidence": {
+        "description": "Rovengard’s Edrask Governorate holds the inhabited eastern chain through a governor, harbour garrisons and treaties with older island councils. Fishing communities, timber districts and settler towns have different land rights; some councils accept crown arbitration while resisting new concessions. Timber and preserved fish fund northern weather stations. Defence rests partly on visiting Rovengard ships, which are not permanent additions to the island fleet. Southern ports trade with Istrana; northern calls close seasonally. The governor’s map claim does not imply continuous occupation of mountain interiors.",
+        "year_review": "Edrask and Havren renewed timber-loading and winter grain schedules with Rovengard. Visiting technicians completed mooring and signal repairs before seasonal withdrawal. Visiting mainland warships are excluded from the colony’s locally assigned fleet total."
+      },
+      "evidence_date": "05/11/0068 AC43"
     },
     {
       "id": "norrakai",
-      "confidence": 74,
-      "protection": 74,
-      "unrest": 18,
-      "daily_life": "Fishing, herding and mutual refuge keep households viable with few manufactured comforts. Short seasons and scarce medicine impose real limits despite strong community support.",
-      "politics": "Seasonal moots preserve local control and refuge obligations. Low unrest reflects these relationships, not abundant wealth.",
-      "review": "Shipping windows, imported grain and the capacity to honour refuge obligations.",
-      "strata": [
-        {
-          "name": "Lower-income households",
-          "share_percent": 88,
-          "sol": 11
-        },
-        {
-          "name": "Intermediate households",
-          "share_percent": 11,
-          "sol": 16
-        },
-        {
-          "name": "Privileged households",
-          "share_percent": 1,
-          "sol": 23
-        }
-      ]
+      "voice": [
+        3,
+        4
+      ],
+      "rights": [
+        3,
+        4
+      ],
+      "reason": "Seasonal assemblies negotiate leases while retaining sovereignty and mutual refuge obligations.",
+      "evidence": {
+        "description": "The Norrakai Moots unite northern island communities through seasonal assemblies and mutual refuge law. They remain outside Vardol’s crown despite trading with its ports. Fishing, herding and limited sheltered cultivation sustain a sparse population, supplemented by imported grain. Councils negotiate pilotage and weather-station leases without ceding sovereignty. Radios and motor launches connect communities still reliant on locally built boats. Families use seasonal camps and permanent villages; an empty winter landing does not establish uninhabited territory.",
+        "year_review": "Norrak and Iskel seasonal moots renewed refuge and pilotage obligations and shared scarce radio batteries through visiting traders. Existing rescue boats were repaired. Vardol obtained no territorial concession, and the tiny local force gained neither aircraft nor armour."
+      },
+      "evidence_date": "05/11/0068 AC43"
+    }
+  ],
+  "conflict_evidence": [
+    {
+      "id": "cressault",
+      "status": "Intermittent fighting",
+      "situation": "Patrol and irrigation-control clashes were followed by repairs and a limited crossing-notice arrangement between local commanders in Month 6. The armistice still holds at national level; fortified posts and occasional local fire remain. Neither side has settled sovereignty.",
+      "last_review_date": "05/11/0068 AC43"
+    },
+    {
+      "id": "ossavren",
+      "status": "Active civil conflict",
+      "situation": "Contests in Months 3–4 over coal feeders and repair sites damaged rolling stock. A Month 5 grain-transit accord between participating commands reopened negotiated services, without recognising one claimant as sovereign. Outlying districts remain contested.",
+      "last_review_date": "05/11/0068 AC43"
+    },
+    {
+      "id": "haldrevik",
+      "status": "Localised armed conflict; partial settlements",
+      "situation": "Month 2 renewal clashes led to a Month 6 escrow and inspection compromise at participating concessions. Those sites resumed work, while excluded claims still produce intimidation and occasional armed confrontations. A separate Month 7 Hunter strike delayed recovery at one remote repair site.",
+      "last_review_date": "05/11/0068 AC43"
+    },
+    {
+      "id": "maritime",
+      "status": "Maritime raiding; stronger convoy cooperation",
+      "situation": "Participating Seravelle ports began coordinated departures, shared seizure notices and escort cooperation in Month 6. Main-axis exposure declined while raiders shifted toward smaller feeders and isolated sailings. Ceralte’s sponsorship of raiders remains unproved.",
+      "last_review_date": "05/11/0068 AC43"
+    },
+    {
+      "id": "vardol-averholt",
+      "status": "Armed rivalry; reciprocal exercise notices",
+      "situation": "Vardol’s Month 8 frontier exercise prompted precautionary Averholt rotations. Month 9 liaison observers and advance exercise notices reduced the immediate alarm. Territorial claims and permanent garrisons remain.",
+      "last_review_date": "05/11/0068 AC43"
+    },
+    {
+      "id": "southern-basin",
+      "status": "Diplomatic dispute; limited working accord",
+      "situation": "Serevask, participating Varnelle and Kelbrun authorities agreed seasonal water-release notices and shared freight documents in Month 7. Some Gavrel houses joined separately. Reconstruction debts and the division of sovereignty remain unresolved.",
+      "last_review_date": "05/11/0068 AC43"
+    },
+    {
+      "id": "talasca",
+      "status": "Colonial unrest; interim judicial concession",
+      "situation": "Month 6 road-levy refusals and common-pasture petitions led to a Month 9 interim order suspending disputed levies in petitioning districts pending a mixed inquiry. Communities pursue differing aims and are not collectively rebels.",
+      "last_review_date": "05/11/0068 AC43"
+    },
+    {
+      "id": "hunter-pressure",
+      "status": "Persistent external violence; local recovery",
+      "situation": "On 12/04/0068 Hunters struck an outlying Veylac industrial relay and repair depot; on 03/07/0068 another attack destroyed a remote Haldrevik repair shed and stores. These local attacks were followed by dispersed repairs and duplicated records. Deaths, injuries and missing persons were reported but reliable consolidated counts have not reached this register.",
+      "last_review_date": "05/11/0068 AC43"
     }
   ]
 }

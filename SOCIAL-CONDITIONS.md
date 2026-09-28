@@ -1,375 +1,1160 @@
-# Living standards and public sentiment
+# Living standards and public sentiment — source-derived model
 
-Baseline: **05/11/0068 AC43**. These are newly established campaign estimates inferred from the recorded societies and Year 68 events, not surveys, new events or numbers extracted from an existing census. They describe residents, including tenants and colonial communities, rather than only enfranchised citizens. No change to population, prices, military strength or public accounts is booked by introducing them.
+Current reference: **05/11/0068 AC43**. Model **source-derived-1** replaces the rejected hand-assigned scores and invented household shares. The previous figures remain only in historical archives. Every current score is calculated by the same rules from national-current.json and explicitly reviewed political/conflict evidence. No new population, economic transaction or story event is created.
 
-## Four different questions
+## What these numbers mean
 
-- **Standard of living (1–99):** material access to food, housing, heat, clothing, household goods and services. Three broad resident groups have estimated population shares and scores; their population-weighted mean is the headline. Lower-income households include tenants, labourers, subsistence producers and dependants; intermediate households include skilled workers and small proprietors; privileged households include substantial owners and senior officeholders. These are economic groupings, not uniform hereditary castes. In communal societies the last group represents relatively advantaged households, not an invented aristocracy. Self-provisioned food, communal land and reciprocal shelter count; low monetised output alone does not mean starvation.
-- **Public confidence (0–100):** assessed trust that the relevant authorities can govern, protect and honour obligations. It is an index, not a poll percentage, approval of every policy or military command cohesion. For divided regions it summarises confidence in the separate local authorities; there is no fictitious national government. Colonial confidence concerns the governing arrangements, not automatic attachment to the colonising state.
-- **Civil protection (0–100):** practical protection from arbitrary requisition, coercive labour, discriminatory land treatment and unanswerable officials; access to remedy and a meaningful voice. The form of government alone does not set the score. A communal compact can perform well despite limited industry; a wealthy commercial republic can exclude most residents.
-- **Unrest (0–100):** severity and breadth of active social/political tensions, strikes, resistance and internal violence. Higher is worse. It is not the percentage of rebels, a probability of revolution, external war intensity or simply 100 minus confidence. Quiet under repression does not establish consent. A border war can coexist with domestic support; local fighting can be severe without engulfing a whole country.
+All four indices run from **0 to 100**. Living standard is a **material-provision proxy**; confidence is an **inferred support index**; civil protection combines documented safeguards with practical health provision; unrest is **pressure for domestic unrest**, not a count of actual rebels or incidents. None is a population percentage or a probability. Use the recorded events to say whether strikes or fighting actually occurred.
 
-Headline SoL bands follow the vocabulary used in Victoria 3: 1–4 starving; 5–9 struggling; 10–14 impoverished; 15–19 middling; 20–24 secure; 25–29 prosperous; 30–39 affluent; 40–49 wealthy; 50–59 lavish; 60–99 opulent. Fractional means take the band of their integer part. These are period-relative consumption categories, not modern Terran income equivalents. Household access to medical care, schooling and services still varies within each band.
+This is not Victoria 3's consumption simulation. We lack comparable household wages, rents, tax incidence and class distributions for every society. National output is not disposable household income. Consequently, the old 1–99 consumption labels and fictional class percentages are withdrawn. A material score of 50 means roughly the reference level of recorded provision, not that half the population is comfortable. Scores below 40, 40–59 and 60+ are described as below, around and above reference capacity. They do not establish starvation or luxury.
 
-For confidence and civil protection, 0–19 is very low, 20–39 low, 40–59 mixed, 60–79 relatively strong and 80–100 very strong. Unrest: 0–19 subdued, 20–39 persistent tensions, 40–59 elevated, 60–79 severe and 80–100 widespread crisis. Scores are comparative guides rather than hard event triggers. Allow roughly ±2 SoL points and ±10 index points as working uncertainty, wider in divided or disrupted areas; these are judgement ranges, not statistical confidence intervals. A 0.1 SoL difference is not meaningful evidence of superiority.
+## Numeric inputs and fixed calibration
 
-## Keeping the record alive
+Capacity(x,a) = 100 × x / (x + a), with nonnegative x. The anchors a are frozen medians of the 43 geographic returns at the reference date: annual output per person **161.103 L-eq**; civilian spending per person **10.9596765055 L-eq**; health/relief/pension spending per person **2.5630598691 L-eq**. These are comparative anchors, not subsistence budgets. They do not move when one country improves. L-eq is the existing comparable-purchasing-power unit.
 
-The baseline file is social-conditions.json; national-current.json and the app carry its assessment date separately from other national figures. Do not automatically raise living standards with output growth, change confidence with treasury balances, or invent a rise in unrest each month. At each dated world review, assess harvests and prices against wages, rents, work, taxation, distribution, public services, security, rights and recorded grievances. Revise only where events justify a change. Explicitly record unchanged findings as reviewed, otherwise retain the old assessment date.
+- O = capacity of annual output per resident.
+- S = capacity of annual public works + health/relief/pensions + education + agriculture/water/forestry spending per resident. These broad budget headings are provision capacity, not proof of universal service delivery. Defence, debt interest, administration and intergovernmental transfers are excluded from this service measure.
+- T = mean of the existing power, communications and medicine ratings, mapped from 1–5 to 0–100 by 25 × (rating − 1). These are ordinal technology capabilities, not household ownership rates. Zero means the lowest recorded technological tier, not no care or communication.
+- H = mean of the health-spending capacity and mapped medicine rating. Again, this measures available capacity, not equal access.
+- Treasury liquidity L = capacity(months of reserves at total public expenditure rate, 3).
+- Interest room I = 100 × (1 − interest / public receipts / 0.25), clamped to 0–100. This explicitly discounts heavy debt-service burdens; debt principal alone does not establish distress.
+- Deficit cover D = capacity(liquid reserves / annual deficit, 1). If there is no deficit, D = 100. This is a static funding cushion, not a forecast of bankruptcy or an assumption that borrowing is impossible.
+- Fiscal resilience F = 0.40L + 0.30I + 0.30D.
+- Growth G = 50 + 10 × annual output trend in percentage points, clamped to 0–100. It contributes only to inferred confidence; growth already incorporated in output is not added to material provision a second time.
 
-Future changes must record the date, affected society and groups, old and new scores, distribution changes and the narrative reason in social-reviews.json before replacing the active return. Apply each event once. National averages do not award identical conditions to every settlement; use local evidence for regional differences. Neither Galahad's reputation nor his emotional influence automatically changes nationwide attitudes. No past values or trends have been fabricated for the new measures.
+Output receives half the material weight because resources available across public, private and self-provisioning activity matter most; services and usable technology qualify that capacity. Funding continuity affects confidence and pressure, not an invented automatic reduction in household consumption. The normalisations and weights below are **shared modelling choices**, not discovered historical laws. They are visible and identical for every country; there are no country-specific score bonuses and no attempt to reproduce the rejected scores.
 
-## Inspiration and limits
+## Political and conflict evidence
 
-Paradox's [Standard of Living development diary](https://steamcommunity.com/games/529340/announcements/detail/2965045886379003737) describes a 1–99 consumption-related measure. Its [legitimacy and radicalisation discussion](https://www.paradoxinteractive.com/games/victoria-3/news/victoria-3-dev-diary-65-patch-1-1-pt1) treats political support separately. This campaign borrows that distinction and the SoL vocabulary, not the game's economic simulation or patch-specific political formulas. Confidence, protection, unrest, resident shares and all Malaspina values are original worldbuilding assessments.
+social-conditions.json records each society's source description, Year 68 review, interpretation and ranges on a common 0–4 rubric. V = political voice × 25; R = civil safeguards × 25. The point estimate uses the midpoint, while the displayed range carries both ends through the formulas. A completely unspecified safeguard is **0–4**, not an asserted average protection score. A wide range therefore means insufficient evidence, not arbitrary precision. Do not narrate its midpoint as an established fact or rank overlapping ranges as proven superiority.
 
+| Level | Political voice | Civil safeguards |
+|---|---|---|
+| 0 | No meaningful ordinary resident influence demonstrated | Protection absent or overridden by armed/arbitrary power |
+| 1 | Indirect, patronal or narrowly privileged access | Particular privileges or weak/contested remedies |
+| 2 | Institutional voice for some resident groups; exclusions remain | Working but unequal or locally limited remedies |
+| 3 | Broad local participation or effective representative constraints | Enforceable communal, land, shelter or requisition safeguards |
+| 4 | Strong, broadly shared local control | Strong recorded protection across the relevant community |
+
+A monarchy is not automatically scored as abusive, and a republic is not automatically democratic. Estates restraining a crown do not prove tenants can restrain their landlords. Ambiguous scope receives a band rather than an invented franchise percentage. Quotes and interpretation appear in each return below. A changed political description stops the build until its coding is reviewed.
+
+Conflict inputs use the **current** conflict register, not its archived editions. Domestic tension U uses 0–4 (×25): 0 no material recorded agitation; 1 disputes/latent tensions; 2 active organised contention; 3 local armed confrontation; 4 sustained civil fighting. Ordinary societies have a 0–1 uncertainty band: absence from a non-exhaustive register does not certify peace. Talasca is 2–3 following levy refusal and limited relief; its mainland ruler Rovessara does not inherit colonial unrest as domestic fighting. Haldrevik is 2–3 after partial settlements; Ossavren is 3–4. Seravelle's seizures add 1–2; Ceralte is not labelled an insurgency or a proven raider sponsor.
+
+Security pressure uses the same 0–4 span: 0 no documented material threat, 1 intermittent exposure, 2 persistent constrained security, 3 active local armed danger, 4 sustained internal conflict. The common 1–2 background reflects intermittent Hunter violence and uncertain local coverage. Cressault's affected national returns use 2–3, Ossavren 3–4 and Haldrevik 2–3. Q = 100 − security pressure × 25. National scores do not make every settlement a battlefield. Border fighting affects confidence through security; it does not automatically mean domestic rebellion. The current theatre list/status is checked during every build; changed situations or statuses require an evidence review.
+
+## Formulas
+
+| Index | Formula |
+|---|---|
+| Living standard M | 0.50O + 0.30S + 0.20T |
+| Public confidence | 0.30M + 0.25V + 0.15F + 0.20Q + 0.10G |
+| Civil protection | 0.80R + 0.20H |
+| Unrest pressure | 0.35(100 − M) + 0.25(100 − V) + 0.25U + 0.15(100 − F) |
+
+The protection index is chiefly civil safeguards; clinical and welfare capacity accounts for a smaller practical component. The service component cannot turn an undocumented or coercive legal system into demonstrated civil freedom. Public confidence gives greater combined weight to delivery and continuity than to formal participation alone. Unrest pressure includes grievances, material limits, funding stress and actual recorded contention; it is not simply the inverse of confidence. Poor communities can retain strong support, and wealthy exclusionary societies can retain significant unrest pressure.
+
+Round headlines to whole points only after calculation. Show propagated political/security evidence ranges beside them. These bands do **not** include all economic uncertainty, distributional inequality, or uncertainty in chosen weights; they are not statistical confidence intervals. Small differences are weak evidence. The material proxy has no defensible household-consumption interval until household budgets exist. Common alternative material weights (40/40/20 and 60/20/20) are tested and reported separately as model sensitivity, not as new economic facts.
+
+## Other statistics and guardrails
+
+Food and fuel domestic coverage quantify import dependence, not actual unsatisfied demand. Do not penalise a trading society merely because imports meet its needs. The current register establishes no general trunk-route closure. A future blockade must first establish an actual supply effect in the economic/transport records. Public works and aid improve recorded capacity only when reflected in the existing accounts or capabilities, not merely because a proposal was announced.
+
+Standing personnel as a share of population and defence as a share of output are displayed as burden context. Their spending is already excluded from civilian-service allocations: do not deduct it twice or assume every serving soldier resents service. Military cohesion, artillery totals and fleet tonnage do not measure household trust, rights or protection. Crude birth/death rates are not life expectancy and have no documented age-standardisation or causal breakdown; they are not silently converted into health or confidence scores. Population denominators are the current estimates. Transfer spending is not counted again as locally delivered services. Aggregated territories retain separate authorities; averages cannot conjure a unified government.
+
+## Updating and use in narration
+
+Rebuild from the existing dated source records each time. Economic, fiscal, demographic and capability changes feed the indices automatically; never compound a social score or manually change a headline. Political reviews in social-reviews.json require unique IDs, dates, reasons and old/new evidence inputs; future reviews are ignored and stale values rejected. Changed conflict evidence must be reviewed before rebuilding. Keep fixed anchors and version any deliberate formula change so it cannot masquerade as a historical improvement.
+
+Use qualitative conditions and ranges to guide scenes. An uncertain nationwide estimate is not information automatically delivered to Galahad, and his aura or reputation does not raise national approval mechanically. No new rights, unrest event, shortage, salary, class share or census figure is established by these calculations.
 
 
 ## Comparable returns
 
-| Society | Living standard / 99 | Confidence / 100 | Civil protection / 100 | Unrest / 100 |
+All scores use 0–100. Brackets show the range produced by the documented qualitative evidence bands, not statistical confidence intervals. Material scores are provision proxies, not measured household consumption.
+
+| Society | Living standard | Confidence | Civil protection | Unrest pressure |
 |---|---:|---:|---:|---:|
-| Ashalai Reef Covenant | 13.8 — Impoverished | 72 | 71 | 22 |
-| Averholt | 15.2 — Middling | 61 | 49 | 32 |
-| Bellacosta Cantons | 12.1 — Impoverished | 44 | 34 | 47 |
-| Brannervaux | 15.7 — Middling | 62 | 58 | 30 |
-| Bressavelle Marches | 14.2 — Impoverished | 49 | 38 | 43 |
-| Calvernis Republic | 20.1 — Secure | 58 | 48 | 40 |
-| Cavressa Principalities | 13.0 — Impoverished | 50 | 41 | 39 |
-| Ceralte Admiralty | 16.8 — Middling | 65 | 47 | 29 |
-| Cervaud | 13.1 — Impoverished | 48 | 38 | 44 |
-| Dreissen Wardholds | 13.7 — Impoverished | 59 | 49 | 35 |
-| Duchy of Caldrienne | 14.5 — Impoverished | 54 | 32 | 43 |
-| Edrask Governorate | 13.0 — Impoverished | 48 | 39 | 39 |
-| Galdresk | 15.9 — Middling | 69 | 64 | 25 |
-| Gavrel | 11.8 — Impoverished | 46 | 35 | 44 |
-| Haldrevik Concessions | 11.6 — Impoverished | 34 | 23 | 63 |
-| Halskert | 16.3 — Middling | 64 | 59 | 29 |
-| Karsenne Compact | 16.8 — Middling | 64 | 57 | 33 |
-| Kelbrun | 11.0 — Impoverished | 39 | 25 | 57 |
-| Kingdom of Istrana | 16.2 — Middling | 62 | 53 | 33 |
-| March of Veyrasse | 15.7 — Middling | 59 | 48 | 38 |
-| Merovian Island Republic | 17.6 — Middling | 64 | 61 | 32 |
-| Nemerai Crown | 15.7 — Middling | 65 | 61 | 29 |
-| Norrakai Moots | 11.7 — Impoverished | 74 | 74 | 18 |
-| Ordelune Overseas Districts | 13.0 — Impoverished | 45 | 35 | 44 |
-| Ossavren successor territories | 9.8 — Struggling | 29 | 24 | 68 |
-| Ostrevain | 13.1 — Impoverished | 55 | 35 | 40 |
-| Rivessac Coast | 15.2 — Middling | 57 | 51 | 34 |
-| Rovengard | 14.1 — Impoverished | 60 | 44 | 30 |
-| Rovessara | 21.6 — Secure | 63 | 55 | 34 |
-| Seravelle Littoral | 14.7 — Impoverished | 48 | 40 | 47 |
-| Serevask Republic | 15.6 — Middling | 61 | 59 | 33 |
-| Skeldran Hearth Confederacy | 12.8 — Impoverished | 73 | 73 | 19 |
-| Talascan Charter Islands | 12.6 — Impoverished | 35 | 28 | 56 |
-| Tervayne | 19.6 — Middling | 59 | 49 | 37 |
-| Vallessia Cantons | 15.1 — Middling | 55 | 48 | 38 |
-| Vardol | 14.5 — Impoverished | 57 | 37 | 40 |
-| Varessan Sea League | 15.7 — Middling | 70 | 70 | 25 |
-| Varnelle | 16.9 — Middling | 60 | 52 | 34 |
-| Varneselle Estates | 13.0 — Impoverished | 46 | 34 | 46 |
-| Varnesk | 16.9 — Middling | 52 | 40 | 49 |
-| Vaulcerre Basin Leagues | 13.2 — Impoverished | 53 | 45 | 40 |
-| Veldrassen | 15.9 — Middling | 60 | 47 | 32 |
-| Veylac | 19.6 — Middling | 60 | 60 | 38 |
+| Ashalai Reef Covenant | 36 | 56 [50–61] | 76 [66–86] | 39 [32–45] |
+| Averholt | 54 | 55 [49–60] | 61 [51–71] | 39 [33–46] |
+| Bellacosta Cantons | 41 | 51 [45–56] | 37 [27–47] | 44 [38–50] |
+| Brannervaux | 59 | 56 [51–62] | 63 [53–73] | 37 [31–43] |
+| Bressavelle Marches | 49 | 50 [44–56] | 40 [30–50] | 44 [37–50] |
+| Calvernis Republic | 67 | 59 [54–65] | 54 [14–94] | 34 [27–40] |
+| Cavressa Principalities | 41 | 49 [44–55] | 37 [27–47] | 45 [39–51] |
+| Ceralte Admiralty | 61 | 50 [44–56] | 51 [11–91] | 43 [37–49] |
+| Cervaud | 49 | 43 [37–48] | 50 [10–90] | 51 [45–58] |
+| Dreissen Wardholds | 43 | 51 [46–57] | 47 [27–67] | 44 [37–50] |
+| Duchy of Caldrienne | 58 | 42 [37–48] | 51 [11–91] | 46 [40–52] |
+| Edrask Governorate | 46 | 53 [47–58] | 37 [27–47] | 41 [35–47] |
+| Galdresk | 57 | 56 [50–61] | 66 [56–76] | 38 [31–44] |
+| Gavrel | 40 | 42 [36–47] | 38 [28–48] | 53 [46–59] |
+| Haldrevik Concessions | 41 | 45 [39–50] | 37 [27–47] | 57 [51–64] |
+| Halskert | 51 | 54 [49–60] | 50 [10–90] | 39 [33–45] |
+| Karsenne Compact | 59 | 57 [49–66] | 51 [11–91] | 36 [27–45] |
+| Kelbrun | 42 | 51 [45–56] | 30 [10–50] | 44 [38–50] |
+| Kingdom of Istrana | 51 | 59 [53–64] | 58 [48–68] | 35 [28–41] |
+| March of Veyrasse | 57 | 50 [44–56] | 40 [30–50] | 38 [32–45] |
+| Merovian Island Republic | 55 | 62 [56–67] | 51 [11–91] | 32 [25–38] |
+| Nemerai Crown | 45 | 58 [53–64] | 77 [67–87] | 35 [29–42] |
+| Norrakai Moots | 26 | 60 [54–65] | 73 [63–83] | 35 [29–41] |
+| Ordelune Overseas Districts | 43 | 52 [46–57] | 37 [27–47] | 42 [36–48] |
+| Ossavren successor territories | 48 | 34 [25–43] | 30 [10–50] | 68 [59–77] |
+| Ostrevain | 51 | 44 [38–50] | 50 [10–90] | 50 [44–56] |
+| Rivessac Coast | 50 | 55 [49–60] | 40 [30–50] | 40 [33–46] |
+| Rovengard | 50 | 54 [48–59] | 50 [10–90] | 40 [34–46] |
+| Rovessara | 71 | 61 [55–67] | 54 [14–94] | 32 [26–38] |
+| Seravelle Littoral | 41 | 51 [45–57] | 36 [26–46] | 49 [43–55] |
+| Serevask Republic | 50 | 53 [38–68] | 53 [13–93] | 41 [26–57] |
+| Skeldran Hearth Confederacy | 30 | 61 [56–67] | 76 [66–86] | 33 [27–39] |
+| Talascan Charter Islands | 49 | 53 [48–59] | 28 [8–48] | 53 [47–59] |
+| Tervayne | 66 | 57 [52–63] | 54 [14–94] | 36 [30–42] |
+| Vallessia Cantons | 50 | 58 [53–64] | 60 [50–70] | 35 [29–42] |
+| Vardol | 54 | 45 [40–51] | 50 [10–90] | 48 [42–54] |
+| Varessan Sea League | 46 | 66 [60–71] | 77 [67–87] | 28 [22–34] |
+| Varnelle | 56 | 57 [51–62] | 53 [13–93] | 37 [31–44] |
+| Varneselle Estates | 41 | 50 [44–56] | 37 [27–47] | 44 [38–50] |
+| Varnesk | 61 | 58 [52–63] | 53 [13–93] | 36 [29–42] |
+| Vaulcerre Basin Leagues | 41 | 50 [45–56] | 57 [47–67] | 44 [37–50] |
+| Veldrassen | 65 | 57 [52–63] | 53 [13–93] | 36 [30–42] |
+| Veylac | 65 | 63 [58–69] | 54 [14–94] | 30 [24–36] |
 
 ## Ashalai Reef Covenant
-Cultivation, fishing and communal land provide basic security with limited imported comforts and medical access. Harbour households can purchase more than inland producers.
-Kin councils and elected harbour assemblies protect common land, though local hierarchy and creditor pressure still affect choices.
-Distribution: Lower-income households: 85% of residents, SoL 13; Intermediate households: 14% of residents, SoL 18; Privileged households: 1% of residents, SoL 27.
-Review pressures: Medical supplies, harvest debt and keeping communal land outside collateral.
-Evidence basis: national-current.json → ashalai (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Communal feasts affirm obligations between councils; everyday cooking varies by island.
+Kin and elected harbour councils negotiate covenants; foreign creditors cannot seize communal land.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 109.71 | L-eq |
+| Civil works, health, education and agriculture per resident | 5.9 | L-eq / year |
+| Medicine / communications / power | 2 / 2 / 2 | each / 5 |
+| Treasury reserves | 2.6 | months of public spending |
+| Interest / public receipts | 1.15 | % |
+| Annual output trend | 0.4 | % |
+| Food / fuel domestic coverage | 120.685 / 32.0 | % · import exposure, not a shortage |
+| Defence / output | 4.0 | % · shown separately, not deducted twice |
+| Serving / population | 0.329 | % · burden context, not approval |
+| Political voice | 2–3 | / 4 evidence band |
+| Civil safeguards | 3–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 40.51; services 35.01; technology 25.0; health 29.36; resilience 75.82; voice 62.5; rights 87.5; tension 12.5; security 62.5; growth 54.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [35.2, 36.3] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → ashalai. Political evidence reviewed 05/11/0068 AC43. Source description: The Ashalai Reef Covenant confederates hereditary kin councils, elected harbour assemblies and inland farming communities. Its gathering at Ashala settles foreign treaties, fishing boundaries and mutual defence without extinguishing local law or language. Islanders have long cultivated wet valleys and traded between reefs. Imported engines, rifles and radios are maintained in port workshops; heavy industry is limited. Foreign firms lease warehouses through negotiated covenants, with no right to seize communal land. Harbour merchants favour broader credit access, while inland councils resist debts secured against future harvests.
+Year review: Ashala and Nalavai covenants negotiated engine-spare deliveries and medical credit while preserving common-land exclusions from collateral. Local pilots coordinated supply calls. The agreement improves access but leaves imported machinery dependence and kin-based jurisdiction intact.
 
 ## Averholt
-Provincial stores buffer cold districts, though mountain households have limited choice and slow supply. Town trades and larger owners have more secure consumption.
-Provincial bargaining restrains some central demands but makes protection uneven between districts.
-Distribution: Lower-income households: 78% of residents, SoL 13; Intermediate households: 19% of residents, SoL 21; Privileged households: 3% of residents, SoL 37.
-Review pressures: Winter stores, reserve rotations and relations with Vardol.
-Evidence basis: national-current.json → averholt (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Public ovens are meeting places as well as fuel economies. A dispute over milling rights can be discussed for an entire supper without anyone naming its political purpose.
+Provincial institutions protect local stores and troops against central demands; this is collective, not universal household protection.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 181.62 | L-eq |
+| Civil works, health, education and agriculture per resident | 14.5 | L-eq / year |
+| Medicine / communications / power | 3 / 3 / 3 | each / 5 |
+| Treasury reserves | 2.88 | months of public spending |
+| Interest / public receipts | 5.55 | % |
+| Annual output trend | 1.2000000000000002 | % |
+| Food / fuel domestic coverage | 118.053 / 79.0 | % · import exposure, not a shortage |
+| Defence / output | 10.0 | % · shown separately, not deducted twice |
+| Serving / population | 0.982 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 2–3 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 52.99; services 56.96; technology 50.0; health 52.77; resilience 70.13; voice 37.5; rights 62.5; tension 12.5; security 62.5; growth 62.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [54.0, 53.2] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → averholt. Political evidence reviewed 05/11/0068 AC43. Source description: Averholt is a predominantly inland realm held together by provincial bargains. Avercenne conducts common government, Rocavane concentrates mountain engineering, and lower cultivated districts supply the cold upland towns. Rivalry with Vardol competes with domestic defence for resources. Western rail links support trade with Tervayne, while Chalicchio's road reaches Karsenne and the eastern Marches. Provincial institutions protect their own stores and troops, limiting what the central government can concentrate elsewhere. Agricultural merchants, upland industrial firms and landed councils thus contribute different kinds of strength. The realm is a substantial neighbour with internal commitments, not a continent-wide power waiting to absorb every smaller state. Bravessac provides a charted coastal gateway, with defended access to Vetenavaux. Claims administered by the northern coastal province; fishing landings and seasonal shelters receive supplies from Bravessac.
+Year review: Avercenne answered Vardol’s Month 8 exercise with precautionary garrison rotations, then accepted reciprocal exercise notices. Rocavane prioritised lorry, carriage and field-gun repair over fleet or armour expansion. The Chalicchio road remained open to cleared trade; no general mobilisation or battle followed.
+Theatre vardol-averholt (05/11/0068 AC43): Armed rivalry; reciprocal exercise notices. Vardol’s Month 8 frontier exercise prompted precautionary Averholt rotations. Month 9 liaison observers and advance exercise notices reduced the immediate alarm. Territorial claims and permanent garrisons remain.
 
 ## Bellacosta Cantons
-Tenant households face debt and restricted access to cleared land while harbour and plantation owners profit from exports. Predictable seasonal tolls offer some relief to trade.
-Separate land courts and toll assemblies favour different patrons. Tenants' leverage remains weaker than creditors'.
-Distribution: Lower-income households: 82% of residents, SoL 10; Intermediate households: 15% of residents, SoL 19; Privileged households: 3% of residents, SoL 35.
-Review pressures: Land debt, toll enforcement and expiry of harvest-season agreements.
-Evidence basis: national-current.json → other-otranto-400 (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+
+Commercial assemblies and separate land courts exist, while tenant debt and plantation checkpoints limit household leverage.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 131.5 | L-eq |
+| Civil works, health, education and agriculture per resident | 8.58 | L-eq / year |
+| Medicine / communications / power | 2 / 2 / 2 | each / 5 |
+| Treasury reserves | 2.33 | months of public spending |
+| Interest / public receipts | 4.42 | % |
+| Annual output trend | 1.2000000000000002 | % |
+| Food / fuel domestic coverage | 106.209 / 60.0 | % · import exposure, not a shortage |
+| Defence / output | 9.0 | % · shown separately, not deducted twice |
+| Serving / population | 0.683 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 1–2 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 44.94; services 43.92; technology 25.0; health 33.76; resilience 70.03; voice 37.5; rights 37.5; tension 12.5; security 62.5; growth 62.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [40.5, 40.7] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → other-otranto-400. Political evidence reviewed 05/11/0068 AC43. Source description: The cantons grew out of harbour and plantation charters left without a royal guarantor after the last major culling. Jougrenne convenes the coastal toll assembly; Nantac administers a separate inland land court. Neither can tax the other’s households. Harbour dues fund escorts while plantation owners pay for roads and demand control of the checkpoints. Veldrassen buys tropical produce and timber here, but its purchasing agents face competing canton tariffs rather than a single ministry. Tenant disputes centre on debt and access to cleared farmland; the assembly meets over commercial quarrels, not to command a national army. Lorrevento provides a charted coastal gateway, with defended access to Chignoro. Separate canton harbour dependencies; local fishing rights and harbour dues remain with the charter communities. Charted island harbours: Vessantine.
+Year review: Jougrenne brokers and Nantac land courts agreed a harvest-season toll schedule on participating roads. Lorrevento merchants can quote those journeys with fewer ad hoc charges. Rival toll holders and plantation jurisdictions remain; no common army or permanent customs union was created.
 
 ## Brannervaux
-Cultivated districts and basin trades provide moderate security where water arrives reliably. Households below disputed gates face sharper uncertainty than prosperous engineering towns.
-Water authorities and local assemblies offer remedies, but estate vetoes can delay repairs and shift burdens downstream.
-Distribution: Lower-income households: 75% of residents, SoL 13; Intermediate households: 22% of residents, SoL 22; Privileged households: 3% of residents, SoL 38.
-Review pressures: Water reliability and whether the maintenance compact reaches excluded estates.
-Evidence basis: national-current.json → brannervaux (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Floodplain gardens supply onions and beans. Fish smoking and grain warehouses make the river ports vital even to communities beyond the floodplain.
+Member cities and estates retain vetoes; the water compact creates negotiated obligations, not universal representation.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 190.36 | L-eq |
+| Civil works, health, education and agriculture per resident | 14.04 | L-eq / year |
+| Medicine / communications / power | 4 / 4 / 4 | each / 5 |
+| Treasury reserves | 2.81 | months of public spending |
+| Interest / public receipts | 3.86 | % |
+| Annual output trend | 0.8 | % |
+| Food / fuel domestic coverage | 119.225 / 71.0 | % · import exposure, not a shortage |
+| Defence / output | 8.0 | % · shown separately, not deducted twice |
+| Serving / population | 0.753 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 2–3 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 54.16; services 56.17; technology 75.0; health 64.87; resilience 72.9; voice 37.5; rights 62.5; tension 12.5; security 62.5; growth 58.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [59.1, 58.7] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → brannervaux. Political evidence reviewed 05/11/0068 AC43. Source description: Brannervaux is a federation of basin cities, landed districts and water authorities. Rivessole hosts common government; Molessac's pumping and engineering works turn the management of scarce or badly timed water into a major export industry. Productive cultivation coexists with dry rain-shadow districts dependent on imported food and controlled supplies. Members cooperate over transport, maintenance and defence while retaining powers that can delay a common decision. Trade with Veldrassen's factories and neighbouring agricultural states is extensive. The federation is confined to its own territories: neither its river institutions nor its name imply rule over Otranto as a whole.
+Year review: Molessac crews restored worn lock gates and pump drives on the principal working waterways. A participating water-estate compact now coordinates maintenance windows and release notices; other estates retain their vetoes. Delivery became more predictable without adding a new navigable canal or enlarging the federal army.
 
 ## Bressavelle Marches
-Cultivated valleys and textile or wagon work sustain modest consumption. Repeated tolls reduce ordinary purchasing power while patron-backed towns fare better.
-Protections change between lordships, town liberties and clients. Shared manifests ease inspections but leave separate power structures intact.
-Distribution: Lower-income households: 79% of residents, SoL 12; Intermediate households: 18% of residents, SoL 20; Privileged households: 3% of residents, SoL 36.
-Review pressures: Tolls, foreign subsidies and the cost of secure passage.
-Evidence basis: national-current.json → other-vesalius-2790 (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+
+Town liberties and councils exist within fragmented lordships and incompatible toll jurisdictions.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 159.96 | L-eq |
+| Civil works, health, education and agriculture per resident | 9.23 | L-eq / year |
+| Medicine / communications / power | 3 / 3 / 3 | each / 5 |
+| Treasury reserves | 1.56 | months of public spending |
+| Interest / public receipts | 7.55 | % |
+| Annual output trend | 0.4 | % |
+| Food / fuel domestic coverage | 104.975 / 60.0 | % · import exposure, not a shortage |
+| Defence / output | 9.001 | % · shown separately, not deducted twice |
+| Serving / population | 0.711 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 1–2 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 49.82; services 45.73; technology 50.0; health 49.97; resilience 54.71; voice 37.5; rights 37.5; tension 12.5; security 62.5; growth 54.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [48.2, 49.0] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → other-vesalius-2790. Political evidence reviewed 05/11/0068 AC43. Source description: The western marches form a belt of fortified lordships, town liberties and cultivated valleys between larger powers. Temevaux’s command guards a road junction; Malinne’s council controls a different customs district. Neither speaks for the entire belt. Tervayne merchants finance road repairs in exchange for bonded warehouses, while inland patrons subsidise rival toll houses. Small rulers survive by alternating clients and keeping neighbouring courts divided. Textile finishing, estate agriculture and wagon repair support a population far larger than its thinly charted principal towns suggest. A traveller’s permit may be valid for one bridge and useless at the next. Orsavie provides a charted coastal gateway, with defended access to Balbrenne. Chartered island lordships tied to the western marches by supply contracts; Tervayne has commercial privileges, not sovereignty. Charted island harbours: Lorvesset.
+Year review: Temevaux road authorities and Malinne customs offices adopted a shared transit manifest for participating carriers. Tervayne-backed warehouse agents extended repair and storage scheduling at Orsavie. The agreement reduces duplicate inspections without removing separate toll jurisdictions or creating through-rail service.
 
 ## Calvernis Republic
-Ports offer varied goods and skilled maintenance work, but household costs depend on imported food and fuel. Banking and shipping families live much better than casual workers.
-Restricted franchise privileges commercial families. Reliable contracts and escorts do not amount to equal political influence.
-Distribution: Lower-income households: 67% of residents, SoL 16; Intermediate households: 29% of residents, SoL 26; Privileged households: 4% of residents, SoL 45.
-Review pressures: Import costs, urban rents, patronage and exclusion from representation.
-Evidence basis: national-current.json → calvernis (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Dockside stalls sell fried small fish in paper. A merchant’s citrus preserves may have travelled farther than the guests eating them.
+A restricted franchise favours shipping, banking and industrial families; civil remedies for excluded households are unspecified.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 285.61 | L-eq |
+| Civil works, health, education and agriculture per resident | 20.71 | L-eq / year |
+| Medicine / communications / power | 4 / 4 / 4 | each / 5 |
+| Treasury reserves | 5.26 | months of public spending |
+| Interest / public receipts | 5.49 | % |
+| Annual output trend | 0.7000000000000001 | % |
+| Food / fuel domestic coverage | 85.181 / 49.0 | % · import exposure, not a shortage |
+| Defence / output | 10.001 | % · shown separately, not deducted twice |
+| Serving / population | 0.759 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 0–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 63.94; services 65.4; technology 75.0; health 68.69; resilience 78.88; voice 37.5; rights 50.0; tension 12.5; security 62.5; growth 57.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [66.7, 66.4] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → calvernis. Political evidence reviewed 05/11/0068 AC43. Source description: Miravelle is the seat of a republic whose restricted franchise favours shipping, banking and industrial families. Harbour revenues, ship maintenance and manufacturing support convoy escorts, coastal guns, marines and maritime aircraft. Smaller towns supply its commercial ports without erasing rival patronage networks. Veyrasse is a customer and competitor; an alternative outlet for Karsenne could redirect freight and toll income. No agreement has completed that proposed railway. Cavrelune provides a charted coastal gateway, with defended access to Miravelle.
+Year review: Miravelle yards completed replacement coastal escort tonnage and Cavrelune repairers expanded scheduled engine overhaul. Insurers began recognising participating convoy notices. The Karsenne railway remained a surveyed proposal subject to finance and agreement, not an operating shortcut for the completed expedition.
 
 ## Cavressa Principalities
-Ordinary households have modest farm and wool incomes with costly winter transport. Charter towns and well-financed shipping houses are appreciably better supplied.
-Town privileges protect some merchants; residents outside those charters depend more on estate courts and changing rights of passage.
-Distribution: Lower-income households: 81% of residents, SoL 11; Intermediate households: 16% of residents, SoL 19; Privileged households: 3% of residents, SoL 35.
-Review pressures: Fodder, toll changes and access to witnessed trading weights.
-Evidence basis: national-current.json → other-otranto-700 (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+
+Market charters protect merchants from estate levies; this recorded privilege is not universal protection.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 141.15 | L-eq |
+| Civil works, health, education and agriculture per resident | 7.93 | L-eq / year |
+| Medicine / communications / power | 2 / 2 / 2 | each / 5 |
+| Treasury reserves | 1.83 | months of public spending |
+| Interest / public receipts | 6.19 | % |
+| Annual output trend | 0.8 | % |
+| Food / fuel domestic coverage | 105.861 / 60.0 | % · import exposure, not a shortage |
+| Defence / output | 9.001 | % · shown separately, not deducted twice |
+| Serving / population | 0.72 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 1–2 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 46.7; services 41.97; technology 25.0; health 35.57; resilience 61.43; voice 37.5; rights 37.5; tension 12.5; security 62.5; growth 58.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [40.5, 41.4] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → other-otranto-700. Political evidence reviewed 05/11/0068 AC43. Source description: A chain of small courts and charter towns occupies the southwestern approaches. Collengo’s market charter protects merchants from estate levies, while the lords around Peregia claim payment for escorting their wagons. Winter fodder and access through the uplands matter more than distant dynastic titles. Albaret brokers wool and preserved food between the courts. Marriage contracts frequently change toll rights without moving a border; merchants employ local advocates to interpret them. Southern sea trade offers an alternative to the roads, but only to houses able to finance a shipment. Vellorito provides a charted coastal gateway, with defended access to Totarosco. Dependencies of individual coastal principalities, linked by a limited pilotage compact rather than a new island kingdom. Charted island harbours: Monteliva.
+Year review: Collengo and Peregia brokers coordinated fodder contracts and wool grading before winter. Albaret factors now use witnessed weights on participating sales. Mountain supply remains seasonal and individual lords retain their forces; equipment turnover leaves the rounded regional military return broadly level.
 
 ## Ceralte Admiralty
-Fishing, pilotage and repair work sustain island households; grain and fuel prices depend on shipping. Naval and merchant households have more secure stores than outer communities.
-Protection of shipping gives the Admiralty standing, while hereditary and naval offices limit ordinary influence.
-Distribution: Lower-income households: 74% of residents, SoL 14; Intermediate households: 23% of residents, SoL 23; Privileged households: 3% of residents, SoL 39.
-Review pressures: Grain reliability, convoy coverage and unequal access among islands.
-Evidence basis: national-current.json → ceralte (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Islanders know several preparations of the same catch. Grain shortages change the size of a loaf before they change a naval ration.
+Hereditary protector, naval council and governors govern; general household representation and remedies are unspecified.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 235.31 | L-eq |
+| Civil works, health, education and agriculture per resident | 19.53 | L-eq / year |
+| Medicine / communications / power | 3 / 4 / 3 | each / 5 |
+| Treasury reserves | 3.46 | months of public spending |
+| Interest / public receipts | 5.09 | % |
+| Annual output trend | 0.4 | % |
+| Food / fuel domestic coverage | 61.08 / 28.998 | % · import exposure, not a shortage |
+| Defence / output | 13.999 | % · shown separately, not deducted twice |
+| Serving / population | 1.143 | % · burden context, not approval |
+| Political voice | 0–1 | / 4 evidence band |
+| Civil safeguards | 0–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 59.36; services 64.06; technology 58.33; health 55.49; resilience 72.05; voice 12.5; rights 50.0; tension 12.5; security 62.5; growth 54.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [61.0, 60.1] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → ceralte. Political evidence reviewed 05/11/0068 AC43. Source description: Dalmor is the fortified harbour and seat of a hereditary protector, senior naval council and island governors. Fishing, pilotage, convoy services and repair yards sustain the chain, while imported grain remains essential. Torpedo craft, mine warfare and knowledge of difficult waters offset limited land resources. Island communities depend on shipping rather than a mainland-style road network. Treaty cooperation coexists with accusations of privateering; no allegation proves official sponsorship.
+Year review: Dalmor, Bellavara and Montelisse coordinated pilot notices, fuel stocks and repair slots through the established ports. Replacement patrol tonnage entered service and worn machinery was retired. Admiralty escorts protect selected sailings; alleged state support for Seravelle raiders remains unproved.
+Theatre maritime (05/11/0068 AC43): Maritime raiding; stronger convoy cooperation. Participating Seravelle ports began coordinated departures, shared seizure notices and escort cooperation in Month 6. Main-axis exposure declined while raiders shifted toward smaller feeders and isolated sailings. Ceralte’s sponsorship of raiders remains unproved.
 
 ## Cervaud
-Agricultural families have modest consumption and lose labour to mobilisation. Skilled town households fare better, but credit dependency limits room for public improvements.
-Military prestige and landed privilege weigh heavily on ordinary households. Shorter reserve rotations ease a real burden without removing it.
-Distribution: Lower-income households: 80% of residents, SoL 11; Intermediate households: 17% of residents, SoL 19; Privileged households: 3% of residents, SoL 35.
-Review pressures: Harvest labour, foreign credit and renewed mobilisation demands.
-Evidence basis: national-current.json → cervaud (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Ration bread and pickled vegetables dominate remote posts. Market-day sausages are a small luxury that survives frequent changes of uniform.
+Hereditary court and officer institutions dominate; no general franchise or civil remedy is described.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 151.0 | L-eq |
+| Civil works, health, education and agriculture per resident | 10.26 | L-eq / year |
+| Medicine / communications / power | 3 / 3 / 3 | each / 5 |
+| Treasury reserves | 1.1 | months of public spending |
+| Interest / public receipts | 10.61 | % |
+| Annual output trend | 0.7000000000000001 | % |
+| Food / fuel domestic coverage | 98.652 / 48.0 | % · import exposure, not a shortage |
+| Defence / output | 14.0 | % · shown separately, not deducted twice |
+| Serving / population | 1.406 | % · burden context, not approval |
+| Political voice | 0–1 | / 4 evidence band |
+| Civil safeguards | 0–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 48.38; services 48.34; technology 50.0; health 51.28; resilience 44.22; voice 12.5; rights 50.0; tension 12.5; security 62.5; growth 57.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [48.7, 48.7] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → cervaud. Political evidence reviewed 05/11/0068 AC43. Source description: Cervaud is a hereditary duchy whose court and officer institutions occupy Charvessant. Vezarolle's workshops support an army unusually important to public life, but cultivated lowlands, forest produce and upland farming sustain the civilian population. The duke bargains with larger Veldrassen and Ostrevain rather than enjoying complete strategic independence. Their credit and arms help preserve the frontier while giving foreign purchasers influence. Border markets also connect Cervaud with smaller neighbouring authorities. Rank and military service carry prestige, yet merchants, farmers and workshop households have livelihoods extending across the same boundaries that officers are expected to defend.
+Year review: Charvessant renewed its neutrality and transit arrangements while Vezarolle workshops concentrated on gun-carriage and wagon repairs. Shorter reserve rotations returned more workers to the harvest. Existing garrisons remain; neither larger neighbour obtained basing rights through this review.
 
 ## Dreissen Wardholds
-Winter survival rests on stores, convoy access and reciprocal shelter. Ordinary households have few luxuries; invited hospices improve care in some districts.
-Wardens owe protection, but scarcity tests those obligations and can turn requisition into lasting exaction.
-Distribution: Lower-income households: 82% of residents, SoL 12; Intermediate households: 16% of residents, SoL 20; Privileged households: 2% of residents, SoL 32.
-Review pressures: Store access, hospice provision and temporary levies becoming permanent.
-Evidence basis: national-current.json → other-morholt-2190 (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+
+Civilian assemblies contest requisitions; shelter duties and mutual stores exist but performance is disputed under scarcity.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 141.39 | L-eq |
+| Civil works, health, education and agriculture per resident | 10.3 | L-eq / year |
+| Medicine / communications / power | 2 / 2 / 2 | each / 5 |
+| Treasury reserves | 2.57 | months of public spending |
+| Interest / public receipts | 3.88 | % |
+| Annual output trend | 1.3 | % |
+| Food / fuel domestic coverage | 75.746 / 116.0 | % · import exposure, not a shortage |
+| Defence / output | 9.002 | % · shown separately, not deducted twice |
+| Serving / population | 0.701 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 1–3 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 46.74; services 48.45; technology 25.0; health 35.09; resilience 67.69; voice 37.5; rights 50.0; tension 12.5; security 62.5; growth 63.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [43.1, 42.7] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → other-morholt-2190. Political evidence reviewed 05/11/0068 AC43. Source description: Dananske, Dreinvar and Ferorvik anchor separate wardholds along the northern approaches. Each warden owes shelter to the villages that provision a fortress, but the obligation is disputed when stores run short. Their annual muster negotiates convoy schedules and exchanges hostages against broken promises; it does not elect a king. Galdresk medical houses maintain small hospices by invitation. Imported grain is strategically more important than ceremonial claims to the iceward interior. Officers measure influence in serviceable engines and winter stores, while civilian assemblies try to keep temporary requisitions from becoming permanent rent. Veltroven provides a charted coastal gateway, with defended access to Kerenvenne. Claims of adjacent wardholds, maintained by fishing visits and seasonal convoy shelters rather than continuous occupation.
+Year review: Dananske, Dreinvar and Ferorvik wardholds renewed mutual winter-store access and hospice referrals with Galdresk. Veltroven assembled shared replacement fittings for the next shipping season. The agreement binds participating holds, not a newly restored monarchy; military totals remain dispersed.
 
 ## Duchy of Caldrienne
-Productive valleys and arsenals sustain employment, but military commitments and elite consumption absorb much of the surplus. Frontier households bear particularly heavy disruption.
-Central ducal supervision supplies order with limited popular leverage. Rival estate and arsenal interests do not imply an already collapsing state.
-Distribution: Lower-income households: 79% of residents, SoL 12; Intermediate households: 18% of residents, SoL 21; Privileged households: 3% of residents, SoL 40.
-Review pressures: Border levies, fuel imports, harvest disruption and military requisitions.
-Evidence basis: national-current.json → caldrienne (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Army purchasing can empty market stalls before a mobilisation. Housewives argue over whether a proper sour-pot should contain tomato, an imported coastal habit.
+Ducal control is centralised around estate and arsenal interests; no general resident remedy is established.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 201.52 | L-eq |
+| Civil works, health, education and agriculture per resident | 18.27 | L-eq / year |
+| Medicine / communications / power | 3 / 3 / 4 | each / 5 |
+| Treasury reserves | 1.78 | months of public spending |
+| Interest / public receipts | 8.24 | % |
+| Annual output trend | 1.0 | % |
+| Food / fuel domestic coverage | 118.895 / 72.0 | % · import exposure, not a shortage |
+| Defence / output | 13.0 | % · shown separately, not deducted twice |
+| Serving / population | 1.255 | % · burden context, not approval |
+| Political voice | 0–1 | / 4 evidence band |
+| Civil safeguards | 0–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 2–3 | / 4 evidence band |
+
+Calculated components (0–100): output 55.57; services 62.51; technology 58.33; health 54.69; resilience 56.03; voice 12.5; rights 50.0; tension 12.5; security 37.5; growth 60.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [58.9, 57.5] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → caldrienne. Political evidence reviewed 05/11/0068 AC43. Source description: Valdrec houses the ducal administration and principal army depots. Productive valleys support estate agriculture and armament towns; the state fields strong infantry, artillery and a comparatively large armoured force. Ducal supervision is more centralised than in Veyrasse, though estate and arsenal interests still compete for resources. The unresolved Cressault claim strains an armed truce. Northern obligations and imports of Karsenne ore prevent its government from directing every resource against the March. Cressavelle provides a charted coastal gateway, with defended access to Valdrec.
+Year review: Valdrec’s depots accepted replacement armour, aircraft and artillery while withdrawing worn equipment. Cressault commanders completed local crossing and irrigation repairs after exchanges of fire in Months 3–4, retaining reinforced posts under the armistice. The force remains much larger than Veyrasse’s; no public intelligence purge or proven collapse of command followed the covert cell’s report.
+Theatre cressault (05/11/0068 AC43): Intermittent fighting. Patrol and irrigation-control clashes were followed by repairs and a limited crossing-notice arrangement between local commanders in Month 6. The armistice still holds at national level; fortified posts and occasional local fire remain. Neither side has settled sovereignty.
 
 ## Edrask Governorate
-Fishing and timber communities depend on winter grain shipments and seasonal work. Settler towns and connected traders generally have better supply than remote communities.
-Treaty councils provide some leverage, but unequal land rights and new concessions remain contentious.
-Distribution: Lower-income households: 83% of residents, SoL 11; Intermediate households: 14% of residents, SoL 20; Privileged households: 3% of residents, SoL 35.
-Review pressures: Grain schedules, concession disputes and equal access to harbour services.
-Evidence basis: national-current.json → edrask (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Northern stations ration imported flour through winter; southern markets offer more variety.
+Treaty councils can resist concessions but inhabitants have unequal land rights under colonial government.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 150.19 | L-eq |
+| Civil works, health, education and agriculture per resident | 11.82 | L-eq / year |
+| Medicine / communications / power | 2 / 3 / 2 | each / 5 |
+| Treasury reserves | 2.51 | months of public spending |
+| Interest / public receipts | 1.51 | % |
+| Annual output trend | 0.4 | % |
+| Food / fuel domestic coverage | 98.128 / 60.0 | % · import exposure, not a shortage |
+| Defence / output | 6.0 | % · shown separately, not deducted twice |
+| Serving / population | 0.701 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 1–2 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 48.25; services 51.88; technology 33.33; health 36.8; resilience 76.4; voice 37.5; rights 37.5; tension 12.5; security 62.5; growth 54.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [46.7, 46.0] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → edrask. Political evidence reviewed 05/11/0068 AC43. Source description: Rovengard’s Edrask Governorate holds the inhabited eastern chain through a governor, harbour garrisons and treaties with older island councils. Fishing communities, timber districts and settler towns have different land rights; some councils accept crown arbitration while resisting new concessions. Timber and preserved fish fund northern weather stations. Defence rests partly on visiting Rovengard ships, which are not permanent additions to the island fleet. Southern ports trade with Istrana; northern calls close seasonally. The governor’s map claim does not imply continuous occupation of mountain interiors.
+Year review: Edrask and Havren renewed timber-loading and winter grain schedules with Rovengard. Visiting technicians completed mooring and signal repairs before seasonal withdrawal. Visiting mainland warships are excluded from the colony’s locally assigned fleet total.
 
 ## Galdresk
-Material consumption is moderate, with shelter and medical institutions improving security beyond what cash output alone suggests. Remote settlements still have less access than defended towns.
-Wardens, orders and estates exercise substantial authority, but established shelter and care obligations give residents meaningful expectations.
-Distribution: Lower-income households: 78% of residents, SoL 14; Intermediate households: 19% of residents, SoL 21; Privileged households: 3% of residents, SoL 33.
-Review pressures: Hospice reach, winter stores and whether service obligations are honoured.
-Evidence basis: national-current.json → galdresk (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Healing traditions do not make every herb magical. Supplies are dated and inspected; winter hospitality can impose a serious obligation on an isolated house.
+Chartered institutions owe shelter, patrol and care, but access is not universal and ordinary electoral voice is unspecified.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 160.51 | L-eq |
+| Civil works, health, education and agriculture per resident | 13.5 | L-eq / year |
+| Medicine / communications / power | 5 / 4 / 3 | each / 5 |
+| Treasury reserves | 2.95 | months of public spending |
+| Interest / public receipts | 2.06 | % |
+| Annual output trend | 0.6000000000000001 | % |
+| Food / fuel domestic coverage | 83.266 / 72.0 | % · import exposure, not a shortage |
+| Defence / output | 10.0 | % · shown separately, not deducted twice |
+| Serving / population | 1.001 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 2–3 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 49.91; services 55.19; technology 75.0; health 78.1; resilience 76.16; voice 37.5; rights 62.5; tension 12.5; security 62.5; growth 56.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [57.0, 56.0] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → galdresk. Political evidence reviewed 05/11/0068 AC43. Source description: Galdresk is a wardenship of chartered orders, estates and civilian towns. Grevallier's medical and teaching institutions and Verniselle's instrument makers give it influence disproportionate to its small industrial base. Farming districts below the colder uplands help provision isolated communities; railways and negotiated access remain essential. Some houses preserve the older arts alongside practical medicine, but genuine practitioners are scarce and do not constitute a mass magical army. Neighbouring rulers value trained personnel and advice. Within Galdresk, obligations of shelter, patrol and care give institutions social authority without making every resident an initiate or every town a monastery. Orlavik provides a charted coastal gateway, with defended access to Millvik. Wardenship navigation and shelter claims. Seasonal landings and small service crews do not imply a dense iceward population.
+Year review: Grevallier teaching houses completed another supervised healer and ordinary medical-assistant intake. Verniselle instrument makers standardised a small range of repairable surgical tools. Referral letters and duplicated teaching notes circulate between participating houses; neither a national psychic register nor a universal healing service exists.
 
 ## Gavrel
-Most households rely on local agricultural and forest markets with limited purchased comforts. Patronage and fragmented tolls affect access to tools and work.
-House courts provide differing protections; there is no equally accessible common remedy or unified authority.
-Distribution: Lower-income households: 83% of residents, SoL 10; Intermediate households: 14% of residents, SoL 18; Privileged households: 3% of residents, SoL 34.
-Review pressures: House disputes, freight participation and imported repair costs.
-Evidence basis: national-current.json → gavrel (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Hospitality includes bread broken by the host, but its quality distinguishes an honoured guest from a hired messenger. Poor tenants substitute lentils for goat.
+House courts and patronage determine access; separate charters provide limited rather than general recourse.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 120.83 | L-eq |
+| Civil works, health, education and agriculture per resident | 9.39 | L-eq / year |
+| Medicine / communications / power | 2 / 2 / 2 | each / 5 |
+| Treasury reserves | 1.35 | months of public spending |
+| Interest / public receipts | 5.99 | % |
+| Annual output trend | 0.7000000000000001 | % |
+| Food / fuel domestic coverage | 108.744 / 42.0 | % · import exposure, not a shortage |
+| Defence / output | 13.0 | % · shown separately, not deducted twice |
+| Serving / population | 1.178 | % · burden context, not approval |
+| Political voice | 0–1 | / 4 evidence band |
+| Civil safeguards | 1–2 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 42.86; services 46.13; technology 25.0; health 37.67; resilience 55.4; voice 12.5; rights 37.5; tension 12.5; security 62.5; growth 57.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [40.6, 39.9] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → gavrel. Political evidence reviewed 05/11/0068 AC43. Source description: Gavrel is a group of chartered march houses with limited common institutions at Gavrielle. Each house retains its own courts and levies; Mesrienne's workshops and local markets connect their economies without erasing that autonomy. Former federal links to Serevask survive as railways, debts and commercial relationships. Varnelle and the southern cantons offer additional buyers for agricultural and forest products. Local guarantors and patronage matter to travel and trade because no single ministry controls every transaction. The combined return describes their shared resources, while actual military cooperation depends on agreements among houses rather than an automatic unified command. Montalive provides a charted coastal gateway, with defended access to Lesigne. Dependencies of individual march houses under a common coastal supply compact; no unified Gavrel navy or crown is implied. Charted island harbours: Loravise.
+Year review: Several Gavrielle march houses joined the basin notice scheme and recognised each other’s declared freight seals. Other houses stayed outside. Mesrienne repairers benefited from more predictable orders; this is cooperation between courts, not a unified national government or a larger combined army.
 
 ## Haldrevik Concessions
-Concession workers depend on imported food and employer-linked transport; interruption threatens wages and supplies together. Owners retain a much richer standard despite local losses.
-Armed intimidation, lease disputes and contested bonds make redress unreliable. The escrow settlement covers participating claims only.
-Distribution: Lower-income households: 82% of residents, SoL 9; Intermediate households: 15% of residents, SoL 20; Privileged households: 3% of residents, SoL 39.
-Review pressures: Strike aftermath, Hunter damage, charter enforcement and grain access.
-Evidence basis: national-current.json → other-morholt-1880 (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+
+Charter lawsuits and escrow exist alongside unresolved armed intimidation; partial settlement is not general protection.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 130.96 | L-eq |
+| Civil works, health, education and agriculture per resident | 9.07 | L-eq / year |
+| Medicine / communications / power | 2 / 2 / 2 | each / 5 |
+| Treasury reserves | 1.83 | months of public spending |
+| Interest / public receipts | 4.37 | % |
+| Annual output trend | 0.9 | % |
+| Food / fuel domestic coverage | 75.552 / 160.0 | % · import exposure, not a shortage |
+| Defence / output | 9.001 | % · shown separately, not deducted twice |
+| Serving / population | 0.746 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 1–2 | / 4 evidence band |
+| Recorded domestic tension | 2–3 | / 4 evidence band |
+| Security pressure | 2–3 | / 4 evidence band |
+
+Calculated components (0–100): output 44.84; services 45.27; technology 25.0; health 33.52; resilience 64.27; voice 37.5; rights 37.5; tension 62.5; security 37.5; growth 59.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [41.0, 41.0] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → other-morholt-1880. Political evidence reviewed 05/11/0068 AC43. Source description: Concession houses hold time-limited rights to timber, minerals and fuel rather than sovereignty over every inhabitant. Asanetz keeps the surviving charter archive; Alauvenne houses one of the armed inspection posts. A house can own a railway and still owe rent to the community beneath it. Varnesk firms provide machinery and credit, exchanging technical dependence for preferred ore contracts. Charter renewals provoke strikes, armed intimidation and lawsuits over restoration bonds. Settlements outside a concession bargain for patrols in return for provisions; a company’s withdrawal can be more frightening than its arrival. Trelovre provides a charted coastal gateway, with defended access to Arinrin. Island shore communities under Haldrevik charter protection. Concession leases cover named working sites, not ownership of all inhabitants. Charted island harbours: Rovensac.
+Year review: Armed renewal disputes interrupted some concessions in Month 2. A Month 6 escrow-and-inspection settlement reopened participating sites; a 03/07/0068 Hunter strike then destroyed a remote repair shed and stores. Varnesk replacements restored basic workings by Month 8, but armed vehicles and guns remained below the opening serviceable return. Nonparticipating claims are unresolved.
+Theatre haldrevik (05/11/0068 AC43): Localised armed conflict; partial settlements. Month 2 renewal clashes led to a Month 6 escrow and inspection compromise at participating concessions. Those sites resumed work, while excluded claims still produce intimidation and occasional armed confrontations. A separate Month 7 Hunter strike delayed recovery at one remote repair site.
 
 ## Halskert
-Grain-producing households and river towns benefit from food access and trade. Labourers have fewer comforts than commercial families, but storage improvements reduce some seasonal vulnerability.
-Commercial and agricultural authorities bargain over water and transport; residents' influence varies with property and locality.
-Distribution: Lower-income households: 76% of residents, SoL 14; Intermediate households: 21% of residents, SoL 22; Privileged households: 3% of residents, SoL 36.
-Review pressures: Grain prices, water control and the spread of drying improvements.
-Evidence basis: national-current.json → halskert (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Smokehouses fill before freeze-up. Spring fish suppers mark reopened navigation and the arrival of news as much as the season’s catch.
+River, commercial and elected port authorities bargain; general resident remedies remain unspecified.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 164.75 | L-eq |
+| Civil works, health, education and agriculture per resident | 11.55 | L-eq / year |
+| Medicine / communications / power | 3 / 3 / 3 | each / 5 |
+| Treasury reserves | 3.81 | months of public spending |
+| Interest / public receipts | 2.39 | % |
+| Annual output trend | 0.4 | % |
+| Food / fuel domestic coverage | 115.821 / 61.0 | % · import exposure, not a shortage |
+| Defence / output | 7.999 | % · shown separately, not deducted twice |
+| Serving / population | 0.688 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 0–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 50.56; services 51.31; technology 50.0; health 49.94; resilience 79.49; voice 37.5; rights 50.0; tension 12.5; security 62.5; growth 54.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [50.7, 50.6] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → halskert. Political evidence reviewed 05/11/0068 AC43. Source description: Halskert is a republic of river towns, agricultural districts and commercial authorities. Orsendal coordinates government and grain trade; Tresselund manufactures equipment for farms and water works. Productive temperate districts make the republic an important supplier to colder neighbours, while warmer pockets add different crops to its exports. Mill owners, merchants and water authorities bargain over maintenance, freight and taxation. Its transport experience supports defence, but fuel imports and seasonal conditions constrain distant operations. Galdresk buys provisions and trades specialist goods, while Rovengard is both a customer and competitor. Civilian food production is a source of power here, not background scenery. Seldavre provides a charted coastal gateway, with defended access to Orsendal. Republican grain-shipping dependencies with elected port boards and permanent fishing settlements. Charted island harbours: Seldren.
+Year review: Tresselund completed repairs to grain-drying and water-control machinery before the next storage cycle. Seldavre exporters agreed shared inspection certificates with participating northern buyers. Local militia replacement training continued, with no material net expansion of the small military inventory.
 
 ## Karsenne Compact
-Skilled engineering and mining support better town consumption than many agricultural neighbours. Imported food and costly coastal transfers erode the benefit for ordinary households.
-Autonomous councils offer local voice and defended approaches, with unequal influence among districts and occupations.
-Distribution: Lower-income households: 74% of residents, SoL 14; Intermediate households: 23% of residents, SoL 23; Privileged households: 3% of residents, SoL 37.
-Review pressures: Mine safety, food imports and freight charges; the proposed railway is not yet a benefit.
-Evidence basis: national-current.json → karsenne (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Lower valleys supply potatoes and cabbage, upland pastures cheese. Bought flour and coastal salt become costly when freight negotiations fail.
+Autonomous mining councils and fortress districts bargain; household membership and enforceable civil remedies are unspecified.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 231.37 | L-eq |
+| Civil works, health, education and agriculture per resident | 15.91 | L-eq / year |
+| Medicine / communications / power | 3 / 3 / 4 | each / 5 |
+| Treasury reserves | 2.02 | months of public spending |
+| Interest / public receipts | 7.16 | % |
+| Annual output trend | 0.7000000000000001 | % |
+| Food / fuel domestic coverage | 72.427 / 138.0 | % · import exposure, not a shortage |
+| Defence / output | 12.0 | % · shown separately, not deducted twice |
+| Serving / population | 1.178 | % · burden context, not approval |
+| Political voice | 1–3 | / 4 evidence band |
+| Civil safeguards | 0–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 58.95; services 59.21; technology 58.33; health 53.01; resilience 59.67; voice 50.0; rights 50.0; tension 12.5; security 62.5; growth 57.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [58.9, 58.9] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → karsenne. Political evidence reviewed 05/11/0068 AC43. Source description: Drossane hosts common business for autonomous mining councils and fortress districts. The Compact is a federation rather than a unified hereditary realm. Ores, engineering skills and defended approaches sustain its bargaining power, but coastal freight charges consume export income. Valley workshops and cultivated pockets support the upland economy. Veyrasse remains an uneasy defensive partner and vital outlet. A direct railway toward Calvernis is sought, not operating; existing roads do not provide an equivalent bulk-freight service.
+Year review: Drossane councils expanded duplicate assay and mine-safety records and completed a field-gun repair cycle. Existing road and port transfers still carry foreign trade. Negotiators continued the proposed Calvernis railway survey; construction and through-service have not begun. The guesthouse attackers’ real allegiance has not become a public finding.
 
 ## Kelbrun
-Plantation output does not translate into comfortable lives for most workers. Grain and livestock districts offer different livelihoods; technical and estate households command far greater purchasing power.
-Estate labour obligations and unequal commercial access are central grievances. Delivery arbitration has not settled labour conditions.
-Distribution: Lower-income households: 84% of residents, SoL 9; Intermediate households: 13% of residents, SoL 18; Privileged households: 3% of residents, SoL 36.
-Review pressures: Coercive obligations, land access and whether machinery gains reach workers.
-Evidence basis: national-current.json → kelbrun (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Labourers eat at field shelters from wrapped parcels. Plantation owners’ lavish fruit tables conceal the uneven access to meat and purchased grain.
+Powerful plantations and contested estate labour obligations limit protection; limited delivery arbitration is not a labour-rights settlement.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 120.88 | L-eq |
+| Civil works, health, education and agriculture per resident | 9.96 | L-eq / year |
+| Medicine / communications / power | 3 / 2 / 2 | each / 5 |
+| Treasury reserves | 2.07 | months of public spending |
+| Interest / public receipts | 4.51 | % |
+| Annual output trend | 1.2000000000000002 | % |
+| Food / fuel domestic coverage | 131.96 / 48.0 | % · import exposure, not a shortage |
+| Defence / output | 10.0 | % · shown separately, not deducted twice |
+| Serving / population | 0.906 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 0–2 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 42.87; services 47.62; technology 33.33; health 48.09; resilience 66.43; voice 37.5; rights 25.0; tension 12.5; security 62.5; growth 62.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [42.9, 41.9] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → kelbrun. Political evidence reviewed 05/11/0068 AC43. Source description: Kelbrun is an independent state of councils and powerful plantation interests governed from Kelbrienne. Oreviano's rubber chemistry and filtration industries turn cultivated resources into valuable manufactured exports. Seasonal uplands supply grain and livestock alongside the wetter districts' plantation products. Estate labour obligations and commercial access shape politics as much as formal council debates. Serevask is a former federal partner and continuing industrial customer; Varnelle and Calvernis provide other trading connections. Army posts secure routes and production districts, but the country's influence chiefly rests on useful materials, technical knowledge and agricultural trade. Its population does not share one estate, employer or social standing. Cervellane provides a charted coastal gateway, with defended access to Cambrelet. Council-administered island dependency with plantation suppliers, fisheries and bonded stores. Charted island harbours: Marcellune.
+Year review: Kelbrienne adopted the Month 7 basin freight forms and Oreviano workshops repaired imported pumps using shared fitting specifications. Plantation representatives accepted limited delivery arbitration. Labour conditions and estate power remain contested; machinery imports still limit how widely the improvements can spread.
 
 ## Kingdom of Istrana
-Agriculture, textiles and repairs support moderate consumption, with schooling offering skilled prospects. Machinery and fuel imports constrain opportunities outside the ports.
-Assembly scrutiny restrains borrowing, but landholding and court merchants retain stronger influence than ordinary workers.
-Distribution: Lower-income households: 78% of residents, SoL 14; Intermediate households: 19% of residents, SoL 22; Privileged households: 3% of residents, SoL 37.
-Review pressures: Exclusive contracts, school access and the cost of royal borrowing.
-Evidence basis: national-current.json → istrana (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Mill workers buy meals near the gates; court hospitality prizes fresh produce from several islands.
+Town and landed representation constrains taxes and royal borrowing, without establishing universal franchise.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 164.82 | L-eq |
+| Civil works, health, education and agriculture per resident | 14.2 | L-eq / year |
+| Medicine / communications / power | 2 / 3 / 3 | each / 5 |
+| Treasury reserves | 2.29 | months of public spending |
+| Interest / public receipts | 3.94 | % |
+| Annual output trend | 0.4 | % |
+| Food / fuel domestic coverage | 109.883 / 40.0 | % · import exposure, not a shortage |
+| Defence / output | 6.0 | % · shown separately, not deducted twice |
+| Serving / population | 0.572 | % · burden context, not approval |
+| Political voice | 2–3 | / 4 evidence band |
+| Civil safeguards | 2–3 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 50.57; services 56.43; technology 41.67; health 41.22; resilience 67.39; voice 62.5; rights 62.5; tension 12.5; security 62.5; growth 54.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [51.1, 50.0] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → istrana. Political evidence reviewed 05/11/0068 AC43. Source description: Istrana is an island kingdom with a hereditary crown, permanent civil service and revenue assembly representing towns and landholding districts. The court claims descent from an older maritime union, but authority rests on negotiated taxes and a small professional fleet. Sugar, fruit, textiles and repaired vessels pass through its ports. State schools train clerks and mechanics; heavy machinery and much marine fuel are imported. The crown cultivates several mainland partners to avoid a protectorate. Outer representatives demand limits on royal borrowing and exclusive contracts awarded to court merchants.
+Year review: Istrana’s assembly approved a limited renewal of fuel and machinery contracts after scrutiny of royal borrowing. Serakai workshops repaired existing patrol equipment and textile drives. Assembly consent remains required; the programme creates no independent aircraft or armoured-vehicle industry.
 
 ## March of Veyrasse
-Auvrienne and Serravonne offer skilled work and improving water or railway services; poorer tenants and labourers still have little spare income. Well-connected houses enjoy far greater comfort.
-Chartered institutions permit bargaining and advancement through education or patronage. Poor households bear disproportionate dangerous service; influence shapes access to justice.
-Distribution: Lower-income households: 76% of residents, SoL 13; Intermediate households: 21% of residents, SoL 22; Privileged households: 3% of residents, SoL 39.
-Review pressures: Conscription fairness, wages versus food and rent, and whether civil improvements reach poorer districts. The small rifle trial has no assumed national welfare effect.
-Evidence basis: national-current.json → veyrasse (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Fresh fish is ordinary near Serravonne, expensive uphill after a disrupted train. Station households stretch yesterday’s bread into broth dumplings.
+Chartered municipal institutions and railway unions have leverage, but poorer households carry disproportionate service obligations and advancement depends on patronage.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 205.07 | L-eq |
+| Civil works, health, education and agriculture per resident | 15.02 | L-eq / year |
+| Medicine / communications / power | 3 / 3 / 4 | each / 5 |
+| Treasury reserves | 2.91 | months of public spending |
+| Interest / public receipts | 5.48 | % |
+| Annual output trend | 0.5 | % |
+| Food / fuel domestic coverage | 97.034 / 62.0 | % · import exposure, not a shortage |
+| Defence / output | 10.999 | % · shown separately, not deducted twice |
+| Serving / population | 1.003 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 1–2 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 2–3 | / 4 evidence band |
+
+Calculated components (0–100): output 56.0; services 57.82; technology 58.33; health 52.3; resilience 70.28; voice 37.5; rights 37.5; tension 12.5; security 37.5; growth 55.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [57.2, 56.8] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → veyrasse. Political evidence reviewed 05/11/0068 AC43. Source description: The charter balances the Margrave, landed houses, municipal councils and industrial proprietors. Auvrienne holds the court and government; Serravonne is a secondary port and rail junction. Coastal agriculture and workshops depend on inland ores and imported machinery. Railway unions can disrupt mobilisation, and poorer households bear disproportionate service obligations. Caldrienne remains the principal territorial rival; Karsenne is an essential supplier, while Calvernis and Ceralte provide competing maritime connections. The Margrave commands the standing army and foreign relations, while chartered institutions provide much of the money, manpower and transport. Education and engineering offer advancement through patronage. Railway superintendent Leont Vardesca governs railway affairs and dependants, not Serravonne’s government or army.
+Year review: Auvrienne’s authorised second pumping stage entered service on 04/04/0068; operating acceptance of the uphill pressure controls followed on 10/06/0068. Cevrane’s crews now maintain the two commissioned replacement stages beside retained older sections. Serravonne railway workshops spread revised maintenance checks. Conventional repair and replacement programmes modestly improved military availability; Galahad’s new rifle and carrier remain unbuilt.
+Theatre cressault (05/11/0068 AC43): Intermittent fighting. Patrol and irrigation-control clashes were followed by repairs and a limited crossing-notice arrangement between local commanders in Month 6. The armistice still holds at national level; fortified posts and occasional local fire remain. Neither side has settled sovereignty.
 
 ## Merovian Island Republic
-Repair trades, cooperative farming and exports support moderate comfort. Seasonal crews and outer communities have more precarious access than settled port households.
-An elected assembly offers accountability but its residence and tax franchise excludes some residents.
-Distribution: Lower-income households: 73% of residents, SoL 15; Intermediate households: 24% of residents, SoL 23; Privileged households: 3% of residents, SoL 36.
-Review pressures: Freight charges, outer representation and foreign-loan burdens.
-Evidence basis: national-current.json → merovia (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Dockside houses advertise fixed-price meals; wealthy tables display fresh produce from distant islands.
+An elected assembly exists but residence and tax rules exclude some crews and outer communities; wider remedies are unspecified.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 189.86 | L-eq |
+| Civil works, health, education and agriculture per resident | 16.92 | L-eq / year |
+| Medicine / communications / power | 3 / 3 / 3 | each / 5 |
+| Treasury reserves | 3.72 | months of public spending |
+| Interest / public receipts | 3.03 | % |
+| Annual output trend | 0.4 | % |
+| Food / fuel domestic coverage | 103.926 / 45.0 | % · import exposure, not a shortage |
+| Defence / output | 6.5 | % · shown separately, not deducted twice |
+| Serving / population | 0.659 | % · burden context, not approval |
+| Political voice | 2–3 | / 4 evidence band |
+| Civil safeguards | 0–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 54.1; services 60.68; technology 50.0; health 53.76; resilience 76.26; voice 62.5; rights 50.0; tension 12.5; security 62.5; growth 54.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [55.9, 54.6] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → merovia. Political evidence reviewed 05/11/0068 AC43. Source description: The Merovian Island Republic joins port municipalities and agricultural districts through an elected assembly. Its residence and tax franchise leaves seasonal crews and some outer communities underrepresented. Shipping insurance, repair docks, fruit and wool exports support a modest industrial base. Cooperative farms compete with carriers over freight rates. The republic controls a north-south chain at the meeting of eastern and austral routes; depot access is negotiated commercially rather than reserved to one mainland patron. Rival parties disagree over naval spending and foreign loans.
+Year review: Merovia and Iveran yards expanded scheduled pump and engine overhaul, returning patrol tonnage to working service. Insurers accepted inspected repair certificates. Merchant representation remains disputed despite the successful service programme; the cities did not acquire heavy shipbuilding capacity.
 
 ## Nemerai Crown
-Terrace grain and fisheries support modest household security with imported plant and fuel limiting choice. Technical schooling creates a small route to skilled work.
-Crown decisions require bargains with houses, towns and communal-land custodians; outer communities retain protections against unilateral requisition.
-Distribution: Lower-income households: 80% of residents, SoL 14; Intermediate households: 18% of residents, SoL 21; Privileged households: 2% of residents, SoL 34.
-Review pressures: School access, budget reform and preservation of island consent.
-Evidence basis: national-current.json → nemerai (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Outer households preserve more fish and dairy; the capital displays produce from across the compacts.
+Town and communal-land custodians participate, with compacts preventing automatic harvest requisition.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 144.74 | L-eq |
+| Civil works, health, education and agriculture per resident | 8.84 | L-eq / year |
+| Medicine / communications / power | 2 / 3 / 3 | each / 5 |
+| Treasury reserves | 2.94 | months of public spending |
+| Interest / public receipts | 2.07 | % |
+| Annual output trend | 0.4 | % |
+| Food / fuel domestic coverage | 118.789 / 38.0 | % · import exposure, not a shortage |
+| Defence / output | 5.0 | % · shown separately, not deducted twice |
+| Serving / population | 0.532 | % · burden context, not approval |
+| Political voice | 2–3 | / 4 evidence band |
+| Civil safeguards | 3–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 47.33; services 44.66; technology 41.67; health 34.12; resilience 75.54; voice 62.5; rights 87.5; tension 12.5; security 62.5; growth 54.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [45.1, 45.7] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → nemerai. Political evidence reviewed 05/11/0068 AC43. Source description: The Nemerai Crown is an old island monarchy whose ruler is confirmed by hereditary houses, town delegates and custodians of communal farmland. Nemer maintains written land records and a permanent customs service. Outer islands owe ships and levies under separate compacts; the crown cannot simply requisition their harvests. Fisheries, terrace grain and shipping support local machine shops, while heavy plant and refined marine fuel are imported. Foreign powers have treaty warehouses but no general jurisdiction. Court reformers favour technical colleges and a common budget; outer houses fear the loss of their island privileges.
+Year review: Nemer and Essara technical schools completed another small intake of navigators and engine fitters. The crown and participating island councils funded repairs to existing patrol and signal equipment. Outer-island consent remains necessary; this is a service improvement rather than a new blue-water fleet.
 
 ## Norrakai Moots
-Fishing, herding and mutual refuge keep households viable with few manufactured comforts. Short seasons and scarce medicine impose real limits despite strong community support.
-Seasonal moots preserve local control and refuge obligations. Low unrest reflects these relationships, not abundant wealth.
-Distribution: Lower-income households: 88% of residents, SoL 11; Intermediate households: 11% of residents, SoL 16; Privileged households: 1% of residents, SoL 23.
-Review pressures: Shipping windows, imported grain and the capacity to honour refuge obligations.
-Evidence basis: national-current.json → norrakai (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Stored food is carefully accounted for because rescue hospitality and winter survival draw on the same reserves.
+Seasonal assemblies negotiate leases while retaining sovereignty and mutual refuge obligations.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 80.27 | L-eq |
+| Civil works, health, education and agriculture per resident | 3.49 | L-eq / year |
+| Medicine / communications / power | 1 / 2 / 1 | each / 5 |
+| Treasury reserves | 4.68 | months of public spending |
+| Interest / public receipts | 0.58 | % |
+| Annual output trend | 0.4 | % |
+| Food / fuel domestic coverage | 94.314 / 45.0 | % · import exposure, not a shortage |
+| Defence / output | 3.504 | % · shown separately, not deducted twice |
+| Serving / population | 0.37 | % · burden context, not approval |
+| Political voice | 3–4 | / 4 evidence band |
+| Civil safeguards | 3–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 33.26; services 24.14; technology 8.33; health 16.95; resilience 82.12; voice 87.5; rights 87.5; tension 12.5; security 62.5; growth 54.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [24.6, 26.4] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → norrakai. Political evidence reviewed 05/11/0068 AC43. Source description: The Norrakai Moots unite northern island communities through seasonal assemblies and mutual refuge law. They remain outside Vardol’s crown despite trading with its ports. Fishing, herding and limited sheltered cultivation sustain a sparse population, supplemented by imported grain. Councils negotiate pilotage and weather-station leases without ceding sovereignty. Radios and motor launches connect communities still reliant on locally built boats. Families use seasonal camps and permanent villages; an empty winter landing does not establish uninhabited territory.
+Year review: Norrak and Iskel seasonal moots renewed refuge and pilotage obligations and shared scarce radio batteries through visiting traders. Existing rescue boats were repaired. Vardol obtained no territorial concession, and the tiny local force gained neither aircraft nor armour.
 
 ## Ordelune Overseas Districts
-Farming and preserved-food exports support basic livelihoods, but winter isolation limits goods and repairs. Settler and crown-linked households often enjoy better access.
-Unequal land and tax arrangements remain despite wider consultation over provisioning.
-Distribution: Lower-income households: 83% of residents, SoL 11; Intermediate households: 14% of residents, SoL 20; Privileged households: 3% of residents, SoL 36.
-Review pressures: Winter deliveries, disputed leases and distribution of customs income.
-Evidence basis: national-current.json → ordelune (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Winter smokehouses and communal grain stores remain important even where imported tins are fashionable.
+District councils gained provisioning consultation but unequal land and taxation remain.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 135.05 | L-eq |
+| Civil works, health, education and agriculture per resident | 10.82 | L-eq / year |
+| Medicine / communications / power | 2 / 2 / 2 | each / 5 |
+| Treasury reserves | 2.9 | months of public spending |
+| Interest / public receipts | 1.18 | % |
+| Annual output trend | 0.4 | % |
+| Food / fuel domestic coverage | 126.045 / 35.0 | % · import exposure, not a shortage |
+| Defence / output | 4.5 | % · shown separately, not deducted twice |
+| Serving / population | 0.544 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 1–2 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 45.6; services 49.69; technology 25.0; health 36.62; resilience 78.24; voice 37.5; rights 37.5; tension 12.5; security 62.5; growth 54.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [43.1, 42.3] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → ordelune. Political evidence reviewed 05/11/0068 AC43. Source description: Ostrevain’s southern overseas districts join two island clusters under a governor at Ordelune, linked by supply sailings rather than continuous land administration. Crown estates, settler farms and older island communities coexist under unequal tax and land arrangements. Wool, grain and preserved food finance the administration; district councils seek a greater share of customs revenue. Outlying harbours depend on local pilots and winter stores. Ostrevain claims the chain but has no effective authority over Austral Land, and the governor cannot promise passage through polar waters.
+Year review: Ordelune and Sorevain councils secured scheduled grain and spare-parts deliveries under existing Ostrevain support. Repairs addressed storm damage to store roofs and moorings. Local consultation widened around winter provisioning without changing the colony’s legal status or its small garrison inventory.
 
 ## Ossavren successor territories
-Interrupted freight, coal fighting and rival tolls make food, heating and regular work unreliable. Secure enclaves and well-connected households retain comforts inaccessible to many residents.
-People depend on competing courts and city authorities. Grain agreements help particular routes but do not provide consistent protection across the region.
-Distribution: Lower-income households: 84% of residents, SoL 8; Intermediate households: 13% of residents, SoL 16; Privileged households: 3% of residents, SoL 32.
-Review pressures: Whether the reopened grain corridor holds, local fighting and arbitrary tolls.
-Evidence basis: national-current.json → ossavren (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Smuggling brings salt, oil and family recipes across front lines. An abundant banquet may conceal shortages in a neighbouring claimant’s territory.
+Competing armed commands and separate tolls prevent dependable common authority or protection.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 134.87 | L-eq |
+| Civil works, health, education and agriculture per resident | 10.94 | L-eq / year |
+| Medicine / communications / power | 3 / 3 / 3 | each / 5 |
+| Treasury reserves | 0.86 | months of public spending |
+| Interest / public receipts | 9.92 | % |
+| Annual output trend | -0.2 | % |
+| Food / fuel domestic coverage | 105.899 / 170.0 | % · import exposure, not a shortage |
+| Defence / output | 13.0 | % · shown separately, not deducted twice |
+| Serving / population | 1.183 | % · burden context, not approval |
+| Political voice | 0–2 | / 4 evidence band |
+| Civil safeguards | 0–2 | / 4 evidence band |
+| Recorded domestic tension | 3–4 | / 4 evidence band |
+| Security pressure | 3–4 | / 4 evidence band |
+
+Calculated components (0–100): output 45.57; services 49.95; technology 50.0; health 52.08; resilience 39.13; voice 25.0; rights 25.0; tension 87.5; security 12.5; growth 48.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [48.2, 47.3] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → ossavren. Political evidence reviewed 05/11/0068 AC43. Source description: Ossavren denotes the territories of a broken crown, not a functioning nation with one army. Ossendrienne remains a vast former capital, while provincial commands, rival courts and autonomous commercial cities control their own taxation and troops. Tressavio trades through Veylac; other districts face Ostrevain or the Seravelle markets. Coal and petroleum resources give competing rulers valuable assets, but tolls, incompatible arrangements and local fighting divide their use. Shared food, family ties and railway habits survive the political fracture. Aggregate military and economic figures measure the whole region's resources; no claimant can simply issue orders to that combined total. Neravisse provides a charted coastal gateway, with defended access to Tatogia. A dependency of Neravisse’s municipal charter, not territory governed by a restored Ossavren crown. Charted island harbours: Cavralto.
+Year review: Fighting in Months 3–4 over coal feeders damaged rolling stock and workshops. A 19/05/0068 local grain-transit arrangement reopened negotiated services through participating authorities, while rival commands retained separate tolls and arsenals. Losses and cannibalisation exceeded repairs; less of the combined geographic army can now be sustained away from its bases. No claimant reunified the country.
+Theatre ossavren (05/11/0068 AC43): Active civil conflict. Contests in Months 3–4 over coal feeders and repair sites damaged rolling stock. A Month 5 grain-transit accord between participating commands reopened negotiated services, without recognising one claimant as sovereign. Outlying districts remain contested.
 
 ## Ostrevain
-Food-producing districts can provision themselves while many agricultural households have little disposable income. Industrial wards offer wages under close supervision; landholding families capture much of the surplus.
-Landed recruitment and administrative discipline give order at the expense of ordinary residents' freedom to refuse obligations.
-Distribution: Lower-income households: 81% of residents, SoL 11; Intermediate households: 16% of residents, SoL 19; Privileged households: 3% of residents, SoL 38.
-Review pressures: Harvest access, recruitment burdens and distribution of seed and transport improvements.
-Evidence basis: national-current.json → ostrevain (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Soldiers carry toasted grain and hard cheese; wealthy tables emphasise fresh meat and fruit that has not endured a convoy journey.
+Landed families and royal commissioners dominate recruitment; no general household remedy is recorded.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 169.76 | L-eq |
+| Civil works, health, education and agriculture per resident | 10.92 | L-eq / year |
+| Medicine / communications / power | 3 / 3 / 3 | each / 5 |
+| Treasury reserves | 1.34 | months of public spending |
+| Interest / public receipts | 9.77 | % |
+| Annual output trend | 0.6000000000000001 | % |
+| Food / fuel domestic coverage | 123.824 / 74.0 | % · import exposure, not a shortage |
+| Defence / output | 12.0 | % · shown separately, not deducted twice |
+| Serving / population | 1.3 | % · burden context, not approval |
+| Political voice | 0–1 | / 4 evidence band |
+| Civil safeguards | 0–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 51.31; services 49.92; technology 50.0; health 49.24; resilience 49.76; voice 12.5; rights 50.0; tension 12.5; security 62.5; growth 56.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [50.5, 50.8] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → ostrevain. Political evidence reviewed 05/11/0068 AC43. Source description: Ostrevain is an agricultural monarchy attempting to turn crop surpluses and a large population into industrial military strength. Orsevigne holds the royal administration; Tessarone concentrates arsenal work, supported by plantation and farming railways. Landed families retain influence over recruitment and produce, while royal commissioners favour factories and central procurement. Its armed forces can draw many soldiers, but transport and imported precision equipment constrain their deployment. Cervaud offers a market and a political buffer. In daily life the contrast is between estate authority, regimented industrial wards and expanding commercial towns, rather than between a uniformly modern capital and an empty countryside. Salterivo provides a charted coastal gateway, with defended access to Yssois. Royal coastal dependency with a governor, local fishing communities and an agricultural resupply station. Charted island harbours: Villessia.
+Year review: Tessarone completed an artillery refurbishment cycle while agricultural authorities expanded grain-store inspection and seed distribution. Imported precision fittings still limit motorisation; the army remains predominantly rail- and horse-supported. The monarchy renewed access arrangements with participating grain districts without taking over their estates.
 
 ## Rivessac Coast
-Coastal trade and agriculture provide moderate livelihoods. Seasonal crews and inland villages have less predictable access than chartered port households.
-Communes and houses keep separate rights; pilot and merchant influence exceeds that of casual workers.
-Distribution: Lower-income households: 78% of residents, SoL 13; Intermediate households: 19% of residents, SoL 21; Privileged households: 3% of residents, SoL 36.
-Review pressures: Seasonal employment, inland roads and harbour fees.
-Evidence basis: national-current.json → other-vesalius-3160 (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+
+Port communes and island councillors coexist with hereditary land control and contested seasonal labour.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 161.31 | L-eq |
+| Civil works, health, education and agriculture per resident | 10.53 | L-eq / year |
+| Medicine / communications / power | 3 / 3 / 3 | each / 5 |
+| Treasury reserves | 3.28 | months of public spending |
+| Interest / public receipts | 2.44 | % |
+| Annual output trend | 1.1 | % |
+| Food / fuel domestic coverage | 105.858 / 60.0 | % · import exposure, not a shortage |
+| Defence / output | 9.001 | % · shown separately, not deducted twice |
+| Serving / population | 0.727 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 1–2 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 50.03; services 49.01; technology 50.0; health 47.87; resilience 77.97; voice 37.5; rights 37.5; tension 12.5; security 62.5; growth 61.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [49.6, 49.8] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → other-vesalius-3160. Political evidence reviewed 05/11/0068 AC43. Source description: Saultac is the best-charted inland market in a southeastern coastal region of small port communes and hereditary agricultural districts. Mainland and island harbours now complement the inland market on the chart. Pilots’ guilds set practical terms for coastal travel; inland houses control cultivated land and the roads supplying the harbours. Ceralte brokers buy provisions here without governing the coast. Rival communes share storm warnings but guard their harbour soundings. The region’s political disputes concern port fees, seasonal labour and who funds guarded access to inland markets, rather than a single national succession. Vessaline provides a charted coastal gateway, with defended access to Saultac. A dependency of the coastal port commune, governed by its harbour charter and resident island councillors. Charted island harbours: Vallarive.
+Year review: Vessaline and Vallarive pilot guilds issued revised local soundings and coordinated stores for visiting coasters. Saultac merchants accepted the new schedules. Ceralte buyers retain commercial access without Admiralty jurisdiction; no new channel or ocean route was created.
 
 ## Rovengard
-Winter stores and valley agriculture support a restrained material life; distant districts have fewer goods and services. Administrative and trading households enjoy much better supply.
-Crown protection is valued where it reaches, but distance and unequal access to officials limit practical remedies.
-Distribution: Lower-income households: 80% of residents, SoL 12; Intermediate households: 17% of residents, SoL 20; Privileged households: 3% of residents, SoL 37.
-Review pressures: Winter provisioning, spare parts and the reach of repair programmes.
-Evidence basis: national-current.json → rovengard (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+A winter pantry matters more than a fashionable fresh ingredient. Household drying racks and communal bake days bind city relatives to valley farms.
+Resident island councils are documented; the wider crown's household accountability is not specified.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 150.16 | L-eq |
+| Civil works, health, education and agriculture per resident | 12.49 | L-eq / year |
+| Medicine / communications / power | 3 / 3 / 3 | each / 5 |
+| Treasury reserves | 3.16 | months of public spending |
+| Interest / public receipts | 3.33 | % |
+| Annual output trend | 0.5 | % |
+| Food / fuel domestic coverage | 90.096 / 112.0 | % · import exposure, not a shortage |
+| Defence / output | 10.0 | % · shown separately, not deducted twice |
+| Serving / population | 0.821 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 0–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 48.24; services 53.27; technology 50.0; health 50.0; resilience 74.34; voice 37.5; rights 50.0; tension 12.5; security 62.5; growth 55.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [50.6, 49.6] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → rovengard. Political evidence reviewed 05/11/0068 AC43. Source description: Rovengard is Morholt's largest single monarchy, governed from Arvendal and linked to overseas trade through Halsavik. Eslovanne supplies general engineering, while productive southern districts support farming, food processing and timber industries. Cold northern towns depend on transport from those warmer basins. The crown's practical task is to keep provisions and obligations moving between communities separated by difficult country. Varnesk sells specialist machinery; Halskert and Galdresk are connected through local trade and provisioning routes. Large territorial claims and a substantial population therefore do not translate into an army free to abandon domestic roads, stores and defended settlements. Royal island districts with resident councils, coastal patrols and Halsavik supply contracts. Charted island harbours: Veltrund.
+Year review: Halsavik established a larger seasonal spare-parts reserve and Eslovanne workshops completed winter-damaged vehicle repairs. Timber and weather reports from Edrask now share the existing shipping post. Winter valleys remain restrictive; restored equipment does not create a year-round northern sea passage.
 
 ## Rovessara
-Commercial towns offer varied food, manufactured goods and skilled employment. Rent and import prices press on dock labourers while finance and precision trades support conspicuous wealth.
-Commercial representation and functioning contracts coexist with concentrated credit and unequal political access.
-Distribution: Lower-income households: 64% of residents, SoL 17; Intermediate households: 31% of residents, SoL 27; Privileged households: 5% of residents, SoL 46.
-Review pressures: Imported necessities, urban rents, labour disputes and colonial liabilities.
-Evidence basis: national-current.json → rovessara (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Fresh oil, mountain butter and imported spice coexist rather than defining one uniform national cuisine. Ice houses and refrigerated warehouses support the richest urban tables.
+Commercial councils and elected harbour councils give organised interests voice; general resident rights are unspecified.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 317.31 | L-eq |
+| Civil works, health, education and agriculture per resident | 19.32 | L-eq / year |
+| Medicine / communications / power | 4 / 5 / 5 | each / 5 |
+| Treasury reserves | 4.7 | months of public spending |
+| Interest / public receipts | 4.5 | % |
+| Annual output trend | 1.0 | % |
+| Food / fuel domestic coverage | 76.558 / 46.0 | % · import exposure, not a shortage |
+| Defence / output | 9.0 | % · shown separately, not deducted twice |
+| Serving / population | 0.693 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 0–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 66.33; services 63.8; technology 91.67; health 69.87; resilience 79.03; voice 37.5; rights 50.0; tension 12.5; security 62.5; growth 60.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [70.4, 70.9] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → rovessara. Political evidence reviewed 05/11/0068 AC43. Source description: Rovessara is a merchant republic governed through commercial councils. Bellacenne houses finance and administration, Avellori supplies precision instruments and electrical apparatus, and Pellavore connects both to overseas buyers. Temperate farming districts, seasonal lowlands and a dry interior give its domestic economy several distinct faces. Banks and shipping houses can finance projects far beyond the republic, but they cannot manufacture uninterrupted sea lanes or unlimited raw materials. Its strength lies in skilled production, credit and trade rather than the largest army. Inland towns consequently matter as food suppliers and customers, not merely as lesser copies of its fashionable port cities. Republican overseas districts administered through elected harbour councils and Rovessaran customs officers. Charted island harbours: Marcavisse.
+Year review: Pellavore yards delivered replacement patrol tonnage and Bellacenne insurers accepted shared convoy reporting from participating Seravelle ports. Precision workshops adopted interchangeable inspection standards on selected export contracts. Talascan levy litigation forced colonial administrators to negotiate; commercial influence did not become sovereignty over independent ports.
 
 ## Seravelle Littoral
-Harbour trade supports relatively comfortable skilled households, while indebted rural producers face foreclosure and expensive necessities. Safer convoy departures help without securing every feeder route.
-Commercial conventions protect cargo better than they resolve unequal rural credit or rival seizure claims.
-Distribution: Lower-income households: 76% of residents, SoL 12; Intermediate households: 21% of residents, SoL 21; Privileged households: 3% of residents, SoL 38.
-Review pressures: Freight security, harvest debt and disputed cargo seizures.
-Evidence basis: national-current.json → other-otranto-1450 (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+
+Harbour and estate jurisdictions retain local criminal law, while contested seizures and foreclosures limit practical recourse.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 135.61 | L-eq |
+| Civil works, health, education and agriculture per resident | 8.21 | L-eq / year |
+| Medicine / communications / power | 2 / 2 / 2 | each / 5 |
+| Treasury reserves | 4.2 | months of public spending |
+| Interest / public receipts | 5.33 | % |
+| Annual output trend | 0.5 | % |
+| Food / fuel domestic coverage | 105.474 / 60.0 | % · import exposure, not a shortage |
+| Defence / output | 9.001 | % · shown separately, not deducted twice |
+| Serving / population | 0.755 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 1–2 | / 4 evidence band |
+| Recorded domestic tension | 1–2 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 45.7; services 42.81; technology 25.0; health 32.32; resilience 76.93; voice 37.5; rights 37.5; tension 37.5; security 62.5; growth 55.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [40.4, 41.0] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → other-otranto-1450. Political evidence reviewed 05/11/0068 AC43. Source description: Astrellac’s harbour republic and the inland estate courts share the eastern littoral with smaller free ports. Their commercial convention standardises bills of lading but leaves taxes and criminal law local. Shipping families advance money against harvests; rural houses resent foreclosures by creditors who never leave the coast. Rovessaran insurers and instrument makers are influential customers. Port patrols cooperate against raiders, yet seize one another’s cargo when a debt dispute turns political. Hinterland towns depend on export warehouses for salt, tools and credit, which gives the harbours power beyond their formal borders. Astrellac’s chartered island dependencies within the Seravelle return. Resident councils administer land and fisheries; Astrellac supplies customs officers, escorts and bonded fuel depots. The other Seravelle courts remain independent. Charted island harbours: Cortessia, Vasselac, Rovellisse.
+Year review: Astrellac and participating ports began coordinated convoy departures and shared seizure notices on 18/06/0068. Successful escorts reduced exposure on the main trading axis; raiders shifted toward smaller feeders and isolated sailings. Rovessaran insurance now recognises those escorted departures, while contested debt seizures still require case-by-case judgement.
+Theatre maritime (05/11/0068 AC43): Maritime raiding; stronger convoy cooperation. Participating Seravelle ports began coordinated departures, shared seizure notices and escort cooperation in Month 6. Main-axis exposure declined while raiders shifted toward smaller feeders and isolated sailings. Ceralte’s sponsorship of raiders remains unproved.
 
 ## Serevask Republic
-Mountain households combine modest goods access with technical and communal institutions. Trade and water arrangements matter strongly to work and provisioning.
-Republican institutions retain local legitimacy; inherited debts and disputes constrain what they can deliver.
-Distribution: Lower-income households: 75% of residents, SoL 13; Intermediate households: 22% of residents, SoL 22; Privileged households: 3% of residents, SoL 35.
-Review pressures: Water releases, repair work and the distribution of debt costs.
-Evidence basis: national-current.json → serevask (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+The remnant government maintains public grain kitchens near its ministries. Former federal recipes outlast the tax union, while each successor claims its own version is the original.
+A republic and archives are established, but neither franchise coverage nor household remedies are specified.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 161.58 | L-eq |
+| Civil works, health, education and agriculture per resident | 9.32 | L-eq / year |
+| Medicine / communications / power | 4 / 3 / 3 | each / 5 |
+| Treasury reserves | 1.08 | months of public spending |
+| Interest / public receipts | 10.04 | % |
+| Annual output trend | 1.0 | % |
+| Food / fuel domestic coverage | 91.897 / 57.0 | % · import exposure, not a shortage |
+| Defence / output | 12.0 | % · shown separately, not deducted twice |
+| Serving / population | 1.119 | % · burden context, not approval |
+| Political voice | 0–4 | / 4 evidence band |
+| Civil safeguards | 0–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 50.07; services 45.96; technology 58.33; health 62.59; resilience 43.91; voice 50.0; rights 50.0; tension 12.5; security 62.5; growth 60.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [50.1, 50.9] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → serevask. Political evidence reviewed 05/11/0068 AC43. Source description: The Serevask Republic governs its own mountain, upland and forest districts from Serevienne. Vallorise remains an important engineering city, connected commercially to the states that once shared a southern basin federation. Varnelle, Kelbrun and Gavrel now levy their own taxes and command their own forces; old charters create claims over debts and water, not effective Serevask sovereignty. The republic retains archives, technical institutions and useful workshops, but has neither the population nor authority of the former union. Its citizens include mountain households dependent on lower provisions and lowland manufacturers dependent on cross-border customers. It has never governed Vesalius as a whole.
+Year review: A seasonal water-release and freight-document protocol was signed with participating Varnelle and Kelbrun authorities on 07/07/0068. Vallorise filtration workshops began exchanging repair specifications under it. Reconstruction debts and sovereignty remain disputed; Gavrel houses participate individually rather than through a restored federation.
 
 ## Skeldran Hearth Confederacy
-Cash incomes and imported comforts are low, but reciprocal shelter, local food and rescue duties buffer hardship. Severe winters still restrict diet and medical access.
-Hearth assemblies preserve strong local voice and customary land protection without requiring a wealthy central state.
-Distribution: Lower-income households: 86% of residents, SoL 12; Intermediate households: 13% of residents, SoL 17; Privileged households: 1% of residents, SoL 25.
-Review pressures: Winter stores, fuel scarcity and whether rescue obligations can be met.
-Evidence basis: national-current.json → skeldra (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Visitors eat from a host hearth’s stores; prolonged stays create reciprocal obligations.
+Hearth assemblies retain land and shelter rights under customary law and written harbour judgments.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 95.25 | L-eq |
+| Civil works, health, education and agriculture per resident | 4.22 | L-eq / year |
+| Medicine / communications / power | 2 / 2 / 1 | each / 5 |
+| Treasury reserves | 4.37 | months of public spending |
+| Interest / public receipts | 0.44 | % |
+| Annual output trend | 0.4 | % |
+| Food / fuel domestic coverage | 101.264 / 55.0 | % · import exposure, not a shortage |
+| Defence / output | 4.0 | % · shown separately, not deducted twice |
+| Serving / population | 0.483 | % · burden context, not approval |
+| Political voice | 3–4 | / 4 evidence band |
+| Civil safeguards | 3–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 37.16; services 27.79; technology 16.67; health 31.63; resilience 83.18; voice 87.5; rights 87.5; tension 12.5; security 62.5; growth 54.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [29.3, 31.2] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → skeldra. Political evidence reviewed 05/11/0068 AC43. Source description: The Skeldran Hearth Confederacy is a sovereign compact of island kin groups, fishing towns and grazing communities. Delegates meet at Skeldra; land and shelter rights remain with hearth assemblies. Customary law is transmitted through named custodians and written harbour judgments, with interpreters for several languages. Imported rifles, radios and motor boats coexist with wooden shipbuilding and household workshops. The confederacy grants seasonal anchorage permits but rejects permanent foreign garrisons. Sparse farmland and severe winters favour dispersed stores, reciprocal rescue duties and small defensive forces.
+Year review: Skeldra and Heskar hearth assemblies pooled radio spares and rescue-boat stores. A maintenance rotation kept existing sets usable through the shipping season. No foreign garrison, new aircraft industry or permanent central government followed the arrangement.
 
 ## Talascan Charter Islands
-Export wealth sits beside much poorer island households. Shipping and credit controlled by outside firms constrain the benefits of local production.
-Village councils retain some land authority, but colonial courts favour stronger commercial access. The levy suspension is a limited concession, not equal treatment.
-Distribution: Lower-income households: 83% of residents, SoL 10; Intermediate households: 14% of residents, SoL 22; Privileged households: 3% of residents, SoL 42.
-Review pressures: Compulsory levies, common pasture and the mixed inquiry's actual remedies.
-Evidence basis: national-current.json → talasca (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Company dining rooms and village kitchens use the same crops but distribute the best produce differently.
+Village councils retain some voice, but colonial courts and outside credit dominate land disputes; levy suspension covers only petitioning districts.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 175.19 | L-eq |
+| Civil works, health, education and agriculture per resident | 13.61 | L-eq / year |
+| Medicine / communications / power | 2 / 3 / 2 | each / 5 |
+| Treasury reserves | 2.25 | months of public spending |
+| Interest / public receipts | 2.05 | % |
+| Annual output trend | 0.4 | % |
+| Food / fuel domestic coverage | 108.115 / 22.0 | % · import exposure, not a shortage |
+| Defence / output | 6.0 | % · shown separately, not deducted twice |
+| Serving / population | 0.627 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 0–2 | / 4 evidence band |
+| Recorded domestic tension | 2–3 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 52.09; services 55.39; technology 33.33; health 38.57; resilience 74.68; voice 37.5; rights 25.0; tension 62.5; security 62.5; growth 54.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [49.7, 49.0] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → talasca. Political evidence reviewed 05/11/0068 AC43. Source description: Rovessara governs the Talascan chain through a colonial commissioner, customs posts and commercial leases. Island communities remain the majority and retain village land councils, but the colonial court decides disputes involving export estates and harbour property. Settler merchants and mainland firms control much of the credit and shipping. Councils contest compulsory road levies and the conversion of common pasture into export holdings. The commissioner depends on local pilots and negotiated water rights. These islands have long-established inhabitants and histories, not vacant land discovered by their present rulers.
+Year review: Month 6 refusal of compulsory road levies and common-pasture petitions reached the colonial courts. A temporary Month 9 order suspended disputed levies in the petitioning districts while a mixed inquiry examines leases. Export shipping continued. The concession is limited, not independence or an island-wide armed uprising.
+Theatre talasca (05/11/0068 AC43): Colonial unrest; interim judicial concession. Month 6 road-levy refusals and common-pasture petitions led to a Month 9 interim order suspending disputed levies in petitioning districts pending a mixed inquiry. Communities pursue differing aims and are not collectively rebels.
 
 ## Tervayne
-Ports offer skilled work, imported goods and commercial opportunity; inland households face slower access and fewer services. Shipping wealth is far from evenly distributed.
-Port families and industrial firms dominate national choices, while agricultural districts contest their share of costs.
-Distribution: Lower-income households: 68% of residents, SoL 16; Intermediate households: 28% of residents, SoL 25; Privileged households: 4% of residents, SoL 43.
-Review pressures: Food and fuel imports, naval taxation and inland transport access.
-Evidence basis: national-current.json → tervayne (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Sailors’ inexpensive meals favour salted fish; fresh shellfish signals a short journey from water to table. Inland villages are less maritime than the national reputation suggests.
+Port families, commercial houses and resident port councils influence government; general legal protection is unspecified.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 271.34 | L-eq |
+| Civil works, health, education and agriculture per resident | 22.18 | L-eq / year |
+| Medicine / communications / power | 4 / 4 / 4 | each / 5 |
+| Treasury reserves | 2.27 | months of public spending |
+| Interest / public receipts | 7.11 | % |
+| Annual output trend | 0.9 | % |
+| Food / fuel domestic coverage | 88.437 / 53.0 | % · import exposure, not a shortage |
+| Defence / output | 10.0 | % · shown separately, not deducted twice |
+| Serving / population | 0.718 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 0–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 62.75; services 66.93; technology 75.0; health 69.48; resilience 63.0; voice 37.5; rights 50.0; tension 12.5; security 62.5; growth 59.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [66.9, 66.0] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → tervayne. Political evidence reviewed 05/11/0068 AC43. Source description: Tervayne is a western Vesalian maritime state whose government and commercial houses occupy Tervessac. Tervassin handles ocean shipping; Brescalle builds marine and civil machinery. Cultivated districts supply provisions while upland towns provide timber and manufactured goods. Its trading networks face Otranto and Morholt across the western ocean, with only indirect connections to the eastern Marches through intervening governments and difficult country. Maritime wealth supports naval supply and overseas influence, not unrestricted inland conquest. Port families, industrial firms and agricultural districts consequently have different priorities, even when foreign merchants describe them collectively as a seafaring people. Overseas supply and navigation districts maintained by Tervayne’s maritime administration and resident port councils. Charted island harbours: Ostrelac.
+Year review: Brescalle supplied replacement marine engines and Tervassin commissioned replacement escort tonnage after older vessels were paid off. Naval trainees rotate through working repair yards. The maritime programme improved availability, but no through-railway to the Eastern Marches was built.
 
 ## Vallessia Cantons
-Granaries and market farming support basic security, though requisitions can remove household reserves. Commercial and landed families remain more comfortable.
-Elected boards, governors and estate courts compete. Written requisition limits improve recourse only where accepted and enforced.
-Distribution: Lower-income households: 79% of residents, SoL 13; Intermediate households: 18% of residents, SoL 21; Privileged households: 3% of residents, SoL 35.
-Review pressures: Harvest adequacy, requisition receipts and competing transport demands.
-Evidence basis: national-current.json → other-vesalius-2790-1410 (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+
+Elected grain boards secured limits and receipts for requisitions with appeal rights; only participating authorities are bound.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 161.1 | L-eq |
+| Civil works, health, education and agriculture per resident | 10.92 | L-eq / year |
+| Medicine / communications / power | 3 / 3 / 3 | each / 5 |
+| Treasury reserves | 2.06 | months of public spending |
+| Interest / public receipts | 5.31 | % |
+| Annual output trend | 0.7000000000000001 | % |
+| Food / fuel domestic coverage | 105.724 / 60.0 | % · import exposure, not a shortage |
+| Defence / output | 9.001 | % · shown separately, not deducted twice |
+| Serving / population | 0.741 | % · burden context, not approval |
+| Political voice | 2–3 | / 4 evidence band |
+| Civil safeguards | 2–3 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 50.0; services 49.91; technology 50.0; health 49.23; resilience 64.18; voice 62.5; rights 62.5; tension 12.5; security 62.5; growth 57.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [50.0, 50.0] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → other-vesalius-2790-1410. Political evidence reviewed 05/11/0068 AC43. Source description: Southern market cantons rebuilt around local granaries after the last major culling. Margeuil’s elected grain board, Darnenne’s military governor and the landed councils around Galigny compete over transport dues. Common measures for grain survived; a common treasury did not. Merchants connect warm lowland crops with cooler interior districts, using brokers who can guarantee passage through several authorities. Kelbrun buyers seek plantation produce and seasonal labour. Municipal councils resist the governors’ claim that every warehouse is a military asset, particularly after poor harvests make requisitions politically dangerous. Pravessant provides a charted coastal gateway, with defended access to Peillier. Dependencies of individual southern cantons, governed through resident councils and grain-shipping charters. Charted island harbours: Cervelune.
+Year review: Margeuil grain merchants secured written limits and receipts for requisitions by participating Darnenne commands. Galigny estate courts retain appeal rights. Repair workshops concentrated on wagons and artillery carriages; the settlement eased harvest transport but left the regional forces politically divided.
 
 ## Vardol
-Farm and industrial households bear substantial military demands. Procurement supports some jobs, but frontier uncertainty competes with ordinary household priorities.
-Crown and supplier interests carry more weight than poorer residents. De-escalation reduces immediate alarm without ending the burden.
-Distribution: Lower-income households: 78% of residents, SoL 12; Intermediate households: 19% of residents, SoL 21; Privileged households: 3% of residents, SoL 39.
-Review pressures: Frontier rotation costs, taxation and whether liaison prevents renewed escalation.
-Evidence basis: national-current.json → vardol (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Shift whistles govern supper in the industrial wards. Kitchen gardens and pickled cabbage cushion disruptions to the grain trains.
+Royal military administration and suppliers dominate; no broad resident franchise or remedy is established.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 185.64 | L-eq |
+| Civil works, health, education and agriculture per resident | 12.15 | L-eq / year |
+| Medicine / communications / power | 3 / 3 / 4 | each / 5 |
+| Treasury reserves | 1.67 | months of public spending |
+| Interest / public receipts | 10.23 | % |
+| Annual output trend | 0.6000000000000001 | % |
+| Food / fuel domestic coverage | 110.378 / 155.0 | % · import exposure, not a shortage |
+| Defence / output | 12.0 | % · shown separately, not deducted twice |
+| Serving / population | 1.271 | % · burden context, not approval |
+| Political voice | 0–1 | / 4 evidence band |
+| Civil safeguards | 0–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 53.54; services 52.58; technology 58.33; health 49.65; resilience 52.11; voice 12.5; rights 50.0; tension 12.5; security 62.5; growth 56.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [54.1, 54.3] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → vardol. Political evidence reviewed 05/11/0068 AC43. Source description: Vardol is a northern realm centred on Estrevigne's royal and military administration. Caldovre and surrounding cold-country cities concentrate arsenals, engineering and fuel processing; productive southern districts around Belmerac help feed them. The state can support a large military establishment but must also defend long supply routes and its rivalry with Averholt. Caldrienne is reached by the Valdrec road, not held as a subordinate province. Army procurement gives industrial suppliers political influence, while landed and commercial interests negotiate the cost. Its apparent strength therefore rests on maintaining a demanding system of food, fuel and transport rather than manpower alone. Calvessac provides a charted coastal gateway, with defended access to Quillaux. Northern crown claims maintained by lighthouse crews and seasonal naval stores. Remote interiors are not continuously occupied.
+Year review: A Month 8 frontier exercise and supply rotation alarmed Averholt. Month 9 liaison observers and advance exercise notices reduced the immediate risk of miscalculation without resolving territorial claims. Caldovre completed replacement armour and gun returns; frontier commitments still absorb the same broad share of the field force.
+Theatre vardol-averholt (05/11/0068 AC43): Armed rivalry; reciprocal exercise notices. Vardol’s Month 8 frontier exercise prompted precautionary Averholt rotations. Month 9 liaison observers and advance exercise notices reduced the immediate alarm. Territorial claims and permanent garrisons remain.
 
 ## Varessan Sea League
-Terrace farming, fisheries and shared water rights provide useful security despite dependence on imported engines and medicine. Material choice is narrower than in rich mainland ports.
-Island assemblies protect land and elect harbour officers. Customs exemptions and defence levies remain contested between carriers and cultivators.
-Distribution: Lower-income households: 79% of residents, SoL 14; Intermediate households: 19% of residents, SoL 21; Privileged households: 2% of residents, SoL 32.
-Review pressures: Import access and whether depot concessions shift costs onto farmers.
-Evidence basis: national-current.json → varessan (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Fresh water is served before wine at a guest meal; a full jug signals a household willing to share its cistern.
+Island assemblies elect harbour officers, retain land law and bar foreign ownership of freshwater catchments under shared courts.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 154.96 | L-eq |
+| Civil works, health, education and agriculture per resident | 10.96 | L-eq / year |
+| Medicine / communications / power | 2 / 3 / 2 | each / 5 |
+| Treasury reserves | 3.43 | months of public spending |
+| Interest / public receipts | 1.21 | % |
+| Annual output trend | 0.4 | % |
+| Food / fuel domestic coverage | 111.973 / 28.0 | % · import exposure, not a shortage |
+| Defence / output | 4.5 | % · shown separately, not deducted twice |
+| Serving / population | 0.5 | % · burden context, not approval |
+| Political voice | 3–4 | / 4 evidence band |
+| Civil safeguards | 3–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 49.03; services 50.0; technology 33.33; health 36.78; resilience 79.88; voice 87.5; rights 87.5; tension 12.5; security 62.5; growth 54.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [46.3, 46.1] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → varessan. Political evidence reviewed 05/11/0068 AC43. Source description: The Varessan Sea League unites five island assemblies under a charter covering convoys, foreign treaties and shared courts. Ardessa hosts the delegates, but each island retains land law and elects its harbour officers. Centuries of terrace cultivation and ocean navigation preceded mainland concessions. Shipwright families build wooden coasters and repair imported motor vessels. Treaty warehouses purchase wool, dried fish and fruit. The League permits leased depots but bars foreign ownership of freshwater catchments. Carrier houses seek closer mainland ties; cultivator assemblies resist customs exemptions that leave them paying the common defence levy.
+Year review: Ardessa and Velisar assemblies renewed leased-depot terms while reserving local water and pilot rights. Stored engine fittings restored a small patrol vessel. The five island assemblies remain self-governing; mainland merchants obtained service access rather than territorial annexation.
 
 ## Varnelle
-Delta cultivation and engineering provide moderate material security, with richer commercial ports beside less prosperous agricultural districts. Water and freight failures quickly reach household budgets.
-Commercial and water authorities supply useful services but also command powerful bargaining positions over inland customers and workers.
-Distribution: Lower-income households: 73% of residents, SoL 14; Intermediate households: 24% of residents, SoL 23; Privileged households: 3% of residents, SoL 39.
-Review pressures: Delivery reliability, customs burdens and access to basin repairs.
-Evidence basis: national-current.json → varnelle (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Fish sauce is an everyday seasoning rather than a luxury. Flood years alter rice prices across all four successor states.
+Port, water and commercial authorities have influence; individual household remedies are unspecified.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 192.12 | L-eq |
+| Civil works, health, education and agriculture per resident | 15.11 | L-eq / year |
+| Medicine / communications / power | 4 / 3 / 3 | each / 5 |
+| Treasury reserves | 3.39 | months of public spending |
+| Interest / public receipts | 3.3 | % |
+| Annual output trend | 1.3 | % |
+| Food / fuel domestic coverage | 113.248 / 64.0 | % · import exposure, not a shortage |
+| Defence / output | 10.0 | % · shown separately, not deducted twice |
+| Serving / population | 0.907 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 0–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 54.39; services 57.95; technology 58.33; health 64.87; resilience 77.28; voice 37.5; rights 50.0; tension 12.5; security 62.5; growth 63.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [56.6, 55.9] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → varnelle. Political evidence reviewed 05/11/0068 AC43. Source description: Varnelle is a delta state administered through port, water and commercial authorities centred on Varnessa. Serravole's shipping and Ceralvigne's engineering connect cultivated forest districts with overseas markets. Independence from Serevask followed disputes over reconstruction debts and customs after the former federation ceased functioning. Railway and business relationships survived that break. Merchants and water boards have considerable influence, while military establishments defend strategic approaches rather than replace civilian government everywhere. Rivessac, Kelbrun and Gavrel supply neighbouring markets. Control of freight and water makes Varnelle consequential to inland customers, but those customers remain separate political communities. Delta-authority island districts with customs houses, repair yards and provisioning farms. Charted island harbours: Cervallune.
+Year review: Varnessa and Serravole began using the Month 7 basin protocol for declared cargo and water notices. Ceralvigne filter and pump repairs reduced missed deliveries on participating routes. Customs revenue remains locally controlled; the agreement did not pool armies or cancel inherited debts.
 
 ## Varneselle Estates
-Fishing and timber households rely on imported grain and seasonal work. Port merchants and large estates enjoy much greater security than shore crews.
-Customary fishing rights remain vulnerable to estate claims; seasonal settlements offer limited protection.
-Distribution: Lower-income households: 81% of residents, SoL 11; Intermediate households: 16% of residents, SoL 19; Privileged households: 3% of residents, SoL 35.
-Review pressures: Grain freight, shore access and succession disputes.
-Evidence basis: national-current.json → other-morholt-2630 (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+
+Elected commercial port officers coexist with estate bailiffs and contested customary fishing access.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 129.98 | L-eq |
+| Civil works, health, education and agriculture per resident | 8.96 | L-eq / year |
+| Medicine / communications / power | 2 / 2 / 2 | each / 5 |
+| Treasury reserves | 2.33 | months of public spending |
+| Interest / public receipts | 2.88 | % |
+| Annual output trend | 0.4 | % |
+| Food / fuel domestic coverage | 74.991 / 116.0 | % · import exposure, not a shortage |
+| Defence / output | 9.002 | % · shown separately, not deducted twice |
+| Serving / population | 0.683 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 1–2 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 44.65; services 44.97; technology 25.0; health 34.28; resilience 70.52; voice 37.5; rights 37.5; tension 12.5; security 62.5; growth 54.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [40.9, 40.8] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → other-morholt-2630. Political evidence reviewed 05/11/0068 AC43. Source description: The eastern estates descend from competing settlement grants, with Varkessant’s port charter carved out of the landed claims. Estate bailiffs administer courts and patrol obligations; the port elects its own commercial officers. Fishing communities resist attempts to classify their customary shore access as a landlord’s concession. Halskert buys fish and timber and sells grain, giving its merchants leverage in disputes over freight. Family alliances cross estate borders, but succession cases repeatedly fragment holdings. Seasonal workers move between shore crews and inland workshops, carrying news faster than the formal post. Varkessant’s port-charter dependencies; the mainland estate courts retain their separate jurisdictions. Charted island harbours: Cersund.
+Year review: Varkessant buyers renewed Halskert grain contracts and Cersund estates accepted a seasonal fishing-access settlement. Harbour repairs returned a small patrol craft to service. House and harbour rights remain separate, and access after winter ice still depends on local pilots.
 
 ## Varnesk
-Skilled mining and industrial work can pay well; ordinary workers remain exposed to hard conditions and imported grain prices. Proprietors benefit disproportionately from mineral sales.
-Mining councils and industrial owners offer uneven representation. Disputed concessions and dependence on employer-linked commerce sustain grievances.
-Distribution: Lower-income households: 74% of residents, SoL 14; Intermediate households: 23% of residents, SoL 23; Privileged households: 3% of residents, SoL 40.
-Review pressures: Grain costs, workplace protection and concession disputes.
-Evidence basis: national-current.json → varnesk (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Canteens portion meat by shift entitlement. A late supply train can turn dumplings into thin flour soup without stopping the furnaces.
+Mining councils, proprietors and municipal councils govern; workforce voice and civil remedies are not established.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 236.73 | L-eq |
+| Civil works, health, education and agriculture per resident | 16.31 | L-eq / year |
+| Medicine / communications / power | 4 / 3 / 4 | each / 5 |
+| Treasury reserves | 3.94 | months of public spending |
+| Interest / public receipts | 3.97 | % |
+| Annual output trend | 0.8 | % |
+| Food / fuel domestic coverage | 66.486 / 146.0 | % · import exposure, not a shortage |
+| Defence / output | 10.999 | % · shown separately, not deducted twice |
+| Serving / population | 0.932 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 0–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 59.5; services 59.82; technology 66.67; health 65.81; resilience 77.95; voice 37.5; rights 50.0; tension 12.5; security 62.5; growth 58.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [61.1, 61.0] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → varnesk. Political evidence reviewed 05/11/0068 AC43. Source description: Varnesk is a league of mining councils and industrial proprietors meeting at Corsavik. Norsavia's specialist steel and machinery are valued across Morholt, and southern cultivated towns supply part of the league's food. Cold extraction districts still depend on imported grain and negotiated transport. Commercial relationships with Rovengard and the Haldrevik concessions give its firms influence beyond league borders. Industrial owners and municipal councils can agree on a profitable contract more readily than a prolonged foreign campaign. Technical skill is concentrated in workshops and training networks, not evenly distributed through every settlement or available without fuel, materials and labour. Rovensk provides a charted coastal gateway, with defended access to Garenorrin.
+Year review: Norsavia bearing and toolmakers fulfilled deferred maintenance orders, including machinery for Haldrevik. Buyers increasingly specify common gauges and replacement dimensions. Factory throughput improved without a new class of weapon; imported food and disputed foreign concessions still constrain expansion.
 
 ## Vaulcerre Basin Leagues
-Grain, milling and fertiliser work support households when releases arrive on time. A withheld gate can threaten livelihoods far beyond the immediate dispute.
-Separate water commands and councils offer negotiated protection, unevenly enforced across estate boundaries.
-Distribution: Lower-income households: 80% of residents, SoL 11; Intermediate households: 17% of residents, SoL 20; Privileged households: 3% of residents, SoL 35.
-Review pressures: Gate maintenance, water allocation and enforceability of arbitration.
-Evidence basis: national-current.json → other-otranto-1100 (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+
+Commercial and estate councils share an enforceable water compact and arbitration; representation remains sectional.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 135.37 | L-eq |
+| Civil works, health, education and agriculture per resident | 8.91 | L-eq / year |
+| Medicine / communications / power | 2 / 2 / 2 | each / 5 |
+| Treasury reserves | 2.57 | months of public spending |
+| Interest / public receipts | 4.58 | % |
+| Annual output trend | 0.5 | % |
+| Food / fuel domestic coverage | 105.286 / 60.0 | % · import exposure, not a shortage |
+| Defence / output | 8.999 | % · shown separately, not deducted twice |
+| Serving / population | 0.678 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 2–3 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 45.66; services 44.85; technology 25.0; health 34.22; resilience 70.37; voice 37.5; rights 62.5; tension 12.5; security 62.5; growth 55.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [41.2, 41.4] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → other-otranto-1100. Political evidence reviewed 05/11/0068 AC43. Source description: Anselleuil’s reservoir command, Jarnan’s commercial council and the estate assemblies around Votane share a drainage basin but not a government. Their water compact survived the destruction of the authority that first imposed it. Gates must open in an agreed order; delaying an upstream release can destroy a downstream planting season. Brannervaux engineers are employed as arbitrators and suspected of favouring their own merchants. Grain barges, mill repair and fertiliser works sustain the towns. Disputes usually begin as inspections, impoundments and unpaid maintenance bills before soldiers become involved. Cortelune provides a charted coastal gateway, with defended access to Leignay. Offshore charter communities of the basin leagues, sharing pilots and navigation dues without a unified sovereign. Charted island harbours: Cernavie.
+Year review: Anselleuil reservoir keepers and Jarnan councils renewed the water-sharing compact with Votane estates, using Brannervaux arbiters for disputed measurements. Scheduled gate maintenance was completed. The renewal reduced local delivery disputes without settling all estate claims or creating a federal treasury.
 
 ## Veldrassen
-Lowland farm households have dependable local produce in ordinary seasons, but rents and levies restrict purchases. Railway and engineering workers have better cash access; court and landed households live far above the mean.
-Provincial estates mediate protection and taxation. Bargaining preserves local liberties unevenly and does not give poorer households equal access to influence.
-Distribution: Lower-income households: 74% of residents, SoL 13; Intermediate households: 23% of residents, SoL 22; Privileged households: 3% of residents, SoL 40.
-Review pressures: Freight reliability, estate levies and access to industrial wages.
-Evidence basis: national-current.json → veldrassen (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Altitude matters as much as latitude. Mountain towns import much of their grain, while court menus display produce from every province as a claim to unity.
+Provincial estates constrain crown levies; ordinary household participation and remedies are not established.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 246.59 | L-eq |
+| Civil works, health, education and agriculture per resident | 17.65 | L-eq / year |
+| Medicine / communications / power | 4 / 4 / 5 | each / 5 |
+| Treasury reserves | 2.52 | months of public spending |
+| Interest / public receipts | 7.49 | % |
+| Annual output trend | 1.1 | % |
+| Food / fuel domestic coverage | 103.67 / 190.0 | % · import exposure, not a shortage |
+| Defence / output | 11.0 | % · shown separately, not deducted twice |
+| Serving / population | 1.076 | % · burden context, not approval |
+| Political voice | 1–2 | / 4 evidence band |
+| Civil safeguards | 0–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 60.48; services 61.69; technology 83.33; health 66.77; resilience 65.03; voice 37.5; rights 50.0; tension 12.5; security 62.5; growth 61.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [65.5, 65.3] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → veldrassen. Political evidence reviewed 05/11/0068 AC43. Source description: Veldrassen is a composite monarchy whose mountain court at Cavrelisse presides over provinces ranging from tropical cultivation to cold industrial uplands. Mondessore's locomotive works and a large railway economy give the crown considerable military weight; provincial estates nevertheless control much of the revenue and recruitment on which it depends. The lowlands sell food and forest products uphill, while machinery and government contracts travel back down. Coal exports and heavy engineering sustain foreign influence. Court ceremony presents this diversity as unity, but extraordinary levies still require bargaining. Cervaud is a neighbouring buffer and customer, not a province awaiting effortless annexation. Valdorelle provides a charted coastal gateway, with defended access to Latosane. A provincial coastal dependency with fishing villages and navigation stations supplied from Valdorelle.
+Year review: Mondessore works completed a locomotive overhaul programme and adopted common inspection gauges across participating provincial depots. Through-freight availability improved, but provincial procurement remains divided. Replacement armoured vehicles and aircraft entered service; obsolete and worn machines were withdrawn. No consolidation of provincial armies occurred.
 
 ## Veylac
-Industry supports substantial skilled wages and urban services, while imported food and fuel make household bills vulnerable. The damaged relay district remains less secure than recovered urban centres.
-Municipal representation gives residents channels to contest policy; industrial labour disputes and uneven recovery still matter.
-Distribution: Lower-income households: 68% of residents, SoL 16; Intermediate households: 28% of residents, SoL 25; Privileged households: 4% of residents, SoL 42.
-Review pressures: Import prices, labour conditions and distribution of Hunter-strike recovery.
-Evidence basis: national-current.json → veylac (description, constraints, food culture and dated Year 68 review). The social figures are newly authored estimates, not previously recorded measurements.
+Cooperative dining rooms compete with private factory canteens. Imported coastal fish is popular but more expensive than the local root-and-grain staples.
+Municipal representation and contested labour participation are explicit; civil remedies are not specified.
+| Input | Value | Unit / meaning |
+|---|---:|---|
+| Annual output per resident | 267.77 | L-eq |
+| Civil works, health, education and agriculture per resident | 19.57 | L-eq / year |
+| Medicine / communications / power | 4 / 4 / 4 | each / 5 |
+| Treasury reserves | 2.28 | months of public spending |
+| Interest / public receipts | 7.11 | % |
+| Annual output trend | 1.1 | % |
+| Food / fuel domestic coverage | 84.878 / 73.0 | % · import exposure, not a shortage |
+| Defence / output | 11.0 | % · shown separately, not deducted twice |
+| Serving / population | 1.086 | % · burden context, not approval |
+| Political voice | 2–3 | / 4 evidence band |
+| Civil safeguards | 0–4 | / 4 evidence band |
+| Recorded domestic tension | 0–1 | / 4 evidence band |
+| Security pressure | 1–2 | / 4 evidence band |
+
+Calculated components (0–100): output 62.44; services 64.1; technology 75.0; health 68.02; resilience 63.54; voice 62.5; rights 50.0; tension 12.5; security 62.5; growth 61.0.
+Alternative material weights 40/40/20 and 60/20/20 produce [65.6, 65.3] respectively. These are sensitivity checks, not household confidence intervals.
+Evidence: national-current.json → veylac. Political evidence reviewed 05/11/0068 AC43. Source description: Veylac is an industrial republic centred on Alescogne's councils, Bellorante's machine-tool works and Rionvesse's ocean trade. Municipal and commercial representation gives organised towns influence, while labour's place in government remains contested. Temperate farming districts provision cold upland factories; dry interior towns specialise in transport and practical manufacturing. Skilled metallurgy gives the republic valuable exports and military equipment, but imported food and fuel remain strategic dependencies. Ossavren's divided neighbours create both markets and frontier risks. The republic's cities are linked by production and commerce, without sharing one uniform climate, social hierarchy or relationship with factory employers. Veylac customs and lighthouse districts protecting its southern approaches. Charted island harbours: Cavresset.
+Year review: Bellorante dispersed critical gauges and duplicate drawings after a Hunter strike on an outlying industrial relay and repair depot on 12/04/0068. Replacement communications restored the main service in Month 5; loss and workshop withdrawal exceeded completed armoured-vehicle returns. Rionvesse continued shipping. Machine-tool output recovered unevenly and exposed frontier sites still lack full redundancy.
