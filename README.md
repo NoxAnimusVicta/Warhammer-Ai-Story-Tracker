@@ -1,3 +1,5 @@
+Narrator documentation update: [Research progression and shared discoveries](RESEARCH-PROGRESSION.md) records the accepted framework from exchanges 600-604. The app remains at its dated revision-72 milestone; the exact transcript records subsequent play through the 06/11 briefing and the later OOC agreement. This documentation-only update adds no app panels or hypothetical project entries.
+
 Current story date: **05/11/0068 AC43** (day/month/year after Culling 43). See [the calendar](CALENDAR-REFERENCE.md).
 
 # Malaspina — data-slate

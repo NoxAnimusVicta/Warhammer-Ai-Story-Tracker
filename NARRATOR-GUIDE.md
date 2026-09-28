@@ -2,6 +2,10 @@
 
 This is an ongoing, player-led Warhammer 40,000 campaign, not a completed story. The phone data-slate is the player's read-only reference. This guide is outside the fiction and is not displayed in the slate.
 
+Research and invention: read [RESEARCH-PROGRESSION.md](RESEARCH-PROGRESSION.md) before any research scene or time skip. It controls cumulative research, shared technologies, production milestones and conditional Hunter-plasma estimates. The app shows projects, not these narrator rules.
+
+The checkpoint below is the published revision-72 snapshot (05/11). The exact transcript now continues through the 06/11 district briefing, exchange 599, followed by the research agreements in 600-604; use those later exchanges for live narration.
+
 ## Start here on a new account
 
 1. Read this guide, [CURRENT-CONTINUITY.md](CURRENT-CONTINUITY.md) and [PHYSIOLOGY-REFERENCE.md](PHYSIOLOGY-REFERENCE.md) completely. The physiology reference controls sleep, stamina, injury response, psychic reserves and the mature Custodian comparison; older scene wording cannot override it.

@@ -13749,3 +13749,375 @@ The broader check also found and corrected outdated **court ages and command-ten
 ## 594 - User - OOC complete documentation update
 
 May as well take your time and just update all the github documentation and read anything you edit in full before editing so you have full context. Please take your time to ensure there are no errors, mistakes, inconsistencies or outdated info
+
+
+## 595 - Assistant - OOC full documentation update published
+
+Updated and published [revision 72](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=99a325ccd1aa30e9130a#dossier), aligned to **05/11/0068 AC43, evening at Cressault**.
+
+The update reconciles:
+
+- Current narrative, relationships, age, location and pending commitments.
+- Rifle allocation, ammunition expenditure, training authority and the next intelligence briefing.
+- Personal, household and commission accounts.
+- Population, economic and military records, with explicit dates and explanations where figures remain unchanged.
+
+Historical records remain preserved. The local continuity files and private handover have also been refreshed.
+
+**All 18 verification suites passed; all 71 live public files match the verified release.** Desktop and phone layouts were checked. The [documentation audit](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/DOCUMENTATION-AUDIT.md) records the review.
+
+No story time has advanced.
+
+
+## 596 - User - Overnight base survey and second training day
+
+I spend most of the night walking around the base, taking notes. Learning what I can about the supplies, tactics, placement of shelter, food, water, accessibility to clean and dry clothing, weapon maintenance, fuel coverage and distribution, ammunition supplies, overall combat readiness, serviceable armor, aircraft and artillery, how the base defenses were constructed, with what and why. Just learning and taking notes to grow my mind, expand my possibilities and keep myself occupied. I spend the remainder of the next day ensuring the men continue their training on schedule and are meeting my expectations and at the end of the day I head to the transport with Desmaret as we make our way to district headquarters and attend the meeting with Major Vauzel
+
+## OOC progress before exchange597
+
+I’ll check the current border notes and briefing arrangements, then carry the scene through your overnight survey, the second training day and the meeting with Major Vauzel.
+
+The records confirm seven training days and tonight’s 18:00 briefing. I’m keeping the survey grounded in what Galahad can inspect locally, with district-wide equipment readiness and enemy deployments coming from headquarters’ returns.
+
+## 597 - Assistant - The base as a working system
+
+The base changes character after the last working lamps go out.
+
+In daylight, it is a place of shouted instructions and moving columns. At night, its quieter machinery becomes audible: water knocking through a pipe, a stove drawing badly, the uneven idle of an engine outside the transport shed. Somewhere behind the kitchens, a man scrapes a cooking pot with the weary persistence of someone who has been given this duty too often.
+
+You follow those sounds with your notebook open.
+
+The sentries recognise you. After the first few explanations, a duty NCO accompanies you between stores and workshops, carrying keys and a shaded lamp. He begins by answering questions formally. By the time you reach the clothing store, he is pointing things out before you ask.
+
+“Those shelves, my lord. Bottom two. We stopped putting blankets there.”
+
+The wall behind them is wet.
+
+There are spare blankets in the building. There is soap, too, and replacement clothing. Availability on a stock sheet, however, is different from a dry garment reaching a soldier before his next duty. Damp articles wait for drying space; repaired clothing waits for collection; a stove consumes fuel while warming more roof than room. You trace the process through several hands and find small delays accumulating into the complaints you heard yesterday.
+
+Your pencil moves rapidly.
+
+At the kitchens, the smell of boiled pulses and onion has settled into the timber. Bread rests beneath cloths; sacks stand on raised boards. The cook shows you the ration return, then the pot actually going out to the men. There is sufficient food here. What interests you is how much work stands between its arrival and a hot meal, and which parts of that work become unreliable in rain or during an alarm.
+
+The water arrangements reveal a similar mixture of good practice and inherited inconvenience. Covered storage is inspected; drinking water is treated before issue. Washing and laundry compete for attention when demand rises. You compare the written routine with stained paving, overflow marks and the routes men actually take with buckets.
+
+No single discovery dominates your notes. Each belongs to a larger picture.
+
+***
+
+The repair shed smells of lubricating oil, cold iron and damp wool.
+
+A mechanic wipes his hands before allowing you to examine his return. Vehicles awaiting parts occupy space beside vehicles that could leave tonight. Their entries are distinguished properly in his book; in a broader establishment total, both would still appear as vehicles possessed.
+
+“Can run,” he says, tapping one column. “Can be relied upon to finish the journey. Those aren't always the same answer.”
+
+You examine wear, maintenance records and the competing demands on the workshop. Fuel has its own account; so do the containers and transport needed to move it. Your notes begin linking these records to one another. A delivery schedule assumes a vehicle. The vehicle assumes a repair. The repair assumes a component still recorded as being somewhere upriver in the supply system.
+
+At the weapon stores, the care is more immediate. Locks, signed issues, counted returns. The new rifles have attracted considerable attention, but older equipment still fills most of the base's routines. You watch men clean and inspect it, noting where instruction is understood and where a procedure is merely remembered.
+
+You also ask after armour, artillery and aircraft. The answers establish the limits of this particular post. Its own stores cannot tell you the readiness of every supporting battery or vehicle formation, and aviation is administered beyond the company establishment. You record the responsible offices and the dates of the returns available here. Tonight's headquarters briefing will let you connect what you have seen to the larger force.
+
+Outside, the defensive works reveal their history in layers. Earth and timber sit beside masonry reused from older structures; more permanent work has been added where a temporary position became a long posting. Repairs differ in age and quality. One shelter's awkward placement makes more sense when the NCO explains which building stood there before it.
+
+“They put that up first. The rest grew around it.”
+
+You can see the sequence now: urgent decisions, later improvements, compromises preserved because moving them would interrupt something else. You sketch relationships between structures and annotate the purposes their builders intended, alongside the problems experience has exposed.
+
+By dawn, you have filled pages with observations that no single departmental return contains. The base has become a connected system in your mind—people, materials, habits and delays, each affecting several others.
+
+You remain clear-headed as the first kitchen fires brighten.
+
+***
+
+The second training day gives you a different measure of progress.
+
+Yesterday, the men could perform much of the work while you stood beside them. Today, you move between groups and let their sergeants carry more of the instruction. You return without announcement, ask for explanations and watch what happens when a man has to identify his own mistake.
+
+The improvement is substantial.
+
+The slower groups begin catching up. Familiarity makes the experienced soldiers less stiff with the new weapon, while their NCOs become better at recognising uncertainty before it turns into a repeated bad habit. During an afternoon check, a corporal pauses an exercise and corrects his own explanation before you need to intervene.
+
+Desmaret notices.
+
+“That is what I wanted to see,” he says quietly. “Something they can keep doing when you're elsewhere.”
+
+There are still individual points in your training book, but no section is being left behind. You finish the planned work in time for the evening appointment. **Two of the seven training days are complete.**
+
+The day's live practice uses **800 ordinary rounds**. Serault enters the return: **9,558 rounds remaining—8,000 armour-piercing and 1,558 ordinary**.
+
+“At this rate, we'll want the next ordinary issue arranged before the later sessions,” he tells you. “I'll put the requirement through stores against the remaining programme allowance. I'll bring you the quantity and valuation before we draw it.”
+
+He keeps the spent ammunition separate from new expenditure: it was already paid for when issued.
+
+***
+
+Your transport is a military utility lorry, its rear cleared sufficiently for your stature. Desmaret climbs in beside you with a leather document case. The driver waits until you are settled before engaging the gears.
+
+Evening gathers over the road. The base recedes behind you in pools of lamplight and low smoke. Desmaret watches your notebook for a moment.
+
+“The night staff tell me you've seen more of their working arrangements than most inspection parties.”
+
+He draws his coat tighter against the draught.
+
+“They also tell me you asked why before telling anyone they were wrong. That has been noticed.”
+
+At district headquarters, your papers are expected. A sentry checks the names, another takes you through the entrance, and a clerk leads you past a telephone room where voices overlap beneath the steady clatter of a typewriter.
+
+The briefing room is warm enough to smell of drying coats. A large dated map occupies the central table. Beside it lie separate bundles of reports, several marked with corrections in another hand.
+
+Major Mathis Vauzel rises as you enter. His gaze travels briefly up your full height before returning to your face. Desmaret introduces you; the major offers his hand.
+
+“Lord Orsival. Captain. Thank you for being punctual.”
+
+An operations officer stands beside the far end of the table, with movement returns and a railway timetable laid out before him. Vauzel indicates a cleared place where you can examine the map without folding yourself into one of the small chairs.
+
+“Captain Desmaret sent a useful request. I've brought the underlying returns as well as the appreciation.”
+
+He opens the first folder.
+
+“We'll distinguish troops identified opposite this district from formations that could reinforce them. The operations staff will then take you through what transport and readiness do to the timings. A formation appearing on an establishment list is only the beginning of that calculation.”
+
+Desmaret sets his case down and takes his place beside you.
+
+The clock reaches eighteen hundred. Vauzel draws the dated situation map into the centre of the lamplight, and the briefing begins.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years and 3 months, plus roughly a week or two; chronological estimate. Physically mature at approximately 3 metres.  
+**Date:** 06/11/0068 AC43 — 18:00, district headquarters; intelligence briefing beginning.  
+**Reputation:** Growing professional confidence among Desmaret's company and the base staff; recognised for practical instruction and close attention to their working conditions.  
+**Weapons (Equipped):** None presently. 160 military rifles issued; 27 in reserve.  
+**Armor/Clothing (Equipped):** Charcoal coat, shirt, dark trousers and leather boots; signs of the night's survey and day's instruction. Uninjured and functional.  
+**Gear/Inventory:** Commission papers, training records and new base-survey notes. **9,558 rounds remaining: 8,000 armour-piercing, 1,558 ordinary. Training day 2 of 7 complete.** Further ordinary ammunition requested through Serault; no additional issue yet received.  
+**Currency:** **659 personal lorrats; 1,160 household lorrats** (148 reserved, 1,012 uncommitted). Programme: **14,094 recognised costs + 180 commitments + 3,726 headroom = 18,000**, including today's established staff and commission accruals; no new personal payment.
+
+
+## 598 - User - Corridor intelligence assessment
+
+I listen as the meeting goes on and take various notes until I can assemble all the information into my concrete estimate of amassed forces by Caldrienne that are active in the Cressault Corridor. Ensuring I have access to all the information I am able to get, using my constant subconscious pressure of comfort and ease to coax more information from the Major
+
+## OOC progress before exchange599
+
+I’ll check the frontier and military records before resolving Vauzel’s briefing, so the corridor estimates fit the established forces and what his staff could know.
+
+## 599 - Assistant - The corridor appreciation
+
+Vauzel begins with the dates.
+
+He places a short stack of reports beside the map, turning each so you can see its heading.
+
+“Consolidated this afternoon. The newest observations are from this morning; several of the rear-area estimates are four days old. Where we've carried an older identification forward, it's marked.”
+
+You listen, and your pencil begins to move.
+
+The first half-hour gives you the framework: which formations his staff believes are present, what functions they perform, and how far the word *Cressault* extends in this particular return. The corridor includes the forward positions, supporting camps and the immediate administrative rear. It does not mean every Caldriennian soldier along the entire disputed frontier.
+
+Your presence gradually softens the room. Vauzel's shoulders settle; the operations officer stops arranging his papers whenever you look towards him. Their answers grow longer and less rehearsed. When you ask what supports a figure, the major begins reaching for the underlying report rather than repeating the conclusion.
+
+“Here. This is why we haven't accepted the higher number.”
+
+He slides another sheet across.
+
+The working papers prove more valuable than the polished appreciation. They preserve the arguments his staff had before agreeing on the final wording.
+
+***
+
+You assemble the figures almost as quickly as he supplies them.
+
+Unit identifications, dated observations, transport reports and administrative estimates settle into distinct places in your notes. You mark where two reports could describe the same movement. Where a number represents authorised establishment rather than men believed present, you keep it separate.
+
+Once, you turn back several pages and lay two reports beside one another.
+
+Vauzel follows your indication, reads the dates, then draws his own copy closer.
+
+“Yes. Those are the same relief movement. The summary already excludes the duplicate, but the supporting sheet should say so.”
+
+He pencils a correction into the margin.
+
+After that, he leaves the working folder within your reach.
+
+By the time the first pot of tea has cooled, you have a concrete estimate of the **Caldriennian personnel currently present in the Cressault Corridor**:
+
+| Function | Working estimate | Credible range |
+|---|---:|---:|
+| Forward infantry and personnel attached to the defended positions | 7,800 | 7,000–8,500 |
+| Local manoeuvre reserve and its immediate support | 4,200 | 3,000–4,500 |
+| Artillery, engineers, signals, transport, medical, headquarters and rear services | 6,400 | 6,000–8,500 |
+| **Total already in the corridor** | **18,400** | **16,000–21,500** |
+
+These categories divide the same force; the gunners and vehicle crews are not additional men to add afterwards.
+
+“Eighteen thousand four hundred,” Vauzel says, reading the total you have written. “A sound working figure. I would be comfortable putting my name beside that estimate, with the range retained.”
+
+Desmaret studies the breakdown.
+
+“And fewer than half of them actually in the forward positions.”
+
+“At present,” the major replies. “The remainder are still part of the force sustaining those positions.”
+
+The estimate makes the scale clear. You are studying a substantial standing deployment maintained through an armed truce. There is no evidence in these papers of a newly assembled invasion army waiting for an order tonight.
+
+***
+
+Equipment takes longer to reconcile because some returns describe holdings and others describe availability.
+
+You keep the distinction visible.
+
+| Caldriennian equipment | Current corridor assessment |
+|---|---|
+| Serviceable tanks and armoured cars | **96–124**, working estimate **110**; mixed types, not 110 equivalent tanks |
+| Serviceable artillery pieces | **144–180**, working estimate **160**; infantry mortars excluded |
+| Aircraft allocated at supporting district airfields | **28–36**; these airfields also have duties beyond Cressault |
+| Aircraft estimated serviceable on a given day | **18–26**; weather, crews and other assignments further affect availability |
+
+The operations officer rests a finger beside the aviation entry.
+
+“Those are aircraft we believe could support this district. They aren't all circling over the corridor, and we can't promise their commanders will release every serviceable machine to the same task.”
+
+Vauzel adds the observation dates beside your figures. Armour and gun estimates have stronger support than daily aircraft readiness. None of these holdings is added to the national totals: they are part of Caldrienne's existing forces.
+
+For comparison, the Veyrassian return records **approximately 11,600 personnel assigned to the corresponding corridor district**, including its supporting services. Its current return lists **44 serviceable tanks and armoured cars and 96 artillery pieces**. Desmaret's company is already included in the personnel count.
+
+The imbalance is considerable, particularly in armour. It is also more specific than simply placing both nations' entire armies opposite one another on a map.
+
+***
+
+As the discussion becomes more comfortable, Vauzel begins volunteering the reservations that do not appear prominently in the formal summary.
+
+“The figure I'd be least willing to defend to the last man is the rear-services return. We can identify the establishments more confidently than we can count who's actually occupying them this week. Leave, detached work parties, men passing through—the paper strength moves more neatly than the people do.”
+
+You ask for the reports behind that judgement. He supplies dated extracts and the staff's confidence notes, keeping the identities of individual informants covered in the source register.
+
+“You can retain these extracts with your commission papers. I want the uncertainty to travel with the numbers.”
+
+Your calming influence makes candour easier. Coupled with the speed and precision of your questions, it brings you into the discussion as someone worth consulting. The major begins asking whether a qualification is reflected clearly enough in your synthesis, instead of simply checking whether you have copied his figures.
+
+The operations officer then takes you through reinforcement estimates.
+
+The **local reserve is already included in the 18,400**. Its first elements could respond within hours, with a broader local movement taking roughly **six to eighteen hours** after orders, depending on readiness and conditions.
+
+Beyond that, the staff assesses:
+
+- **Another 8,000–12,000 serving personnel** could enter the corridor over approximately **two to four days** following a deliberate reinforcement order.
+- A further **15,000–22,000**, additional to that first increment, could plausibly arrive over approximately **seven to twelve days from the same order**, if Caldrienne prioritised the theatre and accepted the demands elsewhere.
+
+Those are conditional movements of existing forces, not reservists already mobilised or men secretly present tonight. Arrival also precedes full organisation and sustained employment of the arriving formations.
+
+Your notes therefore distinguish the present estimate from a possible later concentration: **18,400 now**, potentially **about 41,400–52,400** after both external increments, using the present central estimate as the starting point. You underline the conditions beneath that second figure.
+
+Vauzel watches you finish.
+
+“That is the position as we understand it, Lord Orsival. They have the means to make this a much larger contest. We have no corroborated order showing that they've decided to do so.”
+
+By now, the separate reports form a coherent picture in your mind. You can retain the likely strength, the wider bounds and the evidence behind each without losing their distinctions. Several questions that seemed equally important at the start of the meeting now stand out as the ones whose answers could materially change the estimate.
+
+The major closes his presentation folder but leaves the supporting papers open between you.
+
+“What would you like us to examine more closely?”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years and 3 months, plus roughly a week or two; chronological estimate. Physically mature at approximately 3 metres.  
+**Date:** 06/11/0068 AC43 — evening, district headquarters; intelligence briefing in progress.  
+**Reputation:** Gaining professional respect from Major Vauzel and the operations staff for rapid, precise analysis; established confidence among Desmaret's company.  
+**Weapons (Equipped):** None presently. 160 military rifles issued; 27 in reserve.  
+**Armor/Clothing (Equipped):** Charcoal coat, shirt, dark trousers and leather boots. Uninjured and functional.  
+**Gear/Inventory:** Commission papers, training and base-survey notes; authorised intelligence extracts and a consolidated corridor assessment. **Caldrienne: approximately 18,400 personnel present, credible range 16,000–21,500.** Ammunition unchanged: **9,558 rounds—8,000 armour-piercing, 1,558 ordinary.** Training day 2 of 7 complete.  
+**Currency:** **659 personal lorrats; 1,160 household lorrats** (148 reserved, 1,012 uncommitted). Programme unchanged: **14,094 recognised costs + 180 commitments + 3,726 headroom = 18,000**. No new purchase or payment.
+
+
+## 600 - User - OOC technology research difficulty
+
+How long would it take Galahad to reverse engineer one of the Hunter’s plasma weapons if he had a fully functioning one infront of him? Is there a scale for how hard technology is to unlock? This is somewhat nebulous as Cawl and Bile seem to make massive advancements constantly and then Iron Hands supposedly being able to do their own form own biotransference in a way to survive past the point of death. But then you have Necrons like that guy whose name escapes me who has been studying biotransference and helped created it and still doesn’t full understand it. But the Necrons beat the C’tan so they had to have functional knowledge of all this tech at some point and you have Necrons like the silent king who didn’t sleep and this should not have degraded engrams. You also have tech priests not being able to understand or reverse engineer dark age humanity tech or even heresy era tech without an STC
+
+## 601 - Assistant - OOC proposed research framework
+
+**For Galahad as he is now, I would put substantial understanding of an intact Hunter plasma weapon in the range of days to weeks. Reproducing its advanced components independently is a larger project: potentially months to years, depending on the facilities and materials he can obtain.** Those are proposed campaign estimates, not a canonical research timer or an already unlocked capability.
+
+Your examples expose a real problem with treating 40K technology as one ladder. Someone can understand an extraordinarily advanced device in one field while lacking the knowledge—or industrial means—to reproduce another.
+
+**The Necron you mean is Illuminor Szeras.** GW explicitly says the C’tan supplied the knowledge behind biotransference and Szeras made it possible. It also describes his continuing pursuit of the deepest secrets of life. That supports a distinction between successfully implementing biotransference and understanding everything about life, consciousness and what was lost. It does **not** establish that he simply cannot understand the machine he helped build. [GW on biotransference](https://www.warhammer-community.com/en-gb/articles/10vZnrg0/what-is-biotransference/), [Szeras’s continuing research](https://www.warhammer-community.com/en-gb/articles/k3n4KfMr/psychic-awakening-for-every-end-a-beginning/).
+
+Likewise, **defeating the C’tan does not logically require knowing how to reverse biotransference or recover consumed souls**. Building a weapon that can damage something and reconstructing what that entity destroyed are different achievements. Even granting perfectly preserved memories, the Silent King could retain everything he once knew without possessing every Cryptek’s specialist knowledge or a solution nobody had discovered. I would not use engram degradation as a universal explanation for every Necron limitation.
+
+Your Iron Hands example is probably the **Keys of Hel** and their forbidden cybernetic resurrection. That is a legitimate comparison, but “returning dead warriors to an active cybernetic existence” does not by itself establish the same process, results or reversibility as Necron biotransference. The original *Massacre* account describes technologies they recovered and suppressed, then accessed after Ferrus’s death—not a clean demonstration that ordinary Iron Fathers independently invented the whole science. John French develops the subject in *Riven* and *The Keys of Hel*. [Massacre, printed p. 91](https://files.spawningpool.net/docs/Vault2.0.-.TTRPG-Gamebooks/Warhammer/40k/Game%20books/Tabletop/Forge%20World/The%20Horus%20Heresy%20Book%202%20Massacre.pdf), [Black Library’s Shattered Legions contents](https://www.blacklibrary.com/all-products/hh-shattered-legions-ebook.html).
+
+**Cawl and Bile demonstrate that discovery and invention are possible. They do not establish that every breakthrough is quick.** Their stories concentrate on exceptional results, often drawing on extensive previous research and resources. Even *Genefather* centres partly on Cawl seeking assistance to unlock the pylon network. GW describes both men as exceptional investigators working against the setting’s widespread loss of knowledge and technological mysticism. [Genefather](https://www.blacklibrary.com/warhammer-40000/novels/ebook-genefather-eng-2023.html), [GW’s discussion of their scientific approach](https://www.warhammer-community.com/en-gb/articles/ANRfbUr5/genefather-fabius-bile-is-back-to-test-his-wits-against-the-biggest-brains-in-the-galaxy/).
+
+Consequently, “a Tech-Priest cannot understand or recreate anything without an STC” is too absolute. Lost knowledge, missing manufacturing processes and institutional restrictions can all obstruct progress; an STC is not a supernatural prerequisite for an invention to function. Cawl’s explicitly recognised innovations already contradict that blanket rule. [GW’s Adeptus Mechanicus overview](https://www.warhammer-community.com/en-gb/articles/HUNPAc0m/starting-an-adeptus-mechanicus-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/).
+
+For **our campaign**, I would track five separate achievements:
+
+| Stage | What Galahad has actually achieved |
+|---|---|
+| Operate | Can use the existing device reliably. |
+| Understand | Has a tested explanation of its important functions and interactions. |
+| Maintain and adapt | Can diagnose faults, make some repairs or incorporate captured components into another system. |
+| Reproduce | Can build a working equivalent without consuming irreplaceable captured components. |
+| Industrialise | Other trained people can manufacture and maintain it reliably at an acceptable cost. |
+
+For difficulty, each project should separately record **unfamiliar theory, missing evidence, material requirements, fabrication requirements and any psychic dependency**. That gives us identifiable obstacles and progress rather than an arbitrary “technology level 8” lock. A project could be easy for him to understand and extremely difficult for the available workshops to manufacture.
+
+Applying that to a functioning Hunter plasma weapon, assuming unrestricted study, its required power supply, controlled testing and a properly supported research effort:
+
+| Milestone | Proposed time for present Galahad |
+|---|---|
+| Establish operation and identify the major functional systems | Hours to a few days |
+| Develop and test a substantial account of how the complete weapon works | Roughly **1–4 weeks** |
+| Develop useful maintenance methods or an adaptation retaining the advanced Hunter components | **Several weeks to a few months**, depending on the intended change |
+| Produce an independently manufactured equivalent | A **months-to-years programme**; a provisional **6–24 months** is reasonable only if he can secure resources and develop the missing industrial processes |
+| Match Hunter compactness, reliability and repeatable manufacture | A separate milestone, assessed after the prototype and supply chain are demonstrated |
+
+**I would not make him spend years staring at it without understanding anything.** His engineering specialisation, exceptional cognition, prior emitter study and expedition research should produce rapid, substantial insights. A complete working example is enormously more informative than the isolated component he examined at Drossane.
+
+But an intact component does not necessarily reveal how its material was manufactured. He might understand its purpose and behaviour while still needing experiments to discover a reproducible substitute. His intellect can dramatically accelerate those experiments and the design of better tools; it does not make the experimental evidence already exist.
+
+His psychic engineering also creates a credible alternative: **a personal prototype that works because Galahad supplies a function the machinery cannot yet perform independently**. That could arrive earlier than a fully industrial version. It would be a meaningful success, with its dependence on him recorded clearly, rather than either dismissed or counted as technology every soldier can now use.
+
+The exact Hunter design remains ours to establish. I would give it specific, consistent requirements when encountered, not add mysterious complications whenever you approach a breakthrough. These times are a proposed framework for that encounter; no weapon has been acquired, research completed or story time advanced.
+
+
+
+## 602 - User - OOC cumulative research and plasma casters
+
+That sounds decent but say I figure out how to develop the Hunter version of a rifle what about the shoulder mounted plasma casters as seen in the Predator movies, since Hunters are Predator rip offs they would have those, whether it was one of these or a rifle Galahad saw on the expedition is up for grabs story wise. If I figure out how to make one kind of advancement I should be able to use the research in relevant fields right?
+
+## OOC progress before exchange603
+
+I’ll record that related inventions share research, so a later design builds on what Galahad has already learned.
+
+## 603 - Assistant - OOC research carries forward
+
+**Yes. Research should accumulate and transfer wherever the underlying principles, components or manufacturing methods overlap.** Galahad should never have to “unlock plasma technology” again simply because the next weapon is mounted on a shoulder instead of held in two hands.
+
+We can establish that Hunters possess shoulder-mounted plasma casters alongside other plasma weapons. Their workings follow our 40K-adapted Hunter technology; the Predator films provide the visual and functional inspiration.
+
+For closely related Hunter designs, the progression would look like this:
+
+| Already understood or reproducible | What carries into the next design |
+|---|---|
+| Plasma weapon’s core operating principles | The foundation for another weapon using the same technology |
+| Suitable materials and their manufacture | Reusable knowledge for compatible components and other applications |
+| Power and thermal-management technology | A substantial head start for related weapons, machinery and equipment |
+| Control systems and diagnostic methods | Reusable methods, with adjustments for different interfaces |
+| Manufacturing tools and quality checks | Existing industrial capability, rather than rebuilding the workshop from nothing |
+
+**A shoulder caster would principally add the problems specific to its mounting, movement, targeting interface and integration with the wearer.** Those are additional engineering tasks; they do not erase the plasma research. If the rifle and caster share an actual component family, some parts could transfer directly. We should establish that relationship when the designs are examined, rather than assume every Hunter weapon is either identical or completely unrelated.
+
+Consequently, after he can independently manufacture a working plasma rifle, **an initial shoulder-mounted derivative could plausibly be a weeks-to-months project**, assuming compatible size and power requirements. Matching a Hunter’s compact, sophisticated, independently tracking caster could take longer if its sensors and targeting systems are still unfamiliar. Those are provisional campaign estimates for the *additional work*, not another full research period.
+
+The same applies beyond weapons. A breakthrough in materials or compact power could advance several existing projects at once—including parts of the carrier programme. It would contribute to those projects without automatically solving their unrelated problems.
+
+There is also an important distinction: **understanding a captured power unit transfers theoretical knowledge; learning to manufacture it transfers production capability.** Both are valuable, and we should record both.
+
+For Drossane, we can leave the emitter’s original platform unresolved: it may have belonged to a rifle, a shoulder caster or a shared weapon family. Galahad examined a component, so that uncertainty fits without rewriting the encounter into possession of a complete weapon.
+
+I’ve recorded the rule for future research: **new projects inherit all relevant established discoveries, tools and processes; time is assessed against the remaining unfamiliar work.** His breadth of knowledge and exceptional ability to connect disciplines should make that cumulative advantage especially pronounced.
+
+
+
+## 604 - User - Publish narrator research reference
+
+Ok can you please update the Github and ensure this information is relevant and easy to find later in the story for the narrator. We do not need to clog the app with anything aside from active, completed and future projects
