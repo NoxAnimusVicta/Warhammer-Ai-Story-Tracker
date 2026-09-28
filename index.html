@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="slate-build" content="724c717407bbdcf0552c"><meta name="theme-color" content="#202d29"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Malaspina">
+<meta name="slate-build" content="b79ba480f5ad63a52bb8"><meta name="theme-color" content="#202d29"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="Malaspina">
 <meta name="description" content="An evolving character dossier for Galahad, a perfected proto-Primarch on Malaspina.">
 <link rel="manifest" href="./manifest.webmanifest"><link rel="apple-touch-icon" href="./sigil-v1.png"><link rel="icon" type="image/png" sizes="1254x1254" href="./sigil-v1.png">
 <title>Malaspina | Galahad</title>
@@ -513,7 +513,7 @@ main details.record-disclosure.reading-section > :is(h2,h3,h4,h5,h6,.eyebrow,.re
 <p class="fine"><a href="./RESEARCH-PROGRESSION.md">Full research reference &amp; lore sources</a></p>
 </section>
 
-<section id="chronicle" aria-label="Campaign chronicle" hidden><div class="section-title"><div><p class="eyebrow">Continuing record</p><h2>Chronicle</h2></div></div><p class="muted">Historical milestones, in their recorded order. Earlier entries describe the state at that time; the dossier and latest entries contain the current position. The exact transcript also retains superseded proposals and corrections.</p><p><a href="https://github.com/NoxAnimusVicta/Warhammer-Ai-Story-Tracker/blob/main/story-transcript.md" target="_blank" rel="noopener">Open the complete story transcript</a></p><details class="record-disclosure panel reading-section"><summary>A year abroad</summary><p class="eyebrow">Completed expedition</p><p>The party returned to Auvrienne on 11/10/0068 AC43, day 355: 22 capitals and principal seats, 231 travel days and 124 full visiting days across three continents. Ten reserve days were unused. All five scholars returned uninjured; the surface route and seasonal passages were honoured.</p><dl><dt>Scholars</dt><dd>Osselin Varcet — mechanics; Savel’s nominee
+<section id="chronicle" aria-label="Campaign chronicle" hidden><div class="section-title"><div><p class="eyebrow">Continuing record</p><h2>Chronicle</h2></div></div><p class="muted">Historical milestones, in their recorded order. Earlier entries describe the state at that time; the dossier and latest entries contain the current position. The exact transcript also retains superseded proposals and corrections.</p><p><a href="https://github.com/NoxAnimusVicta/Warhammer-Ai-Story-Tracker/blob/main/story-transcript.md" target="_blank" rel="noopener">Open the complete story transcript</a></p><details class="record-disclosure panel reading-section"><summary>Expedition return · Summary</summary><p class="eyebrow">Completed expedition</p><p>The party returned to Auvrienne on 11/10/0068 AC43, day 355: 22 capitals and principal seats, 231 travel days and 124 full visiting days across three continents. Ten reserve days were unused. All five scholars returned uninjured; the surface route and seasonal passages were honoured.</p><dl><dt>Scholars</dt><dd>Osselin Varcet — mechanics; Savel’s nominee
 Iselle Rouvant — chemistry and materials
 Elvire Sarnot — surveying and waterworks
 Rovain Tessier — languages, political history and administration
@@ -799,6 +799,11 @@ if('serviceWorker'in navigator&&/^https?:$/.test(location.protocol)){navigator.s
 (() => {
  function panel(title,parent){const d=document.createElement('details');d.className='reading-section record-disclosure';const s=document.createElement('summary');s.textContent=title;const b=document.createElement('div');b.className='detail-body';d.append(s,b);parent.append(d);return b;}
  function para(body,text){const p=document.createElement('p');p.textContent=text;body.append(p);}
+ const encounters=document.querySelector('[data-field=notes]');
+ const encounterHeading=encounters.previousElementSibling;
+ const encounterBody=panel('Recent encounters',document.getElementById('records'));
+ if(encounterHeading?.tagName==='H3')encounterHeading.remove();
+ encounterBody.append(encounters);
  const research=document.getElementById('research-project-record');
  const old=research.querySelector('details');
  const groups={

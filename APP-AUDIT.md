@@ -6,7 +6,7 @@ Presentation review following exchange 608. The published character milestone re
 
 | Subject | App home | Preservation / consolidation |
 |---|---|---|
-| Identity, appearance, equipped belongings and personal cash | Dossier | Retained; household and state programme balances are presented in their own records. |
+| Identity, appearance, equipped belongings and personal cash | Dossier | Retained; household and state programme balances are presented in their own records. Recent encounters has its own disclosure rather than sitting under clinical condition. |
 | Family, professional contacts and political studies | Dossier | Political and regional studies moved out of the project list. Employment accounting moved out of biological cognition. |
 | House, land, estate operations and family support | Estate & possessions | Historical family support moved beside the estate; the repeated household statement is consolidated into existing estate operations. |
 | Origin, bodily systems and demonstrated psychic development | Physiology | Origin record moved here. Capability summaries remain distinct from engineering project records. |
