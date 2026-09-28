@@ -2,6 +2,10 @@
 
 Accepted campaign framework from exchanges 600–604. Consult before resolving research, reverse engineering, invention or a research time skip. This is narrator guidance, not an in-world document or a new capability acquired by Galahad. The latest enacted scene remains exchange 599, 06/11/0068 AC43 evening at district headquarters.
 
+## Capability atlas
+
+[Technology framework](TECHNOLOGY-FRAMEWORK.md) and technology-catalog.json organise capabilities across craft, industrial, advanced planetary, spacefaring and distinctive 40K branches. These are campaign reference categories, not a canonical universal tree or Galahad’s acquired knowledge. technology-register.json holds dated national operation, understanding, production and adoption records, evidence and annual reviews. Shared prerequisites carry across projects; imports can enable use without domestic reproduction.
+
 ## Controlling rule: research carries forward
 
 New projects inherit all relevant established discoveries, tested principles, materials processes, components, tools and manufacturing capability. Estimate effort against the remaining unfamiliar work. Never require Galahad to unlock the same technology again for each different product, mounting or application.

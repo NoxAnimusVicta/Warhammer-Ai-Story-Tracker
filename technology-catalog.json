@@ -1,0 +1,735 @@
+{
+  "schema": 1,
+  "eras": [
+    {
+      "id": "foundations",
+      "name": "Foundations & craft",
+      "description": "Food systems, record keeping, materials, hand tools and water management. Societies may borrow, rediscover or bypass particular techniques; this is not a compulsory cultural sequence."
+    },
+    {
+      "id": "mechanical",
+      "name": "Mechanical & early industrial",
+      "description": "Reliable mechanical power, precision workshops, organised supply and bulk production. Imported plant may coexist with local craft."
+    },
+    {
+      "id": "mechanised",
+      "name": "Electrified & mechanised industry",
+      "description": "Conventional electrical, chemical and transport industries. This is Malaspina’s current native technological envelope, with unequal national capacity and access."
+    },
+    {
+      "id": "advanced",
+      "name": "Advanced planetary industry",
+      "description": "Possible developments beyond established local practice: advanced electronics, nuclear energy, sophisticated materials and medicine. These entries are not automatically available anywhere on Malaspina."
+    },
+    {
+      "id": "space",
+      "name": "Spacefaring & high-energy systems",
+      "description": "Orbital and interplanetary infrastructure, compact high-energy equipment and specialised fields. Individual applications need their own scale, reliability and manufacturing records."
+    },
+    {
+      "id": "esoteric",
+      "name": "Distinctive 40K branches",
+      "description": "Psychic engineering, warp systems, exotic xenos sciences and lost human systems. These branches are alternatives, not one universal final age or guaranteed unlock sequence."
+    }
+  ],
+  "nodes": [
+    {
+      "id": "forge",
+      "name": "Forging & casting",
+      "domain": "metals",
+      "era": "foundations",
+      "requires": [],
+      "scope": "Worked metals and cast components."
+    },
+    {
+      "id": "steel",
+      "name": "Industrial steelmaking",
+      "domain": "metals",
+      "era": "mechanical",
+      "requires": [
+        "forge"
+      ],
+      "scope": "Bulk structural steels and controlled foundry work."
+    },
+    {
+      "id": "alloys",
+      "name": "Specialist alloy production",
+      "domain": "metals",
+      "era": "mechanised",
+      "requires": [
+        "steel",
+        "gauges"
+      ],
+      "scope": "Repeatable specialist steels and alloys; exact grades require evidence."
+    },
+    {
+      "id": "tools",
+      "name": "Workshop tools",
+      "domain": "tooling",
+      "era": "foundations",
+      "requires": [
+        "forge"
+      ],
+      "scope": "Hand tooling, fitting and repairs."
+    },
+    {
+      "id": "gauges",
+      "name": "Machine tools & metrology",
+      "domain": "tooling",
+      "era": "mechanical",
+      "requires": [
+        "tools"
+      ],
+      "scope": "Powered machine tools, gauges and repeatable measurement."
+    },
+    {
+      "id": "interchange",
+      "name": "Interchangeable precision components",
+      "domain": "tooling",
+      "era": "mechanised",
+      "requires": [
+        "gauges",
+        "steel"
+      ],
+      "scope": "Standardised components made to controlled tolerances."
+    },
+    {
+      "id": "mills",
+      "name": "Mechanical mills",
+      "domain": "energy",
+      "era": "foundations",
+      "requires": [
+        "tools"
+      ],
+      "scope": "Water, wind or other mechanical drive."
+    },
+    {
+      "id": "steam",
+      "name": "Industrial steam power",
+      "domain": "energy",
+      "era": "mechanical",
+      "requires": [
+        "steel",
+        "gauges"
+      ],
+      "scope": "Boilers and engines for stationary and transport applications."
+    },
+    {
+      "id": "electric",
+      "name": "Electrical generation & distribution",
+      "domain": "energy",
+      "era": "mechanised",
+      "requires": [
+        "gauges",
+        "steam"
+      ],
+      "scope": "Generating plant and local networks; coverage is a separate record."
+    },
+    {
+      "id": "process",
+      "name": "Practical chemical processing",
+      "domain": "chemicals",
+      "era": "foundations",
+      "requires": [],
+      "scope": "Dyes, lime, soap and other established craft processes."
+    },
+    {
+      "id": "bulkchem",
+      "name": "Bulk industrial chemistry",
+      "domain": "chemicals",
+      "era": "mechanical",
+      "requires": [
+        "process",
+        "gauges"
+      ],
+      "scope": "Controlled process plant and industrial feedstocks."
+    },
+    {
+      "id": "refining",
+      "name": "Fuel refining & specialist chemistry",
+      "domain": "chemicals",
+      "era": "mechanised",
+      "requires": [
+        "bulkchem"
+      ],
+      "scope": "Refined industrial fuels and specialist chemical processes; exact products differ."
+    },
+    {
+      "id": "airservice",
+      "name": "Aircraft operation & servicing",
+      "domain": "aviation",
+      "era": "mechanised",
+      "requires": [
+        "engines",
+        "gauges"
+      ],
+      "scope": "Operate or maintain acquired conventional aircraft."
+    },
+    {
+      "id": "airframe",
+      "name": "Conventional airframe construction",
+      "domain": "aviation",
+      "era": "mechanised",
+      "requires": [
+        "gauges",
+        "steel"
+      ],
+      "scope": "Repeatable structural manufacture and assembly."
+    },
+    {
+      "id": "aeroengine",
+      "name": "Aircraft engine manufacture",
+      "domain": "aviation",
+      "era": "mechanised",
+      "requires": [
+        "engines",
+        "interchange"
+      ],
+      "scope": "Domestic manufacture of conventional aero engines; specialist imports may remain."
+    },
+    {
+      "id": "boats",
+      "name": "Boatbuilding & seamanship",
+      "domain": "maritime",
+      "era": "foundations",
+      "requires": [
+        "tools"
+      ],
+      "scope": "Local hull construction, navigation and coastal craft."
+    },
+    {
+      "id": "shiprepair",
+      "name": "Powered-vessel repair",
+      "domain": "maritime",
+      "era": "mechanical",
+      "requires": [
+        "boats",
+        "steam"
+      ],
+      "scope": "Docks and engineering support for powered vessels."
+    },
+    {
+      "id": "shipyards",
+      "name": "Steel-hull ship construction",
+      "domain": "maritime",
+      "era": "mechanised",
+      "requires": [
+        "steel",
+        "shiprepair"
+      ],
+      "scope": "Industrial shipyards; propulsion and fittings may be imported."
+    },
+    {
+      "id": "signals",
+      "name": "Courier & optical signalling",
+      "domain": "communications",
+      "era": "foundations",
+      "requires": [],
+      "scope": "Physical messengers, organised signals and records."
+    },
+    {
+      "id": "telegraph",
+      "name": "Wired telegraph & telephone",
+      "domain": "communications",
+      "era": "mechanical",
+      "requires": [
+        "electric"
+      ],
+      "scope": "Electrical fixed communications and exchange equipment."
+    },
+    {
+      "id": "radio",
+      "name": "Radio apparatus",
+      "domain": "communications",
+      "era": "mechanised",
+      "requires": [
+        "electric",
+        "gauges"
+      ],
+      "scope": "Wireless apparatus and servicing; coverage and component supply tracked separately."
+    },
+    {
+      "id": "care",
+      "name": "Practical care & surgery",
+      "domain": "medicine",
+      "era": "foundations",
+      "requires": [],
+      "scope": "Established care practices and treatment, without implying modern effectiveness."
+    },
+    {
+      "id": "asepsis",
+      "name": "Asepsis & organised clinical care",
+      "domain": "medicine",
+      "era": "mechanical",
+      "requires": [
+        "process",
+        "learning"
+      ],
+      "scope": "Hygiene, sterilisation and organised medical services."
+    },
+    {
+      "id": "medical",
+      "name": "Clinical instruments & medical supply",
+      "domain": "medicine",
+      "era": "mechanised",
+      "requires": [
+        "asepsis",
+        "gauges",
+        "bulkchem"
+      ],
+      "scope": "Conventional instrumentation and supply production; no automatic antibiotics or life extension."
+    },
+    {
+      "id": "farming",
+      "name": "Cultivation & food storage",
+      "domain": "agriculture",
+      "era": "foundations",
+      "requires": [],
+      "scope": "Cultivation, soil management, drying and storage."
+    },
+    {
+      "id": "foodprocess",
+      "name": "Mechanised food processing",
+      "domain": "agriculture",
+      "era": "mechanical",
+      "requires": [
+        "mills",
+        "farming"
+      ],
+      "scope": "Milling, processing and preserved provisions."
+    },
+    {
+      "id": "farmmachines",
+      "name": "Agricultural machinery",
+      "domain": "agriculture",
+      "era": "mechanised",
+      "requires": [
+        "engines",
+        "gauges"
+      ],
+      "scope": "Powered farm machinery; ownership, repair and domestic manufacture are distinct."
+    },
+    {
+      "id": "waterworks",
+      "name": "Water channels & drainage",
+      "domain": "water",
+      "era": "foundations",
+      "requires": [
+        "survey"
+      ],
+      "scope": "Channels, drains and controlled water delivery."
+    },
+    {
+      "id": "pumps",
+      "name": "Mechanical pumping",
+      "domain": "water",
+      "era": "mechanical",
+      "requires": [
+        "gauges",
+        "mills"
+      ],
+      "scope": "Water lifting and driven pumps."
+    },
+    {
+      "id": "filtration",
+      "name": "Municipal filtration & sewer systems",
+      "domain": "water",
+      "era": "mechanised",
+      "requires": [
+        "pumps",
+        "bulkchem"
+      ],
+      "scope": "Treatment and network engineering; service access is recorded separately."
+    },
+    {
+      "id": "cartage",
+      "name": "Roads & animal transport",
+      "domain": "ground_transport",
+      "era": "foundations",
+      "requires": [
+        "tools"
+      ],
+      "scope": "Road construction, wagons and cartage."
+    },
+    {
+      "id": "rail",
+      "name": "Railway engineering",
+      "domain": "ground_transport",
+      "era": "mechanical",
+      "requires": [
+        "steam",
+        "steel"
+      ],
+      "scope": "Track, rolling-stock support and railway systems."
+    },
+    {
+      "id": "engines",
+      "name": "Internal-combustion engines",
+      "domain": "ground_transport",
+      "era": "mechanised",
+      "requires": [
+        "gauges",
+        "bulkchem"
+      ],
+      "scope": "Conventional motor machinery; vehicle types need their own evidence."
+    },
+    {
+      "id": "survey",
+      "name": "Surveying & masonry",
+      "domain": "construction",
+      "era": "foundations",
+      "requires": [],
+      "scope": "Measurement, foundations and load-bearing craft construction."
+    },
+    {
+      "id": "structures",
+      "name": "Industrial structural engineering",
+      "domain": "construction",
+      "era": "mechanical",
+      "requires": [
+        "steel",
+        "survey"
+      ],
+      "scope": "Large conventional frames, bridges and engineered structures."
+    },
+    {
+      "id": "concrete",
+      "name": "Reinforced concrete works",
+      "domain": "construction",
+      "era": "mechanised",
+      "requires": [
+        "structures",
+        "bulkchem"
+      ],
+      "scope": "Concrete and reinforcement supply, quality control and structural design."
+    },
+    {
+      "id": "textiles",
+      "name": "Textiles & household crafts",
+      "domain": "consumer",
+      "era": "foundations",
+      "requires": [],
+      "scope": "Weaving, clothing and ordinary household goods."
+    },
+    {
+      "id": "factorygoods",
+      "name": "Factory household goods",
+      "domain": "consumer",
+      "era": "mechanical",
+      "requires": [
+        "mills",
+        "tools"
+      ],
+      "scope": "Mechanised routine production and finishing."
+    },
+    {
+      "id": "appliances",
+      "name": "Electrical household equipment",
+      "domain": "consumer",
+      "era": "mechanised",
+      "requires": [
+        "electric",
+        "interchange"
+      ],
+      "scope": "Domestic electrical equipment; affordability and grid access remain separate."
+    },
+    {
+      "id": "armsrepair",
+      "name": "Conventional arms repair",
+      "domain": "arms",
+      "era": "mechanical",
+      "requires": [
+        "tools"
+      ],
+      "scope": "Maintenance of existing conventional arms; imported equipment does not imply local production."
+    },
+    {
+      "id": "arsenals",
+      "name": "Conventional arsenal production",
+      "domain": "arms",
+      "era": "mechanised",
+      "requires": [
+        "steel",
+        "gauges",
+        "bulkchem"
+      ],
+      "scope": "Repeatable conventional small-arms and ammunition supply."
+    },
+    {
+      "id": "militaryvehicles",
+      "name": "Armoured-vehicle production",
+      "domain": "arms",
+      "era": "mechanised",
+      "requires": [
+        "engines",
+        "steel",
+        "interchange"
+      ],
+      "scope": "Vehicle manufacture and integration; fleet ownership alone is insufficient."
+    },
+    {
+      "id": "learning",
+      "name": "Records & technical teaching",
+      "domain": "learning",
+      "era": "foundations",
+      "requires": [],
+      "scope": "Oral and written transmission, instruction and archives."
+    },
+    {
+      "id": "standards",
+      "name": "Technical standards & printing",
+      "domain": "learning",
+      "era": "mechanical",
+      "requires": [
+        "learning",
+        "gauges"
+      ],
+      "scope": "Drawings, reproducible standards and technical circulation."
+    },
+    {
+      "id": "labs",
+      "name": "Experimental laboratories",
+      "domain": "learning",
+      "era": "mechanised",
+      "requires": [
+        "standards",
+        "electric"
+      ],
+      "scope": "Organised experimentation and instrumented testing."
+    },
+    {
+      "id": "electronics",
+      "name": "Advanced electronics & cogitators",
+      "domain": "tooling",
+      "era": "advanced",
+      "requires": [
+        "electric",
+        "interchange"
+      ],
+      "scope": "Computing and electronic control; architecture and fabrication remain separate."
+    },
+    {
+      "id": "nuclear",
+      "name": "Nuclear energy systems",
+      "domain": "energy",
+      "era": "advanced",
+      "requires": [
+        "alloys",
+        "labs"
+      ],
+      "scope": "Controlled nuclear energy; no established native reactors."
+    },
+    {
+      "id": "advancedmaterials",
+      "name": "Advanced structural materials",
+      "domain": "metals",
+      "era": "advanced",
+      "requires": [
+        "alloys",
+        "labs"
+      ],
+      "scope": "High-performance composites and engineered materials; ceramite or other named materials require specific evidence."
+    },
+    {
+      "id": "biotech",
+      "name": "Advanced biotechnology",
+      "domain": "medicine",
+      "era": "advanced",
+      "requires": [
+        "medical",
+        "labs"
+      ],
+      "scope": "Controlled biological engineering; no automatic enhancement programme."
+    },
+    {
+      "id": "longevity",
+      "name": "Rejuvenation medicine",
+      "domain": "medicine",
+      "era": "space",
+      "requires": [
+        "biotech"
+      ],
+      "scope": "Possible specialist life-extension treatments, distinct from ordinary healthcare and not presently native."
+    },
+    {
+      "id": "sensors",
+      "name": "Advanced sensors & control",
+      "domain": "communications",
+      "era": "advanced",
+      "requires": [
+        "electronics"
+      ],
+      "scope": "Instrumented detection, targeting and control; capabilities require separate tests."
+    },
+    {
+      "id": "automation",
+      "name": "Industrial automation",
+      "domain": "consumer",
+      "era": "advanced",
+      "requires": [
+        "electronics",
+        "interchange"
+      ],
+      "scope": "Programmable or other advanced production control; not necessarily machine sapience."
+    },
+    {
+      "id": "orbital",
+      "name": "Orbital launch & life support",
+      "domain": "ground_transport",
+      "era": "space",
+      "requires": [
+        "advancedmaterials",
+        "sensors"
+      ],
+      "scope": "Sustained access to orbit with suitable propulsion and life support; exact architecture unresolved."
+    },
+    {
+      "id": "voidcraft",
+      "name": "Voidcraft construction",
+      "domain": "maritime",
+      "era": "space",
+      "requires": [
+        "orbital"
+      ],
+      "scope": "Interplanetary hulls, drives and life-support production; warp travel is a distinct branch."
+    },
+    {
+      "id": "plasma_power",
+      "name": "Compact plasma power",
+      "domain": "energy",
+      "era": "space",
+      "requires": [
+        "advancedmaterials",
+        "sensors"
+      ],
+      "scope": "High-energy power systems; proposed enabling capabilities are planning categories, not canon schematics."
+    },
+    {
+      "id": "las",
+      "name": "Directed-energy armaments",
+      "domain": "arms",
+      "era": "space",
+      "requires": [
+        "sensors",
+        "advancedmaterials"
+      ],
+      "scope": "Examples include las systems; each family has independent power and production requirements."
+    },
+    {
+      "id": "plasma",
+      "name": "Plasma weapon systems",
+      "domain": "arms",
+      "era": "space",
+      "requires": [
+        "plasma_power",
+        "sensors"
+      ],
+      "scope": "Hunter plasma families and other 40K implementations may share research without identical parts."
+    },
+    {
+      "id": "shield",
+      "name": "Energy shielding",
+      "domain": "energy",
+      "era": "space",
+      "requires": [
+        "plasma_power",
+        "sensors"
+      ],
+      "scope": "Void and personal protection are distinct applications; possession does not prove reproduction."
+    },
+    {
+      "id": "grav",
+      "name": "Gravitic engineering",
+      "domain": "ground_transport",
+      "era": "space",
+      "requires": [
+        "plasma_power",
+        "sensors"
+      ],
+      "scope": "Lift, manipulation or specialised gravitic equipment; no automatic flight or weapon design."
+    },
+    {
+      "id": "cybernetics",
+      "name": "Advanced cybernetics",
+      "domain": "medicine",
+      "era": "space",
+      "requires": [
+        "biotech",
+        "electronics"
+      ],
+      "scope": "Integrated prostheses and interfaces; separate from copying consciousness."
+    },
+    {
+      "id": "psychic",
+      "name": "Disciplined psychic practice",
+      "domain": "learning",
+      "era": "esoteric",
+      "requires": [],
+      "scope": "Aptitude, training and traditions; may coexist with craft societies. Not a reward for industrial development."
+    },
+    {
+      "id": "psyengineering",
+      "name": "Psychic engineering",
+      "domain": "tooling",
+      "era": "esoteric",
+      "requires": [
+        "psychic"
+      ],
+      "scope": "Psychic interaction with materials and mechanisms; each demonstrated process records its practitioners and limitations."
+    },
+    {
+      "id": "warp",
+      "name": "Warp propulsion & protection",
+      "domain": "maritime",
+      "era": "esoteric",
+      "requires": [
+        "voidcraft"
+      ],
+      "scope": "Propulsion, protection and navigation must be established separately. Not required for all spacefaring civilisations; Hunters have no established warp capability."
+    },
+    {
+      "id": "wraithbone",
+      "name": "Aeldari psychoplastic traditions",
+      "domain": "construction",
+      "era": "esoteric",
+      "requires": [
+        "psyengineering"
+      ],
+      "scope": "A distinct lore reference, not an automatic human unlock or known local process."
+    },
+    {
+      "id": "phase",
+      "name": "Necron phase & dimensional systems",
+      "domain": "ground_transport",
+      "era": "esoteric",
+      "requires": [],
+      "scope": "Distinct exotic research branch; a generic engineering pathway is not established."
+    },
+    {
+      "id": "biotransference",
+      "name": "Biotransference",
+      "domain": "medicine",
+      "era": "esoteric",
+      "requires": [],
+      "scope": "Necron/C’tan precedent; not simply the next level of cybernetics or a guaranteed reversible procedure."
+    },
+    {
+      "id": "stc",
+      "name": "STC systems & retained design libraries",
+      "domain": "learning",
+      "era": "esoteric",
+      "requires": [],
+      "scope": "Knowledge repositories and production systems are assets, not an age or an automatic prerequisite for invention."
+    },
+    {
+      "id": "machine_intellect",
+      "name": "Artificial machine intellect",
+      "domain": "learning",
+      "era": "esoteric",
+      "requires": [
+        "electronics"
+      ],
+      "scope": "A separate branch with faction-specific implementations and restrictions; neither mandatory nor locally established."
+    }
+  ]
+}

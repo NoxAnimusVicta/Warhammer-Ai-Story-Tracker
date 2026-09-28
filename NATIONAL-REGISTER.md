@@ -22,7 +22,7 @@ Armour means serviceable tanks and armoured cars, not all military vehicles. Air
 
 ## Technology
 
-1: basic local repair; 2: established older production; 3: mature current manufacture; 4: advanced specialist production; 5: leading reproducible practice. Ratings measure industrial depth, not access to every invention. Readiness, logistics and cohesion use 1 (weak) to 5 (exceptional).
+Technology is recorded as named capabilities: operation, understanding, independent production and adoption are separate. See TECHNOLOGY-FRAMEWORK.md. Legacy 1–5 industrial inputs are retained only for historical model compatibility, not as a technology ladder. Readiness, logistics and cohesion retain their separate 1–5 scales.
 
 ## Coverage
 
@@ -50,7 +50,7 @@ Elapsed treasury movement is explicitly estimated from the preserved financing p
 
 ## Dating
 
-Population and economic estimates: 05/11/0068 AC43. Military holdings include the dated Year 68 repair, delivery and withdrawal reconciliation. Technology ratings describe broad industrial capability; the review records narrower changes in practice and capacity.
+Population and economic estimates: 05/11/0068 AC43. Military holdings include the dated Year 68 repair, delivery and withdrawal reconciliation. Technology capabilities have dated evidence and separate production/adoption records.
 
 ## Receipts
 
@@ -110,7 +110,9 @@ Evidence bands: standard_of_living 28–58; confidence 40–61; protection 12–
 
 Typical adult lifespan: 60–79 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -145,14 +147,6 @@ Table and hospitality. A composite crown includes humid lowlands, high terraces 
 | serviceable artillery | 9,090 |
 | fleet displacement tonnes | 1,405,000 |
 | naval role | ocean |
-| metallurgy | 5 |
-| precision | 4 |
-| power | 5 |
-| chemistry | 4 |
-| aviation | 4 |
-| shipbuilding | 4 |
-| communications | 4 |
-| medicine | 4 |
 | readiness (1–5) | 4 |
 | logistics (1–5) | 4 |
 | cohesion (1–5) | 3 |
@@ -255,7 +249,9 @@ Evidence bands: standard_of_living 22–52; confidence 30–50; protection 10–
 
 Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -290,14 +286,6 @@ Table and hospitality. Cereal estates, cattle districts and newly industrial tow
 | serviceable artillery | 7,200 |
 | fleet displacement tonnes | 257,000 |
 | naval role | coast |
-| metallurgy | 4 |
-| precision | 3 |
-| power | 3 |
-| chemistry | 4 |
-| aviation | 3 |
-| shipbuilding | 2 |
-| communications | 3 |
-| medicine | 3 |
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 4 |
@@ -400,7 +388,9 @@ Evidence bands: standard_of_living 33–63; confidence 44–64; protection 13–
 
 Typical adult lifespan: 60–79 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -435,14 +425,6 @@ Table and hospitality. Maritime commerce joins a mild western coast to upland ch
 | serviceable artillery | 2,310 |
 | fleet displacement tonnes | 520,500 |
 | naval role | ocean |
-| metallurgy | 4 |
-| precision | 5 |
-| power | 5 |
-| chemistry | 5 |
-| aviation | 5 |
-| shipbuilding | 5 |
-| communications | 5 |
-| medicine | 4 |
 | readiness (1–5) | 4 |
 | logistics (1–5) | 5 |
 | cohesion (1–5) | 4 |
@@ -545,7 +527,9 @@ Evidence bands: standard_of_living 24–55; confidence 40–61; protection 52–
 
 Typical adult lifespan: 59–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -580,14 +564,6 @@ Table and hospitality. Unequal river cities share barges, mill customs and perio
 | serviceable artillery | 1,960 |
 | fleet displacement tonnes | 12,000 |
 | naval role | river |
-| metallurgy | 3 |
-| precision | 4 |
-| power | 4 |
-| chemistry | 5 |
-| aviation | 3 |
-| shipbuilding | 3 |
-| communications | 4 |
-| medicine | 4 |
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
@@ -690,7 +666,9 @@ Evidence bands: standard_of_living 19–50; confidence 28–49; protection 11–
 
 Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -725,14 +703,6 @@ Table and hospitality. Border garrisons borrow cooking from both larger patrons,
 | serviceable artillery | 2,380 |
 | fleet displacement tonnes | 0 |
 | naval role | none |
-| metallurgy | 3 |
-| precision | 3 |
-| power | 3 |
-| chemistry | 3 |
-| aviation | 2 |
-| shipbuilding | 1 |
-| communications | 3 |
-| medicine | 3 |
 | readiness (1–5) | 4 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
@@ -835,7 +805,9 @@ Evidence bands: standard_of_living 30–60; confidence 47–67; protection 12–
 
 Typical adult lifespan: 60–79 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -870,14 +842,6 @@ Table and hospitality. Industrial towns link cooler uplands to river farms. Work
 | serviceable artillery | 1,640 |
 | fleet displacement tonnes | 72,000 |
 | naval role | coast |
-| metallurgy | 5 |
-| precision | 5 |
-| power | 4 |
-| chemistry | 4 |
-| aviation | 4 |
-| shipbuilding | 2 |
-| communications | 4 |
-| medicine | 4 |
 | readiness (1–5) | 4 |
 | logistics (1–5) | 4 |
 | cohesion (1–5) | 4 |
@@ -980,7 +944,9 @@ Evidence bands: standard_of_living 17–47; confidence 16–42; protection 11–
 
 Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -1015,14 +981,6 @@ Table and hospitality. Former royal roads carried recipes across a realm now div
 | serviceable artillery | 10,180 |
 | fleet displacement tonnes | 357,000 |
 | naval role | coast |
-| metallurgy | 4 |
-| precision | 3 |
-| power | 3 |
-| chemistry | 3 |
-| aviation | 3 |
-| shipbuilding | 3 |
-| communications | 3 |
-| medicine | 3 |
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
@@ -1125,7 +1083,9 @@ Evidence bands: standard_of_living 19–50; confidence 39–59; protection 11–
 
 Typical adult lifespan: 58–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -1160,14 +1120,6 @@ Table and hospitality. Sheltered southern valleys support oats, rye, roots and d
 | serviceable artillery | 1,310 |
 | fleet displacement tonnes | 69,000 |
 | naval role | coast |
-| metallurgy | 3 |
-| precision | 3 |
-| power | 3 |
-| chemistry | 3 |
-| aviation | 2 |
-| shipbuilding | 2 |
-| communications | 3 |
-| medicine | 3 |
 | readiness (1–5) | 3 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 3 |
@@ -1270,7 +1222,9 @@ Evidence bands: standard_of_living 29–59; confidence 42–63; protection 12–
 
 Typical adult lifespan: 60–79 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -1305,14 +1259,6 @@ Table and hospitality. Mining leagues inherit northern preservation techniques b
 | serviceable artillery | 898 |
 | fleet displacement tonnes | 45,000 |
 | naval role | coast |
-| metallurgy | 5 |
-| precision | 5 |
-| power | 4 |
-| chemistry | 4 |
-| aviation | 3 |
-| shipbuilding | 2 |
-| communications | 3 |
-| medicine | 4 |
 | readiness (1–5) | 4 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
@@ -1415,7 +1361,9 @@ Evidence bands: standard_of_living 20–51; confidence 39–60; protection 53–
 
 Typical adult lifespan: 59–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -1450,14 +1398,6 @@ Table and hospitality. Order houses preserve remedies and practical cookery alon
 | serviceable artillery | 610 |
 | fleet displacement tonnes | 0 |
 | naval role | none |
-| metallurgy | 2 |
-| precision | 3 |
-| power | 3 |
-| chemistry | 3 |
-| aviation | 2 |
-| shipbuilding | 1 |
-| communications | 4 |
-| medicine | 5 |
 | readiness (1–5) | 4 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 3 |
@@ -1560,7 +1500,9 @@ Evidence bands: standard_of_living 21–52; confidence 40–60; protection 10–
 
 Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -1595,14 +1537,6 @@ Table and hospitality. Seasonal river traffic sustains mills, fisheries and gard
 | serviceable artillery | 710 |
 | fleet displacement tonnes | 5,000 |
 | naval role | river |
-| metallurgy | 3 |
-| precision | 3 |
-| power | 3 |
-| chemistry | 4 |
-| aviation | 2 |
-| shipbuilding | 3 |
-| communications | 3 |
-| medicine | 3 |
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 4 |
@@ -1705,7 +1639,9 @@ Evidence bands: standard_of_living 30–60; confidence 41–61; protection 13–
 
 Typical adult lifespan: 60–79 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -1740,14 +1676,6 @@ Table and hospitality. Western ports face a different trading sea from Veyrasse 
 | serviceable artillery | 1,280 |
 | fleet displacement tonnes | 328,500 |
 | naval role | ocean |
-| metallurgy | 4 |
-| precision | 4 |
-| power | 4 |
-| chemistry | 4 |
-| aviation | 4 |
-| shipbuilding | 5 |
-| communications | 4 |
-| medicine | 4 |
 | readiness (1–5) | 4 |
 | logistics (1–5) | 4 |
 | cohesion (1–5) | 4 |
@@ -1850,7 +1778,9 @@ Evidence bands: standard_of_living 24–54; confidence 30–51; protection 10–
 
 Typical adult lifespan: 59–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -1885,14 +1815,6 @@ Table and hospitality. Refinery and arsenal towns share a strong canteen traditi
 | serviceable artillery | 4,340 |
 | fleet displacement tonnes | 130,000 |
 | naval role | coast |
-| metallurgy | 4 |
-| precision | 3 |
-| power | 4 |
-| chemistry | 4 |
-| aviation | 3 |
-| shipbuilding | 3 |
-| communications | 3 |
-| medicine | 3 |
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 4 |
@@ -1995,7 +1917,9 @@ Evidence bands: standard_of_living 23–54; confidence 40–60; protection 51–
 
 Typical adult lifespan: 58–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -2030,14 +1954,6 @@ Table and hospitality. Provincial land bargains preserve different kitchens insi
 | serviceable artillery | 2,640 |
 | fleet displacement tonnes | 0 |
 | naval role | none |
-| metallurgy | 3 |
-| precision | 3 |
-| power | 3 |
-| chemistry | 3 |
-| aviation | 3 |
-| shipbuilding | 1 |
-| communications | 3 |
-| medicine | 3 |
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
@@ -2140,7 +2056,9 @@ Evidence bands: standard_of_living 21–51; confidence 29–68; protection 12–
 
 Typical adult lifespan: 58–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -2175,14 +2093,6 @@ Table and hospitality. The old Serevask customs federation joined four southern 
 | serviceable artillery | 710 |
 | fleet displacement tonnes | 3,000 |
 | naval role | river |
-| metallurgy | 3 |
-| precision | 3 |
-| power | 3 |
-| chemistry | 4 |
-| aviation | 2 |
-| shipbuilding | 2 |
-| communications | 3 |
-| medicine | 4 |
 | readiness (1–5) | 3 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 2 |
@@ -2285,7 +2195,9 @@ Evidence bands: standard_of_living 24–55; confidence 41–62; protection 12–
 
 Typical adult lifespan: 59–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -2320,14 +2232,6 @@ Table and hospitality. Delta rice, fisheries and freight markets furnished the f
 | serviceable artillery | 880 |
 | fleet displacement tonnes | 48,000 |
 | naval role | coast |
-| metallurgy | 3 |
-| precision | 3 |
-| power | 3 |
-| chemistry | 5 |
-| aviation | 2 |
-| shipbuilding | 4 |
-| communications | 3 |
-| medicine | 4 |
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
@@ -2430,7 +2334,9 @@ Evidence bands: standard_of_living 24–55; confidence 40–60; protection 10–
 
 Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -2465,14 +2371,6 @@ Table and hospitality. Upriver gardens and plantation labour communities mix bas
 | serviceable artillery | 820 |
 | fleet displacement tonnes | 5,000 |
 | naval role | river |
-| metallurgy | 2 |
-| precision | 2 |
-| power | 2 |
-| chemistry | 4 |
-| aviation | 1 |
-| shipbuilding | 2 |
-| communications | 2 |
-| medicine | 3 |
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 2 |
@@ -2575,7 +2473,9 @@ Evidence bands: standard_of_living 24–55; confidence 31–52; protection 30–
 
 Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -2610,14 +2510,6 @@ Table and hospitality. March-house kitchens descend from basin customs but favou
 | serviceable artillery | 410 |
 | fleet displacement tonnes | 0 |
 | naval role | none |
-| metallurgy | 2 |
-| precision | 2 |
-| power | 2 |
-| chemistry | 2 |
-| aviation | 1 |
-| shipbuilding | 1 |
-| communications | 2 |
-| medicine | 2 |
 | readiness (1–5) | 3 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 2 |
@@ -2720,7 +2612,9 @@ Evidence bands: standard_of_living 26–56; confidence 41–61; protection 29–
 
 Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -2755,14 +2649,6 @@ Table and hospitality. Rice cooked in coconut milk accompanies peppered fish nea
 | serviceable artillery | 1,140 |
 | fleet displacement tonnes | 76,000 |
 | naval role | coast |
-| metallurgy | 2 |
-| precision | 2 |
-| power | 2 |
-| chemistry | 2 |
-| aviation | 1 |
-| shipbuilding | 2 |
-| communications | 2 |
-| medicine | 2 |
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
@@ -2865,7 +2751,9 @@ Evidence bands: standard_of_living 27–58; confidence 39–60; protection 29–
 
 Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -2900,14 +2788,6 @@ Table and hospitality. Barley noodles with browned cabbage are everyday food in 
 | serviceable artillery | 760 |
 | fleet displacement tonnes | 46,000 |
 | naval role | coast |
-| metallurgy | 2 |
-| precision | 2 |
-| power | 2 |
-| chemistry | 2 |
-| aviation | 1 |
-| shipbuilding | 2 |
-| communications | 2 |
-| medicine | 2 |
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
@@ -3010,7 +2890,9 @@ Evidence bands: standard_of_living 26–57; confidence 40–61; protection 49–
 
 Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -3045,14 +2927,6 @@ Table and hospitality. Millet porridge with greens and groundnut sauce feeds fie
 | serviceable artillery | 1,000 |
 | fleet displacement tonnes | 68,000 |
 | naval role | coast |
-| metallurgy | 2 |
-| precision | 2 |
-| power | 2 |
-| chemistry | 2 |
-| aviation | 1 |
-| shipbuilding | 2 |
-| communications | 2 |
-| medicine | 2 |
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
@@ -3155,7 +3029,9 @@ Evidence bands: standard_of_living 26–57; confidence 41–62; protection 29–
 
 Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -3190,14 +3066,6 @@ Table and hospitality. Astrellac cooks fish in tomato and fennel broth and lays 
 | serviceable artillery | 1,720 |
 | fleet displacement tonnes | 104,000 |
 | naval role | coast |
-| metallurgy | 2 |
-| precision | 2 |
-| power | 2 |
-| chemistry | 2 |
-| aviation | 1 |
-| shipbuilding | 2 |
-| communications | 2 |
-| medicine | 2 |
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
@@ -3300,7 +3168,9 @@ Evidence bands: standard_of_living 26–56; confidence 35–55; protection 29–
 
 Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -3335,14 +3205,6 @@ Table and hospitality. Workers eat oat flatbread, pea soup and smoked fish at co
 | serviceable artillery | 310 |
 | fleet displacement tonnes | 19,000 |
 | naval role | coast |
-| metallurgy | 2 |
-| precision | 2 |
-| power | 2 |
-| chemistry | 2 |
-| aviation | 1 |
-| shipbuilding | 2 |
-| communications | 2 |
-| medicine | 2 |
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
@@ -3445,7 +3307,9 @@ Evidence bands: standard_of_living 27–58; confidence 41–61; protection 29–
 
 Typical adult lifespan: 58–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -3480,14 +3344,6 @@ Table and hospitality. Rye-and-oat bread, dried fish and sour cabbage dominate f
 | serviceable artillery | 460 |
 | fleet displacement tonnes | 28,000 |
 | naval role | coast |
-| metallurgy | 2 |
-| precision | 2 |
-| power | 2 |
-| chemistry | 2 |
-| aviation | 1 |
-| shipbuilding | 2 |
-| communications | 2 |
-| medicine | 2 |
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
@@ -3590,7 +3446,9 @@ Evidence bands: standard_of_living 26–56; confidence 40–60; protection 29–
 
 Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -3625,14 +3483,6 @@ Table and hospitality. Fish baked under a rye crust is shared along the shore; i
 | serviceable artillery | 400 |
 | fleet displacement tonnes | 26,180 |
 | naval role | coast |
-| metallurgy | 2 |
-| precision | 2 |
-| power | 2 |
-| chemistry | 2 |
-| aviation | 1 |
-| shipbuilding | 2 |
-| communications | 2 |
-| medicine | 2 |
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
@@ -3735,7 +3585,9 @@ Evidence bands: standard_of_living 20–51; confidence 36–56; protection 30–
 
 Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -3770,14 +3622,6 @@ Table and hospitality. Households bake bean-and-onion pies and stretch broth wit
 | serviceable artillery | 1,080 |
 | fleet displacement tonnes | 57,000 |
 | naval role | coast |
-| metallurgy | 2 |
-| precision | 3 |
-| power | 3 |
-| chemistry | 3 |
-| aviation | 2 |
-| shipbuilding | 3 |
-| communications | 3 |
-| medicine | 3 |
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
@@ -3880,7 +3724,9 @@ Evidence bands: standard_of_living 21–51; confidence 44–64; protection 50–
 
 Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -3915,14 +3761,6 @@ Table and hospitality. Rice-and-bean dishes with sharp green relish are common i
 | serviceable artillery | 810 |
 | fleet displacement tonnes | 49,000 |
 | naval role | coast |
-| metallurgy | 2 |
-| precision | 3 |
-| power | 3 |
-| chemistry | 3 |
-| aviation | 2 |
-| shipbuilding | 3 |
-| communications | 3 |
-| medicine | 3 |
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
@@ -4025,7 +3863,9 @@ Evidence bands: standard_of_living 21–51; confidence 40–61; protection 30–
 
 Typical adult lifespan: 58–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -4060,14 +3900,6 @@ Table and hospitality. Coastal kitchens combine fish, white beans, garlic and lo
 | serviceable artillery | 630 |
 | fleet displacement tonnes | 35,000 |
 | naval role | coast |
-| metallurgy | 2 |
-| precision | 3 |
-| power | 3 |
-| chemistry | 3 |
-| aviation | 2 |
-| shipbuilding | 3 |
-| communications | 3 |
-| medicine | 3 |
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 1 |
@@ -4170,7 +4002,9 @@ Evidence bands: standard_of_living 28–59; confidence 39–66; protection 11–
 
 Typical adult lifespan: 59–79 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -4205,14 +4039,6 @@ Table and hospitality. Pass commerce carried dairy and grain dishes between othe
 | serviceable artillery | 708 |
 | fleet displacement tonnes | 0 |
 | naval role | none |
-| metallurgy | 5 |
-| precision | 4 |
-| power | 4 |
-| chemistry | 3 |
-| aviation | 2 |
-| shipbuilding | 1 |
-| communications | 3 |
-| medicine | 3 |
 | readiness (1–5) | 4 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 3 |
@@ -4315,7 +4141,9 @@ Evidence bands: standard_of_living 25–56; confidence 27–47; protection 11–
 
 Typical adult lifespan: 59–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -4350,14 +4178,6 @@ Table and hospitality. Agricultural estates feed the northern arsenals; ducal ki
 | serviceable artillery | 1,885 |
 | fleet displacement tonnes | 53,000 |
 | naval role | coast |
-| metallurgy | 4 |
-| precision | 3 |
-| power | 4 |
-| chemistry | 4 |
-| aviation | 3 |
-| shipbuilding | 3 |
-| communications | 3 |
-| medicine | 3 |
 | readiness (1–5) | 4 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 4 |
@@ -4460,7 +4280,9 @@ Evidence bands: standard_of_living 26–56; confidence 35–55; protection 31–
 
 Typical adult lifespan: 59–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -4495,14 +4317,6 @@ Table and hospitality. Old coastal markets and the railway labour settlements ex
 | serviceable artillery | 720 |
 | fleet displacement tonnes | 31,000 |
 | naval role | coast |
-| metallurgy | 4 |
-| precision | 3 |
-| power | 4 |
-| chemistry | 3 |
-| aviation | 3 |
-| shipbuilding | 3 |
-| communications | 3 |
-| medicine | 3 |
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
@@ -4605,7 +4419,9 @@ Evidence bands: standard_of_living 31–61; confidence 43–63; protection 13–
 
 Typical adult lifespan: 60–79 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -4640,14 +4456,6 @@ Table and hospitality. The banking ports absorbed recipes from their merchant cr
 | serviceable artillery | 690 |
 | fleet displacement tonnes | 166,800 |
 | naval role | ocean |
-| metallurgy | 4 |
-| precision | 4 |
-| power | 4 |
-| chemistry | 4 |
-| aviation | 4 |
-| shipbuilding | 5 |
-| communications | 4 |
-| medicine | 4 |
 | readiness (1–5) | 4 |
 | logistics (1–5) | 4 |
 | cohesion (1–5) | 3 |
@@ -4750,7 +4558,9 @@ Evidence bands: standard_of_living 29–59; confidence 35–55; protection 11–
 
 Typical adult lifespan: 59–79 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -4785,14 +4595,6 @@ Table and hospitality. Limited grain land and long sea passages made imported fl
 | serviceable artillery | 170 |
 | fleet displacement tonnes | 30,200 |
 | naval role | island |
-| metallurgy | 3 |
-| precision | 4 |
-| power | 3 |
-| chemistry | 3 |
-| aviation | 3 |
-| shipbuilding | 4 |
-| communications | 4 |
-| medicine | 3 |
 | readiness (1–5) | 4 |
 | logistics (1–5) | 4 |
 | cohesion (1–5) | 4 |
@@ -4895,7 +4697,9 @@ Evidence bands: standard_of_living 29–59; confidence 55–75; protection 69–
 
 Typical adult lifespan: 58–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -4930,14 +4734,6 @@ Table and hospitality. Terrace farms and convoy stores support distinct island k
 | serviceable artillery | 40 |
 | fleet displacement tonnes | 14,660 |
 | naval role | coast |
-| metallurgy | 2 |
-| precision | 2 |
-| power | 2 |
-| chemistry | 2 |
-| aviation | 1 |
-| shipbuilding | 3 |
-| communications | 3 |
-| medicine | 2 |
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
@@ -5040,7 +4836,9 @@ Evidence bands: standard_of_living 31–62; confidence 42–63; protection 10–
 
 Typical adult lifespan: 59–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -5075,14 +4873,6 @@ Table and hospitality. Older island farming overlaps with settler orchards and e
 | serviceable artillery | 36 |
 | fleet displacement tonnes | 7,800 |
 | naval role | coast |
-| metallurgy | 2 |
-| precision | 2 |
-| power | 2 |
-| chemistry | 2 |
-| aviation | 1 |
-| shipbuilding | 2 |
-| communications | 3 |
-| medicine | 2 |
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 2 |
@@ -5185,7 +4975,9 @@ Evidence bands: standard_of_living 28–58; confidence 48–68; protection 69–
 
 Typical adult lifespan: 58–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -5220,14 +5012,6 @@ Table and hospitality. Terraced grain and sheltered orchards developed alongside
 | serviceable artillery | 65 |
 | fleet displacement tonnes | 22,000 |
 | naval role | coast |
-| metallurgy | 2 |
-| precision | 2 |
-| power | 3 |
-| chemistry | 2 |
-| aviation | 1 |
-| shipbuilding | 3 |
-| communications | 3 |
-| medicine | 2 |
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 4 |
@@ -5330,7 +5114,9 @@ Evidence bands: standard_of_living 26–57; confidence 41–62; protection 29–
 
 Typical adult lifespan: 58–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -5365,14 +5151,6 @@ Table and hospitality. Cold-water fishing and mixed farming supply households an
 | serviceable artillery | 24 |
 | fleet displacement tonnes | 4,200 |
 | naval role | coast |
-| metallurgy | 2 |
-| precision | 1 |
-| power | 2 |
-| chemistry | 2 |
-| aviation | 1 |
-| shipbuilding | 2 |
-| communications | 2 |
-| medicine | 2 |
 | readiness (1–5) | 2 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 2 |
@@ -5475,7 +5253,9 @@ Evidence bands: standard_of_living 20–50; confidence 52–73; protection 68–
 
 Typical adult lifespan: 57–76 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -5510,14 +5290,6 @@ Table and hospitality. Collective stores and rescue obligations shape the table.
 | serviceable artillery | 12 |
 | fleet displacement tonnes | 1,600 |
 | naval role | coast |
-| metallurgy | 1 |
-| precision | 1 |
-| power | 1 |
-| chemistry | 1 |
-| aviation | 1 |
-| shipbuilding | 2 |
-| communications | 2 |
-| medicine | 2 |
 | readiness (1–5) | 3 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 3 |
@@ -5620,7 +5392,9 @@ Evidence bands: standard_of_living 24–54; confidence 47–67; protection 11–
 
 Typical adult lifespan: 59–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -5655,14 +5429,6 @@ Table and hospitality. Port commerce brought varied seasonings to island farming
 | serviceable artillery | 58 |
 | fleet displacement tonnes | 24,750 |
 | naval role | coast |
-| metallurgy | 3 |
-| precision | 3 |
-| power | 3 |
-| chemistry | 3 |
-| aviation | 2 |
-| shipbuilding | 3 |
-| communications | 3 |
-| medicine | 3 |
 | readiness (1–5) | 4 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 3 |
@@ -5765,7 +5531,9 @@ Evidence bands: standard_of_living 22–53; confidence 46–66; protection 68–
 
 Typical adult lifespan: 57–77 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -5800,14 +5568,6 @@ Table and hospitality. Wet-valley cultivation and reef fisheries support inter-i
 | serviceable artillery | 28 |
 | fleet displacement tonnes | 5,600 |
 | naval role | coast |
-| metallurgy | 2 |
-| precision | 1 |
-| power | 2 |
-| chemistry | 1 |
-| aviation | 1 |
-| shipbuilding | 2 |
-| communications | 2 |
-| medicine | 2 |
 | readiness (1–5) | 3 |
 | logistics (1–5) | 2 |
 | cohesion (1–5) | 3 |
@@ -5910,7 +5670,9 @@ Evidence bands: standard_of_living 30–61; confidence 47–67; protection 50–
 
 Typical adult lifespan: 59–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -5945,14 +5707,6 @@ Table and hospitality. A maritime court draws on irrigated valleys, plantation d
 | serviceable artillery | 44 |
 | fleet displacement tonnes | 17,800 |
 | naval role | coast |
-| metallurgy | 2 |
-| precision | 2 |
-| power | 3 |
-| chemistry | 2 |
-| aviation | 1 |
-| shipbuilding | 3 |
-| communications | 3 |
-| medicine | 2 |
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 4 |
@@ -6055,7 +5809,9 @@ Evidence bands: standard_of_living 28–59; confidence 42–62; protection 29–
 
 Typical adult lifespan: 58–78 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -6090,14 +5846,6 @@ Table and hospitality. Settler dairy farms and older fishing communities exchang
 | serviceable artillery | 42 |
 | fleet displacement tonnes | 11,500 |
 | naval role | coast |
-| metallurgy | 2 |
-| precision | 2 |
-| power | 2 |
-| chemistry | 2 |
-| aviation | 1 |
-| shipbuilding | 2 |
-| communications | 3 |
-| medicine | 2 |
 | readiness (1–5) | 3 |
 | logistics (1–5) | 3 |
 | cohesion (1–5) | 2 |
@@ -6200,7 +5948,9 @@ Evidence bands: standard_of_living 18–48; confidence 52–72; protection 67–
 
 Typical adult lifespan: 56–76 local years of age. Central half of modelled adult death ages, not minimum/maximum limits. Estimated, reviewed 05/11/0068 AC43.
 
-[Household budgets, 15 technical fields, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+[Household budgets, annual development rates and mortality method](DEVELOPMENT-REFERENCE.md).
+
+[Named technology capabilities, production and adoption](TECHNOLOGY-FRAMEWORK.md).
 
 ### Year 68 developments
 
@@ -6235,14 +5985,6 @@ Table and hospitality. Seasonal travel and reciprocal refuge duties shape storag
 | serviceable artillery | 4 |
 | fleet displacement tonnes | 250 |
 | naval role | coast |
-| metallurgy | 1 |
-| precision | 1 |
-| power | 1 |
-| chemistry | 1 |
-| aviation | 1 |
-| shipbuilding | 2 |
-| communications | 2 |
-| medicine | 1 |
 | readiness (1–5) | 2 |
 | logistics (1–5) | 1 |
 | cohesion (1–5) | 3 |

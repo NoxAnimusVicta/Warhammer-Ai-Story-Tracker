@@ -18,7 +18,9 @@ Initial income uncertainty is ±20% and basket-price uncertainty ±15%, carried 
 
 ## Technology: capacity, improvement and spread
 
-Every national record now has 15 practical fields covering materials, tooling, energy, chemistry, aviation, maritime engineering, communications, medicine, agriculture, water/sanitation, ground transport, construction, household industry, conventional arms and technical learning. Each identifies the existing ratings used, concrete scope, national specialties and limiting conditions. Derived fields are estimates from related capabilities, not proof of every named invention or equal access in every village. A leading native industry remains within the established conventional planetary envelope; captured Hunter equipment and Galahad's projects have separate records.
+Every national record has named capabilities grouped into 15 fields, with separate operation, understanding, production/repair and adoption records. [Technology framework](TECHNOLOGY-FRAMEWORK.md) provides the cross-era catalogue and enabling foundations. A local industrial score is no longer presented as a technology level. Initial assessments are frozen, explicitly labelled inferences from established national industries; narrower demonstrated examples carry their own evidence. A high legacy score does not award every invention in a field. Unverified means unresolved, not necessarily absent.
+
+Legacy industrial-depth inputs remain in archived/compatibility data to preserve existing economic and ordinary-development calculations. They do not govern future unlocks. Annual reviews must update the capability ledger, including imports, production dependence, coverage and losses, alongside these efficiency forecasts.
 
 Two ordinary annual rates are distinguished:
 
@@ -27,7 +29,7 @@ Two ordinary annual rates are distinguished:
 
 Rates are transparent scenario calibrations, not historical universal laws. Research capacity = education spending per resident / 8, bounded 0–1; investment capacity = public works per resident / 15, bounded 0–1; exchange = (communications rating − 1) / 4. Retained effort is 0.85 under ordinary Hunter pressure, 0.55 in Ossavren's civil conflict, 0.70 in Haldrevik's local fighting. These initial factors are reviewed yearly, not permanent national attributes. Midpoint improvement = `(0.3 + 1.4 research + 0.6 exchange) × retained effort`, with a 60–140% range. Adoption midpoint = `(1 + 3 investment + exchange) × retained effort × (1 + 0.12 × (5 − field capability))`, with a 65–135% range. Public budgets are proxies for wider training/investment; replace them with explicit research and capital inputs when those are recorded.
 
-Ordinary societies develop without Galahad. At each annual review, account for those expected improvements, diffusion, imports, repairs and training, then recorded losses. Record a reason for outcomes outside the forecast, including stagnation. Do not compound the same progress twice through productivity and the existing output trend. Technical progress already included in output must be reconciled, not added again. Tier changes need demonstrated capability, trained people and production capacity. Major inventions need their own project/event; a forecast never unlocks plasma, nuclear power, life extension or an STC industry. Cullings can destroy plant, trained communities and retained knowledge; loss requires an event, not an automatic erasure of every advance.
+Ordinary societies develop without Galahad. At each annual review, account for those expected improvements, diffusion, imports, repairs and training, then recorded losses. Record a reason for outcomes outside the forecast, including stagnation. Do not compound the same progress twice through productivity and the existing output trend. Technical progress already included in output must be reconciled, not added again. New capability records need demonstrated evidence, trained people and production capacity. Major inventions need their own project/event; a forecast never unlocks plasma, nuclear power, life extension or an STC industry. Cullings can destroy plant, trained communities and retained knowledge; loss requires an event, not an automatic erasure of every advance.
 
 ## National lifespan and individual mortality
 
@@ -63,23 +65,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 61%; reliable clean water: 68%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 60–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.72 and public works 8.15 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 5.0 | 0.62–1.46% | 1.87–3.88 percentage points |
-| Machine tools & precision | 4.0 | 0.62–1.46% | 2.09–4.34 percentage points |
-| Energy & electrification | 5.0 | 0.62–1.46% | 1.87–3.88 percentage points |
-| Chemicals & industrial processes | 4.0 | 0.62–1.46% | 2.09–4.34 percentage points |
-| Aviation & aeronautics | 4.0 | 0.62–1.46% | 2.09–4.34 percentage points |
-| Maritime engineering | 4.0 | 0.62–1.46% | 2.09–4.34 percentage points |
-| Communications & electrical instruments | 4.0 | 0.62–1.46% | 2.09–4.34 percentage points |
-| Medicine & public health | 4.0 | 0.62–1.46% | 2.09–4.34 percentage points |
-| Agriculture & food preservation | 4.5 | 0.62–1.46% | 1.98–4.11 percentage points |
-| Water, sanitation & civil works | 4.3 | 0.62–1.46% | 2.02–4.19 percentage points |
-| Rail, roads & motor transport | 4.7 | 0.62–1.46% | 1.94–4.03 percentage points |
-| Construction & structural engineering | 4.5 | 0.62–1.46% | 1.98–4.11 percentage points |
-| Textiles & household manufacture | 4.3 | 0.62–1.46% | 2.02–4.19 percentage points |
-| Conventional military manufacture | 4.3 | 0.62–1.46% | 2.02–4.19 percentage points |
-| Technical learning & knowledge retention | 4.0 | 0.62–1.46% | 2.09–4.34 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.62–1.46% | 1.87–3.88 percentage points |
+| Machine tools & precision | 0.62–1.46% | 2.09–4.34 percentage points |
+| Energy & electrification | 0.62–1.46% | 1.87–3.88 percentage points |
+| Chemicals & industrial processes | 0.62–1.46% | 2.09–4.34 percentage points |
+| Aviation & aeronautics | 0.62–1.46% | 2.09–4.34 percentage points |
+| Maritime engineering | 0.62–1.46% | 2.09–4.34 percentage points |
+| Communications & electrical instruments | 0.62–1.46% | 2.09–4.34 percentage points |
+| Medicine & public health | 0.62–1.46% | 2.09–4.34 percentage points |
+| Agriculture & food preservation | 0.62–1.46% | 1.98–4.11 percentage points |
+| Water, sanitation & civil works | 0.62–1.46% | 2.02–4.19 percentage points |
+| Rail, roads & motor transport | 0.62–1.46% | 1.94–4.03 percentage points |
+| Construction & structural engineering | 0.62–1.46% | 1.98–4.11 percentage points |
+| Textiles & household manufacture | 0.62–1.46% | 2.02–4.19 percentage points |
+| Conventional military manufacture | 0.62–1.46% | 2.02–4.19 percentage points |
+| Technical learning & knowledge retention | 0.62–1.46% | 2.09–4.34 percentage points |
 
 Specialties: Heavy engineering, railway equipment and general manufactures; coal and processed fuel exports. Constraints: Provincial consent slows concentration; major arsenals and railway junctions remain irreplaceable targets.
 ## Ostrevain
@@ -93,23 +96,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 52%; reliable clean water: 48%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.42 and public works 3.40 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 4.0 | 0.43–1.01% | 1.35–2.8 percentage points |
-| Machine tools & precision | 3.0 | 0.43–1.01% | 1.49–3.1 percentage points |
-| Energy & electrification | 3.0 | 0.43–1.01% | 1.49–3.1 percentage points |
-| Chemicals & industrial processes | 4.0 | 0.43–1.01% | 1.35–2.8 percentage points |
-| Aviation & aeronautics | 3.0 | 0.43–1.01% | 1.49–3.1 percentage points |
-| Maritime engineering | 2.0 | 0.43–1.01% | 1.64–3.4 percentage points |
-| Communications & electrical instruments | 3.0 | 0.43–1.01% | 1.49–3.1 percentage points |
-| Medicine & public health | 3.0 | 0.43–1.01% | 1.49–3.1 percentage points |
-| Agriculture & food preservation | 3.5 | 0.43–1.01% | 1.42–2.95 percentage points |
-| Water, sanitation & civil works | 3.3 | 0.43–1.01% | 1.45–3.0 percentage points |
-| Rail, roads & motor transport | 3.3 | 0.43–1.01% | 1.45–3.0 percentage points |
-| Construction & structural engineering | 3.5 | 0.43–1.01% | 1.42–2.95 percentage points |
-| Textiles & household manufacture | 3.3 | 0.43–1.01% | 1.45–3.0 percentage points |
-| Conventional military manufacture | 3.7 | 0.43–1.01% | 1.4–2.9 percentage points |
-| Technical learning & knowledge retention | 3.0 | 0.43–1.01% | 1.49–3.1 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.43–1.01% | 1.35–2.8 percentage points |
+| Machine tools & precision | 0.43–1.01% | 1.49–3.1 percentage points |
+| Energy & electrification | 0.43–1.01% | 1.49–3.1 percentage points |
+| Chemicals & industrial processes | 0.43–1.01% | 1.35–2.8 percentage points |
+| Aviation & aeronautics | 0.43–1.01% | 1.49–3.1 percentage points |
+| Maritime engineering | 0.43–1.01% | 1.64–3.4 percentage points |
+| Communications & electrical instruments | 0.43–1.01% | 1.49–3.1 percentage points |
+| Medicine & public health | 0.43–1.01% | 1.49–3.1 percentage points |
+| Agriculture & food preservation | 0.43–1.01% | 1.42–2.95 percentage points |
+| Water, sanitation & civil works | 0.43–1.01% | 1.45–3.0 percentage points |
+| Rail, roads & motor transport | 0.43–1.01% | 1.45–3.0 percentage points |
+| Construction & structural engineering | 0.43–1.01% | 1.42–2.95 percentage points |
+| Textiles & household manufacture | 0.43–1.01% | 1.45–3.0 percentage points |
+| Conventional military manufacture | 0.43–1.01% | 1.4–2.9 percentage points |
+| Technical learning & knowledge retention | 0.43–1.01% | 1.49–3.1 percentage points |
 
 Specialties: Grain distribution, military stores and arsenal production. Constraints: Mass manpower outstrips motor transport; imported precision machinery constrains arsenal expansion.
 ## Rovessara
@@ -123,23 +127,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 64%; reliable clean water: 64%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 60–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 5.70 and public works 5.94 L-eq per resident; communication capability 5/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 4.0 | 0.97–2.26% | 1.97–4.1 percentage points |
-| Machine tools & precision | 5.0 | 0.97–2.26% | 1.76–3.66 percentage points |
-| Energy & electrification | 5.0 | 0.97–2.26% | 1.76–3.66 percentage points |
-| Chemicals & industrial processes | 5.0 | 0.97–2.26% | 1.76–3.66 percentage points |
-| Aviation & aeronautics | 5.0 | 0.97–2.26% | 1.76–3.66 percentage points |
-| Maritime engineering | 5.0 | 0.97–2.26% | 1.76–3.66 percentage points |
-| Communications & electrical instruments | 5.0 | 0.97–2.26% | 1.76–3.66 percentage points |
-| Medicine & public health | 4.0 | 0.97–2.26% | 1.97–4.1 percentage points |
-| Agriculture & food preservation | 5.0 | 0.97–2.26% | 1.76–3.66 percentage points |
-| Water, sanitation & civil works | 5.0 | 0.97–2.26% | 1.76–3.66 percentage points |
-| Rail, roads & motor transport | 4.7 | 0.97–2.26% | 1.83–3.8 percentage points |
-| Construction & structural engineering | 4.5 | 0.97–2.26% | 1.87–3.88 percentage points |
-| Textiles & household manufacture | 5.0 | 0.97–2.26% | 1.76–3.66 percentage points |
-| Conventional military manufacture | 4.7 | 0.97–2.26% | 1.83–3.8 percentage points |
-| Technical learning & knowledge retention | 5.0 | 0.97–2.26% | 1.76–3.66 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.97–2.26% | 1.97–4.1 percentage points |
+| Machine tools & precision | 0.97–2.26% | 1.76–3.66 percentage points |
+| Energy & electrification | 0.97–2.26% | 1.76–3.66 percentage points |
+| Chemicals & industrial processes | 0.97–2.26% | 1.76–3.66 percentage points |
+| Aviation & aeronautics | 0.97–2.26% | 1.76–3.66 percentage points |
+| Maritime engineering | 0.97–2.26% | 1.76–3.66 percentage points |
+| Communications & electrical instruments | 0.97–2.26% | 1.76–3.66 percentage points |
+| Medicine & public health | 0.97–2.26% | 1.97–4.1 percentage points |
+| Agriculture & food preservation | 0.97–2.26% | 1.76–3.66 percentage points |
+| Water, sanitation & civil works | 0.97–2.26% | 1.76–3.66 percentage points |
+| Rail, roads & motor transport | 0.97–2.26% | 1.83–3.8 percentage points |
+| Construction & structural engineering | 0.97–2.26% | 1.87–3.88 percentage points |
+| Textiles & household manufacture | 0.97–2.26% | 1.76–3.66 percentage points |
+| Conventional military manufacture | 0.97–2.26% | 1.83–3.8 percentage points |
+| Technical learning & knowledge retention | 0.97–2.26% | 1.76–3.66 percentage points |
 
 Specialties: Precision instruments, electrical apparatus and overseas commerce. Constraints: Trade interruption threatens fuel and food imports; its skilled workforce is difficult to replace.
 ## Brannervaux
@@ -153,23 +158,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 60%; reliable clean water: 56%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.82 and public works 4.38 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 3.0 | 0.55–1.27% | 1.8–3.74 percentage points |
-| Machine tools & precision | 4.0 | 0.55–1.27% | 1.62–3.37 percentage points |
-| Energy & electrification | 4.0 | 0.55–1.27% | 1.62–3.37 percentage points |
-| Chemicals & industrial processes | 5.0 | 0.55–1.27% | 1.45–3.01 percentage points |
-| Aviation & aeronautics | 3.0 | 0.55–1.27% | 1.8–3.74 percentage points |
-| Maritime engineering | 3.0 | 0.55–1.27% | 1.8–3.74 percentage points |
-| Communications & electrical instruments | 4.0 | 0.55–1.27% | 1.62–3.37 percentage points |
-| Medicine & public health | 4.0 | 0.55–1.27% | 1.62–3.37 percentage points |
-| Agriculture & food preservation | 4.5 | 0.55–1.27% | 1.54–3.19 percentage points |
-| Water, sanitation & civil works | 4.3 | 0.55–1.27% | 1.57–3.25 percentage points |
-| Rail, roads & motor transport | 3.7 | 0.55–1.27% | 1.68–3.5 percentage points |
-| Construction & structural engineering | 3.5 | 0.55–1.27% | 1.71–3.56 percentage points |
-| Textiles & household manufacture | 4.3 | 0.55–1.27% | 1.57–3.25 percentage points |
-| Conventional military manufacture | 4.0 | 0.55–1.27% | 1.62–3.37 percentage points |
-| Technical learning & knowledge retention | 4.0 | 0.55–1.27% | 1.62–3.37 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.55–1.27% | 1.8–3.74 percentage points |
+| Machine tools & precision | 0.55–1.27% | 1.62–3.37 percentage points |
+| Energy & electrification | 0.55–1.27% | 1.62–3.37 percentage points |
+| Chemicals & industrial processes | 0.55–1.27% | 1.45–3.01 percentage points |
+| Aviation & aeronautics | 0.55–1.27% | 1.8–3.74 percentage points |
+| Maritime engineering | 0.55–1.27% | 1.8–3.74 percentage points |
+| Communications & electrical instruments | 0.55–1.27% | 1.62–3.37 percentage points |
+| Medicine & public health | 0.55–1.27% | 1.62–3.37 percentage points |
+| Agriculture & food preservation | 0.55–1.27% | 1.54–3.19 percentage points |
+| Water, sanitation & civil works | 0.55–1.27% | 1.57–3.25 percentage points |
+| Rail, roads & motor transport | 0.55–1.27% | 1.68–3.5 percentage points |
+| Construction & structural engineering | 0.55–1.27% | 1.71–3.56 percentage points |
+| Textiles & household manufacture | 0.55–1.27% | 1.57–3.25 percentage points |
+| Conventional military manufacture | 0.55–1.27% | 1.62–3.37 percentage points |
+| Technical learning & knowledge retention | 0.55–1.27% | 1.62–3.37 percentage points |
 
 Specialties: Water engineering, agricultural processing and industrial chemistry. Constraints: Water allocation and estate vetoes complicate mobilisation; river freight is sensitive to damaged locks.
 ## Cervaud
@@ -183,23 +189,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 54%; reliable clean water: 48%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.58 and public works 3.47 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 3.0 | 0.45–1.04% | 1.5–3.12 percentage points |
-| Machine tools & precision | 3.0 | 0.45–1.04% | 1.5–3.12 percentage points |
-| Energy & electrification | 3.0 | 0.45–1.04% | 1.5–3.12 percentage points |
-| Chemicals & industrial processes | 3.0 | 0.45–1.04% | 1.5–3.12 percentage points |
-| Aviation & aeronautics | 2.0 | 0.45–1.04% | 1.65–3.42 percentage points |
-| Maritime engineering | 1.0 | 0.45–1.04% | 1.79–3.72 percentage points |
-| Communications & electrical instruments | 3.0 | 0.45–1.04% | 1.5–3.12 percentage points |
-| Medicine & public health | 3.0 | 0.45–1.04% | 1.5–3.12 percentage points |
-| Agriculture & food preservation | 3.0 | 0.45–1.04% | 1.5–3.12 percentage points |
-| Water, sanitation & civil works | 3.0 | 0.45–1.04% | 1.5–3.12 percentage points |
-| Rail, roads & motor transport | 3.0 | 0.45–1.04% | 1.5–3.12 percentage points |
-| Construction & structural engineering | 3.0 | 0.45–1.04% | 1.5–3.12 percentage points |
-| Textiles & household manufacture | 3.0 | 0.45–1.04% | 1.5–3.12 percentage points |
-| Conventional military manufacture | 3.0 | 0.45–1.04% | 1.5–3.12 percentage points |
-| Technical learning & knowledge retention | 3.0 | 0.45–1.04% | 1.5–3.12 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.45–1.04% | 1.5–3.12 percentage points |
+| Machine tools & precision | 0.45–1.04% | 1.5–3.12 percentage points |
+| Energy & electrification | 0.45–1.04% | 1.5–3.12 percentage points |
+| Chemicals & industrial processes | 0.45–1.04% | 1.5–3.12 percentage points |
+| Aviation & aeronautics | 0.45–1.04% | 1.65–3.42 percentage points |
+| Maritime engineering | 0.45–1.04% | 1.79–3.72 percentage points |
+| Communications & electrical instruments | 0.45–1.04% | 1.5–3.12 percentage points |
+| Medicine & public health | 0.45–1.04% | 1.5–3.12 percentage points |
+| Agriculture & food preservation | 0.45–1.04% | 1.5–3.12 percentage points |
+| Water, sanitation & civil works | 0.45–1.04% | 1.5–3.12 percentage points |
+| Rail, roads & motor transport | 0.45–1.04% | 1.5–3.12 percentage points |
+| Construction & structural engineering | 0.45–1.04% | 1.5–3.12 percentage points |
+| Textiles & household manufacture | 0.45–1.04% | 1.5–3.12 percentage points |
+| Conventional military manufacture | 0.45–1.04% | 1.5–3.12 percentage points |
+| Technical learning & knowledge retention | 0.45–1.04% | 1.5–3.12 percentage points |
 
 Specialties: Frontier logistics, armaments repair and estate agriculture. Constraints: Arms and credit depend on competing patrons; prolonged mobilisation drains agricultural labour.
 ## Veylac
@@ -213,23 +220,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 62%; reliable clean water: 64%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 60–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 3.01 and public works 9.03 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 5.0 | 0.65–1.52% | 1.96–4.08 percentage points |
-| Machine tools & precision | 5.0 | 0.65–1.52% | 1.96–4.08 percentage points |
-| Energy & electrification | 4.0 | 0.65–1.52% | 2.2–4.57 percentage points |
-| Chemicals & industrial processes | 4.0 | 0.65–1.52% | 2.2–4.57 percentage points |
-| Aviation & aeronautics | 4.0 | 0.65–1.52% | 2.2–4.57 percentage points |
-| Maritime engineering | 2.0 | 0.65–1.52% | 2.67–5.55 percentage points |
-| Communications & electrical instruments | 4.0 | 0.65–1.52% | 2.2–4.57 percentage points |
-| Medicine & public health | 4.0 | 0.65–1.52% | 2.2–4.57 percentage points |
-| Agriculture & food preservation | 4.0 | 0.65–1.52% | 2.2–4.57 percentage points |
-| Water, sanitation & civil works | 4.3 | 0.65–1.52% | 2.12–4.41 percentage points |
-| Rail, roads & motor transport | 4.7 | 0.65–1.52% | 2.04–4.24 percentage points |
-| Construction & structural engineering | 5.0 | 0.65–1.52% | 1.96–4.08 percentage points |
-| Textiles & household manufacture | 4.3 | 0.65–1.52% | 2.12–4.41 percentage points |
-| Conventional military manufacture | 4.7 | 0.65–1.52% | 2.04–4.24 percentage points |
-| Technical learning & knowledge retention | 4.5 | 0.65–1.52% | 2.08–4.33 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.65–1.52% | 1.96–4.08 percentage points |
+| Machine tools & precision | 0.65–1.52% | 1.96–4.08 percentage points |
+| Energy & electrification | 0.65–1.52% | 2.2–4.57 percentage points |
+| Chemicals & industrial processes | 0.65–1.52% | 2.2–4.57 percentage points |
+| Aviation & aeronautics | 0.65–1.52% | 2.2–4.57 percentage points |
+| Maritime engineering | 0.65–1.52% | 2.67–5.55 percentage points |
+| Communications & electrical instruments | 0.65–1.52% | 2.2–4.57 percentage points |
+| Medicine & public health | 0.65–1.52% | 2.2–4.57 percentage points |
+| Agriculture & food preservation | 0.65–1.52% | 2.2–4.57 percentage points |
+| Water, sanitation & civil works | 0.65–1.52% | 2.12–4.41 percentage points |
+| Rail, roads & motor transport | 0.65–1.52% | 2.04–4.24 percentage points |
+| Construction & structural engineering | 0.65–1.52% | 1.96–4.08 percentage points |
+| Textiles & household manufacture | 0.65–1.52% | 2.12–4.41 percentage points |
+| Conventional military manufacture | 0.65–1.52% | 2.04–4.24 percentage points |
+| Technical learning & knowledge retention | 0.65–1.52% | 2.08–4.33 percentage points |
 
 Specialties: Metallurgy, machine tools and factory production. Constraints: Exposed frontier factories and food imports limit a long war despite excellent machine-tool output.
 ## Ossavren successor territories
@@ -243,23 +251,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 54%; reliable clean water: 49%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.68 and public works 3.70 L-eq per resident; communication capability 3/5; retained effort factor 0.55. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 4.0 | 0.3–0.69% | 0.9–1.86 percentage points |
-| Machine tools & precision | 3.0 | 0.3–0.69% | 0.99–2.06 percentage points |
-| Energy & electrification | 3.0 | 0.3–0.69% | 0.99–2.06 percentage points |
-| Chemicals & industrial processes | 3.0 | 0.3–0.69% | 0.99–2.06 percentage points |
-| Aviation & aeronautics | 3.0 | 0.3–0.69% | 0.99–2.06 percentage points |
-| Maritime engineering | 3.0 | 0.3–0.69% | 0.99–2.06 percentage points |
-| Communications & electrical instruments | 3.0 | 0.3–0.69% | 0.99–2.06 percentage points |
-| Medicine & public health | 3.0 | 0.3–0.69% | 0.99–2.06 percentage points |
-| Agriculture & food preservation | 3.0 | 0.3–0.69% | 0.99–2.06 percentage points |
-| Water, sanitation & civil works | 3.0 | 0.3–0.69% | 0.99–2.06 percentage points |
-| Rail, roads & motor transport | 3.3 | 0.3–0.69% | 0.96–2.0 percentage points |
-| Construction & structural engineering | 3.5 | 0.3–0.69% | 0.95–1.96 percentage points |
-| Textiles & household manufacture | 3.0 | 0.3–0.69% | 0.99–2.06 percentage points |
-| Conventional military manufacture | 3.3 | 0.3–0.69% | 0.96–2.0 percentage points |
-| Technical learning & knowledge retention | 3.0 | 0.3–0.69% | 0.99–2.06 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.3–0.69% | 0.9–1.86 percentage points |
+| Machine tools & precision | 0.3–0.69% | 0.99–2.06 percentage points |
+| Energy & electrification | 0.3–0.69% | 0.99–2.06 percentage points |
+| Chemicals & industrial processes | 0.3–0.69% | 0.99–2.06 percentage points |
+| Aviation & aeronautics | 0.3–0.69% | 0.99–2.06 percentage points |
+| Maritime engineering | 0.3–0.69% | 0.99–2.06 percentage points |
+| Communications & electrical instruments | 0.3–0.69% | 0.99–2.06 percentage points |
+| Medicine & public health | 0.3–0.69% | 0.99–2.06 percentage points |
+| Agriculture & food preservation | 0.3–0.69% | 0.99–2.06 percentage points |
+| Water, sanitation & civil works | 0.3–0.69% | 0.99–2.06 percentage points |
+| Rail, roads & motor transport | 0.3–0.69% | 0.96–2.0 percentage points |
+| Construction & structural engineering | 0.3–0.69% | 0.95–1.96 percentage points |
+| Textiles & household manufacture | 0.3–0.69% | 0.99–2.06 percentage points |
+| Conventional military manufacture | 0.3–0.69% | 0.96–2.0 percentage points |
+| Technical learning & knowledge retention | 0.3–0.69% | 0.99–2.06 percentage points |
 
 Specialties: Competing provincial administrations, workshops and military supply; divided coalfields and petroleum districts. Constraints: Combined rival returns; no common treasury, staff or army. Rail gauges, tolls and civil fighting fragment capacity.
 ## Rovengard
@@ -273,23 +282,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 53%; reliable clean water: 54%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.92 and public works 5.77 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 3.0 | 0.48–1.11% | 1.82–3.77 percentage points |
-| Machine tools & precision | 3.0 | 0.48–1.11% | 1.82–3.77 percentage points |
-| Energy & electrification | 3.0 | 0.48–1.11% | 1.82–3.77 percentage points |
-| Chemicals & industrial processes | 3.0 | 0.48–1.11% | 1.82–3.77 percentage points |
-| Aviation & aeronautics | 2.0 | 0.48–1.11% | 1.99–4.14 percentage points |
-| Maritime engineering | 2.0 | 0.48–1.11% | 1.99–4.14 percentage points |
-| Communications & electrical instruments | 3.0 | 0.48–1.11% | 1.82–3.77 percentage points |
-| Medicine & public health | 3.0 | 0.48–1.11% | 1.82–3.77 percentage points |
-| Agriculture & food preservation | 3.0 | 0.48–1.11% | 1.82–3.77 percentage points |
-| Water, sanitation & civil works | 3.0 | 0.48–1.11% | 1.82–3.77 percentage points |
-| Rail, roads & motor transport | 3.0 | 0.48–1.11% | 1.82–3.77 percentage points |
-| Construction & structural engineering | 3.0 | 0.48–1.11% | 1.82–3.77 percentage points |
-| Textiles & household manufacture | 3.0 | 0.48–1.11% | 1.82–3.77 percentage points |
-| Conventional military manufacture | 3.0 | 0.48–1.11% | 1.82–3.77 percentage points |
-| Technical learning & knowledge retention | 3.0 | 0.48–1.11% | 1.82–3.77 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.48–1.11% | 1.82–3.77 percentage points |
+| Machine tools & precision | 0.48–1.11% | 1.82–3.77 percentage points |
+| Energy & electrification | 0.48–1.11% | 1.82–3.77 percentage points |
+| Chemicals & industrial processes | 0.48–1.11% | 1.82–3.77 percentage points |
+| Aviation & aeronautics | 0.48–1.11% | 1.99–4.14 percentage points |
+| Maritime engineering | 0.48–1.11% | 1.99–4.14 percentage points |
+| Communications & electrical instruments | 0.48–1.11% | 1.82–3.77 percentage points |
+| Medicine & public health | 0.48–1.11% | 1.82–3.77 percentage points |
+| Agriculture & food preservation | 0.48–1.11% | 1.82–3.77 percentage points |
+| Water, sanitation & civil works | 0.48–1.11% | 1.82–3.77 percentage points |
+| Rail, roads & motor transport | 0.48–1.11% | 1.82–3.77 percentage points |
+| Construction & structural engineering | 0.48–1.11% | 1.82–3.77 percentage points |
+| Textiles & household manufacture | 0.48–1.11% | 1.82–3.77 percentage points |
+| Conventional military manufacture | 0.48–1.11% | 1.82–3.77 percentage points |
+| Technical learning & knowledge retention | 0.48–1.11% | 1.82–3.77 percentage points |
 
 Specialties: Valley agriculture, timber and stronghold supply. Constraints: Winter supply and dispersed valley garrisons consume most available transport.
 ## Varnesk
@@ -303,23 +313,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 60%; reliable clean water: 62%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 60–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.51 and public works 7.53 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 5.0 | 0.53–1.24% | 1.66–3.45 percentage points |
-| Machine tools & precision | 5.0 | 0.53–1.24% | 1.66–3.45 percentage points |
-| Energy & electrification | 4.0 | 0.53–1.24% | 1.86–3.86 percentage points |
-| Chemicals & industrial processes | 4.0 | 0.53–1.24% | 1.86–3.86 percentage points |
-| Aviation & aeronautics | 3.0 | 0.53–1.24% | 2.06–4.28 percentage points |
-| Maritime engineering | 2.0 | 0.53–1.24% | 2.26–4.69 percentage points |
-| Communications & electrical instruments | 3.0 | 0.53–1.24% | 2.06–4.28 percentage points |
-| Medicine & public health | 4.0 | 0.53–1.24% | 1.86–3.86 percentage points |
-| Agriculture & food preservation | 4.0 | 0.53–1.24% | 1.86–3.86 percentage points |
-| Water, sanitation & civil works | 4.3 | 0.53–1.24% | 1.79–3.73 percentage points |
-| Rail, roads & motor transport | 4.7 | 0.53–1.24% | 1.73–3.59 percentage points |
-| Construction & structural engineering | 5.0 | 0.53–1.24% | 1.66–3.45 percentage points |
-| Textiles & household manufacture | 4.3 | 0.53–1.24% | 1.79–3.73 percentage points |
-| Conventional military manufacture | 4.7 | 0.53–1.24% | 1.73–3.59 percentage points |
-| Technical learning & knowledge retention | 4.0 | 0.53–1.24% | 1.86–3.86 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.53–1.24% | 1.66–3.45 percentage points |
+| Machine tools & precision | 0.53–1.24% | 1.66–3.45 percentage points |
+| Energy & electrification | 0.53–1.24% | 1.86–3.86 percentage points |
+| Chemicals & industrial processes | 0.53–1.24% | 1.86–3.86 percentage points |
+| Aviation & aeronautics | 0.53–1.24% | 2.06–4.28 percentage points |
+| Maritime engineering | 0.53–1.24% | 2.26–4.69 percentage points |
+| Communications & electrical instruments | 0.53–1.24% | 2.06–4.28 percentage points |
+| Medicine & public health | 0.53–1.24% | 1.86–3.86 percentage points |
+| Agriculture & food preservation | 0.53–1.24% | 1.86–3.86 percentage points |
+| Water, sanitation & civil works | 0.53–1.24% | 1.79–3.73 percentage points |
+| Rail, roads & motor transport | 0.53–1.24% | 1.73–3.59 percentage points |
+| Construction & structural engineering | 0.53–1.24% | 1.66–3.45 percentage points |
+| Textiles & household manufacture | 0.53–1.24% | 1.79–3.73 percentage points |
+| Conventional military manufacture | 0.53–1.24% | 1.73–3.59 percentage points |
+| Technical learning & knowledge retention | 0.53–1.24% | 1.86–3.86 percentage points |
 
 Specialties: Ore processing, specialist steels, bearings and durable machinery. Constraints: Specialist foundries are strong; grain imports and seasonal routes make an extended blockade dangerous.
 ## Galdresk
@@ -333,23 +344,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 65%; reliable clean water: 50%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 3.98 and public works 4.15 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 2.0 | 0.74–1.72% | 1.94–4.03 percentage points |
-| Machine tools & precision | 3.0 | 0.74–1.72% | 1.77–3.67 percentage points |
-| Energy & electrification | 3.0 | 0.74–1.72% | 1.77–3.67 percentage points |
-| Chemicals & industrial processes | 3.0 | 0.74–1.72% | 1.77–3.67 percentage points |
-| Aviation & aeronautics | 2.0 | 0.74–1.72% | 1.94–4.03 percentage points |
-| Maritime engineering | 1.0 | 0.74–1.72% | 2.11–4.38 percentage points |
-| Communications & electrical instruments | 4.0 | 0.74–1.72% | 1.6–3.32 percentage points |
-| Medicine & public health | 5.0 | 0.74–1.72% | 1.43–2.96 percentage points |
-| Agriculture & food preservation | 3.0 | 0.74–1.72% | 1.77–3.67 percentage points |
-| Water, sanitation & civil works | 3.0 | 0.74–1.72% | 1.77–3.67 percentage points |
-| Rail, roads & motor transport | 2.7 | 0.74–1.72% | 1.83–3.79 percentage points |
-| Construction & structural engineering | 2.5 | 0.74–1.72% | 1.85–3.85 percentage points |
-| Textiles & household manufacture | 3.0 | 0.74–1.72% | 1.77–3.67 percentage points |
-| Conventional military manufacture | 2.7 | 0.74–1.72% | 1.83–3.79 percentage points |
-| Technical learning & knowledge retention | 3.5 | 0.74–1.72% | 1.68–3.49 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.74–1.72% | 1.94–4.03 percentage points |
+| Machine tools & precision | 0.74–1.72% | 1.77–3.67 percentage points |
+| Energy & electrification | 0.74–1.72% | 1.77–3.67 percentage points |
+| Chemicals & industrial processes | 0.74–1.72% | 1.77–3.67 percentage points |
+| Aviation & aeronautics | 0.74–1.72% | 1.94–4.03 percentage points |
+| Maritime engineering | 0.74–1.72% | 2.11–4.38 percentage points |
+| Communications & electrical instruments | 0.74–1.72% | 1.6–3.32 percentage points |
+| Medicine & public health | 0.74–1.72% | 1.43–2.96 percentage points |
+| Agriculture & food preservation | 0.74–1.72% | 1.77–3.67 percentage points |
+| Water, sanitation & civil works | 0.74–1.72% | 1.77–3.67 percentage points |
+| Rail, roads & motor transport | 0.74–1.72% | 1.83–3.79 percentage points |
+| Construction & structural engineering | 0.74–1.72% | 1.85–3.85 percentage points |
+| Textiles & household manufacture | 0.74–1.72% | 1.77–3.67 percentage points |
+| Conventional military manufacture | 0.74–1.72% | 1.83–3.79 percentage points |
+| Technical learning & knowledge retention | 0.74–1.72% | 1.68–3.49 percentage points |
 
 Specialties: Field medicine, communications and scholarly traditions. Constraints: Small arsenals and scattered teaching houses constrain scale; trained wardens excel locally rather than in mass campaigns.
 ## Halskert
@@ -363,23 +375,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 52%; reliable clean water: 49%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.50 and public works 3.60 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 3.0 | 0.44–1.03% | 1.52–3.16 percentage points |
-| Machine tools & precision | 3.0 | 0.44–1.03% | 1.52–3.16 percentage points |
-| Energy & electrification | 3.0 | 0.44–1.03% | 1.52–3.16 percentage points |
-| Chemicals & industrial processes | 4.0 | 0.44–1.03% | 1.37–2.85 percentage points |
-| Aviation & aeronautics | 2.0 | 0.44–1.03% | 1.67–3.46 percentage points |
-| Maritime engineering | 3.0 | 0.44–1.03% | 1.52–3.16 percentage points |
-| Communications & electrical instruments | 3.0 | 0.44–1.03% | 1.52–3.16 percentage points |
-| Medicine & public health | 3.0 | 0.44–1.03% | 1.52–3.16 percentage points |
-| Agriculture & food preservation | 3.5 | 0.44–1.03% | 1.45–3.01 percentage points |
-| Water, sanitation & civil works | 3.3 | 0.44–1.03% | 1.47–3.06 percentage points |
-| Rail, roads & motor transport | 3.0 | 0.44–1.03% | 1.52–3.16 percentage points |
-| Construction & structural engineering | 3.0 | 0.44–1.03% | 1.52–3.16 percentage points |
-| Textiles & household manufacture | 3.3 | 0.44–1.03% | 1.47–3.06 percentage points |
-| Conventional military manufacture | 3.3 | 0.44–1.03% | 1.47–3.06 percentage points |
-| Technical learning & knowledge retention | 3.0 | 0.44–1.03% | 1.52–3.16 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.44–1.03% | 1.52–3.16 percentage points |
+| Machine tools & precision | 0.44–1.03% | 1.52–3.16 percentage points |
+| Energy & electrification | 0.44–1.03% | 1.52–3.16 percentage points |
+| Chemicals & industrial processes | 0.44–1.03% | 1.37–2.85 percentage points |
+| Aviation & aeronautics | 0.44–1.03% | 1.67–3.46 percentage points |
+| Maritime engineering | 0.44–1.03% | 1.52–3.16 percentage points |
+| Communications & electrical instruments | 0.44–1.03% | 1.52–3.16 percentage points |
+| Medicine & public health | 0.44–1.03% | 1.52–3.16 percentage points |
+| Agriculture & food preservation | 0.44–1.03% | 1.45–3.01 percentage points |
+| Water, sanitation & civil works | 0.44–1.03% | 1.47–3.06 percentage points |
+| Rail, roads & motor transport | 0.44–1.03% | 1.52–3.16 percentage points |
+| Construction & structural engineering | 0.44–1.03% | 1.52–3.16 percentage points |
+| Textiles & household manufacture | 0.44–1.03% | 1.47–3.06 percentage points |
+| Conventional military manufacture | 0.44–1.03% | 1.47–3.06 percentage points |
+| Technical learning & knowledge retention | 0.44–1.03% | 1.52–3.16 percentage points |
 
 Specialties: River freight, milling and agricultural exchange. Constraints: Seasonal navigation and dependence on imported fuels limit sustained operations away from rivers.
 ## Tervayne
@@ -393,23 +406,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 64%; reliable clean water: 65%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 60–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 3.41 and public works 10.24 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 4.0 | 0.69–1.6% | 2.35–4.88 percentage points |
-| Machine tools & precision | 4.0 | 0.69–1.6% | 2.35–4.88 percentage points |
-| Energy & electrification | 4.0 | 0.69–1.6% | 2.35–4.88 percentage points |
-| Chemicals & industrial processes | 4.0 | 0.69–1.6% | 2.35–4.88 percentage points |
-| Aviation & aeronautics | 4.0 | 0.69–1.6% | 2.35–4.88 percentage points |
-| Maritime engineering | 5.0 | 0.69–1.6% | 2.1–4.36 percentage points |
-| Communications & electrical instruments | 4.0 | 0.69–1.6% | 2.35–4.88 percentage points |
-| Medicine & public health | 4.0 | 0.69–1.6% | 2.35–4.88 percentage points |
-| Agriculture & food preservation | 4.0 | 0.69–1.6% | 2.35–4.88 percentage points |
-| Water, sanitation & civil works | 4.0 | 0.69–1.6% | 2.35–4.88 percentage points |
-| Rail, roads & motor transport | 4.0 | 0.69–1.6% | 2.35–4.88 percentage points |
-| Construction & structural engineering | 4.0 | 0.69–1.6% | 2.35–4.88 percentage points |
-| Textiles & household manufacture | 4.0 | 0.69–1.6% | 2.35–4.88 percentage points |
-| Conventional military manufacture | 4.0 | 0.69–1.6% | 2.35–4.88 percentage points |
-| Technical learning & knowledge retention | 4.0 | 0.69–1.6% | 2.35–4.88 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.69–1.6% | 2.35–4.88 percentage points |
+| Machine tools & precision | 0.69–1.6% | 2.35–4.88 percentage points |
+| Energy & electrification | 0.69–1.6% | 2.35–4.88 percentage points |
+| Chemicals & industrial processes | 0.69–1.6% | 2.35–4.88 percentage points |
+| Aviation & aeronautics | 0.69–1.6% | 2.35–4.88 percentage points |
+| Maritime engineering | 0.69–1.6% | 2.1–4.36 percentage points |
+| Communications & electrical instruments | 0.69–1.6% | 2.35–4.88 percentage points |
+| Medicine & public health | 0.69–1.6% | 2.35–4.88 percentage points |
+| Agriculture & food preservation | 0.69–1.6% | 2.35–4.88 percentage points |
+| Water, sanitation & civil works | 0.69–1.6% | 2.35–4.88 percentage points |
+| Rail, roads & motor transport | 0.69–1.6% | 2.35–4.88 percentage points |
+| Construction & structural engineering | 0.69–1.6% | 2.35–4.88 percentage points |
+| Textiles & household manufacture | 0.69–1.6% | 2.35–4.88 percentage points |
+| Conventional military manufacture | 0.69–1.6% | 2.35–4.88 percentage points |
+| Technical learning & knowledge retention | 0.69–1.6% | 2.35–4.88 percentage points |
 
 Specialties: Maritime freight, ship maintenance and naval supply. Constraints: Sea lanes carry its power; inland movement is slow and there is no through railway to eastern Vesalius.
 ## Vardol
@@ -423,23 +437,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 52%; reliable clean water: 59%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.87 and public works 5.61 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 4.0 | 0.47–1.1% | 1.62–3.37 percentage points |
-| Machine tools & precision | 3.0 | 0.47–1.1% | 1.8–3.73 percentage points |
-| Energy & electrification | 4.0 | 0.47–1.1% | 1.62–3.37 percentage points |
-| Chemicals & industrial processes | 4.0 | 0.47–1.1% | 1.62–3.37 percentage points |
-| Aviation & aeronautics | 3.0 | 0.47–1.1% | 1.8–3.73 percentage points |
-| Maritime engineering | 3.0 | 0.47–1.1% | 1.8–3.73 percentage points |
-| Communications & electrical instruments | 3.0 | 0.47–1.1% | 1.8–3.73 percentage points |
-| Medicine & public health | 3.0 | 0.47–1.1% | 1.8–3.73 percentage points |
-| Agriculture & food preservation | 4.0 | 0.47–1.1% | 1.62–3.37 percentage points |
-| Water, sanitation & civil works | 3.7 | 0.47–1.1% | 1.68–3.49 percentage points |
-| Rail, roads & motor transport | 3.7 | 0.47–1.1% | 1.68–3.49 percentage points |
-| Construction & structural engineering | 3.5 | 0.47–1.1% | 1.71–3.55 percentage points |
-| Textiles & household manufacture | 3.7 | 0.47–1.1% | 1.68–3.49 percentage points |
-| Conventional military manufacture | 3.7 | 0.47–1.1% | 1.68–3.49 percentage points |
-| Technical learning & knowledge retention | 3.0 | 0.47–1.1% | 1.8–3.73 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.47–1.1% | 1.62–3.37 percentage points |
+| Machine tools & precision | 0.47–1.1% | 1.8–3.73 percentage points |
+| Energy & electrification | 0.47–1.1% | 1.62–3.37 percentage points |
+| Chemicals & industrial processes | 0.47–1.1% | 1.62–3.37 percentage points |
+| Aviation & aeronautics | 0.47–1.1% | 1.8–3.73 percentage points |
+| Maritime engineering | 0.47–1.1% | 1.8–3.73 percentage points |
+| Communications & electrical instruments | 0.47–1.1% | 1.8–3.73 percentage points |
+| Medicine & public health | 0.47–1.1% | 1.8–3.73 percentage points |
+| Agriculture & food preservation | 0.47–1.1% | 1.62–3.37 percentage points |
+| Water, sanitation & civil works | 0.47–1.1% | 1.68–3.49 percentage points |
+| Rail, roads & motor transport | 0.47–1.1% | 1.68–3.49 percentage points |
+| Construction & structural engineering | 0.47–1.1% | 1.71–3.55 percentage points |
+| Textiles & household manufacture | 0.47–1.1% | 1.68–3.49 percentage points |
+| Conventional military manufacture | 0.47–1.1% | 1.68–3.49 percentage points |
+| Technical learning & knowledge retention | 0.47–1.1% | 1.8–3.73 percentage points |
 
 Specialties: Northern arsenals, estate production and military provisioning; coalfields and fuel refining. Constraints: The Averholt frontier and northern garrisons tie down formations; large armies cannot simply redeploy to the Marches.
 ## Averholt
@@ -453,23 +468,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 55%; reliable clean water: 51%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.88 and public works 4.52 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 3.0 | 0.47–1.11% | 1.65–3.42 percentage points |
-| Machine tools & precision | 3.0 | 0.47–1.11% | 1.65–3.42 percentage points |
-| Energy & electrification | 3.0 | 0.47–1.11% | 1.65–3.42 percentage points |
-| Chemicals & industrial processes | 3.0 | 0.47–1.11% | 1.65–3.42 percentage points |
-| Aviation & aeronautics | 3.0 | 0.47–1.11% | 1.65–3.42 percentage points |
-| Maritime engineering | 1.0 | 0.47–1.11% | 1.96–4.08 percentage points |
-| Communications & electrical instruments | 3.0 | 0.47–1.11% | 1.65–3.42 percentage points |
-| Medicine & public health | 3.0 | 0.47–1.11% | 1.65–3.42 percentage points |
-| Agriculture & food preservation | 3.0 | 0.47–1.11% | 1.65–3.42 percentage points |
-| Water, sanitation & civil works | 3.0 | 0.47–1.11% | 1.65–3.42 percentage points |
-| Rail, roads & motor transport | 3.0 | 0.47–1.11% | 1.65–3.42 percentage points |
-| Construction & structural engineering | 3.0 | 0.47–1.11% | 1.65–3.42 percentage points |
-| Textiles & household manufacture | 3.0 | 0.47–1.11% | 1.65–3.42 percentage points |
-| Conventional military manufacture | 3.0 | 0.47–1.11% | 1.65–3.42 percentage points |
-| Technical learning & knowledge retention | 3.0 | 0.47–1.11% | 1.65–3.42 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.47–1.11% | 1.65–3.42 percentage points |
+| Machine tools & precision | 0.47–1.11% | 1.65–3.42 percentage points |
+| Energy & electrification | 0.47–1.11% | 1.65–3.42 percentage points |
+| Chemicals & industrial processes | 0.47–1.11% | 1.65–3.42 percentage points |
+| Aviation & aeronautics | 0.47–1.11% | 1.65–3.42 percentage points |
+| Maritime engineering | 0.47–1.11% | 1.96–4.08 percentage points |
+| Communications & electrical instruments | 0.47–1.11% | 1.65–3.42 percentage points |
+| Medicine & public health | 0.47–1.11% | 1.65–3.42 percentage points |
+| Agriculture & food preservation | 0.47–1.11% | 1.65–3.42 percentage points |
+| Water, sanitation & civil works | 0.47–1.11% | 1.65–3.42 percentage points |
+| Rail, roads & motor transport | 0.47–1.11% | 1.65–3.42 percentage points |
+| Construction & structural engineering | 0.47–1.11% | 1.65–3.42 percentage points |
+| Textiles & household manufacture | 0.47–1.11% | 1.65–3.42 percentage points |
+| Conventional military manufacture | 0.47–1.11% | 1.65–3.42 percentage points |
+| Technical learning & knowledge retention | 0.47–1.11% | 1.65–3.42 percentage points |
 
 Specialties: Basin agriculture, internal trade and provincial engineering. Constraints: Provincial bargains and the Vardol frontier absorb resources; interior transport has limited spare capacity.
 ## Serevask Republic
@@ -483,23 +499,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 58%; reliable clean water: 47%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.43 and public works 3.15 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 3.0 | 0.43–1.01% | 1.46–3.03 percentage points |
-| Machine tools & precision | 3.0 | 0.43–1.01% | 1.46–3.03 percentage points |
-| Energy & electrification | 3.0 | 0.43–1.01% | 1.46–3.03 percentage points |
-| Chemicals & industrial processes | 4.0 | 0.43–1.01% | 1.32–2.74 percentage points |
-| Aviation & aeronautics | 2.0 | 0.43–1.01% | 1.6–3.32 percentage points |
-| Maritime engineering | 2.0 | 0.43–1.01% | 1.6–3.32 percentage points |
-| Communications & electrical instruments | 3.0 | 0.43–1.01% | 1.46–3.03 percentage points |
-| Medicine & public health | 4.0 | 0.43–1.01% | 1.32–2.74 percentage points |
-| Agriculture & food preservation | 3.5 | 0.43–1.01% | 1.39–2.88 percentage points |
-| Water, sanitation & civil works | 3.3 | 0.43–1.01% | 1.41–2.93 percentage points |
-| Rail, roads & motor transport | 3.0 | 0.43–1.01% | 1.46–3.03 percentage points |
-| Construction & structural engineering | 3.0 | 0.43–1.01% | 1.46–3.03 percentage points |
-| Textiles & household manufacture | 3.3 | 0.43–1.01% | 1.41–2.93 percentage points |
-| Conventional military manufacture | 3.3 | 0.43–1.01% | 1.41–2.93 percentage points |
-| Technical learning & knowledge retention | 3.0 | 0.43–1.01% | 1.46–3.03 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.43–1.01% | 1.46–3.03 percentage points |
+| Machine tools & precision | 0.43–1.01% | 1.46–3.03 percentage points |
+| Energy & electrification | 0.43–1.01% | 1.46–3.03 percentage points |
+| Chemicals & industrial processes | 0.43–1.01% | 1.32–2.74 percentage points |
+| Aviation & aeronautics | 0.43–1.01% | 1.6–3.32 percentage points |
+| Maritime engineering | 0.43–1.01% | 1.6–3.32 percentage points |
+| Communications & electrical instruments | 0.43–1.01% | 1.46–3.03 percentage points |
+| Medicine & public health | 0.43–1.01% | 1.32–2.74 percentage points |
+| Agriculture & food preservation | 0.43–1.01% | 1.39–2.88 percentage points |
+| Water, sanitation & civil works | 0.43–1.01% | 1.41–2.93 percentage points |
+| Rail, roads & motor transport | 0.43–1.01% | 1.46–3.03 percentage points |
+| Construction & structural engineering | 0.43–1.01% | 1.46–3.03 percentage points |
+| Textiles & household manufacture | 0.43–1.01% | 1.41–2.93 percentage points |
+| Conventional military manufacture | 0.43–1.01% | 1.41–2.93 percentage points |
+| Technical learning & knowledge retention | 0.43–1.01% | 1.46–3.03 percentage points |
 
 Specialties: Civil administration, filtration and chemical workshops, repair shops and commercial services. Constraints: The republic controls only its own districts. Varnelle, Kelbrun and Gavrel have separate forces and revenues; old charter claims confer no authority over them.
 ## Varnelle
@@ -513,23 +530,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 60%; reliable clean water: 56%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.32 and public works 6.97 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 3.0 | 0.51–1.2% | 1.98–4.12 percentage points |
-| Machine tools & precision | 3.0 | 0.51–1.2% | 1.98–4.12 percentage points |
-| Energy & electrification | 3.0 | 0.51–1.2% | 1.98–4.12 percentage points |
-| Chemicals & industrial processes | 5.0 | 0.51–1.2% | 1.6–3.32 percentage points |
-| Aviation & aeronautics | 2.0 | 0.51–1.2% | 2.18–4.52 percentage points |
-| Maritime engineering | 4.0 | 0.51–1.2% | 1.79–3.72 percentage points |
-| Communications & electrical instruments | 3.0 | 0.51–1.2% | 1.98–4.12 percentage points |
-| Medicine & public health | 4.0 | 0.51–1.2% | 1.79–3.72 percentage points |
-| Agriculture & food preservation | 4.0 | 0.51–1.2% | 1.79–3.72 percentage points |
-| Water, sanitation & civil works | 3.7 | 0.51–1.2% | 1.86–3.85 percentage points |
-| Rail, roads & motor transport | 3.0 | 0.51–1.2% | 1.98–4.12 percentage points |
-| Construction & structural engineering | 3.0 | 0.51–1.2% | 1.98–4.12 percentage points |
-| Textiles & household manufacture | 3.7 | 0.51–1.2% | 1.86–3.85 percentage points |
-| Conventional military manufacture | 3.7 | 0.51–1.2% | 1.86–3.85 percentage points |
-| Technical learning & knowledge retention | 3.0 | 0.51–1.2% | 1.98–4.12 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.51–1.2% | 1.98–4.12 percentage points |
+| Machine tools & precision | 0.51–1.2% | 1.98–4.12 percentage points |
+| Energy & electrification | 0.51–1.2% | 1.98–4.12 percentage points |
+| Chemicals & industrial processes | 0.51–1.2% | 1.6–3.32 percentage points |
+| Aviation & aeronautics | 0.51–1.2% | 2.18–4.52 percentage points |
+| Maritime engineering | 0.51–1.2% | 1.79–3.72 percentage points |
+| Communications & electrical instruments | 0.51–1.2% | 1.98–4.12 percentage points |
+| Medicine & public health | 0.51–1.2% | 1.79–3.72 percentage points |
+| Agriculture & food preservation | 0.51–1.2% | 1.79–3.72 percentage points |
+| Water, sanitation & civil works | 0.51–1.2% | 1.86–3.85 percentage points |
+| Rail, roads & motor transport | 0.51–1.2% | 1.98–4.12 percentage points |
+| Construction & structural engineering | 0.51–1.2% | 1.98–4.12 percentage points |
+| Textiles & household manufacture | 0.51–1.2% | 1.86–3.85 percentage points |
+| Conventional military manufacture | 0.51–1.2% | 1.86–3.85 percentage points |
+| Technical learning & knowledge retention | 0.51–1.2% | 1.98–4.12 percentage points |
 
 Specialties: Delta freight, customs, filtration and processing trades. Constraints: Delta channels, customs dependence and disputed upstream water access constrain resilience.
 ## Kelbrun
@@ -543,23 +561,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 51%; reliable clean water: 42%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.29 and public works 3.11 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 2.0 | 0.35–0.81% | 1.41–2.92 percentage points |
-| Machine tools & precision | 2.0 | 0.35–0.81% | 1.41–2.92 percentage points |
-| Energy & electrification | 2.0 | 0.35–0.81% | 1.41–2.92 percentage points |
-| Chemicals & industrial processes | 4.0 | 0.35–0.81% | 1.16–2.4 percentage points |
-| Aviation & aeronautics | 1.0 | 0.35–0.81% | 1.53–3.18 percentage points |
-| Maritime engineering | 2.0 | 0.35–0.81% | 1.41–2.92 percentage points |
-| Communications & electrical instruments | 2.0 | 0.35–0.81% | 1.41–2.92 percentage points |
-| Medicine & public health | 3.0 | 0.35–0.81% | 1.28–2.66 percentage points |
-| Agriculture & food preservation | 3.0 | 0.35–0.81% | 1.28–2.66 percentage points |
-| Water, sanitation & civil works | 2.7 | 0.35–0.81% | 1.32–2.75 percentage points |
-| Rail, roads & motor transport | 2.0 | 0.35–0.81% | 1.41–2.92 percentage points |
-| Construction & structural engineering | 2.0 | 0.35–0.81% | 1.41–2.92 percentage points |
-| Textiles & household manufacture | 2.7 | 0.35–0.81% | 1.32–2.75 percentage points |
-| Conventional military manufacture | 2.7 | 0.35–0.81% | 1.32–2.75 percentage points |
-| Technical learning & knowledge retention | 2.0 | 0.35–0.81% | 1.41–2.92 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.35–0.81% | 1.41–2.92 percentage points |
+| Machine tools & precision | 0.35–0.81% | 1.41–2.92 percentage points |
+| Energy & electrification | 0.35–0.81% | 1.41–2.92 percentage points |
+| Chemicals & industrial processes | 0.35–0.81% | 1.16–2.4 percentage points |
+| Aviation & aeronautics | 0.35–0.81% | 1.53–3.18 percentage points |
+| Maritime engineering | 0.35–0.81% | 1.41–2.92 percentage points |
+| Communications & electrical instruments | 0.35–0.81% | 1.41–2.92 percentage points |
+| Medicine & public health | 0.35–0.81% | 1.28–2.66 percentage points |
+| Agriculture & food preservation | 0.35–0.81% | 1.28–2.66 percentage points |
+| Water, sanitation & civil works | 0.35–0.81% | 1.32–2.75 percentage points |
+| Rail, roads & motor transport | 0.35–0.81% | 1.41–2.92 percentage points |
+| Construction & structural engineering | 0.35–0.81% | 1.41–2.92 percentage points |
+| Textiles & household manufacture | 0.35–0.81% | 1.32–2.75 percentage points |
+| Conventional military manufacture | 0.35–0.81% | 1.32–2.75 percentage points |
+| Technical learning & knowledge retention | 0.35–0.81% | 1.41–2.92 percentage points |
 
 Specialties: Upriver freight, plantation produce and agricultural machinery. Constraints: Plantation levies are numerous but unevenly equipped; imported engines and fuel remain essential.
 ## Gavrel
@@ -573,23 +592,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 48%; reliable clean water: 42%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.44 and public works 3.18 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 2.0 | 0.36–0.84% | 1.42–2.94 percentage points |
-| Machine tools & precision | 2.0 | 0.36–0.84% | 1.42–2.94 percentage points |
-| Energy & electrification | 2.0 | 0.36–0.84% | 1.42–2.94 percentage points |
-| Chemicals & industrial processes | 2.0 | 0.36–0.84% | 1.42–2.94 percentage points |
-| Aviation & aeronautics | 1.0 | 0.36–0.84% | 1.54–3.2 percentage points |
-| Maritime engineering | 1.0 | 0.36–0.84% | 1.54–3.2 percentage points |
-| Communications & electrical instruments | 2.0 | 0.36–0.84% | 1.42–2.94 percentage points |
-| Medicine & public health | 2.0 | 0.36–0.84% | 1.42–2.94 percentage points |
-| Agriculture & food preservation | 2.0 | 0.36–0.84% | 1.42–2.94 percentage points |
-| Water, sanitation & civil works | 2.0 | 0.36–0.84% | 1.42–2.94 percentage points |
-| Rail, roads & motor transport | 2.0 | 0.36–0.84% | 1.42–2.94 percentage points |
-| Construction & structural engineering | 2.0 | 0.36–0.84% | 1.42–2.94 percentage points |
-| Textiles & household manufacture | 2.0 | 0.36–0.84% | 1.42–2.94 percentage points |
-| Conventional military manufacture | 2.0 | 0.36–0.84% | 1.42–2.94 percentage points |
-| Technical learning & knowledge retention | 2.0 | 0.36–0.84% | 1.42–2.94 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.36–0.84% | 1.42–2.94 percentage points |
+| Machine tools & precision | 0.36–0.84% | 1.42–2.94 percentage points |
+| Energy & electrification | 0.36–0.84% | 1.42–2.94 percentage points |
+| Chemicals & industrial processes | 0.36–0.84% | 1.42–2.94 percentage points |
+| Aviation & aeronautics | 0.36–0.84% | 1.54–3.2 percentage points |
+| Maritime engineering | 0.36–0.84% | 1.54–3.2 percentage points |
+| Communications & electrical instruments | 0.36–0.84% | 1.42–2.94 percentage points |
+| Medicine & public health | 0.36–0.84% | 1.42–2.94 percentage points |
+| Agriculture & food preservation | 0.36–0.84% | 1.42–2.94 percentage points |
+| Water, sanitation & civil works | 0.36–0.84% | 1.42–2.94 percentage points |
+| Rail, roads & motor transport | 0.36–0.84% | 1.42–2.94 percentage points |
+| Construction & structural engineering | 0.36–0.84% | 1.42–2.94 percentage points |
+| Textiles & household manufacture | 0.36–0.84% | 1.42–2.94 percentage points |
+| Conventional military manufacture | 0.36–0.84% | 1.42–2.94 percentage points |
+| Technical learning & knowledge retention | 0.36–0.84% | 1.42–2.94 percentage points |
 
 Specialties: March provisioning, rural estates and frontier workshops. Constraints: Household loyalties divide command; repair workshops cannot replace large losses of imported equipment.
 ## Bellacosta Cantons
@@ -603,23 +623,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 44%; reliable clean water: 41%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.11 and public works 2.68 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 2.0 | 0.33–0.77% | 1.34–2.78 percentage points |
-| Machine tools & precision | 2.0 | 0.33–0.77% | 1.34–2.78 percentage points |
-| Energy & electrification | 2.0 | 0.33–0.77% | 1.34–2.78 percentage points |
-| Chemicals & industrial processes | 2.0 | 0.33–0.77% | 1.34–2.78 percentage points |
-| Aviation & aeronautics | 1.0 | 0.33–0.77% | 1.46–3.03 percentage points |
-| Maritime engineering | 2.0 | 0.33–0.77% | 1.34–2.78 percentage points |
-| Communications & electrical instruments | 2.0 | 0.33–0.77% | 1.34–2.78 percentage points |
-| Medicine & public health | 2.0 | 0.33–0.77% | 1.34–2.78 percentage points |
-| Agriculture & food preservation | 2.0 | 0.33–0.77% | 1.34–2.78 percentage points |
-| Water, sanitation & civil works | 2.0 | 0.33–0.77% | 1.34–2.78 percentage points |
-| Rail, roads & motor transport | 2.0 | 0.33–0.77% | 1.34–2.78 percentage points |
-| Construction & structural engineering | 2.0 | 0.33–0.77% | 1.34–2.78 percentage points |
-| Textiles & household manufacture | 2.0 | 0.33–0.77% | 1.34–2.78 percentage points |
-| Conventional military manufacture | 2.0 | 0.33–0.77% | 1.34–2.78 percentage points |
-| Technical learning & knowledge retention | 2.0 | 0.33–0.77% | 1.34–2.78 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.33–0.77% | 1.34–2.78 percentage points |
+| Machine tools & precision | 0.33–0.77% | 1.34–2.78 percentage points |
+| Energy & electrification | 0.33–0.77% | 1.34–2.78 percentage points |
+| Chemicals & industrial processes | 0.33–0.77% | 1.34–2.78 percentage points |
+| Aviation & aeronautics | 0.33–0.77% | 1.46–3.03 percentage points |
+| Maritime engineering | 0.33–0.77% | 1.34–2.78 percentage points |
+| Communications & electrical instruments | 0.33–0.77% | 1.34–2.78 percentage points |
+| Medicine & public health | 0.33–0.77% | 1.34–2.78 percentage points |
+| Agriculture & food preservation | 0.33–0.77% | 1.34–2.78 percentage points |
+| Water, sanitation & civil works | 0.33–0.77% | 1.34–2.78 percentage points |
+| Rail, roads & motor transport | 0.33–0.77% | 1.34–2.78 percentage points |
+| Construction & structural engineering | 0.33–0.77% | 1.34–2.78 percentage points |
+| Textiles & household manufacture | 0.33–0.77% | 1.34–2.78 percentage points |
+| Conventional military manufacture | 0.33–0.77% | 1.34–2.78 percentage points |
+| Technical learning & knowledge retention | 0.33–0.77% | 1.34–2.78 percentage points |
 
 Specialties: Tropical produce, timber concessions, harbour handling and coastal escorts. Constraints: Canton tolls and planter credit divide the export trade. Escort flotillas answer to their sponsors; the combined manpower is not one army.
 ## Cavressa Principalities
@@ -633,23 +654,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 46%; reliable clean water: 41%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.22 and public works 2.68 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 2.0 | 0.34–0.79% | 1.34–2.79 percentage points |
-| Machine tools & precision | 2.0 | 0.34–0.79% | 1.34–2.79 percentage points |
-| Energy & electrification | 2.0 | 0.34–0.79% | 1.34–2.79 percentage points |
-| Chemicals & industrial processes | 2.0 | 0.34–0.79% | 1.34–2.79 percentage points |
-| Aviation & aeronautics | 1.0 | 0.34–0.79% | 1.46–3.03 percentage points |
-| Maritime engineering | 2.0 | 0.34–0.79% | 1.34–2.79 percentage points |
-| Communications & electrical instruments | 2.0 | 0.34–0.79% | 1.34–2.79 percentage points |
-| Medicine & public health | 2.0 | 0.34–0.79% | 1.34–2.79 percentage points |
-| Agriculture & food preservation | 2.0 | 0.34–0.79% | 1.34–2.79 percentage points |
-| Water, sanitation & civil works | 2.0 | 0.34–0.79% | 1.34–2.79 percentage points |
-| Rail, roads & motor transport | 2.0 | 0.34–0.79% | 1.34–2.79 percentage points |
-| Construction & structural engineering | 2.0 | 0.34–0.79% | 1.34–2.79 percentage points |
-| Textiles & household manufacture | 2.0 | 0.34–0.79% | 1.34–2.79 percentage points |
-| Conventional military manufacture | 2.0 | 0.34–0.79% | 1.34–2.79 percentage points |
-| Technical learning & knowledge retention | 2.0 | 0.34–0.79% | 1.34–2.79 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.34–0.79% | 1.34–2.79 percentage points |
+| Machine tools & precision | 0.34–0.79% | 1.34–2.79 percentage points |
+| Energy & electrification | 0.34–0.79% | 1.34–2.79 percentage points |
+| Chemicals & industrial processes | 0.34–0.79% | 1.34–2.79 percentage points |
+| Aviation & aeronautics | 0.34–0.79% | 1.46–3.03 percentage points |
+| Maritime engineering | 0.34–0.79% | 1.34–2.79 percentage points |
+| Communications & electrical instruments | 0.34–0.79% | 1.34–2.79 percentage points |
+| Medicine & public health | 0.34–0.79% | 1.34–2.79 percentage points |
+| Agriculture & food preservation | 0.34–0.79% | 1.34–2.79 percentage points |
+| Water, sanitation & civil works | 0.34–0.79% | 1.34–2.79 percentage points |
+| Rail, roads & motor transport | 0.34–0.79% | 1.34–2.79 percentage points |
+| Construction & structural engineering | 0.34–0.79% | 1.34–2.79 percentage points |
+| Textiles & household manufacture | 0.34–0.79% | 1.34–2.79 percentage points |
+| Conventional military manufacture | 0.34–0.79% | 1.34–2.79 percentage points |
+| Technical learning & knowledge retention | 0.34–0.79% | 1.34–2.79 percentage points |
 
 Specialties: Wool, preserved provisions, upland cartage and small estate workshops. Constraints: Rights of passage change between courts. Winter fodder and incompatible toll privileges limit concentration more than nominal levy strength.
 ## Vaulcerre Basin Leagues
@@ -663,23 +685,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 45%; reliable clean water: 41%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.16 and public works 2.78 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Machine tools & precision | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Energy & electrification | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Chemicals & industrial processes | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Aviation & aeronautics | 1.0 | 0.33–0.78% | 1.48–3.07 percentage points |
-| Maritime engineering | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Communications & electrical instruments | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Medicine & public health | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Agriculture & food preservation | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Water, sanitation & civil works | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Rail, roads & motor transport | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Construction & structural engineering | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Textiles & household manufacture | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Conventional military manufacture | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Technical learning & knowledge retention | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.33–0.78% | 1.36–2.82 percentage points |
+| Machine tools & precision | 0.33–0.78% | 1.36–2.82 percentage points |
+| Energy & electrification | 0.33–0.78% | 1.36–2.82 percentage points |
+| Chemicals & industrial processes | 0.33–0.78% | 1.36–2.82 percentage points |
+| Aviation & aeronautics | 0.33–0.78% | 1.48–3.07 percentage points |
+| Maritime engineering | 0.33–0.78% | 1.36–2.82 percentage points |
+| Communications & electrical instruments | 0.33–0.78% | 1.36–2.82 percentage points |
+| Medicine & public health | 0.33–0.78% | 1.36–2.82 percentage points |
+| Agriculture & food preservation | 0.33–0.78% | 1.36–2.82 percentage points |
+| Water, sanitation & civil works | 0.33–0.78% | 1.36–2.82 percentage points |
+| Rail, roads & motor transport | 0.33–0.78% | 1.36–2.82 percentage points |
+| Construction & structural engineering | 0.33–0.78% | 1.36–2.82 percentage points |
+| Textiles & household manufacture | 0.33–0.78% | 1.36–2.82 percentage points |
+| Conventional military manufacture | 0.33–0.78% | 1.36–2.82 percentage points |
+| Technical learning & knowledge retention | 0.33–0.78% | 1.36–2.82 percentage points |
 
 Specialties: Irrigated grain, mill machinery, fertiliser works and inland water freight. Constraints: Water commands hold separate troops. A damaged gate or withheld release can disable production without an invading army taking the towns.
 ## Seravelle Littoral
@@ -693,23 +716,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 43%; reliable clean water: 44%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.26 and public works 3.79 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 2.0 | 0.34–0.8% | 1.51–3.13 percentage points |
-| Machine tools & precision | 2.0 | 0.34–0.8% | 1.51–3.13 percentage points |
-| Energy & electrification | 2.0 | 0.34–0.8% | 1.51–3.13 percentage points |
-| Chemicals & industrial processes | 2.0 | 0.34–0.8% | 1.51–3.13 percentage points |
-| Aviation & aeronautics | 1.0 | 0.34–0.8% | 1.64–3.41 percentage points |
-| Maritime engineering | 2.0 | 0.34–0.8% | 1.51–3.13 percentage points |
-| Communications & electrical instruments | 2.0 | 0.34–0.8% | 1.51–3.13 percentage points |
-| Medicine & public health | 2.0 | 0.34–0.8% | 1.51–3.13 percentage points |
-| Agriculture & food preservation | 2.0 | 0.34–0.8% | 1.51–3.13 percentage points |
-| Water, sanitation & civil works | 2.0 | 0.34–0.8% | 1.51–3.13 percentage points |
-| Rail, roads & motor transport | 2.0 | 0.34–0.8% | 1.51–3.13 percentage points |
-| Construction & structural engineering | 2.0 | 0.34–0.8% | 1.51–3.13 percentage points |
-| Textiles & household manufacture | 2.0 | 0.34–0.8% | 1.51–3.13 percentage points |
-| Conventional military manufacture | 2.0 | 0.34–0.8% | 1.51–3.13 percentage points |
-| Technical learning & knowledge retention | 2.0 | 0.34–0.8% | 1.51–3.13 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.34–0.8% | 1.51–3.13 percentage points |
+| Machine tools & precision | 0.34–0.8% | 1.51–3.13 percentage points |
+| Energy & electrification | 0.34–0.8% | 1.51–3.13 percentage points |
+| Chemicals & industrial processes | 0.34–0.8% | 1.51–3.13 percentage points |
+| Aviation & aeronautics | 0.34–0.8% | 1.64–3.41 percentage points |
+| Maritime engineering | 0.34–0.8% | 1.51–3.13 percentage points |
+| Communications & electrical instruments | 0.34–0.8% | 1.51–3.13 percentage points |
+| Medicine & public health | 0.34–0.8% | 1.51–3.13 percentage points |
+| Agriculture & food preservation | 0.34–0.8% | 1.51–3.13 percentage points |
+| Water, sanitation & civil works | 0.34–0.8% | 1.51–3.13 percentage points |
+| Rail, roads & motor transport | 0.34–0.8% | 1.51–3.13 percentage points |
+| Construction & structural engineering | 0.34–0.8% | 1.51–3.13 percentage points |
+| Textiles & household manufacture | 0.34–0.8% | 1.51–3.13 percentage points |
+| Conventional military manufacture | 0.34–0.8% | 1.51–3.13 percentage points |
+| Technical learning & knowledge retention | 0.34–0.8% | 1.51–3.13 percentage points |
 
 Specialties: Export warehousing, coastal shipping, food processing and commercial credit. Constraints: Port conventions facilitate cargo, not military command. Inland debt disputes and foreign shipping insurance expose the region to commercial pressure.
 ## Haldrevik Concessions
@@ -723,23 +747,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 44%; reliable clean water: 46%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.39 and public works 4.18 L-eq per resident; communication capability 2/5; retained effort factor 0.7. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 2.0 | 0.29–0.68% | 1.29–2.68 percentage points |
-| Machine tools & precision | 2.0 | 0.29–0.68% | 1.29–2.68 percentage points |
-| Energy & electrification | 2.0 | 0.29–0.68% | 1.29–2.68 percentage points |
-| Chemicals & industrial processes | 2.0 | 0.29–0.68% | 1.29–2.68 percentage points |
-| Aviation & aeronautics | 1.0 | 0.29–0.68% | 1.41–2.92 percentage points |
-| Maritime engineering | 2.0 | 0.29–0.68% | 1.29–2.68 percentage points |
-| Communications & electrical instruments | 2.0 | 0.29–0.68% | 1.29–2.68 percentage points |
-| Medicine & public health | 2.0 | 0.29–0.68% | 1.29–2.68 percentage points |
-| Agriculture & food preservation | 2.0 | 0.29–0.68% | 1.29–2.68 percentage points |
-| Water, sanitation & civil works | 2.0 | 0.29–0.68% | 1.29–2.68 percentage points |
-| Rail, roads & motor transport | 2.0 | 0.29–0.68% | 1.29–2.68 percentage points |
-| Construction & structural engineering | 2.0 | 0.29–0.68% | 1.29–2.68 percentage points |
-| Textiles & household manufacture | 2.0 | 0.29–0.68% | 1.29–2.68 percentage points |
-| Conventional military manufacture | 2.0 | 0.29–0.68% | 1.29–2.68 percentage points |
-| Technical learning & knowledge retention | 2.0 | 0.29–0.68% | 1.29–2.68 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.29–0.68% | 1.29–2.68 percentage points |
+| Machine tools & precision | 0.29–0.68% | 1.29–2.68 percentage points |
+| Energy & electrification | 0.29–0.68% | 1.29–2.68 percentage points |
+| Chemicals & industrial processes | 0.29–0.68% | 1.29–2.68 percentage points |
+| Aviation & aeronautics | 0.29–0.68% | 1.41–2.92 percentage points |
+| Maritime engineering | 0.29–0.68% | 1.29–2.68 percentage points |
+| Communications & electrical instruments | 0.29–0.68% | 1.29–2.68 percentage points |
+| Medicine & public health | 0.29–0.68% | 1.29–2.68 percentage points |
+| Agriculture & food preservation | 0.29–0.68% | 1.29–2.68 percentage points |
+| Water, sanitation & civil works | 0.29–0.68% | 1.29–2.68 percentage points |
+| Rail, roads & motor transport | 0.29–0.68% | 1.29–2.68 percentage points |
+| Construction & structural engineering | 0.29–0.68% | 1.29–2.68 percentage points |
+| Textiles & household manufacture | 0.29–0.68% | 1.29–2.68 percentage points |
+| Conventional military manufacture | 0.29–0.68% | 1.29–2.68 percentage points |
+| Technical learning & knowledge retention | 0.29–0.68% | 1.29–2.68 percentage points |
 
 Specialties: Coal export concessions, timber, extraction machinery and contract transport. Constraints: Company forces protect particular assets. Charter disputes, imported food and dependence on Varnesk equipment undermine any combined mobilisation.
 ## Dreissen Wardholds
@@ -753,23 +778,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 45%; reliable clean water: 47%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.58 and public works 4.75 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 2.0 | 0.37–0.87% | 1.65–3.43 percentage points |
-| Machine tools & precision | 2.0 | 0.37–0.87% | 1.65–3.43 percentage points |
-| Energy & electrification | 2.0 | 0.37–0.87% | 1.65–3.43 percentage points |
-| Chemicals & industrial processes | 2.0 | 0.37–0.87% | 1.65–3.43 percentage points |
-| Aviation & aeronautics | 1.0 | 0.37–0.87% | 1.8–3.74 percentage points |
-| Maritime engineering | 2.0 | 0.37–0.87% | 1.65–3.43 percentage points |
-| Communications & electrical instruments | 2.0 | 0.37–0.87% | 1.65–3.43 percentage points |
-| Medicine & public health | 2.0 | 0.37–0.87% | 1.65–3.43 percentage points |
-| Agriculture & food preservation | 2.0 | 0.37–0.87% | 1.65–3.43 percentage points |
-| Water, sanitation & civil works | 2.0 | 0.37–0.87% | 1.65–3.43 percentage points |
-| Rail, roads & motor transport | 2.0 | 0.37–0.87% | 1.65–3.43 percentage points |
-| Construction & structural engineering | 2.0 | 0.37–0.87% | 1.65–3.43 percentage points |
-| Textiles & household manufacture | 2.0 | 0.37–0.87% | 1.65–3.43 percentage points |
-| Conventional military manufacture | 2.0 | 0.37–0.87% | 1.65–3.43 percentage points |
-| Technical learning & knowledge retention | 2.0 | 0.37–0.87% | 1.65–3.43 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.37–0.87% | 1.65–3.43 percentage points |
+| Machine tools & precision | 0.37–0.87% | 1.65–3.43 percentage points |
+| Energy & electrification | 0.37–0.87% | 1.65–3.43 percentage points |
+| Chemicals & industrial processes | 0.37–0.87% | 1.65–3.43 percentage points |
+| Aviation & aeronautics | 0.37–0.87% | 1.8–3.74 percentage points |
+| Maritime engineering | 0.37–0.87% | 1.65–3.43 percentage points |
+| Communications & electrical instruments | 0.37–0.87% | 1.65–3.43 percentage points |
+| Medicine & public health | 0.37–0.87% | 1.65–3.43 percentage points |
+| Agriculture & food preservation | 0.37–0.87% | 1.65–3.43 percentage points |
+| Water, sanitation & civil works | 0.37–0.87% | 1.65–3.43 percentage points |
+| Rail, roads & motor transport | 0.37–0.87% | 1.65–3.43 percentage points |
+| Construction & structural engineering | 0.37–0.87% | 1.65–3.43 percentage points |
+| Textiles & household manufacture | 0.37–0.87% | 1.65–3.43 percentage points |
+| Conventional military manufacture | 0.37–0.87% | 1.65–3.43 percentage points |
+| Technical learning & knowledge retention | 0.37–0.87% | 1.65–3.43 percentage points |
 
 Specialties: Convoy staging, cold-weather stores, fortress repair and imported-grain distribution. Constraints: Most personnel guard their own supply districts. Winter fuel and food reserves impose strict limits on campaigning beyond the wardholds.
 ## Varneselle Estates
@@ -783,23 +809,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 45%; reliable clean water: 41%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.16 and public works 2.79 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Machine tools & precision | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Energy & electrification | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Chemicals & industrial processes | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Aviation & aeronautics | 1.0 | 0.33–0.78% | 1.48–3.07 percentage points |
-| Maritime engineering | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Communications & electrical instruments | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Medicine & public health | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Agriculture & food preservation | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Water, sanitation & civil works | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Rail, roads & motor transport | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Construction & structural engineering | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Textiles & household manufacture | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Conventional military manufacture | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
-| Technical learning & knowledge retention | 2.0 | 0.33–0.78% | 1.36–2.82 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.33–0.78% | 1.36–2.82 percentage points |
+| Machine tools & precision | 0.33–0.78% | 1.36–2.82 percentage points |
+| Energy & electrification | 0.33–0.78% | 1.36–2.82 percentage points |
+| Chemicals & industrial processes | 0.33–0.78% | 1.36–2.82 percentage points |
+| Aviation & aeronautics | 0.33–0.78% | 1.48–3.07 percentage points |
+| Maritime engineering | 0.33–0.78% | 1.36–2.82 percentage points |
+| Communications & electrical instruments | 0.33–0.78% | 1.36–2.82 percentage points |
+| Medicine & public health | 0.33–0.78% | 1.36–2.82 percentage points |
+| Agriculture & food preservation | 0.33–0.78% | 1.36–2.82 percentage points |
+| Water, sanitation & civil works | 0.33–0.78% | 1.36–2.82 percentage points |
+| Rail, roads & motor transport | 0.33–0.78% | 1.36–2.82 percentage points |
+| Construction & structural engineering | 0.33–0.78% | 1.36–2.82 percentage points |
+| Textiles & household manufacture | 0.33–0.78% | 1.36–2.82 percentage points |
+| Conventional military manufacture | 0.33–0.78% | 1.36–2.82 percentage points |
+| Technical learning & knowledge retention | 0.33–0.78% | 1.36–2.82 percentage points |
 
 Specialties: Fishing, timber, estate workshops and seasonal coastal freight. Constraints: Port and estate forces obey different officers. Agricultural limits and dependence on Halskert grain make freight disruption especially costly.
 ## Bressavelle Marches
@@ -813,23 +840,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 52%; reliable clean water: 47%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.42 and public works 3.13 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 2.0 | 0.43–1.01% | 1.6–3.31 percentage points |
-| Machine tools & precision | 3.0 | 0.43–1.01% | 1.46–3.02 percentage points |
-| Energy & electrification | 3.0 | 0.43–1.01% | 1.46–3.02 percentage points |
-| Chemicals & industrial processes | 3.0 | 0.43–1.01% | 1.46–3.02 percentage points |
-| Aviation & aeronautics | 2.0 | 0.43–1.01% | 1.6–3.31 percentage points |
-| Maritime engineering | 3.0 | 0.43–1.01% | 1.46–3.02 percentage points |
-| Communications & electrical instruments | 3.0 | 0.43–1.01% | 1.46–3.02 percentage points |
-| Medicine & public health | 3.0 | 0.43–1.01% | 1.46–3.02 percentage points |
-| Agriculture & food preservation | 3.0 | 0.43–1.01% | 1.46–3.02 percentage points |
-| Water, sanitation & civil works | 3.0 | 0.43–1.01% | 1.46–3.02 percentage points |
-| Rail, roads & motor transport | 2.7 | 0.43–1.01% | 1.5–3.12 percentage points |
-| Construction & structural engineering | 2.5 | 0.43–1.01% | 1.53–3.17 percentage points |
-| Textiles & household manufacture | 3.0 | 0.43–1.01% | 1.46–3.02 percentage points |
-| Conventional military manufacture | 2.7 | 0.43–1.01% | 1.5–3.12 percentage points |
-| Technical learning & knowledge retention | 3.0 | 0.43–1.01% | 1.46–3.02 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.43–1.01% | 1.6–3.31 percentage points |
+| Machine tools & precision | 0.43–1.01% | 1.46–3.02 percentage points |
+| Energy & electrification | 0.43–1.01% | 1.46–3.02 percentage points |
+| Chemicals & industrial processes | 0.43–1.01% | 1.46–3.02 percentage points |
+| Aviation & aeronautics | 0.43–1.01% | 1.6–3.31 percentage points |
+| Maritime engineering | 0.43–1.01% | 1.46–3.02 percentage points |
+| Communications & electrical instruments | 0.43–1.01% | 1.46–3.02 percentage points |
+| Medicine & public health | 0.43–1.01% | 1.46–3.02 percentage points |
+| Agriculture & food preservation | 0.43–1.01% | 1.46–3.02 percentage points |
+| Water, sanitation & civil works | 0.43–1.01% | 1.46–3.02 percentage points |
+| Rail, roads & motor transport | 0.43–1.01% | 1.5–3.12 percentage points |
+| Construction & structural engineering | 0.43–1.01% | 1.53–3.17 percentage points |
+| Textiles & household manufacture | 0.43–1.01% | 1.46–3.02 percentage points |
+| Conventional military manufacture | 0.43–1.01% | 1.5–3.12 percentage points |
+| Technical learning & knowledge retention | 0.43–1.01% | 1.46–3.02 percentage points |
 
 Specialties: Textile finishing, estate produce, bonded warehousing and wagon repair. Constraints: Foreign clients subsidise rival toll houses. Local garrisons cannot be added together as an expeditionary force without renegotiating their obligations.
 ## Vallessia Cantons
@@ -843,23 +871,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 52%; reliable clean water: 48%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.42 and public works 3.40 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 2.0 | 0.43–1.01% | 1.64–3.4 percentage points |
-| Machine tools & precision | 3.0 | 0.43–1.01% | 1.49–3.1 percentage points |
-| Energy & electrification | 3.0 | 0.43–1.01% | 1.49–3.1 percentage points |
-| Chemicals & industrial processes | 3.0 | 0.43–1.01% | 1.49–3.1 percentage points |
-| Aviation & aeronautics | 2.0 | 0.43–1.01% | 1.64–3.4 percentage points |
-| Maritime engineering | 3.0 | 0.43–1.01% | 1.49–3.1 percentage points |
-| Communications & electrical instruments | 3.0 | 0.43–1.01% | 1.49–3.1 percentage points |
-| Medicine & public health | 3.0 | 0.43–1.01% | 1.49–3.1 percentage points |
-| Agriculture & food preservation | 3.0 | 0.43–1.01% | 1.49–3.1 percentage points |
-| Water, sanitation & civil works | 3.0 | 0.43–1.01% | 1.49–3.1 percentage points |
-| Rail, roads & motor transport | 2.7 | 0.43–1.01% | 1.54–3.2 percentage points |
-| Construction & structural engineering | 2.5 | 0.43–1.01% | 1.57–3.25 percentage points |
-| Textiles & household manufacture | 3.0 | 0.43–1.01% | 1.49–3.1 percentage points |
-| Conventional military manufacture | 2.7 | 0.43–1.01% | 1.54–3.2 percentage points |
-| Technical learning & knowledge retention | 3.0 | 0.43–1.01% | 1.49–3.1 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.43–1.01% | 1.64–3.4 percentage points |
+| Machine tools & precision | 0.43–1.01% | 1.49–3.1 percentage points |
+| Energy & electrification | 0.43–1.01% | 1.49–3.1 percentage points |
+| Chemicals & industrial processes | 0.43–1.01% | 1.49–3.1 percentage points |
+| Aviation & aeronautics | 0.43–1.01% | 1.64–3.4 percentage points |
+| Maritime engineering | 0.43–1.01% | 1.49–3.1 percentage points |
+| Communications & electrical instruments | 0.43–1.01% | 1.49–3.1 percentage points |
+| Medicine & public health | 0.43–1.01% | 1.49–3.1 percentage points |
+| Agriculture & food preservation | 0.43–1.01% | 1.49–3.1 percentage points |
+| Water, sanitation & civil works | 0.43–1.01% | 1.49–3.1 percentage points |
+| Rail, roads & motor transport | 0.43–1.01% | 1.54–3.2 percentage points |
+| Construction & structural engineering | 0.43–1.01% | 1.57–3.25 percentage points |
+| Textiles & household manufacture | 0.43–1.01% | 1.49–3.1 percentage points |
+| Conventional military manufacture | 0.43–1.01% | 1.54–3.2 percentage points |
+| Technical learning & knowledge retention | 0.43–1.01% | 1.49–3.1 percentage points |
 
 Specialties: Grain storage, warm-climate produce, food processing and inter-canton brokerage. Constraints: Military governors and elected market boards compete for transport and stores. Requisition disputes can immobilise a nominally available reserve.
 ## Rivessac Coast
@@ -873,23 +902,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 51%; reliable clean water: 52%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.62 and public works 4.86 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 2.0 | 0.45–1.05% | 1.86–3.86 percentage points |
-| Machine tools & precision | 3.0 | 0.45–1.05% | 1.69–3.52 percentage points |
-| Energy & electrification | 3.0 | 0.45–1.05% | 1.69–3.52 percentage points |
-| Chemicals & industrial processes | 3.0 | 0.45–1.05% | 1.69–3.52 percentage points |
-| Aviation & aeronautics | 2.0 | 0.45–1.05% | 1.86–3.86 percentage points |
-| Maritime engineering | 3.0 | 0.45–1.05% | 1.69–3.52 percentage points |
-| Communications & electrical instruments | 3.0 | 0.45–1.05% | 1.69–3.52 percentage points |
-| Medicine & public health | 3.0 | 0.45–1.05% | 1.69–3.52 percentage points |
-| Agriculture & food preservation | 3.0 | 0.45–1.05% | 1.69–3.52 percentage points |
-| Water, sanitation & civil works | 3.0 | 0.45–1.05% | 1.69–3.52 percentage points |
-| Rail, roads & motor transport | 2.7 | 0.45–1.05% | 1.75–3.63 percentage points |
-| Construction & structural engineering | 2.5 | 0.45–1.05% | 1.78–3.69 percentage points |
-| Textiles & household manufacture | 3.0 | 0.45–1.05% | 1.69–3.52 percentage points |
-| Conventional military manufacture | 2.7 | 0.45–1.05% | 1.75–3.63 percentage points |
-| Technical learning & knowledge retention | 3.0 | 0.45–1.05% | 1.69–3.52 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.45–1.05% | 1.86–3.86 percentage points |
+| Machine tools & precision | 0.45–1.05% | 1.69–3.52 percentage points |
+| Energy & electrification | 0.45–1.05% | 1.69–3.52 percentage points |
+| Chemicals & industrial processes | 0.45–1.05% | 1.69–3.52 percentage points |
+| Aviation & aeronautics | 0.45–1.05% | 1.86–3.86 percentage points |
+| Maritime engineering | 0.45–1.05% | 1.69–3.52 percentage points |
+| Communications & electrical instruments | 0.45–1.05% | 1.69–3.52 percentage points |
+| Medicine & public health | 0.45–1.05% | 1.69–3.52 percentage points |
+| Agriculture & food preservation | 0.45–1.05% | 1.69–3.52 percentage points |
+| Water, sanitation & civil works | 0.45–1.05% | 1.69–3.52 percentage points |
+| Rail, roads & motor transport | 0.45–1.05% | 1.75–3.63 percentage points |
+| Construction & structural engineering | 0.45–1.05% | 1.78–3.69 percentage points |
+| Textiles & household manufacture | 0.45–1.05% | 1.69–3.52 percentage points |
+| Conventional military manufacture | 0.45–1.05% | 1.75–3.63 percentage points |
+| Technical learning & knowledge retention | 0.45–1.05% | 1.69–3.52 percentage points |
 
 Specialties: Pilotage, coastal provisions, fishing and inland agricultural markets. Constraints: Small communes lack a shared naval command. Poorly charted harbours, seasonal labour and interrupted inland roads limit the usable export surplus.
 ## Karsenne Compact
@@ -903,23 +933,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 55%; reliable clean water: 62%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 59–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.45 and public works 7.34 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 5.0 | 0.52–1.22% | 1.64–3.41 percentage points |
-| Machine tools & precision | 4.0 | 0.52–1.22% | 1.84–3.82 percentage points |
-| Energy & electrification | 4.0 | 0.52–1.22% | 1.84–3.82 percentage points |
-| Chemicals & industrial processes | 3.0 | 0.52–1.22% | 2.03–4.23 percentage points |
-| Aviation & aeronautics | 2.0 | 0.52–1.22% | 2.23–4.63 percentage points |
-| Maritime engineering | 1.0 | 0.52–1.22% | 2.43–5.04 percentage points |
-| Communications & electrical instruments | 3.0 | 0.52–1.22% | 2.03–4.23 percentage points |
-| Medicine & public health | 3.0 | 0.52–1.22% | 2.03–4.23 percentage points |
-| Agriculture & food preservation | 3.5 | 0.52–1.22% | 1.94–4.02 percentage points |
-| Water, sanitation & civil works | 3.7 | 0.52–1.22% | 1.9–3.95 percentage points |
-| Rail, roads & motor transport | 4.3 | 0.52–1.22% | 1.77–3.68 percentage points |
-| Construction & structural engineering | 4.5 | 0.52–1.22% | 1.74–3.61 percentage points |
-| Textiles & household manufacture | 3.7 | 0.52–1.22% | 1.9–3.95 percentage points |
-| Conventional military manufacture | 4.0 | 0.52–1.22% | 1.84–3.82 percentage points |
-| Technical learning & knowledge retention | 3.5 | 0.52–1.22% | 1.94–4.02 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.52–1.22% | 1.64–3.41 percentage points |
+| Machine tools & precision | 0.52–1.22% | 1.84–3.82 percentage points |
+| Energy & electrification | 0.52–1.22% | 1.84–3.82 percentage points |
+| Chemicals & industrial processes | 0.52–1.22% | 2.03–4.23 percentage points |
+| Aviation & aeronautics | 0.52–1.22% | 2.23–4.63 percentage points |
+| Maritime engineering | 0.52–1.22% | 2.43–5.04 percentage points |
+| Communications & electrical instruments | 0.52–1.22% | 2.03–4.23 percentage points |
+| Medicine & public health | 0.52–1.22% | 2.03–4.23 percentage points |
+| Agriculture & food preservation | 0.52–1.22% | 1.94–4.02 percentage points |
+| Water, sanitation & civil works | 0.52–1.22% | 1.9–3.95 percentage points |
+| Rail, roads & motor transport | 0.52–1.22% | 1.77–3.68 percentage points |
+| Construction & structural engineering | 0.52–1.22% | 1.74–3.61 percentage points |
+| Textiles & household manufacture | 0.52–1.22% | 1.9–3.95 percentage points |
+| Conventional military manufacture | 0.52–1.22% | 1.84–3.82 percentage points |
+| Technical learning & knowledge retention | 0.52–1.22% | 1.94–4.02 percentage points |
 
 Specialties: Mining, military engineering and defended-pass supply. Constraints: Strong pass defence and mining; food and coastal export access depend on neighbours. Councils control separate contingents.
 ## Duchy of Caldrienne
@@ -933,23 +964,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 57%; reliable clean water: 63%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.81 and public works 8.43 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 4.0 | 0.56–1.3% | 1.97–4.09 percentage points |
-| Machine tools & precision | 3.0 | 0.56–1.3% | 2.18–4.53 percentage points |
-| Energy & electrification | 4.0 | 0.56–1.3% | 1.97–4.09 percentage points |
-| Chemicals & industrial processes | 4.0 | 0.56–1.3% | 1.97–4.09 percentage points |
-| Aviation & aeronautics | 3.0 | 0.56–1.3% | 2.18–4.53 percentage points |
-| Maritime engineering | 3.0 | 0.56–1.3% | 2.18–4.53 percentage points |
-| Communications & electrical instruments | 3.0 | 0.56–1.3% | 2.18–4.53 percentage points |
-| Medicine & public health | 3.0 | 0.56–1.3% | 2.18–4.53 percentage points |
-| Agriculture & food preservation | 4.0 | 0.56–1.3% | 1.97–4.09 percentage points |
-| Water, sanitation & civil works | 3.7 | 0.56–1.3% | 2.04–4.24 percentage points |
-| Rail, roads & motor transport | 3.7 | 0.56–1.3% | 2.04–4.24 percentage points |
-| Construction & structural engineering | 3.5 | 0.56–1.3% | 2.08–4.31 percentage points |
-| Textiles & household manufacture | 3.7 | 0.56–1.3% | 2.04–4.24 percentage points |
-| Conventional military manufacture | 3.7 | 0.56–1.3% | 2.04–4.24 percentage points |
-| Technical learning & knowledge retention | 3.0 | 0.56–1.3% | 2.18–4.53 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.56–1.3% | 1.97–4.09 percentage points |
+| Machine tools & precision | 0.56–1.3% | 2.18–4.53 percentage points |
+| Energy & electrification | 0.56–1.3% | 1.97–4.09 percentage points |
+| Chemicals & industrial processes | 0.56–1.3% | 1.97–4.09 percentage points |
+| Aviation & aeronautics | 0.56–1.3% | 2.18–4.53 percentage points |
+| Maritime engineering | 0.56–1.3% | 2.18–4.53 percentage points |
+| Communications & electrical instruments | 0.56–1.3% | 2.18–4.53 percentage points |
+| Medicine & public health | 0.56–1.3% | 2.18–4.53 percentage points |
+| Agriculture & food preservation | 0.56–1.3% | 1.97–4.09 percentage points |
+| Water, sanitation & civil works | 0.56–1.3% | 2.04–4.24 percentage points |
+| Rail, roads & motor transport | 0.56–1.3% | 2.04–4.24 percentage points |
+| Construction & structural engineering | 0.56–1.3% | 2.08–4.31 percentage points |
+| Textiles & household manufacture | 0.56–1.3% | 2.04–4.24 percentage points |
+| Conventional military manufacture | 0.56–1.3% | 2.04–4.24 percentage points |
+| Technical learning & knowledge retention | 0.56–1.3% | 2.18–4.53 percentage points |
 
 Specialties: Agriculture, artillery production and armoured-vehicle workshops. Constraints: Largest eastern tank arm, but fuel imports and the armed truce impose costs; offensive forces cannot strip all garrisons.
 ## March of Veyrasse
@@ -963,23 +995,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 55%; reliable clean water: 61%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.31 and public works 6.93 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 4.0 | 0.51–1.2% | 1.79–3.71 percentage points |
-| Machine tools & precision | 3.0 | 0.51–1.2% | 1.98–4.11 percentage points |
-| Energy & electrification | 4.0 | 0.51–1.2% | 1.79–3.71 percentage points |
-| Chemicals & industrial processes | 3.0 | 0.51–1.2% | 1.98–4.11 percentage points |
-| Aviation & aeronautics | 3.0 | 0.51–1.2% | 1.98–4.11 percentage points |
-| Maritime engineering | 3.0 | 0.51–1.2% | 1.98–4.11 percentage points |
-| Communications & electrical instruments | 3.0 | 0.51–1.2% | 1.98–4.11 percentage points |
-| Medicine & public health | 3.0 | 0.51–1.2% | 1.98–4.11 percentage points |
-| Agriculture & food preservation | 3.5 | 0.51–1.2% | 1.88–3.91 percentage points |
-| Water, sanitation & civil works | 3.3 | 0.51–1.2% | 1.91–3.97 percentage points |
-| Rail, roads & motor transport | 3.7 | 0.51–1.2% | 1.85–3.84 percentage points |
-| Construction & structural engineering | 3.5 | 0.51–1.2% | 1.88–3.91 percentage points |
-| Textiles & household manufacture | 3.3 | 0.51–1.2% | 1.91–3.97 percentage points |
-| Conventional military manufacture | 3.3 | 0.51–1.2% | 1.91–3.97 percentage points |
-| Technical learning & knowledge retention | 3.0 | 0.51–1.2% | 1.98–4.11 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.51–1.2% | 1.79–3.71 percentage points |
+| Machine tools & precision | 0.51–1.2% | 1.98–4.11 percentage points |
+| Energy & electrification | 0.51–1.2% | 1.79–3.71 percentage points |
+| Chemicals & industrial processes | 0.51–1.2% | 1.98–4.11 percentage points |
+| Aviation & aeronautics | 0.51–1.2% | 1.98–4.11 percentage points |
+| Maritime engineering | 0.51–1.2% | 1.98–4.11 percentage points |
+| Communications & electrical instruments | 0.51–1.2% | 1.98–4.11 percentage points |
+| Medicine & public health | 0.51–1.2% | 1.98–4.11 percentage points |
+| Agriculture & food preservation | 0.51–1.2% | 1.88–3.91 percentage points |
+| Water, sanitation & civil works | 0.51–1.2% | 1.91–3.97 percentage points |
+| Rail, roads & motor transport | 0.51–1.2% | 1.85–3.84 percentage points |
+| Construction & structural engineering | 0.51–1.2% | 1.88–3.91 percentage points |
+| Textiles & household manufacture | 0.51–1.2% | 1.91–3.97 percentage points |
+| Conventional military manufacture | 0.51–1.2% | 1.91–3.97 percentage points |
+| Technical learning & knowledge retention | 0.51–1.2% | 1.98–4.11 percentage points |
 
 Specialties: Railway engineering, port trade and municipal industry. Constraints: Chartered houses, municipal funding and freight bottlenecks constrain command; machinery and fuel imports matter.
 ## Calvernis Republic
@@ -993,23 +1026,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 63%; reliable clean water: 65%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 60–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 3.19 and public works 9.56 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 4.0 | 0.67–1.56% | 2.27–4.71 percentage points |
-| Machine tools & precision | 4.0 | 0.67–1.56% | 2.27–4.71 percentage points |
-| Energy & electrification | 4.0 | 0.67–1.56% | 2.27–4.71 percentage points |
-| Chemicals & industrial processes | 4.0 | 0.67–1.56% | 2.27–4.71 percentage points |
-| Aviation & aeronautics | 4.0 | 0.67–1.56% | 2.27–4.71 percentage points |
-| Maritime engineering | 5.0 | 0.67–1.56% | 2.02–4.2 percentage points |
-| Communications & electrical instruments | 4.0 | 0.67–1.56% | 2.27–4.71 percentage points |
-| Medicine & public health | 4.0 | 0.67–1.56% | 2.27–4.71 percentage points |
-| Agriculture & food preservation | 4.0 | 0.67–1.56% | 2.27–4.71 percentage points |
-| Water, sanitation & civil works | 4.0 | 0.67–1.56% | 2.27–4.71 percentage points |
-| Rail, roads & motor transport | 4.0 | 0.67–1.56% | 2.27–4.71 percentage points |
-| Construction & structural engineering | 4.0 | 0.67–1.56% | 2.27–4.71 percentage points |
-| Textiles & household manufacture | 4.0 | 0.67–1.56% | 2.27–4.71 percentage points |
-| Conventional military manufacture | 4.0 | 0.67–1.56% | 2.27–4.71 percentage points |
-| Technical learning & knowledge retention | 4.0 | 0.67–1.56% | 2.27–4.71 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.67–1.56% | 2.27–4.71 percentage points |
+| Machine tools & precision | 0.67–1.56% | 2.27–4.71 percentage points |
+| Energy & electrification | 0.67–1.56% | 2.27–4.71 percentage points |
+| Chemicals & industrial processes | 0.67–1.56% | 2.27–4.71 percentage points |
+| Aviation & aeronautics | 0.67–1.56% | 2.27–4.71 percentage points |
+| Maritime engineering | 0.67–1.56% | 2.02–4.2 percentage points |
+| Communications & electrical instruments | 0.67–1.56% | 2.27–4.71 percentage points |
+| Medicine & public health | 0.67–1.56% | 2.27–4.71 percentage points |
+| Agriculture & food preservation | 0.67–1.56% | 2.27–4.71 percentage points |
+| Water, sanitation & civil works | 0.67–1.56% | 2.27–4.71 percentage points |
+| Rail, roads & motor transport | 0.67–1.56% | 2.27–4.71 percentage points |
+| Construction & structural engineering | 0.67–1.56% | 2.27–4.71 percentage points |
+| Textiles & household manufacture | 0.67–1.56% | 2.27–4.71 percentage points |
+| Conventional military manufacture | 0.67–1.56% | 2.27–4.71 percentage points |
+| Technical learning & knowledge retention | 0.67–1.56% | 2.27–4.71 percentage points |
 
 Specialties: Shipping, banking, shipyards and maritime manufactures. Constraints: Strong finance and convoy support; imported food and fuel expose it to interdiction and merchant-family disputes.
 ## Ceralte Admiralty
@@ -1023,23 +1057,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 57%; reliable clean water: 59%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 59–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 3.00 and public works 9.02 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 3.0 | 0.65–1.52% | 2.43–5.06 percentage points |
-| Machine tools & precision | 4.0 | 0.65–1.52% | 2.2–4.57 percentage points |
-| Energy & electrification | 3.0 | 0.65–1.52% | 2.43–5.06 percentage points |
-| Chemicals & industrial processes | 3.0 | 0.65–1.52% | 2.43–5.06 percentage points |
-| Aviation & aeronautics | 3.0 | 0.65–1.52% | 2.43–5.06 percentage points |
-| Maritime engineering | 4.0 | 0.65–1.52% | 2.2–4.57 percentage points |
-| Communications & electrical instruments | 4.0 | 0.65–1.52% | 2.2–4.57 percentage points |
-| Medicine & public health | 3.0 | 0.65–1.52% | 2.43–5.06 percentage points |
-| Agriculture & food preservation | 3.0 | 0.65–1.52% | 2.43–5.06 percentage points |
-| Water, sanitation & civil works | 3.3 | 0.65–1.52% | 2.36–4.89 percentage points |
-| Rail, roads & motor transport | 3.3 | 0.65–1.52% | 2.36–4.89 percentage points |
-| Construction & structural engineering | 3.5 | 0.65–1.52% | 2.32–4.81 percentage points |
-| Textiles & household manufacture | 3.3 | 0.65–1.52% | 2.36–4.89 percentage points |
-| Conventional military manufacture | 3.3 | 0.65–1.52% | 2.36–4.89 percentage points |
-| Technical learning & knowledge retention | 4.0 | 0.65–1.52% | 2.2–4.57 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.65–1.52% | 2.43–5.06 percentage points |
+| Machine tools & precision | 0.65–1.52% | 2.2–4.57 percentage points |
+| Energy & electrification | 0.65–1.52% | 2.43–5.06 percentage points |
+| Chemicals & industrial processes | 0.65–1.52% | 2.43–5.06 percentage points |
+| Aviation & aeronautics | 0.65–1.52% | 2.43–5.06 percentage points |
+| Maritime engineering | 0.65–1.52% | 2.2–4.57 percentage points |
+| Communications & electrical instruments | 0.65–1.52% | 2.2–4.57 percentage points |
+| Medicine & public health | 0.65–1.52% | 2.43–5.06 percentage points |
+| Agriculture & food preservation | 0.65–1.52% | 2.43–5.06 percentage points |
+| Water, sanitation & civil works | 0.65–1.52% | 2.36–4.89 percentage points |
+| Rail, roads & motor transport | 0.65–1.52% | 2.36–4.89 percentage points |
+| Construction & structural engineering | 0.65–1.52% | 2.32–4.81 percentage points |
+| Textiles & household manufacture | 0.65–1.52% | 2.36–4.89 percentage points |
+| Conventional military manufacture | 0.65–1.52% | 2.36–4.89 percentage points |
+| Technical learning & knowledge retention | 0.65–1.52% | 2.2–4.57 percentage points |
 
 Specialties: Coastal trade, fishing, naval maintenance and convoy services. Constraints: Experienced coastal crews and minelayers; small population, grain imports and fuel dependence rule out a large land war.
 ## Varessan Sea League
@@ -1053,23 +1088,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 47%; reliable clean water: 43%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.42 and public works 3.42 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 2.0 | 0.43–1.01% | 1.64–3.41 percentage points |
-| Machine tools & precision | 2.0 | 0.43–1.01% | 1.64–3.41 percentage points |
-| Energy & electrification | 2.0 | 0.43–1.01% | 1.64–3.41 percentage points |
-| Chemicals & industrial processes | 2.0 | 0.43–1.01% | 1.64–3.41 percentage points |
-| Aviation & aeronautics | 1.0 | 0.43–1.01% | 1.79–3.71 percentage points |
-| Maritime engineering | 3.0 | 0.43–1.01% | 1.5–3.11 percentage points |
-| Communications & electrical instruments | 3.0 | 0.43–1.01% | 1.5–3.11 percentage points |
-| Medicine & public health | 2.0 | 0.43–1.01% | 1.64–3.41 percentage points |
-| Agriculture & food preservation | 2.0 | 0.43–1.01% | 1.64–3.41 percentage points |
-| Water, sanitation & civil works | 2.0 | 0.43–1.01% | 1.64–3.41 percentage points |
-| Rail, roads & motor transport | 2.0 | 0.43–1.01% | 1.64–3.41 percentage points |
-| Construction & structural engineering | 2.0 | 0.43–1.01% | 1.64–3.41 percentage points |
-| Textiles & household manufacture | 2.0 | 0.43–1.01% | 1.64–3.41 percentage points |
-| Conventional military manufacture | 2.0 | 0.43–1.01% | 1.64–3.41 percentage points |
-| Technical learning & knowledge retention | 2.5 | 0.43–1.01% | 1.57–3.26 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.43–1.01% | 1.64–3.41 percentage points |
+| Machine tools & precision | 0.43–1.01% | 1.64–3.41 percentage points |
+| Energy & electrification | 0.43–1.01% | 1.64–3.41 percentage points |
+| Chemicals & industrial processes | 0.43–1.01% | 1.64–3.41 percentage points |
+| Aviation & aeronautics | 0.43–1.01% | 1.79–3.71 percentage points |
+| Maritime engineering | 0.43–1.01% | 1.5–3.11 percentage points |
+| Communications & electrical instruments | 0.43–1.01% | 1.5–3.11 percentage points |
+| Medicine & public health | 0.43–1.01% | 1.64–3.41 percentage points |
+| Agriculture & food preservation | 0.43–1.01% | 1.64–3.41 percentage points |
+| Water, sanitation & civil works | 0.43–1.01% | 1.64–3.41 percentage points |
+| Rail, roads & motor transport | 0.43–1.01% | 1.64–3.41 percentage points |
+| Construction & structural engineering | 0.43–1.01% | 1.64–3.41 percentage points |
+| Textiles & household manufacture | 0.43–1.01% | 1.64–3.41 percentage points |
+| Conventional military manufacture | 0.43–1.01% | 1.64–3.41 percentage points |
+| Technical learning & knowledge retention | 0.43–1.01% | 1.57–3.26 percentage points |
 
 Specialties: Pilotage, coaster construction, wool and preserved fruit. Constraints: Imported engines, medicine and bunker fuel; island votes limit emergency taxation.
 ## Talascan Charter Islands
@@ -1083,23 +1119,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 48%; reliable clean water: 50%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.09 and public works 6.28 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 2.0 | 0.49–1.15% | 2.07–4.3 percentage points |
-| Machine tools & precision | 2.0 | 0.49–1.15% | 2.07–4.3 percentage points |
-| Energy & electrification | 2.0 | 0.49–1.15% | 2.07–4.3 percentage points |
-| Chemicals & industrial processes | 2.0 | 0.49–1.15% | 2.07–4.3 percentage points |
-| Aviation & aeronautics | 1.0 | 0.49–1.15% | 2.25–4.68 percentage points |
-| Maritime engineering | 2.0 | 0.49–1.15% | 2.07–4.3 percentage points |
-| Communications & electrical instruments | 3.0 | 0.49–1.15% | 1.89–3.92 percentage points |
-| Medicine & public health | 2.0 | 0.49–1.15% | 2.07–4.3 percentage points |
-| Agriculture & food preservation | 2.0 | 0.49–1.15% | 2.07–4.3 percentage points |
-| Water, sanitation & civil works | 2.0 | 0.49–1.15% | 2.07–4.3 percentage points |
-| Rail, roads & motor transport | 2.0 | 0.49–1.15% | 2.07–4.3 percentage points |
-| Construction & structural engineering | 2.0 | 0.49–1.15% | 2.07–4.3 percentage points |
-| Textiles & household manufacture | 2.0 | 0.49–1.15% | 2.07–4.3 percentage points |
-| Conventional military manufacture | 2.0 | 0.49–1.15% | 2.07–4.3 percentage points |
-| Technical learning & knowledge retention | 2.5 | 0.49–1.15% | 1.98–4.11 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.49–1.15% | 2.07–4.3 percentage points |
+| Machine tools & precision | 0.49–1.15% | 2.07–4.3 percentage points |
+| Energy & electrification | 0.49–1.15% | 2.07–4.3 percentage points |
+| Chemicals & industrial processes | 0.49–1.15% | 2.07–4.3 percentage points |
+| Aviation & aeronautics | 0.49–1.15% | 2.25–4.68 percentage points |
+| Maritime engineering | 0.49–1.15% | 2.07–4.3 percentage points |
+| Communications & electrical instruments | 0.49–1.15% | 1.89–3.92 percentage points |
+| Medicine & public health | 0.49–1.15% | 2.07–4.3 percentage points |
+| Agriculture & food preservation | 0.49–1.15% | 2.07–4.3 percentage points |
+| Water, sanitation & civil works | 0.49–1.15% | 2.07–4.3 percentage points |
+| Rail, roads & motor transport | 0.49–1.15% | 2.07–4.3 percentage points |
+| Construction & structural engineering | 0.49–1.15% | 2.07–4.3 percentage points |
+| Textiles & household manufacture | 0.49–1.15% | 2.07–4.3 percentage points |
+| Conventional military manufacture | 0.49–1.15% | 2.07–4.3 percentage points |
+| Technical learning & knowledge retention | 0.49–1.15% | 1.98–4.11 percentage points |
 
 Specialties: Fish curing, fruit and fibre exports, west-coast resupply. Constraints: External firms dominate commercial credit and shipping; contested leases and imported machinery.
 ## Nemerai Crown
@@ -1113,23 +1150,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 44%; reliable clean water: 46%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.15 and public works 2.76 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 2.0 | 0.41–0.95% | 1.54–3.2 percentage points |
-| Machine tools & precision | 2.0 | 0.41–0.95% | 1.54–3.2 percentage points |
-| Energy & electrification | 3.0 | 0.41–0.95% | 1.41–2.92 percentage points |
-| Chemicals & industrial processes | 2.0 | 0.41–0.95% | 1.54–3.2 percentage points |
-| Aviation & aeronautics | 1.0 | 0.41–0.95% | 1.68–3.48 percentage points |
-| Maritime engineering | 3.0 | 0.41–0.95% | 1.41–2.92 percentage points |
-| Communications & electrical instruments | 3.0 | 0.41–0.95% | 1.41–2.92 percentage points |
-| Medicine & public health | 2.0 | 0.41–0.95% | 1.54–3.2 percentage points |
-| Agriculture & food preservation | 2.5 | 0.41–0.95% | 1.47–3.06 percentage points |
-| Water, sanitation & civil works | 2.3 | 0.41–0.95% | 1.5–3.11 percentage points |
-| Rail, roads & motor transport | 2.3 | 0.41–0.95% | 1.5–3.11 percentage points |
-| Construction & structural engineering | 2.0 | 0.41–0.95% | 1.54–3.2 percentage points |
-| Textiles & household manufacture | 2.3 | 0.41–0.95% | 1.5–3.11 percentage points |
-| Conventional military manufacture | 2.0 | 0.41–0.95% | 1.54–3.2 percentage points |
-| Technical learning & knowledge retention | 2.5 | 0.41–0.95% | 1.47–3.06 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.41–0.95% | 1.54–3.2 percentage points |
+| Machine tools & precision | 0.41–0.95% | 1.54–3.2 percentage points |
+| Energy & electrification | 0.41–0.95% | 1.41–2.92 percentage points |
+| Chemicals & industrial processes | 0.41–0.95% | 1.54–3.2 percentage points |
+| Aviation & aeronautics | 0.41–0.95% | 1.68–3.48 percentage points |
+| Maritime engineering | 0.41–0.95% | 1.41–2.92 percentage points |
+| Communications & electrical instruments | 0.41–0.95% | 1.41–2.92 percentage points |
+| Medicine & public health | 0.41–0.95% | 1.54–3.2 percentage points |
+| Agriculture & food preservation | 0.41–0.95% | 1.47–3.06 percentage points |
+| Water, sanitation & civil works | 0.41–0.95% | 1.5–3.11 percentage points |
+| Rail, roads & motor transport | 0.41–0.95% | 1.5–3.11 percentage points |
+| Construction & structural engineering | 0.41–0.95% | 1.54–3.2 percentage points |
+| Textiles & household manufacture | 0.41–0.95% | 1.5–3.11 percentage points |
+| Conventional military manufacture | 0.41–0.95% | 1.54–3.2 percentage points |
+| Technical learning & knowledge retention | 0.41–0.95% | 1.47–3.06 percentage points |
 
 Specialties: Ocean navigation, grain terraces, textiles and marine repairs. Constraints: No integrated heavy steel industry; outer-island levies require compact consent.
 ## Ordelune Overseas Districts
@@ -1143,23 +1181,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 47%; reliable clean water: 43%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.41 and public works 3.37 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 2.0 | 0.36–0.83% | 1.45–3.0 percentage points |
-| Machine tools & precision | 1.0 | 0.36–0.83% | 1.57–3.27 percentage points |
-| Energy & electrification | 2.0 | 0.36–0.83% | 1.45–3.0 percentage points |
-| Chemicals & industrial processes | 2.0 | 0.36–0.83% | 1.45–3.0 percentage points |
-| Aviation & aeronautics | 1.0 | 0.36–0.83% | 1.57–3.27 percentage points |
-| Maritime engineering | 2.0 | 0.36–0.83% | 1.45–3.0 percentage points |
-| Communications & electrical instruments | 2.0 | 0.36–0.83% | 1.45–3.0 percentage points |
-| Medicine & public health | 2.0 | 0.36–0.83% | 1.45–3.0 percentage points |
-| Agriculture & food preservation | 2.0 | 0.36–0.83% | 1.45–3.0 percentage points |
-| Water, sanitation & civil works | 1.7 | 0.36–0.83% | 1.49–3.09 percentage points |
-| Rail, roads & motor transport | 1.7 | 0.36–0.83% | 1.49–3.09 percentage points |
-| Construction & structural engineering | 1.5 | 0.36–0.83% | 1.51–3.14 percentage points |
-| Textiles & household manufacture | 1.7 | 0.36–0.83% | 1.49–3.09 percentage points |
-| Conventional military manufacture | 1.7 | 0.36–0.83% | 1.49–3.09 percentage points |
-| Technical learning & knowledge retention | 1.5 | 0.36–0.83% | 1.51–3.14 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.36–0.83% | 1.45–3.0 percentage points |
+| Machine tools & precision | 0.36–0.83% | 1.57–3.27 percentage points |
+| Energy & electrification | 0.36–0.83% | 1.45–3.0 percentage points |
+| Chemicals & industrial processes | 0.36–0.83% | 1.45–3.0 percentage points |
+| Aviation & aeronautics | 0.36–0.83% | 1.57–3.27 percentage points |
+| Maritime engineering | 0.36–0.83% | 1.45–3.0 percentage points |
+| Communications & electrical instruments | 0.36–0.83% | 1.45–3.0 percentage points |
+| Medicine & public health | 0.36–0.83% | 1.45–3.0 percentage points |
+| Agriculture & food preservation | 0.36–0.83% | 1.45–3.0 percentage points |
+| Water, sanitation & civil works | 0.36–0.83% | 1.49–3.09 percentage points |
+| Rail, roads & motor transport | 0.36–0.83% | 1.49–3.09 percentage points |
+| Construction & structural engineering | 0.36–0.83% | 1.51–3.14 percentage points |
+| Textiles & household manufacture | 0.36–0.83% | 1.49–3.09 percentage points |
+| Conventional military manufacture | 0.36–0.83% | 1.49–3.09 percentage points |
+| Technical learning & knowledge retention | 0.36–0.83% | 1.51–3.14 percentage points |
 
 Specialties: Wool, grain, preserved fish and southern provisioning. Constraints: Storm-season isolation, limited machine shops and disputed crown leases.
 ## Skeldran Hearth Confederacy
@@ -1173,23 +1212,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 42%; reliable clean water: 29%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 57–76 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 0.55 and public works 1.26 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 1.0 | 0.28–0.65% | 1.23–2.55 percentage points |
-| Machine tools & precision | 1.0 | 0.28–0.65% | 1.23–2.55 percentage points |
-| Energy & electrification | 1.0 | 0.28–0.65% | 1.23–2.55 percentage points |
-| Chemicals & industrial processes | 1.0 | 0.28–0.65% | 1.23–2.55 percentage points |
-| Aviation & aeronautics | 1.0 | 0.28–0.65% | 1.23–2.55 percentage points |
-| Maritime engineering | 2.0 | 0.28–0.65% | 1.13–2.34 percentage points |
-| Communications & electrical instruments | 2.0 | 0.28–0.65% | 1.13–2.34 percentage points |
-| Medicine & public health | 2.0 | 0.28–0.65% | 1.13–2.34 percentage points |
-| Agriculture & food preservation | 1.0 | 0.28–0.65% | 1.23–2.55 percentage points |
-| Water, sanitation & civil works | 1.0 | 0.28–0.65% | 1.23–2.55 percentage points |
-| Rail, roads & motor transport | 1.0 | 0.28–0.65% | 1.23–2.55 percentage points |
-| Construction & structural engineering | 1.0 | 0.28–0.65% | 1.23–2.55 percentage points |
-| Textiles & household manufacture | 1.0 | 0.28–0.65% | 1.23–2.55 percentage points |
-| Conventional military manufacture | 1.0 | 0.28–0.65% | 1.23–2.55 percentage points |
-| Technical learning & knowledge retention | 1.5 | 0.28–0.65% | 1.18–2.45 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.28–0.65% | 1.23–2.55 percentage points |
+| Machine tools & precision | 0.28–0.65% | 1.23–2.55 percentage points |
+| Energy & electrification | 0.28–0.65% | 1.23–2.55 percentage points |
+| Chemicals & industrial processes | 0.28–0.65% | 1.23–2.55 percentage points |
+| Aviation & aeronautics | 0.28–0.65% | 1.23–2.55 percentage points |
+| Maritime engineering | 0.28–0.65% | 1.13–2.34 percentage points |
+| Communications & electrical instruments | 0.28–0.65% | 1.13–2.34 percentage points |
+| Medicine & public health | 0.28–0.65% | 1.13–2.34 percentage points |
+| Agriculture & food preservation | 0.28–0.65% | 1.23–2.55 percentage points |
+| Water, sanitation & civil works | 0.28–0.65% | 1.23–2.55 percentage points |
+| Rail, roads & motor transport | 0.28–0.65% | 1.23–2.55 percentage points |
+| Construction & structural engineering | 0.28–0.65% | 1.23–2.55 percentage points |
+| Textiles & household manufacture | 0.28–0.65% | 1.23–2.55 percentage points |
+| Conventional military manufacture | 0.28–0.65% | 1.23–2.55 percentage points |
+| Technical learning & knowledge retention | 0.28–0.65% | 1.18–2.45 percentage points |
 
 Specialties: Cold-water fisheries, wool, rescue pilotage and wooden boats. Constraints: Short growing season, scarce imported fuel and little heavy repair capacity.
 ## Merovian Island Republic
@@ -1203,23 +1243,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 56%; reliable clean water: 57%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.60 and public works 7.81 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 3.0 | 0.54–1.26% | 2.1–4.36 percentage points |
-| Machine tools & precision | 3.0 | 0.54–1.26% | 2.1–4.36 percentage points |
-| Energy & electrification | 3.0 | 0.54–1.26% | 2.1–4.36 percentage points |
-| Chemicals & industrial processes | 3.0 | 0.54–1.26% | 2.1–4.36 percentage points |
-| Aviation & aeronautics | 2.0 | 0.54–1.26% | 2.3–4.78 percentage points |
-| Maritime engineering | 3.0 | 0.54–1.26% | 2.1–4.36 percentage points |
-| Communications & electrical instruments | 3.0 | 0.54–1.26% | 2.1–4.36 percentage points |
-| Medicine & public health | 3.0 | 0.54–1.26% | 2.1–4.36 percentage points |
-| Agriculture & food preservation | 3.0 | 0.54–1.26% | 2.1–4.36 percentage points |
-| Water, sanitation & civil works | 3.0 | 0.54–1.26% | 2.1–4.36 percentage points |
-| Rail, roads & motor transport | 3.0 | 0.54–1.26% | 2.1–4.36 percentage points |
-| Construction & structural engineering | 3.0 | 0.54–1.26% | 2.1–4.36 percentage points |
-| Textiles & household manufacture | 3.0 | 0.54–1.26% | 2.1–4.36 percentage points |
-| Conventional military manufacture | 3.0 | 0.54–1.26% | 2.1–4.36 percentage points |
-| Technical learning & knowledge retention | 3.0 | 0.54–1.26% | 2.1–4.36 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.54–1.26% | 2.1–4.36 percentage points |
+| Machine tools & precision | 0.54–1.26% | 2.1–4.36 percentage points |
+| Energy & electrification | 0.54–1.26% | 2.1–4.36 percentage points |
+| Chemicals & industrial processes | 0.54–1.26% | 2.1–4.36 percentage points |
+| Aviation & aeronautics | 0.54–1.26% | 2.3–4.78 percentage points |
+| Maritime engineering | 0.54–1.26% | 2.1–4.36 percentage points |
+| Communications & electrical instruments | 0.54–1.26% | 2.1–4.36 percentage points |
+| Medicine & public health | 0.54–1.26% | 2.1–4.36 percentage points |
+| Agriculture & food preservation | 0.54–1.26% | 2.1–4.36 percentage points |
+| Water, sanitation & civil works | 0.54–1.26% | 2.1–4.36 percentage points |
+| Rail, roads & motor transport | 0.54–1.26% | 2.1–4.36 percentage points |
+| Construction & structural engineering | 0.54–1.26% | 2.1–4.36 percentage points |
+| Textiles & household manufacture | 0.54–1.26% | 2.1–4.36 percentage points |
+| Conventional military manufacture | 0.54–1.26% | 2.1–4.36 percentage points |
+| Technical learning & knowledge retention | 0.54–1.26% | 2.1–4.36 percentage points |
 
 Specialties: Marine repairs, insurance, food processing and pump manufacture. Constraints: Imported plate and refined fuel; merchant finance and outer-island representation remain contentious.
 ## Ashalai Reef Covenant
@@ -1233,23 +1274,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 40%; reliable clean water: 37%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 57–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 0.77 and public works 1.84 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 2.0 | 0.3–0.7% | 1.22–2.53 percentage points |
-| Machine tools & precision | 1.0 | 0.3–0.7% | 1.32–2.75 percentage points |
-| Energy & electrification | 2.0 | 0.3–0.7% | 1.22–2.53 percentage points |
-| Chemicals & industrial processes | 1.0 | 0.3–0.7% | 1.32–2.75 percentage points |
-| Aviation & aeronautics | 1.0 | 0.3–0.7% | 1.32–2.75 percentage points |
-| Maritime engineering | 2.0 | 0.3–0.7% | 1.22–2.53 percentage points |
-| Communications & electrical instruments | 2.0 | 0.3–0.7% | 1.22–2.53 percentage points |
-| Medicine & public health | 2.0 | 0.3–0.7% | 1.22–2.53 percentage points |
-| Agriculture & food preservation | 1.5 | 0.3–0.7% | 1.27–2.64 percentage points |
-| Water, sanitation & civil works | 1.3 | 0.3–0.7% | 1.29–2.68 percentage points |
-| Rail, roads & motor transport | 1.7 | 0.3–0.7% | 1.25–2.6 percentage points |
-| Construction & structural engineering | 1.5 | 0.3–0.7% | 1.27–2.64 percentage points |
-| Textiles & household manufacture | 1.3 | 0.3–0.7% | 1.29–2.68 percentage points |
-| Conventional military manufacture | 1.3 | 0.3–0.7% | 1.29–2.68 percentage points |
-| Technical learning & knowledge retention | 1.5 | 0.3–0.7% | 1.27–2.64 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.3–0.7% | 1.22–2.53 percentage points |
+| Machine tools & precision | 0.3–0.7% | 1.32–2.75 percentage points |
+| Energy & electrification | 0.3–0.7% | 1.22–2.53 percentage points |
+| Chemicals & industrial processes | 0.3–0.7% | 1.32–2.75 percentage points |
+| Aviation & aeronautics | 0.3–0.7% | 1.32–2.75 percentage points |
+| Maritime engineering | 0.3–0.7% | 1.22–2.53 percentage points |
+| Communications & electrical instruments | 0.3–0.7% | 1.22–2.53 percentage points |
+| Medicine & public health | 0.3–0.7% | 1.22–2.53 percentage points |
+| Agriculture & food preservation | 0.3–0.7% | 1.27–2.64 percentage points |
+| Water, sanitation & civil works | 0.3–0.7% | 1.29–2.68 percentage points |
+| Rail, roads & motor transport | 0.3–0.7% | 1.25–2.6 percentage points |
+| Construction & structural engineering | 0.3–0.7% | 1.27–2.64 percentage points |
+| Textiles & household manufacture | 0.3–0.7% | 1.29–2.68 percentage points |
+| Conventional military manufacture | 0.3–0.7% | 1.29–2.68 percentage points |
+| Technical learning & knowledge retention | 0.3–0.7% | 1.27–2.64 percentage points |
 
 Specialties: Irrigated crops, fibres, plant oils, reef navigation and small-craft repair. Constraints: Limited heavy industry and medical imports; dispersed councils cannot mobilise as a centralised mass army.
 ## Kingdom of Istrana
@@ -1263,23 +1305,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 51%; reliable clean water: 51%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 4.19 and public works 4.37 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 2.0 | 0.68–1.59% | 1.78–3.7 percentage points |
-| Machine tools & precision | 2.0 | 0.68–1.59% | 1.78–3.7 percentage points |
-| Energy & electrification | 3.0 | 0.68–1.59% | 1.63–3.38 percentage points |
-| Chemicals & industrial processes | 2.0 | 0.68–1.59% | 1.78–3.7 percentage points |
-| Aviation & aeronautics | 1.0 | 0.68–1.59% | 1.94–4.03 percentage points |
-| Maritime engineering | 3.0 | 0.68–1.59% | 1.63–3.38 percentage points |
-| Communications & electrical instruments | 3.0 | 0.68–1.59% | 1.63–3.38 percentage points |
-| Medicine & public health | 2.0 | 0.68–1.59% | 1.78–3.7 percentage points |
-| Agriculture & food preservation | 2.5 | 0.68–1.59% | 1.7–3.54 percentage points |
-| Water, sanitation & civil works | 2.3 | 0.68–1.59% | 1.73–3.59 percentage points |
-| Rail, roads & motor transport | 2.3 | 0.68–1.59% | 1.73–3.59 percentage points |
-| Construction & structural engineering | 2.0 | 0.68–1.59% | 1.78–3.7 percentage points |
-| Textiles & household manufacture | 2.3 | 0.68–1.59% | 1.73–3.59 percentage points |
-| Conventional military manufacture | 2.0 | 0.68–1.59% | 1.78–3.7 percentage points |
-| Technical learning & knowledge retention | 2.5 | 0.68–1.59% | 1.7–3.54 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.68–1.59% | 1.78–3.7 percentage points |
+| Machine tools & precision | 0.68–1.59% | 1.78–3.7 percentage points |
+| Energy & electrification | 0.68–1.59% | 1.63–3.38 percentage points |
+| Chemicals & industrial processes | 0.68–1.59% | 1.78–3.7 percentage points |
+| Aviation & aeronautics | 0.68–1.59% | 1.94–4.03 percentage points |
+| Maritime engineering | 0.68–1.59% | 1.63–3.38 percentage points |
+| Communications & electrical instruments | 0.68–1.59% | 1.63–3.38 percentage points |
+| Medicine & public health | 0.68–1.59% | 1.78–3.7 percentage points |
+| Agriculture & food preservation | 0.68–1.59% | 1.7–3.54 percentage points |
+| Water, sanitation & civil works | 0.68–1.59% | 1.73–3.59 percentage points |
+| Rail, roads & motor transport | 0.68–1.59% | 1.73–3.59 percentage points |
+| Construction & structural engineering | 0.68–1.59% | 1.78–3.7 percentage points |
+| Textiles & household manufacture | 0.68–1.59% | 1.73–3.59 percentage points |
+| Conventional military manufacture | 0.68–1.59% | 1.78–3.7 percentage points |
+| Technical learning & knowledge retention | 0.68–1.59% | 1.7–3.54 percentage points |
 
 Specialties: Textiles, processed crops, coastal shipbuilding and customs administration. Constraints: Imported machinery and fuel; royal borrowing requires assembly consent.
 ## Edrask Governorate
@@ -1293,23 +1336,24 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 47%; reliable clean water: 48%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.82 and public works 5.45 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 2.0 | 0.47–1.09% | 1.95–4.05 percentage points |
-| Machine tools & precision | 2.0 | 0.47–1.09% | 1.95–4.05 percentage points |
-| Energy & electrification | 2.0 | 0.47–1.09% | 1.95–4.05 percentage points |
-| Chemicals & industrial processes | 2.0 | 0.47–1.09% | 1.95–4.05 percentage points |
-| Aviation & aeronautics | 1.0 | 0.47–1.09% | 2.12–4.4 percentage points |
-| Maritime engineering | 2.0 | 0.47–1.09% | 1.95–4.05 percentage points |
-| Communications & electrical instruments | 3.0 | 0.47–1.09% | 1.78–3.69 percentage points |
-| Medicine & public health | 2.0 | 0.47–1.09% | 1.95–4.05 percentage points |
-| Agriculture & food preservation | 2.0 | 0.47–1.09% | 1.95–4.05 percentage points |
-| Water, sanitation & civil works | 2.0 | 0.47–1.09% | 1.95–4.05 percentage points |
-| Rail, roads & motor transport | 2.0 | 0.47–1.09% | 1.95–4.05 percentage points |
-| Construction & structural engineering | 2.0 | 0.47–1.09% | 1.95–4.05 percentage points |
-| Textiles & household manufacture | 2.0 | 0.47–1.09% | 1.95–4.05 percentage points |
-| Conventional military manufacture | 2.0 | 0.47–1.09% | 1.95–4.05 percentage points |
-| Technical learning & knowledge retention | 2.5 | 0.47–1.09% | 1.86–3.87 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.47–1.09% | 1.95–4.05 percentage points |
+| Machine tools & precision | 0.47–1.09% | 1.95–4.05 percentage points |
+| Energy & electrification | 0.47–1.09% | 1.95–4.05 percentage points |
+| Chemicals & industrial processes | 0.47–1.09% | 1.95–4.05 percentage points |
+| Aviation & aeronautics | 0.47–1.09% | 2.12–4.4 percentage points |
+| Maritime engineering | 0.47–1.09% | 1.95–4.05 percentage points |
+| Communications & electrical instruments | 0.47–1.09% | 1.78–3.69 percentage points |
+| Medicine & public health | 0.47–1.09% | 1.95–4.05 percentage points |
+| Agriculture & food preservation | 0.47–1.09% | 1.95–4.05 percentage points |
+| Water, sanitation & civil works | 0.47–1.09% | 1.95–4.05 percentage points |
+| Rail, roads & motor transport | 0.47–1.09% | 1.95–4.05 percentage points |
+| Construction & structural engineering | 0.47–1.09% | 1.95–4.05 percentage points |
+| Textiles & household manufacture | 0.47–1.09% | 1.95–4.05 percentage points |
+| Conventional military manufacture | 0.47–1.09% | 1.95–4.05 percentage points |
+| Technical learning & knowledge retention | 0.47–1.09% | 1.86–3.87 percentage points |
 
 Specialties: Timber, preserved fish, weather stations and regional resupply. Constraints: Seasonal northern access, disputed concessions and dependence on imported grain and machinery.
 ## Norrakai Moots
@@ -1323,22 +1367,23 @@ Reviewed 05/11/0068 AC43. Initial household-budget estimates: reference wages an
 Accessible ordinary care: 35%; reliable clean water: 28%. Both are scenario estimates, not a survey.
 Typical adult lifespan: 56–76 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 0.45 and public works 1.04 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
-| Field | Capability / 5 | Ordinary improvement / year | Adoption / year |
-|---|---:|---:|---:|
-| Metals & structural materials | 1.0 | 0.27–0.63% | 1.19–2.47 percentage points |
-| Machine tools & precision | 1.0 | 0.27–0.63% | 1.19–2.47 percentage points |
-| Energy & electrification | 1.0 | 0.27–0.63% | 1.19–2.47 percentage points |
-| Chemicals & industrial processes | 1.0 | 0.27–0.63% | 1.19–2.47 percentage points |
-| Aviation & aeronautics | 1.0 | 0.27–0.63% | 1.19–2.47 percentage points |
-| Maritime engineering | 2.0 | 0.27–0.63% | 1.09–2.27 percentage points |
-| Communications & electrical instruments | 2.0 | 0.27–0.63% | 1.09–2.27 percentage points |
-| Medicine & public health | 1.0 | 0.27–0.63% | 1.19–2.47 percentage points |
-| Agriculture & food preservation | 1.0 | 0.27–0.63% | 1.19–2.47 percentage points |
-| Water, sanitation & civil works | 1.0 | 0.27–0.63% | 1.19–2.47 percentage points |
-| Rail, roads & motor transport | 1.0 | 0.27–0.63% | 1.19–2.47 percentage points |
-| Construction & structural engineering | 1.0 | 0.27–0.63% | 1.19–2.47 percentage points |
-| Textiles & household manufacture | 1.0 | 0.27–0.63% | 1.19–2.47 percentage points |
-| Conventional military manufacture | 1.0 | 0.27–0.63% | 1.19–2.47 percentage points |
-| Technical learning & knowledge retention | 1.5 | 0.27–0.63% | 1.14–2.37 percentage points |
+[Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
+| Field | Ordinary improvement / year | Adoption / year |
+|---|---:|---:|
+| Metals & structural materials | 0.27–0.63% | 1.19–2.47 percentage points |
+| Machine tools & precision | 0.27–0.63% | 1.19–2.47 percentage points |
+| Energy & electrification | 0.27–0.63% | 1.19–2.47 percentage points |
+| Chemicals & industrial processes | 0.27–0.63% | 1.19–2.47 percentage points |
+| Aviation & aeronautics | 0.27–0.63% | 1.19–2.47 percentage points |
+| Maritime engineering | 0.27–0.63% | 1.09–2.27 percentage points |
+| Communications & electrical instruments | 0.27–0.63% | 1.09–2.27 percentage points |
+| Medicine & public health | 0.27–0.63% | 1.19–2.47 percentage points |
+| Agriculture & food preservation | 0.27–0.63% | 1.19–2.47 percentage points |
+| Water, sanitation & civil works | 0.27–0.63% | 1.19–2.47 percentage points |
+| Rail, roads & motor transport | 0.27–0.63% | 1.19–2.47 percentage points |
+| Construction & structural engineering | 0.27–0.63% | 1.19–2.47 percentage points |
+| Textiles & household manufacture | 0.27–0.63% | 1.19–2.47 percentage points |
+| Conventional military manufacture | 0.27–0.63% | 1.19–2.47 percentage points |
+| Technical learning & knowledge retention | 0.27–0.63% | 1.14–2.37 percentage points |
 
 Specialties: Northern pilotage, fisheries, hides and refuge services. Constraints: Short shipping season, imported grain and almost no industrial depth.

@@ -14329,3 +14329,18 @@ Removed both lines from the visible app, including the revision number in the up
 ## 627 - User - Simplify lifespan bands and reconcile population growth
 
 Having separate Life Expectancies for at Birth and Remaining after age 20 seems a poor way of showing these stats. We already have population growth rates so we know roughly how many people are born and die and what the replenishment rate of each nation is. As you have it the minimum age you can reach after hitting 20 is beyond the range bands from birth which doesn't make sense. Probably better for you to have a standard rangebands for lifespans per nation and then just leave infant mortality as part of the population growth rate. The population growth rates should be looked at as well to ensure it fits with all the new data
+
+## 628 - Assistant - Published lifespan bands and demographic reconciliation
+
+Updated and verified live across all 43 national profiles.
+
+- **One typical adult lifespan band**, expressed as total age. Veyrasse now shows **59–78 local years**. People can still die younger or live longer.
+- **Infant mortality is included in demographic deaths**, without being counted twice.
+- Birth and death estimates now align with the survival model. Existing net growth rates remain documented modelling assumptions; current population totals are unchanged.
+- Annual reviews must reconsider lifespan, births, deaths and migration together.
+
+[Updated app](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=44d1d3ed208f9337de27#world) · [Full demographic review](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/DEMOGRAPHIC-REVIEW.md)
+
+## 629 - User - Replace technology scores and withdraw personal sigil
+
+Sorting technology so simply as just a number rating won't do. I feel like we should treat it somewhat like Civilization or various strategy games. We gather the Core technologies any hypothetical species would go through in each age, but we make sure it is 40k based, unsure if we do a path system or anything. But we need some kind of framework because we have nations here that read 5/5 but that is really only localized to this planet. For stuff like Military Readiness and that sort of thing it makes sense for it to be a scale of 1-5 as there less variables and you can have tribals just as ready as space marines but it still doesn't mean the tribals are gonna score a kill. But technology is more varied like how an economy is or population data. Also lets just get rid of the personal sigil, fucking brilliant looking logo for the app but it doesn't really fit into the campaign at least not at the moment and if it does it will be way down the line. Keep a copy of it somewhere though just in case
