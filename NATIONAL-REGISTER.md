@@ -84,6 +84,16 @@ Provincial consent slows concentration; major arsenals and railway junctions rem
 
 Court examination offices and provincial registries preserve records; access varies by patron.
 
+### Government and leadership
+
+Composite hereditary monarchy
+
+The sovereign directs diplomacy, appoints senior officials and issues executive orders. New revenues, provincial obligations and lawful succession remain subject to the recorded charter or compact; personal will does not create available resources.
+
+Current principal figures: Sovereign — Lucelle Nemeret (63); Crown Marshal — Tristan Rovantin (66); First Minister — Odette Sarvigne (57); Recognised heir — Sylvain Nemeret (23).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 65/100 (above reference capacity); confidence 57/100; civil protection 53/100; unrest 36/100 (higher is worse).
@@ -212,6 +222,16 @@ Grain distribution, military stores and arsenal production.
 Mass manpower outstrips motor transport; imported precision machinery constrains arsenal expansion.
 
 Estate households preserve healing and harvest observances; arsenal physicians record unusual cases, usually through the patron who brings the subject to them.
+
+### Government and leadership
+
+Landed hereditary monarchy
+
+The sovereign directs diplomacy, appoints senior officials and issues executive orders. New revenues, provincial obligations and lawful succession remain subject to the recorded charter or compact; personal will does not create available resources.
+
+Current principal figures: Sovereign — Nerine Sorelli (66); Marshal of the Royal Army — Yselle Serravin (52); Chief Royal Commissioner — Heloise Orselle (47); Recognised heir — Olivier Sorelli (22).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
 
 ### Living standards and public sentiment
 
@@ -342,6 +362,16 @@ Trade interruption threatens fuel and food imports; its skilled workforce is dif
 
 Institutes and hospitals collect documented cases; evidence is better organised than practitioner supply.
 
+### Government and leadership
+
+Oligarchic merchant republic
+
+The executive is selected by the constituent councils or assemblies, which approve common supply and major commitments. Delegated administration allows routine decisions; it does not override local jurisdictions or create universal suffrage.
+
+Current principal figures: First Consul — Gaspard Barvaux (62); Admiral of the Republic — Rosaline Castrel (50); Deputy Consul — Dorian Lorrain (57).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 71/100 (above reference capacity); confidence 61/100; civil protection 54/100; unrest 32/100 (higher is worse).
@@ -470,6 +500,16 @@ Water engineering, agricultural processing and industrial chemistry.
 Water allocation and estate vetoes complicate mobilisation; river freight is sensitive to damaged locks.
 
 Water boards retain old records of divination and flood omens beside their engineering archives. Practical credibility depends on repeated results, not an inherited title.
+
+### Government and leadership
+
+Federation of cities, estates and water authorities
+
+The executive is selected by the constituent councils or assemblies, which approve common supply and major commitments. Delegated administration allows routine decisions; it does not override local jurisdictions or create universal suffrage.
+
+Current principal figures: Federal Convenor — Fleur Delmorne (57); Defence Commissioner — Deliane Serravin (52); Deputy Convenor — Arielle Arvelle (37).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
 
 ### Living standards and public sentiment
 
@@ -600,6 +640,16 @@ Arms and credit depend on competing patrons; prolonged mobilisation drains agric
 
 Border houses keep private warding manuscripts and employ occasional itinerant readers. Rival patrons make access political and discourage sharing successful practice.
 
+### Government and leadership
+
+Hereditary buffer duchy
+
+The sovereign directs diplomacy, appoints senior officials and issues executive orders. New revenues, provincial obligations and lawful succession remain subject to the recorded charter or compact; personal will does not create available resources.
+
+Current principal figures: Duke — Fabien Vasselin (61); Marshal — Pascal Cavellier (42); Chancellor — Valerie Seravin (40); Recognised heir — Aurelie Vasselin (32).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 49/100 (around reference capacity); confidence 43/100; civil protection 50/100; unrest 51/100 (higher is worse).
@@ -728,6 +778,16 @@ Metallurgy, machine tools and factory production.
 Exposed frontier factories and food imports limit a long war despite excellent machine-tool output.
 
 Factory reading societies debate arcane reports alongside medicine and natural philosophy. Private experiments remain scattered, with no dependable industrial application.
+
+### Government and leadership
+
+Industrial municipal republic
+
+The executive is selected by the constituent councils or assemblies, which approve common supply and major commitments. Delegated administration allows routine decisions; it does not override local jurisdictions or create universal suffrage.
+
+Current principal figures: Council President — Alban Orcelin (43); Chief of Defence — Celestin Trevaux (42); Deputy President — Renato Duvaret (30).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
 
 ### Living standards and public sentiment
 
@@ -858,6 +918,16 @@ Combined rival returns; no common treasury, staff or army. Rail gauges, tolls an
 
 The fallen crown’s collections are divided among rival courts and displaced teachers. Competing claims to authentic manuscripts matter more than any central school.
 
+### Government and leadership
+
+Fragmented successor courts and autonomous cities
+
+There is no common sovereign, treasury or supreme military command. Each named figure governs or represents only the institution in the office title. Joint commitments require separate mandates; combined statistics confer no command authority.
+
+Current principal figures: Ossendrienne Civic Convenor — Tristan Trevaux (49); Ossendrienne Garrison Commander — Vivienne Vellori (57); Tressavio Council Speaker — Florent Barvaux (52).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 48/100 (around reference capacity); confidence 34/100; civil protection 30/100; unrest 68/100 (higher is worse).
@@ -986,6 +1056,16 @@ Valley agriculture, timber and stronghold supply.
 Winter supply and dispersed valley garrisons consume most available transport.
 
 Valley households preserve protective rites and stories of gifted healers. Winter isolation keeps instruction local, and court inquiries rarely reach every settlement.
+
+### Government and leadership
+
+Territorial hereditary monarchy
+
+The sovereign directs diplomacy, appoints senior officials and issues executive orders. New revenues, provincial obligations and lawful succession remain subject to the recorded charter or compact; personal will does not create available resources.
+
+Current principal figures: Sovereign — Arielle Trevaux (49); Marshal of the Crown — Alessia Carvesset (52); Chancellor — Alban Darcourt (58); Recognised heir — Olivier Trevaux (35).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
 
 ### Living standards and public sentiment
 
@@ -1116,6 +1196,16 @@ Specialist foundries are strong; grain imports and seasonal routes make an exten
 
 Guarded workshops sometimes collaborate with rare practitioners; no standardised arcane production.
 
+### Government and leadership
+
+League of mining councils and proprietors
+
+The executive is selected by the constituent councils or assemblies, which approve common supply and major commitments. Delegated administration allows routine decisions; it does not override local jurisdictions or create universal suffrage.
+
+Current principal figures: League Chair — Pascal Brissot (62); Defence Director — Heloise Vellori (55); Deputy League Chair — Gaspard Rovelle (41).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 61/100 (above reference capacity); confidence 58/100; civil protection 53/100; unrest 36/100 (higher is worse).
@@ -1244,6 +1334,16 @@ Field medicine, communications and scholarly traditions.
 Small arsenals and scattered teaching houses constrain scale; trained wardens excel locally rather than in mass campaigns.
 
 Small warden teaching houses preserve field traditions; skilled practitioners remain exceptionally rare.
+
+### Government and leadership
+
+Chartered wardenship
+
+The executive is selected by the constituent councils or assemblies, which approve common supply and major commitments. Delegated administration allows routine decisions; it does not override local jurisdictions or create universal suffrage.
+
+Current principal figures: First Warden — Florent Resselin (68); Captain-General of the Wardens — Estelle Sarvigne (67); Deputy First Warden — Fabien Caldoret (56).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
 
 ### Living standards and public sentiment
 
@@ -1374,6 +1474,16 @@ Seasonal navigation and dependence on imported fuels limit sustained operations 
 
 Pilots and mill communities preserve water omens and inherited household protections. Navigation still relies on soundings, charts and experienced crews.
 
+### Government and leadership
+
+River and agrarian republic
+
+The executive is selected by the constituent councils or assemblies, which approve common supply and major commitments. Delegated administration allows routine decisions; it does not override local jurisdictions or create universal suffrage.
+
+Current principal figures: Council President — Leonie Serravin (63); Defence Commissioner — Clarisse Arvelle (52); Deputy President — Camille Cavellier (42).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 51/100 (around reference capacity); confidence 54/100; civil protection 50/100; unrest 39/100 (higher is worse).
@@ -1502,6 +1612,16 @@ Maritime freight, ship maintenance and naval supply.
 Sea lanes carry its power; inland movement is slow and there is no through railway to eastern Vesalius.
 
 Port archives collect travellers’ accounts and sea traditions; private patrons sponsor a few readers, whose conflicting methods do not form a naval service.
+
+### Government and leadership
+
+Maritime council state
+
+The executive is selected by the constituent councils or assemblies, which approve common supply and major commitments. Delegated administration allows routine decisions; it does not override local jurisdictions or create universal suffrage.
+
+Current principal figures: First Sea Councillor — Romain Seravin (64); Fleet Admiral — Matteo Nerval (63); Deputy Sea Councillor — Lucan Caldoret (37).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
 
 ### Living standards and public sentiment
 
@@ -1632,6 +1752,16 @@ The Averholt frontier and northern garrisons tie down formations; large armies c
 
 Military physicians record unusual perception when it comes to their attention. Household and estate traditions survive outside those files, often deliberately.
 
+### Government and leadership
+
+Hereditary military monarchy
+
+The sovereign directs diplomacy, appoints senior officials and issues executive orders. New revenues, provincial obligations and lawful succession remain subject to the recorded charter or compact; personal will does not create available resources.
+
+Current principal figures: Sovereign — Matteo Rovelle (64); High Marshal — Vivienne Montreval (44); Chancellor — Alban Elmont (30); Recognised heir — Marcellin Rovelle (29).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 54/100 (around reference capacity); confidence 45/100; civil protection 50/100; unrest 48/100 (higher is worse).
@@ -1760,6 +1890,16 @@ Basin agriculture, internal trade and provincial engineering.
 Provincial bargains and the Vardol frontier absorb resources; interior transport has limited spare capacity.
 
 Provincial collections preserve distinct healing and warding customs. Teachers exchange access through local patrons rather than a realm-wide curriculum.
+
+### Government and leadership
+
+Provincial compact monarchy
+
+The sovereign directs diplomacy, appoints senior officials and issues executive orders. New revenues, provincial obligations and lawful succession remain subject to the recorded charter or compact; personal will does not create available resources.
+
+Current principal figures: Sovereign — Renier Aubret (39); Marshal of the Compact — Lucan Favrelli (51); First Provincial Councillor — Vittore Barvaux (56); Recognised heir — Gaspard Aubret (35).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
 
 ### Living standards and public sentiment
 
@@ -1890,6 +2030,16 @@ The republic controls only its own districts. Varnelle, Kelbrun and Gavrel have 
 
 Republican archives retain fragments of the former basin federation’s case records. Its clerks cannot compel the successor authorities to supply missing material.
 
+### Government and leadership
+
+Post-federal territorial republic
+
+The executive is selected by the constituent councils or assemblies, which approve common supply and major commitments. Delegated administration allows routine decisions; it does not override local jurisdictions or create universal suffrage.
+
+Current principal figures: Republic President — Marielle Bellorin (61); Chief of Defence — Leonie Arvelle (54); Deputy President — Marcellin Sorellet (59).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 50/100 (around reference capacity); confidence 53/100; civil protection 53/100; unrest 41/100 (higher is worse).
@@ -2018,6 +2168,16 @@ Delta freight, customs, filtration and processing trades.
 Delta channels, customs dependence and disputed upstream water access constrain resilience.
 
 River pilots and household healers trade practical lore around the delta. Port boards occasionally investigate a useful claim without endorsing an entire tradition.
+
+### Government and leadership
+
+Delta commercial council state
+
+The executive is selected by the constituent councils or assemblies, which approve common supply and major commitments. Delegated administration allows routine decisions; it does not override local jurisdictions or create universal suffrage.
+
+Current principal figures: First Commissioner — Coralie Lorrain (71); Defence Commissioner — Fabien Valentin (46); Deputy Commissioner — Pascal Arvelle (36).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
 
 ### Living standards and public sentiment
 
@@ -2148,6 +2308,16 @@ Plantation levies are numerous but unevenly equipped; imported engines and fuel 
 
 Estate remedies coexist with workers’ inherited protective practices. Private collections are accessible through personal trust, while plantation authorities are wary of independent followings.
 
+### Government and leadership
+
+Plantation council state
+
+The executive is selected by the constituent councils or assemblies, which approve common supply and major commitments. Delegated administration allows routine decisions; it does not override local jurisdictions or create universal suffrage.
+
+Current principal figures: Council President — Solenne Aubret (59); Commandant-General — Valerie Varenne (58); Deputy President — Elodie Resselin (45).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 42/100 (around reference capacity); confidence 51/100; civil protection 30/100; unrest 44/100 (higher is worse).
@@ -2276,6 +2446,16 @@ March provisioning, rural estates and frontier workshops.
 Household loyalties divide command; repair workshops cannot replace large losses of imported equipment.
 
 March houses preserve family books of omens and protections. Their secrecy divides instruction as effectively as the frontier divides military command.
+
+### Government and leadership
+
+Confederation of autonomous march houses
+
+The executive is selected by the constituent councils or assemblies, which approve common supply and major commitments. Delegated administration allows routine decisions; it does not override local jurisdictions or create universal suffrage.
+
+Current principal figures: Convenor of the Gavrielle Houses — Benoit Orcelin (60); March Defence Liaison — Alessia Nemeret (56); Deputy Convenor — Yselle Talvessin (50).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
 
 ### Living standards and public sentiment
 
@@ -2406,6 +2586,16 @@ Canton tolls and planter credit divide the export trade. Escort flotillas answer
 
 Canton healers inherit plant lore and protective observances. Port subscribers occasionally pay to compare case records, but inland custodians resist giving away family knowledge.
 
+### Government and leadership
+
+Independent harbour and plantation cantons
+
+There is no common sovereign, treasury or supreme military command. Each named figure governs or represents only the institution in the office title. Joint commitments require separate mandates; combined statistics confer no command authority.
+
+Current principal figures: Jougrenne Assembly Speaker — Yselle Varenne (42); Jougrenne Escort Commandant — Rosaline Merault (59); Nantac Land-Court Provost — Marielle Caldoret (39).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 41/100 (around reference capacity); confidence 51/100; civil protection 37/100; unrest 44/100 (higher is worse).
@@ -2534,6 +2724,16 @@ Wool, preserved provisions, upland cartage and small estate workshops.
 Rights of passage change between courts. Winter fodder and incompatible toll privileges limit concentration more than nominal levy strength.
 
 Court chapbooks mix household wards with dynastic histories. Independent practitioners move between patrons and market fairs, carrying techniques that rival courts claim as their own.
+
+### Government and leadership
+
+Independent principalities and charter towns
+
+There is no common sovereign, treasury or supreme military command. Each named figure governs or represents only the institution in the office title. Joint commitments require separate mandates; combined statistics confer no command authority.
+
+Current principal figures: Collengo First Burgess — Vittore Caldoret (53); Collengo Guard Captain — Celestin Brissot (64); Peregia Court Chancellor — Pascal Rovelle (50).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
 
 ### Living standards and public sentiment
 
@@ -2664,6 +2864,16 @@ Water commands hold separate troops. A damaged gate or withheld release can disa
 
 Reservoir communities preserve water-divining traditions. Boards test useful claims against measured flows; most inherited observances remain unverified.
 
+### Government and leadership
+
+Independent basin leagues
+
+There is no common sovereign, treasury or supreme military command. Each named figure governs or represents only the institution in the office title. Joint commitments require separate mandates; combined statistics confer no command authority.
+
+Current principal figures: Jarnan Council Speaker — Fleur Resselin (73); Anselleuil Reservoir Commandant — Pascal Serravin (48); Votane Estates Delegate — Sabine Nerval (56).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 41/100 (around reference capacity); confidence 50/100; civil protection 57/100; unrest 44/100 (higher is worse).
@@ -2792,6 +3002,16 @@ Export warehousing, coastal shipping, food processing and commercial credit.
 Port conventions facilitate cargo, not military command. Inland debt disputes and foreign shipping insurance expose the region to commercial pressure.
 
 Harbour families collect foreign protective charms and accounts of unusual perception. Commercial correspondence circulates stories faster than competent teachers.
+
+### Government and leadership
+
+Independent littoral republics and estate courts
+
+There is no common sovereign, treasury or supreme military command. Each named figure governs or represents only the institution in the office title. Joint commitments require separate mandates; combined statistics confer no command authority.
+
+Current principal figures: Astrellac First Consul — Valerie Dalmaret (71); Astrellac Patrol Admiral — Sylvain Orcelin (66); Inland Estates Envoy — Lucan Kelvaret (39).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
 
 ### Living standards and public sentiment
 
@@ -2922,6 +3142,16 @@ Company forces protect particular assets. Charter disputes, imported food and de
 
 Mining crews preserve warning rites and private accounts of uncanny perception. Concession managers value a useful warning but rarely fund research that might interrupt extraction.
 
+### Government and leadership
+
+Concession charters and independent communities
+
+There is no common sovereign, treasury or supreme military command. Each named figure governs or represents only the institution in the office title. Joint commitments require separate mandates; combined statistics confer no command authority.
+
+Current principal figures: Asanetz Charter Registrar — Olivier Grevant (72); Alauvenne Security Commandant — Renier Bellorin (48); Communities' Liaison — Elodie Morcenne (51).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 41/100 (around reference capacity); confidence 45/100; civil protection 37/100; unrest 57/100 (higher is worse).
@@ -3050,6 +3280,16 @@ Convoy staging, cold-weather stores, fortress repair and imported-grain distribu
 Most personnel guard their own supply districts. Winter fuel and food reserves impose strict limits on campaigning beyond the wardholds.
 
 Hospices hold copied warding and healing texts obtained from Galdresk visitors. The copies outnumber people able to demonstrate any effect.
+
+### Government and leadership
+
+Independent wardholds
+
+There is no common sovereign, treasury or supreme military command. Each named figure governs or represents only the institution in the office title. Joint commitments require separate mandates; combined statistics confer no command authority.
+
+Current principal figures: Dananske First Warden — Vivienne Cernault (44); Dreinvar Fortress Captain — Celestin Valentin (50); Ferorvik Assembly Delegate — Marielle Norravel (59).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
 
 ### Living standards and public sentiment
 
@@ -3180,6 +3420,16 @@ Port and estate forces obey different officers. Agricultural limits and dependen
 
 Fishing households and estate infirmaries preserve separate traditions. Port scribes collect storm accounts; families conceal gifts they fear a landlord might appropriate.
 
+### Government and leadership
+
+Landed jurisdictions and charter port
+
+There is no common sovereign, treasury or supreme military command. Each named figure governs or represents only the institution in the office title. Joint commitments require separate mandates; combined statistics confer no command authority.
+
+Current principal figures: Varkessant First Burgess — Sylvain Astrevin (62); Varkessant Patrol Captain — Lucan Seravin (42); Estates' Arbitration Speaker — Deliane Vaudrin (35).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 41/100 (around reference capacity); confidence 50/100; civil protection 37/100; unrest 44/100 (higher is worse).
@@ -3308,6 +3558,16 @@ Textile finishing, estate produce, bonded warehousing and wagon repair.
 Foreign clients subsidise rival toll houses. Local garrisons cannot be added together as an expeditionary force without renegotiating their obligations.
 
 Travelling readers find patrons among rival march houses. Books cross borders as gifts or contraband, leaving local collections partial and politically guarded.
+
+### Government and leadership
+
+Fortified lordships and town liberties
+
+There is no common sovereign, treasury or supreme military command. Each named figure governs or represents only the institution in the office title. Joint commitments require separate mandates; combined statistics confer no command authority.
+
+Current principal figures: Malinne Council Speaker — Sabine Morcenne (48); Temevaux Road Commandant — Marcellin Rovantin (61); Orsavie Charter Envoy — Matteo Montreval (57).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
 
 ### Living standards and public sentiment
 
@@ -3438,6 +3698,16 @@ Military governors and elected market boards compete for transport and stores. R
 
 Granary towns maintain household protection rites alongside practical medicine. Market festivals bring teachers together briefly, without creating a permanent regional academy.
 
+### Government and leadership
+
+Market cantons and military governorships
+
+There is no common sovereign, treasury or supreme military command. Each named figure governs or represents only the institution in the office title. Joint commitments require separate mandates; combined statistics confer no command authority.
+
+Current principal figures: Margeuil Grain-Board Speaker — Yselle Favrelli (68); Darnenne Military Governor — Yselle Vernac (62); Galigny Appeals Delegate — Sabine Varnier (49).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 50/100 (around reference capacity); confidence 58/100; civil protection 60/100; unrest 35/100 (higher is worse).
@@ -3566,6 +3836,16 @@ Pilotage, coastal provisions, fishing and inland agricultural markets.
 Small communes lack a shared naval command. Poorly charted harbours, seasonal labour and interrupted inland roads limit the usable export surplus.
 
 Pilot families pass down sea omens and protective marks. Inland healers keep different records, and neither tradition offers a reliable substitute for ordinary seamanship or medicine.
+
+### Government and leadership
+
+Port communes and hereditary farming districts
+
+There is no common sovereign, treasury or supreme military command. Each named figure governs or represents only the institution in the office title. Joint commitments require separate mandates; combined statistics confer no command authority.
+
+Current principal figures: Vessaline Harbour Speaker — Alessia Vernac (60); Coastal Patrol Coordinator — Yselle Valentin (61); Saultac Market Delegate — Aurelie Barvaux (47).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
 
 ### Living standards and public sentiment
 
@@ -3696,6 +3976,16 @@ Strong pass defence and mining; food and coastal export access depend on neighbo
 
 Mining communities preserve protective marks, warning dreams and accounts of unusual perception underground. Council archives collect accidents; practical instruction remains within small trusted circles.
 
+### Government and leadership
+
+Mining and fortress federation
+
+The executive is selected by the constituent councils or assemblies, which approve common supply and major commitments. Delegated administration allows routine decisions; it does not override local jurisdictions or create universal suffrage.
+
+Current principal figures: Compact Convenor — Clarisse Trevaux (42); Defence Convenor — Celine Montreval (54); Deputy Compact Convenor — Solenne Vaudrin (50).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 59/100 (around reference capacity); confidence 57/100; civil protection 51/100; unrest 36/100 (higher is worse).
@@ -3824,6 +4114,16 @@ Agriculture, artillery production and armoured-vehicle workshops.
 Largest eastern tank arm, but fuel imports and the armed truce impose costs; offensive forces cannot strip all garrisons.
 
 Estate collections and military medical records preserve different accounts of unusual gifts. Ducal patronage can secure access, but also encourages custodians to conceal what they hold.
+
+### Government and leadership
+
+Centralised hereditary duchy
+
+The sovereign directs diplomacy, appoints senior officials and issues executive orders. New revenues, provincial obligations and lawful succession remain subject to the recorded charter or compact; personal will does not create available resources.
+
+Current principal figures: Duke — Adrien Nerval (73); Grand Marshal — Tristan Corvelli (44); Chancellor — Renier Montreval (37); Recognised heir — Adrien Nerval the Younger (33).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
 
 ### Living standards and public sentiment
 
@@ -3954,6 +4254,16 @@ Chartered houses, municipal funding and freight bottlenecks constrain command; m
 
 Private circles and inherited manuscripts sustain the older arts outside the Collegium’s main priorities. Proven gifts are rare; most scholars judge claims cautiously rather than treating every charm as effective.
 
+### Government and leadership
+
+Chartered hereditary march
+
+The sovereign directs diplomacy, appoints senior officials and issues executive orders. New revenues, provincial obligations and lawful succession remain subject to the recorded charter or compact; personal will does not create available resources.
+
+Current principal figures: Margrave — Odrienne Orcemont (51–52); Marshal — Calvren Vaucerin (63–64); Chief of General Staff — Cevrel Darscelet (49–50); Recognised heir — Maurelle Orcemont (26–27).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 57/100 (around reference capacity); confidence 50/100; civil protection 40/100; unrest 38/100 (higher is worse).
@@ -4082,6 +4392,16 @@ Shipping, banking, shipyards and maritime manufactures.
 Strong finance and convoy support; imported food and fuel expose it to interdiction and merchant-family disputes.
 
 Merchant households collect texts through maritime contacts. Private teaching and discreet patronage flourish more readily than a publicly accountable academy.
+
+### Government and leadership
+
+Restricted-franchise maritime republic
+
+The executive is selected by the constituent councils or assemblies, which approve common supply and major commitments. Delegated administration allows routine decisions; it does not override local jurisdictions or create universal suffrage.
+
+Current principal figures: Republic President — Lucelle Cavrenne (44); Admiral-General — Deliane Varenne (58); Deputy President — Romain Sorelli (51).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
 
 ### Living standards and public sentiment
 
@@ -4212,6 +4532,16 @@ Experienced coastal crews and minelayers; small population, grain imports and fu
 
 Maritime traditions and itinerant teachers preserve fragmentary practice; crews cannot rely on a gifted escort.
 
+### Government and leadership
+
+Hereditary naval protectorate
+
+The sovereign directs diplomacy, appoints senior officials and issues executive orders. New revenues, provincial obligations and lawful succession remain subject to the recorded charter or compact; personal will does not create available resources.
+
+Current principal figures: Hereditary Protector — Florent Orselle (46); First Admiral — Vivienne Darcourt (61); Naval Council Chancellor — Emilien Vaudrin (51); Recognised heir — Heloise Orselle of Dalmor (23).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 61/100 (above reference capacity); confidence 50/100; civil protection 51/100; unrest 43/100 (higher is worse).
@@ -4340,6 +4670,16 @@ Pilotage, coaster construction, wool and preserved fruit.
 Imported engines, medicine and bunker fuel; island votes limit emergency taxation.
 
 Navigation families preserve weather observations alongside inherited rites; gifted practitioners cannot promise safe passage.
+
+### Government and leadership
+
+Federation of five island assemblies
+
+The executive is selected by the constituent councils or assemblies, which approve common supply and major commitments. Delegated administration allows routine decisions; it does not override local jurisdictions or create universal suffrage.
+
+Current principal figures: League Speaker — Benoit Vasselin (51); Convoy Captain-General — Emilien Varenne (67); Deputy League Speaker — Valerie Carvesset (33).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
 
 ### Living standards and public sentiment
 
@@ -4470,6 +4810,16 @@ External firms dominate commercial credit and shipping; contested leases and imp
 
 Village healers and colonial physicians work within different institutions; registries do not capture all local practice.
 
+### Government and leadership
+
+Rovessaran colonial charter administration
+
+The mainland government appoints the executive and controls external policy. Local councils and treaties retain the limited powers described below; neither governor nor garrison may speak for the mainland military as a whole.
+
+Current principal figures: Colonial Commissioner — Benoit Kelvaret (43); Colonial Garrison Commandant — Solenne Sorelli (46); Chief Colonial Secretary — Matteo Darcourt (42).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 49/100 (around reference capacity); confidence 53/100; civil protection 28/100; unrest 53/100 (higher is worse).
@@ -4598,6 +4948,16 @@ Ocean navigation, grain terraces, textiles and marine repairs.
 No integrated heavy steel industry; outer-island levies require compact consent.
 
 Court archivists collect island traditions; household custodians retain many practices outside royal institutions.
+
+### Government and leadership
+
+Compact hereditary island crown
+
+The sovereign directs diplomacy, appoints senior officials and issues executive orders. New revenues, provincial obligations and lawful succession remain subject to the recorded charter or compact; personal will does not create available resources.
+
+Current principal figures: Sovereign — Emilien Brissot (61); Admiral of the Crown — Lorent Auvret (45); First Minister — Valerie Auvret (49); Recognised heir — Elodie Brissot (30).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
 
 ### Living standards and public sentiment
 
@@ -4728,6 +5088,16 @@ Storm-season isolation, limited machine shops and disputed crown leases.
 
 Households preserve weather and healing traditions; the colonial registry records only some practitioners.
 
+### Government and leadership
+
+Ostrevain colonial governorship
+
+The mainland government appoints the executive and controls external policy. Local councils and treaties retain the limited powers described below; neither governor nor garrison may speak for the mainland military as a whole.
+
+Current principal figures: Governor — Vittore Varenne (60); Garrison Commandant — Lucelle Dalmaret (67); Chief Secretary — Nerine Orselle (50).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 43/100 (around reference capacity); confidence 52/100; civil protection 37/100; unrest 42/100 (higher is worse).
@@ -4856,6 +5226,16 @@ Cold-water fisheries, wool, rescue pilotage and wooden boats.
 Short growing season, scarce imported fuel and little heavy repair capacity.
 
 Custodians preserve communal histories and healing practices; ritual office does not itself establish psychic ability.
+
+### Government and leadership
+
+Hearth confederacy
+
+The executive is selected by the constituent councils or assemblies, which approve common supply and major commitments. Delegated administration allows routine decisions; it does not override local jurisdictions or create universal suffrage.
+
+Current principal figures: Moot Speaker — Valerie Orselle (72); Mutual Defence Coordinator — Matteo Vellori (47); Deputy Moot Speaker — Coralie Duvaret (51).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
 
 ### Living standards and public sentiment
 
@@ -4986,6 +5366,16 @@ Imported plate and refined fuel; merchant finance and outer-island representatio
 
 Municipal archives and private societies exchange older texts; unusual talent develops through local patronage.
 
+### Government and leadership
+
+Restricted representative island republic
+
+The executive is selected by the constituent councils or assemblies, which approve common supply and major commitments. Delegated administration allows routine decisions; it does not override local jurisdictions or create universal suffrage.
+
+Current principal figures: Assembly President — Deliane Valentin (71); Fleet Commandant — Adrien Valentin (44); Deputy President — Armand Vaudrin (46).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 55/100 (around reference capacity); confidence 62/100; civil protection 51/100; unrest 32/100 (higher is worse).
@@ -5114,6 +5504,16 @@ Irrigated crops, fibres, plant oils, reef navigation and small-craft repair.
 Limited heavy industry and medical imports; dispersed councils cannot mobilise as a centralised mass army.
 
 Kin custodians and travelling teachers preserve distinct traditions; there is no unified magical college.
+
+### Government and leadership
+
+Covenant confederacy
+
+The executive is selected by the constituent councils or assemblies, which approve common supply and major commitments. Delegated administration allows routine decisions; it does not override local jurisdictions or create universal suffrage.
+
+Current principal figures: Covenant Speaker — Matteo Orselle (49); Mutual Defence Captain — Heloise Astrevin (67); Deputy Speaker — Armand Resselin (42).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
 
 ### Living standards and public sentiment
 
@@ -5244,6 +5644,16 @@ Imported machinery and fuel; royal borrowing requires assembly consent.
 
 Court collections and district schools preserve competing accounts of the older arts without a universal state monopoly.
 
+### Government and leadership
+
+Assembly-constrained hereditary kingdom
+
+The sovereign directs diplomacy, appoints senior officials and issues executive orders. New revenues, provincial obligations and lawful succession remain subject to the recorded charter or compact; personal will does not create available resources.
+
+Current principal figures: Sovereign — Emilien Vasselin (41); Admiral of the Kingdom — Sylvain Vellori (66); First Minister — Fabien Varnier (54); Recognised heir — Romain Vasselin (22).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 51/100 (around reference capacity); confidence 59/100; civil protection 58/100; unrest 35/100 (higher is worse).
@@ -5373,6 +5783,16 @@ Seasonal northern access, disputed concessions and dependence on imported grain 
 
 Local custodians preserve island rites alongside mainland institutions; governors have incomplete records of unusual gifts.
 
+### Government and leadership
+
+Rovengard treaty governorship
+
+The mainland government appoints the executive and controls external policy. Local councils and treaties retain the limited powers described below; neither governor nor garrison may speak for the mainland military as a whole.
+
+Current principal figures: Governor — Yselle Nerval (47); Local Forces Commandant — Gaspard Resselin (67); Chief Secretary — Solenne Serravin (37).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
+
 ### Living standards and public sentiment
 
 05/11/0068 AC43 — modelled current estimates — source-derived material provision 46/100 (around reference capacity); confidence 53/100; civil protection 37/100; unrest 41/100 (higher is worse).
@@ -5501,6 +5921,16 @@ Northern pilotage, fisheries, hides and refuge services.
 Short shipping season, imported grain and almost no industrial depth.
 
 Moot custodians preserve histories and ritual knowledge by apprenticeship; practical weather expertise is not automatically psychic.
+
+### Government and leadership
+
+Seasonal moot confederacy
+
+The executive is selected by the constituent councils or assemblies, which approve common supply and major commitments. Delegated administration allows routine decisions; it does not override local jurisdictions or create universal suffrage.
+
+Current principal figures: Moot Speaker — Celiane Sorellet (61); Refuge and Defence Coordinator — Fleur Cavrenne (52); Deputy Speaker — Benoit Favrelli (54).
+
+[Biographies, powers and succession](GOVERNMENT-REGISTER.md).
 
 ### Living standards and public sentiment
 

@@ -14195,3 +14195,28 @@ That gives us a consistent comparative reference, but **it isn’t yet an econom
 ## 612 - User - Derive social conditions from existing national statistics
 
 No if they are made up numbers it is meaningless. Look at all the other stats for all the nations and use those numbers to infer rates for living standards, public confidence, civil protection and unrest. The numbers are there to inform the narrative and things need to make sense
+
+
+## 613 - Assistant - Source-derived social model published
+
+I’ve replaced the assigned scores and published the correction for **all 43 societies**.
+
+They now use one documented model:
+
+- **Living standards:** output per resident, civilian spending and relevant technological capacity.
+- **Public confidence:** material provision, political voice, fiscal resilience, security and economic trend.
+- **Civil protection:** documented safeguards and practical health provision.
+- **Unrest pressure:** material constraints, political exclusion, fiscal stress and recorded domestic tensions.
+
+Every national profile has an **“Evidence & calculation”** dropdown showing its inputs. Changes to the underlying records now feed through to the estimates. Imports aren’t automatically treated as shortages, and military strength isn’t treated as public approval.
+
+The invented household shares are removed. These are **0–100 comparative indices**, not polling percentages or measured household consumption. The common weights are explicit modelling assumptions; uncertain political evidence produces visible ranges.
+
+[Full calculations and national results](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/SOCIAL-CONDITIONS.md) · [Updated app](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=4064f588c6b49af6ac19#world)
+
+All profiles, desktop/phone presentation and the deployed files were checked.
+
+
+## 614 - User - Governments, leaders and annual succession
+
+Actually now I think of it all the nations probably need something outlining the government types and structure of each nation and who the ruler or representative of the government is as well as any other important figures like head of military for instance. All these individuals will also need to have ages and some brief info describing them visually and personality wise. Then when we do the roll overs each year we need to identify if any of these individuals would die for any reason and if so who would replace them and then add the same sort of info to the successor. We need the visual and personality info in case Galahad interacts with them and to inform how the country behaves under new rulers or different government types. The average King would obviously have more authority than the average President for instance.

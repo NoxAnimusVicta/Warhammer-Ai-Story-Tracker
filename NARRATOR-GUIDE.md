@@ -136,3 +136,9 @@ Record an NPC’s actual allegiance and motive separately from outward appearanc
 ## Reference presentation
 
 Retain consistent accessible dropdowns for substantial references, visible core state and map, and the established desktop/phone spacing and CSS arrows. Do not flatten sections or add navigation widgets during continuity updates. Historic figures need dates. Current modelled estimates must be clearly identified and reproducible from the unchanged baseline and calendar; they are not newly audited returns.
+
+## Governments and annual leadership review
+
+Read [GOVERNMENT-REGISTER.md](GOVERNMENT-REGISTER.md) and government-current.json before a government encounter or annual rollover. Every one of the 43 returns has institutions, bounded civil and military offices and individual biographies. Existing Veyrasse names, age ranges, succession and agreed characterisation control. The new register adds previously unspecified foreign figures without inventing meetings or changing national accounts.
+
+Before crossing each local 01/01, review every tracked person for elapsed age, established health, actual danger, mandate expiry and succession. Record outcomes and source-linked changes in government-events.json; the builder rejects missing annual coverage. Never roll deaths during a build. Set justified probabilities before private rolls, account only for unreviewed elapsed days, preserve prior rolls, and do not force a death quota. Named acting/permanent successors need the same full biography immediately. Preserve departed people and record institutional/policy consequences separately. Read the full method before preparing a rollover. No new-year review is due at the current 05/11 overview and no death was enacted by adding this register.
