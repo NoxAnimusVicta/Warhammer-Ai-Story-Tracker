@@ -1,0 +1,4 @@
+{
+  "reviews": [],
+  "instructions": "Append uniquely identified dated reviews: id, date (DD/MM/YYYY AC43), society (existing profile ID), reason, changes (field: {old, new}). Empty changes means reviewed unchanged. The builder applies reviews once from the preserved baseline and ignores future-dated entries. No invented historical trend."
+}

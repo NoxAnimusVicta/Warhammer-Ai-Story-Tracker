@@ -14133,3 +14133,15 @@ The app remains unchanged, with no added research-rule panels or hypothetical pr
 ## 606 - User - Research app tab
 
 Actually now I think of it maybe there should be a tab in the app for this
+
+## 607 - Assistant - Research tab published
+
+Added and published the [Research tab](https://noxanimusvicta.github.io/Warhammer-Ai-Story-Tracker/?edition=3dc333fc3e692a6b9f50#research).
+
+It contains the existing research record, collapsible progression guidance, and Hunter technology transfer/timing estimates. The research record has moved out of Dossier to avoid duplication.
+
+Checked desktop and phone layouts; deployment and live files verified.
+
+## 608 - User - App organisation audit and national living standards
+
+Can you please audit the web app there appears to be a lot of info in the wrong spots or duplicate info. Please ensure you do not remove or delete info unless it is recorded in other documentation already and doesn't need to be on the app anymore. But just take your time and just ensure everything is placed in the correct spots and there isn't double up. I was also thinking all the nations need some kind of standard of living number, look at how Victoria 3 tracks standard of living. Basically so we can see how well the citizens are treated and the levels of civil unrest or overall faith in the government. At the moment it is hard to tell what the lives of the citizens in each nation are actually like

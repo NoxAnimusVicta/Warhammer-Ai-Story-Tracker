@@ -84,6 +84,16 @@ Provincial consent slows concentration; major arsenals and railway junctions rem
 
 Court examination offices and provincial registries preserve records; access varies by patron.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 15.9/99 (Middling); confidence 60/100; civil protection 47/100; unrest 32/100 (higher is worse).
+
+Lowland farm households have dependable local produce in ordinary seasons, but rents and levies restrict purchases. Railway and engineering workers have better cash access; court and landed households live far above the mean.
+
+Provincial estates mediate protection and taxation. Bargaining preserves local liberties unevenly and does not give poorer households equal access to influence.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 18/08/0068 AC43; recorded 11/10/0068 AC43. Mondessore works completed a locomotive overhaul programme and adopted common inspection gauges across participating provincial depots. Through-freight availability improved, but provincial procurement remains divided. Replacement armoured vehicles and aircraft entered service; obsolete and worn machines were withdrawn. No consolidation of provincial armies occurred.
@@ -200,6 +210,16 @@ Grain distribution, military stores and arsenal production.
 Mass manpower outstrips motor transport; imported precision machinery constrains arsenal expansion.
 
 Estate households preserve healing and harvest observances; arsenal physicians record unusual cases, usually through the patron who brings the subject to them.
+
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 13.1/99 (Impoverished); confidence 55/100; civil protection 35/100; unrest 40/100 (higher is worse).
+
+Food-producing districts can provision themselves while many agricultural households have little disposable income. Industrial wards offer wages under close supervision; landholding families capture much of the surplus.
+
+Landed recruitment and administrative discipline give order at the expense of ordinary residents' freedom to refuse obligations.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -318,6 +338,16 @@ Trade interruption threatens fuel and food imports; its skilled workforce is dif
 
 Institutes and hospitals collect documented cases; evidence is better organised than practitioner supply.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 21.6/99 (Secure); confidence 63/100; civil protection 55/100; unrest 34/100 (higher is worse).
+
+Commercial towns offer varied food, manufactured goods and skilled employment. Rent and import prices press on dock labourers while finance and precision trades support conspicuous wealth.
+
+Commercial representation and functioning contracts coexist with concentrated credit and unequal political access.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 20/09/0068 AC43; recorded 11/10/0068 AC43. Pellavore yards delivered replacement patrol tonnage and Bellacenne insurers accepted shared convoy reporting from participating Seravelle ports. Precision workshops adopted interchangeable inspection standards on selected export contracts. Talascan levy litigation forced colonial administrators to negotiate; commercial influence did not become sovereignty over independent ports.
@@ -434,6 +464,16 @@ Water engineering, agricultural processing and industrial chemistry.
 Water allocation and estate vetoes complicate mobilisation; river freight is sensitive to damaged locks.
 
 Water boards retain old records of divination and flood omens beside their engineering archives. Practical credibility depends on repeated results, not an inherited title.
+
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 15.7/99 (Middling); confidence 62/100; civil protection 58/100; unrest 30/100 (higher is worse).
+
+Cultivated districts and basin trades provide moderate security where water arrives reliably. Households below disputed gates face sharper uncertainty than prosperous engineering towns.
+
+Water authorities and local assemblies offer remedies, but estate vetoes can delay repairs and shift burdens downstream.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -552,6 +592,16 @@ Arms and credit depend on competing patrons; prolonged mobilisation drains agric
 
 Border houses keep private warding manuscripts and employ occasional itinerant readers. Rival patrons make access political and discourage sharing successful practice.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 13.1/99 (Impoverished); confidence 48/100; civil protection 38/100; unrest 44/100 (higher is worse).
+
+Agricultural families have modest consumption and lose labour to mobilisation. Skilled town households fare better, but credit dependency limits room for public improvements.
+
+Military prestige and landed privilege weigh heavily on ordinary households. Shorter reserve rotations ease a real burden without removing it.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 12/09/0068 AC43; recorded 11/10/0068 AC43. Charvessant renewed its neutrality and transit arrangements while Vezarolle workshops concentrated on gun-carriage and wagon repairs. Shorter reserve rotations returned more workers to the harvest. Existing garrisons remain; neither larger neighbour obtained basing rights through this review.
@@ -668,6 +718,16 @@ Metallurgy, machine tools and factory production.
 Exposed frontier factories and food imports limit a long war despite excellent machine-tool output.
 
 Factory reading societies debate arcane reports alongside medicine and natural philosophy. Private experiments remain scattered, with no dependable industrial application.
+
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 19.6/99 (Middling); confidence 60/100; civil protection 60/100; unrest 38/100 (higher is worse).
+
+Industry supports substantial skilled wages and urban services, while imported food and fuel make household bills vulnerable. The damaged relay district remains less secure than recovered urban centres.
+
+Municipal representation gives residents channels to contest policy; industrial labour disputes and uneven recovery still matter.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -786,6 +846,16 @@ Combined rival returns; no common treasury, staff or army. Rail gauges, tolls an
 
 The fallen crown’s collections are divided among rival courts and displaced teachers. Competing claims to authentic manuscripts matter more than any central school.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 9.8/99 (Struggling); confidence 29/100; civil protection 24/100; unrest 68/100 (higher is worse).
+
+Interrupted freight, coal fighting and rival tolls make food, heating and regular work unreliable. Secure enclaves and well-connected households retain comforts inaccessible to many residents.
+
+People depend on competing courts and city authorities. Grain agreements help particular routes but do not provide consistent protection across the region.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 18/09/0068 AC43; recorded 11/10/0068 AC43. Fighting in Months 3–4 over coal feeders damaged rolling stock and workshops. A 19/05/0068 local grain-transit arrangement reopened negotiated services through participating authorities, while rival commands retained separate tolls and arsenals. Losses and cannibalisation exceeded repairs; less of the combined geographic army can now be sustained away from its bases. No claimant reunified the country.
@@ -902,6 +972,16 @@ Valley agriculture, timber and stronghold supply.
 Winter supply and dispersed valley garrisons consume most available transport.
 
 Valley households preserve protective rites and stories of gifted healers. Winter isolation keeps instruction local, and court inquiries rarely reach every settlement.
+
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 14.1/99 (Impoverished); confidence 60/100; civil protection 44/100; unrest 30/100 (higher is worse).
+
+Winter stores and valley agriculture support a restrained material life; distant districts have fewer goods and services. Administrative and trading households enjoy much better supply.
+
+Crown protection is valued where it reaches, but distance and unequal access to officials limit practical remedies.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -1020,6 +1100,16 @@ Specialist foundries are strong; grain imports and seasonal routes make an exten
 
 Guarded workshops sometimes collaborate with rare practitioners; no standardised arcane production.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 16.9/99 (Middling); confidence 52/100; civil protection 40/100; unrest 49/100 (higher is worse).
+
+Skilled mining and industrial work can pay well; ordinary workers remain exposed to hard conditions and imported grain prices. Proprietors benefit disproportionately from mineral sales.
+
+Mining councils and industrial owners offer uneven representation. Disputed concessions and dependence on employer-linked commerce sustain grievances.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 22/08/0068 AC43; recorded 11/10/0068 AC43. Norsavia bearing and toolmakers fulfilled deferred maintenance orders, including machinery for Haldrevik. Buyers increasingly specify common gauges and replacement dimensions. Factory throughput improved without a new class of weapon; imported food and disputed foreign concessions still constrain expansion.
@@ -1136,6 +1226,16 @@ Field medicine, communications and scholarly traditions.
 Small arsenals and scattered teaching houses constrain scale; trained wardens excel locally rather than in mass campaigns.
 
 Small warden teaching houses preserve field traditions; skilled practitioners remain exceptionally rare.
+
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 15.9/99 (Middling); confidence 69/100; civil protection 64/100; unrest 25/100 (higher is worse).
+
+Material consumption is moderate, with shelter and medical institutions improving security beyond what cash output alone suggests. Remote settlements still have less access than defended towns.
+
+Wardens, orders and estates exercise substantial authority, but established shelter and care obligations give residents meaningful expectations.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -1254,6 +1354,16 @@ Seasonal navigation and dependence on imported fuels limit sustained operations 
 
 Pilots and mill communities preserve water omens and inherited household protections. Navigation still relies on soundings, charts and experienced crews.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 16.3/99 (Middling); confidence 64/100; civil protection 59/100; unrest 29/100 (higher is worse).
+
+Grain-producing households and river towns benefit from food access and trade. Labourers have fewer comforts than commercial families, but storage improvements reduce some seasonal vulnerability.
+
+Commercial and agricultural authorities bargain over water and transport; residents' influence varies with property and locality.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 16/08/0068 AC43; recorded 11/10/0068 AC43. Tresselund completed repairs to grain-drying and water-control machinery before the next storage cycle. Seldavre exporters agreed shared inspection certificates with participating northern buyers. Local militia replacement training continued, with no material net expansion of the small military inventory.
@@ -1370,6 +1480,16 @@ Maritime freight, ship maintenance and naval supply.
 Sea lanes carry its power; inland movement is slow and there is no through railway to eastern Vesalius.
 
 Port archives collect travellers’ accounts and sea traditions; private patrons sponsor a few readers, whose conflicting methods do not form a naval service.
+
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 19.6/99 (Middling); confidence 59/100; civil protection 49/100; unrest 37/100 (higher is worse).
+
+Ports offer skilled work, imported goods and commercial opportunity; inland households face slower access and fewer services. Shipping wealth is far from evenly distributed.
+
+Port families and industrial firms dominate national choices, while agricultural districts contest their share of costs.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -1488,6 +1608,16 @@ The Averholt frontier and northern garrisons tie down formations; large armies c
 
 Military physicians record unusual perception when it comes to their attention. Household and estate traditions survive outside those files, often deliberately.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 14.5/99 (Impoverished); confidence 57/100; civil protection 37/100; unrest 40/100 (higher is worse).
+
+Farm and industrial households bear substantial military demands. Procurement supports some jobs, but frontier uncertainty competes with ordinary household priorities.
+
+Crown and supplier interests carry more weight than poorer residents. De-escalation reduces immediate alarm without ending the burden.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 09/09/0068 AC43; recorded 11/10/0068 AC43. A Month 8 frontier exercise and supply rotation alarmed Averholt. Month 9 liaison observers and advance exercise notices reduced the immediate risk of miscalculation without resolving territorial claims. Caldovre completed replacement armour and gun returns; frontier commitments still absorb the same broad share of the field force.
@@ -1604,6 +1734,16 @@ Basin agriculture, internal trade and provincial engineering.
 Provincial bargains and the Vardol frontier absorb resources; interior transport has limited spare capacity.
 
 Provincial collections preserve distinct healing and warding customs. Teachers exchange access through local patrons rather than a realm-wide curriculum.
+
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 15.2/99 (Middling); confidence 61/100; civil protection 49/100; unrest 32/100 (higher is worse).
+
+Provincial stores buffer cold districts, though mountain households have limited choice and slow supply. Town trades and larger owners have more secure consumption.
+
+Provincial bargaining restrains some central demands but makes protection uneven between districts.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -1722,6 +1862,16 @@ The republic controls only its own districts. Varnelle, Kelbrun and Gavrel have 
 
 Republican archives retain fragments of the former basin federation’s case records. Its clerks cannot compel the successor authorities to supply missing material.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 15.6/99 (Middling); confidence 61/100; civil protection 59/100; unrest 33/100 (higher is worse).
+
+Mountain households combine modest goods access with technical and communal institutions. Trade and water arrangements matter strongly to work and provisioning.
+
+Republican institutions retain local legitimacy; inherited debts and disputes constrain what they can deliver.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 21/07/0068 AC43; recorded 11/10/0068 AC43. A seasonal water-release and freight-document protocol was signed with participating Varnelle and Kelbrun authorities on 07/07/0068. Vallorise filtration workshops began exchanging repair specifications under it. Reconstruction debts and sovereignty remain disputed; Gavrel houses participate individually rather than through a restored federation.
@@ -1838,6 +1988,16 @@ Delta freight, customs, filtration and processing trades.
 Delta channels, customs dependence and disputed upstream water access constrain resilience.
 
 River pilots and household healers trade practical lore around the delta. Port boards occasionally investigate a useful claim without endorsing an entire tradition.
+
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 16.9/99 (Middling); confidence 60/100; civil protection 52/100; unrest 34/100 (higher is worse).
+
+Delta cultivation and engineering provide moderate material security, with richer commercial ports beside less prosperous agricultural districts. Water and freight failures quickly reach household budgets.
+
+Commercial and water authorities supply useful services but also command powerful bargaining positions over inland customers and workers.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -1956,6 +2116,16 @@ Plantation levies are numerous but unevenly equipped; imported engines and fuel 
 
 Estate remedies coexist with workers’ inherited protective practices. Private collections are accessible through personal trust, while plantation authorities are wary of independent followings.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 11.0/99 (Impoverished); confidence 39/100; civil protection 25/100; unrest 57/100 (higher is worse).
+
+Plantation output does not translate into comfortable lives for most workers. Grain and livestock districts offer different livelihoods; technical and estate households command far greater purchasing power.
+
+Estate labour obligations and unequal commercial access are central grievances. Delivery arbitration has not settled labour conditions.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 04/08/0068 AC43; recorded 11/10/0068 AC43. Kelbrienne adopted the Month 7 basin freight forms and Oreviano workshops repaired imported pumps using shared fitting specifications. Plantation representatives accepted limited delivery arbitration. Labour conditions and estate power remain contested; machinery imports still limit how widely the improvements can spread.
@@ -2072,6 +2242,16 @@ March provisioning, rural estates and frontier workshops.
 Household loyalties divide command; repair workshops cannot replace large losses of imported equipment.
 
 March houses preserve family books of omens and protections. Their secrecy divides instruction as effectively as the frontier divides military command.
+
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 11.8/99 (Impoverished); confidence 46/100; civil protection 35/100; unrest 44/100 (higher is worse).
+
+Most households rely on local agricultural and forest markets with limited purchased comforts. Patronage and fragmented tolls affect access to tools and work.
+
+House courts provide differing protections; there is no equally accessible common remedy or unified authority.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -2190,6 +2370,16 @@ Canton tolls and planter credit divide the export trade. Escort flotillas answer
 
 Canton healers inherit plant lore and protective observances. Port subscribers occasionally pay to compare case records, but inland custodians resist giving away family knowledge.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 12.1/99 (Impoverished); confidence 44/100; civil protection 34/100; unrest 47/100 (higher is worse).
+
+Tenant households face debt and restricted access to cleared land while harbour and plantation owners profit from exports. Predictable seasonal tolls offer some relief to trade.
+
+Separate land courts and toll assemblies favour different patrons. Tenants' leverage remains weaker than creditors'.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 02/09/0068 AC43; recorded 11/10/0068 AC43. Jougrenne brokers and Nantac land courts agreed a harvest-season toll schedule on participating roads. Lorrevento merchants can quote those journeys with fewer ad hoc charges. Rival toll holders and plantation jurisdictions remain; no common army or permanent customs union was created.
@@ -2306,6 +2496,16 @@ Wool, preserved provisions, upland cartage and small estate workshops.
 Rights of passage change between courts. Winter fodder and incompatible toll privileges limit concentration more than nominal levy strength.
 
 Court chapbooks mix household wards with dynastic histories. Independent practitioners move between patrons and market fairs, carrying techniques that rival courts claim as their own.
+
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 13.0/99 (Impoverished); confidence 50/100; civil protection 41/100; unrest 39/100 (higher is worse).
+
+Ordinary households have modest farm and wool incomes with costly winter transport. Charter towns and well-financed shipping houses are appreciably better supplied.
+
+Town privileges protect some merchants; residents outside those charters depend more on estate courts and changing rights of passage.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -2424,6 +2624,16 @@ Water commands hold separate troops. A damaged gate or withheld release can disa
 
 Reservoir communities preserve water-divining traditions. Boards test useful claims against measured flows; most inherited observances remain unverified.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 13.2/99 (Impoverished); confidence 53/100; civil protection 45/100; unrest 40/100 (higher is worse).
+
+Grain, milling and fertiliser work support households when releases arrive on time. A withheld gate can threaten livelihoods far beyond the immediate dispute.
+
+Separate water commands and councils offer negotiated protection, unevenly enforced across estate boundaries.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 11/08/0068 AC43; recorded 11/10/0068 AC43. Anselleuil reservoir keepers and Jarnan councils renewed the water-sharing compact with Votane estates, using Brannervaux arbiters for disputed measurements. Scheduled gate maintenance was completed. The renewal reduced local delivery disputes without settling all estate claims or creating a federal treasury.
@@ -2540,6 +2750,16 @@ Export warehousing, coastal shipping, food processing and commercial credit.
 Port conventions facilitate cargo, not military command. Inland debt disputes and foreign shipping insurance expose the region to commercial pressure.
 
 Harbour families collect foreign protective charms and accounts of unusual perception. Commercial correspondence circulates stories faster than competent teachers.
+
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 14.7/99 (Impoverished); confidence 48/100; civil protection 40/100; unrest 47/100 (higher is worse).
+
+Harbour trade supports relatively comfortable skilled households, while indebted rural producers face foreclosure and expensive necessities. Safer convoy departures help without securing every feeder route.
+
+Commercial conventions protect cargo better than they resolve unequal rural credit or rival seizure claims.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -2658,6 +2878,16 @@ Company forces protect particular assets. Charter disputes, imported food and de
 
 Mining crews preserve warning rites and private accounts of uncanny perception. Concession managers value a useful warning but rarely fund research that might interrupt extraction.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 11.6/99 (Impoverished); confidence 34/100; civil protection 23/100; unrest 63/100 (higher is worse).
+
+Concession workers depend on imported food and employer-linked transport; interruption threatens wages and supplies together. Owners retain a much richer standard despite local losses.
+
+Armed intimidation, lease disputes and contested bonds make redress unreliable. The escrow settlement covers participating claims only.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 08/09/0068 AC43; recorded 11/10/0068 AC43. Armed renewal disputes interrupted some concessions in Month 2. A Month 6 escrow-and-inspection settlement reopened participating sites; a 03/07/0068 Hunter strike then destroyed a remote repair shed and stores. Varnesk replacements restored basic workings by Month 8, but armed vehicles and guns remained below the opening serviceable return. Nonparticipating claims are unresolved.
@@ -2774,6 +3004,16 @@ Convoy staging, cold-weather stores, fortress repair and imported-grain distribu
 Most personnel guard their own supply districts. Winter fuel and food reserves impose strict limits on campaigning beyond the wardholds.
 
 Hospices hold copied warding and healing texts obtained from Galdresk visitors. The copies outnumber people able to demonstrate any effect.
+
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 13.7/99 (Impoverished); confidence 59/100; civil protection 49/100; unrest 35/100 (higher is worse).
+
+Winter survival rests on stores, convoy access and reciprocal shelter. Ordinary households have few luxuries; invited hospices improve care in some districts.
+
+Wardens owe protection, but scarcity tests those obligations and can turn requisition into lasting exaction.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -2892,6 +3132,16 @@ Port and estate forces obey different officers. Agricultural limits and dependen
 
 Fishing households and estate infirmaries preserve separate traditions. Port scribes collect storm accounts; families conceal gifts they fear a landlord might appropriate.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 13.0/99 (Impoverished); confidence 46/100; civil protection 34/100; unrest 46/100 (higher is worse).
+
+Fishing and timber households rely on imported grain and seasonal work. Port merchants and large estates enjoy much greater security than shore crews.
+
+Customary fishing rights remain vulnerable to estate claims; seasonal settlements offer limited protection.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 19/08/0068 AC43; recorded 11/10/0068 AC43. Varkessant buyers renewed Halskert grain contracts and Cersund estates accepted a seasonal fishing-access settlement. Harbour repairs returned a small patrol craft to service. House and harbour rights remain separate, and access after winter ice still depends on local pilots.
@@ -3008,6 +3258,16 @@ Textile finishing, estate produce, bonded warehousing and wagon repair.
 Foreign clients subsidise rival toll houses. Local garrisons cannot be added together as an expeditionary force without renegotiating their obligations.
 
 Travelling readers find patrons among rival march houses. Books cross borders as gifts or contraband, leaving local collections partial and politically guarded.
+
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 14.2/99 (Impoverished); confidence 49/100; civil protection 38/100; unrest 43/100 (higher is worse).
+
+Cultivated valleys and textile or wagon work sustain modest consumption. Repeated tolls reduce ordinary purchasing power while patron-backed towns fare better.
+
+Protections change between lordships, town liberties and clients. Shared manifests ease inspections but leave separate power structures intact.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -3126,6 +3386,16 @@ Military governors and elected market boards compete for transport and stores. R
 
 Granary towns maintain household protection rites alongside practical medicine. Market festivals bring teachers together briefly, without creating a permanent regional academy.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 15.1/99 (Middling); confidence 55/100; civil protection 48/100; unrest 38/100 (higher is worse).
+
+Granaries and market farming support basic security, though requisitions can remove household reserves. Commercial and landed families remain more comfortable.
+
+Elected boards, governors and estate courts compete. Written requisition limits improve recourse only where accepted and enforced.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 23/09/0068 AC43; recorded 11/10/0068 AC43. Margeuil grain merchants secured written limits and receipts for requisitions by participating Darnenne commands. Galigny estate courts retain appeal rights. Repair workshops concentrated on wagons and artillery carriages; the settlement eased harvest transport but left the regional forces politically divided.
@@ -3242,6 +3512,16 @@ Pilotage, coastal provisions, fishing and inland agricultural markets.
 Small communes lack a shared naval command. Poorly charted harbours, seasonal labour and interrupted inland roads limit the usable export surplus.
 
 Pilot families pass down sea omens and protective marks. Inland healers keep different records, and neither tradition offers a reliable substitute for ordinary seamanship or medicine.
+
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 15.2/99 (Middling); confidence 57/100; civil protection 51/100; unrest 34/100 (higher is worse).
+
+Coastal trade and agriculture provide moderate livelihoods. Seasonal crews and inland villages have less predictable access than chartered port households.
+
+Communes and houses keep separate rights; pilot and merchant influence exceeds that of casual workers.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -3360,6 +3640,16 @@ Strong pass defence and mining; food and coastal export access depend on neighbo
 
 Mining communities preserve protective marks, warning dreams and accounts of unusual perception underground. Council archives collect accidents; practical instruction remains within small trusted circles.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 16.8/99 (Middling); confidence 64/100; civil protection 57/100; unrest 33/100 (higher is worse).
+
+Skilled engineering and mining support better town consumption than many agricultural neighbours. Imported food and costly coastal transfers erode the benefit for ordinary households.
+
+Autonomous councils offer local voice and defended approaches, with unequal influence among districts and occupations.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 16/09/0068 AC43; recorded 11/10/0068 AC43. Drossane councils expanded duplicate assay and mine-safety records and completed a field-gun repair cycle. Existing road and port transfers still carry foreign trade. Negotiators continued the proposed Calvernis railway survey; construction and through-service have not begun. The guesthouse attackers’ real allegiance has not become a public finding.
@@ -3476,6 +3766,16 @@ Agriculture, artillery production and armoured-vehicle workshops.
 Largest eastern tank arm, but fuel imports and the armed truce impose costs; offensive forces cannot strip all garrisons.
 
 Estate collections and military medical records preserve different accounts of unusual gifts. Ducal patronage can secure access, but also encourages custodians to conceal what they hold.
+
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 14.5/99 (Impoverished); confidence 54/100; civil protection 32/100; unrest 43/100 (higher is worse).
+
+Productive valleys and arsenals sustain employment, but military commitments and elite consumption absorb much of the surplus. Frontier households bear particularly heavy disruption.
+
+Central ducal supervision supplies order with limited popular leverage. Rival estate and arsenal interests do not imply an already collapsing state.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -3594,6 +3894,16 @@ Chartered houses, municipal funding and freight bottlenecks constrain command; m
 
 Private circles and inherited manuscripts sustain the older arts outside the Collegium’s main priorities. Proven gifts are rare; most scholars judge claims cautiously rather than treating every charm as effective.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 15.7/99 (Middling); confidence 59/100; civil protection 48/100; unrest 38/100 (higher is worse).
+
+Auvrienne and Serravonne offer skilled work and improving water or railway services; poorer tenants and labourers still have little spare income. Well-connected houses enjoy far greater comfort.
+
+Chartered institutions permit bargaining and advancement through education or patronage. Poor households bear disproportionate dangerous service; influence shapes access to justice.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 30/09/0068 AC43; recorded 11/10/0068 AC43. Auvrienne’s authorised second pumping stage entered service on 04/04/0068; operating acceptance of the uphill pressure controls followed on 10/06/0068. Cevrane’s crews now maintain the two commissioned replacement stages beside retained older sections. Serravonne railway workshops spread revised maintenance checks. Conventional repair and replacement programmes modestly improved military availability; Galahad’s new rifle and carrier remain unbuilt.
@@ -3710,6 +4020,16 @@ Shipping, banking, shipyards and maritime manufactures.
 Strong finance and convoy support; imported food and fuel expose it to interdiction and merchant-family disputes.
 
 Merchant households collect texts through maritime contacts. Private teaching and discreet patronage flourish more readily than a publicly accountable academy.
+
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 20.1/99 (Secure); confidence 58/100; civil protection 48/100; unrest 40/100 (higher is worse).
+
+Ports offer varied goods and skilled maintenance work, but household costs depend on imported food and fuel. Banking and shipping families live much better than casual workers.
+
+Restricted franchise privileges commercial families. Reliable contracts and escorts do not amount to equal political influence.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -3828,6 +4148,16 @@ Experienced coastal crews and minelayers; small population, grain imports and fu
 
 Maritime traditions and itinerant teachers preserve fragmentary practice; crews cannot rely on a gifted escort.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 16.8/99 (Middling); confidence 65/100; civil protection 47/100; unrest 29/100 (higher is worse).
+
+Fishing, pilotage and repair work sustain island households; grain and fuel prices depend on shipping. Naval and merchant households have more secure stores than outer communities.
+
+Protection of shipping gives the Admiralty standing, while hereditary and naval offices limit ordinary influence.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 15/09/0068 AC43; recorded 11/10/0068 AC43. Dalmor, Bellavara and Montelisse coordinated pilot notices, fuel stocks and repair slots through the established ports. Replacement patrol tonnage entered service and worn machinery was retired. Admiralty escorts protect selected sailings; alleged state support for Seravelle raiders remains unproved.
@@ -3944,6 +4274,16 @@ Pilotage, coaster construction, wool and preserved fruit.
 Imported engines, medicine and bunker fuel; island votes limit emergency taxation.
 
 Navigation families preserve weather observations alongside inherited rites; gifted practitioners cannot promise safe passage.
+
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 15.7/99 (Middling); confidence 70/100; civil protection 70/100; unrest 25/100 (higher is worse).
+
+Terrace farming, fisheries and shared water rights provide useful security despite dependence on imported engines and medicine. Material choice is narrower than in rich mainland ports.
+
+Island assemblies protect land and elect harbour officers. Customs exemptions and defence levies remain contested between carriers and cultivators.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -4062,6 +4402,16 @@ External firms dominate commercial credit and shipping; contested leases and imp
 
 Village healers and colonial physicians work within different institutions; registries do not capture all local practice.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 12.6/99 (Impoverished); confidence 35/100; civil protection 28/100; unrest 56/100 (higher is worse).
+
+Export wealth sits beside much poorer island households. Shipping and credit controlled by outside firms constrain the benefits of local production.
+
+Village councils retain some land authority, but colonial courts favour stronger commercial access. The levy suspension is a limited concession, not equal treatment.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 22/09/0068 AC43; recorded 11/10/0068 AC43. Month 6 refusal of compulsory road levies and common-pasture petitions reached the colonial courts. A temporary Month 9 order suspended disputed levies in the petitioning districts while a mixed inquiry examines leases. Export shipping continued. The concession is limited, not independence or an island-wide armed uprising.
@@ -4178,6 +4528,16 @@ Ocean navigation, grain terraces, textiles and marine repairs.
 No integrated heavy steel industry; outer-island levies require compact consent.
 
 Court archivists collect island traditions; household custodians retain many practices outside royal institutions.
+
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 15.7/99 (Middling); confidence 65/100; civil protection 61/100; unrest 29/100 (higher is worse).
+
+Terrace grain and fisheries support modest household security with imported plant and fuel limiting choice. Technical schooling creates a small route to skilled work.
+
+Crown decisions require bargains with houses, towns and communal-land custodians; outer communities retain protections against unilateral requisition.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -4296,6 +4656,16 @@ Storm-season isolation, limited machine shops and disputed crown leases.
 
 Households preserve weather and healing traditions; the colonial registry records only some practitioners.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 13.0/99 (Impoverished); confidence 45/100; civil protection 35/100; unrest 44/100 (higher is worse).
+
+Farming and preserved-food exports support basic livelihoods, but winter isolation limits goods and repairs. Settler and crown-linked households often enjoy better access.
+
+Unequal land and tax arrangements remain despite wider consultation over provisioning.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 14/09/0068 AC43; recorded 11/10/0068 AC43. Ordelune and Sorevain councils secured scheduled grain and spare-parts deliveries under existing Ostrevain support. Repairs addressed storm damage to store roofs and moorings. Local consultation widened around winter provisioning without changing the colony’s legal status or its small garrison inventory.
@@ -4412,6 +4782,16 @@ Cold-water fisheries, wool, rescue pilotage and wooden boats.
 Short growing season, scarce imported fuel and little heavy repair capacity.
 
 Custodians preserve communal histories and healing practices; ritual office does not itself establish psychic ability.
+
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 12.8/99 (Impoverished); confidence 73/100; civil protection 73/100; unrest 19/100 (higher is worse).
+
+Cash incomes and imported comforts are low, but reciprocal shelter, local food and rescue duties buffer hardship. Severe winters still restrict diet and medical access.
+
+Hearth assemblies preserve strong local voice and customary land protection without requiring a wealthy central state.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -4530,6 +4910,16 @@ Imported plate and refined fuel; merchant finance and outer-island representatio
 
 Municipal archives and private societies exchange older texts; unusual talent develops through local patronage.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 17.6/99 (Middling); confidence 64/100; civil protection 61/100; unrest 32/100 (higher is worse).
+
+Repair trades, cooperative farming and exports support moderate comfort. Seasonal crews and outer communities have more precarious access than settled port households.
+
+An elected assembly offers accountability but its residence and tax franchise excludes some residents.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 04/09/0068 AC43; recorded 11/10/0068 AC43. Merovia and Iveran yards expanded scheduled pump and engine overhaul, returning patrol tonnage to working service. Insurers accepted inspected repair certificates. Merchant representation remains disputed despite the successful service programme; the cities did not acquire heavy shipbuilding capacity.
@@ -4646,6 +5036,16 @@ Irrigated crops, fibres, plant oils, reef navigation and small-craft repair.
 Limited heavy industry and medical imports; dispersed councils cannot mobilise as a centralised mass army.
 
 Kin custodians and travelling teachers preserve distinct traditions; there is no unified magical college.
+
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 13.8/99 (Impoverished); confidence 72/100; civil protection 71/100; unrest 22/100 (higher is worse).
+
+Cultivation, fishing and communal land provide basic security with limited imported comforts and medical access. Harbour households can purchase more than inland producers.
+
+Kin councils and elected harbour assemblies protect common land, though local hierarchy and creditor pressure still affect choices.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 
@@ -4764,6 +5164,16 @@ Imported machinery and fuel; royal borrowing requires assembly consent.
 
 Court collections and district schools preserve competing accounts of the older arts without a universal state monopoly.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 16.2/99 (Middling); confidence 62/100; civil protection 53/100; unrest 33/100 (higher is worse).
+
+Agriculture, textiles and repairs support moderate consumption, with schooling offering skilled prospects. Machinery and fuel imports constrain opportunities outside the ports.
+
+Assembly scrutiny restrains borrowing, but landholding and court merchants retain stronger influence than ordinary workers.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 27/09/0068 AC43; recorded 11/10/0068 AC43. Istrana’s assembly approved a limited renewal of fuel and machinery contracts after scrutiny of royal borrowing. Serakai workshops repaired existing patrol equipment and textile drives. Assembly consent remains required; the programme creates no independent aircraft or armoured-vehicle industry.
@@ -4881,6 +5291,16 @@ Seasonal northern access, disputed concessions and dependence on imported grain 
 
 Local custodians preserve island rites alongside mainland institutions; governors have incomplete records of unusual gifts.
 
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 13.0/99 (Impoverished); confidence 48/100; civil protection 39/100; unrest 39/100 (higher is worse).
+
+Fishing and timber communities depend on winter grain shipments and seasonal work. Settler towns and connected traders generally have better supply than remote communities.
+
+Treaty councils provide some leverage, but unequal land rights and new concessions remain contentious.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
+
 ### Year 68 developments
 
 09/09/0068 AC43; recorded 11/10/0068 AC43. Edrask and Havren renewed timber-loading and winter grain schedules with Rovengard. Visiting technicians completed mooring and signal repairs before seasonal withdrawal. Visiting mainland warships are excluded from the colony’s locally assigned fleet total.
@@ -4997,6 +5417,16 @@ Northern pilotage, fisheries, hides and refuge services.
 Short shipping season, imported grain and almost no industrial depth.
 
 Moot custodians preserve histories and ritual knowledge by apprenticeship; practical weather expertise is not automatically psychic.
+
+### Living standards and public sentiment
+
+05/11/0068 AC43 — indicative campaign baseline. SoL 11.7/99 (Impoverished); confidence 74/100; civil protection 74/100; unrest 18/100 (higher is worse).
+
+Fishing, herding and mutual refuge keep households viable with few manufactured comforts. Short seasons and scarce medicine impose real limits despite strong community support.
+
+Seasonal moots preserve local control and refuge obligations. Low unrest reflects these relationships, not abundant wealth.
+
+[Household distribution, uncertainty and update method](SOCIAL-CONDITIONS.md).
 
 ### Year 68 developments
 

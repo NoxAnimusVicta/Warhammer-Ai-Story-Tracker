@@ -1,6 +1,8 @@
+The app now groups commission work under Research, completed expedition and pod history under Chronicle, and household context beside the estate. [Organisation audit](APP-AUDIT.md) records the changes; [retained source records](APP-RECORD-REFERENCE.md) preserve consolidated prose. All 43 national/territorial profiles include [living standards and public sentiment](SOCIAL-CONDITIONS.md), household differences and everyday-life descriptions. These dated campaign estimates are separate from economic output, military cohesion and treasury figures.
+
 The **Research** tab brings the existing research record together with collapsible guidance on cumulative discoveries, development stages and Hunter plasma adaptations. [Full narrator reference](RESEARCH-PROGRESSION.md). This presentation update does not advance the story: the app retains its dated revision-72 milestone; the exact transcript records later play through the 06/11 briefing and the subsequent research agreement.
 
-Current story date: **05/11/0068 AC43** (day/month/year after Culling 43). See [the calendar](CALENDAR-REFERENCE.md).
+Published overview date: **05/11/0068 AC43** (day/month/year after Culling 43). See [the calendar](CALENDAR-REFERENCE.md).
 
 # Malaspina — data-slate
 
@@ -28,7 +30,7 @@ This edition synchronises the dossier, references and current estimates with **0
 
 Age clarification: Galahad was approximately one local month old at planetfall but appeared five to six human years old. Chronological age adds elapsed local time to that starting month; bodily maturity is separate. The current three-years-and-three-months figure remains a rounded estimate, not an exact birthday calculation. See [age tracking](CALENDAR-REFERENCE.md#chronological-age-and-physical-development).
 
-The current scene is **Cressault company office, 05/11/0068 AC43 evening**. The 187 military rifles have arrived: **160 issued, 27 reserve**. Five House rifles await delivery from Auvrienne and three development rifles remain there. **10,358 rounds remain** after private trials and one training day. Training runs 05–11/11; the intelligence briefing is confirmed for 06/11 at 18:00. Royal Advisor remains under review.
+At this published milestone the scene is **Cressault company office, 05/11/0068 AC43 evening**. The 187 military rifles have arrived: **160 issued, 27 reserve**. Five House rifles await delivery from Auvrienne and three development rifles remain there. **10,358 rounds remain** after private trials and one training day. Training runs 05–11/11; the intelligence briefing is confirmed for 06/11 at 18:00. Royal Advisor remains under review.
 
 [Royal commission](ROYAL-COMMISSION.md) records the executed agreement, allocated premises and eighteen core staff, defined manufacture rights, output, delivery and bounded training authority. [Commission accounts](commission-accounts.json) reconcile the 18,000 state ceiling: 14,059 recognised cost, 180 outstanding commitments and 3,761 headroom. These are not personal funds.
 
