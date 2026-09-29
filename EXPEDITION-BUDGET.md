@@ -74,6 +74,6 @@ All journey bills are settled. Actual cost is 206 below the 12,061 forecast; thi
 Operations plus completion awards cost **13,000**. Separate ordinary payroll of **2,820** across twelve paydays gives final institutional expenditure **15,820**. Provision **17,320 − refunds 1,500 = 15,820**. Galahad’s 720 ordinary wages and 645 award are distinct; no royal salary or production grant is included. Ten scheduling reserve days were unused. The original budget above remains the planning record, not a second transaction. Detailed actuals and the day-85 historical snapshot are in expedition-accounts.json.
 
 
-## Later employment — 06/11/0068 AC43
+## Later employment — 12/11/0068 AC43
 
 The completed expedition totals above remain unchanged. Galahad resigned salaried Collegium employment on 20/10 and received 40 final wages on 01/11; commission pay now follows its separate 150/month agreement. The later 500 patronage donation is personal, not a reopened expedition cost. Use ESTATE-ACCOUNTS.md and ROYAL-COMMISSION.md for current balances.

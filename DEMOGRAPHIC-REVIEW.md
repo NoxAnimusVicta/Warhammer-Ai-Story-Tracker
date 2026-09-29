@@ -1,6 +1,6 @@
 # Population and lifespan reconciliation
 
-Reviewed 06/11/0068 AC43. Current vital rates are planning scenarios, not observed birth/death registers.
+Reviewed 12/11/0068 AC43. Current vital rates are planning scenarios, not observed birth/death registers.
 
 The earlier birth and death assumptions were independent of the lifespan model. The dated replacement reconciles them using the same ordinary survival schedule and a stable-age approximation. Established net growth is retained as an explicit scenario constraint, not independently validated by this calculation. Different fertility or age structures can produce different growth under the same mortality. No new war losses or epidemic are invented.
 

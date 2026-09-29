@@ -18,16 +18,16 @@ Initial income uncertainty is ±20% and basket-price uncertainty ±15%, carried 
 
 ## Technology: capacity, improvement and spread
 
-Every national record has named capabilities grouped into 15 fields, with separate operation, understanding, production/repair and adoption records. [Technology framework](TECHNOLOGY-FRAMEWORK.md) provides the cross-era catalogue and enabling foundations. A local industrial score is no longer presented as a technology level. Initial assessments are frozen, explicitly labelled inferences from established national industries; narrower demonstrated examples carry their own evidence. A high legacy score does not award every invention in a field. Unverified means unresolved, not necessarily absent.
+Every national record has named capabilities grouped into 15 fields, with separate operation, understanding, production/repair, and deployment and use records. [Technology framework](TECHNOLOGY-FRAMEWORK.md) provides the cross-era catalogue and enabling foundations. A local industrial score is no longer presented as a technology level. Initial assessments are frozen, explicitly labelled inferences from established national industries; narrower demonstrated examples carry their own evidence. A high legacy score does not award every invention in a field. Unverified means unresolved, not necessarily absent.
 
 Legacy industrial-depth inputs remain in archived/compatibility data to preserve existing economic and ordinary-development calculations. They do not govern future unlocks. Annual reviews must update the capability ledger, including imports, production dependence, coverage and losses, alongside these efficiency forecasts.
 
 Two ordinary annual rates are distinguished:
 
 - **Incremental improvement:** indicative reduction in labour/material input required for the same established output and quality through ordinary engineering. It is not a percentage boost to every weapon statistic or a fractional jump on the 1–5 capability scale.
-- **Adoption:** percentage points of eligible production/users that could adopt an already demonstrated improved method in a year. It is conditional capacity to spread a practice, not an asserted current coverage percentage. A specific programme needs a starting coverage and target population before applying the rate.
+- **Annual spread:** percentage points of eligible production/users that could adopt an already demonstrated improved method in a year. It is conditional capacity to spread a practice, not an asserted current coverage percentage. A specific programme needs a starting coverage and target population before applying the rate.
 
-Rates are transparent scenario calibrations, not historical universal laws. Research capacity = education spending per resident / 8, bounded 0–1; investment capacity = public works per resident / 15, bounded 0–1; exchange = (communications rating − 1) / 4. Retained effort is 0.85 under ordinary Hunter pressure, 0.55 in Ossavren's civil conflict, 0.70 in Haldrevik's local fighting. These initial factors are reviewed yearly, not permanent national attributes. Midpoint improvement = `(0.3 + 1.4 research + 0.6 exchange) × retained effort`, with a 60–140% range. Adoption midpoint = `(1 + 3 investment + exchange) × retained effort × (1 + 0.12 × (5 − field capability))`, with a 65–135% range. Public budgets are proxies for wider training/investment; replace them with explicit research and capital inputs when those are recorded.
+Rates are transparent scenario calibrations, not historical universal laws. Research capacity = education spending per resident / 8, bounded 0–1; investment capacity = public works per resident / 15, bounded 0–1; exchange = (communications rating − 1) / 4. Retained effort is 0.85 under ordinary Hunter pressure, 0.55 in Ossavren's civil conflict, 0.70 in Haldrevik's local fighting. These initial factors are reviewed yearly, not permanent national attributes. Midpoint improvement = `(0.3 + 1.4 research + 0.6 exchange) × retained effort`, with a 60–140% range. Annual-spread midpoint = `(1 + 3 investment + exchange) × retained effort × (1 + 0.12 × (5 − field capability))`, with a 65–135% range. Public budgets are proxies for wider training/investment; replace them with explicit research and capital inputs when those are recorded.
 
 Ordinary societies develop without Galahad. At each annual review, account for those expected improvements, diffusion, imports, repairs and training, then recorded losses. Record a reason for outcomes outside the forecast, including stagnation. Do not compound the same progress twice through productivity and the existing output trend. Technical progress already included in output must be reconciled, not added again. New capability records need demonstrated evidence, trained people and production capacity. Major inventions need their own project/event; a forecast never unlocks plasma, nuclear power, life extension or an STC industry. Cullings can destroy plant, trained communities and retained knowledge; loss requires an event, not an automatic erasure of every advance.
 
@@ -47,7 +47,7 @@ Before every 01/01 rollover, review **all 43 returns**, even if the result is an
 
 1. Reconcile population, prices, wages, jobs, taxes, household composition and distribution. Record changes to input budgets, never manually edit the living-standard headline.
 2. Review care, sanitation and material hardship; recalculate national lifespan. Submit a complete dated demographic-reviews.json return for all 43 polities, reconciling fertility, age structure, births, deaths (including infancy once), migration and net growth; do not hold growth fixed automatically when conditions change. Resolve any exceptional hazards separately with their evidence and affected population.
-3. Reconcile each technical field's ordinary improvement, adoption and losses against spending, trade, training and the national output trend. Record starting/closing metrics for any actual adoption programme. Update capability only on evidence.
+3. Reconcile each technical field's ordinary improvement, deployment, use and losses against spending, trade, training and the national output trend. Record starting/closing metrics for any actual deployment programme. Update capability only on evidence.
 4. Review political rights, domestic tensions, public confidence and security against their source events. Neither prosperity nor a good ruler guarantees approval.
 5. Resolve each tracked person's elapsed-period mortality, health, mandate and succession review; do not grant a birthday at every new year or apply a full year's risk to a partial year.
 
@@ -66,7 +66,7 @@ Accessible ordinary care: 61%; reliable clean water: 68%. Both are scenario esti
 Typical adult lifespan: 60–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.72 and public works 8.15 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.62–1.46% | 1.87–3.88 percentage points |
 | Machine tools & precision | 0.62–1.46% | 2.09–4.34 percentage points |
@@ -97,7 +97,7 @@ Accessible ordinary care: 52%; reliable clean water: 48%. Both are scenario esti
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.42 and public works 3.40 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.43–1.01% | 1.35–2.8 percentage points |
 | Machine tools & precision | 0.43–1.01% | 1.49–3.1 percentage points |
@@ -128,7 +128,7 @@ Accessible ordinary care: 64%; reliable clean water: 64%. Both are scenario esti
 Typical adult lifespan: 60–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 5.70 and public works 5.94 L-eq per resident; communication capability 5/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.97–2.26% | 1.97–4.1 percentage points |
 | Machine tools & precision | 0.97–2.26% | 1.76–3.66 percentage points |
@@ -159,7 +159,7 @@ Accessible ordinary care: 60%; reliable clean water: 56%. Both are scenario esti
 Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.82 and public works 4.38 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.55–1.27% | 1.8–3.74 percentage points |
 | Machine tools & precision | 0.55–1.27% | 1.62–3.37 percentage points |
@@ -190,7 +190,7 @@ Accessible ordinary care: 54%; reliable clean water: 48%. Both are scenario esti
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.58 and public works 3.47 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.45–1.04% | 1.5–3.12 percentage points |
 | Machine tools & precision | 0.45–1.04% | 1.5–3.12 percentage points |
@@ -221,7 +221,7 @@ Accessible ordinary care: 62%; reliable clean water: 64%. Both are scenario esti
 Typical adult lifespan: 60–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 3.01 and public works 9.03 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.65–1.52% | 1.96–4.08 percentage points |
 | Machine tools & precision | 0.65–1.52% | 1.96–4.08 percentage points |
@@ -252,7 +252,7 @@ Accessible ordinary care: 54%; reliable clean water: 49%. Both are scenario esti
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.68 and public works 3.70 L-eq per resident; communication capability 3/5; retained effort factor 0.55. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.3–0.69% | 0.9–1.86 percentage points |
 | Machine tools & precision | 0.3–0.69% | 0.99–2.06 percentage points |
@@ -283,7 +283,7 @@ Accessible ordinary care: 53%; reliable clean water: 54%. Both are scenario esti
 Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.92 and public works 5.77 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.48–1.11% | 1.82–3.77 percentage points |
 | Machine tools & precision | 0.48–1.11% | 1.82–3.77 percentage points |
@@ -314,7 +314,7 @@ Accessible ordinary care: 60%; reliable clean water: 62%. Both are scenario esti
 Typical adult lifespan: 60–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.51 and public works 7.53 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.53–1.24% | 1.66–3.45 percentage points |
 | Machine tools & precision | 0.53–1.24% | 1.66–3.45 percentage points |
@@ -345,7 +345,7 @@ Accessible ordinary care: 65%; reliable clean water: 50%. Both are scenario esti
 Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 3.98 and public works 4.15 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.74–1.72% | 1.94–4.03 percentage points |
 | Machine tools & precision | 0.74–1.72% | 1.77–3.67 percentage points |
@@ -376,7 +376,7 @@ Accessible ordinary care: 52%; reliable clean water: 49%. Both are scenario esti
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.50 and public works 3.60 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.44–1.03% | 1.52–3.16 percentage points |
 | Machine tools & precision | 0.44–1.03% | 1.52–3.16 percentage points |
@@ -407,7 +407,7 @@ Accessible ordinary care: 64%; reliable clean water: 65%. Both are scenario esti
 Typical adult lifespan: 60–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 3.41 and public works 10.24 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.69–1.6% | 2.35–4.88 percentage points |
 | Machine tools & precision | 0.69–1.6% | 2.35–4.88 percentage points |
@@ -438,7 +438,7 @@ Accessible ordinary care: 52%; reliable clean water: 59%. Both are scenario esti
 Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.87 and public works 5.61 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.47–1.1% | 1.62–3.37 percentage points |
 | Machine tools & precision | 0.47–1.1% | 1.8–3.73 percentage points |
@@ -469,7 +469,7 @@ Accessible ordinary care: 55%; reliable clean water: 51%. Both are scenario esti
 Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.88 and public works 4.52 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.47–1.11% | 1.65–3.42 percentage points |
 | Machine tools & precision | 0.47–1.11% | 1.65–3.42 percentage points |
@@ -500,7 +500,7 @@ Accessible ordinary care: 58%; reliable clean water: 47%. Both are scenario esti
 Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.43 and public works 3.15 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.43–1.01% | 1.46–3.03 percentage points |
 | Machine tools & precision | 0.43–1.01% | 1.46–3.03 percentage points |
@@ -531,7 +531,7 @@ Accessible ordinary care: 60%; reliable clean water: 56%. Both are scenario esti
 Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.32 and public works 6.97 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.51–1.2% | 1.98–4.12 percentage points |
 | Machine tools & precision | 0.51–1.2% | 1.98–4.12 percentage points |
@@ -562,7 +562,7 @@ Accessible ordinary care: 51%; reliable clean water: 42%. Both are scenario esti
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.29 and public works 3.11 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.35–0.81% | 1.41–2.92 percentage points |
 | Machine tools & precision | 0.35–0.81% | 1.41–2.92 percentage points |
@@ -593,7 +593,7 @@ Accessible ordinary care: 48%; reliable clean water: 42%. Both are scenario esti
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.44 and public works 3.18 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.36–0.84% | 1.42–2.94 percentage points |
 | Machine tools & precision | 0.36–0.84% | 1.42–2.94 percentage points |
@@ -624,7 +624,7 @@ Accessible ordinary care: 44%; reliable clean water: 41%. Both are scenario esti
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.11 and public works 2.68 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.33–0.77% | 1.34–2.78 percentage points |
 | Machine tools & precision | 0.33–0.77% | 1.34–2.78 percentage points |
@@ -655,7 +655,7 @@ Accessible ordinary care: 46%; reliable clean water: 41%. Both are scenario esti
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.22 and public works 2.68 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.34–0.79% | 1.34–2.79 percentage points |
 | Machine tools & precision | 0.34–0.79% | 1.34–2.79 percentage points |
@@ -686,7 +686,7 @@ Accessible ordinary care: 45%; reliable clean water: 41%. Both are scenario esti
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.16 and public works 2.78 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.33–0.78% | 1.36–2.82 percentage points |
 | Machine tools & precision | 0.33–0.78% | 1.36–2.82 percentage points |
@@ -717,7 +717,7 @@ Accessible ordinary care: 43%; reliable clean water: 44%. Both are scenario esti
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.26 and public works 3.79 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.34–0.8% | 1.51–3.13 percentage points |
 | Machine tools & precision | 0.34–0.8% | 1.51–3.13 percentage points |
@@ -748,7 +748,7 @@ Accessible ordinary care: 44%; reliable clean water: 46%. Both are scenario esti
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.39 and public works 4.18 L-eq per resident; communication capability 2/5; retained effort factor 0.7. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.29–0.68% | 1.29–2.68 percentage points |
 | Machine tools & precision | 0.29–0.68% | 1.29–2.68 percentage points |
@@ -779,7 +779,7 @@ Accessible ordinary care: 45%; reliable clean water: 47%. Both are scenario esti
 Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.58 and public works 4.75 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.37–0.87% | 1.65–3.43 percentage points |
 | Machine tools & precision | 0.37–0.87% | 1.65–3.43 percentage points |
@@ -810,7 +810,7 @@ Accessible ordinary care: 45%; reliable clean water: 41%. Both are scenario esti
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.16 and public works 2.79 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.33–0.78% | 1.36–2.82 percentage points |
 | Machine tools & precision | 0.33–0.78% | 1.36–2.82 percentage points |
@@ -841,7 +841,7 @@ Accessible ordinary care: 52%; reliable clean water: 47%. Both are scenario esti
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.42 and public works 3.13 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.43–1.01% | 1.6–3.31 percentage points |
 | Machine tools & precision | 0.43–1.01% | 1.46–3.02 percentage points |
@@ -872,7 +872,7 @@ Accessible ordinary care: 52%; reliable clean water: 48%. Both are scenario esti
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.42 and public works 3.40 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.43–1.01% | 1.64–3.4 percentage points |
 | Machine tools & precision | 0.43–1.01% | 1.49–3.1 percentage points |
@@ -903,7 +903,7 @@ Accessible ordinary care: 51%; reliable clean water: 52%. Both are scenario esti
 Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.62 and public works 4.86 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.45–1.05% | 1.86–3.86 percentage points |
 | Machine tools & precision | 0.45–1.05% | 1.69–3.52 percentage points |
@@ -934,7 +934,7 @@ Accessible ordinary care: 55%; reliable clean water: 62%. Both are scenario esti
 Typical adult lifespan: 59–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.45 and public works 7.34 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.52–1.22% | 1.64–3.41 percentage points |
 | Machine tools & precision | 0.52–1.22% | 1.84–3.82 percentage points |
@@ -965,7 +965,7 @@ Accessible ordinary care: 57%; reliable clean water: 63%. Both are scenario esti
 Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.81 and public works 8.43 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.56–1.3% | 1.97–4.09 percentage points |
 | Machine tools & precision | 0.56–1.3% | 2.18–4.53 percentage points |
@@ -996,7 +996,7 @@ Accessible ordinary care: 55%; reliable clean water: 61%. Both are scenario esti
 Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.31 and public works 6.93 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.51–1.2% | 1.79–3.71 percentage points |
 | Machine tools & precision | 0.51–1.2% | 1.98–4.11 percentage points |
@@ -1027,7 +1027,7 @@ Accessible ordinary care: 63%; reliable clean water: 65%. Both are scenario esti
 Typical adult lifespan: 60–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 3.19 and public works 9.56 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.67–1.56% | 2.27–4.71 percentage points |
 | Machine tools & precision | 0.67–1.56% | 2.27–4.71 percentage points |
@@ -1058,7 +1058,7 @@ Accessible ordinary care: 57%; reliable clean water: 59%. Both are scenario esti
 Typical adult lifespan: 59–79 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 3.00 and public works 9.02 L-eq per resident; communication capability 4/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.65–1.52% | 2.43–5.06 percentage points |
 | Machine tools & precision | 0.65–1.52% | 2.2–4.57 percentage points |
@@ -1089,7 +1089,7 @@ Accessible ordinary care: 47%; reliable clean water: 43%. Both are scenario esti
 Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.42 and public works 3.42 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.43–1.01% | 1.64–3.41 percentage points |
 | Machine tools & precision | 0.43–1.01% | 1.64–3.41 percentage points |
@@ -1120,7 +1120,7 @@ Accessible ordinary care: 48%; reliable clean water: 50%. Both are scenario esti
 Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.09 and public works 6.28 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.49–1.15% | 2.07–4.3 percentage points |
 | Machine tools & precision | 0.49–1.15% | 2.07–4.3 percentage points |
@@ -1151,7 +1151,7 @@ Accessible ordinary care: 44%; reliable clean water: 46%. Both are scenario esti
 Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.15 and public works 2.76 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.41–0.95% | 1.54–3.2 percentage points |
 | Machine tools & precision | 0.41–0.95% | 1.54–3.2 percentage points |
@@ -1182,7 +1182,7 @@ Accessible ordinary care: 47%; reliable clean water: 43%. Both are scenario esti
 Typical adult lifespan: 58–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.41 and public works 3.37 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.36–0.83% | 1.45–3.0 percentage points |
 | Machine tools & precision | 0.36–0.83% | 1.57–3.27 percentage points |
@@ -1213,7 +1213,7 @@ Accessible ordinary care: 42%; reliable clean water: 29%. Both are scenario esti
 Typical adult lifespan: 57–76 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 0.55 and public works 1.26 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.28–0.65% | 1.23–2.55 percentage points |
 | Machine tools & precision | 0.28–0.65% | 1.23–2.55 percentage points |
@@ -1244,7 +1244,7 @@ Accessible ordinary care: 56%; reliable clean water: 57%. Both are scenario esti
 Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 2.60 and public works 7.81 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.54–1.26% | 2.1–4.36 percentage points |
 | Machine tools & precision | 0.54–1.26% | 2.1–4.36 percentage points |
@@ -1275,7 +1275,7 @@ Accessible ordinary care: 40%; reliable clean water: 37%. Both are scenario esti
 Typical adult lifespan: 57–77 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 0.77 and public works 1.84 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.3–0.7% | 1.22–2.53 percentage points |
 | Machine tools & precision | 0.3–0.7% | 1.32–2.75 percentage points |
@@ -1306,7 +1306,7 @@ Accessible ordinary care: 51%; reliable clean water: 51%. Both are scenario esti
 Typical adult lifespan: 59–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 4.19 and public works 4.37 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.68–1.59% | 1.78–3.7 percentage points |
 | Machine tools & precision | 0.68–1.59% | 1.78–3.7 percentage points |
@@ -1337,7 +1337,7 @@ Accessible ordinary care: 47%; reliable clean water: 48%. Both are scenario esti
 Typical adult lifespan: 58–78 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 1.82 and public works 5.45 L-eq per resident; communication capability 3/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.47–1.09% | 1.95–4.05 percentage points |
 | Machine tools & precision | 0.47–1.09% | 1.95–4.05 percentage points |
@@ -1368,7 +1368,7 @@ Accessible ordinary care: 35%; reliable clean water: 28%. Both are scenario esti
 Typical adult lifespan: 56–76 local years of age. Central half of adult death ages; not hard limits. [Vital-rate reconciliation](DEMOGRAPHIC-REVIEW.md).
 Technology: Education spending 0.45 and public works 1.04 L-eq per resident; communication capability 2/5; retained effort factor 0.85. Ordinary diffusion and incremental improvement ranges, conditional on resources and continuity.
 [Named capabilities, prerequisites and production status](TECHNOLOGY-FRAMEWORK.md).
-| Field | Ordinary improvement / year | Adoption / year |
+| Field | Ordinary improvement / year | Annual spread |
 |---|---:|---:|
 | Metals & structural materials | 0.27–0.63% | 1.19–2.47 percentage points |
 | Machine tools & precision | 0.27–0.63% | 1.19–2.47 percentage points |

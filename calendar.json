@@ -21,7 +21,7 @@
   "days_per_year": 365,
   "local_hours_per_day": 24,
   "solar_day_terran_seconds": 86880,
-  "current_date": "06/11/0068 AC43",
+  "current_date": "12/11/0068 AC43",
   "census_date": "27/08/0067 AC43",
   "approval_date": "01/10/0067 AC43",
   "last_salary_date": "01/11/0068 AC43",
@@ -51,8 +51,8 @@
     "rule": "Approximately one local month plus elapsed local story time since planetfall; apparent age and bodily maturity are separate.",
     "birth_date": null,
     "planetfall_calendar_date": null,
-    "review_date": "06/11/0068 AC43",
-    "current_estimate": "Approximately three local years and three months; rounded, with a further week or two suggested by the predeparture estimate.",
+    "review_date": "12/11/0068 AC43",
+    "current_estimate": "Approximately three local years and three months, plus roughly two weeks; no exact birthday established.",
     "precision": "Approximate; no exact birthday or fully dated planetfall anchor established.",
     "predeparture_estimate": {
       "date": "21/10/0067 AC43",
@@ -61,6 +61,6 @@
       "approximate": true
     }
   },
-  "current_engagement": "06/11/0068 AC43, evening \u2014 district headquarters with Major Mathis Vauzel, Desmaret and an operations officer; corridor appreciation delivered, questions ongoing",
-  "next_scheduled_duty": "07/11/0068 AC43 \u2014 third of seven company training days; no separate timed appointment established"
+  "current_engagement": "12/11/0068 AC43, evening \u2014 Royal Advisor audience; standing Crown mandate authorised, resource requirements requested",
+  "next_scheduled_duty": "Present requirements for people, premises and funds in the current audience; no separate timed appointment established."
 }

@@ -1,6 +1,12 @@
 # Royal technical commission — House Orsival
 
-**Current return: 06/11/0068 AC43, evening; through exchange 599.** Authorised by Margrave Odrienne Orcemont on 11/10; written agreement signed before Marshal Calvren Vaucerin on 17/10. Galahad directs the commissioned engineering programme and has direct reporting access. The standing Royal Advisor appointment remains subject to the sovereign’s review after the trial shipment and controlled demonstration; it has not been conferred.
+**Current return: 12/11/0068 AC43, evening.** The technical commission was authorised 11/10 and executed 17/10. Training finished 11/11; Galahad and Serault returned 12/11 and the Marshal accepted the final report. Odrienne appointed Galahad **Royal Advisor effective this evening**. The formal instrument is being amended, not yet signed or delivered; notices are ordered, not confirmed circulated.
+
+## Standing delegated Crown mandate
+
+He may initiate inspections and investigations, convene responsible officials, require relevant returns and develop programmes without a separate commission. Directions in the Crown’s name bind personnel and facilities assigned to the mandate; work may commence with authorised resources. Urgent findings receive immediate direct access to the Margrave; refusals require stated reasons and may be escalated to her. He may advise on any matter affecting the March. Field-army command, new taxes and binding foreign commitments require separate authorisation. Additional resources and powers must be provided; this is neither unlimited appropriation nor authority to seize every private asset. Existing manufacturing licence and intellectual-property rights remain unchanged.
+
+The Margrave awaits requirements for people, premises and funds. No additional office resources, salary or cash award have been settled. No hostile demonstration occurred or remains a prerequisite to the enacted appointment.
 
 ## Authority, premises and personnel
 
@@ -34,7 +40,7 @@ Ordel’s staff demonstrated **twelve completed rifles per production day** acro
 
 The **18,000-lorrat state-administered ceiling** is separate from personal, household and closed expedition accounts. Approved internal reallocation supported the enlarged batch. Existing capital is not bought again; issued stock has been valued.
 
-| Recognised cost through 06/11 | Lorrats |
+| Recognised cost through 12/11 | Lorrats |
 |---|---:|
 | Equipment and adaptation | 5,650 |
 | Materials and outside work | 5,400 |
@@ -42,16 +48,18 @@ The **18,000-lorrat state-administered ceiling** is separate from personal, hous
 | Valued ammunition issue | 620 |
 | Transport and handling | 96 |
 | Paid licence | 900 |
-| Staff payroll | 570 |
-| Commission remuneration | 100 |
-| **Recognised cost** | **14,094** |
+| Staff payroll | 750 |
+| Commission remuneration | 130 |
+| **Recognised cost** | **14,304** |
 | Additional outstanding commitments | 180 |
-| Uncommitted programme headroom | 3,726 |
+| Recorded programme headroom | 3,516 |
 | **Ceiling reconciled** | **18,000** |
 
-The earlier 25/10, 02/11 and 04/11 returns are cumulative historical balances, not additional expenditure. The bridge from 02/11 is 13,220 + 18 final checks + 620 valued ammunition + 96 transport/handling + 60 staff + 10 commission = 14,024 through 04/11. Closing 05/11 adds 30 continuing staff payroll and 5 commission accrual, making 14,059. Closing 06/11 adds another 30 staff payroll and 5 commission accrual, making 14,094. Staff payroll totals 390 for 18–30/10 plus 180 for 01–06/11. Commission remuneration totals 70 paid for 17–30/10 plus 30 accrued for 01–06/11. No new personal receipt results. Recognised cost is not identical to cash disbursed; remaining headroom must cover subsequent trial costs and commitments.
+The earlier 25/10, 02/11 and 04/11 returns are cumulative historical balances, not additional expenditure. The bridge from 02/11 is 13,220 + 18 final checks + 620 valued ammunition + 96 transport/handling + 60 staff + 10 commission = 14,024 through 04/11. Closing 05/11 adds 30 continuing staff payroll and 5 commission accrual, making 14,059. Closing 06/11 adds another 30 staff payroll and 5 commission accrual, making 14,094. The remaining five training days add 175, bringing the 11/11 cost to 14,269; 12/11 adds another 35, bringing it to 14,304. Staff payroll totals 390 for 18–30/10 plus 360 for 01–12/11. Commission remuneration totals 70 paid for 17–30/10 plus 60 accrued for 01–12/11. No new personal receipt results. Recognised cost is not identical to cash disbursed; remaining headroom must cover subsequent trial costs and commitments.
 
-Galahad’s commission pay is **150/month**, paid on the first for the preceding month. Collegium employment ended on 20/10; its final 40-lorrat settlement was paid on 01/11 alongside the 70 commission payment. Next commission payday is 01/12, normally 150 if November service continues throughout. Future pay is not prepaid.
+Galahad’s commission pay is **150/month**, paid on the first for the preceding month. Collegium employment ended on 20/10; its final 40-lorrat settlement was paid on 01/11 alongside the 70 commission payment. Next commission payday is 01/12, normally 150 if November service continues throughout. Future pay is not prepaid. No additional Royal Advisor pay has been agreed.
+
+The return train was commission-authorised, with no personal fare. Its incremental programme valuation remains unpriced; the recorded 3,516 headroom is before that exposure, not a declaration that the journey cost nothing.
 
 ## Delivery, instruction and ammunition
 
@@ -66,19 +74,23 @@ The company comprises **160 officers and men**, including NCOs. It has served in
 | Company training 05/11, including demonstrations | -1,620 | 0 | -1,620 |
 | Remaining 05/11 | 2,358 | 8,000 | 10,358 |
 | Company training 06/11 | -800 | 0 | -800 |
-| **Remaining 06/11** | **1,558** | **8,000** | **9,558** |
+| Remaining 06/11 | 1,558 | 8,000 | 9,558 |
+| Further training 07–11/11 | -1,200 | -1,600 | -2,800 |
+| **Remaining 12/11** | **358** | **6,400** | **6,758** |
 
-The issue was valued once at 620 lorrats. Expenditure of 2,442 rounds reduces stock, without charging the ammunition again. No household ammunition delivery is recorded. All 187 military rifles remain accounted for.
+The issue was valued once at 620 lorrats. Total expenditure of 5,242 rounds reduces stock, without charging the ammunition again. No household ammunition delivery is recorded. All 187 military rifles remain accounted for.
 
-Desmaret's private twelve-round trial functioned without a stoppage. Galahad then demonstrated ten rapid shots through one entry point with almost no visible recoil. The first company day covered firing, supervised maintenance, weather effects and handling. Initial progress is strong; **two of seven full days are complete**, five remain, and final certification and operational demonstration are still pending.
+Desmaret's private twelve-round trial functioned without a stoppage. Galahad then demonstrated ten rapid shots through one entry point with almost no visible recoil. The first company day covered firing, supervised maintenance, weather effects and handling. All **seven full training days finished on 11/11**, with strong performance and NCOs able to maintain practice under Desmaret. No hostile operational demonstration occurred.
 
-The second day consolidated these skills, with NCOs increasingly correcting mistakes independently and slower groups improving. This is observed progress, not final certification. Serault has raised an ordinary-ammunition top-up through stores; its quantity and valuation must be presented before draw. No additional stock, expenditure or commitment has been recorded.
+The second day consolidated these skills, with NCOs increasingly correcting mistakes independently and slower groups improving. That was interim progress; the following five days completed instruction. Serault’s earlier top-up request was not drawn. Subsequent resupply is the unit’s responsibility; no additional issue, valuation or commitment has been recorded.
 
 During the night of 05–06/11 Galahad surveyed billets, clothing and drying arrangements, food, treated drinking water and laundry demand, maintenance, parts, fuel, stores, readiness records and piecemeal defensive works. He noted practical bottlenecks and dependencies. These are observations for future work, not completed repairs, a new funded programme or district-wide equipment figures derived from one base.
 
+On 12/11 Galahad and Serault returned to Auvrienne on the next resupply working, arriving in the evening without loss. The military rifles and ammunition stayed with the unit. The Marshal accepted the training report and recommended the appointment. The time-limited training authority has ended; no continuing personal command of the company follows.
+
 ## District intelligence briefing — 06/11/0068 AC43
 
-Major **Mathis Vauzel**, district intelligence lead, delivered the corridor appreciation at district headquarters from 18:00, with an operations officer and Captain Desmaret present. Galahad took notes and examined the supporting assessments. The meeting is **still in progress**: Vauzel has asked what he wishes examined more closely. The following estimates have been supplied; they are no longer an outstanding briefing request.
+Major **Mathis Vauzel**, district intelligence lead, delivered the corridor appreciation at district headquarters from 18:00, with an operations officer and Captain Desmaret present. Galahad took notes and examined the supporting assessments. The briefing is complete. These estimates retain their 06/11 observation dates; the 12/11 return does not refresh them. The following estimates have been supplied; they are no longer an outstanding briefing request.
 
 The staff return was consolidated on the afternoon of 06/11. The newest observations are from that morning; some rear-area reports are up to four days old. The **Cressault Corridor** covers the forward sector, support formations and immediate administrative rear, not Caldrienne's whole frontier or army.
 

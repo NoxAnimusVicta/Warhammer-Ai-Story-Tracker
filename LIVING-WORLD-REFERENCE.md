@@ -1,6 +1,6 @@
 # Malaspina — living-world estimates
 
-**Current estimate: 06/11/0068 AC43.** The current scene is Cressault district headquarters during Vauzel’s ongoing briefing, after the second training day, exchange 599. This maintenance advances no further time. Estimates are modelled returns, not newly received enumerations or audited national cash accounts.
+**Current estimate: 12/11/0068 AC43.** The current scene is the Royal Advisor audience in Auvrienne, after completed training and return. This maintenance advances no further time. Estimates are modelled returns, not newly received enumerations or audited national cash accounts.
 
 ## Revenue, receipts and money held
 
@@ -12,13 +12,13 @@ Borrowing is financing, not revenue or receipts. Liquid reserves and outstanding
 
 | Record | Basis | Current presentation |
 |---|---|---|
-| National and settlement population | Census 27/08/0067; 435 elapsed local days | All 43 disjoint geographic returns and all 970 settlements at 06/11/0068 |
-| Output and ordinary production | Capacity baseline 27/08/0067; 435 days | Current constant-price annual run-rate using the recorded national output trend |
-| Opening treasury stocks | 21/10/0067; 380 days | Estimated debt and reserves with an explicit opening-to-current financing bridge |
-| Current public budget | Existing policy and shares | Annual run-rate at 06/11/0068; separate from elapsed cash movement |
+| National and settlement population | Census 27/08/0067; 441 elapsed local days | All 43 disjoint geographic returns and all 970 settlements at 12/11/0068 |
+| Output and ordinary production | Capacity baseline 27/08/0067; 441 days | Current constant-price annual run-rate using the recorded national output trend |
+| Opening treasury stocks | 21/10/0067; 386 days | Estimated debt and reserves with an explicit opening-to-current financing bridge |
+| Current public budget | Existing policy and shares | Annual run-rate at 12/11/0068; separate from elapsed cash movement |
 | Military inventory and technology | Preserved capacity return plus dated Year 68 review | Explicit deliveries, repair returns and withdrawals; individual industrial changes beneath stable broad ratings |
-| Prices and wages | Year 67 reference bands | Reviewed at 06/11/0068; unchanged time indices, regional adjustments still apply |
-| Court ages and tenure | 21/10/0067 biographical return | Ranges after 380 days, because exact birthdays and anniversaries are unknown |
+| Prices and wages | Year 67 reference bands | Reviewed at 12/11/0068; unchanged time indices, regional adjustments still apply |
+| Court ages and tenure | 21/10/0067 biographical return | Ranges after 386 days, because exact birthdays and anniversaries are unknown |
 
 `demography.json`, `world-map.json` and `national-register.json` preserve the original dated baselines. `calendar.json` supplies story time. The build derives `world-current.json` and `national-current.json` through `living_world.py`. The map, settlement descriptions, national comparisons, rankings and regional population tables all use these current estimates. The downloadable NATIONAL-REGISTER.md and SETTLEMENT-REGISTER.md use the same calculation.
 
@@ -28,7 +28,7 @@ The longer malaspina-world.txt remains an explicitly dated predeparture referenc
 
 ## Population method and reconciliation
 
-The corrected census contains **1,223,820,000** people. For each complete local year, the established demographic calculation separately rounds births and deaths, then adds recorded net migration. The historical 434-day checkpoint on 05/11 was 1,228,835,572, with the final 69 days using a proportional net trend. The dated vital-rate review applies for the next local day only. The current 435-day estimate is **1,228,847,194**, an increase of **5,027,194** over the census. This preserves the rate-change boundary rather than retroactively applying new rates.
+The corrected census contains **1,223,820,000** people. For each complete local year, the established demographic calculation separately rounds births and deaths, then adds recorded net migration. The historical 434-day checkpoint on 05/11 was 1,228,835,572, with the final 69 days using a proportional net trend. The dated vital-rate review applies only to the seven subsequent local days. The current 441-day estimate is **1,228,916,908**, an increase of **5,096,908** over the census. This preserves the rate-change boundary rather than retroactively applying new rates.
 
 Each geographic group's current total is apportioned between its recorded settlements and remaining rural/uncharted residents in their baseline proportions. Integer largest-remainder allocation keeps every group exact. No unrecorded urbanisation, local migration boom or exceptional casualty event is invented. Settlements inherit their census group's trend; they are subsets, not additional population. Annual headcount changes are recomputed from current population rather than left at the old base.
 
@@ -46,7 +46,7 @@ Own-source public revenue and non-interest domestic spending use the same real-o
 
 ## Treasury bridge
 
-The separate 380-day interval starts at the actual opening-stock date, 21/10/0067. The preserved annual financing plan is apportioned by 380/365 to estimate borrowing, principal repayment, reserve accumulation and reserve drawdown during that interval. Opening debt plus estimated borrowing minus estimated principal payments gives current debt. Opening liquid reserves plus estimated accumulation minus drawdown gives current reserves. Each profile exposes these opening figures and flows.
+The separate 386-day interval starts at the actual opening-stock date, 21/10/0067. The preserved annual financing plan is apportioned by 386/365 to estimate borrowing, principal repayment, reserve accumulation and reserve drawdown during that interval. Opening debt plus estimated borrowing minus estimated principal payments gives current debt. Opening liquid reserves plus estimated accumulation minus drawdown gives current reserves. Each profile exposes these opening figures and flows.
 
 This intentionally simple unchanged-plan bridge does not pretend to know intra-year timing, revised appropriations or audited receipts. The forward annual budget is a separate current run-rate. Its financing plan retains the previous deficit/surplus financing mix where applicable, caps reserve drawdown and debt retirement at the available stocks, and reconciles to its budget balance. It has not already been booked into current stocks.
 
@@ -54,7 +54,7 @@ Routine national education, administration and defence envelopes already include
 
 ## Military personnel correction
 
-[Personnel reconciliation](PERSONNEL-REVIEW.md) and personnel-review.json correct the omitted 431-day staffing review for all 43 returns at 02/11. The 06/11 review carries this latest dated estimate forward; it does not invent four further days of headcount changes. Standing forces mean actual serving estimates, not authorised establishments; staffing ceilings remain unknown. The ledger explicitly reconciles trained entry, departures, transfers and reserve eligibility, and reassesses sustainable field capacity. Existing ordinary spending and mortality already encompass these movements. No population loss or cost is charged twice. Equipment movements remain separately reconciled. The broader [statistics audit](STATISTICS-AUDIT.md) records which other figures changed, remain reviewed assumptions, or are historical snapshots.
+[Personnel reconciliation](PERSONNEL-REVIEW.md) and personnel-review.json correct the omitted 431-day staffing review for all 43 returns at 02/11. The 12/11 review carries this latest dated estimate forward; it does not invent ten further days of headcount changes. Standing forces mean actual serving estimates, not authorised establishments; staffing ceilings remain unknown. The ledger explicitly reconciles trained entry, departures, transfers and reserve eligibility, and reassesses sustainable field capacity. Existing ordinary spending and mortality already encompass these movements. No population loss or cost is charged twice. Equipment movements remain separately reconciled. The broader [statistics audit](STATISTICS-AUDIT.md) records which other figures changed, remain reviewed assumptions, or are historical snapshots.
 
 ## Other living records and future updates
 
@@ -69,6 +69,8 @@ Run the demographic, national, fiscal, calendar and living-world checks together
 A long time skip requires outcomes for ongoing institutions and NPC work, not merely new dates on old returns. The player has authorised retrospective Year 68 developments within existing story boundaries. These are explicitly introduced campaign decisions, not events recovered from earlier prose. world_year.py applies the ledger to the preserved national and geographic inputs; build.py derives the current conflict publication from the historical source. Existing expenditures and growth estimates encompass these ordinary programmes rather than adding them again. Material exceptional consequences need their own reconciliation. Character knowledge still depends on observation or delivery.
 
 
-## Post-return review — 06/11/0068
+## Post-return review — 12/11/0068
 
-The 11/10 expedition-year decisions remain dated historical developments. The subsequent three weeks establish Veyrasse’s commissioned pilot run, Collegium resignation/patronage and Orsival household improvements. No new material theatre escalation, closure, exceptional population loss or general price shock is established. Current conflicts carry the prior conditions forward with this explicit review, without relabelling old events as new. Detailed pilot rifles are not added to unrelated armour, aircraft or artillery totals. Regional baseline biology, sea routes, crop proposals and psychic networks are not rewritten merely because the date advances.
+The 11/10 expedition-year decisions remain dated historical developments. The subsequent month establish Veyrasse’s commissioned pilot run, Collegium resignation/patronage and Orsival household improvements. No new material theatre escalation, closure, exceptional population loss or general price shock is established. Current conflicts carry the prior conditions forward with this explicit review, without relabelling old events as new. Detailed pilot rifles are not added to unrelated armour, aircraft or artillery totals. Regional baseline biology, sea routes, crop proposals and psychic networks are not rewritten merely because the date advances.
+
+Royal Advisor is now effective with a standing delegated Crown mandate. This administrative change is recorded in the government event ledger; no new appropriation, factory, military mobilisation or automatic productivity bonus follows.

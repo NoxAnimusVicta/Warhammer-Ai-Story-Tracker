@@ -14379,3 +14379,359 @@ Make sure you finish the story status updates before moving onto technology prop
 ## 635 - Assistant - Progress note: priority confirmed
 
 Understood. I’ll finish and verify the story status update first, then address the remaining technology scores.
+
+
+## Archive maintenance note — 29 September 2026
+
+The numbered archive currently stops at exchange635. Subsequent out-of-character exchanges have not yet been fully transcribed; do not interpret this gap as absence of their agreements. The Tyranid/family agreement is preserved in COHORT-AND-FRAGMENT-OPTIONS.md and private/tyranid-family-agreement.md. The following live scene is appended with a descriptive identifier to avoid inventing intervening exchange numbers.
+
+## Live continuation — User — Complete training and arrange return
+
+I spend the rest of the week continuing the training, growing my reputation with the men and learning everything I can about tactics, intelligence and the needs of a conflict zone. Once the training is complete I gather my equipment and prepare to leave, organising a spot on the next resupply train heading back to Auvrienne.
+
+## Live continuation — Assistant — Training complete, return train arranged
+
+By the last morning, the sound of the company has changed.
+
+There is less shouted correction on the range. Men who once watched your hands now check one another’s work. A corporal catches a neglected maintenance step before you reach his bench; farther along, a soldier explains his mistake to a younger man without trying to conceal it first.
+
+Desmaret notices you watching.
+
+“That’s the part I wanted,” he says quietly. “Something that stays when you leave.”
+
+The remaining five days have been full. Rain stipples your papers, mud dries along the hems of your trousers, and the company’s initial fascination with its enormous instructor settles into something more useful: familiarity and confidence. Men approach you with questions they would previously have kept to themselves. Some concern the rifles. Others concern leave, worn boots, a troublesome sergeant, or whether anyone in Auvrienne understands how long a supposedly temporary posting can last.
+
+You hear contradictory accounts often enough to learn from the contradictions themselves.
+
+A stores clerk’s adequate reserve becomes a quartermaster’s shortage when you ask where it is kept. A serviceable vehicle waits idle because the man qualified to repair its recurring fault is attached elsewhere. The same stretch of road looks entirely different in an intelligence report, a driver’s account and the recollection of soldiers who have spent a wet night beside it.
+
+Your notebooks fill with those differences.
+
+Vauzel’s authorised extracts provide the wider picture. Desmaret and the company supply its texture: the delay between an order and its arrival, the condition of the men expected to carry it out, the distinction between something existing on a return and being available when required. Where accounts disagree, you retain the disagreement rather than polishing it into false certainty.
+
+By the evening of the eleventh, the scheduled instruction is complete. Their performance is strong, though uneven in the ordinary human ways: some men are naturally quicker, others more deliberate, and the NCOs know who still needs watching. They can continue the work without you standing over every shoulder.
+
+Desmaret sets the completed assessment beside Serault’s inventory sheets.
+
+“I’ll maintain the practice schedule,” he says. “And I’ll send the follow-up returns through Serault.”
+
+All one hundred and eighty-seven military rifles remain accounted for. The last five days consumed twelve hundred ordinary rounds and sixteen hundred armour-piercing rounds, including the final supervised firing. The unused top-up request has not become an unrecorded delivery. Serault’s closing return leaves **6,758 rounds: 358 ordinary and 6,400 armour-piercing**.
+
+“You’ll have copies of these,” Serault says, tapping the papers. “Training completed. Stores reconciled. The field report will distinguish this from an operational trial.”
+
+No hostile objective has been taken merely to complete a demonstration. That part of your original proposal remains separate from what the company has now proved on its training grounds.
+
+As you gather your equipment, men find reasons to pass the office. A question already answered. A final report delivered personally. One of the older soldiers simply pauses at the door.
+
+“Safe journey, my lord.”
+
+He says it without the brittle formality of your arrival.
+
+Desmaret accompanies you to the transport office. Coal smoke hangs beneath the eaves; inside, a stove ticks beside a board crowded with wagon numbers and chalked amendments. The movement clerk checks an incoming supply working, then turns to its return allocation.
+
+“Tomorrow morning. Auvrienne-bound, once they’ve finished unloading here.” He looks up at you, then amends the accommodation entry. “The accompanying staff compartment. We can clear the end bench.”
+
+Serault secures places for himself and your papers as well. The return journey falls under your commission’s transport arrangements; no personal fare is collected.
+
+Outside, the yard is settling into evening. Lamps shine through the damp air. Somewhere beyond the sheds, a locomotive releases a long breath of steam.
+
+Your equipment is packed, your place is arranged, and the company is ready to continue without you.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years and 3 months, plus roughly two weeks; exact birthday unknown  
+**Date:** 11/11/0068 AC43, evening  
+**Reputation:** Royal technical commissioner; respected instructor within Desmaret’s company  
+**Weapons (Equipped):** None  
+**Armor/Clothing (Equipped):** Charcoal coat, shirt, dark trousers and leather boots; marked by the week’s training  
+**Gear/Inventory:** Packed personal effects, private notebooks, authorised intelligence extracts and completed training returns; remaining personal belongings at the estate  
+**Currency:** 659 Lorrats personal; household funds separate
+
+
+## Live continuation — User — Return and request royal audience
+
+I relax for the rest of the night and ensure things my things are kept safe and then board the train in the morning. When I arrive back at Auvrienne I immediately head to the Marshall’s office to provide my report and request an audience with the Margrave about the appointment to Royal Advisor
+
+## Live continuation — Assistant — Marshal receives report
+
+The night passes quietly. Your packed effects remain beside you, the private notebooks secured beneath the rest of your papers. Beyond the billet walls, boots scrape across the yard and the night watch changes beneath the lamps. For once, none of it requires your attention.
+
+By morning, the incoming supply train is being emptied beneath a pale sky. Porters move between the wagons with their collars turned up. Serault checks your papers against the movement clerk’s list, then directs you towards the cleared compartment.
+
+Desmaret meets you beside the carriage.
+
+“You’ve left us something useful,” he says. “I intend to keep it that way.”
+
+He offers his hand before stepping back from the train.
+
+The journey takes most of the day. Empty wagons knock and settle behind the locomotive; soot gathers along the window frame. The frontier’s wet fields gradually give way to busier junctions, warehouses and the smoke-stained outskirts of Auvrienne. Your belongings arrive with you, undisturbed.
+
+It is already evening when you reach the Marshal’s offices.
+
+An orderly takes your name, recognises Serault and disappears through the inner door. You are admitted after a short wait. Vaucerin stands beside his desk, an open dispatch case at his elbow. The room smells of paper, coal heat and the bitter remains of coffee.
+
+“Lord Orsival. Captain.” His gaze passes over your travelling clothes and the packet in Serault’s hand. “Back from Cressault, then. Let us see what we have.”
+
+The report occupies him for some time.
+
+He follows the production totals through acceptance and delivery, then reads Desmaret’s assessment. His questions are precise: whether the men can maintain their weapons without your supervision, whether the company’s officers can continue instruction, and which observations concern the rifle rather than the condition of the men using it.
+
+Serault supplies the custody and stores returns. Your account supplies what the columns cannot: the company’s progress, the practical demands of the posting, and the lessons gathered from the officers, soldiers and support staff.
+
+Vaucerin turns back to Desmaret’s signed report.
+
+“One hundred and twenty requested. One hundred and eighty-seven delivered to the military. A company instructed within the agreed period, with its own officers able to carry the work forward.”
+
+He places the sheet down.
+
+“That is a substantial result.”
+
+The report records no hostile operation. He accepts that distinction without suggesting that an engagement should have been manufactured for the occasion.
+
+“The field evidence will continue to arrive. I shall judge it as it arrives.”
+
+When you request an audience concerning the Royal Advisor appointment, he holds your gaze for a moment, then draws a fresh sheet towards him.
+
+“I will support your request. You have given me grounds to do so.”
+
+His pen moves steadily across the paper.
+
+“The Margrave will have your return and my recommendation. The appointment remains hers.”
+
+He summons an aide and sends the request with the official report. Your private notebooks remain with your effects; they are not included in the packet passed from the room.
+
+While you wait, Serault separates the copies intended for the military registry. Outside the tall windows, the city’s lamps brighten against the darkening streets.
+
+The aide returns before the office has emptied for the night.
+
+“Her Excellency will receive Lord Orsival this evening, Marshal. At the conclusion of her present audience.”
+
+Vaucerin closes the dispatch case.
+
+“Very well. I shall accompany you.”
+
+He takes up his recommendation and gestures towards the door. Your report has been received, the Marshal’s support is explicit, and the audience you requested is waiting beyond the remaining business of the evening.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years and 3 months, plus roughly two weeks; exact birthday unknown  
+**Date:** 12/11/0068 AC43, evening  
+**Reputation:** Royal technical commissioner; successful trial-programme leader, now recommended by the Marshal for the Margrave’s consideration  
+**Weapons (Equipped):** None  
+**Armor/Clothing (Equipped):** Charcoal coat, shirt, dark trousers and leather boots; travel-worn  
+**Gear/Inventory:** Personal effects and secured private notebooks; copies of training and intelligence papers. Official report submitted; estate possessions remain at Serravonne  
+**Currency:** 659 Lorrats personal; household funds separate
+
+
+## Live continuation — User — Attend Margrave audience
+
+I head to my meeting with the Margrave
+
+## Live continuation — Assistant — Royal Advisor offered
+
+Vaucerin leads you through the quieter passages of the government buildings, away from the clerks still working beneath their shaded lamps. At the inner doors, a household officer checks the Marshal’s name and steps aside.
+
+The audience takes place in a smaller room than the formal chamber: tall windows curtained against the night, a coal fire burning low, and a broad table covered with correspondence. Beeswax and warmed wood soften the lingering smell of ink.
+
+Margrave Odrienne Orcemont stands beside the table. Silver catches at the temples of her dark hair. Her fitted court dress is almost severe, relieved by the small gleam of its fastenings. Your report lies open before her, the Marshal’s recommendation resting across it.
+
+“Lord Orsival.”
+
+Her eyes travel briefly over the marks of the journey on your clothes.
+
+“You came directly from the railway.”
+
+There is approval in the observation. She gestures towards the cleared space opposite her, where you need not negotiate an unsuitable chair.
+
+Vaucerin gives his recommendation aloud. He is economical with it: the completed weapons, the delivery, Desmaret’s assessment, and the company’s ability to continue without its inventor supervising every movement.
+
+“I recommend that his work be continued with the access and standing he requested, Excellency.”
+
+Odrienne listens without interrupting. When he finishes, she turns a page of the report and rests her fingertips upon its margin.
+
+“When you first came here, you offered me considerable promises. You have since provided weapons, accounts and an officer willing to put his name beneath your results.”
+
+She looks up.
+
+“I prefer this form of persuasion.”
+
+Your familiar, quiet influence eases the atmosphere around the table. Her attention remains measured; she appears entirely comfortable considering how much of your ambition can be made useful to her.
+
+“I am prepared to appoint you Royal Advisor.”
+
+Vaucerin remains still beside you.
+
+“Your initial responsibilities would concern technical development, industry and military preparedness. You would have direct access to me on those matters, and authority to request the reports necessary for your advice through the appropriate offices.”
+
+She draws the recommendation closer.
+
+“Expenditure will require its appropriation. The Marshal will command the army. Your commission’s manufacturing rights will remain governed by its agreement unless we negotiate another. I want your judgement applied across these institutions, with the means to have your proposals properly examined.”
+
+Her expression warms slightly.
+
+“The appointment will also make your successes closely associated with my government. I trust you appreciate that.”
+
+A secretary at the side table waits with an unused sheet before him. No oath has been spoken and no instrument signed; the offer, however, is unmistakable.
+
+Odrienne leaves her hand resting on your report.
+
+“If these terms are agreeable, Lord Orsival, we can settle the appointment. Then I would hear which undertaking you believe deserves our attention first.”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years and 3 months, plus roughly two weeks; exact birthday unknown  
+**Date:** 12/11/0068 AC43, evening  
+**Reputation:** Successful royal technical commissioner; offered appointment as Royal Advisor  
+**Weapons (Equipped):** None  
+**Armor/Clothing (Equipped):** Charcoal coat, shirt, dark trousers and leather boots; travel-worn  
+**Gear/Inventory:** Personal effects and secured private notebooks; retained copies of training and intelligence papers  
+**Currency:** 659 Lorrats personal; household funds separate
+
+
+## Live continuation — User — Negotiate autonomy
+
+I smile politely, with the full understanding that this is my government now she has given me an in roads she just does not know this yet. "I agree to those terms your Excellency. However. If you wish for me to do my job effectively I require autonomy and leverage. If you simply wish for a puppet I am sure there are many among your staff already suitable for such a role. I am no puppet, if you wish to reap the benefits of my work you must allow me the latitude to conduct my work in an effective manner. Is that agreeable?" I ask with an active effort of my psychic pressure of comfort and ease but also an underlying authority and not quite fear but a flash of ripe anxiety, like discovering there is a large spider on your shoulder that you were unaware of. But the comfort quickly laps it back in to remove any lingering traces of hostility and magnitude of my presence.
+
+## Live continuation — Assistant — Appointment and delegated discretion
+
+Odrienne’s fingers stop moving against the edge of the report.
+
+For a fraction of a second, her attention slips from your face to the space beside her shoulder. Her breath catches. Across the table, Vaucerin straightens almost imperceptibly; the secretary’s pen hangs above the paper.
+
+Then the warmth returns.
+
+The room feels safe again. Familiar. The fire settles in the grate, and the Margrave draws an unhurried breath. Her eyes return to yours. Whatever explanation she gives herself for that instant, she does not voice it.
+
+“A puppet would have been considerably less expensive,” she says. “And would not have delivered your results.”
+
+There is a small smile at the corner of her mouth. Her composure has returned, but she studies you with greater attention now.
+
+“Yes. Latitude is agreeable. Let us make it useful.”
+
+She turns towards the secretary.
+
+“Lord Orsival is to determine the methods, internal organisation and technical direction of undertakings entrusted to him, within their authorised funds and purpose. Routine decisions are not to return to my desk merely because someone would prefer another signature.”
+
+The pen begins moving again.
+
+“He may require the relevant offices to nominate responsible officers and provide the records and assistance necessary for those undertakings. Where access is restricted, the responsible official will arrange suitable access or give a specific reason for refusal. Disputes will come directly to me.”
+
+She looks back at you.
+
+“You will have leverage. An official who obstructs your work will have to defend that decision before the person who commissioned it.”
+
+Vaucerin inclines his head.
+
+“For military programmes, I can designate the liaison and supporting staff in the orders. That will spare us arguments over who is expected to answer him.”
+
+“Do so,” Odrienne replies.
+
+She moves away from the table by a single pace, considering you without the paper between you.
+
+“I will also receive your proposals directly, including proposals that the relevant ministry dislikes. You need not secure its enthusiasm before I hear you.”
+
+Your deliberate ease continues to fill the room. She speaks now as though the arrangement is an opportunity she has recognised and chosen for herself.
+
+“New expenditure, changes of national policy and operational military orders remain decisions of the Crown and its appointed command. Within the work I authorise, I expect you to exercise judgement. If circumstances require a material change of purpose, tell me. I have no wish to discover that an engineering appropriation has become a foreign war.”
+
+There is dry humour in the last sentence, though her eyes remain steady.
+
+“Nor do I require you to agree with me in private. Advice that arrives already trimmed to whatever its author thinks I wish to hear is of very little value.”
+
+She returns to the table and draws the secretary’s working sheet towards her. After reading the clauses, she adds a brief instruction in her own hand.
+
+“Enter the appointment from this evening. Prepare the instrument for my signature, and circulate the notice to the Chancery and the Marshal’s office.”
+
+The secretary bows his head.
+
+“Yes, Excellency.”
+
+Odrienne sets down the pen.
+
+“There, Lord Orsival. You have the office, direct access, and discretion over the work entrusted to you.”
+
+Her smile is warmer now, almost proprietary.
+
+“What shall we put in your hands first?”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years and 3 months, plus roughly two weeks; exact birthday unknown  
+**Date:** 12/11/0068 AC43, evening  
+**Reputation:** Newly appointed Royal Advisor; royal technical commissioner with the Marshal’s support  
+**Weapons (Equipped):** None  
+**Armor/Clothing (Equipped):** Charcoal coat, shirt, dark trousers and leather boots; travel-worn  
+**Gear/Inventory:** Personal effects and secured private notebooks; retained copies of training and intelligence papers  
+**Currency:** 659 Lorrats personal; household funds separate
+
+
+## Live continuation — User — Request Crown authority and initiative
+
+"Please do explain to me your Excellency how you believe me to work with latitude without the authority of the Crown? What point is the office of Royal *I heavily extend the word* Advisor, if they possess only the ability to conduct work entrusted to them. That would be a puppet. Not an advisor." I say while maintaining my psychic pressure of ease and comfort but I change my tone so it is more paternal, I keep the condescending edge from it but I reconsider my opinion of the Margrave and decide it would be better to speak to Nobility in terms a child can understand. "If you have a solution to surviving the next battle with Caldrienne or surviving the next Culling I am eager too hear it. If not, perhaps it would be wise to allow me to work within the parameters I have asked for."
+
+## Live continuation — Assistant — Standing Crown mandate
+
+Odrienne listens to the last word without interrupting.
+
+The comfort you press into the room holds. Her shoulders remain relaxed; the secretary looks from her to you, waiting. Yet her gaze sharpens at the deliberate weight you place upon *Royal*.
+
+“You want the power to identify what must be done and begin doing it,” she says. “Without waiting for me to place each undertaking before you.”
+
+Vaucerin glances towards the unfinished instrument.
+
+“The wording makes him the director of our existing projects,” he says. “What he is asking for is a standing mandate.”
+
+“Yes,” Odrienne replies, still looking at you. “I hear him.”
+
+She takes the sheet from the secretary and reads the paragraph she dictated. For several moments there is only the small crackle of the fire.
+
+“No. I do not have a plan that promises us victory over the Hunters. Against Caldrienne, I have soldiers, defences and preparations which the Marshal and I intend to improve. Your work has already contributed to that.”
+
+She places the sheet down.
+
+“I will give you authority to pursue those improvements on your own initiative.”
+
+Her attention moves to the secretary.
+
+“Add a standing Crown mandate for the examination and improvement of national industry, infrastructure and defensive preparedness. Lord Orsival may initiate inspections and investigations, convene the responsible officials, require relevant returns, and establish programmes for consideration without a separate instruction from this office.”
+
+The secretary begins a new paragraph.
+
+“He may issue directions in my name to the personnel and facilities assigned to that mandate, and commence work using its authorised resources. The commission is to state that these are delegated Crown powers, not requests for voluntary cooperation.”
+
+Odrienne turns back to you.
+
+“That will let you discover a failing before someone chooses to report it, assemble the people capable of correcting it, and put them to work where the means have been provided. You will not need to ask whether you are permitted to think beyond the rifle programme.”
+
+Vaucerin speaks again.
+
+“We should provide for urgent findings. Something that cannot sensibly wait for the next ordinary submission.”
+
+“Direct access to me, at once,” she answers. “And a written response from any office claiming it cannot comply. I will not have a disputed instruction disappear into correspondence.”
+
+Her fingers rest on the edge of the table.
+
+“If you need resources we have not assigned, bring me the requirement. If an undertaking requires powers beyond this mandate, bring me that requirement as well. I can delegate authority. I cannot make an empty treasury pay a bill by changing the title on your papers.”
+
+There is no raised voice, and your influence keeps the exchange almost intimate. She has nevertheless stopped smiling.
+
+“You may advise me on any matter affecting the March. This standing executive mandate covers the fields we have named. Command of an army in the field, new taxes and commitments binding the nation abroad remain separately authorised. Those distinctions will be written plainly, so that neither you nor an obstructive official can be left guessing.”
+
+She slides the amended sheet towards the centre of the table.
+
+“The earlier wording was too narrow for what you intend. This gives you initiative and the Crown’s authority to act within a continuing remit. Now tell me what people, premises and funds you require to make that authority effective.”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years and 3 months, plus roughly two weeks; exact birthday unknown  
+**Date:** 12/11/0068 AC43, evening  
+**Reputation:** Royal Advisor; standing delegated Crown mandate authorised, formal instrument being amended  
+**Weapons (Equipped):** None  
+**Armor/Clothing (Equipped):** Charcoal coat, shirt, dark trousers and leather boots; travel-worn  
+**Gear/Inventory:** Personal effects and secured private notebooks; retained copies of training and intelligence papers  
+**Currency:** 659 Lorrats personal; household funds separate

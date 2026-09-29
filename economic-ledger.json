@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 73,
+  "revision": 74,
   "baseline": {
     "label": "Year 67 AC43 \u2014 21/10/0067 AC43",
     "scene": "Auvrienne Collegium, evening before departure",
@@ -39,7 +39,7 @@
     "replaces_temporary_modifier",
     "source"
   ],
-  "last_review_date": "06/11/0068 AC43",
+  "last_review_date": "12/11/0068 AC43",
   "reviews": [
     {
       "dates": [
@@ -82,6 +82,12 @@
         "06/11/0068 AC43"
       ],
       "finding": "No new general price shock. Second-day training consumes existing stock; continuing staff and commission accrual are recorded once. Requested ordinary-ammunition replenishment has no confirmed quantity, valuation or issue yet."
+    },
+    {
+      "dates": [
+        "12/11/0068 AC43"
+      ],
+      "finding": "Existing regional/category indices retained. Seven-day training completed; payroll accrued through return, with no new payday, stock issue or price shock. Royal Advisor appointed without new pay or appropriation; incremental return transport remains unpriced."
     }
   ]
 }

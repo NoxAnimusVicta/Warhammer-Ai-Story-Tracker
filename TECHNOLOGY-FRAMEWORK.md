@@ -6,7 +6,7 @@ Reference date: **05/11/0068 AC43**. This is an authorial framework for the camp
 
 The catalogue groups enabling capabilities into broad eras for navigation. A nation can have advanced medicine, imported aircraft, excellent craftwork and weak motor manufacture simultaneously. No overall age or progress percentage replaces that information. Not every species requires fire, steel, electronics or psychic powers in the same order: biological, psychic and unfamiliar xenos implementations may provide alternative solutions. The listed prerequisites are proposed engineering foundations for the described route, not universal laws or canon manufacturing schematics. Record an alternative route and its evidence when demonstrated.
 
-Each capability tracks **operation**, **understanding**, **production and repair**, **adoption**, and **evidence** independently. Buying equipment can establish use while leaving manufacture unresolved. A captured component may enable a hybrid prototype without unlocking its supply chain. A working prototype does not imply reliable factory output; a capable factory does not imply nationwide deployment. Repair limits belong in production/repair notes until evidence supports independent reproduction. No number of accumulated research points grants a technology.
+Each capability tracks **operation**, **understanding**, **production and repair**, **deployment and use**, and **evidence** independently. Buying equipment can establish use while leaving manufacture unresolved. A captured component may enable a hybrid prototype without unlocking its supply chain. A working prototype does not imply reliable factory output; a capable factory does not imply nationwide deployment. Repair limits belong in production/repair notes until evidence supports independent reproduction. No number of accumulated research points grants a technology.
 
 Use the catalogue IDs across projects so tested materials, tools, processes and principles carry forward. The rifle and shoulder-caster versions of a plasma family inherit the relevant shared work; mounting and control can remain separate. See [research progression](RESEARCH-PROGRESSION.md) for Galahad's research methodology and conditional time bands.
 
@@ -20,9 +20,9 @@ Malaspina has no established native nuclear industry, advanced human relic indus
 
 ## Progress and yearly updates
 
-Ordinary annual efficiency and adoption forecasts remain attached to each practical field. They describe incremental improvement in existing production and potential spread of a demonstrated method, not an annual chance to unlock the next era. Actual adoption requires a defined eligible population/industry, starting coverage and closing coverage. Actual production should record facilities, trained staff, output, quality, cost and imported dependencies when known. Do not invent exact adoption percentages where evidence is missing.
+Ordinary annual efficiency and annual-spread forecasts remain attached to each practical field. They describe incremental improvement in existing production and potential spread of a demonstrated method, not an annual chance to unlock the next era. Actual deployment requires a defined eligible population/industry, starting coverage and closing coverage. Actual production should record facilities, trained staff, output, quality, cost and imported dependencies when known. Do not invent exact deployment percentages where evidence is missing.
 
-Before every year rollover, review all 43 capability records for discoveries, production, adoption, dependencies, losses and reconciliation with national accounts. Record changes in technology-register.json events with unique IDs, dates, old/new records and reasons. Future events remain unapplied; duplicate events, stale old values and missing annual reviews stop the build. Repeated builds never create additional progress. Missing capability rows can be added deliberately with documented evidence; an event updates an existing row, rather than silently creating knowledge.
+Before every year rollover, review all 43 capability records for discoveries, production, deployment and use, dependencies, losses and reconciliation with national accounts. Record changes in technology-register.json events with unique IDs, dates, old/new records and reasons. Future events remain unapplied; duplicate events, stale old values and missing annual reviews stop the build. Repeated builds never create additional progress. Missing capability rows can be added deliberately with documented evidence; an event updates an existing row, rather than silently creating knowledge.
 
 Cullings, fighting, trade disruption and loss of skilled people can reduce manufacture, access or retained knowledge separately. Losses need recorded causes. Imported machines can keep operating after domestic production fails; preserved theory may survive destroyed factories. Conversely, a secret archive does not itself restore industrial capacity. Economic progress already counted in national output must not be counted twice when recording technical gains.
 
@@ -231,7 +231,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Heavy engineering, railway equipment and general manufactures; coal and processed fuel exports. Provincial consent slows concentration; major arsenals and railway junctions remain irreplaceable targets.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -329,7 +329,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Grain distribution, military stores and arsenal production. Mass manpower outstrips motor transport; imported precision machinery constrains arsenal expansion.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -427,7 +427,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Precision instruments, electrical apparatus and overseas commerce. Trade interruption threatens fuel and food imports; its skilled workforce is difficult to replace.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -525,7 +525,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Water engineering, agricultural processing and industrial chemistry. Water allocation and estate vetoes complicate mobilisation; river freight is sensitive to damaged locks.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -623,7 +623,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Frontier logistics, armaments repair and estate agriculture. Arms and credit depend on competing patrons; prolonged mobilisation drains agricultural labour.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -721,7 +721,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Metallurgy, machine tools and factory production. Exposed frontier factories and food imports limit a long war despite excellent machine-tool output.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -819,7 +819,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Competing provincial administrations, workshops and military supply; divided coalfields and petroleum districts. Combined rival returns; no common treasury, staff or army. Rail gauges, tolls and civil fighting fragment capacity.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -917,7 +917,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Valley agriculture, timber and stronghold supply. Winter supply and dispersed valley garrisons consume most available transport.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -1015,7 +1015,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Ore processing, specialist steels, bearings and durable machinery. Specialist foundries are strong; grain imports and seasonal routes make an extended blockade dangerous.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -1113,7 +1113,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Field medicine, communications and scholarly traditions. Small arsenals and scattered teaching houses constrain scale; trained wardens excel locally rather than in mass campaigns.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -1211,7 +1211,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. River freight, milling and agricultural exchange. Seasonal navigation and dependence on imported fuels limit sustained operations away from rivers.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -1309,7 +1309,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Maritime freight, ship maintenance and naval supply. Sea lanes carry its power; inland movement is slow and there is no through railway to eastern Vesalius.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -1407,7 +1407,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Northern arsenals, estate production and military provisioning; coalfields and fuel refining. The Averholt frontier and northern garrisons tie down formations; large armies cannot simply redeploy to the Marches.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -1505,7 +1505,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Basin agriculture, internal trade and provincial engineering. Provincial bargains and the Vardol frontier absorb resources; interior transport has limited spare capacity.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -1603,7 +1603,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Civil administration, filtration and chemical workshops, repair shops and commercial services. The republic controls only its own districts. Varnelle, Kelbrun and Gavrel have separate forces and revenues; old charter claims confer no authority over them.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -1701,7 +1701,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Delta freight, customs, filtration and processing trades. Delta channels, customs dependence and disputed upstream water access constrain resilience.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -1799,7 +1799,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Upriver freight, plantation produce and agricultural machinery. Plantation levies are numerous but unevenly equipped; imported engines and fuel remain essential.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -1897,7 +1897,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. March provisioning, rural estates and frontier workshops. Household loyalties divide command; repair workshops cannot replace large losses of imported equipment.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -1995,7 +1995,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Tropical produce, timber concessions, harbour handling and coastal escorts. Canton tolls and planter credit divide the export trade. Escort flotillas answer to their sponsors; the combined manpower is not one army.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -2093,7 +2093,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Wool, preserved provisions, upland cartage and small estate workshops. Rights of passage change between courts. Winter fodder and incompatible toll privileges limit concentration more than nominal levy strength.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -2191,7 +2191,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Irrigated grain, mill machinery, fertiliser works and inland water freight. Water commands hold separate troops. A damaged gate or withheld release can disable production without an invading army taking the towns.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -2289,7 +2289,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Export warehousing, coastal shipping, food processing and commercial credit. Port conventions facilitate cargo, not military command. Inland debt disputes and foreign shipping insurance expose the region to commercial pressure.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -2387,7 +2387,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Coal export concessions, timber, extraction machinery and contract transport. Company forces protect particular assets. Charter disputes, imported food and dependence on Varnesk equipment undermine any combined mobilisation.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -2485,7 +2485,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Convoy staging, cold-weather stores, fortress repair and imported-grain distribution. Most personnel guard their own supply districts. Winter fuel and food reserves impose strict limits on campaigning beyond the wardholds.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -2583,7 +2583,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Fishing, timber, estate workshops and seasonal coastal freight. Port and estate forces obey different officers. Agricultural limits and dependence on Halskert grain make freight disruption especially costly.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -2681,7 +2681,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Textile finishing, estate produce, bonded warehousing and wagon repair. Foreign clients subsidise rival toll houses. Local garrisons cannot be added together as an expeditionary force without renegotiating their obligations.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -2779,7 +2779,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Grain storage, warm-climate produce, food processing and inter-canton brokerage. Military governors and elected market boards compete for transport and stores. Requisition disputes can immobilise a nominally available reserve.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -2877,7 +2877,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Pilotage, coastal provisions, fishing and inland agricultural markets. Small communes lack a shared naval command. Poorly charted harbours, seasonal labour and interrupted inland roads limit the usable export surplus.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -2975,7 +2975,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Mining, military engineering and defended-pass supply. Strong pass defence and mining; food and coastal export access depend on neighbours. Councils control separate contingents.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -3073,7 +3073,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Agriculture, artillery production and armoured-vehicle workshops. Largest eastern tank arm, but fuel imports and the armed truce impose costs; offensive forces cannot strip all garrisons.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -3171,7 +3171,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Railway engineering, port trade and municipal industry. Chartered houses, municipal funding and freight bottlenecks constrain command; machinery and fuel imports matter.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -3269,7 +3269,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Shipping, banking, shipyards and maritime manufactures. Strong finance and convoy support; imported food and fuel expose it to interdiction and merchant-family disputes.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -3367,7 +3367,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Coastal trade, fishing, naval maintenance and convoy services. Experienced coastal crews and minelayers; small population, grain imports and fuel dependence rule out a large land war.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -3465,7 +3465,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Pilotage, coaster construction, wool and preserved fruit. Imported engines, medicine and bunker fuel; island votes limit emergency taxation.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -3563,7 +3563,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Fish curing, fruit and fibre exports, west-coast resupply. External firms dominate commercial credit and shipping; contested leases and imported machinery.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -3661,7 +3661,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Ocean navigation, grain terraces, textiles and marine repairs. No integrated heavy steel industry; outer-island levies require compact consent.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -3759,7 +3759,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Wool, grain, preserved fish and southern provisioning. Storm-season isolation, limited machine shops and disputed crown leases.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -3857,7 +3857,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Cold-water fisheries, wool, rescue pilotage and wooden boats. Short growing season, scarce imported fuel and little heavy repair capacity.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -3955,7 +3955,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Marine repairs, insurance, food processing and pump manufacture. Imported plate and refined fuel; merchant finance and outer-island representation remain contentious.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -4053,7 +4053,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Irrigated crops, fibres, plant oils, reef navigation and small-craft repair. Limited heavy industry and medical imports; dispersed councils cannot mobilise as a centralised mass army.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -4151,7 +4151,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Textiles, processed crops, coastal shipbuilding and customs administration. Imported machinery and fuel; royal borrowing requires assembly consent.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -4249,7 +4249,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Timber, preserved fish, weather stations and regional resupply. Seasonal northern access, disputed concessions and dependence on imported grain and machinery.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 
@@ -4347,7 +4347,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 05/11/0068 AC43. Northern pilotage, fisheries, hides and refuge services. Short shipping season, imported grain and almost no industrial depth.
 
-| Capability | Operation | Understanding | Production | Adoption | Evidence |
+| Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
 |---|---|---|---|---|---|
 

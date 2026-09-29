@@ -1,4 +1,18 @@
 {
-  "events": [],
+  "events": [
+    {
+      "id": "veyrasse-royal-advisor-0068-11-12",
+      "date": "12/11/0068 AC43",
+      "polity": "veyrasse",
+      "reason": "Enacted appointment and standing Crown mandate, following completed pilot production and company training.",
+      "source": "ROYAL-COMMISSION.md; VEYRASSE-LEADERSHIP.md; exact 12/11 audience scenes in story-transcript.md",
+      "changes": {
+        "authority": {
+          "old": "The sovereign directs diplomacy, appoints senior officials and issues executive orders. New revenues, provincial obligations and lawful succession remain subject to the recorded charter or compact; personal will does not create available resources.",
+          "new": "The sovereign directs diplomacy, appoints senior officials and issues executive orders. New revenues, provincial obligations and lawful succession remain subject to the recorded charter or compact; personal will does not create available resources. From 12/11/0068, Royal Advisor Lord Galahad Orsival holds standing delegated authority over industry, infrastructure and defensive preparedness: initiate inquiries, require returns and direct assigned resources, with urgent access and disputes escalated to the Margrave. Field-army command, taxation and binding foreign commitments remain separately authorised. Additional office resources are unsettled. His age, appearance and personality are recorded in VEYRASSE-LEADERSHIP.md and the dossier; he is a transhuman founder, not subject to the ordinary human mortality model."
+        }
+      }
+    }
+  ],
   "annual_reviews": []
 }

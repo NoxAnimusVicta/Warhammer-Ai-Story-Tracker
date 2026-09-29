@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": 73,
-  "as_of": "06/11/0068 AC43",
+  "revision": 74,
+  "as_of": "12/11/0068 AC43",
   "source_exchanges": [
     544,
     599
@@ -111,15 +111,15 @@
       "materials_and_outside_work": 5400,
       "testing_and_handling": 758,
       "licence": 900,
-      "staff_payroll": 570,
-      "commission_remuneration": 100,
+      "staff_payroll": 750,
+      "commission_remuneration": 130,
       "ammunition_stock_issue": 620,
       "transport_and_handling": 96
     },
-    "recognised_total": 14094,
+    "recognised_total": 14304,
     "outstanding_commitments": 180,
-    "uncommitted": 3726,
-    "cash_vs_accrual": "Recognised costs include accrued payroll and valued ammunition stock issues; not all are cash paid. The 180 is an additional commitment. The 3726 is state headroom, not personal cash or profit. Consumed ammunition is deducted from issued stock and never purchased twice.",
+    "uncommitted": 3516,
+    "cash_vs_accrual": "Recognised costs include accrued payroll and valued ammunition stock issues, not solely cash paid. The 180 is an additional commitment. Recorded headroom 3516 is state provision, not personal cash or profit, and excludes the unpriced incremental return-transport exposure. Consumed ammunition is deducted from already-valued stock, never purchased twice.",
     "reconciliation": [
       {
         "date": "02/11/0068 AC43",
@@ -161,6 +161,35 @@
         "commitments": 180,
         "headroom": 3726,
         "basis": "Exchange 597: continuing daily staff payroll and commission accrual. No new ammunition issue or personal receipt."
+      },
+      {
+        "date": "11/11/0068 AC43",
+        "increments": {
+          "staff_07_11": 150,
+          "commission_07_11": 25
+        },
+        "recognised_total": 14269,
+        "commitments": 180,
+        "headroom": 3551,
+        "basis": "Five remaining training days; continuing established daily accruals, no new stock issue."
+      },
+      {
+        "date": "12/11/0068 AC43",
+        "increments": {
+          "staff_12": 30,
+          "commission_12": 5
+        },
+        "recognised_total": 14304,
+        "commitments": 180,
+        "headroom": 3516,
+        "basis": "Return and royal audience. Transport increment unpriced; no new personal payment or additional office appropriation."
+      }
+    ],
+    "unpriced_exposures": [
+      {
+        "date": "12/11/0068 AC43",
+        "description": "Incremental cost, if any, of Galahad and Serault returning on the commission-authorised resupply working; no personal fare. Obtain the transport valuation before treating all recorded headroom as available.",
+        "amount": null
       }
     ]
   },
@@ -174,7 +203,7 @@
     "unfinished": 0,
     "rework_queue": 0,
     "staff_completed_per_day_demonstrated": 12,
-    "status": "Military consignment delivered late 04/11; receipt and company issue completed 05/11. Production paused in Auvrienne, staff retained. House rifles still await delivery. No loss or damaged rifle established.",
+    "status": "Training completed 11/11; military rifles remain at Cressault with Desmaret. Galahad and Serault returned to Auvrienne 12/11 without taking rifles. Production remains paused; House delivery remains outstanding. No loss established.",
     "military_at_cressault": 187,
     "military_issued_to_company": 160,
     "military_reserve": 27
@@ -186,9 +215,10 @@
     "last_paid": "01/11/0068 AC43",
     "last_commission_payment": 70,
     "final_collegium_payment": 40,
-    "commission_accrued_unpaid": 30,
+    "commission_accrued_unpaid": 60,
     "next_due": "01/12/0068 AC43",
-    "next_full_month_if_service_continues": 150
+    "next_full_month_if_service_continues": 150,
+    "advisor_remuneration": "No new rate or additional salary settled; existing 150/month commission continues."
   },
   "consignment": {
     "lifetime_sales": 47,
@@ -219,14 +249,20 @@
         "date": "06/11/0068 AC43",
         "company_ordinary": 800,
         "total": 800
+      },
+      {
+        "date": "07\u201311/11/0068 AC43",
+        "company_ordinary": 1200,
+        "company_armour_piercing": 1600,
+        "total": 2800
       }
     ],
-    "spent_total": 2442,
-    "remaining_total": 9558,
-    "remaining_armour_piercing": 8000,
-    "remaining_ordinary": 1558,
+    "spent_total": 5242,
+    "remaining_total": 6758,
+    "remaining_armour_piercing": 6400,
+    "remaining_ordinary": 358,
     "valuation": "620 lorrats already recognised on issue; stock consumption is not a second financial charge.",
-    "pending_replenishment": "Serault has raised an ordinary-ammunition top-up through stores. Quantity and valuation must be presented before draw; no issue, payment or additional commitment recorded."
+    "pending_replenishment": "Earlier request unused: no additional issue, quantity, valuation, payment or commitment. Subsequent resupply remains ordinary unit responsibility."
   },
   "training": {
     "unit": "Captain Lucard Desmaret\u2019s regular company",
@@ -234,9 +270,24 @@
     "start": "05/11/0068 AC43",
     "end": "11/11/0068 AC43",
     "full_days": 7,
-    "completed_days": 2,
-    "remaining_days": 5,
-    "certification": "Initial progress only; full certification not yet given. Extension requires documented remaining training needs before expiry.",
-    "authority": "Galahad directs instruction and technical certification. Desmaret reports each morning and executes training directions, retaining discipline and administration. Frontier chain retains operational command."
+    "completed_days": 7,
+    "remaining_days": 0,
+    "certification": "Completed 11/11 with strong performance; NCOs can continue practice under Desmaret. Not a hostile combat demonstration or automatic elite combat experience.",
+    "authority": "The bounded 05\u201311/11 training assignment is complete. Desmaret retains company discipline and administration; the frontier chain retains operational command."
+  },
+  "source_scenes": [
+    "training-complete",
+    "return-marshal",
+    "margrave-offer",
+    "advisor-autonomy",
+    "advisor-mandate"
+  ],
+  "appointment": {
+    "office": "Royal Advisor",
+    "effective_date": "12/11/0068 AC43",
+    "status": "Effective by sovereign direction; formal instrument being amended, not yet signed or delivered.",
+    "mandate": "He may initiate inspections and investigations, convene responsible officials, require relevant returns and develop programmes without a separate commission. Directions in the Crown\u2019s name bind personnel and facilities assigned to the mandate; work may commence with authorised resources. Urgent findings receive immediate direct access to the Margrave; refusals require stated reasons and may be escalated to her. He may advise on any matter affecting the March. Field-army command, new taxes and binding foreign commitments require separate authorisation. Additional resources and powers must be provided; this is neither unlimited appropriation nor authority to seize every private asset. Existing manufacturing licence and intellectual-property rights remain unchanged.",
+    "resources": "Requirements requested; no new people, premises or funds allocated.",
+    "notices": "Circulation ordered, not confirmed."
   }
 }
