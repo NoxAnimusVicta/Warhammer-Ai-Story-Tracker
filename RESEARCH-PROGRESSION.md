@@ -1,6 +1,10 @@
 # Research progression — narrator reference
 
-Accepted campaign framework from exchanges 600–604. Consult before resolving research, reverse engineering, invention or a research time skip. This is narrator guidance, not an in-world document or a new capability acquired by Galahad. The latest enacted scene remains exchange 599, 06/11/0068 AC43 evening at district headquarters.
+Accepted campaign framework from exchanges 600–604. Consult before resolving research, reverse engineering, invention or a research time skip. This is narrator guidance, not an in-world document or a new capability acquired by Galahad. Current enacted status is maintained in CURRENT-CONTINUITY.md; the latest scene is the 12/11/0068 AC43 Royal Advisor audience in Auvrienne.
+
+## Deferred aviation city and carrier
+
+[Aviation industrial city and carrier planning](AVIATION-CITY-AND-CARRIER.md) preserves the player-approved concept art, inferred 300-metre working scale, 40–60-aircraft target, lifting-volume limitations, industrial-city scope, provisional costs and conditional schedule. The project is tabled: no site, funding, construction or technology breakthrough is enacted. Consult this reference before reviving or costing it; the earlier small-airbase estimate does not cover the intended undertaking.
 
 ## Capability atlas
 
