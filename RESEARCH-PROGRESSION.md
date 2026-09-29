@@ -8,7 +8,17 @@ Accepted campaign framework from exchanges 600–604. Consult before resolving r
 
 ## Capability atlas
 
-[Technology framework](TECHNOLOGY-FRAMEWORK.md) and technology-catalog.json organise capabilities across craft, industrial, advanced planetary, spacefaring and distinctive 40K branches. These are campaign reference categories, not a canonical universal tree or Galahad’s acquired knowledge. technology-register.json holds dated national operation, understanding, production and adoption records, evidence and annual reviews. Shared prerequisites carry across projects; imports can enable use without domestic reproduction.
+[Technology framework](TECHNOLOGY-FRAMEWORK.md) and technology-catalog.json organise capabilities across craft, industrial, advanced planetary, spacefaring and distinctive 40K branches. These are campaign reference categories, not a canonical universal tree or Galahad’s acquired knowledge. technology-register.json holds dated national operation, understanding, production, deployment and use records, evidence and annual reviews. Shared prerequisites carry across projects; imports can enable use without domestic reproduction.
+
+## Required age assessment before estimating time
+
+Use the age catalogue and research routes in [Technology framework](TECHNOLOGY-FRAMEWORK.md). Classify each component as refinement within an age, integration of known technologies, a genuinely new foundation, or a derivative that inherits established work. Identify Galahad's knowledge separately from what the local factories can manufacture. Never substitute a technology /5 score or a single universal development period.
+
+For a bounded familiar improvement to conventional gases, materials or machinery, hours or days of Galahad's analytical work can be appropriate. Testing may take longer for a stated physical reason. Discovering unfamiliar plasma systems is a different undertaking; the plasma bands below must never become default estimates for ordinary industrial advances. Nor does the word materials automatically mean an advanced-age breakthrough: the specific proposed composition and process decide that.
+
+Every substantive estimate must separate **research/design**, **validation/prototyping**, and **construction/industrial production**, identifying what can proceed concurrently. A long factory build does not imply slow comprehension. A quick design does not itself complete physical construction. For the deferred carrier, assess conventional gas cells, engines and structures using their existing branches, then isolate the unresolved lift/mass problem; do not assign alien-tech difficulty to the entire design.
+
+No age supplies a compulsory minimum research time. Use actual remaining dependencies and cumulative knowledge. Routine national yearly improvement concerns existing processes and spread of proven methods; new foundations require a dated discovery or acquisition, not automatic advancement at rollover. This framework changes estimates, not current capabilities, dates or funding.
 
 ## Controlling rule: research carries forward
 

@@ -4,11 +4,17 @@ Reference date: **05/11/0068 AC43**. This is an authorial framework for the camp
 
 ## A network, not one ladder
 
-The catalogue groups enabling capabilities into broad eras for navigation. A nation can have advanced medicine, imported aircraft, excellent craftwork and weak motor manufacture simultaneously. No overall age or progress percentage replaces that information. Not every species requires fire, steel, electronics or psychic powers in the same order: biological, psychic and unfamiliar xenos implementations may provide alternative solutions. The listed prerequisites are proposed engineering foundations for the described route, not universal laws or canon manufacturing schematics. Record an alternative route and its evidence when demonstrated.
+The catalogue groups enabling capabilities into technological ages that distinguish established foundations from new scientific and industrial requirements. A nation can have advanced medicine, imported aircraft, excellent craftwork and weak motor manufacture simultaneously. No overall age or progress percentage replaces that information. Not every species requires fire, steel, electronics or psychic powers in the same order: biological, psychic and unfamiliar xenos implementations may provide alternative solutions. The listed prerequisites are proposed engineering foundations for the described route, not universal laws or canon manufacturing schematics. Record an alternative route and its evidence when demonstrated.
 
 Each capability tracks **operation**, **understanding**, **production and repair**, **deployment and use**, and **evidence** independently. Buying equipment can establish use while leaving manufacture unresolved. A captured component may enable a hybrid prototype without unlocking its supply chain. A working prototype does not imply reliable factory output; a capable factory does not imply nationwide deployment. Repair limits belong in production/repair notes until evidence supports independent reproduction. No number of accumulated research points grants a technology.
 
 Use the catalogue IDs across projects so tested materials, tools, processes and principles carry forward. The rifle and shoulder-caster versions of a plasma family inherit the relevant shared work; mounting and control can remain separate. See [research progression](RESEARCH-PROGRESSION.md) for Galahad's research methodology and conditional time bands.
+
+## Applying ages to research estimates
+
+Before giving a research estimate, identify the target age and branch, Galahad's existing knowledge, available industry and the actual missing foundations. Use the research routes below. Ages must change the assessment, not merely label the archive. Familiar gases, alloys and machinery are not assigned the research burden of unfamiliar Hunter plasma systems.
+
+Keep research/design, experimental validation and industrial delivery separate. Extraordinary cognition can compress familiar design work into hours or days without making a city appear overnight. Conversely, construction lead times must not be presented as years needed to understand an ordinary machine. Age is a dependency framework, not a universal timer or a limit on individual intellect.
 
 ## Initial national assessments
 
@@ -39,9 +45,55 @@ The catalogue's detailed dependency links are campaign extrapolations. The sourc
 The former personal-sigil panel is withdrawn. Galahad and House Orsival have no adopted heraldry assigned by this artwork. The original PNGs remain preserved as app icon/header branding and future visual concepts; adopting any of them within the story requires a later player decision. No emblem is retroactively placed on clothing, property or military equipment. Historical transcript entries are preserved verbatim.
 
 
-## Foundations & craft
+## Research routes through the ages
+
+### Refinement within an age
+
+Improve a known process or design using established principles. For Galahad, a bounded familiar design problem may take hours or days; physical trials have their own duration. Do not impose the timetable for discovering alien plasma technology.
+
+Improve a conventional gas cell, alloy recipe, engine layout or workshop process.
+
+### Integration of known technologies
+
+Combine established components into a new system. Research concerns interfaces and performance, while prototype testing, scale and construction are estimated separately. Large size alone does not make every component a new scientific discovery.
+
+The carrier combines conventional aviation and structural branches; its unresolved lift and mass balance must be assessed separately from ordinary materials improvements.
+
+### A new foundation or age transition
+
+Name the missing principle or production process, the evidence available and the tools needed to test it. Estimate those gaps rather than assigning a fixed waiting period for the whole age. Galahad can cross branches without first industrialising an entire nation.
+
+Independent Hunter plasma manufacture requires resolving the unfamiliar power, containment, materials and control systems that remain after his existing emitter research.
+
+### Transfer and derivative design
+
+Carry established knowledge and production methods into every relevant application. Charge only for changed requirements; never repeat a completed breakthrough or its full development period.
+
+A shoulder caster inherits relevant plasma-rifle research; mounting, aiming and wearer interfaces are separate remaining work.
+
+## Required project assessment
+
+- Target capability and age or specialist branch
+
+- Relevant knowledge already held by Galahad
+
+- Available national production and imported dependencies
+
+- Remaining unfamiliar principles, evidence and processes
+
+- Research and design time
+
+- Validation and prototype time
+
+- Construction and repeatable production time
+
+- Knowledge transferred to other projects
+
+## Craft Age
 
 Food systems, record keeping, materials, hand tools and water management. Societies may borrow, rediscover or bypass particular techniques; this is not a compulsory cultural sequence.
+
+Established craft principles can be recombined rapidly. Local production may still depend on manual labour and scarce skilled craftspeople.
 
 | Capability | Field | Enabling foundations |
 
@@ -73,9 +125,11 @@ Food systems, record keeping, materials, hand tools and water management. Societ
 
 | Records & technical teaching | learning | No fixed predecessor |
 
-## Mechanical & early industrial
+## Mechanical & Early Industrial Age
 
 Reliable mechanical power, precision workshops, organised supply and bulk production. Imported plant may coexist with local craft.
+
+Mechanisation, standardisation and precision tooling enable repeatable production. Improving an understood machine is distinct from building the factories that reproduce it.
 
 | Capability | Field | Enabling foundations |
 
@@ -109,9 +163,11 @@ Reliable mechanical power, precision workshops, organised supply and bulk produc
 
 | Technical standards & printing | learning | Records & technical teaching; Machine tools & metrology |
 
-## Electrified & mechanised industry
+## Electrical & Mechanised Age
 
 Conventional electrical, chemical and transport industries. This is Malaspina’s current native technological envelope, with unequal national capacity and access.
+
+Conventional gases, fuels, alloys, engines and airframes belong here where their underlying processes are established. Refinement is normally work within the age, not a plasma-scale scientific breakthrough.
 
 | Capability | Field | Enabling foundations |
 
@@ -153,9 +209,11 @@ Conventional electrical, chemical and transport industries. This is Malaspina’
 
 | Experimental laboratories | learning | Technical standards & printing; Electrical generation & distribution |
 
-## Advanced planetary industry
+## Advanced Planetary Age
 
 Possible developments beyond established local practice: advanced electronics, nuclear energy, sophisticated materials and medicine. These entries are not automatically available anywhere on Malaspina.
+
+Identify the particular new material, measurement method, electronic process or biological principle required. A familiar improvement is not promoted into this age merely because it performs unusually well.
 
 | Capability | Field | Enabling foundations |
 
@@ -173,9 +231,11 @@ Possible developments beyond established local practice: advanced electronics, n
 
 | Industrial automation | consumer | Advanced electronics & cogitators; Interchangeable precision components |
 
-## Spacefaring & high-energy systems
+## Spacefaring & High-Energy Age
 
 Orbital and interplanetary infrastructure, compact high-energy equipment and specialised fields. Individual applications need their own scale, reliability and manufacturing records.
+
+Compact plasma, shielding, gravitic systems and void infrastructure can require foundations absent from native industry. Borrowed devices can enable operation before independent manufacture; solve each missing foundation separately.
 
 | Capability | Field | Enabling foundations |
 
@@ -199,9 +259,11 @@ Orbital and interplanetary infrastructure, compact high-energy equipment and spe
 
 | Advanced cybernetics | medicine | Advanced biotechnology; Advanced electronics & cogitators |
 
-## Distinctive 40K branches
+## Specialist 40K Branches
 
 Psychic engineering, warp systems, exotic xenos sciences and lost human systems. These branches are alternatives, not one universal final age or guaranteed unlock sequence.
+
+Psychic, warp, Necron and other specialist routes have their own dependencies. They are not a compulsory sixth age; psychic traditions can coexist with craft societies.
 
 | Capability | Field | Enabling foundations |
 

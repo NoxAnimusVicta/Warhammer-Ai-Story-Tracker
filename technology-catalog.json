@@ -3,33 +3,39 @@
   "eras": [
     {
       "id": "foundations",
-      "name": "Foundations & craft",
-      "description": "Food systems, record keeping, materials, hand tools and water management. Societies may borrow, rediscover or bypass particular techniques; this is not a compulsory cultural sequence."
+      "name": "Craft Age",
+      "description": "Food systems, record keeping, materials, hand tools and water management. Societies may borrow, rediscover or bypass particular techniques; this is not a compulsory cultural sequence.",
+      "research": "Established craft principles can be recombined rapidly. Local production may still depend on manual labour and scarce skilled craftspeople."
     },
     {
       "id": "mechanical",
-      "name": "Mechanical & early industrial",
-      "description": "Reliable mechanical power, precision workshops, organised supply and bulk production. Imported plant may coexist with local craft."
+      "name": "Mechanical & Early Industrial Age",
+      "description": "Reliable mechanical power, precision workshops, organised supply and bulk production. Imported plant may coexist with local craft.",
+      "research": "Mechanisation, standardisation and precision tooling enable repeatable production. Improving an understood machine is distinct from building the factories that reproduce it."
     },
     {
       "id": "mechanised",
-      "name": "Electrified & mechanised industry",
-      "description": "Conventional electrical, chemical and transport industries. This is Malaspina’s current native technological envelope, with unequal national capacity and access."
+      "name": "Electrical & Mechanised Age",
+      "description": "Conventional electrical, chemical and transport industries. This is Malaspina’s current native technological envelope, with unequal national capacity and access.",
+      "research": "Conventional gases, fuels, alloys, engines and airframes belong here where their underlying processes are established. Refinement is normally work within the age, not a plasma-scale scientific breakthrough."
     },
     {
       "id": "advanced",
-      "name": "Advanced planetary industry",
-      "description": "Possible developments beyond established local practice: advanced electronics, nuclear energy, sophisticated materials and medicine. These entries are not automatically available anywhere on Malaspina."
+      "name": "Advanced Planetary Age",
+      "description": "Possible developments beyond established local practice: advanced electronics, nuclear energy, sophisticated materials and medicine. These entries are not automatically available anywhere on Malaspina.",
+      "research": "Identify the particular new material, measurement method, electronic process or biological principle required. A familiar improvement is not promoted into this age merely because it performs unusually well."
     },
     {
       "id": "space",
-      "name": "Spacefaring & high-energy systems",
-      "description": "Orbital and interplanetary infrastructure, compact high-energy equipment and specialised fields. Individual applications need their own scale, reliability and manufacturing records."
+      "name": "Spacefaring & High-Energy Age",
+      "description": "Orbital and interplanetary infrastructure, compact high-energy equipment and specialised fields. Individual applications need their own scale, reliability and manufacturing records.",
+      "research": "Compact plasma, shielding, gravitic systems and void infrastructure can require foundations absent from native industry. Borrowed devices can enable operation before independent manufacture; solve each missing foundation separately."
     },
     {
       "id": "esoteric",
-      "name": "Distinctive 40K branches",
-      "description": "Psychic engineering, warp systems, exotic xenos sciences and lost human systems. These branches are alternatives, not one universal final age or guaranteed unlock sequence."
+      "name": "Specialist 40K Branches",
+      "description": "Psychic engineering, warp systems, exotic xenos sciences and lost human systems. These branches are alternatives, not one universal final age or guaranteed unlock sequence.",
+      "research": "Psychic, warp, Necron and other specialist routes have their own dependencies. They are not a compulsory sixth age; psychic traditions can coexist with craft societies."
     }
   ],
   "nodes": [
@@ -731,5 +737,59 @@
       ],
       "scope": "A separate branch with faction-specific implementations and restrictions; neither mandatory nor locally established."
     }
+  ],
+  "research_routes": [
+    {
+      "name": "Refinement within an age",
+      "rule": "Improve a known process or design using established principles. For Galahad, a bounded familiar design problem may take hours or days; physical trials have their own duration. Do not impose the timetable for discovering alien plasma technology.",
+      "example": "Improve a conventional gas cell, alloy recipe, engine layout or workshop process.",
+      "nodes": [
+        "refining",
+        "alloys",
+        "airframe",
+        "aeroengine"
+      ]
+    },
+    {
+      "name": "Integration of known technologies",
+      "rule": "Combine established components into a new system. Research concerns interfaces and performance, while prototype testing, scale and construction are estimated separately. Large size alone does not make every component a new scientific discovery.",
+      "example": "The carrier combines conventional aviation and structural branches; its unresolved lift and mass balance must be assessed separately from ordinary materials improvements.",
+      "nodes": [
+        "airframe",
+        "aeroengine",
+        "structures",
+        "alloys"
+      ]
+    },
+    {
+      "name": "A new foundation or age transition",
+      "rule": "Name the missing principle or production process, the evidence available and the tools needed to test it. Estimate those gaps rather than assigning a fixed waiting period for the whole age. Galahad can cross branches without first industrialising an entire nation.",
+      "example": "Independent Hunter plasma manufacture requires resolving the unfamiliar power, containment, materials and control systems that remain after his existing emitter research.",
+      "nodes": [
+        "plasma",
+        "plasma_power",
+        "advancedmaterials",
+        "sensors"
+      ]
+    },
+    {
+      "name": "Transfer and derivative design",
+      "rule": "Carry established knowledge and production methods into every relevant application. Charge only for changed requirements; never repeat a completed breakthrough or its full development period.",
+      "example": "A shoulder caster inherits relevant plasma-rifle research; mounting, aiming and wearer interfaces are separate remaining work.",
+      "nodes": [
+        "plasma",
+        "sensors"
+      ]
+    }
+  ],
+  "estimate_fields": [
+    "Target capability and age or specialist branch",
+    "Relevant knowledge already held by Galahad",
+    "Available national production and imported dependencies",
+    "Remaining unfamiliar principles, evidence and processes",
+    "Research and design time",
+    "Validation and prototype time",
+    "Construction and repeatable production time",
+    "Knowledge transferred to other projects"
   ]
 }
