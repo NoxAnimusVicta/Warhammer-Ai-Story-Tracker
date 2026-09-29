@@ -10,6 +10,12 @@ Accepted campaign framework from exchanges 600–604. Consult before resolving r
 
 [Technology framework](TECHNOLOGY-FRAMEWORK.md) and technology-catalog.json organise capabilities across craft, industrial, advanced planetary, spacefaring and distinctive 40K branches. These are campaign reference categories, not a canonical universal tree or Galahad’s acquired knowledge. technology-register.json holds dated national operation, understanding, production, deployment and use records, evidence and annual reviews. Shared prerequisites carry across projects; imports can enable use without domestic reproduction.
 
+## Meaning of research time
+
+When the player asks how long research takes, answer with **research and design time only**: analysis, theoretical development, calculations and design documentation. Separately label physical experimentation and validation, prototype fabrication, industrial tooling, construction and production. Do not include those stages silently in a research estimate or use a combined development timeline as its answer. If new experimental evidence is necessary, identify the dependency and its separate waiting/testing time explicitly. Distinguish an untested theoretical solution from validated performance without withholding credit for the research itself.
+
+For the carrier, the provisional research-only estimate is **1–3 local months** of concentrated work, using accumulated knowledge. Familiar improvements may take days to two weeks, followed by overlapping integration and remaining theoretical work. This excludes physical testing and all production. A genuinely new lifting or power principle, if required, needs its own estimate. See [the carrier reference](AVIATION-CITY-AND-CARRIER.md). The earlier 6–12-month combined answer is not the research-only estimate.
+
 ## Required age assessment before estimating time
 
 Use the age catalogue and research routes in [Technology framework](TECHNOLOGY-FRAMEWORK.md). Classify each component as refinement within an age, integration of known technologies, a genuinely new foundation, or a derivative that inherits established work. Identify Galahad's knowledge separately from what the local factories can manufacture. Never substitute a technology /5 score or a single universal development period.
@@ -54,13 +60,15 @@ The original platform of the isolated emitter examined at Drossane remains unres
 
 The following are campaign planning bands for present Galahad, in local elapsed time, assuming unrestricted study of a functioning example with its necessary supply, controlled tests and appropriate research support. They are not canon specifications, completed work or automatic countdowns.
 
-| Research target | Conditional planning band |
+| Development milestone (not all research-only) | Conditional planning band |
 |---|---|
 | Establish operation and identify major functional systems | Hours to a few days |
 | Substantial tested understanding of the complete weapon | Approximately 1–4 weeks |
 | Useful maintenance or adaptation retaining advanced Hunter components | Several weeks to a few months, depending on the change |
 | Independently manufactured equivalent | Months to years; 6–24 months is an illustrative band only where resources and missing industrial processes can be developed |
 | Hunter-level compactness, reliability and repeatable manufacture | Assess separately from demonstrated prototype and supply-chain progress |
+
+The tested-understanding band includes validation; adaptation and independent manufacture include physical work. None is a pure analytical-research duration. Estimate research alone separately when requested.
 
 Do not depict years of empty incomprehension as the default. A working example should produce substantial early insight. Conversely, the table does not award unavailable industrial facilities or compel success by a deadline.
 

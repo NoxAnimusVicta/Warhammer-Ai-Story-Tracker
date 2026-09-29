@@ -16,6 +16,8 @@ Before giving a research estimate, identify the target age and branch, Galahad's
 
 Keep research/design, experimental validation and industrial delivery separate. Extraordinary cognition can compress familiar design work into hours or days without making a city appear overnight. Conversely, construction lead times must not be presented as years needed to understand an ordinary machine. Age is a dependency framework, not a universal timer or a limit on individual intellect.
 
+Research time means analysis, theory, calculations and design documentation. Physical tests, prototype fabrication, industrial tooling, construction and production must have separately labelled estimates. If analysis depends on new experimental evidence, state that dependency and its separate elapsed time. Do not answer a research-only question with a combined development schedule. The carrier currently has a provisional 1–3-local-month research-only estimate; see AVIATION-CITY-AND-CARRIER.md for scope and unresolved foundations.
+
 ## Initial national assessments
 
 The 43 national returns preserve established industries, specialties, constraints, equipment holdings and specific recorded projects. Generic foundational and industrial capabilities are explicitly marked **initial inference** where no direct survey exists. They were conservatively migrated once from the old industrial-depth returns and then frozen in technology-register.json. They are not recalculated from a /5 rating on every build. More specific claims, such as specialist steels, shipyard work or Veyrasse's rifle pilot, cite the existing record. Possessing tanks or aircraft alone never awards their manufacture.

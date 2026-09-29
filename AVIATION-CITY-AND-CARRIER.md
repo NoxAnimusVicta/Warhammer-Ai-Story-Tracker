@@ -57,7 +57,19 @@ Excluded: carrier prototype development and construction, sustained aircraft pro
 
 The current national model records Veyrasse public receipts of 679.985 million, defence spending of 356.140 million and defence procurement of 42.737 million annually, alongside a 17.583 million deficit, 168.975 million liquid reserves and 828.949 million debt. Spreading the illustrative capital cost over six years gives about 36.7 million annually: 5.4% of receipts, 10.3% of defence spending or 86% of existing defence procurement. These are comparisons, not available uncommitted money or an enacted financing plan. Refresh against current national returns when revived.
 
-## Conditional development schedule
+## Research-only estimate
+
+**Approximately 1–3 local months of concentrated research and design by Galahad**, drawing on his accumulated expedition knowledge. This excludes fabrication, physical testing, prototype construction, factory installation and production. It is a provisional campaign estimate, not completed research or a guaranteed successful flight design.
+
+- Days to two weeks: proposed improvements to familiar gases, materials, engines and structural designs.
+- Several weeks: integrate these into the carrier's weight, lift, power and operational requirements.
+- Up to three months overall: resolve the remaining theoretical work and develop a coherent design, with overlapping work rather than adding these bands together.
+
+If analysis identifies a genuinely new lifting or power principle as necessary, estimate that specific breakthrough separately. Conventional refinements are not assumed to close an unquantified lift deficit. The earlier 6–12-month answer included research and physical validation and is superseded as a research-only estimate; it is not a settled testing schedule either. Testing and construction require separate estimates once the design and facilities are defined.
+
+## Industrial construction and production schedule
+
+The following milestones concern mobilisation, construction and industrial output, **not time required for Galahad to research the technology**.
 
 | Milestone | Illustrative elapsed time after authorisation and mobilisation |
 |---|---|
