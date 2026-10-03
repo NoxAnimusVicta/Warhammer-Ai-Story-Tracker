@@ -19,3 +19,11 @@ The artwork records the predeparture property. Narration must add the completed 
 ## Future changes
 
 Retain this revision’s original image as the dated baseline. When development, damage, construction or land acquisition actually changes the estate, record the change in continuity and update the visual reference accordingly. Until a revised image is supplied or created, describe enacted changes explicitly rather than silently treating the older artwork as the new state. Do not infer a completed improvement from a plan or a budget allocation.
+
+## Household investment authority and required review — 25/02/0069 AC43
+
+Corva and Veskan are authorised to make informed investments without obtaining Galahad's approval for each purchase. Their remit includes opportunities outside the estate. Corva maintains the accounts; both parents participate in decisions. Dorlac is an available business contact, not an automatically signed partnership. The previously discussed brewery remains tabled unless an actual later decision revives it.
+
+Read [Delegated NPC decisions during elapsed time](NARRATOR-GUIDE.md#delegated-npc-decisions-during-elapsed-time) before advancing estate activity. Budget, local opportunities, their judgement, risk, workload and elapsed time determine decisions. Rolls resolve genuine uncertainty, not whether they remember instructions. Each substantial time skip must produce a concrete review and a decision, a specific negotiation with a next milestone, or a substantiated reason to decline. Do not leave them indefinitely investigating simply because Galahad is elsewhere.
+
+The additional 500-lorrat contribution during 20–24/01 is enacted. Latest narrated household cash at 25/02 is **1,678: 148 reserved and 1,530 uncommitted**. Reconciliation: 1,194 at 19/01 + 500 contribution + 50 subsequent operating receipts - 66 operating payments = 1,678. No new investment purchase has been enacted. The repeated lack of an investment decision was a narrator omission, not a character trait. The elapsed review is outstanding and must be resolved before another substantial time skip. This documentation correction itself spends nothing and selects no investment. The 19/01 estate accounts remain a dated earlier statement pending the next full reconciliation.
