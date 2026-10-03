@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "date": "19/01/0069 AC43",
+  "currency": "Lorrats",
+  "agency": "Veyrasse Arcane Agency",
+  "director": "Galahad Orsival",
+  "authorised": 6000,
+  "period": "opening three local months",
+  "custodian": "Crown",
+  "drawn": 1460,
+  "spent": 1460,
+  "undrawn_authority": 4540,
+  "scope": [
+    "travel and subsistence for initial arrivals",
+    "instruction, instruments and supplies within the opening remit"
+  ],
+  "exclusions": [
+    "Permanent headquarters financed by separate capital authority below"
+  ],
+  "transactions": [
+    {
+      "date": "19/01/0069 AC43",
+      "description": "Period aggregate: outbound and prepaid return travel",
+      "amount": 740
+    },
+    {
+      "date": "19/01/0069 AC43",
+      "description": "Period aggregate: subsistence",
+      "amount": 420
+    },
+    {
+      "date": "19/01/0069 AC43",
+      "description": "Period aggregate: instruction supplies",
+      "amount": 300
+    }
+  ],
+  "accounting": "Opening authority and capital ceiling are separate. Only actual expenditure counts as expense; undrawn authority is not cash. Released but unspent capital remains restricted Crown cash. No personal or household transfer.",
+  "capital": {
+    "authorised_date": "24/11/0068 AC43",
+    "ceiling": 14000000,
+    "released": 1800000,
+    "spent": 1360000,
+    "released_unspent": 440000,
+    "undrawn_authority": 12200000,
+    "deadline": "19/11/0069 AC43",
+    "commencement": "27/11/0068 AC43",
+    "funding": "Staged Crown reserve-backed capital appropriation. Treasury-to-project transfer is not itself a national expense; actual construction expense is reconciled once in the current national reserve bridge. No duplicate charge to ordinary defence envelopes.",
+    "cost_scope": "Prior 11m preliminary complex plus 2.2m railway/underground access additions and 0.8m expanded protection/airstrip allowances; revised ceiling not a fixed final tender."
+  }
+}

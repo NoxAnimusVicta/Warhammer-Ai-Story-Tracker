@@ -1,12 +1,12 @@
 # Royal technical commission — House Orsival
 
-**Current return: 12/11/0068 AC43, evening.** The technical commission was authorised 11/10 and executed 17/10. Training finished 11/11; Galahad and Serault returned 12/11 and the Marshal accepted the final report. Odrienne appointed Galahad **Royal Advisor effective this evening**. The formal instrument is being amended, not yet signed or delivered; notices are ordered, not confirmed circulated.
+**Current return: 19/01/0069 AC43.** The technical commission was authorised 11/10 and executed 17/10/0068. Training finished 11/11; Galahad and Serault returned 12/11 and the Marshal accepted the report. Royal Advisor has been effective since 12/11/0068. The amended instrument is now signed and delivered, and departmental notices have been issued.
 
 ## Standing delegated Crown mandate
 
 He may initiate inspections and investigations, convene responsible officials, require relevant returns and develop programmes without a separate commission. Directions in the Crown’s name bind personnel and facilities assigned to the mandate; work may commence with authorised resources. Urgent findings receive immediate direct access to the Margrave; refusals require stated reasons and may be escalated to her. He may advise on any matter affecting the March. Field-army command, new taxes and binding foreign commitments require separate authorisation. Additional resources and powers must be provided; this is neither unlimited appropriation nor authority to seize every private asset. Existing manufacturing licence and intellectual-property rights remain unchanged.
 
-The Margrave awaits requirements for people, premises and funds. No additional office resources, salary or cash award have been settled. No hostile demonstration occurred or remains a prerequisite to the enacted appointment.
+Residence chambers, administrative-cover rooms and separate VAA opening and headquarters funds have since been allocated. No additional Advisor salary or personal cash award has been settled. No hostile demonstration occurred or remains a prerequisite to the enacted appointment.
 
 ## Authority, premises and personnel
 
@@ -28,38 +28,42 @@ The **Airborne Carrier Command Vessel** remains a preliminary airborne/seagoing 
 |---|---:|---|
 | Military company at Cressault | 160 | Issued on 05/11 after arrival late 04/11 |
 | Military reserve at Cressault | 27 | Accounted reserve rifles |
-| Approved House Orsival transfer | 5 | Individually logged and packed separately; awaiting delivery |
+| Approved House Orsival transfer | 5 | Delivered to the estate with 100 ordinary rounds from a separate depot issue |
 | Development rifles | 3 | Retained at the works |
 | **Total** | **195** | No unfinished or correction queue |
 
-Only five rifles were requisitioned for the House, not the twenty mentioned as a possible allowance. The military shipment exceeds the original 120 requirement by 67. The 187 military rifles have reached Cressault; the five House rifles remain in Auvrienne. Galahad has no rifle equipped.
+Only five rifles were requisitioned for the House, not the twenty mentioned as a possible allowance. The military shipment exceeds the original 120 requirement by 67. The 187 military rifles have reached Cressault; the five House rifles have reached the estate. Galahad has no rifle equipped.
 
-Ordel’s staff demonstrated **twelve completed rifles per production day** across the additional 72, without Galahad doing production assembly, although he continued oversight and improvements. That is a demonstrated batch rate, not a guarantee for every future supply or staffing condition. Production is paused at the player’s instruction; machinery is maintained and remaining stock counted. The original twelve-week estimate and later four-to-six-week forecast are superseded by actual completion in approximately two weeks.
+Ordel’s staff demonstrated **twelve completed rifles per production day** across the additional 72, without Galahad doing production assembly, although he continued oversight and improvements. That is a demonstrated batch rate, not a guarantee for every future supply or staffing condition. Ordel manages the autonomous workshop. It awaits the Margrave and Marshal’s report and military production instructions, then responds to military needs and requests. Crown/military administration handles forward authorisation and funding; Galahad owes it no new task or personal payroll support. No additional rifle batch has been enacted. The original twelve-week estimate and later four-to-six-week forecast are superseded by actual completion in approximately two weeks.
 
 ## Funding and remuneration
 
 The **18,000-lorrat state-administered ceiling** is separate from personal, household and closed expedition accounts. Approved internal reallocation supported the enlarged batch. Existing capital is not bought again; issued stock has been valued.
 
-| Recognised cost through 12/11 | Lorrats |
+| Recognised cost through 19/01/0069 | Lorrats |
 |---|---:|
 | Equipment and adaptation | 5,650 |
 | Materials and outside work | 5,400 |
 | Testing and handling | 758 |
-| Valued ammunition issue | 620 |
+| Licence | 900 |
+| Staff payroll | 2,760 |
+| Commission remuneration | 465 |
+| Ammunition stock issue | 620 |
 | Transport and handling | 96 |
-| Paid licence | 900 |
-| Staff payroll | 750 |
-| Commission remuneration | 130 |
-| **Recognised cost** | **14,304** |
-| Additional outstanding commitments | 180 |
-| Recorded programme headroom | 3,516 |
+| Settled previous commitments | 180 |
+| Return transport valuation | 24 |
+| House delivery | 18 |
+| House ammunition new issue | 6 |
+| **Recognised cost** | **16,877** |
+| Outstanding commitments | 0 |
+| Programme headroom | 1,123 |
 | **Ceiling reconciled** | **18,000** |
 
-The earlier 25/10, 02/11 and 04/11 returns are cumulative historical balances, not additional expenditure. The bridge from 02/11 is 13,220 + 18 final checks + 620 valued ammunition + 96 transport/handling + 60 staff + 10 commission = 14,024 through 04/11. Closing 05/11 adds 30 continuing staff payroll and 5 commission accrual, making 14,059. Closing 06/11 adds another 30 staff payroll and 5 commission accrual, making 14,094. The remaining five training days add 175, bringing the 11/11 cost to 14,269; 12/11 adds another 35, bringing it to 14,304. Staff payroll totals 390 for 18–30/10 plus 360 for 01–12/11. Commission remuneration totals 70 paid for 17–30/10 plus 60 accrued for 01–12/11. No new personal receipt results. Recognised cost is not identical to cash disbursed; remaining headroom must cover subsequent trial costs and commitments.
+Historical cumulative returns remain in commission-accounts.json: 13,220 on 02/11, 14,024 on 04/11, 14,059 on 05/11, 14,094 on 06/11, 14,269 on 11/11 and 14,304 on 12/11/0068. The 67-day bridge to this return adds 2,010 staff payroll, 335 commission remuneration, 180 previously outstanding commitments now settled, 24 return transport, 18 House delivery and six for the separate household ammunition issue. Total increment 2,573; no previous cost is charged twice. Recognised costs include accruals and stock values, not just cash payments.
 
-Galahad’s commission pay is **150/month**, paid on the first for the preceding month. Collegium employment ended on 20/10; its final 40-lorrat settlement was paid on 01/11 alongside the 70 commission payment. Next commission payday is 01/12, normally 150 if November service continues throughout. Future pay is not prepaid. No additional Royal Advisor pay has been agreed.
+Galahad receives **150 per local pay month**, on the first for the preceding month. Full 150 payments were received 01/12/0068 and 01/01/0069. Month 01 has 95 accrued but unpaid; next payday 01/02/0069. Partial-month accounting uses thirty remuneration units at five each, capped at 150; a 31st civil day does not add an extra unit. Collegium employment ended 20/10; the final 40 was paid 01/11 with the earlier 70 commission payment. No additional Advisor salary is settled.
 
-The return train was commission-authorised, with no personal fare. Its incremental programme valuation remains unpriced; the recorded 3,516 headroom is before that exposure, not a declaration that the journey cost nothing.
+The return train cost is now valued at 24 within the programme, not a personal fare. Ordel manages the autonomous workshop. It awaits the Margrave and Marshal’s report and military production instructions, then responds to military needs and requests. Crown/military administration handles forward authorisation and funding; Galahad owes it no new task or personal payroll support. No additional rifle batch has been enacted.
 
 ## Delivery, instruction and ammunition
 
@@ -78,7 +82,7 @@ The company comprises **160 officers and men**, including NCOs. It has served in
 | Further training 07–11/11 | -1,200 | -1,600 | -2,800 |
 | **Remaining 12/11** | **358** | **6,400** | **6,758** |
 
-The issue was valued once at 620 lorrats. Total expenditure of 5,242 rounds reduces stock, without charging the ammunition again. No household ammunition delivery is recorded. All 187 military rifles remain accounted for.
+The issue was valued once at 620 lorrats. Total expenditure of 5,242 rounds reduces stock, without charging the ammunition again. The household subsequently received 100 ordinary rounds from a separate depot issue, valued at six; these are not taken from Cressault. The 6,758 Cressault balance is last verified on 12/11/0068, not a fresh 19/01/0069 stock count. Later consumption and resupply await a unit return. All 187 military rifles remain accounted for.
 
 Desmaret's private twelve-round trial functioned without a stoppage. Galahad then demonstrated ten rapid shots through one entry point with almost no visible recoil. The first company day covered firing, supervised maintenance, weather effects and handling. All **seven full training days finished on 11/11**, with strong performance and NCOs able to maintain practice under Desmaret. No hostile operational demonstration occurred.
 
@@ -130,3 +134,7 @@ Desmaret and his officers increasingly respect Galahad's instruction and ambitio
 ## Restricted information
 
 The Margrave, Marshal and Lieutenant-General heard Galahad’s account of the Drossane attack and Caldrienne cell. Wider disinformation and preparation for takeover remain his reports, not independently verified control. They do not automatically know the psychic coercion, family threats, private Order, cipher contents or origin. See [Drossane record](DROSSANE-INCIDENT.md). Financial and inventory data are also recorded in [commission accounts](commission-accounts.json).
+
+## Later restricted disclosure — 12/11 late evening
+
+The Margrave and Marshal subsequently authorised the VAA and witnessed further psychic demonstrations. They know Galahad has existing overseas people but have not received identities, the Order roster or exact operational particulars. Darscelet was absent and has not received this later disclosure. The six Caldrienne operatives remain a separate cell. Agency authority, its 6,000-lorrat opening allocation (1,460 spent, 4,540 undrawn), separate headquarters capital and the residence chambers are recorded in VAA-REFERENCE.md; none alters this rifle programme’s inventory, licence or expenditure.

@@ -1,8 +1,8 @@
 # Malaspina Economic Reference
 
-Price review: **12/11/0068 AC43**. Year 67 AC43 reference bands remain the baseline; no blanket new-year inflation is enacted. Apply recorded regional conditions and actual invoices, not automatic repricing.
+Price review: **19/01/0069 AC43**. Year 67 AC43 reference bands remain the baseline; no blanket new-year inflation is enacted. Apply recorded regional conditions and actual invoices, not automatic repricing.
 
-Version 1.8 · Year 67 price baseline, reviewed 12/11/0068 AC43 · Capital and estate-enterprise estimates recorded 27 September 2026
+Version 1.9 · Year 67 price baseline, reviewed 19/01/0069 AC43 · Capital and estate-enterprise estimates recorded 27 September 2026
 
 Additional references: [capital purchases](#8-capital-purchases-and-industrial-projects), [estate crop and tenancy planning](#9-orsival-estate-production-and-tenant-purchases), and [shelved brewery-and-orchard-drinks proposal](#10-orchard-drinks-and-brewery-feasibility--shelved-proposal). These preserve the economic discussion without enacting a business, purchases, harvests or changes to balances.
 
@@ -224,7 +224,7 @@ During the expedition Galahad’s established salary was 60 per pay month: the e
 
 **Price basis: 11/10/0068 AC43, ordinary Veyrassian conditions.** These are newly calibrated fictional reference bands from the economic discussion, not quotations or completed purchases. Apply the same dated market-change rules as everyday goods. No universal Terran currency conversion is implied.
 
-**1,000 lorrats = 40 skilled-worker pay months = 3⅓ years of gross skilled wages, or 6⅔ months of Galahad’s current 150-lorrat commission pay.** This is gross income, not disposable savings. Current personal cash is 659; separate household funds are 1,160, including 148 reserved and 1,012 uncommitted. Dorlac’s former 60 receivable was relinquished. The state’s 18,000 programme ceiling is not personally spendable. Land and buildings are assets outside these cash balances. The 1,000 household contribution has already been paid once.
+**1,000 lorrats = 40 skilled-worker pay months = 3⅓ years of gross skilled wages, or 6⅔ months of Galahad’s current 150-lorrat commission pay.** This is gross income, not disposable savings. Current personal cash is 923; separate household funds are 1,194, including 148 reserved and 1,046 uncommitted. Dorlac’s former 60 receivable was relinquished. The state’s 18,000 programme ceiling is not personally spendable. Land and buildings are assets outside these cash balances. The 1,000 household contribution has already been paid once.
 
 ### Property and small businesses
 
@@ -416,7 +416,7 @@ Pressure-rated sparkling packaging needs its own specification and price. The in
 
 Assumes shared premises/distribution and contract malting, not an estate maltings. Additional barley, malting, hops, yeast, fuel and labour need a separate beer operating budget before any profit is asserted. The orchard's 586 surplus contains no beer contribution.
 
-The orchard-only provision of 4,810 exceeds current personal cash of 659. Simple recovery of that funding provision at 586/year is roughly eight years after retaining the modelled replacement reserve, before financing or ramp-up effects. This is a comparison, not a discounted investment appraisal or promise. Smaller production, using only part of the harvest, or paid processing elsewhere remain possible options; none is commissioned. The business remains **shelved**.
+The orchard-only provision of 4,810 exceeds current personal cash of 923. Simple recovery of that funding provision at 586/year is roughly eight years after retaining the modelled replacement reserve, before financing or ramp-up effects. This is a comparison, not a discounted investment appraisal or promise. Smaller production, using only part of the harvest, or paid processing elsewhere remain possible options; none is commissioned. The business remains **shelved**.
 
 ### Technical sources and limits
 
@@ -429,10 +429,12 @@ Real-world sources support process assumptions only; they do not supply lorrat p
 - [Penn State private-water-system flood guidance](https://extension.psu.edu/post-flood-drinking-water-safety-for-private-water-systems): groundwater protection/testing considerations.
 
 
-## Recorded post-return quotations and contracts — 12/11/0068 review
+## Recorded post-return quotations and contracts — 19/01/0069 review
 
-These are enacted local transactions, not replacement universal tariffs. Estate telephone installation/service through Month 10 cost **48**; continuing rental is **two/month plus toll calls**. Two trained adult watchhounds cost **60**, equipment **eight**; a further twelve is reserved for upkeep, not already spent. Minor tenant drainage and roof repairs cost **twelve**. Removal of personal Collegium belongings cost **eighteen**. The original 56-hectare split and proposed crop/drinks models remain unchanged; a visit to tenants did not turn planning yields into a surveyed harvest.
+Existing general price bands retain their Year 67 basis. The 01/01/0069 annual review retained them in the absence of an established general price shock; specific contracts below govern actual payments. Regional variation still applies. No automatic calendar inflation is imposed.
 
-Commission remuneration is **150/month**, licence **900 paid**, and state programme ceiling **18,000**. The completed pilot run recognises **14,304** cost through 12/11, with **180** additional commitments and **3,516** recorded headroom, before the unpriced incremental return-transport valuation. These include development, equipment and accrued labour; dividing the whole by rifle count would not establish a normal factory unit price. No blanket price-index rise or national technology gain is introduced. [Current personal/household accounts](ESTATE-ACCOUNTS.md) and [programme accounts](commission-accounts.json) govern payments.
+Estate telephone installation and Month 10 service cost 48; rental is two/month plus tolls. Two watchhounds cost 60, equipment eight; the twelve upkeep reserve is still cash. Minor tenant repairs cost twelve; moving Collegium belongings cost eighteen. Land and proposed crop/drinks models are unchanged; visiting tenants did not certify planning harvests.
 
-Royal Advisor is effective on 12/11. No new salary or additional appropriation is settled; the existing commission remuneration continues. The appointment itself creates neither cash nor new national output.
+Commission remuneration remains 150/month, paid first of month for the preceding month; the 900 trial licence was paid once. The 18,000 programme now records **16,877 recognised, zero commitments and 1,123 headroom**, including the return transport and separate House delivery. These include development, equipment and accrued labour, not a normal factory unit price. Five House rifles and 100 separately issued ordinary rounds have been delivered.
+
+Personal cash is **923**; household **1,194**, including 148 reserved. See [personal/household ledger](ESTATE-ACCOUNTS.md) and [commission accounts](commission-accounts.json). The Advisor appointment creates no additional salary. Agency opening authority is **6,000, with 1,460 spent**. The separate headquarters ceiling is **14 million, with 1.8 million released and 1.36 million spent**; undrawn authority and released cash are not expense. [Agency accounts](vaa-accounts.json) and [construction scope](UNDERGROUND-COMPLEX.md) govern these restricted funds.

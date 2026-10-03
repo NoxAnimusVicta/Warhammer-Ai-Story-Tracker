@@ -1,20 +1,20 @@
 {
-  "revision": 74,
-  "basis": "Current continuity through the 12/11 standing Crown mandate. Dated derived replacements; original survey preserved.",
+  "revision": 78,
+  "basis": "Current continuity through 19/01/0069 AC43. Dated derived replacements; original survey preserved.",
   "changes": [
     {
-      "effective_date": "12/11/0068 AC43",
+      "effective_date": "19/01/0069 AC43",
       "collection": "sites",
       "id": "serravonne",
       "old": "His parents now reside at the 56-hectare Orsival estate nearby, Galahad has returned to his Collegium room in Auvrienne to complete expedition preparations.",
-      "new": "His parents reside at the 56-hectare Orsival estate nearby. Following his 12\u201317/10 visit it has a telephone and two watchhounds. His private papers and former Collegium belongings arrived on 22/10. Galahad has returned to Auvrienne and been appointed Royal Advisor; five approved household rifles still await delivery."
+      "new": "His parents reside at the 56-hectare Orsival estate nearby. Following his 12\u201317/10 visit it has a telephone and two watchhounds. His private papers and former Collegium belongings arrived on 22/10. Galahad has returned to Auvrienne and been appointed Royal Advisor; five household rifles and 100 ordinary rounds have arrived."
     },
     {
-      "effective_date": "12/11/0068 AC43",
+      "effective_date": "19/01/0069 AC43",
       "collection": "sites",
       "id": "auvrienne",
       "old": "Institutional and professional connections support his expanding research.",
-      "new": "Institutional and professional connections support his research. Galahad resigned salaried Collegium employment on 20/10, donated patronage and moved his personal belongings to the estate. His allocated military works completed 192 accepted trial rifles and three development rifles by 02/11. Ordel retains the paused staff; Galahad and Serault accompanied 187 military rifles to Cressault on 04/11, where company instruction began 05/11. Five House rifles still await delivery. All seven training days concluded 11/11. Galahad and Serault returned on 12/11; the Margrave appointed him Royal Advisor with a standing Crown mandate for industry, infrastructure and defensive preparedness. Additional resources remain to be proposed; the formal instrument is being amended."
+      "new": "Institutional and professional connections support his research. Galahad resigned salaried Collegium employment on 20/10, donated patronage and moved his personal belongings to the estate. His allocated military works completed 192 accepted trial rifles and three development rifles by 02/11. Ordel manages the autonomous workshop pending Crown/military instructions; Galahad and Serault accompanied 187 military rifles to Cressault on 04/11, where company instruction began 05/11. Five House rifles have arrived at the estate. All seven training days concluded 11/11. Galahad and Serault returned on 12/11; the Margrave appointed him Royal Advisor with a standing Crown mandate for industry, infrastructure and defensive preparedness. The formal instrument is signed and delivered. Residence and administrative-cover rooms are allocated; the isolated Agency headquarters is under construction and its six members have trained and departed homeward."
     }
   ]
 }

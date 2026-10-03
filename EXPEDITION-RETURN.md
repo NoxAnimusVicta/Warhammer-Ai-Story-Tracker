@@ -18,13 +18,13 @@ Hunter studies added supervised fragments and records to the Drossane emitter hy
 
 Two original collections were recovered and retained: wrapped practical psychic observations from a ruined teaching house near Ossendrienne, and engraved plates with commentary from a disused mountain repository near Grevallier. Telekinesis enabled access through unstable masonry. Neither collection has proven Ambros authorship. Visits and comparisons in Veldrassen and Ostrevain expanded knowledge of his legacy without resolving the circumstances of his sword killing or recovering his sword.
 
-On return, private manuscripts, both recovered collections and the wrapped greatsword were secured in new ground-floor Collegium quarters. Following resignation on 20/10, personal belongings were delivered to the estate on 22/10 against Corva’s receipt; the room was released and institutional property returned. Working rifle/carrier papers and retained reports accompany Galahad in Auvrienne at his royal audience. Original station papers and the incomplete station prototype remain in Corva’s custody.
+On return, private manuscripts, both recovered collections and the wrapped greatsword were secured in new ground-floor Collegium quarters. Following resignation on 20/10, personal belongings were delivered to the estate on 22/10 against Corva’s receipt; the room was released and institutional property returned. Working rifle/carrier papers and retained reports accompany Galahad in Auvrienne in his Royal Advisor’s chambers. Original station papers and the incomplete station prototype remain in Corva’s custody.
 
 ## Contacts and the unnamed Order
 
 The network now includes **forty recurring correspondents in total**, including the original four: Alessio Valcera, Aveline Cersault, Bastien Marcelet and Noemie Darcenne. Other acquaintances extend social reach. Most are professional contacts and unwitting information sources, not sworn agents. Advice to foreign officials encouraged cooperation with Veyrasse without granting automatic treaties, concessions or decisive foreign advantages.
 
-Galahad has begun an **unnamed Order** of six psychic practitioners in six countries. Teaching, introductions, useful assistance and correspondence have begun; there is no headquarters or global telepathic network. Two other gifted people declined deeper involvement without established hostility.
+Galahad has begun an **unnamed Order** of six psychic practitioners in six countries. Teaching, introductions, useful assistance and correspondence have begun; at expedition return there was no headquarters or global telepathic network. Two other gifted people declined deeper involvement without established hostility.
 
 | Practitioner | Location | Known aptitude / position |
 |---|---|---|
@@ -32,15 +32,23 @@ Galahad has begun an **unnamed Order** of six psychic practitioners in six count
 | Etienne Caurrel | Rivessole | Waterworks foreman; minor telekinesis |
 | Delphine Calvet | Orsevigne | Manuscript custodian; psychometry |
 | Julien Vardelle | Grevallier | Healing |
-| Unnamed printer | Bellacenne | Psychic practitioner; trade access |
-| Unnamed minor court clerk | Cavrelisse | Psychic practitioner; court access |
+| Mathieu Vessorel, printer | Bellacenne | Psychic practitioner; trade access |
+| Laurent Veyrac, minor court clerk | Cavrelisse | Psychic practitioner; court access |
 
 Mutual benefit, personal instruction and the clear disparity in capability support loyalty; they do not create infallible obedience. No permanent name may be assigned without the player’s agreement. This private network is distinct from the six Caldrienne operatives and from the five expedition scholars.
 
 ## Personal development and settlement
 
-Galahad reached bodily maturity at approximately three metres during the expedition. He is now about three local years and three months old, with a short white beard; repeated tailoring retained his charcoal-coat expedition style. No exact birthday is established. Psychic progress includes more selective emotional influence, concurrent delicate/heavy telekinesis, short directed images across nearby rooms with willing practitioners, tested lasting warning impressions on small objects, and modest deep soft-tissue repair observed by a healer over subsequent days. These are specific demonstrations, not universal wards, complete regeneration or unlimited communication. Basic foresight remains experimental.
+Galahad reached bodily maturity at approximately three metres during the expedition. At the expedition return he was about three local years and three months old, with a short white beard; repeated tailoring retained his charcoal-coat expedition style. No exact birthday is established. Psychic progress includes more selective emotional influence, concurrent delicate/heavy telekinesis, short directed images across nearby rooms with willing practitioners, tested lasting warning impressions on small objects, and modest deep soft-tissue repair observed by a healer over subsequent days. These are specific demonstrations, not universal wards, complete regeneration or unlimited communication. Basic foresight remains experimental.
 
 The final operating cost was **11,855 lorrats**. Both sponsors approved disposal of the **2,645** remainder: **500** transferred to the pay office for five scholar bonuses, **645** leadership award paid, **1,000** refunded to the Chancery and **500** to the Collegium. No expedition funds remain under Galahad’s control. The pay-office transfer does not certify that every scholar has collected the award. Separate ordinary payroll for twelve paydays was **2,820**, including Galahad’s **720**. Final institutional expenditure including awards and payroll is **15,820** against **17,320** provision, with **1,500 returned**.
 
-At the 11/10 settlement personal funds were **1,197** and estate funds **314**. Those are historical opening balances. The current 12/11/0068 AC43 balances are **659 personal** and **1,160 household**; Collegium employment ended 20/10 and its final settlement was paid 01/11. See [current ledger](ESTATE-ACCOUNTS.md), [closed expedition accounts](expedition-accounts.json) and [executed commission](ROYAL-COMMISSION.md). Do not reapply historical payments.
+At the 11/10 settlement personal funds were **1,197** and estate funds **314**. Those are historical opening balances. The current 19/01/0069 AC43 balances are **923 personal** and **1,194 household**; Collegium employment ended 20/10 and its final settlement was paid 01/11. See [current ledger](ESTATE-ACCOUNTS.md), [closed expedition accounts](expedition-accounts.json) and [executed commission](ROYAL-COMMISSION.md). Do not reapply historical payments.
+
+## Later Order contact — 12/11/0068 AC43
+
+All six accepted members, including the printer and clerk, received the distant mental summons to Auvrienne. The two decliners were other unnamed practitioners. This later feat supersedes the return-era communication status, without establishing a permanent network, completed travel or formal VAA employment. See VAA-REFERENCE.md.
+
+## Subsequent Agency period — 19/01/0069 AC43
+
+The six later arrived on the dates recorded in VAA-REFERENCE.md, accepted Agency work, trained and departed homeward. That later record supersedes the summons-only status above. The printer and clerk names were established during this period; their expedition identities and home societies remain unchanged. No permanent psychic communications network is established.

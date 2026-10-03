@@ -1,6 +1,6 @@
 # Galahad — controlling physiology reference
 
-Current review: **12/11/0068 AC43**. Reviewed at revision 74, including the agreed running-speed clarification · Mature physiology, demonstrated expedition abilities, developed potential and contextual durability; retains the accepted endurance and infection-resistance provisions. This is narrator continuity for this campaign, not a universal canonical specification for Custodes or Primarchs. It supersedes older conflicting sleep, stamina, short-burst-only running and overall combat assumptions, including revision43 and the preparation scene's 3–4-hour sleep statement. Historical dialogue remains unchanged.
+Current review: **19/01/0069 AC43**. Reviewed at revision 78, including the agreed running-speed clarification · Mature physiology, demonstrated expedition abilities, developed potential and contextual durability; retains the accepted endurance and infection-resistance provisions. This is narrator continuity for this campaign, not a universal canonical specification for Custodes or Primarchs. It supersedes older conflicting sleep, stamina, short-burst-only running and overall combat assumptions, including revision43 and the preparation scene's 3–4-hour sleep statement. Historical dialogue remains unchanged.
 
 ## Sleep and wakefulness
 
@@ -22,7 +22,7 @@ His stable body–soul integration and exceptional psychic potential provide sub
 
 ## Chronological age and apparent age
 
-At planetfall (story Day 0), Galahad was approximately one local month old chronologically, while his accelerated development made him appear about five to six human years old. Chronological age is that starting month plus elapsed local story time; apparent age and bodily maturity never add lived years. No exact birthday or civil-calendar planetfall date is established. The current three-years-and-three-months label is a rounded estimate, not an exact age. Review it against elapsed time at each dated scene rather than copying the previous label. Do not invent an exact day count or convert local ageing through the offworld clock ratio. See CALENDAR-REFERENCE.md for the dated estimate and elapsed-time anchors.
+At planetfall (story Day 0), Galahad was approximately one local month old chronologically, while his accelerated development made him appear about five to six human years old. Chronological age is that starting month plus elapsed local story time; apparent age and bodily maturity never add lived years. No exact birthday or civil-calendar planetfall date is established. The current age label is a rounded estimate, not an exact age. Review it against elapsed time at each dated scene rather than copying the previous label. Do not invent an exact day count or convert local ageing through the offworld clock ratio. See CALENDAR-REFERENCE.md for the dated estimate and elapsed-time anchors.
 
 ## Physical comparison and maturity
 
@@ -130,4 +130,18 @@ During a private supervised trial on 04/11, Galahad fired ten rounds in rapid su
 
 ## Return and royal audience — 12/11/0068 AC43
 
-Seven training days concluded without injury or meaningful impairment. Galahad returned by rail and attended the royal audience. His deliberate brief anxiety followed by comfort produced momentary unease and restored calm; this is an application of established emotional influence, not permanent control, detected psychic causation or a new technique. Chronological age remains approximately three local years and three months plus roughly two weeks, without an exact birthday.
+Seven training days concluded without injury or meaningful impairment. Galahad returned by rail and attended the royal audience. His deliberate brief anxiety followed by comfort produced momentary unease and restored calm; this is an application of established emotional influence, not permanent control, detected psychic causation or a new technique. At that audience, chronological age was approximately three local years and three months plus roughly two weeks, without an exact birthday.
+
+## Agency audience and distant summons — 12/11/0068 AC43
+
+Galahad sustained controlled emerald arcs within approximately 15 centimetres of his hand, selectively removed the secretary’s recent display/proposal memories while retaining the dismissal instruction, and addressed Odrienne and Vaucerin directly in their minds. From his new chambers he then reached six familiar Order practitioners across different countries with directed voice summons. All received it; emotional recognition was perceived, with one repetition needed. No fixed maximum range or permanent communications infrastructure is measured by this scene.
+
+## Accepted psychic scale
+
+Galahad is classified **Alpha Plus in this campaign**. This is not a claim that every canonical Alpha Plus has identical output or that Alpha Primus has a definitively published grade. Ordinary unprotected human discipline does not meaningfully withstand his established mental abilities at this disparity in power. Do not make routine human targets into psychic peers, or require a fresh research programme for every application of already available mental power merely because that exact target count has not appeared in the transcript. The feat record documents events; it is not an artificial ceiling on capacity.
+
+Power, learned application, attention and knowledge remain distinct. Large-scale domination is an accepted potential application, not an already enacted permanent planetary hive mind. Maintaining personal control is not the same as building durable institutions, and releasing it does not leave a conquered government automatically functioning. Sufficiently powerful psychic opposition, specialised protection and entities with relevant abilities require their own assessment. No uniform calendar unlock or new planetary takeover occurs in this clarification.
+
+## Agency instruction — through 19/01/0069 AC43
+
+Galahad personally assessed and trained six practitioners, developing a common syllabus while distinguishing strength, control, reach, endurance and affinity. Emotional influence, memory exercises, mantras and geometric concentration were taught within each member's aptitude; none inherited his complete ability set. His own notes and understanding expanded through comparative teaching. No injury, ordinary-human exhaustion, new numerical power ceiling, permanent global mind network or unrelated industrial breakthrough is recorded. See VAA-REFERENCE.md for individual outcomes. Current chronological age is approximately three local years and five months, plus roughly three weeks; bodily maturity and height remain unchanged.

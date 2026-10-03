@@ -1,6 +1,6 @@
 # App organisation and social-conditions audit
 
-Presentation review following exchange 608. The published character milestone remains 05/11/0068 AC43; later play is retained in the exact transcript. This is not a story-time advance or a new grant of assets, office, technology or intelligence.
+Historical presentation reviews follow. Their dates and verification claims describe those earlier editions; current state is 19/01/0069 AC43 and current checks are in DOCUMENTATION-AUDIT.md. This is not a story-time advance or a new grant of assets, office, technology or intelligence.
 
 ## Where the information belongs
 

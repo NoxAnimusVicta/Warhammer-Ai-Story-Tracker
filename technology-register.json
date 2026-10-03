@@ -15828,5 +15828,398 @@
     }
   ],
   "events": [],
-  "annual_reviews": []
+  "annual_reviews": [
+    {
+      "date": "01/01/0069 AC43",
+      "polities": [
+        {
+          "id": "veldrassen",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "ostrevain",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "rovessara",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "brannervaux",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "cervaud",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "veylac",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "ossavren",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "rovengard",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "varnesk",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "galdresk",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "halskert",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "tervayne",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "vardol",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "averholt",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "serevask",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "varnelle",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "kelbrun",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "gavrel",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "other-otranto-400",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "other-otranto-700",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "other-otranto-1100",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "other-otranto-1450",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "other-morholt-1880",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "other-morholt-2190",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "other-morholt-2630",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "other-vesalius-2790",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "other-vesalius-2790-1410",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "other-vesalius-3160",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "karsenne",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "caldrienne",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "veyrasse",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "calvernis",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "ceralte",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "varessan",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "talasca",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "nemerai",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "ordelune",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "skeldra",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "merovia",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "ashalai",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "istrana",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "edrask",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        },
+        {
+          "id": "norrakai",
+          "discoveries": "No new national capability unlock established; existing foundations retained.",
+          "production": "Existing domestic capabilities and constraints remain; ordinary efficiency is already in output trends. Veyrasse rifle works await military instructions; headquarters construction does not create advanced technology.",
+          "adoption": "No unrecorded general equipment rollout; preserve dated deployment and use.",
+          "dependencies": "Existing enabling materials, tools, power and trained staff remain necessary.",
+          "losses": "Routine attrition within existing envelopes; no new exceptional technical loss established.",
+          "source_accounts": "Reviewed alongside development, demographics and fiscal ledgers; no duplicate year increment."
+        }
+      ]
+    }
+  ]
 }

@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "edition": 7,
-  "epoch": "12/11/0068 AC43 — post-return review; prior developments retain their occurrence dates",
-  "days_after_census_epoch": 441,
+  "epoch": "19/01/0069 AC43 — post-return review; prior developments retain their occurrence dates",
+  "days_after_census_epoch": 508,
   "scope": "Principal recorded conflicts and unresolved disputes; not an exhaustive incident list. Unlisted regions are not certified peaceful.",
   "entries": [
     {
@@ -19,13 +19,13 @@
       "effects": "Repairs restored participating crossings and irrigation controls. Troops remain tied to the frontier and local merchants still face inspections; Serravonne is outside the fighting area.",
       "travel": "No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.",
       "basis": "Revision 68 retrospective campaign development; see WORLD-YEAR68.md. Ordinary ongoing-theatre attrition and local raid mortality are inside the baseline planning envelope, not additional deductions. Exact deaths, injuries, captures and displacement remain separately unquantified.",
-      "last_review_days_after_census_epoch": 441,
+      "last_review_days_after_census_epoch": 508,
       "reported_losses": null,
       "trend": "Lower immediate disruption after repairs; armed truce remains fragile.",
       "event_ids": [
         "theatre68-cressault"
       ],
-      "last_review_date": "12/11/0068 AC43",
+      "last_review_date": "19/01/0069 AC43",
       "development_date": "17/06/0068 AC43",
       "record_date": "11/10/0068 AC43",
       "review_note": "Prior conditions retained; no newly established escalation, closure or exceptional loss."
@@ -43,13 +43,13 @@
       "effects": "Equipment losses and cannibalisation exceed returns from repair; sustained field availability is reduced. Working ports and negotiated trade continue alongside fighting elsewhere.",
       "travel": "No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.",
       "basis": "Revision 68 retrospective campaign development; see WORLD-YEAR68.md. Ordinary ongoing-theatre attrition and local raid mortality are inside the baseline planning envelope, not additional deductions. Exact deaths, injuries, captures and displacement remain separately unquantified.",
-      "last_review_days_after_census_epoch": 441,
+      "last_review_days_after_census_epoch": 508,
       "reported_losses": null,
       "trend": "Partial commercial accommodation amid continued fragmentation.",
       "event_ids": [
         "theatre68-ossavren"
       ],
-      "last_review_date": "12/11/0068 AC43",
+      "last_review_date": "19/01/0069 AC43",
       "development_date": "19/05/0068 AC43",
       "record_date": "11/10/0068 AC43",
       "review_note": "Prior conditions retained; no newly established escalation, closure or exceptional loss."
@@ -67,13 +67,13 @@
       "effects": "Imported Varnesk machinery restored basic operations by Month 8. Security equipment remains below its opening serviceable count. Varnesk’s commercial involvement does not make it a belligerent.",
       "travel": "No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.",
       "basis": "Revision 68 retrospective campaign development; see WORLD-YEAR68.md. Ordinary ongoing-theatre attrition and local raid mortality are inside the baseline planning envelope, not additional deductions. Exact deaths, injuries, captures and displacement remain separately unquantified.",
-      "last_review_days_after_census_epoch": 441,
+      "last_review_days_after_census_epoch": 508,
       "reported_losses": null,
       "trend": "Some sites reopened; no comprehensive settlement.",
       "event_ids": [
         "theatre68-haldrevik"
       ],
-      "last_review_date": "12/11/0068 AC43",
+      "last_review_date": "19/01/0069 AC43",
       "development_date": "08/09/0068 AC43",
       "record_date": "11/10/0068 AC43",
       "review_note": "Prior conditions retained; no newly established escalation, closure or exceptional loss."
@@ -92,13 +92,13 @@
       "effects": "Escorted departures can obtain ordinary recognised insurance terms; isolated cargoes still face case-specific premiums and seizures. No planetary blockade or closure of the circumnavigation network occurred.",
       "travel": "No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.",
       "basis": "Revision 68 retrospective campaign development; see WORLD-YEAR68.md. Ordinary ongoing-theatre attrition and local raid mortality are inside the baseline planning envelope, not additional deductions. Exact deaths, injuries, captures and displacement remain separately unquantified.",
-      "last_review_days_after_census_epoch": 441,
+      "last_review_days_after_census_epoch": 508,
       "reported_losses": null,
       "trend": "Improved main-lane protection, displaced risk on feeders.",
       "event_ids": [
         "theatre68-maritime"
       ],
-      "last_review_date": "12/11/0068 AC43",
+      "last_review_date": "19/01/0069 AC43",
       "development_date": "18/06/0068 AC43",
       "record_date": "11/10/0068 AC43",
       "review_note": "Prior conditions retained; no newly established escalation, closure or exceptional loss."
@@ -117,13 +117,13 @@
       "effects": "Supply burdens persist but trade routes remain open to cleared traffic. No general mobilisation, exchange of fire or declared war resulted from this episode.",
       "travel": "No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.",
       "basis": "Revision 68 retrospective campaign development; see WORLD-YEAR68.md. No battle casualties established by this diplomatic or civil episode; do not invent a casualty deduction.",
-      "last_review_days_after_census_epoch": 441,
+      "last_review_days_after_census_epoch": 508,
       "reported_losses": null,
       "trend": "Recent de-escalation without political settlement.",
       "event_ids": [
         "theatre68-vardol-averholt"
       ],
-      "last_review_date": "12/11/0068 AC43",
+      "last_review_date": "19/01/0069 AC43",
       "development_date": "12/09/0068 AC43",
       "record_date": "11/10/0068 AC43",
       "review_note": "Prior conditions retained; no newly established escalation, closure or exceptional loss."
@@ -144,13 +144,13 @@
       "effects": "Fewer duplicate inspections and more predictable water notices help participating commerce. The protocol creates neither a restored federation nor a common treasury or army.",
       "travel": "No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.",
       "basis": "Revision 68 retrospective campaign development; see WORLD-YEAR68.md. No battle casualties established by this diplomatic or civil episode; do not invent a casualty deduction.",
-      "last_review_days_after_census_epoch": 441,
+      "last_review_days_after_census_epoch": 508,
       "reported_losses": null,
       "trend": "Practical cooperation increased; core claims remain.",
       "event_ids": [
         "theatre68-southern-basin"
       ],
-      "last_review_date": "12/11/0068 AC43",
+      "last_review_date": "19/01/0069 AC43",
       "development_date": "07/07/0068 AC43",
       "record_date": "11/10/0068 AC43",
       "review_note": "Prior conditions retained; no newly established escalation, closure or exceptional loss."
@@ -169,13 +169,13 @@
       "effects": "Export shipping continues and mainland firms retain advantages. The temporary concession has reduced immediate pressure in the affected districts without resolving leases or colonial inequality.",
       "travel": "No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.",
       "basis": "Revision 68 retrospective campaign development; see WORLD-YEAR68.md. No battle casualties established by this diplomatic or civil episode; do not invent a casualty deduction.",
-      "last_review_days_after_census_epoch": 441,
+      "last_review_days_after_census_epoch": 508,
       "reported_losses": null,
       "trend": "A limited concession, not independence or an organised insurgency.",
       "event_ids": [
         "theatre68-talasca"
       ],
-      "last_review_date": "12/11/0068 AC43",
+      "last_review_date": "19/01/0069 AC43",
       "development_date": "22/09/0068 AC43",
       "record_date": "11/10/0068 AC43",
       "review_note": "Prior conditions retained; no newly established escalation, closure or exceptional loss."
@@ -191,13 +191,13 @@
       "effects": "Veylac restored principal relay service in Month 5; the Haldrevik site resumed basic work in Month 8 using replacement machinery. Lost skill, equipment and records still constrain recovery. Neither attack is a new major culling or a planetary casualty percentage.",
       "travel": "No sustained closure of an atlas trunk route is established by these developments. Local interruptions concern feeder works and inspections; the prepared expedition completed its actual services and seasonal passages. Future transport decisions require fresh local notices.",
       "basis": "Revision 68 retrospective campaign development; see WORLD-YEAR68.md. Ordinary ongoing-theatre attrition and local raid mortality are inside the baseline planning envelope, not additional deductions. Exact deaths, injuries, captures and displacement remain separately unquantified.",
-      "last_review_days_after_census_epoch": 441,
+      "last_review_days_after_census_epoch": 508,
       "reported_losses": null,
       "trend": "Local destruction and recovery continue; no evidence here of Culling 44.",
       "event_ids": [
         "theatre68-hunter-pressure"
       ],
-      "last_review_date": "12/11/0068 AC43",
+      "last_review_date": "19/01/0069 AC43",
       "development_date": "08/09/0068 AC43",
       "record_date": "11/10/0068 AC43",
       "review_note": "Prior conditions retained; no newly established escalation, closure or exceptional loss."
@@ -1214,6 +1214,6 @@
     "knowledge": "Distinguish archive assessment from information actually delivered to Galahad. NPCs communicate consequential known route changes before affected decisions. No predetermined escalation or guaranteed peace.",
     "source": "Theatre event IDs link to world-year68.json. Older returns remain in history. Archive developments are not automatically delivered intelligence; report consequential information through an appropriate NPC.",
     "classification": "Active theatres belong in entries. Completed security incidents belong in events and are presented separately from active conflicts. Administrative appointments and technical projects belong in the dossier and their subject references; the royal technical commission is maintained in ROYAL-COMMISSION.md. Earlier snapshots retain their original records.",
-    "post_return": "Reviewed through 12/11/0068 AC43: earlier theatre conditions continue; no new material escalation or exceptional demographic/price shock is established. The technical programme is maintained in ROYAL-COMMISSION.md, not among active wars."
+    "post_return": "Reviewed through 19/01/0069 AC43: earlier theatre conditions continue; no new material escalation or exceptional demographic/price shock is established. The technical programme is maintained in ROYAL-COMMISSION.md, not among active wars."
   }
 }

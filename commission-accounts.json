@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": 74,
-  "as_of": "12/11/0068 AC43",
+  "revision": 78,
+  "as_of": "19/01/0069 AC43",
   "source_exchanges": [
     544,
     599
@@ -54,9 +54,24 @@
         "date": "26/10\u201302/11/0068 AC43",
         "description": "Food and guard tips",
         "amount": -12
+      },
+      {
+        "date": "01/12/0068 AC43",
+        "description": "Full Month 11 commission pay",
+        "amount": 150
+      },
+      {
+        "date": "01/01/0069 AC43",
+        "description": "Full Month 12 commission pay",
+        "amount": 150
+      },
+      {
+        "date": "19/01/0069 AC43",
+        "description": "Period total: personal papers, calls and incidental expenses since 12/11/0068",
+        "amount": -36
       }
     ],
-    "closing": 659
+    "closing": 923
   },
   "household": {
     "opening_date": "11/10/0068 AC43",
@@ -96,13 +111,58 @@
         "date": "01/11/0068 AC43",
         "description": "Month 11 telephone rental",
         "amount": -2
+      },
+      {
+        "date": "19/01/0069 AC43",
+        "description": "Period receipt: rents",
+        "amount": 40
+      },
+      {
+        "date": "19/01/0069 AC43",
+        "description": "Period receipt: produce",
+        "amount": 90
+      },
+      {
+        "date": "19/01/0069 AC43",
+        "description": "Period receipt: limited timber",
+        "amount": 54
+      },
+      {
+        "date": "19/01/0069 AC43",
+        "description": "Period expense: lucette wages",
+        "amount": -28
+      },
+      {
+        "date": "19/01/0069 AC43",
+        "description": "Period expense: telephone rental",
+        "amount": -4
+      },
+      {
+        "date": "19/01/0069 AC43",
+        "description": "Period expense: hounds",
+        "amount": -8
+      },
+      {
+        "date": "19/01/0069 AC43",
+        "description": "Period expense: domestic",
+        "amount": -40
+      },
+      {
+        "date": "19/01/0069 AC43",
+        "description": "Period expense: produce and timber handling",
+        "amount": -52
+      },
+      {
+        "date": "19/01/0069 AC43",
+        "description": "Period expense: maintenance",
+        "amount": -18
       }
     ],
-    "closing": 1160,
+    "closing": 1194,
     "reserved": 148,
     "operating_reserve": 136,
     "hound_upkeep_reserve": 12,
-    "uncommitted": 1012
+    "uncommitted": 1046
   },
   "programme": {
     "ceiling": 18000,
@@ -111,15 +171,19 @@
       "materials_and_outside_work": 5400,
       "testing_and_handling": 758,
       "licence": 900,
-      "staff_payroll": 750,
-      "commission_remuneration": 130,
+      "staff_payroll": 2760,
+      "commission_remuneration": 465,
       "ammunition_stock_issue": 620,
-      "transport_and_handling": 96
+      "transport_and_handling": 96,
+      "settled_previous_commitments": 180,
+      "return_transport_valuation": 24,
+      "house_delivery": 18,
+      "house_ammunition_new_issue": 6
     },
-    "recognised_total": 14304,
-    "outstanding_commitments": 180,
-    "uncommitted": 3516,
-    "cash_vs_accrual": "Recognised costs include accrued payroll and valued ammunition stock issues, not solely cash paid. The 180 is an additional commitment. Recorded headroom 3516 is state provision, not personal cash or profit, and excludes the unpriced incremental return-transport exposure. Consumed ammunition is deducted from already-valued stock, never purchased twice.",
+    "recognised_total": 16877,
+    "outstanding_commitments": 0,
+    "uncommitted": 1123,
+    "cash_vs_accrual": "Recognised costs include payroll accruals and stock valuations, not just cash. Old commitments of 180 are settled and recognised once. Crown/military administration handles future funding. Agency construction money and personal cash are separate.",
     "reconciliation": [
       {
         "date": "02/11/0068 AC43",
@@ -183,13 +247,29 @@
         "commitments": 180,
         "headroom": 3516,
         "basis": "Return and royal audience. Transport increment unpriced; no new personal payment or additional office appropriation."
+      },
+      {
+        "date": "19/01/0069 AC43",
+        "increments": {
+          "staff_payroll": 2010,
+          "commission_remuneration": 335,
+          "settled_previous_commitments": 180,
+          "return_transport_valuation": 24,
+          "house_delivery": 18,
+          "house_ammunition_new_issue": 6
+        },
+        "recognised_total": 16877,
+        "commitments": 0,
+        "headroom": 1123,
+        "basis": "67 local days after 12/11; ledgered two-month scene and corrected workshop responsibilities."
       }
     ],
     "unpriced_exposures": [
       {
         "date": "12/11/0068 AC43",
-        "description": "Incremental cost, if any, of Galahad and Serault returning on the commission-authorised resupply working; no personal fare. Obtain the transport valuation before treating all recorded headroom as available.",
-        "amount": null
+        "description": "Return transport valuation now recognised once.",
+        "amount": 24,
+        "resolved_date": "19/01/0069 AC43"
       }
     ]
   },
@@ -197,28 +277,30 @@
     "original_requirement": 120,
     "accepted_trial": 192,
     "military_awaiting_dispatch": 0,
-    "house_approved_awaiting_delivery": 5,
+    "house_approved_awaiting_delivery": 0,
     "development_retained_at_works": 3,
     "total_made": 195,
     "unfinished": 0,
     "rework_queue": 0,
     "staff_completed_per_day_demonstrated": 12,
-    "status": "Training completed 11/11; military rifles remain at Cressault with Desmaret. Galahad and Serault returned to Auvrienne 12/11 without taking rifles. Production remains paused; House delivery remains outstanding. No loss established.",
+    "status": "195 completed rifles: 187 military at Cressault, five delivered to House Orsival, three development rifles at the works. Ordel runs the workshop autonomously, awaiting the Margrave and Marshal's report and production instructions based on military needs. No further output is claimed.",
     "military_at_cressault": 187,
     "military_issued_to_company": 160,
-    "military_reserve": 27
+    "military_reserve": 27,
+    "house_delivered": 5
   },
   "pay": {
     "commission_monthly": 150,
     "commission_start": "17/10/0068 AC43",
     "collegium_ended": "20/10/0068 AC43",
-    "last_paid": "01/11/0068 AC43",
-    "last_commission_payment": 70,
+    "last_paid": "01/01/0069 AC43",
+    "last_commission_payment": 150,
     "final_collegium_payment": 40,
-    "commission_accrued_unpaid": 60,
-    "next_due": "01/12/0068 AC43",
+    "commission_accrued_unpaid": 95,
+    "next_due": "01/02/0069 AC43",
     "next_full_month_if_service_continues": 150,
-    "advisor_remuneration": "No new rate or additional salary settled; existing 150/month commission continues."
+    "advisor_remuneration": "No new rate or additional salary settled; existing 150/month commission continues.",
+    "accrual_basis": "150 per completed local pay month; partial-month accounting uses 30 remuneration units at 5 each, capped at 150 for a complete month. The 31st civil day does not add a 31st pay unit."
   },
   "consignment": {
     "lifetime_sales": 47,
@@ -262,7 +344,15 @@
     "remaining_armour_piercing": 6400,
     "remaining_ordinary": 358,
     "valuation": "620 lorrats already recognised on issue; stock consumption is not a second financial charge.",
-    "pending_replenishment": "Earlier request unused: no additional issue, quantity, valuation, payment or commitment. Subsequent resupply remains ordinary unit responsibility."
+    "pending_replenishment": "Earlier request unused: no additional issue, quantity, valuation, payment or commitment. Subsequent resupply remains ordinary unit responsibility.",
+    "last_verified_date": "12/11/0068 AC43",
+    "current_count_status": "6,758 is the last verified Cressault return, not a fresh stock count for 19/01/0069. Subsequent unit consumption awaits a return.",
+    "house_delivery": {
+      "ordinary": 100,
+      "source": "Separate new depot issue; not subtracted from Cressault",
+      "valued_lorrats": 6,
+      "received_by": "19/01/0069 AC43"
+    }
   },
   "training": {
     "unit": "Captain Lucard Desmaret\u2019s regular company",
@@ -285,9 +375,9 @@
   "appointment": {
     "office": "Royal Advisor",
     "effective_date": "12/11/0068 AC43",
-    "status": "Effective by sovereign direction; formal instrument being amended, not yet signed or delivered.",
+    "status": "Effective since 12/11/0068; amended formal instrument signed and delivered during the subsequent construction-preparation period.",
     "mandate": "He may initiate inspections and investigations, convene responsible officials, require relevant returns and develop programmes without a separate commission. Directions in the Crown\u2019s name bind personnel and facilities assigned to the mandate; work may commence with authorised resources. Urgent findings receive immediate direct access to the Margrave; refusals require stated reasons and may be escalated to her. He may advise on any matter affecting the March. Field-army command, new taxes and binding foreign commitments require separate authorisation. Additional resources and powers must be provided; this is neither unlimited appropriation nor authority to seize every private asset. Existing manufacturing licence and intellectual-property rights remain unchanged.",
-    "resources": "Requirements requested; no new people, premises or funds allocated.",
-    "notices": "Circulation ordered, not confirmed."
+    "resources": "Residence chambers and six administrative-cover rooms provided; VAA opening and capital accounts are separate in vaa-accounts.json.",
+    "notices": "Relevant departments have received the notices."
   }
 }

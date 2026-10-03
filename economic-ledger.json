@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 74,
+  "revision": 78,
   "baseline": {
     "label": "Year 67 AC43 \u2014 21/10/0067 AC43",
     "scene": "Auvrienne Collegium, evening before departure",
@@ -39,7 +39,7 @@
     "replaces_temporary_modifier",
     "source"
   ],
-  "last_review_date": "12/11/0068 AC43",
+  "last_review_date": "19/01/0069 AC43",
   "reviews": [
     {
       "dates": [
@@ -88,6 +88,13 @@
         "12/11/0068 AC43"
       ],
       "finding": "Existing regional/category indices retained. Seven-day training completed; payroll accrued through return, with no new payday, stock issue or price shock. Royal Advisor appointed without new pay or appropriation; incremental return transport remains unpriced."
+    },
+    {
+      "dates": [
+        "01/01/0069 AC43",
+        "19/01/0069 AC43"
+      ],
+      "finding": "Year rollover and current review retain baseline regional/category price bands. No blanket inflation. Actual construction, Agency and household transactions recorded separately; capital project is not a general price multiplier."
     }
   ]
 }

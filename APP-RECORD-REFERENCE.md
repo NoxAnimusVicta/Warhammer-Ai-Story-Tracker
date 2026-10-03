@@ -1,6 +1,6 @@
 # App record reference
 
-Current source records for revision 74 (12/11/0068 AC43). This reference retains the complete prose consolidated or regrouped on the slate. Historical editions remain in repository history; the exact transcript preserves the sequence of events.
+Current source records for revision 78 (19/01/0069 AC43). This reference retains the complete prose consolidated or regrouped on the slate. Historical editions remain in repository history; the exact transcript preserves the sequence of events.
 
 Organisation: identity, contacts and personal accounts in Dossier; biology and psychic development in Physiology; projects and commission in Research; completed expedition and pod history in Chronicle; household accounts beside Estate. Veyrasse-specific social institutions are explicitly labelled in Malaspina. Duplicate project summaries and historical lodging are retained here rather than repeated across current panels.
 
@@ -36,31 +36,48 @@ Sovereign authorisation
 
 Royal technical commission
 
-The pilot programme and seven-day company instruction are complete. Galahad returned to Auvrienne on 12/11 and was appointed Royal Advisor, effective this evening. The formal instrument is being amended; notice circulation is ordered.
+Royal Advisor since 12/11/0068. The amended instrument is signed and delivered, with departmental notices issued. Current return: 19/01/0069 AC43.
+
 
 Standing Crown mandate
 
-Industry, infrastructure and defensive preparedness. He may initiate inspections, require returns, convene officials and direct assigned personnel and facilities using authorised resources. Urgent findings and disputed refusals go directly to the Margrave. Field-army command, new taxes and binding foreign commitments require separate authority.
+Initiate inspections and investigations, require returns, convene officials and direct assigned personnel and facilities using authorised resources. Urgent findings and disputed refusals go to the Margrave. Field-army command, new taxes and binding foreign commitments require separate authority.
 
-Next decision
 
-The Margrave awaits his requirements for people, premises and funds. No new allocation or advisory salary is settled; existing commission pay continues at 150/month.
+Autonomous workshop
 
-Rifles and ammunition · 12/11
+Ordel manages the works, awaiting the Margrave and Marshal’s report and military production instructions. Crown/military administration handles funding. No new task or personal funding is required from Galahad.
 
-187 military rifles remain at Cressault: 160 issued, 27 reserve. Five House rifles await delivery from Auvrienne; three development rifles remain there. Ammunition: 6,758 rounds — 6,400 armour-piercing and 358 ordinary. No top-up was issued.
 
-Instruction · completed 11/11
+Completed rifles
 
-All seven days complete, with NCOs able to sustain practice under Captain Desmaret. The training assignment has ended; operational command remains with the frontier chain. No hostile demonstration or offensive occurred.
+195 total: 187 at Cressault (160 issued, 27 reserve), five delivered to the estate and three retained for development. No additional batch is enacted. The House received 100 ordinary rounds from a separate depot issue.
 
-District intelligence · return dated 06/11
 
-Vauzel’s appreciation is retained: Caldrienne corridor personnel 18,400 estimated (16,000–21,500); corresponding Veyrassian district 11,600. Equipment and conditional reinforcement estimates remain in the full record. These are subsets of national forces, not a new muster.
+Programme account
+
+18,000 ceiling: 16,877 recognised cost, zero commitments and 1,123 headroom. Return transport and House delivery are included. Commission pay remains 150/month; no additional Advisor salary.
+
+
+Instruction completed
+
+Seven full days, 05–11/11/0068, with NCOs able to sustain practice under Captain Desmaret. Operational command remains with the frontier chain. No hostile demonstration or offensive occurred.
+
+
+Last verified ammunition · 12/11/0068
+
+6,758 rounds at Cressault: 6,400 armour-piercing and 358 ordinary. Subsequent unit consumption and resupply await a return.
+
+
+District intelligence · 06/11/0068
+
+Vauzel’s completed appreciation: Caldrienne corridor personnel 18,400 estimated (16,000–21,500); corresponding Veyrassian district 11,600. These are dated deployed subsets, not new national forces.
+
 
 Rights and other designs
 
-The 900-lorrat licence and one-off extension cover 192 accepted trial rifles. Original designs and future general manufacture rights remain Galahad’s. The carrier and oversized personal derivative remain unbuilt. Production is paused under Ordel with staff retained.
+The paid 900 licence and one-off extension cover 192 trial rifles. Original designs and future general manufacture rights remain Galahad’s. Carrier and personal derivative remain unbuilt.
+
 
 Full mandate, production and budget return · Reconciled accounts
 
@@ -112,19 +129,17 @@ Population estimate on 12/11/0068 AC43, 441 local days after the census of 27/08
 
 ## Funds and standing — complete source
 
-659 personal lorrats. Separate household funds: 1,160, of which 148 reserved and 1,012 uncommitted. Dorlac’s former 60 receivable was relinquished for goodwill; none remains due.
+923 personal lorrats. Household: 1,194 (148 reserved; 1,046 uncommitted). Commission pay 150 per month; 150 received on 01/12/0068 and 01/01/0069. Month 01 accrued unpaid: 95; next payday 01/02/0069. No additional Advisor salary.
 
-Commission pay: 150/month, paid on the first for the preceding month. On 01/11 received 70 commission pay and 40 final Collegium wages; salaried Collegium employment ended 20/10. Next commission payday 01/12. The 900 licence fee was already paid on 18/10.
+Rifle programme: 18,000 ceiling; 16,877 recognised, zero commitments, 1,123 headroom. Crown/military administration handles forward funding.
 
-State programme: 18,000 ceiling = 14,304 recognised cost + 180 outstanding commitments + 3,516 headroom. Not personal funds or profit. Expedition account closed, zero held; its complete settlement is preserved in the expedition accounts.
-
-Commission accrual for 01–12/11: 60 unpaid, not cash. No new Advisor pay rate. Recorded programme headroom excludes an unpriced incremental return-transport valuation.
+VAA opening account: 6,000 authority, 1,460 spent, 4,540 undrawn. Headquarters: 14 million capital ceiling; 1.8 million released, 1.36 million spent, 440,000 restricted cash. These are not personal funds. Expedition closed, zero held. Dorlac receivable zero.
 
 ## Relationships — complete source record
 
 Corva Orsival — Galahad’s mother and principal caregiver; she now writes of him as her son. Still married to Veskan Orsival, whose surname she took and retained. They had lived separately after drifting apart in grief following their shared son’s death in a Hunter strike on the railway. Both now reside at the estate; their shared home does not erase that grief or establish a complete marital reconciliation. Corva contains painful recollections and turns toward practical work and care; her reserve does not diminish her loss. She and Veskan still care deeply for each other.
 
-Corva knows Galahad’s wider station research, psychic reception, occasional moving objects, political ambitions and account of killing a Vouressan unarmed. She supports his education while questioning his methods of government. Before the expedition he called at least fortnightly and provided financial support; travel correspondence now maintains contact. The noble grant now formally recognises her as Lady Corva Orsival, Mother of the House.
+Corva knows Galahad’s wider station research, psychic reception, occasional moving objects, political ambitions and account of killing a Vouressan unarmed. She supports his education while questioning his methods of government. Before the expedition he called at least fortnightly and provided financial support; regular estate telephone calls now maintain contact. The noble grant now formally recognises her as Lady Corva Orsival, Mother of the House.
 
 Veskan Orsival — Corva’s husband and Galahad’s trusted father figure and protector. Their deceased son is the boy glimpsed in his memories. Veskan repeatedly revisits the loss and blames himself for being unable to prevent an unforeseeable danger. His need to remember and Corva’s withdrawal from painful recollection contributed to their separation. His continuing bond with her partly informed his decision to bring the foundling into her care.
 
@@ -162,7 +177,7 @@ Noemie Darcenne — Miravelle insurance assessor; correspondence helped corrobor
 
 Lucien Sarvelle — Drossane assay-office custodian. Allowed supervised external examination of the damaged purported sighting assembly and surviving records. Galahad suggested an ocular or telescope function aloud, withholding his private weapon hypothesis. Sarvelle agreed to retain his correspondence address; his uncertainty was not erased.
 
-Current family contact — Galahad visited from 12–17/10, contributed 1,000 to household funds and entrusted both parents with investments, including outside the estate. He privately warned them of possible Caldrienne risks without reporting an imminent threat. Telephone and two watchhounds are now present; armed guards remain prospective. Corva received his sealed belongings on 22/10. Household funds are 1,160; their grief and marital difficulties are not assumed erased.
+Current family contact — Galahad visited from 12–17/10, contributed 1,000 to household funds and entrusted both parents with investments, including outside the estate. He privately warned them of possible Caldrienne risks without reporting an imminent threat. Telephone and two watchhounds are now present; armed guards remain prospective. Corva received his sealed belongings on 22/10. Household funds are 1,194; their grief and marital difficulties are not assumed erased.
 
 Drossane operatives — six unnamed Caldrienne intelligence personnel, coerced after the failed false flag. At Valdrec they reaffirmed service; observed scars support their injury story and a procurement meeting was independently corroborated. Their superiors’ report remains unseen. A correspondence channel is arranged. Future loyalty and wider disinformation are not independently guaranteed.
 
@@ -170,21 +185,27 @@ Expedition colleagues — all five returned uninjured and increasingly regard Ga
 
 Professional network — forty recurring correspondents total, including Valcera, Cersault, Marcelet and Darcenne, alongside wider acquaintances. Most are unwitting information sources, not sworn agents.
 
-Unnamed psychic Order — six practitioners in six countries: Mirelle Saurent in Tervessac (shipping impressions), Etienne Caurrel in Rivessole (waterworks foreman, telekinesis), Delphine Calvet in Orsevigne (manuscript custodian, psychometry), Julien Vardelle in Grevallier (healing), an unnamed Bellacenne printer and unnamed Cavrelisse court clerk. Teaching, assistance, introductions and correspondence have begun. Two others declined without hostility. No headquarters, permanent name, perfect obedience or global telepathic network.
+Unnamed psychic Order — six practitioners in six countries: Mirelle Saurent in Tervessac (shipping impressions), Etienne Caurrel in Rivessole (waterworks foreman, telekinesis), Delphine Calvet in Orsevigne (manuscript custodian, psychometry), Julien Vardelle in Grevallier (healing), Mathieu Vessorel, the Bellacenne printer, and Laurent Veyrac, the Cavrelisse court clerk. Teaching, assistance, introductions and correspondence have begun. Two others declined without hostility. No operational headquarters, permanent name or perfect obedience. The later summons, arrivals, instruction and homeward departures are recorded in VAA-REFERENCE.md; no permanent psychic network is established.
 
-Odrienne Orcemont — Margrave of Veyrasse. Privately briefed on Galahad’s designs and reported Caldrienne cell; authorised his accepted technical commission with direct reporting access. Appointed Galahad Royal Advisor on 12/11 and authorised the standing Crown mandate; resource requirements are now requested. The formal instrument remains in preparation.
+Odrienne Orcemont — Margrave of Veyrasse. Privately briefed on Galahad’s designs and reported Caldrienne cell; authorised his accepted technical commission with direct reporting access. Appointed Galahad Royal Advisor on 12/11 and authorised the standing Crown mandate; later authorised the VAA and its opening allocation. The amended instrument is signed and delivered; departmental notices are issued.
 
-Calvren Vaucerin — Marshal; executed the agreement on 17/10 and authorised the enlarged trial batch. With Darscelet on 03/11 settled dispatch, the receiving company and seven full training days. Accepted the final report and recommended Galahad’s appointment on 12/11; accompanies the current royal audience. Operational command remains separate.
+Calvren Vaucerin — Marshal; executed the agreement on 17/10 and authorised the enlarged trial batch. With Darscelet on 03/11 settled dispatch, the receiving company and seven full training days. Accepted the final report and recommended Galahad’s appointment on 12/11; attended the completed royal audience and subsequent restricted Agency discussion. Operational command remains separate.
 
 Cevrel Darscelet — Lieutenant-General and chief of general staff; sponsored the referrals, supports the programme and advisory consideration. The three principals know the reported attack and cell, not automatically the private psychic means or broader research secrets.
 
-Armand Serault — Captain; programme liaison responsible for administration, security, accounts and reporting. Accompanied the consignment to Cressault, checked the 160 issued and 27 reserve rifles, and cleared access to Vauzel’s briefing. The subsequent five training days used existing stock; his top-up request was not drawn. Returned with Galahad to Auvrienne on 12/11. Five approved House rifles still await delivery from Auvrienne.
+Armand Serault — Captain; programme liaison responsible for administration, security, accounts and reporting. Accompanied the consignment to Cressault, checked the 160 issued and 27 reserve rifles, and cleared access to Vauzel’s briefing. The subsequent five training days used existing stock; his top-up request was not drawn. Returned with Galahad to Auvrienne on 12/11. Five House rifles have been delivered to the estate with 100 ordinary rounds from a separate depot issue.
 
 Bastien Ordel — foreman of the eighteen-person core assignment. Staff demonstrated twelve completed rifles per production day on the additional batch under his management and Galahad’s oversight; the team remains employed during the pause.
 
 Lucard Desmaret — Captain of the 160-person regular company at Cressault; posted in the district fourteen months, in command nine months at arrival. Reported each morning during the completed 05–11/11 training period; now continues company practice under his own command, retaining discipline and administration. Successful private firing, extraordinary marksmanship and their discussion of unity against the Hunters deepened professional respect. His officers and soldiers are increasingly receptive, without a personal oath or guaranteed political allegiance.
 
 Mathis Vauzel — Major and district intelligence lead. Met Galahad and Desmaret at district headquarters from 18:00 on 06/11 with an operations officer present. Delivered the dated corridor appreciation on 06/11, including force ranges, equipment and conditional reinforcement windows. Professional candour increased under informed questioning and calming influence; protected source identities remain withheld. The briefing is complete; its intelligence remains dated 06/11, not refreshed by the later return.
+
+Agency knowledge: On 12/11 Odrienne and Vaucerin privately authorised the VAA and its 6,000-lorrat opening allocation. They witnessed the controlled lightning and received directed mental speech; Galahad told them of existing overseas operatives but withheld identities and operational particulars. Darscelet was not present and has not been briefed on this Agency. The secretary’s recent display/proposal memory was selectively erased, retaining the dismissal instruction and an unexplained interval.
+
+Order summons: All six accepted members received Galahad’s directed mental call to Auvrienne late on 12/11, with discreet travel and reimbursement promised. All six subsequently arrived, accepted Agency work and received instruction; they departed homeward on 19/01/0069 with travel provided. The printer in Bellacenne and clerk in Cavrelisse are members; the two people who declined were other unnamed practitioners.
+
+Agency membership and training: Mirelle Saurent, Etienne Caurrel, Delphine Calvet, Julien Vardelle, Mathieu Vessorel and Laurent Veyrac all accepted and trained in Auvrienne, then departed on 19/01/0069. Their abilities and home societies are recorded in VAA-REFERENCE.md. Both parents remain safe in regular telephone contact.
 
 ## Research — complete source record
 
@@ -200,7 +221,7 @@ Architectural work: unbuilt national-wonder designs for Veyrasse, including imme
 
 Mechanical creations: a naturalistic scrap-metal bird conceals a wind-up mechanism. Drawing the winding gear down its back stores energy for short hops and chirruping mechanical sounds. Small engines and automata accompany an articulated snake with more than a hundred thousand functional and decorative components. Its tiny heat engine circulates a thimbleful of water as working fluid, supplied by a separate fuel charge; it can run for an hour under suitable conditions. Pistons drive the joints; contact pressure at the head redirects it at obstacles. Its components include scales and embellishments. Fingers, nails and the supported bone-blade tip finish the tiny parts. Enhanced vision and motor control suffice without magnification, which makes the work easier.
 
-Prospective arms study: The Auvrienne 762 Heavy Semi-Automatic Infantry Rifle has completed its pilot run: 192 accepted trial rifles plus three development rifles. Of the accepted batch, 187 reached Cressault late 04/11: 160 issued and 27 reserve. Five approved House rifles still await delivery from Auvrienne. Private firing and all seven company training days are complete. Strong training results support the accepted report; no hostile operational demonstration occurred or remains a condition of the now-effective appointment. The separate oversized personal derivative remains undecided and the Airborne Carrier Command Vessel remains an unbuilt preliminary concept. Original designs remain Galahad’s; the paid 900 licence and defined one-off extension do not convey perpetual general manufacture rights. The older station prototype remains incomplete and unreliable, without a dependable ammunition supply.
+Prospective arms study: The Auvrienne 762 Heavy Semi-Automatic Infantry Rifle has completed its pilot run: 192 accepted trial rifles plus three development rifles. Of the accepted batch, 187 reached Cressault late 04/11: 160 issued and 27 reserve. Five House rifles have been delivered to the estate with 100 ordinary rounds from a separate depot issue. Private firing and all seven company training days are complete. Strong training results support the accepted report; no hostile operational demonstration occurred or remains a condition of the now-effective appointment. The separate oversized personal derivative remains undecided and the Airborne Carrier Command Vessel remains an unbuilt preliminary concept. Original designs remain Galahad’s; the paid 900 licence and defined one-off extension do not convey perpetual general manufacture rights. The older station prototype remains incomplete and unreliable, without a dependable ammunition supply.
 
 Charms and older arts: delicate carvings in hunted teeth, bone, hide and scale use interlinked hooked strokes around a central lozenge, a traditional sign of protection and fortunate passage. Fine emerald sparks char borders with increasing control. Building on Orchant’s instruction, repeated expedition trials now reliably retain a familiar psychic impression for several days and distinguish impressed pieces from inert matching decoration. Reliable protection against misfortune remains unproven. Galahad works in the vocabulary and traditions of local magic, without an offworld education in the Warp.
 
@@ -212,7 +233,7 @@ Independent experimentation can precede contact with other traditions. Aeldari p
 
 Later expedition experiments established lasting warning impressions on small objects under tested conditions. This specific achievement is not a general protective ward, a self-powered machine or a new psychic material. The private notebook records conditions and repeatability.
 
-Further research direction: Galahad can derive and fabricate new work independently; industrial adoption depends on materials, production capacity and ordinary operators. His current intended route builds public standing through pumping, water, sewerage and other civil improvements. The examination is complete; the expedition is complete and a royal technical commission is accepted.
+Further research direction: Galahad can derive and fabricate new work independently; industrial deployment depends on materials, production capacity and ordinary operators. His current intended route builds public standing through pumping, water, sewerage and other civil improvements. The examination is complete; the expedition is complete and a royal technical commission is accepted.
 
 Regional knowledge: first-year books, railway conversation and local news established knowledge of Veyrasse and its neighbours, the Cressault armistice, trade dependencies and local military institutions, military specialisations, relationships, food supply and mobilisation. The atlas records administrative seats, kilometre distances and ordinary passage estimates. Short wilderness routes and weather hazards are known from private night excursions.
 
@@ -232,7 +253,11 @@ Production management: Workflow, staffing, inspection and stores were reorganise
 
 Frontier instruction and assessment: Desmaret fired twelve ordinary rounds without stoppage on 04/11; Galahad then placed ten rapid shots through one entry point with almost no visible recoil. The 05–06/11 training days covered firing, maintenance, weather effects and handling, with NCOs increasingly correcting errors independently. All seven days concluded successfully on 11/11; NCOs can sustain practice under Desmaret. The overnight base survey documented clothing, drying, food, water, maintenance, parts, fuel, readiness and defensive-work bottlenecks, without enacting improvements. Vauzel’s 06/11 district briefing supplied a central Caldrienne corridor estimate of 18,400 personnel (16,000–21,500), against 11,600 in the corresponding Veyrassian district, with equipment estimates and conditional reinforcement windows. These are national-force subsets. Authorised extracts and confidence notes are retained; protected source identities are withheld. The briefing is complete and its estimates remain dated 06/11. See ROYAL-COMMISSION.md for the complete appreciation.
 
-Royal advisory mandate: He may initiate inspections and investigations, convene responsible officials, require relevant returns and develop programmes without a separate commission. Directions in the Crown’s name bind personnel and facilities assigned to the mandate; work may commence with authorised resources. Urgent findings receive immediate direct access to the Margrave; refusals require stated reasons and may be escalated to her. He may advise on any matter affecting the March. Field-army command, new taxes and binding foreign commitments require separate authorisation. Additional resources and powers must be provided; this is neither unlimited appropriation nor authority to seize every private asset. Existing manufacturing licence and intellectual-property rights remain unchanged. The appointment is effective 12/11; the formal instrument is being amended. People, premises and funds for the expanded remit remain to be proposed. No new research project, carrier construction or general rifle production licence is enacted.
+Royal advisory mandate: He may initiate inspections and investigations, convene responsible officials, require relevant returns and develop programmes without a separate commission. Directions in the Crown’s name bind personnel and facilities assigned to the mandate; work may commence with authorised resources. Urgent findings receive immediate direct access to the Margrave; refusals require stated reasons and may be escalated to her. He may advise on any matter affecting the March. Field-army command, new taxes and binding foreign commitments require separate authorisation. Additional resources and powers must be provided; this is neither unlimited appropriation nor authority to seize every private asset. Existing manufacturing licence and intellectual-property rights remain unchanged. The appointment is effective 12/11; the amended instrument is signed and delivered. The VAA has a separate opening allocation; residence chambers have been provided. The isolated headquarters is now under construction under a separate 14-million capital ceiling. Agency instruction and research are underway; no carrier construction or further rifle batch is enacted.
+
+Read VAA-REFERENCE.md and vaa-accounts.json. All six members have received differentiated instruction and are returning home after departure on 19/01/0069. Study and infiltration are current priorities; broader recruitment and active operations await the headquarters. Opening account: 1,460 spent, 4,540 undrawn. Separate headquarters: 14 million authorised, 1.8 million released, 1.36 million spent. Construction began 27/11/0068; completion deadline 19/11/0069. The aviation city remains deferred. Research, validation and production remain separate.
+
+Ordel manages the autonomous rifle workshop. It awaits the Margrave and Marshal's report and production instructions, then produces according to military needs and requests. Crown and military administration handle the associated authorisation and funding; no new task or personal payroll support is required from Galahad.
 
 ## Holdings — complete source record
 
@@ -240,7 +265,7 @@ Land and tenure: The 56-hectare Orsival estate near Serravonne is now the family
 
 House and workshop: The two-storey grey masonry house has a tiled roof and service wing. Veskan was settled in a ground-floor guest bedroom during his recovery. The drive-facing room is Galahad’s private study; an upstairs bedroom is designated for the library and archives. The first 40-lorrat furniture purchases are paid; further replacement remains gradual. The long low storehouse across the service yard is assigned as his workshop. Roof, lock, light and floor repairs are complete; the building is dry, secure and lit. Benches, specialist tools, machinery and power equipment are separate decisions. No completed machine shop or major rebuilding has been awarded.
 
-Estate operations: Household funds are 1,160, with 148 reserved and 1,012 uncommitted after the 1,000 contribution and recorded purchases/payments. Both parents may make informed investments; Corva keeps the accounts. Telephone installed by 17/10 in the study, two/month plus toll calls. Two trained adult watchhounds and equipment acquired for 68. Minor tenant drain and roof repairs cost 12; broader drainage remains unresolved. Tenants retain their crops and protected occupancies. No new venture, brewery or adopted crop survey. The earlier actual operating surplus of 162 and annual model of 218 are distinct historical records.
+Estate operations: Household funds are 1,194, with 148 reserved and 1,046 uncommitted after the 1,000 contribution and recorded purchases/payments. Both parents may make informed investments; Corva keeps the accounts. Telephone installed by 17/10 in the study, two/month plus toll calls. Two trained adult watchhounds and equipment acquired for 68. Minor tenant drain and roof repairs cost 12; broader drainage remains unresolved. Tenants retain their crops and protected occupancies. No new venture, brewery or adopted crop survey. The earlier actual operating surplus of 162 and annual model of 218 are distinct historical records.
 
 Collegium lodging and possessions: Salaried employment and room occupancy ended on 20/10. Private papers, both recovered psychic collections, books, tools, automata, hunting materials and wrapped greatsword were packed and delivered to the estate on 22/10 against Corva’s receipt. Institutional property was returned; institutional furniture is not presumed a gift. The works remain state premises under Ordel during the pause; Galahad returned to Auvrienne on 12/11 with his relevant commission papers and returns.
 
@@ -248,6 +273,8 @@ Station belongings and records: Original station papers, earlier books and corre
 
 Commissions and consignment: The old civil commission advance remains returned and its cancelled balance is not revived. Dorlac’s 60 consignment proceeds were relinquished for goodwill, leaving no receivable; one charm remains unsold. Her supposed Ceralte supplier remains a cover story. The separate 900 military trial licence was paid on 18/10; future general production rights remain Galahad’s.
 
-Institutional loans and standing: Borrowed Collegium instruments are not personal property and have been returned. The royal programme has allocated state premises, eighteen core staff and an 18,000 ceiling, not a privately owned factory or cash grant. At Cressault there are 160 issued military rifles and 27 reserve rifles; five approved House rifles await delivery from Auvrienne, where three development rifles remain. Of 12,000 issued rounds, 6,758 remain after trials and seven training days: 358 ordinary and 6,400 armour-piercing. No top-up was issued. Training authority has ended; the standing Royal Advisor mandate is effective. Its additional resources remain unsettled, and no privately owned engineering company has been founded.
+Institutional loans and standing: Borrowed Collegium instruments are not personal property and have been returned. The royal programme has allocated state premises, eighteen core staff and an 18,000 ceiling, not a privately owned factory or cash grant. At Cressault there are 160 issued military rifles and 27 reserve rifles; five House rifles have been delivered to the estate, while three development rifles remain at the Auvrienne works. Of 12,000 issued rounds, 6,758 were last verified on 12/11 after trials and seven training days: 358 ordinary and 6,400 armour-piercing. Later unit consumption awaits a return; the household issue came separately. Training authority has ended; the standing Royal Advisor mandate is effective. The separate VAA authorisation is held by the Crown, and no privately owned engineering company has been founded.
 
-Drossane accommodation: Historical lodging during days 85–90, now vacated and fully included in settled expedition costs: stone guesthouse, shared upper corridor and sitting room, high-beamed corner room with reinforced bed, worktable, coal hearth, electric lamps and corridor hot-water bathing. The home visit is complete; Galahad is now in Auvrienne at his Royal Advisor audience.
+Drossane accommodation: Historical lodging during days 85–90, now vacated and fully included in settled expedition costs: stone guesthouse, shared upper corridor and sitting room, high-beamed corner room with reinforced bed, worktable, coal hearth, electric lamps and corridor hot-water bathing. The home visit is complete; Galahad is now in Auvrienne in his Royal Advisor’s chambers.
+
+Royal Advisor’s chambers: Prepared in the residence’s administrative wing on 12/11. Sitting room with desk, tall windows and tiled stove; adjoining workroom with cleared shelves; bedchamber with the delivered appropriately sized bed. Keys issued. These are official accommodation, not privately owned property or the Agency headquarters.

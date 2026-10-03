@@ -1,6 +1,6 @@
 # House Orsival — current visual reference
 
-Revision 48 · Player-supplied estate artwork · Visual baseline recorded before departure, 21/10/0067 AC43. Current review: 05/11/0068 AC43. No newer artwork; initial repairs and first furniture purchases are now complete.
+Revision 48 · Player-supplied estate artwork · Visual baseline recorded before departure, 21/10/0067 AC43. Current review: 19/01/0069 AC43. No newer artwork; initial repairs and first furniture purchases are now complete.
 
 ![House Orsival estate, current appearance](estate-r48.jpg)
 
@@ -14,7 +14,7 @@ Use this image when describing arrival, views from the house, movement around th
 
 The accepted estate remains 56 hectares: 20 arable, 12 meadow/pasture, 14 woodland, 6 orchard/market ground and 4 buildings, cottages, tracks and domestic ground. This perspective view is not a cadastral survey. Distant villages, mountains, water and the wooded tower are surrounding scenery unless ownership is established later. Visible figures, carts and animals do not create a new inventory of personally owned assets or staff. Existing tenancies and boundaries remain. Actual receipts, paid repairs and household funds are reconciled in ESTATE-ACCOUNTS.md; the annual forecast remains a separate model.
 
-The artwork records the predeparture property. Narration must add the completed initial repairs and first furniture purchases; it does not imply an equipped workshop or completion of all later furnishing. Corva and Veskan live here, with Lucette managing daily household service. Since the artwork, a telephone has been installed in the study, two trained watchhounds acquired and minor tenant drainage/roof defects repaired. Galahad’s former Collegium possessions and private collections arrived on 22/10. Five approved household rifles remain at the Auvrienne works awaiting delivery; they are not present in this image or on the estate yet. No story time passes through adopting the image.
+The artwork records the predeparture property. Narration must add the completed initial repairs and first furniture purchases; it does not imply an equipped workshop or completion of all later furnishing. Corva and Veskan live here, with Lucette managing daily household service. Since the artwork, a telephone has been installed in the study, two trained watchhounds acquired and minor tenant drainage/roof defects repaired. Galahad’s former Collegium possessions and private collections arrived on 22/10. Five household rifles and 100 ordinary rounds have since arrived at the estate. These later possessions are not depicted in the baseline image. No story time passes through adopting the image.
 
 ## Future changes
 

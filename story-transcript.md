@@ -14735,3 +14735,445 @@ She slides the amended sheet towards the centre of the table.
 **Armor/Clothing (Equipped):** Charcoal coat, shirt, dark trousers and leather boots; travel-worn  
 **Gear/Inventory:** Personal effects and secured private notebooks; retained copies of training and intelligence papers  
 **Currency:** 659 Lorrats personal; household funds separate
+
+
+## Live continuation — User — Propose the Veyrasse Arcane Agency
+
+"There is a weapon that few even recognize as a viable option. Something that never runs out of ammunition and is far more versatile than a firearm." I raise my right hand slowly and make emerald lighting arc and volt across fingertips violently but staying within 15 centimeters of my hand. "The Arcane. *I let the sounds of the lighting illuminate my point as the arcs crack and pop loudly across my palm* "I already have operatives across the globe. I will require access to a black budget. Seen, reviewed and authorized by the two of you and the two of you alone. If we are to make these abilities into a weapon that can be used against our enemies we must ready the element of surprise. We must also look beyond the borders of our nation for recruitment in order to deprive any other nations who may attempt this same operation. I will call this operation the VAA the Veyrasse Arcane Agency. I will function as the active Director of this Shadow Agency and it's secrecy and security must be a priority of Veyrasse." *I clench my fist and the lightning ceases leaving a deafening silence in it's absence*.
+
+## Live continuation — Assistant — A private undertaking
+
+Emerald light strikes the polished table and turns the windows into black mirrors. Each sharp discharge throws the bones of your fingers into momentary relief. The secretary recoils against his chair; Vaucerin’s hand closes on its wooden back.
+
+Neither interrupts you.
+
+When your fist closes, the fire sounds suddenly small. A sharp, metallic smell lingers in the warm room.
+
+Odrienne looks first at your empty hand, then towards the secretary.
+
+“Leave the appointment papers. Wait in the outer office. Nothing of this discussion is to be entered into the ordinary record.”
+
+“Yes, Excellency.”
+
+He gathers himself, bows and leaves without looking at your hand again. Vaucerin follows him to the door, gives a quiet instruction to the guard outside and closes it himself.
+
+The Margrave waits until he returns.
+
+“He has heard the proposal,” she says. “We shall have to account for that in its secrecy.”
+
+Vaucerin remains standing.
+
+“How many of your people can do anything approaching what you just showed us?”
+
+His eyes settle on your fingers. There is apprehension there, but also the concentrated interest you saw when he first examined the rifle drawings.
+
+“And how many can do something less conspicuous? Find what is concealed. Carry a message. Recognise danger before a sentry sees it.”
+
+He draws his chair closer to the table.
+
+“I can put another rifle into a soldier’s hands. Those abilities would answer problems for which I presently have very poor solutions.”
+
+Odrienne folds her hands before her.
+
+“You have been building this during the expedition.”
+
+It is an observation, quietly made. Your familiar ease still rests over the room, softening the alarm left by the display. It does little to diminish her interest in the reach of the organisation you have just claimed.
+
+“Very well. I approve the establishment of the Veyrasse Arcane Agency, with you as its founding Director. Recruitment, instruction, research and intelligence will form its initial remit. Its detailed accounts and reports will come to the Marshal and me.”
+
+She glances at Vaucerin, who nods once.
+
+“We can arrange a confidential allocation,” he says. “The treasury must record money leaving its custody. It need not receive the identities of your practitioners or a description of their work. Payments can be accounted for under a sealed special-service allocation, with the particulars retained here.”
+
+“And once that allocation is settled, ordinary expenditure within it will be yours to direct,” Odrienne adds. “I have no intention of approving every railway ticket.”
+
+She leans forward slightly.
+
+“Foreign recruitment is sensible. Offer people a reason to come to us, or to work with us where they are. I want to know which arrangement you propose. An agency housed in Veyrasse and an organisation spread through foreign governments have rather different needs.”
+
+Vaucerin rubs a thumb along the edge of the table.
+
+“We will also need to distinguish a promising practitioner from a trained operative. I would rather have six people whose abilities you understand than sixty whom nobody has properly assessed.”
+
+The Margrave reaches for a fresh sheet herself. At its head she writes the agency’s name, then places her pen beside it.
+
+“Tell us what you already have, Director. Numbers and capabilities first; names can wait. Then what you require for the first three months—premises, support staff and money. We can settle an opening budget here.”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years and 3 months, plus roughly two weeks; exact birthday unknown  
+**Date:** 12/11/0068 AC43, evening  
+**Reputation:** Royal Advisor; privately authorised founding Director of the Veyrasse Arcane Agency  
+**Weapons (Equipped):** None  
+**Armor/Clothing (Equipped):** Charcoal coat, shirt, dark trousers and leather boots; travel-worn  
+**Gear/Inventory:** Personal effects and secured private notebooks; retained copies of training and intelligence papers  
+**Currency:** 659 Lorrats personal; household funds separate. Agency budget not yet set.
+
+
+## Live continuation — User — Memory removal and Hunter hypothesis
+
+I reach out to the Secretary, find the recent memory and destroy it. Leaving lost time and only the final memory of the Margrave telling them to wait in the outer office. "There is no need, secrecy has been maintained, the secretary will remember nothing." *then my tone shifts and both the Marshal and the Margrave become aware my lips are no longer moving as my voice is projected into their minds. "As for what I already have. You have been given the information I am willing to give. The less either of you know the better. I can read your surface thoughts as easy as breathing. I could rip any memory from your mind at my choosing as I just did with the Secretary. I do not know if there is anyone that compares to my level of skill. It seems doubtful. But neither of you have any capability to defend your minds in any reasonable way from someone with these talents. I will provide reports on information that is relevant to you. Providing exact operational details would be a security breach which I will not allow. You may have factored in the human element. But what about the alien? Have neither of you considered the lack of any large scale formal institution or group of people wielding these talents have not risen up in recent history? Especially given the potential advantage it provides in war. The information I have gathered is extensive but the majority was common and not difficult to locate. It was simply spread out, concealing the wider picture. Every time someone gets close to formalizing an achievement in the realm of the arcane they seem to expire. Some appear to be mundane, some appear to be war, some appear to be Hunter attacks. I posit they are all belonging to the latter source. The Hunters use stealth technology of some kind in great abundance and we know misdirection is a tool of which they are intimately familiar. They are gutting any attempt before it is able to stabilise, in the same way they do for large collections of Hunter Technology. They will come for me and I am confident I can deal with them to a point. Alone I will hopefully captivate their attention as a high value target worth hunting which force the Hunters to focus on killing me as opposed to hunting down operations discovering Arcane knowledge or Technology closer to parity with the Hunters. This is why secrecy is paramount. We do not know the breadth of their technological scope. You must assume every shadow has eyes and ears."
+
+## Live continuation — Assistant — Terms of concealment
+
+Beyond the closed door, the secretary’s thoughts are still occupied by the room he has just left: green light, your raised hand, the agency’s name.
+
+You find the recent sequence and tear it away.
+
+His recollection breaks. The Margrave’s instruction remains—wait in the outer office—but the conversation preceding it is gone. For a moment he cannot account for why he is standing beside the chair instead of sitting in it. He touches the chair’s back, then lowers himself into it, troubled by the missing interval.
+
+Inside, Odrienne draws breath to answer your spoken assurance.
+
+Your next words arrive behind her eyes.
+
+Her mouth closes. Vaucerin looks directly at your unmoving lips, then towards the door. Neither speaks while you continue. Their first reactions reach you readily: the Marshal’s urgent concern with what you might already have learned; the Margrave’s sudden awareness of how little privacy this room affords her.
+
+The calm surrounding them keeps either from recoiling. It does not prevent understanding.
+
+When you finish, Odrienne leaves the fresh sheet untouched.
+
+“Then we shall keep no roll of your people here.”
+
+Her voice is quieter now.
+
+“I accept that knowing their names could endanger them. Give us the findings we need to act upon, and tell us how certain you are of them. Where a recommendation depends on evidence we cannot safely examine, say so.”
+
+Vaucerin sits back slowly.
+
+“The pattern you describe warrants investigation. I would take it seriously even if only some of those deaths were their work.”
+
+He pauses, choosing his next words.
+
+“But attracting a hunter does not tell us where his companions are. They may pursue you and your people at the same time. Build the agency so it can survive that.”
+
+Odrienne’s attention stays on you.
+
+“The accounts can distinguish recruitment, instruction, premises and research without identifying the recipients. You will keep the particulars. The Marshal and I will review the allocation, its use and the results you can safely report. We need enough to decide whether to expand your means; we do not need a document that would condemn every person working for you if it were stolen.”
+
+Vaucerin nods, though his expression remains grave.
+
+“Your existing people need not all be brought into one building merely because we have given the undertaking a name.”
+
+For several seconds, the only sound is the fire.
+
+Then Odrienne speaks again.
+
+“You have also shown us something about our own position, Lord Orsival. I understand it.”
+
+Her gaze briefly moves to the door through which the secretary departed.
+
+“If you remove something from my memory, you remove part of the judgement you are asking me to exercise. I expect you to leave that judgement intact.”
+
+There is no theatrical challenge in it. She is watching you closely, making a request whose enforcement she now knows she cannot take for granted.
+
+“We can proceed without your operational details. Tell us the sum you require to begin.”
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years and 3 months, plus roughly two weeks; exact birthday unknown  
+**Date:** 12/11/0068 AC43, evening  
+**Reputation:** Royal Advisor; privately authorised founding Director of the Veyrasse Arcane Agency  
+**Weapons (Equipped):** None  
+**Armor/Clothing (Equipped):** Charcoal coat, shirt, dark trousers and leather boots; travel-worn  
+**Gear/Inventory:** Personal effects and secured private notebooks; retained copies of training and intelligence papers  
+**Currency:** 659 Lorrats personal; household funds separate. Agency budget not yet set.
+
+
+## Live continuation - User - Agency requirements and Order summons
+
+I spend the rest of the meeting explaining what I will require for the Agency with as few details as possible. Then I have a set of chambers prepared for me on site so I do not have to constantly wander around Auvrienne as the new Royal Advisor. Once I am finished with the Margrave and Marshal I go to my new chambers and send out psychic projections of my voice to all the members of my Order asking them all to gather in Auvrienne and meet me. I will ensure they are reimbursed for the costs and they must do so with the utmost secrecy.
+
+## Live continuation - Assistant - Chambers and summons
+
+The remaining discussion concerns what must be provided, rather than whom you intend to employ.
+
+Travel expenses. Discreet accommodation. Money for instruction, instruments and supplies. Somewhere to receive people without explaining their business to every official who sees them arrive.
+
+You give no names.
+
+Vaucerin draws the requirements together on a single sheet. Odrienne reads it, makes two alterations, and signs beneath them.
+
+“Six thousand lorrats for the first three months,” she says. “An opening allocation. If your requirements exceed it, bring the additional requirement directly to us.”
+
+The money will remain in Crown custody until drawn against the confidential account. Travel and subsistence for your first arrivals fall within it; a permanent installation will require a separate proposal. No list of practitioners accompanies the authorisation.
+
+Your own accommodation is simpler.
+
+By the time you leave, a steward has been instructed to prepare a suite in the residence’s quieter administrative wing. The explanation requires no invention: the Royal Advisor needs rooms close to his work.
+
+***
+
+The steward takes you through a passage where the lamps have already been lowered for the night. Your shoulders nearly fill the doorway into the sitting room.
+
+There is a substantial writing desk beneath tall windows, a tiled stove giving off steady warmth, and a smaller adjoining room with shelves emptied for your papers. Beyond it lies a bedchamber. Someone has sensibly removed the bed’s footboard, although the mattress remains too short. The steward regards it with visible embarrassment.
+
+“A suitable frame will be commissioned in the morning, my lord. For tonight, we can extend the bedding.”
+
+A washstand carries fresh water, soap and thick folded towels. Beeswax and warmed dust mingle with the faint smell of coal smoke. Outside, carriage wheels rattle over the courtyard stones; somewhere below, a servant closes a shutter with two hollow knocks.
+
+Your papers are placed within reach. The steward leaves you the keys and withdraws.
+
+For the first time that evening, you are alone.
+
+You settle behind the desk and turn your attention outward.
+
+You remember each of them as more than a face: the particular texture of a mind encountered and instructed, the way an impression formed before words, the small differences in how each reached for their gift. Those recollections give your purpose direction.
+
+Mirelle. Etienne. Delphine. Julien. The printer in Bellacenne. The clerk in Cavrelisse.
+
+One after another, you reach for them.
+
+The city’s noises recede from your attention. Your voice travels without crossing your lips, addressed to six familiar minds far beyond these walls. You give them the summons to Auvrienne, the assurance that their expenses will be reimbursed, and the requirement for utmost secrecy. You make clear that the journey must not advertise a common destination or association.
+
+Recognition answers first as emotion: surprise, then the sudden attention of someone hearing a familiar voice where no speaker stands.
+
+Across the six contacts, the responses differ. One catches your meaning almost immediately. Another needs the message repeated as disbelief gives way to understanding. You impress the destination and purpose clearly enough to remain after your presence withdraws.
+
+You feel the summons received by all six. Their reactions are distinct, but none conveys a refusal. There are practical concerns—work, obligations, the journey—which cannot be settled merely by hearing your voice. They will have to make their arrangements and travel.
+
+When you release the final contact, the stove is still ticking beside you.
+
+The room has not changed. Beyond it, a household is retiring for the night, unaware that you have just called people to its city from across the world.
+
+---
+
+**Date:** 12/11/0068 AC43, late evening  
+**Location:** Royal Advisor’s chambers, Auvrienne  
+**Age:** Approximately 3 local years and 3 months, plus roughly two weeks  
+**Personal funds:** 659 Lorrats  
+**Agency funds:** 6,000 Lorrats authorised for the opening three months; held by the Crown, none drawn  
+**Order:** All six practitioners have received the summons; travel and arrival dates remain pending.
+
+
+## Live continuation — User — Headquarters site and reception arrangements
+
+I spend the next week finding and organising a site for the head quarters of the agency. I also have several small rail yards organised to be built several kilometres away that have the ability to move the trains to underground tracks that can allow supplies to be transported down into the head quarters once excavations are done to prevent land vehicles from travelling directly the agency to assist in secrecy. The base will have a small landing strip built above it to allow for aircraft however but air travel is to be restricted and on tight schedules. Only to be done under the cover of darkness. The excavations will be going extremely deep so it can sustain targeted attack by large scale artillery over an extended period of time. To observe the sites i walk outside the city and then run to the site I wish to observe, only slowing down to a walking pace to pass people or civilisation before speeding back up to my regular sprint. I also organise rooms  in the administrative wing for my Order Members to stay when they arrive and I have them put as administrative staff for my Royal Advisor position.
+
+## Live continuation — Assistant — The site packet
+
+By the third morning, the map on your desk has acquired so many annotations that the original printing is almost obscured.
+
+You work outward from the available land records, railway surveys and geological reports, comparing what they claim with what you can see for yourself. A promising location on paper can be dismissed within minutes of reaching it. Elsewhere, a neglected tract proves more useful than its indifferent description suggests.
+
+Your journeys quickly develop a rhythm. Beyond Auvrienne’s last houses, once the road and its travellers are out of sight, you lengthen your stride. Cold air presses your shirt against your chest. Grass darkened by rain lashes beneath your boots; hedges and shallow watercourses interrupt the ground without interrupting your progress for long.
+
+Near a hamlet or an occupied farm, you slow. To the carter passing you beside a stone wall, you are simply an extraordinarily large gentleman walking through the countryside with a folded survey sheet in his hand.
+
+Once he has gone, the landscape begins moving quickly again.
+
+***
+
+By the end of the week, you have selected a preferred site on an isolated tract of Crown land among the inland uplands.
+
+A broad ridge rises behind rough grazing and neglected woodland. Exposed stone gives you useful indications of the ground beneath it; the available surveys justify taking the investigation further. They cannot yet tell you everything that lies at the depth you intend to excavate.
+
+Standing there in the wind, with wet leaves gathering against your boots, you can already fit the proposed establishment into the landscape in your mind. The occupied levels belong deep below it. Above them, the small airstrip and its restricted night movements must be accounted for without allowing the airfield to become the obvious front door of the Agency.
+
+The land office marks the tract for a confidential Crown works assessment. That keeps an unrelated lease or sale from overtaking your preparations while the permanent allocation is arranged.
+
+Your railway requirements produce a much larger packet than the initial site papers. Several small yards, separated from the headquarters by kilometres, are entered into the preliminary scheme, together with their intended underground supply connections. The plan records the operational purpose plainly: ordinary delivery vehicles would terminate elsewhere, with supplies continuing below ground once the works are completed.
+
+For the headquarters itself, you specify prolonged survival under concentrated artillery bombardment as a requirement. It becomes part of the brief against which the excavation and structural proposals must be judged, rather than an assurance written beneath an arbitrary depth on a drawing.
+
+By the seventh evening, the headquarters, railway works and airstrip form one coordinated preliminary proposal. There are survey requests to issue, land permissions to complete and construction packages to price. There are no finished tunnels beneath the ridge yet.
+
+***
+
+At the residence, the accommodation arrangements move more quickly.
+
+The steward finds six modest rooms in the administrative wing, close enough for your purposes without requiring the displacement of a senior household. Beds are made, writing tables supplied and keys set aside. Your own replacement bed frame arrives during the week; for the first time since returning to Auvrienne, the furniture does not require an apology.
+
+The expected arrivals are entered as incoming administrative assistants attached to the Royal Advisor. No reference to the Order or the Agency appears beside the room assignments. Their actual duties and any paid appointments remain yours to settle when they arrive.
+
+No member has yet presented themselves at the residence. Their rooms are ready; the journeys following your summons are still unresolved.
+
+Late on the nineteenth, Vaucerin comes to your workroom to examine the site packet. He sets his gloves beside the map and reads for several minutes before speaking.
+
+“The land can be held while we settle the works. I can arrange the appropriate survey assistance under your mandate.”
+
+His finger rests beside the railway requirements.
+
+“This needs a capital appropriation of its own. The opening six thousand is for getting your people together and beginning their work. We must keep that money available.”
+
+He looks across the desk at you.
+
+“I will take the construction proposal to Her Excellency with you. Have the revised estimate distinguish the headquarters from the railway and airfield works, so we know what we are authorising. And if you still intend the whole establishment within a year, we should settle that at the beginning.”
+
+Outside the windows, lamps are being lit across the courtyard. On your desk, the selected tract now has a purpose, a preliminary reservation and a growing body of paperwork capable of turning it into something real.
+
+---
+
+**Date:** 19/11/0068 AC43, evening  
+**Location:** Royal Advisor’s workroom, Auvrienne  
+**Age:** Approximately 3 local years and 3 months, plus roughly three weeks  
+**Headquarters:** Preferred site selected; preliminary Crown reservation and coordinated works proposal prepared. Deep-ground investigation, final costing and construction funding remain to be settled.  
+**Order:** Six rooms prepared under administrative-staff cover; no arrivals confirmed.  
+**Funds:** 659 personal lorrats. The Agency’s 6,000-lorrat opening allocation remains undrawn; no construction payment has been made.
+
+
+## Out-of-character — User — Order arrival timing
+
+Why has no one arrived yet?
+
+## Out-of-character — Assistant — Route check
+
+Most are overseas, but I hadn’t actually calculated their journeys before writing that. “Unresolved” was my bookkeeping omission, not a reason for nobody to arrive.
+
+I’ve now checked their recorded locations against the app’s surface-route planner:
+
+| Member | Starting city | Indicative journey |
+|---|---|---:|
+| Mirelle | Tervessac | 6–11 days |
+| Julien | Grevallier | 16–25 days |
+| Delphine | Orsevigne | 24–41 days |
+| Etienne | Rivessole | 30–49 days |
+| Court clerk | Cavrelisse | 30–50 days |
+| Printer | Bellacenne | 35–59 days |
+
+These are estimates along the shortest **charted distance** routes, not confirmed bookings or necessarily the fastest itineraries. They include ordinary travel handling but exclude time arranging departure and waiting for sailings. Air travel could shorten them where suitable services exist; none has been booked.
+
+**Mirelle could plausibly be arriving around now.** The other five would ordinarily still be travelling after only seven days. So no arrivals yet is plausible, but I should have resolved departure arrangements and progress during the week instead of leaving everyone suspended. Mirelle’s arrival needs a proper travel decision, not another indefinite “pending.”
+
+
+## Live continuation — User — Two months of construction and Order instruction
+
+I explain the construction must be completed within a year or less. Even a year is a threat to its secrecy. Then I spend the next 2 months focusing on ensuring the construction begins steadily and the members of the Order begin arriving. I brief them that the Order has formed into the Veyrasse intelligence agency. I do not expect them to hold loyalty to the nation. I expect them to hold loyalty to me and explain the nation will belong to us before long anyway. I begin delegating areas of research for each order member and continue adding to my own research. Pooling and collecting this arcane intelligence to establish a form of generalised syllabus. During this time I also personally train all the order members in order to get a better sense of their abilities and aptitude (I basically wanna know what level psycher they are but in terminology Galahad will understand). I instruct them that our main prerogative will be study and infiltration for now. At the end of this period I have them all return to their families and homes to ensure we have agents spread wide. I explain to each of them I will guide them to the HQ when it is ready and that is where we will conduct operations from once complete. Once the HQ is complete we will move to recruitment and more active operations. During the training I show each of them how to manipulate emotions and memories to whatever varying degrees they are capable as well as how to shield your mind. Standard dissembling does help and requires no psychic input but I also teach them mantras and various geometric patterns they can draw and focus on to conceal their minds from being invaded and their memories being laid bare. I instruct them to begin making themselves valuable members of their society who can operate from the shadows. Merchants, Politicians, Nobility. Positions that can afford leverage without direct spotlight and the ability to blend in with one’s ilk. They will begin laying the foundations for a new world order that we will construct using our power and our will. An order that will unite our peoples against the horrors of the void and take us from Prey to Predator. I ensure to keep in touch with Corva and Veskan via the phone during this time to ensure things are running smoothly at the estate.
+
+## Live continuation — Assistant — Foundations and the six practitioners
+
+“A year,” Vaucerin repeats. “From your instruction, not from whenever the first contractor finds it convenient to begin.”
+
+He writes **19/11/0069 AC43** across the head of the programme sheet.
+
+The revised proposal goes before Odrienne within days. The remote railway works, deeper protected accommodation and airstrip have pushed the undertaking beyond the earlier estimate. After examining the staged requirements with the Marshal, she authorises a **fourteen-million-lorrat capital ceiling**, released in stages against progress. Your opening Agency account remains separate.
+
+“You shall have priority where I can grant it,” she tells you. “Bring shortages to us while there is still time to correct them.”
+
+The Crown reservation becomes an allocation for the works. Your amended advisory instrument is finally signed and delivered as well; the relevant departments receive their notices. Clerks who previously had to verify the scope of your authority now have a document to consult.
+
+***
+
+The first weeks smell of wet timber, churned earth and machinery warming in the cold.
+
+The site changes each time you return. Survey marks become working boundaries. Temporary accommodation fills with labourers, mechanics and survey staff. Plant arrives; stores are inventoried; excavation begins. The railway yards and their underground connections are scheduled alongside the main works, rather than left until a completed headquarters has no means of receiving supplies.
+
+You move between drawings and ground with relentless attention. A discrepancy in a return sends you out of Auvrienne before most of its officials have finished breakfast. By afternoon, the people responsible may find you standing beside the actual work, asking why their written account differs from it.
+
+There are ordinary difficulties. Water enters one area more readily than the first report suggested. A machinery delivery arrives incomplete. Neither develops into a prolonged stoppage: you identify what can continue elsewhere and make the necessary arrangements before idle men become an idle week.
+
+The workers engaged under the confidential terms are told about the eventual removal of project memories and the additional compensation. Those terms are recorded before they begin. The main workforce lives on site. Your intention is understood; the final memory removal has not happened while they are still building the place.
+
+By the end of the second month, the camp and construction services are functioning, excavation and initial structural work are under way, and the remote railway sites have entered construction. The underground supply routes remain unfinished. The airstrip is being prepared, but has not opened for flights.
+
+The twelve-month programme remains credible on the current returns. The complex has not yet become an operational refuge, and its required resistance to prolonged bombardment remains something the completed works must satisfy.
+
+Of the capital authorisation, **1.8 million lorrats has been released; 1.36 million has been spent**. You have usable progress to set beside those figures, not merely a growing collection of invoices.
+
+***
+
+Mirelle arrives first, on the twentieth of November.
+
+Travel has left her coat dusty and her patience short. She becomes considerably more composed when the steward addresses her as one of your incoming assistants and produces a key without asking her to explain herself in the entrance hall.
+
+Julien follows on the second of December. Delphine arrives on the thirteenth, Etienne on the twenty-first, and the court clerk, **Laurent Veyrac**, on the twenty-fourth. The printer, **Mathieu Vessorel**, reaches Auvrienne on the twenty-ninth.
+
+Their arrivals give you different amounts of time with each. Mirelle receives almost two months of instruction; Mathieu has approximately three weeks before the return journeys. You begin with each as they arrive, then bring them together once all six are present.
+
+It is in the adjoining workroom, with the door closed and their writing materials laid out, that you explain what the Order has become.
+
+The Veyrasse Arcane Agency. A state-supported institution whose members owe their real allegiance to you.
+
+Your statement that the nation will eventually belong to you—and to the order you are building—produces a silence of a different kind from the one that greeted the Agency’s funding.
+
+Etienne looks at the others before answering.
+
+“I joined you. I did not join Veyrasse.”
+
+You have already made the distinction he needs. His shoulders settle.
+
+Delphine takes longer.
+
+“Then what we build must be able to survive a change at their court.”
+
+She is looking at you when she says it. Your answer is already implicit in the independence you are insisting upon, but the concern is hers, and worth knowing.
+
+All six agree to continue under your direction within the Agency. Their reasons differ: opportunity, belief, gratitude, ambition, personal attachment. Your presence eases the conversation, but you have ample time in the weeks that follow to learn which motives endure when a lesson becomes difficult or an assignment inconveniences them.
+
+***
+
+Your instruction quickly exposes the inadequacy of describing someone simply as *gifted*.
+
+Etienne can exert substantially more force than Laurent, yet Laurent can notice a small inconsistency in a remembered conversation that Etienne passes over entirely. Julien’s best work depends upon a living body. Delphine’s attention finds meaning in an object that gives Mirelle almost nothing.
+
+You record **strength, control, reach, endurance and affinity separately**. For your own working vocabulary, you distinguish a *sensitive*, who chiefly receives impressions; a *practitioner*, who can deliberately produce repeatable effects; and an *adept*, whose control supports a broader, sustained body of work. These describe present achievement, not an immutable limit on what someone may become.
+
+| Member | Your assessment after instruction | Work entrusted to them |
+|---|---|---|
+| **Mirelle Saurent** | **Practitioner; modest force, good social sensitivity.** Reads emotional impressions reliably and can gently strengthen or soften an existing feeling in one nearby person. Memory work chiefly concerns association and recall, not dependable erasure. | Emotional influence, interpersonal observation and the comparison of impressions with ordinary evidence. |
+| **Etienne Caurrel** | **Practitioner; the strongest outward force of the six.** His telekinesis develops particularly well under correction. Emotional influence is comparatively blunt; delicate memory alteration remains unreliable. | Controlled exertion, repeatable exercises, fatigue and the interaction between intention and physical work. |
+| **Delphine Calvet** | **Adept in her own narrow field; the best present depth and precision.** Psychometry and receptive work extend into carefully controlled access to recent recollections. She can blur a small, simple recollection under favourable conditions; she cannot casually rewrite a person’s history. | Comparison of older traditions, mnemonic techniques and the organisation of the common syllabus. |
+| **Julien Vardelle** | **Practitioner with a strong bodily affinity.** His dependable strengths are sensing distress, easing pain and assisting limited repair. Calming comes more readily than memory work; detailed alteration does not yet hold reliably. | Bodily concentration, recovery, the distinction between genuine improvement and a subject merely feeling better. |
+| **Mathieu Vessorel** | **Practitioner of modest output and patient precision.** He learns small emotional nudges and methods of drawing attention away from an uncomfortable association. Repeatable memory erasure remains beyond his present control. | Written exercises, symbols, consistent terminology and reproducible teaching material. |
+| **Laurent Veyrac** | **Sensitive approaching dependable practitioner.** His gift is subtle and his deliberate output limited. He can recognise certain emotional intrusions and sometimes quiet his own surface impressions; imposed changes to another mind remain inconsistent. | Observation, recollection, testing claims and the administrative discipline needed to distinguish evidence from supposition. |
+
+None approaches your own reserves. Even Etienne’s strongest efforts feel small to you. What makes them useful is the combination of particular talents, ordinary expertise and the lives they can inhabit without attracting the attention your presence inevitably draws.
+
+The defensive lessons are shared by all six. Mantras, imagined forms and drawn figures give them structures upon which to hold their attention. You test those structures gently enough that they can recognise an intrusion, recover their concentration and try again.
+
+At first, several mistake thinking loudly about an irrelevant subject for concealing what lies beneath it. Gradually, they learn the difference. Their best defences make their thoughts less carelessly exposed and offer resistance to interference closer to their own strength. Against your deliberate attention, the disparity remains unmistakable.
+
+The syllabus grows from those differences. Each exercise carries observations about who performed it, under what conditions, what actually happened and what merely seemed to happen. Your own research expands alongside it, drawing connections between six imperfect approaches that none of them could have made alone.
+
+***
+
+The year turns while the lessons continue.
+
+You speak with Corva and Veskan regularly through the estate telephone. Sometimes the line crackles badly enough that Veskan raises his voice as though volume might repair the wire.
+
+The house is sound. The hounds have settled into their routines. The five House rifles finally arrive with their recorded household ammunition allocation. Corva keeps the receipts together rather than treating their arrival as an invitation to spend the remaining reserve.
+
+She and Veskan have concentrated on modest, understandable business while you are occupied: collecting what is due, selling produce and arranging a limited timber sale. No brewery has appeared in your absence. Their statement closes at **1,194 lorrats**, after the period’s receipts and expenses, and neither reports an immediate threat to the estate.
+
+Your ordinary payments arrive on the first of December and January. After personal papers, calls and incidental expenses, your own balance stands at **923 lorrats**.
+
+Serault also sends a separate reminder: the retained rifle-workshop staff are approaching the end of their existing provision. He asks for their next assignment or renewed funding before February’s remaining allowance is exhausted. The Agency’s construction appropriation has not quietly become their payroll.
+
+***
+
+By the nineteenth of January, their return papers are ready.
+
+You give the six their instructions together: resume their lives, become valuable within their own societies, cultivate positions from which useful work can be done without conspicuous display. Study and infiltration come first. Wider recruitment and overt Agency operations wait for the headquarters.
+
+Mirelle already has her commercial position. Etienne returns to work upon which other people depend. Delphine and Julien have institutions in which expertise carries weight. Mathieu has his trade; Laurent, access to the quieter machinery of government. None needs to become a noble overnight to begin becoming more useful.
+
+You tell them that you will guide them to the headquarters when it is ready.
+
+The idea you leave with them is larger than their individual assignments: a world whose people cease spending themselves as prey, and acquire the strength to determine what comes next.
+
+They leave Auvrienne with their return travel provided for and their first bodies of work defined. Their journeys home still take time. Behind them, the six rooms begin to empty; beneath the distant ridge, the excavation continues.
+
+---
+
+**Date:** 19/01/0069 AC43  
+**Age:** Approximately 3 local years and 5 months, plus roughly three weeks  
+**Agency:** Six practitioners trained and returning home under your direction; wider recruitment awaits the headquarters.  
+**Headquarters:** Construction under way. Completion deadline **19/11/0069 AC43**. Capital ceiling **14 million lorrats**; **1.8 million released**, **1.36 million spent**.  
+**Opening Agency account:** **1,460 of 6,000 lorrats spent**, separate from construction.  
+**Personal funds:** **923 lorrats**. **Household funds:** **1,194 lorrats**.
+
+
+## Explicit correction to the two-month Agency scene — 19/01/0069 AC43
+
+The original response above is retained as conversation history, not controlling continuity where corrected here. All Terran month names in that response mean their numbered local months: arrivals were 20/11/0068, 02/12/0068, 13/12/0068, 21/12/0068, 24/12/0068 and 29/12/0068 AC43; paydays were 01/12/0068 and 01/01/0069 AC43; departure was 19/01/0069 AC43. No date or elapsed time changes.
+
+Replace the Serault reminder paragraph with:
+
+Serault sends a routine workshop return. Ordel continues to manage the works independently. The workshop awaits the Margrave and Marshal's report and production instructions, after which it will manufacture against military needs and requests. Any associated authorisation and funding are matters for the Crown and military administration; no new assignment, personal funding or intervention is required from you.
+
+No new production, funding award, player obligation or cash adjustment is created by this correction. The full corrected reading copy is retained privately; the original transcript is not silently rewritten.
+
+### Player correction request
+
+So fix the story and the record please or you will create a misinformation cascade…

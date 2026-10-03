@@ -1,4 +1,399 @@
 {
   "events": [],
-  "annual_reviews": []
+  "annual_reviews": [
+    {
+      "id": "development-0069-01-01",
+      "date": "01/01/0069 AC43",
+      "reason": "Review of recorded short interval, not a second full-year growth increment.",
+      "polities": [
+        {
+          "id": "veldrassen",
+          "name": "Veldrassen",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "ostrevain",
+          "name": "Ostrevain",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "rovessara",
+          "name": "Rovessara",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "brannervaux",
+          "name": "Brannervaux",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "cervaud",
+          "name": "Cervaud",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "veylac",
+          "name": "Veylac",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "ossavren",
+          "name": "Ossavren successor territories",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "rovengard",
+          "name": "Rovengard",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "varnesk",
+          "name": "Varnesk",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "galdresk",
+          "name": "Galdresk",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "halskert",
+          "name": "Halskert",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "tervayne",
+          "name": "Tervayne",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "vardol",
+          "name": "Vardol",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "averholt",
+          "name": "Averholt",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "serevask",
+          "name": "Serevask Republic",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "varnelle",
+          "name": "Varnelle",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "kelbrun",
+          "name": "Kelbrun",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "gavrel",
+          "name": "Gavrel",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "other-otranto-400",
+          "name": "Bellacosta Cantons",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "other-otranto-700",
+          "name": "Cavressa Principalities",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "other-otranto-1100",
+          "name": "Vaulcerre Basin Leagues",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "other-otranto-1450",
+          "name": "Seravelle Littoral",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "other-morholt-1880",
+          "name": "Haldrevik Concessions",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "other-morholt-2190",
+          "name": "Dreissen Wardholds",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "other-morholt-2630",
+          "name": "Varneselle Estates",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "other-vesalius-2790",
+          "name": "Bressavelle Marches",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "other-vesalius-2790-1410",
+          "name": "Vallessia Cantons",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "other-vesalius-3160",
+          "name": "Rivessac Coast",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "karsenne",
+          "name": "Karsenne Compact",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "caldrienne",
+          "name": "Duchy of Caldrienne",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "veyrasse",
+          "name": "March of Veyrasse",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "calvernis",
+          "name": "Calvernis Republic",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "ceralte",
+          "name": "Ceralte Admiralty",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "varessan",
+          "name": "Varessan Sea League",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "talasca",
+          "name": "Talascan Charter Islands",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "nemerai",
+          "name": "Nemerai Crown",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "ordelune",
+          "name": "Ordelune Overseas Districts",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "skeldra",
+          "name": "Skeldran Hearth Confederacy",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "merovia",
+          "name": "Merovian Island Republic",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "ashalai",
+          "name": "Ashalai Reef Covenant",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "istrana",
+          "name": "Kingdom of Istrana",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "edrask",
+          "name": "Edrask Governorate",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        },
+        {
+          "id": "norrakai",
+          "name": "Norrakai Moots",
+          "wages_prices_employment": "Existing dated household inputs retained after short-interval review; no new wage decree, price shock or employment restructuring enacted. Routine growth continues under retained projection.",
+          "distribution_services": "Existing distribution and access assumptions retained; no blanket service improvement from Galahad overseas advice.",
+          "technology_progress": "Ordinary within-capability efficiency remains in economic trend; no unsupported new foundation, universal age promotion or repeated full-year increment.",
+          "losses_and_retention": "Existing conflict exposure and ordinary attrition continue within established envelopes; no extra exceptional demographic charge.",
+          "source_accounts_reconciled": "Carry current baseline and model interval exactly once. Veyrasse capital project is separately ledgered for fiscal integration, not a second defence procurement charge."
+        }
+      ]
+    }
+  ]
 }

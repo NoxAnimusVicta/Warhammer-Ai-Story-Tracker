@@ -1,6 +1,6 @@
 # Aviation industrial city and Airborne Carrier Command Vessel
 
-Status: **deferred planning reference**, accepted for preservation out of character on 29 September 2026. Campaign price reference: **12/11/0068 AC43**. No story time passes. No site, appropriation, construction order, research breakthrough or additional Crown resources are granted. The current royal audience remains unresolved as to people, premises and funds.
+Status: **deferred planning reference**, accepted for preservation out of character on 29 September 2026. Campaign price reference: **12/11/0068 AC43**. No story time passes. No site, appropriation, construction order, research breakthrough or additional Crown resources are granted. The later VAA allocation and residence chambers do not fund this deferred industrial city.
 
 ## Intended undertaking
 
@@ -92,3 +92,7 @@ Keep this tabled until the player revives it. Then establish the site, domestic 
 - [US Commerce Department Hindenburg investigation, reproduced by Airships.net](https://www.airships.net/hindenburg/disaster/commerce-department-report/) — contemporary dimensions, gas capacity, structure and load distinctions. This is a physical comparison, not the source of the fictional price or schedule estimates.
 
 Narrator entry point: [Research progression](RESEARCH-PROGRESSION.md). Existing national-wonder projects remain separately recorded in ARCHITECTURE-REFERENCE.md.
+
+## Production capacity and research
+
+Production time is determined by available facilities, tooling, trained labour, materials, power, supply chains and competing demand, independently of how long the design took to research. The same completed design may enter an equipped factory promptly or wait years for a new industrial base. Research changes that constraint only when it explicitly develops manufacturing processes, tools or capacity improvements, which must then be implemented. Record analytical work, experimental validation and industrial delivery as separate, potentially overlapping schedules.

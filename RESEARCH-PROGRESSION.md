@@ -1,6 +1,6 @@
 # Research progression — narrator reference
 
-Accepted campaign framework from exchanges 600–604. Consult before resolving research, reverse engineering, invention or a research time skip. This is narrator guidance, not an in-world document or a new capability acquired by Galahad. Current enacted status is maintained in CURRENT-CONTINUITY.md; the latest scene is the 12/11/0068 AC43 Royal Advisor audience in Auvrienne.
+Accepted campaign framework from exchanges 600–604. Consult before resolving research, reverse engineering, invention or a research time skip. This is narrator guidance, not an in-world document or a new capability acquired by Galahad. Current enacted status is maintained in CURRENT-CONTINUITY.md; the latest scene is the 19/01/0069 AC43 departure of the six trained Agency members from Auvrienne.
 
 ## Deferred aviation city and carrier
 
@@ -86,7 +86,7 @@ For each actual project keep its status, intended result, established findings, 
 
 The dedicated **Research** tab contains the existing research record and concise, collapsible guidance on progression and shared Hunter technology, as requested in exchange 606. This supersedes the earlier documentation-only presentation preference. Project entries remain **active, completed or future projects**: future means an actual recorded intention or design, not every hypothetical discussed out of character. Conditional research examples remain clearly labelled as guidance, not project accomplishments. Detailed canon comparisons and narrator instructions remain in this reference.
 
-At this discussion checkpoint, the rifle pilot batch is completed and its field training/evaluation is active. The carrier remains a preliminary future concept, not an operating vessel. Hunter-tech investigation has a history; possession of an intact plasma weapon and independent plasma manufacture remain hypothetical. This framework creates no new funded project, purchase, item, skill or scene advancement. Later enacted records supersede this dated status paragraph.
+At the current 19/01/0069 checkpoint, the rifle pilot batch and all seven company training days are completed. The carrier remains a preliminary future concept, not an operating vessel. Hunter-tech investigation has a history; possession of an intact plasma weapon and independent plasma manufacture remain hypothetical. This framework creates no new funded project, purchase, item, skill or scene advancement. Later enacted records supersede this dated status paragraph.
 
 ## Lore distinctions informing the framework
 
@@ -98,3 +98,11 @@ There is no canonical universal invention timer established by the sources below
 - **Cawl, Bile and STCs:** exceptional innovation is possible, but success does not establish a short development time. *Genefather* explicitly involves seeking help to unlock the pylon network. An STC is not a supernatural requirement for every invention; missing knowledge, processes, resources and institutional constraints are separate obstacles. [Genefather](https://www.blacklibrary.com/warhammer-40000/novels/ebook-genefather-eng-2023.html); [GW's scientific-minds discussion](https://www.warhammer-community.com/en-gb/articles/ANRfbUr5/genefather-fabius-bile-is-back-to-test-his-wits-against-the-biggest-brains-in-the-galaxy/); [Mechanicus overview](https://www.warhammer-community.com/en-gb/articles/HUNPAc0m/starting-an-adeptus-mechanicus-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/).
 
 Keep authorial lore comparisons separate from Galahad's in-world vocabulary and knowledge. Exact discussion remains in [the transcript](story-transcript.md), exchanges 600–604.
+
+## Production capacity and research
+
+Production time is determined by available facilities, tooling, trained labour, materials, power, supply chains and competing demand, independently of how long the design took to research. The same completed design may enter an equipped factory promptly or wait years for a new industrial base. Research changes that constraint only when it explicitly develops manufacturing processes, tools or capacity improvements, which must then be implemented. Record analytical work, experimental validation and industrial delivery as separate, potentially overlapping schedules.
+
+## Agency research return — 19/01/0069 AC43
+
+Individual practice and a common syllabus now record emotional influence, limited mnemonic exercises and mental shielding. Strength, control, reach, endurance and affinity are assessed separately in VAA-REFERENCE.md. These are actual research and teaching advances, not automatic new industrial technology. The headquarters is under construction; the aviation city remains deferred. Ordel manages the autonomous workshop. It awaits the Margrave and Marshal’s report and military production instructions, then responds to military needs and requests. Crown/military administration handles forward authorisation and funding; Galahad owes it no new task or personal payroll support. No additional rifle batch has been enacted.

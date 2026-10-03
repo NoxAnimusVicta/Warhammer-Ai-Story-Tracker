@@ -1,6 +1,6 @@
 # Drossane guesthouse incident and subsequent cell
 
-**Incident: 18/01/0068 AC43, day 87. Reviewed through 05/11/0068 AC43, exchange 589.** The later Valdrec contact and restricted palace briefings supersede the original pending-follow-up status.
+**Incident: 18/01/0068 AC43, day 87. Reviewed through 19/01/0069 AC43.** The later Valdrec contact and restricted palace briefings supersede the original pending-follow-up status.
 
 ## What happened
 
@@ -42,4 +42,8 @@ Galahad told Darscelet, Vaucerin and Odrienne that the cell was loyal, running d
 
 The original confrontation caused no deaths, shots, captures, confiscations or expenditure. Its unique event ID remains `drossane-0068-01-18`; later follow-up does not post a duplicate loss. Personal and institutional balances have since changed through the completed journey and approved closeout, as recorded historically in expedition-accounts.json and currently in commission-accounts.json; there are no unpaid Drossane guesthouse bills now.
 
-No further cell contact, hostile attack or new verification was established during the home visit and production weeks. Future cell reports, continued loyalty, wider penetration, government verification and any public reaction remain unresolved. The Hunter assembly stayed at the assay office. No private manuscript leak, acquired device, diplomatic rupture or exceptional demographic loss has been enacted.
+No further cell contact, hostile attack or new verification was established during the home visit, production weeks or subsequent Agency instruction period. Future cell reports, continued loyalty, wider penetration, government verification and any public reaction remain unresolved. The Hunter assembly stayed at the assay office. No private manuscript leak, acquired device, diplomatic rupture or exceptional demographic loss has been enacted.
+
+## Later restricted disclosure — 12/11 late evening
+
+The Margrave and Marshal subsequently authorised the VAA and witnessed further psychic demonstrations. They know Galahad has existing overseas people but have not received identities, the Order roster or exact operational particulars. Darscelet was absent and has not received this later disclosure. The six Caldrienne operatives remain a separate cell. Agency authority, its opening allocation and separate headquarters capital and the residence chambers are recorded in VAA-REFERENCE.md; none alters this rifle programme’s inventory, licence or expenditure.

@@ -12,7 +12,2828 @@
           "new": "The sovereign directs diplomacy, appoints senior officials and issues executive orders. New revenues, provincial obligations and lawful succession remain subject to the recorded charter or compact; personal will does not create available resources. From 12/11/0068, Royal Advisor Lord Galahad Orsival holds standing delegated authority over industry, infrastructure and defensive preparedness: initiate inquiries, require returns and direct assigned resources, with urgent access and disputes escalated to the Margrave. Field-army command, taxation and binding foreign commitments remain separately authorised. Additional office resources are unsettled. His age, appearance and personality are recorded in VEYRASSE-LEADERSHIP.md and the dossier; he is a transhuman founder, not subject to the ordinary human mortality model."
         }
       }
+    },
+    {
+      "id": "advisor-instrument-delivered-0069-01-19",
+      "date": "19/01/0069 AC43",
+      "polity": "veyrasse",
+      "reason": "Report by this date of signed instrument and delivered notices during the elapsed period; not a new appointment date.",
+      "source": "story-transcript.md; VAA-REFERENCE.md",
+      "changes": {
+        "authority": {
+          "old": "The sovereign directs diplomacy, appoints senior officials and issues executive orders. New revenues, provincial obligations and lawful succession remain subject to the recorded charter or compact; personal will does not create available resources. From 12/11/0068, Royal Advisor Lord Galahad Orsival holds standing delegated authority over industry, infrastructure and defensive preparedness: initiate inquiries, require returns and direct assigned resources, with urgent access and disputes escalated to the Margrave. Field-army command, taxation and binding foreign commitments remain separately authorised. Additional office resources are unsettled. His age, appearance and personality are recorded in VEYRASSE-LEADERSHIP.md and the dossier; he is a transhuman founder, not subject to the ordinary human mortality model.",
+          "new": "The sovereign directs diplomacy, appoints senior officials and issues executive orders. New revenues, provincial obligations and lawful succession remain subject to the recorded charter or compact; personal will does not create available resources. From 12/11/0068, Royal Advisor Lord Galahad Orsival holds standing delegated authority over industry, infrastructure and defensive preparedness: initiate inquiries, require returns and direct assigned resources, with urgent access and disputes escalated to the Margrave. Field-army command, taxation and binding foreign commitments remain separately authorised. The amended advisory instrument has been delivered and departmental notices issued. Residence and assigned administrative accommodation are provided. Detailed restricted programme resources are recorded separately. His age, appearance and personality are recorded in VEYRASSE-LEADERSHIP.md and the dossier; he is a transhuman founder, not subject to the ordinary human mortality model."
+        }
+      }
     }
   ],
-  "annual_reviews": []
+  "annual_reviews": [
+    {
+      "id": "leadership-0069-01-01",
+      "date": "01/01/0069 AC43",
+      "reason": "First civil-year rollover; assess only elapsed interval since individual dated baseline. All 140 continue; no invented succession.",
+      "people": [
+        {
+          "person_id": "veldrassen-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              63,
+              64
+            ],
+            "baseline_percent": [
+              2.34,
+              3.48
+            ],
+            "annual_probability": 0.0276,
+            "period_probability": 0.0042848486495242755,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "veldrassen-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              66,
+              67
+            ],
+            "baseline_percent": [
+              3.06,
+              4.59
+            ],
+            "annual_probability": 0.0362,
+            "period_probability": 0.005641022732659984,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "veldrassen-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              57,
+              58
+            ],
+            "baseline_percent": [
+              1.41,
+              2.06
+            ],
+            "annual_probability": 0.01655,
+            "period_probability": 0.002557149435034489,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "veldrassen-heir",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              23,
+              24
+            ],
+            "baseline_percent": [
+              0.29,
+              0.33
+            ],
+            "annual_probability": 0.0031,
+            "period_probability": 0.00047624173183336005,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "ostrevain-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              66,
+              67
+            ],
+            "baseline_percent": [
+              3.06,
+              4.59
+            ],
+            "annual_probability": 0.0362,
+            "period_probability": 0.005641022732659984,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "ostrevain-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              52,
+              53
+            ],
+            "baseline_percent": [
+              0.96,
+              1.4
+            ],
+            "annual_probability": 0.0113,
+            "period_probability": 0.0017420493180456686,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "ostrevain-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              47,
+              48
+            ],
+            "baseline_percent": [
+              0.68,
+              0.99
+            ],
+            "annual_probability": 0.008,
+            "period_probability": 0.001231574181177808,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "ostrevain-heir",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              22,
+              23
+            ],
+            "baseline_percent": [
+              0.28,
+              0.33
+            ],
+            "annual_probability": 0.0030000000000000005,
+            "period_probability": 0.00046085953910168787,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "rovessara-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              62,
+              63
+            ],
+            "baseline_percent": [
+              2.14,
+              3.18
+            ],
+            "annual_probability": 0.025250000000000005,
+            "period_probability": 0.003916032985677553,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "rovessara-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              50,
+              51
+            ],
+            "baseline_percent": [
+              0.83,
+              1.21
+            ],
+            "annual_probability": 0.0098,
+            "period_probability": 0.0015098366345819292,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "rovessara-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              57,
+              58
+            ],
+            "baseline_percent": [
+              1.41,
+              2.06
+            ],
+            "annual_probability": 0.01655,
+            "period_probability": 0.002557149435034489,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "brannervaux-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              57,
+              58
+            ],
+            "baseline_percent": [
+              1.41,
+              2.06
+            ],
+            "annual_probability": 0.01655,
+            "period_probability": 0.002557149435034489,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "brannervaux-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              52,
+              53
+            ],
+            "baseline_percent": [
+              0.96,
+              1.4
+            ],
+            "annual_probability": 0.0113,
+            "period_probability": 0.0017420493180456686,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "brannervaux-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              37,
+              38
+            ],
+            "baseline_percent": [
+              0.4,
+              0.51
+            ],
+            "annual_probability": 0.0044,
+            "period_probability": 0.0006763292009358546,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "cervaud-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              61,
+              62
+            ],
+            "baseline_percent": [
+              1.96,
+              2.91
+            ],
+            "annual_probability": 0.0231,
+            "period_probability": 0.0035792646790949734,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "cervaud-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              42,
+              43
+            ],
+            "baseline_percent": [
+              0.51,
+              0.7
+            ],
+            "annual_probability": 0.005849999999999999,
+            "period_probability": 0.000899764786692514,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "cervaud-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              40,
+              41
+            ],
+            "baseline_percent": [
+              0.45,
+              0.61
+            ],
+            "annual_probability": 0.0051,
+            "period_probability": 0.0007841602366673861,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "cervaud-heir",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              32,
+              33
+            ],
+            "baseline_percent": [
+              0.34,
+              0.39
+            ],
+            "annual_probability": 0.0036,
+            "period_probability": 0.0005531722951843676,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "veylac-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              43,
+              44
+            ],
+            "baseline_percent": [
+              0.53,
+              0.76
+            ],
+            "annual_probability": 0.00615,
+            "period_probability": 0.0009460272807556569,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "veylac-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              42,
+              43
+            ],
+            "baseline_percent": [
+              0.51,
+              0.7
+            ],
+            "annual_probability": 0.005849999999999999,
+            "period_probability": 0.000899764786692514,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "veylac-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              30,
+              31
+            ],
+            "baseline_percent": [
+              0.33,
+              0.36
+            ],
+            "annual_probability": 0.0034,
+            "period_probability": 0.0005223961489371209,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "ossavren-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              49,
+              50
+            ],
+            "baseline_percent": [
+              0.78,
+              1.13
+            ],
+            "annual_probability": 0.0092,
+            "period_probability": 0.0014170349374748037,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "ossavren-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              57,
+              58
+            ],
+            "baseline_percent": [
+              1.41,
+              2.06
+            ],
+            "annual_probability": 0.01655,
+            "period_probability": 0.002557149435034489,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "ossavren-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              52,
+              53
+            ],
+            "baseline_percent": [
+              0.96,
+              1.4
+            ],
+            "annual_probability": 0.0113,
+            "period_probability": 0.0017420493180456686,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "rovengard-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              49,
+              50
+            ],
+            "baseline_percent": [
+              0.78,
+              1.13
+            ],
+            "annual_probability": 0.0092,
+            "period_probability": 0.0014170349374748037,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "rovengard-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              52,
+              53
+            ],
+            "baseline_percent": [
+              0.96,
+              1.4
+            ],
+            "annual_probability": 0.0113,
+            "period_probability": 0.0017420493180456686,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "rovengard-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              58,
+              59
+            ],
+            "baseline_percent": [
+              1.52,
+              2.24
+            ],
+            "annual_probability": 0.0179,
+            "period_probability": 0.0027673419066717164,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "rovengard-heir",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              35,
+              36
+            ],
+            "baseline_percent": [
+              0.37,
+              0.46
+            ],
+            "annual_probability": 0.004,
+            "period_probability": 0.0006147402800277257,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "varnesk-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              62,
+              63
+            ],
+            "baseline_percent": [
+              2.14,
+              3.18
+            ],
+            "annual_probability": 0.025250000000000005,
+            "period_probability": 0.003916032985677553,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "varnesk-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              55,
+              56
+            ],
+            "baseline_percent": [
+              1.19,
+              1.76
+            ],
+            "annual_probability": 0.01405,
+            "period_probability": 0.0021685482911891762,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "varnesk-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              41,
+              42
+            ],
+            "baseline_percent": [
+              0.48,
+              0.66
+            ],
+            "annual_probability": 0.005449999999999999,
+            "period_probability": 0.0008380998421920749,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "galdresk-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              68,
+              69
+            ],
+            "baseline_percent": [
+              3.71,
+              5.53
+            ],
+            "annual_probability": 0.04375,
+            "period_probability": 0.006840088560769675,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "galdresk-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              67,
+              68
+            ],
+            "baseline_percent": [
+              3.37,
+              5.04
+            ],
+            "annual_probability": 0.0398,
+            "period_probability": 0.006211767092741072,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "galdresk-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              56,
+              57
+            ],
+            "baseline_percent": [
+              1.29,
+              1.9
+            ],
+            "annual_probability": 0.01525,
+            "period_probability": 0.0023549726068368138,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "halskert-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              63,
+              64
+            ],
+            "baseline_percent": [
+              2.34,
+              3.48
+            ],
+            "annual_probability": 0.0276,
+            "period_probability": 0.0042848486495242755,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "halskert-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              52,
+              53
+            ],
+            "baseline_percent": [
+              0.96,
+              1.4
+            ],
+            "annual_probability": 0.0113,
+            "period_probability": 0.0017420493180456686,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "halskert-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              42,
+              43
+            ],
+            "baseline_percent": [
+              0.51,
+              0.7
+            ],
+            "annual_probability": 0.005849999999999999,
+            "period_probability": 0.000899764786692514,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "tervayne-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              64,
+              65
+            ],
+            "baseline_percent": [
+              2.55,
+              3.81
+            ],
+            "annual_probability": 0.030149999999999996,
+            "period_probability": 0.004685907491449481,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "tervayne-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              63,
+              64
+            ],
+            "baseline_percent": [
+              2.34,
+              3.48
+            ],
+            "annual_probability": 0.0276,
+            "period_probability": 0.0042848486495242755,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "tervayne-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              37,
+              38
+            ],
+            "baseline_percent": [
+              0.4,
+              0.51
+            ],
+            "annual_probability": 0.0044,
+            "period_probability": 0.0006763292009358546,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "vardol-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              64,
+              65
+            ],
+            "baseline_percent": [
+              2.55,
+              3.81
+            ],
+            "annual_probability": 0.030149999999999996,
+            "period_probability": 0.004685907491449481,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "vardol-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              44,
+              45
+            ],
+            "baseline_percent": [
+              0.56,
+              0.81
+            ],
+            "annual_probability": 0.0066,
+            "period_probability": 0.001015443193203569,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "vardol-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              30,
+              31
+            ],
+            "baseline_percent": [
+              0.33,
+              0.36
+            ],
+            "annual_probability": 0.0034,
+            "period_probability": 0.0005223961489371209,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "vardol-heir",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              29,
+              30
+            ],
+            "baseline_percent": [
+              0.32,
+              0.35
+            ],
+            "annual_probability": 0.0033,
+            "period_probability": 0.0005070100365091035,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "averholt-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              39,
+              40
+            ],
+            "baseline_percent": [
+              0.44,
+              0.57
+            ],
+            "annual_probability": 0.0049,
+            "period_probability": 0.000753344817080448,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "averholt-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              51,
+              52
+            ],
+            "baseline_percent": [
+              0.89,
+              1.3
+            ],
+            "annual_probability": 0.0105,
+            "period_probability": 0.0016181654674450874,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "averholt-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              56,
+              57
+            ],
+            "baseline_percent": [
+              1.29,
+              1.9
+            ],
+            "annual_probability": 0.01525,
+            "period_probability": 0.0023549726068368138,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "averholt-heir",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              35,
+              36
+            ],
+            "baseline_percent": [
+              0.37,
+              0.46
+            ],
+            "annual_probability": 0.004,
+            "period_probability": 0.0006147402800277257,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "serevask-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              61,
+              62
+            ],
+            "baseline_percent": [
+              1.96,
+              2.91
+            ],
+            "annual_probability": 0.0231,
+            "period_probability": 0.0035792646790949734,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "serevask-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              54,
+              55
+            ],
+            "baseline_percent": [
+              1.11,
+              1.62
+            ],
+            "annual_probability": 0.0131,
+            "period_probability": 0.002021098553046663,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "serevask-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              59,
+              60
+            ],
+            "baseline_percent": [
+              1.65,
+              2.43
+            ],
+            "annual_probability": 0.019450000000000002,
+            "period_probability": 0.003008975860147478,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "varnelle-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              71,
+              72
+            ],
+            "baseline_percent": [
+              4.98,
+              7.27
+            ],
+            "annual_probability": 0.058100000000000006,
+            "period_probability": 0.00914137320411057,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "varnelle-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              46,
+              47
+            ],
+            "baseline_percent": [
+              0.64,
+              0.92
+            ],
+            "annual_probability": 0.0075,
+            "period_probability": 0.0011543549166158629,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "varnelle-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              36,
+              37
+            ],
+            "baseline_percent": [
+              0.39,
+              0.48
+            ],
+            "annual_probability": 0.00425,
+            "period_probability": 0.0006532309011645365,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "kelbrun-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              59,
+              60
+            ],
+            "baseline_percent": [
+              1.65,
+              2.43
+            ],
+            "annual_probability": 0.019450000000000002,
+            "period_probability": 0.003008975860147478,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "kelbrun-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              58,
+              59
+            ],
+            "baseline_percent": [
+              1.52,
+              2.24
+            ],
+            "annual_probability": 0.0179,
+            "period_probability": 0.0027673419066717164,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "kelbrun-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              45,
+              46
+            ],
+            "baseline_percent": [
+              0.6,
+              0.86
+            ],
+            "annual_probability": 0.007050000000000001,
+            "period_probability": 0.00108488573106158,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "gavrel-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              60,
+              61
+            ],
+            "baseline_percent": [
+              1.8,
+              2.66
+            ],
+            "annual_probability": 0.021150000000000002,
+            "period_probability": 0.003274365841667626,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "gavrel-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              56,
+              57
+            ],
+            "baseline_percent": [
+              1.29,
+              1.9
+            ],
+            "annual_probability": 0.01525,
+            "period_probability": 0.0023549726068368138,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "gavrel-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              50,
+              51
+            ],
+            "baseline_percent": [
+              0.83,
+              1.21
+            ],
+            "annual_probability": 0.0098,
+            "period_probability": 0.0015098366345819292,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-otranto-400-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              42,
+              43
+            ],
+            "baseline_percent": [
+              0.51,
+              0.7
+            ],
+            "annual_probability": 0.005849999999999999,
+            "period_probability": 0.000899764786692514,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-otranto-400-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              59,
+              60
+            ],
+            "baseline_percent": [
+              1.65,
+              2.43
+            ],
+            "annual_probability": 0.019450000000000002,
+            "period_probability": 0.003008975860147478,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-otranto-400-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              39,
+              40
+            ],
+            "baseline_percent": [
+              0.44,
+              0.57
+            ],
+            "annual_probability": 0.0049,
+            "period_probability": 0.000753344817080448,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-otranto-700-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              53,
+              54
+            ],
+            "baseline_percent": [
+              1.03,
+              1.51
+            ],
+            "annual_probability": 0.01215,
+            "period_probability": 0.0018737689260269752,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-otranto-700-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              64,
+              65
+            ],
+            "baseline_percent": [
+              2.55,
+              3.81
+            ],
+            "annual_probability": 0.030149999999999996,
+            "period_probability": 0.004685907491449481,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-otranto-700-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              50,
+              51
+            ],
+            "baseline_percent": [
+              0.83,
+              1.21
+            ],
+            "annual_probability": 0.0098,
+            "period_probability": 0.0015098366345819292,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-otranto-1100-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              73,
+              74
+            ],
+            "baseline_percent": [
+              6.1,
+              8.73
+            ],
+            "annual_probability": 0.07035,
+            "period_probability": 0.011129488874164872,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-otranto-1100-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              48,
+              49
+            ],
+            "baseline_percent": [
+              0.73,
+              1.06
+            ],
+            "annual_probability": 0.0086,
+            "period_probability": 0.001324280804054001,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-otranto-1100-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              56,
+              57
+            ],
+            "baseline_percent": [
+              1.29,
+              1.9
+            ],
+            "annual_probability": 0.01525,
+            "period_probability": 0.0023549726068368138,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-otranto-1450-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              71,
+              72
+            ],
+            "baseline_percent": [
+              4.98,
+              7.27
+            ],
+            "annual_probability": 0.058100000000000006,
+            "period_probability": 0.00914137320411057,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-otranto-1450-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              66,
+              67
+            ],
+            "baseline_percent": [
+              3.06,
+              4.59
+            ],
+            "annual_probability": 0.0362,
+            "period_probability": 0.005641022732659984,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-otranto-1450-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              39,
+              40
+            ],
+            "baseline_percent": [
+              0.44,
+              0.57
+            ],
+            "annual_probability": 0.0049,
+            "period_probability": 0.000753344817080448,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-morholt-1880-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              72,
+              73
+            ],
+            "baseline_percent": [
+              5.51,
+              7.97
+            ],
+            "annual_probability": 0.0639,
+            "period_probability": 0.010079939319383557,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-morholt-1880-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              48,
+              49
+            ],
+            "baseline_percent": [
+              0.73,
+              1.06
+            ],
+            "annual_probability": 0.0086,
+            "period_probability": 0.001324280804054001,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-morholt-1880-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              51,
+              52
+            ],
+            "baseline_percent": [
+              0.89,
+              1.3
+            ],
+            "annual_probability": 0.0105,
+            "period_probability": 0.0016181654674450874,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-morholt-2190-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              44,
+              45
+            ],
+            "baseline_percent": [
+              0.56,
+              0.81
+            ],
+            "annual_probability": 0.0066,
+            "period_probability": 0.001015443193203569,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-morholt-2190-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              50,
+              51
+            ],
+            "baseline_percent": [
+              0.83,
+              1.21
+            ],
+            "annual_probability": 0.0098,
+            "period_probability": 0.0015098366345819292,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-morholt-2190-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              59,
+              60
+            ],
+            "baseline_percent": [
+              1.65,
+              2.43
+            ],
+            "annual_probability": 0.019450000000000002,
+            "period_probability": 0.003008975860147478,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-morholt-2630-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              62,
+              63
+            ],
+            "baseline_percent": [
+              2.14,
+              3.18
+            ],
+            "annual_probability": 0.025250000000000005,
+            "period_probability": 0.003916032985677553,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-morholt-2630-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              42,
+              43
+            ],
+            "baseline_percent": [
+              0.51,
+              0.7
+            ],
+            "annual_probability": 0.005849999999999999,
+            "period_probability": 0.000899764786692514,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-morholt-2630-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              35,
+              36
+            ],
+            "baseline_percent": [
+              0.37,
+              0.46
+            ],
+            "annual_probability": 0.004,
+            "period_probability": 0.0006147402800277257,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-vesalius-2790-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              48,
+              49
+            ],
+            "baseline_percent": [
+              0.73,
+              1.06
+            ],
+            "annual_probability": 0.0086,
+            "period_probability": 0.001324280804054001,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-vesalius-2790-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              61,
+              62
+            ],
+            "baseline_percent": [
+              1.96,
+              2.91
+            ],
+            "annual_probability": 0.0231,
+            "period_probability": 0.0035792646790949734,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-vesalius-2790-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              57,
+              58
+            ],
+            "baseline_percent": [
+              1.41,
+              2.06
+            ],
+            "annual_probability": 0.01655,
+            "period_probability": 0.002557149435034489,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-vesalius-2790-1410-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              68,
+              69
+            ],
+            "baseline_percent": [
+              3.71,
+              5.53
+            ],
+            "annual_probability": 0.04375,
+            "period_probability": 0.006840088560769675,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-vesalius-2790-1410-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              62,
+              63
+            ],
+            "baseline_percent": [
+              2.14,
+              3.18
+            ],
+            "annual_probability": 0.025250000000000005,
+            "period_probability": 0.003916032985677553,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-vesalius-2790-1410-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              49,
+              50
+            ],
+            "baseline_percent": [
+              0.78,
+              1.13
+            ],
+            "annual_probability": 0.0092,
+            "period_probability": 0.0014170349374748037,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-vesalius-3160-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              60,
+              61
+            ],
+            "baseline_percent": [
+              1.8,
+              2.66
+            ],
+            "annual_probability": 0.021150000000000002,
+            "period_probability": 0.003274365841667626,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-vesalius-3160-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              61,
+              62
+            ],
+            "baseline_percent": [
+              1.96,
+              2.91
+            ],
+            "annual_probability": 0.0231,
+            "period_probability": 0.0035792646790949734,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "other-vesalius-3160-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              47,
+              48
+            ],
+            "baseline_percent": [
+              0.68,
+              0.99
+            ],
+            "annual_probability": 0.008,
+            "period_probability": 0.001231574181177808,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "karsenne-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              42,
+              43
+            ],
+            "baseline_percent": [
+              0.51,
+              0.7
+            ],
+            "annual_probability": 0.005849999999999999,
+            "period_probability": 0.000899764786692514,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "karsenne-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              54,
+              55
+            ],
+            "baseline_percent": [
+              1.11,
+              1.62
+            ],
+            "annual_probability": 0.0131,
+            "period_probability": 0.002021098553046663,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "karsenne-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              50,
+              51
+            ],
+            "baseline_percent": [
+              0.83,
+              1.21
+            ],
+            "annual_probability": 0.0098,
+            "period_probability": 0.0015098366345819292,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "caldrienne-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              73,
+              74
+            ],
+            "baseline_percent": [
+              6.1,
+              8.73
+            ],
+            "annual_probability": 0.07035,
+            "period_probability": 0.011129488874164872,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "caldrienne-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              44,
+              45
+            ],
+            "baseline_percent": [
+              0.56,
+              0.81
+            ],
+            "annual_probability": 0.0066,
+            "period_probability": 0.001015443193203569,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "caldrienne-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              37,
+              38
+            ],
+            "baseline_percent": [
+              0.4,
+              0.51
+            ],
+            "annual_probability": 0.0044,
+            "period_probability": 0.0006763292009358546,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "caldrienne-heir",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              33,
+              34
+            ],
+            "baseline_percent": [
+              0.35,
+              0.41
+            ],
+            "annual_probability": 0.0037,
+            "period_probability": 0.0005685623294879871,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "veyrasse-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              51,
+              53
+            ],
+            "baseline_percent": [
+              0.89,
+              1.4
+            ],
+            "annual_probability": 0.01095,
+            "period_probability": 0.0016878396954820296,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "veyrasse-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              63,
+              65
+            ],
+            "baseline_percent": [
+              2.34,
+              3.81
+            ],
+            "annual_probability": 0.0291,
+            "period_probability": 0.00452065762847309,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "veyrasse-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              49,
+              51
+            ],
+            "baseline_percent": [
+              0.78,
+              1.21
+            ],
+            "annual_probability": 0.00955,
+            "period_probability": 0.0014711634770658844,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "veyrasse-heir",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              26,
+              28
+            ],
+            "baseline_percent": [
+              0.31,
+              0.34
+            ],
+            "annual_probability": 0.0032500000000000003,
+            "period_probability": 0.0004993174703630254,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "calvernis-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              44,
+              45
+            ],
+            "baseline_percent": [
+              0.56,
+              0.81
+            ],
+            "annual_probability": 0.0066,
+            "period_probability": 0.001015443193203569,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "calvernis-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              58,
+              59
+            ],
+            "baseline_percent": [
+              1.52,
+              2.24
+            ],
+            "annual_probability": 0.0179,
+            "period_probability": 0.0027673419066717164,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "calvernis-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              51,
+              52
+            ],
+            "baseline_percent": [
+              0.89,
+              1.3
+            ],
+            "annual_probability": 0.0105,
+            "period_probability": 0.0016181654674450874,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "ceralte-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              46,
+              47
+            ],
+            "baseline_percent": [
+              0.64,
+              0.92
+            ],
+            "annual_probability": 0.0075,
+            "period_probability": 0.0011543549166158629,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "ceralte-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              61,
+              62
+            ],
+            "baseline_percent": [
+              1.96,
+              2.91
+            ],
+            "annual_probability": 0.0231,
+            "period_probability": 0.0035792646790949734,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "ceralte-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              51,
+              52
+            ],
+            "baseline_percent": [
+              0.89,
+              1.3
+            ],
+            "annual_probability": 0.0105,
+            "period_probability": 0.0016181654674450874,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "ceralte-heir",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              23,
+              24
+            ],
+            "baseline_percent": [
+              0.29,
+              0.33
+            ],
+            "annual_probability": 0.0031,
+            "period_probability": 0.00047624173183336005,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "varessan-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              51,
+              52
+            ],
+            "baseline_percent": [
+              0.89,
+              1.3
+            ],
+            "annual_probability": 0.0105,
+            "period_probability": 0.0016181654674450874,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "varessan-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              67,
+              68
+            ],
+            "baseline_percent": [
+              3.37,
+              5.04
+            ],
+            "annual_probability": 0.0398,
+            "period_probability": 0.006211767092741072,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "varessan-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              33,
+              34
+            ],
+            "baseline_percent": [
+              0.35,
+              0.41
+            ],
+            "annual_probability": 0.0037,
+            "period_probability": 0.0005685623294879871,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "talasca-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              43,
+              44
+            ],
+            "baseline_percent": [
+              0.53,
+              0.76
+            ],
+            "annual_probability": 0.00615,
+            "period_probability": 0.0009460272807556569,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "talasca-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              46,
+              47
+            ],
+            "baseline_percent": [
+              0.64,
+              0.92
+            ],
+            "annual_probability": 0.0075,
+            "period_probability": 0.0011543549166158629,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "talasca-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              42,
+              43
+            ],
+            "baseline_percent": [
+              0.51,
+              0.7
+            ],
+            "annual_probability": 0.005849999999999999,
+            "period_probability": 0.000899764786692514,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "nemerai-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              61,
+              62
+            ],
+            "baseline_percent": [
+              1.96,
+              2.91
+            ],
+            "annual_probability": 0.0231,
+            "period_probability": 0.0035792646790949734,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "nemerai-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              45,
+              46
+            ],
+            "baseline_percent": [
+              0.6,
+              0.86
+            ],
+            "annual_probability": 0.007050000000000001,
+            "period_probability": 0.00108488573106158,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "nemerai-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              49,
+              50
+            ],
+            "baseline_percent": [
+              0.78,
+              1.13
+            ],
+            "annual_probability": 0.0092,
+            "period_probability": 0.0014170349374748037,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "nemerai-heir",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              30,
+              31
+            ],
+            "baseline_percent": [
+              0.33,
+              0.36
+            ],
+            "annual_probability": 0.0034,
+            "period_probability": 0.0005223961489371209,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "ordelune-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              60,
+              61
+            ],
+            "baseline_percent": [
+              1.8,
+              2.66
+            ],
+            "annual_probability": 0.021150000000000002,
+            "period_probability": 0.003274365841667626,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "ordelune-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              67,
+              68
+            ],
+            "baseline_percent": [
+              3.37,
+              5.04
+            ],
+            "annual_probability": 0.0398,
+            "period_probability": 0.006211767092741072,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "ordelune-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              50,
+              51
+            ],
+            "baseline_percent": [
+              0.83,
+              1.21
+            ],
+            "annual_probability": 0.0098,
+            "period_probability": 0.0015098366345819292,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "skeldra-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              72,
+              73
+            ],
+            "baseline_percent": [
+              5.51,
+              7.97
+            ],
+            "annual_probability": 0.0639,
+            "period_probability": 0.010079939319383557,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "skeldra-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              47,
+              48
+            ],
+            "baseline_percent": [
+              0.68,
+              0.99
+            ],
+            "annual_probability": 0.008,
+            "period_probability": 0.001231574181177808,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "skeldra-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              51,
+              52
+            ],
+            "baseline_percent": [
+              0.89,
+              1.3
+            ],
+            "annual_probability": 0.0105,
+            "period_probability": 0.0016181654674450874,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "merovia-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              71,
+              72
+            ],
+            "baseline_percent": [
+              4.98,
+              7.27
+            ],
+            "annual_probability": 0.058100000000000006,
+            "period_probability": 0.00914137320411057,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "merovia-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              44,
+              45
+            ],
+            "baseline_percent": [
+              0.56,
+              0.81
+            ],
+            "annual_probability": 0.0066,
+            "period_probability": 0.001015443193203569,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "merovia-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              46,
+              47
+            ],
+            "baseline_percent": [
+              0.64,
+              0.92
+            ],
+            "annual_probability": 0.0075,
+            "period_probability": 0.0011543549166158629,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "ashalai-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              49,
+              50
+            ],
+            "baseline_percent": [
+              0.78,
+              1.13
+            ],
+            "annual_probability": 0.0092,
+            "period_probability": 0.0014170349374748037,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "ashalai-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              67,
+              68
+            ],
+            "baseline_percent": [
+              3.37,
+              5.04
+            ],
+            "annual_probability": 0.0398,
+            "period_probability": 0.006211767092741072,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "ashalai-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              42,
+              43
+            ],
+            "baseline_percent": [
+              0.51,
+              0.7
+            ],
+            "annual_probability": 0.005849999999999999,
+            "period_probability": 0.000899764786692514,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "istrana-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              41,
+              42
+            ],
+            "baseline_percent": [
+              0.48,
+              0.66
+            ],
+            "annual_probability": 0.005449999999999999,
+            "period_probability": 0.0008380998421920749,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "istrana-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              66,
+              67
+            ],
+            "baseline_percent": [
+              3.06,
+              4.59
+            ],
+            "annual_probability": 0.0362,
+            "period_probability": 0.005641022732659984,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "istrana-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              54,
+              55
+            ],
+            "baseline_percent": [
+              1.11,
+              1.62
+            ],
+            "annual_probability": 0.0131,
+            "period_probability": 0.002021098553046663,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "istrana-heir",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              22,
+              23
+            ],
+            "baseline_percent": [
+              0.28,
+              0.33
+            ],
+            "annual_probability": 0.0030000000000000005,
+            "period_probability": 0.00046085953910168787,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "edrask-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              47,
+              48
+            ],
+            "baseline_percent": [
+              0.68,
+              0.99
+            ],
+            "annual_probability": 0.008,
+            "period_probability": 0.001231574181177808,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "edrask-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              67,
+              68
+            ],
+            "baseline_percent": [
+              3.37,
+              5.04
+            ],
+            "annual_probability": 0.0398,
+            "period_probability": 0.006211767092741072,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "edrask-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              37,
+              38
+            ],
+            "baseline_percent": [
+              0.4,
+              0.51
+            ],
+            "annual_probability": 0.0044,
+            "period_probability": 0.0006763292009358546,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "norrakai-1",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              61,
+              62
+            ],
+            "baseline_percent": [
+              1.96,
+              2.91
+            ],
+            "annual_probability": 0.0231,
+            "period_probability": 0.0035792646790949734,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "norrakai-2",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              52,
+              53
+            ],
+            "baseline_percent": [
+              0.96,
+              1.4
+            ],
+            "annual_probability": 0.0113,
+            "period_probability": 0.0017420493180456686,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        },
+        {
+          "person_id": "norrakai-3",
+          "outcome": "continues",
+          "basis": "Ordinary age-based baseline midpoint; no known special health/exposure modifiers. No forced death quota. Existing once-only outcome retained; no succession or mandate expiry established.",
+          "mortality_review": {
+            "period_days": 56,
+            "age_range": [
+              54,
+              55
+            ],
+            "baseline_percent": [
+              1.11,
+              1.62
+            ],
+            "annual_probability": 0.0131,
+            "period_probability": 0.002021098553046663,
+            "health_and_exposure_basis": "Recorded ordinary exposure; no special health or longevity modifier.",
+            "resolution_basis": "Existing private once-only draw and survival outcome; no reroll."
+          }
+        }
+      ]
+    }
+  ]
 }

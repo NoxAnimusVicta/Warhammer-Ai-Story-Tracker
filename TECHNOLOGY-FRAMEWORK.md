@@ -46,6 +46,10 @@ The catalogue's detailed dependency links are campaign extrapolations. The sourc
 
 The former personal-sigil panel is withdrawn. Galahad and House Orsival have no adopted heraldry assigned by this artwork. The original PNGs remain preserved as app icon/header branding and future visual concepts; adopting any of them within the story requires a later player decision. No emblem is retroactively placed on clothing, property or military equipment. Historical transcript entries are preserved verbatim.
 
+## Production capacity and research
+
+Production time is determined by available facilities, tooling, trained labour, materials, power, supply chains and competing demand, independently of how long the design took to research. The same completed design may enter an equipped factory promptly or wait years for a new industrial base. Research changes that constraint only when it explicitly develops manufacturing processes, tools or capacity improvements, which must then be implemented. Record analytical work, experimental validation and industrial delivery as separate, potentially overlapping schedules.
+
 
 ## Research routes through the ages
 
@@ -293,7 +297,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Veldrassen
 
-05/11/0068 AC43. Heavy engineering, railway equipment and general manufactures; coal and processed fuel exports. Provincial consent slows concentration; major arsenals and railway junctions remain irreplaceable targets.
+01/01/0069 AC43. Heavy engineering, railway equipment and general manufactures; coal and processed fuel exports. Provincial consent slows concentration; major arsenals and railway junctions remain irreplaceable targets.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -391,7 +395,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Ostrevain
 
-05/11/0068 AC43. Grain distribution, military stores and arsenal production. Mass manpower outstrips motor transport; imported precision machinery constrains arsenal expansion.
+01/01/0069 AC43. Grain distribution, military stores and arsenal production. Mass manpower outstrips motor transport; imported precision machinery constrains arsenal expansion.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -489,7 +493,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Rovessara
 
-05/11/0068 AC43. Precision instruments, electrical apparatus and overseas commerce. Trade interruption threatens fuel and food imports; its skilled workforce is difficult to replace.
+01/01/0069 AC43. Precision instruments, electrical apparatus and overseas commerce. Trade interruption threatens fuel and food imports; its skilled workforce is difficult to replace.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -587,7 +591,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Brannervaux
 
-05/11/0068 AC43. Water engineering, agricultural processing and industrial chemistry. Water allocation and estate vetoes complicate mobilisation; river freight is sensitive to damaged locks.
+01/01/0069 AC43. Water engineering, agricultural processing and industrial chemistry. Water allocation and estate vetoes complicate mobilisation; river freight is sensitive to damaged locks.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -685,7 +689,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Cervaud
 
-05/11/0068 AC43. Frontier logistics, armaments repair and estate agriculture. Arms and credit depend on competing patrons; prolonged mobilisation drains agricultural labour.
+01/01/0069 AC43. Frontier logistics, armaments repair and estate agriculture. Arms and credit depend on competing patrons; prolonged mobilisation drains agricultural labour.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -783,7 +787,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Veylac
 
-05/11/0068 AC43. Metallurgy, machine tools and factory production. Exposed frontier factories and food imports limit a long war despite excellent machine-tool output.
+01/01/0069 AC43. Metallurgy, machine tools and factory production. Exposed frontier factories and food imports limit a long war despite excellent machine-tool output.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -881,7 +885,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Ossavren successor territories
 
-05/11/0068 AC43. Competing provincial administrations, workshops and military supply; divided coalfields and petroleum districts. Combined rival returns; no common treasury, staff or army. Rail gauges, tolls and civil fighting fragment capacity.
+01/01/0069 AC43. Competing provincial administrations, workshops and military supply; divided coalfields and petroleum districts. Combined rival returns; no common treasury, staff or army. Rail gauges, tolls and civil fighting fragment capacity.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -979,7 +983,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Rovengard
 
-05/11/0068 AC43. Valley agriculture, timber and stronghold supply. Winter supply and dispersed valley garrisons consume most available transport.
+01/01/0069 AC43. Valley agriculture, timber and stronghold supply. Winter supply and dispersed valley garrisons consume most available transport.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -1077,7 +1081,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Varnesk
 
-05/11/0068 AC43. Ore processing, specialist steels, bearings and durable machinery. Specialist foundries are strong; grain imports and seasonal routes make an extended blockade dangerous.
+01/01/0069 AC43. Ore processing, specialist steels, bearings and durable machinery. Specialist foundries are strong; grain imports and seasonal routes make an extended blockade dangerous.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -1175,7 +1179,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Galdresk
 
-05/11/0068 AC43. Field medicine, communications and scholarly traditions. Small arsenals and scattered teaching houses constrain scale; trained wardens excel locally rather than in mass campaigns.
+01/01/0069 AC43. Field medicine, communications and scholarly traditions. Small arsenals and scattered teaching houses constrain scale; trained wardens excel locally rather than in mass campaigns.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -1273,7 +1277,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Halskert
 
-05/11/0068 AC43. River freight, milling and agricultural exchange. Seasonal navigation and dependence on imported fuels limit sustained operations away from rivers.
+01/01/0069 AC43. River freight, milling and agricultural exchange. Seasonal navigation and dependence on imported fuels limit sustained operations away from rivers.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -1371,7 +1375,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Tervayne
 
-05/11/0068 AC43. Maritime freight, ship maintenance and naval supply. Sea lanes carry its power; inland movement is slow and there is no through railway to eastern Vesalius.
+01/01/0069 AC43. Maritime freight, ship maintenance and naval supply. Sea lanes carry its power; inland movement is slow and there is no through railway to eastern Vesalius.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -1469,7 +1473,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Vardol
 
-05/11/0068 AC43. Northern arsenals, estate production and military provisioning; coalfields and fuel refining. The Averholt frontier and northern garrisons tie down formations; large armies cannot simply redeploy to the Marches.
+01/01/0069 AC43. Northern arsenals, estate production and military provisioning; coalfields and fuel refining. The Averholt frontier and northern garrisons tie down formations; large armies cannot simply redeploy to the Marches.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -1567,7 +1571,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Averholt
 
-05/11/0068 AC43. Basin agriculture, internal trade and provincial engineering. Provincial bargains and the Vardol frontier absorb resources; interior transport has limited spare capacity.
+01/01/0069 AC43. Basin agriculture, internal trade and provincial engineering. Provincial bargains and the Vardol frontier absorb resources; interior transport has limited spare capacity.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -1665,7 +1669,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Serevask Republic
 
-05/11/0068 AC43. Civil administration, filtration and chemical workshops, repair shops and commercial services. The republic controls only its own districts. Varnelle, Kelbrun and Gavrel have separate forces and revenues; old charter claims confer no authority over them.
+01/01/0069 AC43. Civil administration, filtration and chemical workshops, repair shops and commercial services. The republic controls only its own districts. Varnelle, Kelbrun and Gavrel have separate forces and revenues; old charter claims confer no authority over them.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -1763,7 +1767,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Varnelle
 
-05/11/0068 AC43. Delta freight, customs, filtration and processing trades. Delta channels, customs dependence and disputed upstream water access constrain resilience.
+01/01/0069 AC43. Delta freight, customs, filtration and processing trades. Delta channels, customs dependence and disputed upstream water access constrain resilience.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -1861,7 +1865,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Kelbrun
 
-05/11/0068 AC43. Upriver freight, plantation produce and agricultural machinery. Plantation levies are numerous but unevenly equipped; imported engines and fuel remain essential.
+01/01/0069 AC43. Upriver freight, plantation produce and agricultural machinery. Plantation levies are numerous but unevenly equipped; imported engines and fuel remain essential.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -1959,7 +1963,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Gavrel
 
-05/11/0068 AC43. March provisioning, rural estates and frontier workshops. Household loyalties divide command; repair workshops cannot replace large losses of imported equipment.
+01/01/0069 AC43. March provisioning, rural estates and frontier workshops. Household loyalties divide command; repair workshops cannot replace large losses of imported equipment.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -2057,7 +2061,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Bellacosta Cantons
 
-05/11/0068 AC43. Tropical produce, timber concessions, harbour handling and coastal escorts. Canton tolls and planter credit divide the export trade. Escort flotillas answer to their sponsors; the combined manpower is not one army.
+01/01/0069 AC43. Tropical produce, timber concessions, harbour handling and coastal escorts. Canton tolls and planter credit divide the export trade. Escort flotillas answer to their sponsors; the combined manpower is not one army.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -2155,7 +2159,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Cavressa Principalities
 
-05/11/0068 AC43. Wool, preserved provisions, upland cartage and small estate workshops. Rights of passage change between courts. Winter fodder and incompatible toll privileges limit concentration more than nominal levy strength.
+01/01/0069 AC43. Wool, preserved provisions, upland cartage and small estate workshops. Rights of passage change between courts. Winter fodder and incompatible toll privileges limit concentration more than nominal levy strength.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -2253,7 +2257,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Vaulcerre Basin Leagues
 
-05/11/0068 AC43. Irrigated grain, mill machinery, fertiliser works and inland water freight. Water commands hold separate troops. A damaged gate or withheld release can disable production without an invading army taking the towns.
+01/01/0069 AC43. Irrigated grain, mill machinery, fertiliser works and inland water freight. Water commands hold separate troops. A damaged gate or withheld release can disable production without an invading army taking the towns.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -2351,7 +2355,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Seravelle Littoral
 
-05/11/0068 AC43. Export warehousing, coastal shipping, food processing and commercial credit. Port conventions facilitate cargo, not military command. Inland debt disputes and foreign shipping insurance expose the region to commercial pressure.
+01/01/0069 AC43. Export warehousing, coastal shipping, food processing and commercial credit. Port conventions facilitate cargo, not military command. Inland debt disputes and foreign shipping insurance expose the region to commercial pressure.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -2449,7 +2453,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Haldrevik Concessions
 
-05/11/0068 AC43. Coal export concessions, timber, extraction machinery and contract transport. Company forces protect particular assets. Charter disputes, imported food and dependence on Varnesk equipment undermine any combined mobilisation.
+01/01/0069 AC43. Coal export concessions, timber, extraction machinery and contract transport. Company forces protect particular assets. Charter disputes, imported food and dependence on Varnesk equipment undermine any combined mobilisation.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -2547,7 +2551,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Dreissen Wardholds
 
-05/11/0068 AC43. Convoy staging, cold-weather stores, fortress repair and imported-grain distribution. Most personnel guard their own supply districts. Winter fuel and food reserves impose strict limits on campaigning beyond the wardholds.
+01/01/0069 AC43. Convoy staging, cold-weather stores, fortress repair and imported-grain distribution. Most personnel guard their own supply districts. Winter fuel and food reserves impose strict limits on campaigning beyond the wardholds.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -2645,7 +2649,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Varneselle Estates
 
-05/11/0068 AC43. Fishing, timber, estate workshops and seasonal coastal freight. Port and estate forces obey different officers. Agricultural limits and dependence on Halskert grain make freight disruption especially costly.
+01/01/0069 AC43. Fishing, timber, estate workshops and seasonal coastal freight. Port and estate forces obey different officers. Agricultural limits and dependence on Halskert grain make freight disruption especially costly.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -2743,7 +2747,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Bressavelle Marches
 
-05/11/0068 AC43. Textile finishing, estate produce, bonded warehousing and wagon repair. Foreign clients subsidise rival toll houses. Local garrisons cannot be added together as an expeditionary force without renegotiating their obligations.
+01/01/0069 AC43. Textile finishing, estate produce, bonded warehousing and wagon repair. Foreign clients subsidise rival toll houses. Local garrisons cannot be added together as an expeditionary force without renegotiating their obligations.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -2841,7 +2845,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Vallessia Cantons
 
-05/11/0068 AC43. Grain storage, warm-climate produce, food processing and inter-canton brokerage. Military governors and elected market boards compete for transport and stores. Requisition disputes can immobilise a nominally available reserve.
+01/01/0069 AC43. Grain storage, warm-climate produce, food processing and inter-canton brokerage. Military governors and elected market boards compete for transport and stores. Requisition disputes can immobilise a nominally available reserve.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -2939,7 +2943,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Rivessac Coast
 
-05/11/0068 AC43. Pilotage, coastal provisions, fishing and inland agricultural markets. Small communes lack a shared naval command. Poorly charted harbours, seasonal labour and interrupted inland roads limit the usable export surplus.
+01/01/0069 AC43. Pilotage, coastal provisions, fishing and inland agricultural markets. Small communes lack a shared naval command. Poorly charted harbours, seasonal labour and interrupted inland roads limit the usable export surplus.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -3037,7 +3041,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Karsenne Compact
 
-05/11/0068 AC43. Mining, military engineering and defended-pass supply. Strong pass defence and mining; food and coastal export access depend on neighbours. Councils control separate contingents.
+01/01/0069 AC43. Mining, military engineering and defended-pass supply. Strong pass defence and mining; food and coastal export access depend on neighbours. Councils control separate contingents.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -3135,7 +3139,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Duchy of Caldrienne
 
-05/11/0068 AC43. Agriculture, artillery production and armoured-vehicle workshops. Largest eastern tank arm, but fuel imports and the armed truce impose costs; offensive forces cannot strip all garrisons.
+01/01/0069 AC43. Agriculture, artillery production and armoured-vehicle workshops. Largest eastern tank arm, but fuel imports and the armed truce impose costs; offensive forces cannot strip all garrisons.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -3233,7 +3237,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### March of Veyrasse
 
-05/11/0068 AC43. Railway engineering, port trade and municipal industry. Chartered houses, municipal funding and freight bottlenecks constrain command; machinery and fuel imports matter.
+01/01/0069 AC43. Railway engineering, port trade and municipal industry. Chartered houses, municipal funding and freight bottlenecks constrain command; machinery and fuel imports matter.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -3331,7 +3335,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Calvernis Republic
 
-05/11/0068 AC43. Shipping, banking, shipyards and maritime manufactures. Strong finance and convoy support; imported food and fuel expose it to interdiction and merchant-family disputes.
+01/01/0069 AC43. Shipping, banking, shipyards and maritime manufactures. Strong finance and convoy support; imported food and fuel expose it to interdiction and merchant-family disputes.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -3429,7 +3433,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Ceralte Admiralty
 
-05/11/0068 AC43. Coastal trade, fishing, naval maintenance and convoy services. Experienced coastal crews and minelayers; small population, grain imports and fuel dependence rule out a large land war.
+01/01/0069 AC43. Coastal trade, fishing, naval maintenance and convoy services. Experienced coastal crews and minelayers; small population, grain imports and fuel dependence rule out a large land war.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -3527,7 +3531,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Varessan Sea League
 
-05/11/0068 AC43. Pilotage, coaster construction, wool and preserved fruit. Imported engines, medicine and bunker fuel; island votes limit emergency taxation.
+01/01/0069 AC43. Pilotage, coaster construction, wool and preserved fruit. Imported engines, medicine and bunker fuel; island votes limit emergency taxation.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -3625,7 +3629,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Talascan Charter Islands
 
-05/11/0068 AC43. Fish curing, fruit and fibre exports, west-coast resupply. External firms dominate commercial credit and shipping; contested leases and imported machinery.
+01/01/0069 AC43. Fish curing, fruit and fibre exports, west-coast resupply. External firms dominate commercial credit and shipping; contested leases and imported machinery.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -3723,7 +3727,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Nemerai Crown
 
-05/11/0068 AC43. Ocean navigation, grain terraces, textiles and marine repairs. No integrated heavy steel industry; outer-island levies require compact consent.
+01/01/0069 AC43. Ocean navigation, grain terraces, textiles and marine repairs. No integrated heavy steel industry; outer-island levies require compact consent.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -3821,7 +3825,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Ordelune Overseas Districts
 
-05/11/0068 AC43. Wool, grain, preserved fish and southern provisioning. Storm-season isolation, limited machine shops and disputed crown leases.
+01/01/0069 AC43. Wool, grain, preserved fish and southern provisioning. Storm-season isolation, limited machine shops and disputed crown leases.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -3919,7 +3923,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Skeldran Hearth Confederacy
 
-05/11/0068 AC43. Cold-water fisheries, wool, rescue pilotage and wooden boats. Short growing season, scarce imported fuel and little heavy repair capacity.
+01/01/0069 AC43. Cold-water fisheries, wool, rescue pilotage and wooden boats. Short growing season, scarce imported fuel and little heavy repair capacity.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -4017,7 +4021,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Merovian Island Republic
 
-05/11/0068 AC43. Marine repairs, insurance, food processing and pump manufacture. Imported plate and refined fuel; merchant finance and outer-island representation remain contentious.
+01/01/0069 AC43. Marine repairs, insurance, food processing and pump manufacture. Imported plate and refined fuel; merchant finance and outer-island representation remain contentious.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -4115,7 +4119,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Ashalai Reef Covenant
 
-05/11/0068 AC43. Irrigated crops, fibres, plant oils, reef navigation and small-craft repair. Limited heavy industry and medical imports; dispersed councils cannot mobilise as a centralised mass army.
+01/01/0069 AC43. Irrigated crops, fibres, plant oils, reef navigation and small-craft repair. Limited heavy industry and medical imports; dispersed councils cannot mobilise as a centralised mass army.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -4213,7 +4217,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Kingdom of Istrana
 
-05/11/0068 AC43. Textiles, processed crops, coastal shipbuilding and customs administration. Imported machinery and fuel; royal borrowing requires assembly consent.
+01/01/0069 AC43. Textiles, processed crops, coastal shipbuilding and customs administration. Imported machinery and fuel; royal borrowing requires assembly consent.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -4311,7 +4315,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Edrask Governorate
 
-05/11/0068 AC43. Timber, preserved fish, weather stations and regional resupply. Seasonal northern access, disputed concessions and dependence on imported grain and machinery.
+01/01/0069 AC43. Timber, preserved fish, weather stations and regional resupply. Seasonal northern access, disputed concessions and dependence on imported grain and machinery.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 
@@ -4409,7 +4413,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 ### Norrakai Moots
 
-05/11/0068 AC43. Northern pilotage, fisheries, hides and refuge services. Short shipping season, imported grain and almost no industrial depth.
+01/01/0069 AC43. Northern pilotage, fisheries, hides and refuge services. Short shipping season, imported grain and almost no industrial depth.
 
 | Capability | Operation | Understanding | Production | Deployment & use | Evidence |
 

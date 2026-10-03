@@ -1,6 +1,6 @@
 # House Orsival — estate accounts
 
-Revision 74 · Reviewed 12/11/0068 AC43 · Pricing baseline: transcript439; subsequent payments: transcript443
+Revision 78 · Reviewed 19/01/0069 AC43 · Pricing baseline: transcript439; subsequent payments: transcript443
 
 The established land account remains **20 ha tenanted arable + 12 meadow/pasture + 14 woodland + 6 orchard/market ground + 4 buildings/tracks/domestic ground = 56 ha**. Existing occupancies and tenancies remain protected.
 
@@ -105,7 +105,7 @@ The earlier 522 included the household earmarks; they must not be added again. C
 The expedition is separately closed: **11,855** operations, **500** scholar awards, **645** leadership award and **1,500** refunds account for the full **14,500** fund. No institutional balance remains in Galahad’s control. At that historical checkpoint royal funding and remuneration were not yet quantified or paid; the executed programme is recorded below and in ROYAL-COMMISSION.md. See [final expedition accounts](expedition-accounts.json) and [commission](ROYAL-COMMISSION.md).
 
 
-## Current reconciled accounts — 12/11/0068 AC43
+## Historical reconciled accounts — 12/11/0068 AC43
 
 The statements above preserve the closed expedition and earlier planning model. The following movements advance those opening balances once; no new annual forecast or unrecorded harvest income has been credited.
 
@@ -150,3 +150,18 @@ Dorlac retained the former 60 receivable for goodwill during the estate visit. C
 The **18,000 state programme** is separate: **14,304 recognised cost + 180 outstanding commitments + 3,516 recorded headroom**. This is not Galahad’s money, estate profit or cash available to invest. See [programme terms](ROYAL-COMMISSION.md) and [machine-readable reconciled ledgers](commission-accounts.json). The original 900 licence is already included in personal receipts and programme costs; do not pay it twice.
 
 The Royal Advisor appointment is effective on 12/11, with no new salary or resource appropriation settled. Personal and household cash have not moved during the completed training and return. Incremental programme return-transport valuation remains unpriced; it may reduce the recorded headroom and is not a personal fare.
+
+## Current accounts — 19/01/0069 AC43
+
+The preceding 12/11 balances are historical. The period since then is reconciled once in commission-accounts.json.
+
+| Account | Opening 12/11 | Receipts | Expenses | Current cash |
+|---|---:|---:|---:|---:|
+| Personal | 659 | 300 | 36 | **923** |
+| Household | 1,160 | 184 | 150 | **1,194** |
+
+Personal receipts are the 150 commission payments on 01/12/0068 and 01/01/0069; expenses are papers, calls and incidentals. Month 01 accrual of 95 is unpaid, next due 01/02; no additional Advisor salary. Household receipts: rents 40, produce 90 and limited timber 54. Expenses: Lucette 28, telephone four, hounds eight, domestic 40, produce/timber handling 52 and maintenance 18. These are the resolved period movements, not an automatic credit of the annual planning forecast. Household cash includes **148 reserved and 1,046 uncommitted**.
+
+Corva and Veskan remain safe and in regular telephone contact. Five House rifles and 100 ordinary rounds have now arrived. No brewery, new investment, armed staff appointment or equipped estate workshop is enacted. Dorlac receivable remains zero; one consignment charm remains without a new confirmed sale.
+
+The state rifle programme now recognises 16,877, with zero outstanding commitments and 1,123 headroom. Return transport and House delivery are included. Crown/military administration handles workshop funding. The VAA's 6,000 opening authority and separate 14-million capital ceiling are restricted state funds, never household or personal cash. See VAA-REFERENCE.md and vaa-accounts.json.
