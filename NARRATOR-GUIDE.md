@@ -21,6 +21,8 @@ Suggested opening instruction for a new task:
 
 ## How to tell the story
 
+Read [NPC dialogue and voice](DIALOGUE-GUIDE.md) before writing a scene. Use established individual voices and natural responses; check that comparisons and jokes make sense. The player's approved descriptive narration remains unchanged. The guide records the household and senior court voices, how to maintain other recurring NPCs, and the accepted correction to Veskan's sword remark.
+
 - Describe concrete surroundings, machinery, people, gestures and consequences. Use vivid, varied prose and genuine dialogue fitting an industrial, courtly 40K setting. Avoid generic grimdark decoration and constant moral lectures.
 - The player controls Galahad's major choices, thoughts and direction. Resolve what follows from his actions; never decide his loyalty, morality, ambitions, relationships or final destiny for him. Do not end the campaign without explicit instruction.
 - NPCs have motives, knowledge, duties and limits. Kindness and affection are real where established. Resistance needs a reason; do not make every official obstructive or every successful influence absolute obedience.
@@ -108,6 +110,8 @@ Read food-cultures.json and purge-history.json alongside the world record. Use m
 Revision39 removes redundant local map additions and provides real northern/southern/western roads. Earlier revisions charted 897 settlements, then 899 after the two Ceralte ports. The current atlas has 970 settlements and 2,210 routes, including 134 sea segments; use TRANSPORT-REFERENCE.md for the connected shipping network and island administrations. Unvisited repetitive principal names have corrected aliases in the private handover; retain stable IDs and established story names. The old measured-route accordion is retired, but source measurements remain. Read private/map-maintenance.md before editing.
 
 ## Current checkpoint
+
+**Later live continuation:** on the evening of 19/01/0069, Galahad returned to the estate near Serravonne and mounted his existing Vouressan-bone sword on the study wall. A larger replacement is an intention only. The revision-78 overview below records the earlier Auvrienne checkpoint; the transcript and private/checkpoint79-live.md control the later scene. The subsequent dialogue correction advances no time.
 
 Current scene: 19/01/0069 AC43, Auvrienne. Galahad is Royal Advisor and founding Director of the VAA. His amended advisory instrument is signed and delivered, and relevant departmental notices have been issued. All six Order members arrived, accepted Agency work under personal loyalty to Galahad, received individual instruction and departed for their home societies on 19/01; they are not yet assumed to have arrived home. The isolated Crown headquarters site is under construction, with a 19/11/0069 completion deadline. No operational headquarters, finished underground railway or operating airstrip exists yet. The 14,000,000 capital ceiling is separate from the 6,000 opening Agency account. Personal cash 923; household 1,194 (148 reserved, 1,046 uncommitted). The workshop runs autonomously under Ordel and awaits the Margrave and Marshal's report and military production instructions; Galahad owes it no new task or personal funding. Read CURRENT-CONTINUITY.md, VAA-REFERENCE.md, commission-accounts.json and the latest exact transcript.
 

@@ -15177,3 +15177,96 @@ No new production, funding award, player obligation or cash adjustment is create
 ### Player correction request
 
 So fix the story and the record please or you will create a misinformation cascade…
+
+
+## Estate homecoming and sword display — 19/01/0069 AC43
+
+### Player
+
+I return to my Estate while all the work continues so I can take a few days for personal endeavors. When I arrive I fetch my Bone Greatsword and hold it. When I first made it, to me it was a greatsword. Now by comparison it would be a longsword, perhaps even a short sword depending on the angle. (This is sort of homage to how Astartes Knives are swords from the perspective of regular humans) I decide to set the sword up on one of the walls inside my home. In an emergency it could be sold for revenue as the bone has value. But to me the weapon is smaller than I prefer and I believe it is time for an upgrade.
+
+### Assistant progress note (out of character)
+
+I’ll check the estate and sword records, then continue your homecoming and record the change in the story.
+
+### Assistant
+
+By the time you reach the estate, the windows of the main house are amber against the gathering dusk. Beyond the garden wall, the orchard has become a pattern of dark trunks and branches. Water glints between the reeds on the lower ground; somewhere near the service yard, a bucket strikes stone and Lucette calls for someone to leave their muddy boots outside.
+
+The hounds announce you before the household sees you. Their barking breaks into excited movement at the gate, claws scraping over the drive as they recognise a familiar presence.
+
+Corva meets you at the door.
+
+“A few days?” she asks, looking up at you. “Actual days here, or days in which we occasionally discover that you have passed through a room?”
+
+Veskan laughs from behind her and reaches to clasp your forearm.
+
+Inside, the house smells of warm bread, woodsmoke and the faint beeswax scent of recently rubbed furniture. There are papers beside Corva’s usual place, a folded cloth on the table, the small accumulated signs of a household continuing while you have been elsewhere.
+
+Your belongings are where they were put away. When you retrieve the wrapped sword and uncover it in your study, the white bone catches the lamplight.
+
+It has not diminished. The change is in the hand holding it.
+
+The integral grip once accommodated the two-handed hold for which you shaped it. Now your fingers close around it with space and leverage to spare. Raising the point requires so little effort that the old balance feels almost unfamiliar. What once demanded the sweep of your shoulders can be directed with a small turn of your wrist.
+
+Against another man, it would still be a formidable length of sharpened bone. Against your own height and reach, it has become a much smaller weapon: closer to a one-handed sword than the great blade you remember making.
+
+The protective forms you inscribed remain visible along its surface. So do the little irregularities that identify it as yours—the transitions you cut by hand, the particular line you gave its edge. Your present eye can see where you would shape it differently. None of that changes what it was when you needed it.
+
+Veskan pauses in the doorway as you hold it up.
+
+“I remember that looking rather larger.”
+
+His gaze moves from the blade to your hand, then up to your face.
+
+“Though I suppose it remembers the same about you.”
+
+You choose a clear stretch of wall in the study. Once supports are secured, the sword rests horizontally against the plaster, its pale length standing out beneath the lamplight. Removed from the scale of your body, it looks imposing again.
+
+Corva comes to inspect it and checks that it sits securely.
+
+“Much better than leaving it wrapped where nobody can see it.”
+
+The valuable bone remains available should the House ever need to part with it. For now, there is no buyer, no price negotiated and no need to sell. It is simply home, hanging above the place where you will work.
+
+Beyond the window, the courtyard settles into evening. Your desk is clear enough to spread out fresh paper. The old sword has its place; what will replace it remains yours to decide.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years, 5 months and 3 weeks  
+**Date:** 19/01/0069 AC43 — evening, Orsival estate near Serravonne  
+**Reputation:** Royal Advisor; successful technical commissioner; privately, founding Director of the VAA  
+**Weapons (Equipped):** None. Vouressan-bone sword mounted in the study; five House rifles stored at the estate  
+**Armor/Clothing (Equipped):** Pale shirt, dark trousers and leather boots; charcoal coat removed indoors  
+**Gear/Inventory:** Personal effects; private papers, collections and former Collegium belongings at the estate; 100 household rifle rounds  
+**Currency:** 923 personal lorrats; household funds 1,194, including 148 reserved. No sword sale or replacement purchase.
+
+
+## Dialogue guidance — out-of-character correction after estate homecoming
+
+### Player
+
+Be careful with your dialogue from now on. Perhaps give every NPC a tone or something. Dialogue is starting to sound very robotic and unnatural. The non dialogue narrative is fine though
+
+### Assistant
+
+Understood. I’ll give recurring NPCs distinct voices shaped by their personalities, relationships and circumstances, and keep those voices consistent.
+
+Corva should sound practical and familiar; Veskan more direct, with understated humour; Lucette courteous and matter-of-fact. They shouldn’t all deliver polished observations or neatly timed quips. That sword exchange was too contrived.
+
+I’ll leave the descriptive narration as it is and make dialogue more natural, with room for plain speech, hesitation and things left unsaid.
+
+### Player
+
+Like Veskan's dialogue just now made no sense about the blade remembering
+
+### Assistant
+
+You’re right. “It remembers the same about you” doesn’t make sense—the sword would remember Galahad being **smaller**, not larger. I forced a clever-sounding reply instead of something Veskan would naturally say.
+
+“I remember when you needed both hands for that” would have conveyed the familiarity and change plainly.
+
+### Player
+
+Yeah exactly, that is what I am going for. Wanna make something or update something in the github documentation to ensure this becomes consistent for the rest of the story?
