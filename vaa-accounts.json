@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "date": "19/01/0069 AC43",
+  "date": "25/02/0069 AC43",
   "currency": "Lorrats",
   "agency": "Veyrasse Arcane Agency",
   "director": "Galahad Orsival",
@@ -38,13 +38,42 @@
   "capital": {
     "authorised_date": "24/11/0068 AC43",
     "ceiling": 14000000,
-    "released": 1800000,
-    "spent": 1360000,
-    "released_unspent": 440000,
-    "undrawn_authority": 12200000,
+    "released": 2800000,
+    "spent": 2100000,
+    "released_unspent": 700000,
+    "undrawn_authority": 11200000,
     "deadline": "19/11/0069 AC43",
     "commencement": "27/11/0068 AC43",
     "funding": "Staged Crown reserve-backed capital appropriation. Treasury-to-project transfer is not itself a national expense; actual construction expense is reconciled once in the current national reserve bridge. No duplicate charge to ordinary defence envelopes.",
-    "cost_scope": "Prior 11m preliminary complex plus 2.2m railway/underground access additions and 0.8m expanded protection/airstrip allowances; revised ceiling not a fixed final tender."
+    "cost_scope": "Prior 11m preliminary complex plus 2.2m railway/underground access additions and 0.8m expanded protection/airstrip allowances; revised ceiling not a fixed final tender.",
+    "returns": [
+      {
+        "date": "19/01/0069 AC43",
+        "released": 1800000,
+        "spent": 1360000
+      },
+      {
+        "date": "25/02/0069 AC43",
+        "released": 2800000,
+        "spent": 2100000,
+        "period_release": 1000000,
+        "period_expense": 740000,
+        "basis": "Closes outstanding 19/01-25/02 vouchers including telecommunications; no duplicate charge."
+      }
+    ],
+    "forecast_revision": {
+      "date": "25/02/0069 AC43",
+      "avoided_future_cost": 180000,
+      "reassigned_training": 120000,
+      "additional_forecast_headroom": 60000,
+      "working_float_days_approximate": 14,
+      "basis": "Forecast only; not cash recovered or a smaller authorised ceiling."
+    },
+    "telephone_operational": "04/02/0069 AC43"
+  },
+  "opening_period_status": {
+    "start": "12/11/0068 AC43",
+    "review_due": "12/02/0069 AC43",
+    "status": "Original three-month period elapsed. No further opening-account expenditure or renewal enacted; 4,540 is the historical unspent authority awaiting renewal/closure clarification, not newly available recurring funding. Raise through Crown administration before new operating commitments."
   }
 }

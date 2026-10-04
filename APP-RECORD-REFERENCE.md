@@ -1,6 +1,6 @@
 # App record reference
 
-Current source records for revision 78 (19/01/0069 AC43). This reference retains the complete prose consolidated or regrouped on the slate. Historical editions remain in repository history; the exact transcript preserves the sequence of events.
+Current source records for revision 79 (25/02/0069 AC43). This reference retains the complete prose consolidated or regrouped on the slate. Historical editions remain in repository history; the exact transcript preserves the sequence of events.
 
 Organisation: identity, contacts and personal accounts in Dossier; biology and psychic development in Physiology; projects and commission in Research; completed expedition and pod history in Chronicle; household accounts beside Estate. Veyrasse-specific social institutions are explicitly labelled in Malaspina. Duplicate project summaries and historical lodging are retained here rather than repeated across current panels.
 
@@ -36,7 +36,7 @@ Sovereign authorisation
 
 Royal technical commission
 
-Royal Advisor since 12/11/0068. The amended instrument is signed and delivered, with departmental notices issued. Current return: 19/01/0069 AC43.
+Royal Advisor since 12/11/0068. The amended instrument is signed and delivered, with departmental notices issued. Current return: 25/02/0069 AC43.
 
 
 Standing Crown mandate
@@ -56,7 +56,7 @@ Completed rifles
 
 Programme account
 
-18,000 ceiling: 16,877 recognised cost, zero commitments and 1,123 headroom. Return transport and House delivery are included. Commission pay remains 150/month; no additional Advisor salary.
+Pilot return dated 19/01: 18,000 ceiling, 16,877 recognised cost, zero commitments and 1,123 headroom. Subsequent Crown payroll estimate through 25/02: 1,260, separately administered. Return transport and House delivery are included. Commission pay remains 150/month; no additional Advisor salary.
 
 
 Instruction completed
@@ -129,11 +129,11 @@ Population estimate on 12/11/0068 AC43, 441 local days after the census of 27/08
 
 ## Funds and standing — complete source
 
-923 personal lorrats. Household: 1,194 (148 reserved; 1,046 uncommitted). Commission pay 150 per month; 150 received on 01/12/0068 and 01/01/0069. Month 01 accrued unpaid: 95; next payday 01/02/0069. No additional Advisor salary.
+549 personal lorrats. Household: 1,678 (148 reserved; 1,530 uncommitted). Commission pay 150/month; last paid 01/02/0069. Month 02 accrued unpaid: 125; next payday 01/03/0069. No additional Advisor salary.
 
-Rifle programme: 18,000 ceiling; 16,877 recognised, zero commitments, 1,123 headroom. Crown/military administration handles forward funding.
+Rifle pilot: last reconciled 19/01, 16,877 recognised within 18,000; continuing Crown payroll separately estimated at 1,260 through 25/02, not personal funding.
 
-VAA opening account: 6,000 authority, 1,460 spent, 4,540 undrawn. Headquarters: 14 million capital ceiling; 1.8 million released, 1.36 million spent, 440,000 restricted cash. These are not personal funds. Expedition closed, zero held. Dorlac receivable zero.
+VAA opening account: 1,460 spent against original 6,000; expired-period renewal outstanding. Capital: 14 million authorised, 2.8 million released, 2.1 million spent, 700,000 restricted cash. Expedition closed, zero held; Dorlac receivable zero.
 
 ## Relationships — complete source record
 
@@ -177,7 +177,7 @@ Noemie Darcenne — Miravelle insurance assessor; correspondence helped corrobor
 
 Lucien Sarvelle — Drossane assay-office custodian. Allowed supervised external examination of the damaged purported sighting assembly and surviving records. Galahad suggested an ocular or telescope function aloud, withholding his private weapon hypothesis. Sarvelle agreed to retain his correspondence address; his uncertainty was not erased.
 
-Current family contact — Galahad visited from 12–17/10, contributed 1,000 to household funds and entrusted both parents with investments, including outside the estate. He privately warned them of possible Caldrienne risks without reporting an imminent threat. Telephone and two watchhounds are now present; armed guards remain prospective. Corva received his sealed belongings on 22/10. Household funds are 1,194; their grief and marital difficulties are not assumed erased.
+Current family contact — Galahad visited from 12–17/10, contributed 1,000 to household funds and entrusted both parents with investments, including outside the estate. He privately warned them of possible Caldrienne risks without reporting an imminent threat. Telephone and two watchhounds are now present; armed guards remain prospective. Corva received his sealed belongings on 22/10. Household funds are 1,678; their grief and marital difficulties are not assumed erased.
 
 Drossane operatives — six unnamed Caldrienne intelligence personnel, coerced after the failed false flag. At Valdrec they reaffirmed service; observed scars support their injury story and a procurement meeting was independently corroborated. Their superiors’ report remains unseen. A correspondence channel is arranged. Future loyalty and wider disinformation are not independently guaranteed.
 
@@ -253,11 +253,17 @@ Production management: Workflow, staffing, inspection and stores were reorganise
 
 Frontier instruction and assessment: Desmaret fired twelve ordinary rounds without stoppage on 04/11; Galahad then placed ten rapid shots through one entry point with almost no visible recoil. The 05–06/11 training days covered firing, maintenance, weather effects and handling, with NCOs increasingly correcting errors independently. All seven days concluded successfully on 11/11; NCOs can sustain practice under Desmaret. The overnight base survey documented clothing, drying, food, water, maintenance, parts, fuel, readiness and defensive-work bottlenecks, without enacting improvements. Vauzel’s 06/11 district briefing supplied a central Caldrienne corridor estimate of 18,400 personnel (16,000–21,500), against 11,600 in the corresponding Veyrassian district, with equipment estimates and conditional reinforcement windows. These are national-force subsets. Authorised extracts and confidence notes are retained; protected source identities are withheld. The briefing is complete and its estimates remain dated 06/11. See ROYAL-COMMISSION.md for the complete appreciation.
 
-Royal advisory mandate: He may initiate inspections and investigations, convene responsible officials, require relevant returns and develop programmes without a separate commission. Directions in the Crown’s name bind personnel and facilities assigned to the mandate; work may commence with authorised resources. Urgent findings receive immediate direct access to the Margrave; refusals require stated reasons and may be escalated to her. He may advise on any matter affecting the March. Field-army command, new taxes and binding foreign commitments require separate authorisation. Additional resources and powers must be provided; this is neither unlimited appropriation nor authority to seize every private asset. Existing manufacturing licence and intellectual-property rights remain unchanged. The appointment is effective 12/11; the amended instrument is signed and delivered. The VAA has a separate opening allocation; residence chambers have been provided. The isolated headquarters is now under construction under a separate 14-million capital ceiling. Agency instruction and research are underway; no carrier construction or further rifle batch is enacted.
+Royal advisory mandate: He may initiate inspections and investigations, convene responsible officials, require relevant returns and develop programmes without a separate commission. Directions in the Crown’s name bind personnel and facilities assigned to the mandate; work may commence with authorised resources. Urgent findings receive immediate direct access to the Margrave; refusals require stated reasons and may be escalated to her. He may advise on any matter affecting the March. Field-army command, new taxes and binding foreign commitments require separate authorisation. Additional resources and powers must be provided; this is neither unlimited appropriation nor authority to seize every private asset. Existing manufacturing licence and intellectual-property rights remain unchanged. The appointment is effective 12/11; the amended instrument is signed and delivered. The VAA has a separate opening allocation; residence chambers have been provided. The isolated headquarters is now under construction under a separate 14-million capital ceiling. The first Agency instruction period is completed; study and discreet infiltration continue; no carrier construction or further rifle batch is enacted.
 
-Read VAA-REFERENCE.md and vaa-accounts.json. All six members have received differentiated instruction and are returning home after departure on 19/01/0069. Study and infiltration are current priorities; broader recruitment and active operations await the headquarters. Opening account: 1,460 spent, 4,540 undrawn. Separate headquarters: 14 million authorised, 1.8 million released, 1.36 million spent. Construction began 27/11/0068; completion deadline 19/11/0069. The aviation city remains deferred. Research, validation and production remain separate.
+Read VAA-REFERENCE.md and vaa-accounts.json. All six members have received differentiated instruction and departed homeward on 19/01/0069; individual arrival confirmations are not yet recorded. Study and infiltration are current priorities; broader recruitment and active operations await the headquarters. Opening account: 1,460 spent, 4,540 historical undrawn authority; its three-month period ended 12/02 and renewal or closure is unresolved. Separate headquarters: 14 million authorised, 2.8 million released, 2.1 million spent. Construction began 27/11/0068; completion deadline 19/11/0069. The aviation city remains deferred. Research, validation and production remain separate.
 
 Ordel manages the autonomous rifle workshop. It awaits the Margrave and Marshal's report and production instructions, then produces according to military needs and requests. Crown and military administration handle the associated authorisation and funding; no new task or personal payroll support is required from Galahad.
+
+Broad mind sensing: On 19/01 Galahad differentiated human and animal surface signatures across the estate and tracked them through darkness and walls. In the countryside he recognised Varrenne wolves from his existing natural-history knowledge and tracked five attacking animals with his eyes closed, avoiding every attack through psychic position and intent combined with his physical reactions. No measured maximum range or target count was established. This bypasses ordinary visual camouflage; it does not disable a cloak or supply a confirmed Hunter mental template. No Hunter was found.
+
+Destructive release and living repair: Overnight 19-20/01, a deliberately strenuous radial shockwave killed all five wolves and devastated substantial woodland without injuring or incapacitating Galahad. He then simultaneously manipulated trees, debris and fine particles. Initial precision difficulties gave way to stable living-wood and root unions, with new supporting growth, by dawn. Most conspicuous damage was repaired; scars, disturbed ground and dead animals remained. No measured yield, resurrection, time reversal or perfect particle reset. Work ended at dawn rather than exhaustion. Several dozen ciphered pages were filed at the estate on 20/01; no private manuscript was handed to the Crown.
+
+Construction optimisation: The 24-25/01 review and following month improved staging, inspection, handovers, service coordination and maintenance access. Training plans now distinguish ordinary instruction from isolated destructive exercises, with precision tracking and living-repair observation provisions. Forecast avoided future cost 180,000; 120,000 reassigned within the ceiling and 60,000 additional forecast headroom. Approximately two weeks of working float; deadline remains 19/11/0069. No maximum-output containment certification. External and internal office telephones operate from 04/02; underground supply lines and the airstrip remain unfinished.
 
 ## Holdings — complete source record
 
@@ -265,7 +271,7 @@ Land and tenure: The 56-hectare Orsival estate near Serravonne is now the family
 
 House and workshop: The two-storey grey masonry house has a tiled roof and service wing. Veskan was settled in a ground-floor guest bedroom during his recovery. The drive-facing room is Galahad’s private study; an upstairs bedroom is designated for the library and archives. The first 40-lorrat furniture purchases are paid; further replacement remains gradual. The long low storehouse across the service yard is assigned as his workshop. Roof, lock, light and floor repairs are complete; the building is dry, secure and lit. Benches, specialist tools, machinery and power equipment are separate decisions. No completed machine shop or major rebuilding has been awarded.
 
-Estate operations: Household funds are 1,194, with 148 reserved and 1,046 uncommitted after the 1,000 contribution and recorded purchases/payments. Both parents may make informed investments; Corva keeps the accounts. Telephone installed by 17/10 in the study, two/month plus toll calls. Two trained adult watchhounds and equipment acquired for 68. Minor tenant drain and roof repairs cost 12; broader drainage remains unresolved. Tenants retain their crops and protected occupancies. No new venture, brewery or adopted crop survey. The earlier actual operating surplus of 162 and annual model of 218 are distinct historical records.
+Estate operations: Household funds are 1,678, with 148 reserved and 1,530 uncommitted after the 1,000 contribution and recorded purchases/payments. Both parents may make informed investments; Corva keeps the accounts. Telephone installed by 17/10 in the study, two/month plus toll calls. Two trained adult watchhounds and equipment acquired for 68. Minor tenant drain and roof repairs cost 12; broader drainage remains unresolved. Tenants retain their crops and protected occupancies. No new venture, brewery or adopted crop survey. The earlier actual operating surplus of 162 and annual model of 218 are distinct historical records.
 
 Collegium lodging and possessions: Salaried employment and room occupancy ended on 20/10. Private papers, both recovered psychic collections, books, tools, automata, hunting materials and wrapped greatsword were packed and delivered to the estate on 22/10 against Corva’s receipt. Institutional property was returned; institutional furniture is not presumed a gift. The works remain state premises under Ordel during the pause; Galahad returned to Auvrienne on 12/11 with his relevant commission papers and returns.
 
@@ -275,6 +281,8 @@ Commissions and consignment: The old civil commission advance remains returned a
 
 Institutional loans and standing: Borrowed Collegium instruments are not personal property and have been returned. The royal programme has allocated state premises, eighteen core staff and an 18,000 ceiling, not a privately owned factory or cash grant. At Cressault there are 160 issued military rifles and 27 reserve rifles; five House rifles have been delivered to the estate, while three development rifles remain at the Auvrienne works. Of 12,000 issued rounds, 6,758 were last verified on 12/11 after trials and seven training days: 358 ordinary and 6,400 armour-piercing. Later unit consumption awaits a return; the household issue came separately. Training authority has ended; the standing Royal Advisor mandate is effective. The separate VAA authorisation is held by the Crown, and no privately owned engineering company has been founded.
 
-Drossane accommodation: Historical lodging during days 85–90, now vacated and fully included in settled expedition costs: stone guesthouse, shared upper corridor and sitting room, high-beamed corner room with reinforced bed, worktable, coal hearth, electric lamps and corridor hot-water bathing. The home visit is complete; Galahad is now in Auvrienne in his Royal Advisor’s chambers.
+Drossane accommodation: Historical lodging during days 85–90, now vacated and fully included in settled expedition costs: stone guesthouse, shared upper corridor and sitting room, high-beamed corner room with reinforced bed, worktable, coal hearth, electric lamps and corridor hot-water bathing. Galahad is currently supervising the VAA construction site; his Royal Advisor’s chambers remain available.
 
 Royal Advisor’s chambers: Prepared in the residence’s administrative wing on 12/11. Sitting room with desk, tall windows and tiled stove; adjoining workroom with cleared shelves; bedchamber with the delivered appropriately sized bed. Keys issued. These are official accommodation, not privately owned property or the Agency headquarters.
+
+Study and clothing: The retained bone sword was mounted horizontally on the study wall on 19/01; no sale or replacement weapon. Several dozen new ciphered psychic-research pages were filed on 20/01. During the visit ending 24/01, Galahad contributed a further 500 to the household and paid 24 personally for replacement clothing in the same style. Old clothes were cleaned and stored. Latest cash 1,678 after the subsequent 50 receipts and 66 expenses. The delegated investment review remains unresolved; no purchase or automatic profit is recorded.

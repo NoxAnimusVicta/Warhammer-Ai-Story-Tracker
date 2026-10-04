@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "revision": 78,
-  "as_of": "19/01/0069 AC43",
+  "revision": 79,
+  "as_of": "25/02/0069 AC43",
   "source_exchanges": [
     544,
     599
@@ -69,9 +69,24 @@
         "date": "19/01/0069 AC43",
         "description": "Period total: personal papers, calls and incidental expenses since 12/11/0068",
         "amount": -36
+      },
+      {
+        "date": "24/01/0069 AC43",
+        "description": "Household contribution during 20-24/01 visit",
+        "amount": -500
+      },
+      {
+        "date": "24/01/0069 AC43",
+        "description": "Bespoke replacement coat, shirt and trousers; boots retained",
+        "amount": -24
+      },
+      {
+        "date": "01/02/0069 AC43",
+        "description": "Full Month 01 commission pay",
+        "amount": 150
       }
     ],
-    "closing": 923
+    "closing": 549
   },
   "household": {
     "opening_date": "11/10/0068 AC43",
@@ -156,13 +171,58 @@
         "date": "19/01/0069 AC43",
         "description": "Period expense: maintenance",
         "amount": -18
+      },
+      {
+        "date": "24/01/0069 AC43",
+        "description": "Transfer from Galahad during 20-24/01 visit",
+        "amount": 500
+      },
+      {
+        "date": "25/02/0069 AC43",
+        "description": "Period reconciliation since 19/01: rents",
+        "amount": 20
+      },
+      {
+        "date": "25/02/0069 AC43",
+        "description": "Period reconciliation since 19/01: produce",
+        "amount": 30
+      },
+      {
+        "date": "25/02/0069 AC43",
+        "description": "Period reconciliation since 19/01: Lucette wages",
+        "amount": -14
+      },
+      {
+        "date": "25/02/0069 AC43",
+        "description": "Period reconciliation since 19/01: telephone",
+        "amount": -2
+      },
+      {
+        "date": "25/02/0069 AC43",
+        "description": "Period reconciliation since 19/01: domestic",
+        "amount": -22
+      },
+      {
+        "date": "25/02/0069 AC43",
+        "description": "Period reconciliation since 19/01: hounds",
+        "amount": -4
+      },
+      {
+        "date": "25/02/0069 AC43",
+        "description": "Period reconciliation since 19/01: maintenance",
+        "amount": -6
+      },
+      {
+        "date": "25/02/0069 AC43",
+        "description": "Period reconciliation since 19/01: produce handling",
+        "amount": -18
       }
     ],
-    "closing": 1194,
+    "closing": 1678,
     "reserved": 148,
     "operating_reserve": 136,
     "hound_upkeep_reserve": 12,
-    "uncommitted": 1046
+    "uncommitted": 1530
   },
   "programme": {
     "ceiling": 18000,
@@ -183,7 +243,7 @@
     "recognised_total": 16877,
     "outstanding_commitments": 0,
     "uncommitted": 1123,
-    "cash_vs_accrual": "Recognised costs include payroll accruals and stock valuations, not just cash. Old commitments of 180 are settled and recognised once. Crown/military administration handles future funding. Agency construction money and personal cash are separate.",
+    "cash_vs_accrual": "Recognised costs include payroll accruals and stock valuations, not just cash. Old commitments of 180 are settled and recognised once. Crown/military administration handles future funding. Agency construction money and personal cash are separate. The pilot return remains dated 19/01. Continuing staff and remuneration after that date are separately estimated under ordinary Crown administration, not silently frozen or charged beyond this ceiling.",
     "reconciliation": [
       {
         "date": "02/11/0068 AC43",
@@ -271,7 +331,8 @@
         "amount": 24,
         "resolved_date": "19/01/0069 AC43"
       }
-    ]
+    ],
+    "last_cost_return": "19/01/0069 AC43"
   },
   "inventory": {
     "original_requirement": 120,
@@ -293,11 +354,11 @@
     "commission_monthly": 150,
     "commission_start": "17/10/0068 AC43",
     "collegium_ended": "20/10/0068 AC43",
-    "last_paid": "01/01/0069 AC43",
+    "last_paid": "01/02/0069 AC43",
     "last_commission_payment": 150,
     "final_collegium_payment": 40,
-    "commission_accrued_unpaid": 95,
-    "next_due": "01/02/0069 AC43",
+    "commission_accrued_unpaid": 125,
+    "next_due": "01/03/0069 AC43",
     "next_full_month_if_service_continues": 150,
     "advisor_remuneration": "No new rate or additional salary settled; existing 150/month commission continues.",
     "accrual_basis": "150 per completed local pay month; partial-month accounting uses 30 remuneration units at 5 each, capped at 150 for a complete month. The 31st civil day does not add a 31st pay unit."
@@ -346,7 +407,7 @@
     "valuation": "620 lorrats already recognised on issue; stock consumption is not a second financial charge.",
     "pending_replenishment": "Earlier request unused: no additional issue, quantity, valuation, payment or commitment. Subsequent resupply remains ordinary unit responsibility.",
     "last_verified_date": "12/11/0068 AC43",
-    "current_count_status": "6,758 is the last verified Cressault return, not a fresh stock count for 19/01/0069. Subsequent unit consumption awaits a return.",
+    "current_count_status": "6,758 is the last verified Cressault return on 12/11/0068, not a fresh stock count for 25/02/0069 AC43. Subsequent unit consumption awaits a return.",
     "house_delivery": {
       "ordinary": 100,
       "source": "Separate new depot issue; not subtracted from Cressault",
@@ -379,5 +440,15 @@
     "mandate": "He may initiate inspections and investigations, convene responsible officials, require relevant returns and develop programmes without a separate commission. Directions in the Crown\u2019s name bind personnel and facilities assigned to the mandate; work may commence with authorised resources. Urgent findings receive immediate direct access to the Margrave; refusals require stated reasons and may be escalated to her. He may advise on any matter affecting the March. Field-army command, new taxes and binding foreign commitments require separate authorisation. Additional resources and powers must be provided; this is neither unlimited appropriation nor authority to seize every private asset. Existing manufacturing licence and intellectual-property rights remain unchanged.",
     "resources": "Residence chambers and six administrative-cover rooms provided; VAA opening and capital accounts are separate in vaa-accounts.json.",
     "notices": "Relevant departments have received the notices."
+  },
+  "continuing_crown_operations": {
+    "as_of": "25/02/0069 AC43",
+    "period_start": "20/01/0069 AC43",
+    "basis": "Maintenance estimate, not a new production order or player payment. Existing salaried appointments continue under Crown/military administration. Apply the established 30-pay-unit month consistently: 11 remaining Month 01 units plus 25 Month 02 units. The 31st civil day is not another pay unit. Ordinary defence envelope already includes these costs.",
+    "pay_units": 36,
+    "staff_payroll": 1080,
+    "commission_remuneration": 180,
+    "recognised_estimate": 1260,
+    "funding": "Ordinary Crown/military operating provision; separate from the dated pilot return and Agency capital. No new rifle output or licence rights inferred."
   }
 }

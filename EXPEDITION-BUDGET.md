@@ -78,4 +78,4 @@ Operations plus completion awards cost **13,000**. Separate ordinary payroll of 
 
 The completed expedition totals above remain unchanged. Galahad resigned salaried Collegium employment on 20/10 and received 40 final wages on 01/11; commission pay now follows its separate 150/month agreement. The later 500 patronage donation is personal, not a reopened expedition cost. Use ESTATE-ACCOUNTS.md and ROYAL-COMMISSION.md for current balances.
 
-Current account cross-check: **19/01/0069 AC43**. The expedition remains closed at the totals above. Subsequent Agency, household and rifle transactions do not reopen or duplicate its receipts, payroll or refunds.
+Current account cross-check: **25/02/0069 AC43**. The expedition remains closed at the totals above. Subsequent Agency, household and rifle transactions do not reopen or duplicate its receipts, payroll or refunds.

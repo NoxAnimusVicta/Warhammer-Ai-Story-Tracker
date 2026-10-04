@@ -21,12 +21,12 @@
   "days_per_year": 365,
   "local_hours_per_day": 24,
   "solar_day_terran_seconds": 86880,
-  "current_date": "19/01/0069 AC43",
+  "current_date": "25/02/0069 AC43",
   "census_date": "27/08/0067 AC43",
   "approval_date": "01/10/0067 AC43",
-  "last_salary_date": "01/01/0069 AC43",
+  "last_salary_date": "01/02/0069 AC43",
   "departure_date": "22/10/0067 AC43",
-  "next_salary_date": "01/02/0069 AC43",
+  "next_salary_date": "01/03/0069 AC43",
   "target_return_date": "11/10/0068 AC43",
   "deadline_date": "21/10/0068 AC43",
   "maintenance": "Advance only with story time. A new major culling resets the year count after its end; changing era must be explicit, with an old-to-new date bridge. Keep occurrence and report dates separate and preserve historic era labels.",
@@ -51,8 +51,8 @@
     "rule": "Approximately one local month plus elapsed local story time since planetfall; apparent age and bodily maturity are separate.",
     "birth_date": null,
     "planetfall_calendar_date": null,
-    "review_date": "19/01/0069 AC43",
-    "current_estimate": "Approximately three local years and five months, plus roughly three weeks; exact birthday unknown.",
+    "review_date": "25/02/0069 AC43",
+    "current_estimate": "Approximately three local years and seven months; exact birthday unknown.",
     "precision": "Approximate; no exact birthday or fully dated planetfall anchor established.",
     "predeparture_estimate": {
       "date": "21/10/0067 AC43",
@@ -61,6 +61,6 @@
       "approximate": true
     }
   },
-  "current_engagement": "19/01/0069 AC43 \u2014 Auvrienne; six trained Agency members departing for their home societies",
+  "current_engagement": "25/02/0069 AC43 \u2014 VAA construction site, month of supervision complete",
   "next_scheduled_duty": "Continue Agency construction oversight and research. Workshop production instructions and funding are Crown/military business, not a new task for Galahad."
 }

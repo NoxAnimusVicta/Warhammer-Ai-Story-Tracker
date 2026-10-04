@@ -1,6 +1,6 @@
 # Royal technical commission — House Orsival
 
-**Current return: 19/01/0069 AC43.** The technical commission was authorised 11/10 and executed 17/10/0068. Training finished 11/11; Galahad and Serault returned 12/11 and the Marshal accepted the report. Royal Advisor has been effective since 12/11/0068. The amended instrument is now signed and delivered, and departmental notices have been issued.
+**Current return: 25/02/0069 AC43.** The technical commission was authorised 11/10 and executed 17/10/0068. Training finished 11/11; Galahad and Serault returned 12/11 and the Marshal accepted the report. Royal Advisor has been effective since 12/11/0068. The amended instrument is now signed and delivered, and departmental notices have been issued.
 
 ## Standing delegated Crown mandate
 
@@ -59,9 +59,9 @@ The **18,000-lorrat state-administered ceiling** is separate from personal, hous
 | Programme headroom | 1,123 |
 | **Ceiling reconciled** | **18,000** |
 
-Historical cumulative returns remain in commission-accounts.json: 13,220 on 02/11, 14,024 on 04/11, 14,059 on 05/11, 14,094 on 06/11, 14,269 on 11/11 and 14,304 on 12/11/0068. The 67-day bridge to this return adds 2,010 staff payroll, 335 commission remuneration, 180 previously outstanding commitments now settled, 24 return transport, 18 House delivery and six for the separate household ammunition issue. Total increment 2,573; no previous cost is charged twice. Recognised costs include accruals and stock values, not just cash payments.
+Historical cumulative returns remain in commission-accounts.json: 13,220 on 02/11, 14,024 on 04/11, 14,059 on 05/11, 14,094 on 06/11, 14,269 on 11/11 and 14,304 on 12/11/0068. The historical 67-day bridge to the 19/01 return adds 2,010 staff payroll, 335 commission remuneration, 180 previously outstanding commitments now settled, 24 return transport, 18 House delivery and six for the separate household ammunition issue. Total increment 2,573; no previous cost is charged twice. Recognised costs include accruals and stock values, not just cash payments.
 
-Galahad receives **150 per local pay month**, on the first for the preceding month. Full 150 payments were received 01/12/0068 and 01/01/0069. Month 01 has 95 accrued but unpaid; next payday 01/02/0069. Partial-month accounting uses thirty remuneration units at five each, capped at 150; a 31st civil day does not add an extra unit. Collegium employment ended 20/10; the final 40 was paid 01/11 with the earlier 70 commission payment. No additional Advisor salary is settled.
+Galahad receives **150 per local pay month**, on the first for the preceding month. Full 150 payments were received 01/12/0068, 01/01/0069 and 01/02/0069. Month 02 has 125 accrued but unpaid; next payday 01/03/0069. Partial-month accounting uses thirty remuneration units at five each, capped at 150; a 31st civil day does not add an extra unit. Collegium employment ended 20/10; the final 40 was paid 01/11 with the earlier 70 commission payment. No additional Advisor salary is settled.
 
 The return train cost is now valued at 24 within the programme, not a personal fare. Ordel manages the autonomous workshop. It awaits the Margrave and Marshal’s report and military production instructions, then responds to military needs and requests. Crown/military administration handles forward authorisation and funding; Galahad owes it no new task or personal payroll support. No additional rifle batch has been enacted.
 
@@ -82,7 +82,7 @@ The company comprises **160 officers and men**, including NCOs. It has served in
 | Further training 07–11/11 | -1,200 | -1,600 | -2,800 |
 | **Remaining 12/11** | **358** | **6,400** | **6,758** |
 
-The issue was valued once at 620 lorrats. Total expenditure of 5,242 rounds reduces stock, without charging the ammunition again. The household subsequently received 100 ordinary rounds from a separate depot issue, valued at six; these are not taken from Cressault. The 6,758 Cressault balance is last verified on 12/11/0068, not a fresh 19/01/0069 stock count. Later consumption and resupply await a unit return. All 187 military rifles remain accounted for.
+The issue was valued once at 620 lorrats. Total expenditure of 5,242 rounds reduces stock, without charging the ammunition again. The household subsequently received 100 ordinary rounds from a separate depot issue, valued at six; these are not taken from Cressault. The 6,758 Cressault balance is last verified on 12/11/0068, not a fresh 25/02/0069 stock count. Later consumption and resupply await a unit return. All 187 military rifles remain accounted for.
 
 Desmaret's private twelve-round trial functioned without a stoppage. Galahad then demonstrated ten rapid shots through one entry point with almost no visible recoil. The first company day covered firing, supervised maintenance, weather effects and handling. All **seven full training days finished on 11/11**, with strong performance and NCOs able to maintain practice under Desmaret. No hostile operational demonstration occurred.
 
@@ -138,3 +138,8 @@ The Margrave, Marshal and Lieutenant-General heard Galahad’s account of the Dr
 ## Later restricted disclosure — 12/11 late evening
 
 The Margrave and Marshal subsequently authorised the VAA and witnessed further psychic demonstrations. They know Galahad has existing overseas people but have not received identities, the Order roster or exact operational particulars. Darscelet was absent and has not received this later disclosure. The six Caldrienne operatives remain a separate cell. Agency authority, its 6,000-lorrat opening allocation (1,460 spent, 4,540 undrawn), separate headquarters capital and the residence chambers are recorded in VAA-REFERENCE.md; none alters this rifle programme’s inventory, licence or expenditure.
+
+
+## Continuing Crown administration — 25/02/0069
+
+The 16,877 pilot cost and 1,123 headroom above are the last reconciled **19/01** trial-programme return, not a fresh claim that continuing wages cost nothing. Existing salaried staff remain Crown responsibilities. For 20/01–25/02, 36 remuneration units at the established rates give **1,080 staff payroll + 180 Galahad remuneration = 1,260** under ordinary Crown administration, separately estimated in commission-accounts.json. This is an accounting allocation within the existing defence envelope, not a new production order, appropriation, licence extension or personal expense. The 150 payment on 01/02 settles previously accrued salary and must not be added again as a second expense. No additional rifle batch is recorded.

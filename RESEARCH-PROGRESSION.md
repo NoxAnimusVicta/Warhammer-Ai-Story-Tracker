@@ -1,6 +1,6 @@
 # Research progression — narrator reference
 
-Accepted campaign framework from exchanges 600–604. Consult before resolving research, reverse engineering, invention or a research time skip. This is narrator guidance, not an in-world document or a new capability acquired by Galahad. Current enacted status is maintained in CURRENT-CONTINUITY.md; the latest scene is the 19/01/0069 AC43 departure of the six trained Agency members from Auvrienne.
+Accepted campaign framework from exchanges 600–604. Consult before resolving research, reverse engineering, invention or a research time skip. This is narrator guidance, not an in-world document or a new capability acquired by Galahad. Current enacted status is maintained in CURRENT-CONTINUITY.md; the latest scene is 25/02/0069 AC43 at the headquarters construction site.
 
 ## Deferred aviation city and carrier
 
@@ -86,7 +86,7 @@ For each actual project keep its status, intended result, established findings, 
 
 The dedicated **Research** tab contains the existing research record and concise, collapsible guidance on progression and shared Hunter technology, as requested in exchange 606. This supersedes the earlier documentation-only presentation preference. Project entries remain **active, completed or future projects**: future means an actual recorded intention or design, not every hypothetical discussed out of character. Conditional research examples remain clearly labelled as guidance, not project accomplishments. Detailed canon comparisons and narrator instructions remain in this reference.
 
-At the current 19/01/0069 checkpoint, the rifle pilot batch and all seven company training days are completed. The carrier remains a preliminary future concept, not an operating vessel. Hunter-tech investigation has a history; possession of an intact plasma weapon and independent plasma manufacture remain hypothetical. This framework creates no new funded project, purchase, item, skill or scene advancement. Later enacted records supersede this dated status paragraph.
+At the historical 19/01/0069 checkpoint, the rifle pilot batch and all seven company training days are completed. The carrier remains a preliminary future concept, not an operating vessel. Hunter-tech investigation has a history; possession of an intact plasma weapon and independent plasma manufacture remain hypothetical. This framework creates no new funded project, purchase, item, skill or scene advancement. Later enacted records supersede this dated status paragraph.
 
 ## Lore distinctions informing the framework
 
@@ -106,3 +106,14 @@ Production time is determined by available facilities, tooling, trained labour, 
 ## Agency research return — 19/01/0069 AC43
 
 Individual practice and a common syllabus now record emotional influence, limited mnemonic exercises and mental shielding. Strength, control, reach, endurance and affinity are assessed separately in VAA-REFERENCE.md. These are actual research and teaching advances, not automatic new industrial technology. The headquarters is under construction; the aviation city remains deferred. Ordel manages the autonomous workshop. It awaits the Margrave and Marshal’s report and military production instructions, then responds to military needs and requests. Crown/military administration handles forward authorisation and funding; Galahad owes it no new task or personal payroll support. No additional rifle batch has been enacted.
+
+
+## Current research return — 25/02/0069
+
+Broad mind sensing: On 19/01 Galahad differentiated human and animal surface signatures across the estate and tracked them through darkness and walls. In the countryside he recognised Varrenne wolves from his existing natural-history knowledge and tracked five attacking animals with his eyes closed, avoiding every attack through psychic position and intent combined with his physical reactions. No measured maximum range or target count was established. This bypasses ordinary visual camouflage; it does not disable a cloak or supply a confirmed Hunter mental template. No Hunter was found.
+
+Destructive release and living repair: Overnight 19-20/01, a deliberately strenuous radial shockwave killed all five wolves and devastated substantial woodland without injuring or incapacitating Galahad. He then simultaneously manipulated trees, debris and fine particles. Initial precision difficulties gave way to stable living-wood and root unions, with new supporting growth, by dawn. Most conspicuous damage was repaired; scars, disturbed ground and dead animals remained. No measured yield, resurrection, time reversal or perfect particle reset. Work ended at dawn rather than exhaustion. Several dozen ciphered pages were filed at the estate on 20/01; no private manuscript was handed to the Crown.
+
+Construction optimisation: The 24-25/01 review and following month improved staging, inspection, handovers, service coordination and maintenance access. Training plans now distinguish ordinary instruction from isolated destructive exercises, with precision tracking and living-repair observation provisions. Forecast avoided future cost 180,000; 120,000 reassigned within the ceiling and 60,000 additional forecast headroom. Approximately two weeks of working float; deadline remains 19/11/0069. No maximum-output containment certification. External and internal office telephones operate from 04/02; underground supply lines and the airstrip remain unfinished.
+
+These findings transfer to relevant later work; they do not automatically complete Hunter weapons, a replacement sword, the carrier or maximum-output containment.

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 78,
+  "revision": 79,
   "baseline": {
     "label": "Year 67 AC43 \u2014 21/10/0067 AC43",
     "scene": "Auvrienne Collegium, evening before departure",
@@ -39,7 +39,7 @@
     "replaces_temporary_modifier",
     "source"
   ],
-  "last_review_date": "19/01/0069 AC43",
+  "last_review_date": "25/02/0069 AC43",
   "reviews": [
     {
       "dates": [
@@ -95,6 +95,12 @@
         "19/01/0069 AC43"
       ],
       "finding": "Year rollover and current review retain baseline regional/category price bands. No blanket inflation. Actual construction, Agency and household transactions recorded separately; capital project is not a general price multiplier."
+    },
+    {
+      "dates": [
+        "25/02/0069 AC43"
+      ],
+      "finding": "Regional/category bands retained; no broad price shock enacted. Bespoke clothing 24 and all construction/household movements recorded in actual ledgers. Forecast avoided construction costs are not a negative price index or cash refund."
     }
   ]
 }

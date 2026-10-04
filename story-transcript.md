@@ -15270,3 +15270,633 @@ You’re right. “It remembers the same about you” doesn’t make sense—the
 ### Player
 
 Yeah exactly, that is what I am going for. Wanna make something or update something in the github documentation to ensure this becomes consistent for the rest of the story?
+
+### Assistant — documentation completion
+
+Published an [NPC dialogue guide](https://github.com/NoxAnimusVicta/Warhammer-Ai-Story-Tracker/blob/main/DIALOGUE-GUIDE.md) and made it required reading in the narrator instructions.
+
+It establishes distinct recurring voices, natural conversational phrasing, and checks against forced metaphors or nonsensical quips—including Veskan’s example. Your feedback is also preserved in the transcript.
+
+The descriptive narration stays as it is.
+
+## Estate psychic detection practice — 19/01/0069 AC43
+
+### Player
+
+I spend some time in my study learning and documenting how to spread my psychic field wide like a cloak, touching the surface thoughts of every living entity I can. I already do this with my emotional pressure, I am simply changing the effect and widening the scale. Enough that I can discern baselines between various animals and humans. Ultimately this should leave me with one Outlier if any are in range. A Hunter, surface thoughts I would not fully be able to reference or place based on the collective surface memories gleaned from other sources. If I can become adept with this ability I can track them and more importantly I can nullify their cloaking technology (This is predominately how they hunt, they really only go overt and without cloaks when conducting cullings).
+
+### Assistant — progress note
+
+I’ll check the current scene and psychic notes, then continue with Galahad developing the technique in his study.
+
+### Assistant
+
+The study grows quiet around you. Lamplight catches the pale edge of the sword above your desk; beyond the window, the orchard is dark. You set out fresh paper and allow your awareness to spread through the house.
+
+The first contacts are familiar enough to distinguish immediately. Corva’s attention moves between a household concern and the reassuring knowledge that you are home. Veskan is listening to something in another room, his thoughts briefly following the sound. Lucette carries an unfinished task in mind as she crosses the passage.
+
+You need not force your way into any of them. Their passing thoughts are already there to be touched. Instead of following one inward, you hold the contact lightly and reach farther.
+
+The hounds are different.
+
+One turns towards the house, recognising something familiar without hearing a footstep. Its awareness comes to you in scent associations, expectation and the remembered pleasure of your attention. Another is occupied by movement near the service yard. There is no human sentence behind that interest, but its direction is unmistakable.
+
+Your pen begins to move.
+
+As the field extends through the gardens and across the adjoining ground, further impressions separate themselves: birds settled among branches, small animals moving beneath cover, grazing animals with their attention divided between feeding and nearby movement. Some contacts are distinct; others offer only faint, simple responses. You record the difference rather than forcing everything alive into the pattern of a human mind.
+
+Within the first stretch of practice, you can hold the household and grounds together in your awareness while continuing to write.
+
+The useful distinction emerges through comparison. A frightened animal can be more immediately intense than a relaxed human. A sleeping person can be quieter than a watchful hound. Strength of impression alone will not identify what you are looking for. The organisation beneath it matters: how sensation connects to expectation, how memory enters the present, how attention moves between surroundings and intention.
+
+You begin grouping those recurring qualities. Individual minds remain recognisable within the groups. Your parents do not become interchangeable merely because both are human; nor do the hounds feel identical because they share much of the same sensory world.
+
+Outside, one of the dogs follows something along the courtyard wall. You track its changing attention through the stone before its claws become audible beneath your window. When you look up, it appears exactly where you expected.
+
+You repeat the exercise with movement elsewhere around the house, comparing what you sense with what you can subsequently hear or see. Direction becomes dependable first. Your estimates of position sharpen as you learn to distinguish a mind moving through space from a stationary mind turning its attention elsewhere.
+
+The implications for a cloaked Hunter are substantial. A device that conceals its body would still leave this other means of locating it. You would not need to decipher every alien thought to follow the consciousness producing them. Once acquired, that contact could give you a position even while your eyes found nothing there.
+
+For now, your notes distinguish **an unfamiliar mind** from **a confirmed Hunter**. You have built the beginnings of a local comparison, but you have not yet examined a living Hunter’s mental signature. The first verified encounter will give you something far more useful than speculation: a reference you can recognise again.
+
+Over the next few hours, the pages accumulate in your private cipher. You refine a broad, shallow survey, then practise selecting individual contacts without losing awareness of the rest. The work demands attention, but your hand remains steady and there is no meaningful drain on your reserves.
+
+No contact you examine tonight gives you grounds to identify a Hunter. What you do establish is a working means of sensing and following minds through walls and darkness, with human and several animal baselines already recorded. Its maximum reach remains unmeasured; the estate is your practice ground, not a discovered limit.
+
+By the time you set down the pen, you can keep that awareness spread across the household and grounds while looking around the study. Behind the ordinary quiet of home, you can still follow the separate lives moving through it.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years, 5 months and 3 weeks  
+**Date:** 19/01/0069 AC43 — late evening, Orsival estate near Serravonne  
+**Reputation:** Royal Advisor; successful technical commissioner; privately, founding Director of the VAA  
+**Weapons (Equipped):** None. Vouressan-bone sword mounted in the study; five House rifles stored at the estate  
+**Armor/Clothing (Equipped):** Pale shirt, dark trousers and leather boots; charcoal coat removed indoors  
+**Gear/Inventory:** Personal effects; private research papers, now including psychic detection notes; collections and former Collegium belongings at the estate; 100 household rifle rounds  
+**Currency:** 923 personal lorrats; household funds 1,194, including 148 reserved. No expenditure.
+
+## Countryside predator search — 19/01/0069 AC43
+
+### Player
+
+I head out into the nearby country side and spread myself wide to find the thoughts of the most dangerous predator I can find and make my way to it
+
+### Assistant — progress note
+
+I’ll check the local wildlife record and resolve what Galahad finds beyond the estate.
+
+### Assistant
+
+You leave the lamplit windows behind and cross the fields towards the wooded slopes. The ground is soft beneath the grass, holding the day’s moisture. Farther uphill, cultivated ground gives way to rough pasture, tangled hedges and trees.
+
+Your awareness spreads ahead of you.
+
+The estate’s familiar minds recede among a growing scatter of impressions. Small creatures shelter underground. Something browses at the edge of a clearing, repeatedly lifting its attention from food to the surrounding darkness. You pass over it and continue searching.
+
+Then you encounter a different pattern: hunger held in check by concentration, attention moving between a scent trail and other minds nearby.
+
+A pack.
+
+You distinguish five animals, travelling loosely together through the woodland. Their awareness overlaps around the same pursuit. One follows the scent closely; two range to either side. Another hangs farther back. The largest impression belongs to an animal whose attention repeatedly shifts between the trail and the positions of its companions.
+
+There are flashes of remembered pursuit beneath its immediate awareness—weight striking yielding flesh, the grip of jaws, another animal struggling underneath it. Those impressions, and the coordination around it, make this group the most dangerous prospect you have found during the search.
+
+You turn uphill towards them.
+
+Keeping the contact as you move proves straightforward. Trees conceal the animals from your eyes, but their minds remain distinct. When the pack changes direction, you adjust your course before any sound reaches you. The distance closes until you can hear leaves disturbed beneath heavy feet.
+
+Through a break in the undergrowth, you finally see them.
+
+They are roughly canine, but heavily built through the shoulders, with deep chests and broad heads carried low. Dark, coarse hair forms a ridge along their backs. The largest stands nearly as high at the shoulder as a substantial farm pony; old scars interrupt the fur around its muzzle, and one ear has healed into a ragged stump. Its jaws would close around an ordinary man’s thigh with room to spare.
+
+The others move between the trunks behind it. One pauses to nose the ground, then lifts its head.
+
+You feel the moment it catches your scent.
+
+Its attention snaps towards you. The change passes through the pack in a succession of lifted heads and arrested movements. Their pursuit falters. The scarred animal turns, nostrils working, and looks towards the gap where you stand.
+
+You remain aware of all five, including the one concealed behind a dense stand of brush to your left. Seeing the animals confirms the positions you had already sensed.
+
+The largest takes two deliberate steps forward and stops about twenty metres away. Its lips draw back slightly. A low growl carries through the trees, answered by a quieter sound from behind it.
+
+Through the contact, you feel hunger and territorial aggression complicated by uncertainty. Your size is wrong for familiar prey. The animal is assessing you, testing what your stillness means.
+
+It has not charged. The pack waits among the trees, every mind now fixed upon you.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years, 5 months and 3 weeks  
+**Date:** 19/01/0069 AC43 — night, wooded countryside near the Orsival estate  
+**Reputation:** Royal Advisor; successful technical commissioner; privately, founding Director of the VAA  
+**Weapons (Equipped):** None. Vouressan-bone sword remains mounted in the estate study  
+**Armor/Clothing (Equipped):** Pale shirt, dark trousers and leather boots  
+**Gear/Inventory:** Personal effects; research papers and collections remain at the estate, alongside five House rifles and 100 rounds  
+**Currency:** 923 personal lorrats; household funds 1,194, including 148 reserved. No expenditure.
+
+### Player — out-of-character clarification
+
+I should know what these are
+
+### Assistant — progress note
+
+I’ll check the wildlife records and your earlier encounters to identify them properly.
+
+### Assistant
+
+Yes. Given your local upbringing, extensive studies and expedition, Galahad should recognise a regional predator like this. I described it as unfamiliar because I had just introduced it, confusing what was new to the reader with what was new to him.
+
+These are **large local wolves**, familiar to Galahad from natural-history accounts: woodland pack hunters dangerous to livestock and ordinary travellers. The five before you are cooperating on a hunt. Their size and jaws make them formidable animals, but they are nowhere near your physical equal.
+
+I checked the record: I had not established a species name for them previously, so I won’t pretend there was one. The scene should convey immediate recognition of the animal; what you are learning tonight is how its **mind** feels through your new technique.
+
+### Player
+
+ok.... so what is it?
+
+### Assistant
+
+They are **Varrenne wolves**—large pack predators native to the wooded hills and upland valleys of this region.
+
+Galahad recognises their broad skulls, heavy forequarters and coarse ridge of dark fur immediately. They hunt by following scent, spreading through cover and driving prey towards other pack members. Their powerful jaws allow them to bring down large grazing animals; they also prey on livestock and can kill an isolated human with ease.
+
+The scarred animal before you is an unusually large adult. Its missing ear and muzzle scars suggest previous fights, but do not establish its place in the pack. **Dangerous to ordinary people; physically far beneath you.**
+
+You already know the species from your studies. Tonight gives you your first direct comparison between that knowledge and their living mental signatures.
+
+### Player
+
+I walk towards them and as they attack I close my eyes and try to track their movements to dodge and avoid the attacks by relying only on my psychic abilities
+
+### Assistant — progress note
+
+I’ll resolve this as a test of psychic tracking in motion, using Galahad’s established speed and reactions.
+
+### Assistant
+
+The scarred wolf’s growl deepens as you approach. Behind it, the others spread between the trees. You feel their attention dividing across your flanks, each animal responding to the movements of its companions.
+
+Then the nearest one springs.
+
+You close your eyes.
+
+Its presence rushes towards you, carrying a sharp concentration of intent: your leg, the bite, the expectation of resistance beneath its jaws. You step aside. Teeth snap through the space beside your thigh, and the animal lands beyond you in a scrape of disturbed leaves.
+
+A second is already coming from your left.
+
+You turn out of its path before it reaches you. Its mind remains distinct throughout the leap, moving past your body and down towards the ground. You follow the contact as it lands and wheels around.
+
+Darkness has taken away the visible forest. The five minds remain.
+
+The scarred animal comes straight at you while another circles behind. You let the larger wolf commit, then pivot and withdraw your leg. Its shoulder passes close enough to stir your trouser fabric. Before it has recovered, you are moving away from the jaws closing behind your knee.
+
+Neither touches you.
+
+At first your evasions are generous, giving every attack more room than it needs. Within several exchanges, they become smaller. You begin separating the animal’s anticipation from its actual movement: a sudden urge to bite is not yet a lunge, and a committed leap carries the mind forward even when surprise interrupts its intention.
+
+Your awareness follows both. The thought gives you warning; the moving contact tells you where the attacker actually goes.
+
+One wolf checks its approach instead of jumping. You feel the hesitation and remain still. Another darts in while its attention is fixed on the space beneath your lowered hand. You draw your arm back and shift your weight, allowing it to pass without finding anything to seize.
+
+Your eyes stay closed.
+
+Their breathing and footfalls reach you, but the psychic contact is already there before those sounds can explain the movement. You keep track of the animal behind you as readily as the one in front. When two cross close together, their familiar individual signatures remain separate.
+
+The pack’s confidence begins to change. Hunger and aggression are still present, but repeated misses bring frustration and uncertainty. The scarred wolf lands from another failed rush, turns, and waits rather than immediately attacking again.
+
+The others slow with it. One retreats several paces, watching you. Another continues to circle but no longer closes the distance.
+
+You stand among them with your eyes shut, unmarked and breathing easily. Each remains clear in your awareness. The exercise has carried your new technique beyond following movement through the countryside: you have now used it to avoid converging attacks without sight, adjusting your body to positions and intentions sensed directly through their minds.
+
+Around you, the wolves hesitate. You feel the next impulse to advance forming—and the uncertainty that keeps it from becoming a step.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years, 5 months and 3 weeks  
+**Date:** 19/01/0069 AC43 — night, wooded countryside near the Orsival estate  
+**Reputation:** Royal Advisor; successful technical commissioner; privately, founding Director of the VAA  
+**Weapons (Equipped):** None. Vouressan-bone sword remains mounted in the estate study  
+**Armor/Clothing (Equipped):** Pale shirt, dark trousers and leather boots; undamaged  
+**Gear/Inventory:** Personal effects; research papers and collections remain at the estate, alongside five House rifles and 100 rounds  
+**Currency:** 923 personal lorrats; household funds 1,194, including 148 reserved. No expenditure.
+
+### Player
+
+I release a decent chunk of energy as quickly as I can, enough that the amount of energy used is strenuous for me, in a shockwave around me as a test of destructive force
+
+### Assistant — progress note
+
+I’ll resolve the blast and its surroundings, treating this as a strenuous release of Galahad’s power rather than a routine push.
+
+### Assistant
+
+You gather the power inward for a moment, compressing what had been spread lightly through the surrounding minds. Then you release it all at once.
+
+The wolves have no time to react.
+
+The shockwave strikes them before the sound reaches its full violence. Bodies are hurled away through the undergrowth; branches, soil and loose stone erupt outward with them. The nearest trunks break across their grain. Farther out, trees bend beneath the advancing force until roots tear loose or wood gives way with cracks swallowed by the roar.
+
+Air slams through the forest. Leaves and splintered timber fill it so thickly that, when you open your eyes, the night beyond your immediate surroundings has disappeared.
+
+For an instant, the ground beneath your boots is the only still thing you can see.
+
+The expenditure catches you across the chest and behind the eyes—a deep, unmistakable effort. Your breath leaves you sharply. You remain standing, but there is nothing casual about the amount you have just forced through a single release. The broad psychic survey breaks apart as your attention follows the discharge.
+
+Then the pressure is gone. Broken timber continues falling.
+
+You draw another breath as dirt and shredded foliage rain onto your shoulders. Somewhere beyond the dust, an uprooted tree settles with a heavy crash. A second follows it. The echoes travel across the surrounding slopes.
+
+When you spread your senses again, none of the five wolves answers. They died in the blast. Other nearby animal contacts have vanished too; farther away, surviving minds scatter in panic.
+
+The clearing has become a ragged opening in the woodland. Close to you, the ground is scoured and torn. Beyond it lies a belt of shattered trunks and fallen trees, their crowns driven away from the point where you stand. The damage continues into the darkness, becoming less complete with distance. This was enough force to wreck a substantial stretch of woodland, not merely clear the animals from around you.
+
+Your pulse is elevated. There is a lingering pressure behind your brow, but your balance is sound and your breathing begins to settle. You have spent enough to feel it against your own immense reserves without emptying them.
+
+The result also makes the character of the release apparent. It spread broadly through bodies, timber, earth and air; nothing directed it towards a particular target or spared the surrounding ground. The wolves were overwhelmed outright. They provide no useful measure of its upper destructive capacity.
+
+As the dust thins, the open sky becomes visible through what had been interlocking branches. The blast’s report has carried well beyond the woods. Whatever the distance to the nearest listener, this was no quiet experiment.
+
+You stand at its centre, uninjured, with dirt settling over your clothes and the last broken branches dropping around you.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years, 5 months and 3 weeks  
+**Date:** 19/01/0069 AC43 — night, wooded countryside near the Orsival estate  
+**Reputation:** Royal Advisor; successful technical commissioner; privately, founding Director of the VAA  
+**Weapons (Equipped):** None. Vouressan-bone sword remains mounted in the estate study  
+**Armor/Clothing (Equipped):** Pale shirt, dark trousers and leather boots; dirt-covered  
+**Gear/Inventory:** Personal effects; research papers and collections remain at the estate, alongside five House rifles and 100 rounds  
+**Currency:** 923 personal lorrats; household funds 1,194, including 148 reserved. No expenditure.
+
+### Player
+
+I look around at the destruction. I impress even myself. But this shall not do, this will attract attention. But it does provide me with another task I can use to challenge myself. I reach out to all the debris with Telekinesis. I try to handle as much as I can at once and reverse the trajectory and force things back into their original positions. Every shard, spec and piece of dust up to entire trees. I test to see how much I can manipulate at once and try to push myself further. With the pieces of wood and flora specifically I mix in some of the insights I have discovered from healing the human body to attempt to help life take root and form a greater whole once more.
+
+### Assistant — progress note
+
+I’ll resolve the mass telekinesis and healing together, distinguishing what Galahad can reposition from what he can restore to life.
+
+### Assistant
+
+The settling dust stops falling.
+
+It hangs around you in the lamplike pallor of the moon, then begins to draw inward. Leaves lift from the ground. Broken branches turn slowly in the air. Beyond them, whole trees rise from where the shockwave threw them, dragging curtains of loose earth from their exposed roots.
+
+You reach farther.
+
+Across the damaged woodland, timber shifts and rises. Trunks swing upright. Stones lift from gouges in the earth and drift back towards the places from which they were torn. For a few extraordinary moments, the ruin seems to be moving backwards.
+
+Holding the weight is well within your strength. Making every fragment return correctly is a different sensation entirely.
+
+You remember the standing trees, the paths of the wolves, the shape of the ground around you. You did not see the original position of every buried root or grain of soil. As your attention divides between increasingly small fragments, some of the returning material begins to gather into the right general areas without finding its precise former place.
+
+A broken limb meets its trunk a little awry. You turn it, find the matching fracture and bring the surfaces together. Elsewhere, a cloud of splinters pauses while you resolve that alignment. You can keep the whole mass suspended, but the finest corrections still demand that you distinguish one piece from another.
+
+You begin working through connected structures: trunk, branches, exposed roots, surrounding earth. Each completed arrangement gives your attention room to reach into the next.
+
+The first tree stands again while you hold its broken sections together. Beneath the torn bark, living tissue remains. You turn the same faculty that closed wounds in Veskan towards those damaged layers.
+
+There is a response.
+
+Moisture beads along the fracture. The thin living tissue beneath the bark thickens at its edges, pale growth reaching across places you have brought into contact. Torn root tips stir through the loosened earth. You feel the difference between encouraging something still alive and merely pressing dead material into shape.
+
+A smaller branch joins cleanly enough to remain attached when you ease your hold. Leaves on it tremble, then settle.
+
+The main trunk is less cooperative. Its outer tissues begin to unite, but the deep split remains a structural weakness. When you cautiously reduce support, the crown leans and the fracture opens. You catch it before it falls, returning the load to your telekinetic grip.
+
+You have made living tissue bridge an injury. You have not yet made that first enormous wound sound throughout.
+
+Around you, the broad reconstruction nevertheless takes shape. Root masses descend into their torn sockets. Earth closes around them. Trees that were uprooted with comparatively little damage stand again; broken ones require more attention, their pieces held together while you explore how far the new growth will bind them.
+
+Dust and leaf litter settle over the scoured ground. The great open wound in the woodland becomes a stand of trees again, though scars, uneven branches and disturbed earth remain visible. Restoring its former appearance from a distance comes much faster than rebuilding every damaged structure.
+
+The wolves’ bodies offer no answering life to encourage. Moving their remains does not restore the minds you felt disappear.
+
+Your earlier exertion has not left you powerless. You are still holding a remarkable number of separate objects, from suspended grit to full-grown timber. The difficulty becomes clearest wherever you ask all of those objects to fit precisely while also directing living growth through the joins.
+
+By the end of this first sustained effort, several trees stand without your assistance. Others remain upright within your grasp. Along the nearest trunk, a fresh seam of pale tissue marks a real success—and beneath it, the still-open fracture gives you a specific problem to solve.
+
+The forest is no longer flattened around you. Neither is it yet whole. Your attention remains spread through it, feeling every supported weight and every place where the living wood has begun to mend.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years, 5 months and 3 weeks  
+**Date:** 19/01/0069 AC43 — night, wooded countryside near the Orsival estate  
+**Reputation:** Royal Advisor; successful technical commissioner; privately, founding Director of the VAA  
+**Weapons (Equipped):** None. Vouressan-bone sword remains mounted in the estate study  
+**Armor/Clothing (Equipped):** Pale shirt, dark trousers and leather boots; dirt-covered  
+**Gear/Inventory:** Personal effects; research papers and collections remain at the estate, alongside five House rifles and 100 rounds  
+**Currency:** 923 personal lorrats; household funds 1,194, including 148 reserved. No expenditure.
+
+### Player
+
+I continue working on righting the damage until either the sun begins to rise or I grow weary enough that I can no longer perform the task
+
+### Assistant — progress note
+
+I’ll carry the work through the night, building on the repairs already achieved and tracking how much is restored by dawn.
+
+### Assistant
+
+You keep the broken trees suspended and return your attention to the nearest split.
+
+This time, you follow the repair beneath the bark. The first pale bridge has closed the surface without properly supporting what lies behind it. You hold the fracture firmly aligned and guide growth through the damaged section, feeling where fresh tissue takes hold and where it fails to connect.
+
+Progress comes unevenly at first. A seam thickens while a neighbouring section remains weak. You adjust, drawing on the shape of sound wood beside it, then cautiously ease the weight back onto the trunk.
+
+It creaks.
+
+You catch the slight movement, reinforce the failing join and try again.
+
+Eventually, the trunk carries its own crown.
+
+You leave your awareness resting upon it while beginning the next. It stays upright.
+
+With that success, the work accelerates. You no longer have to rediscover the same correction at every fracture. Similar injuries become recognisable arrangements of torn fibres, disrupted living layers and displaced weight. Your telekinesis holds the pieces where they belong while the restorative work binds them together.
+
+Around you, trees settle into their own support one after another.
+
+The night passes in the smell of wet earth and exposed sap. You move through the damaged ground, pressing lifted roots back into place, closing cavities beneath them and encouraging fresh growth where their finer branches have been torn away. Loose timber drifts overhead towards matching breaks. Leaves turn slowly in the air before settling among the crowns or across the forest floor.
+
+Some repairs leave pronounced ridges. Others join with only a pale line through the bark. Where wood has been pulverised beyond useful assembly, you gradually grow a supporting connection between the surviving sections instead. Those places take longer, demanding sustained attention while the new structure becomes capable of carrying its load.
+
+You test each major repair by withdrawing your support. When a limb sags, you catch it and continue. When roots shift under a tree’s weight, you work beneath them until they hold.
+
+Hours later, nothing remains suspended merely to keep it from collapsing.
+
+You continue with the smaller damage: torn shrubs, exposed roots, scattered branches and the gouges left in the ground. The forest’s outline has returned, but close inspection would reveal the work. Fresh seams cross old bark. Several crowns are thinner. The earth has been disturbed, and the forest floor cannot be put back grain for grain from a picture you never possessed.
+
+Nor can the dead animals be repaired into life by the method you have developed tonight. Their remains persist among the restored vegetation.
+
+Your shoulders gradually settle as fewer things require your simultaneous attention. The effort remains substantial, especially after the original blast, but you do not reach the point of being unable to continue. Your thoughts are clear; you can still lift, align and mend.
+
+It is the changing light that finally brings you to the limit you set.
+
+Grey shows between the trunks. Above the eastern slope, the sky begins to pale, revealing a woodland standing where there had been wreckage. You release the last small branch from your hold. It trembles under its own weight and stays attached.
+
+The conspicuous destruction is largely repaired. A careful observer could still find damaged foliage, disturbed soil, dead animals and unusual new growth. The sound of the blast cannot be recalled. But the great swathe of flattened timber is gone, and the living trees stand without your assistance.
+
+Dawn finds you beneath their branches, dirt on your clothes and sap drying on the ground around you. You have worked through the night without reaching your limit—and turned your first uncertain joins into a repeatable means of restoring badly damaged living wood.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years, 5 months and 3 weeks  
+**Date:** 20/01/0069 AC43 — dawn, wooded countryside near the Orsival estate  
+**Reputation:** Royal Advisor; successful technical commissioner; privately, founding Director of the VAA  
+**Weapons (Equipped):** None. Vouressan-bone sword remains mounted in the estate study  
+**Armor/Clothing (Equipped):** Pale shirt, dark trousers and leather boots; dirt-covered  
+**Gear/Inventory:** Personal effects; research papers and collections remain at the estate, alongside five House rifles and 100 rounds  
+**Currency:** 923 personal lorrats; household funds 1,194, including 148 reserved. No expenditure.
+
+### Player
+
+I return to my estate to write several dozen pages on the topic
+
+### Assistant — progress note
+
+I’ll record the night’s results in Galahad’s private research and continue with his return home.
+
+### Assistant
+
+By the time you reach the estate, daylight has begun to catch the upper windows. The hounds recognise you on the drive and come to meet you, noses working over the unfamiliar smells clinging to your trousers.
+
+Lucette is opening the house when you arrive. Her eyes drop to your boots.
+
+“I’ll fetch a brush, my lord.”
+
+You clean off the worst of the woodland soil before going inside. A basin of water takes the grit from your hands; after that, you return to the study and draw fresh paper towards you.
+
+The bone sword hangs above the desk. Beneath it, your earlier notes lie exactly where you left them.
+
+You begin with the wolves.
+
+Your pen moves rapidly through the private cipher, recording the distinction between sensing a creature’s position and reading its intention. You describe the separate signatures of the five animals, how they remained recognisable while moving together, and the difference between an anticipated attack and the actual commitment of its body. The sequence of the encounter returns with extraordinary clarity. You reconstruct each approach, each evasion and the changes in their behaviour as their attacks failed.
+
+Beside those observations, you sketch positions and paths. Further annotations connect the exercise to locating a concealed Hunter: the means of detection is established, while a verified Hunter signature remains something to acquire.
+
+The destructive release occupies the next group of pages. You record how you gathered and discharged the force, the interruption of your wider awareness, the bodily sensation of the expenditure and the pattern of damage left behind. You distinguish what you witnessed from what you did not measure. There is no instrument reading from which to conjure an exact yield.
+
+The reconstruction takes considerably more space.
+
+You draw fractured trunks in section, showing where the first superficial joins failed and how you corrected them. Roots, bark and supporting wood receive separate attention. You record how telekinetic alignment allowed living growth to establish a stable connection, and how withdrawing support exposed weaknesses that appearance alone concealed.
+
+One correction leads into another. In the margins, you compare those observations with your work on Veskan’s injuries. The shared principles become clearer as you write; so do the differences that required you to change your approach. You preserve the unsuccessful attempts alongside the successful ones, giving yourself a record of why the final method worked.
+
+Outside the study, the household begins its morning. You hear crockery, footsteps, a brief exchange across the passage. Corva pauses at your open door.
+
+“Have you been out all night?”
+
+She takes in the growing stack of paper and the dirt still marking your clothes.
+
+“There’s breakfast when you want it.”
+
+She leaves you to finish the page.
+
+By mid-morning, several dozen closely written sheets have joined your private research. Their diagrams and layered text preserve the night’s work in a form useful to you and deliberately difficult for anyone else to follow. You organise them with the earlier psychic notes, keeping them apart from material intended for official circulation.
+
+The account ends with the condition in which you left the woodland: trees standing without support, substantial living repairs achieved, visible traces remaining. The last lines set down the questions the work has opened—finer simultaneous control, stronger structural growth, and how much of the process can become instinctive through repetition.
+
+You set down the pen. Beyond the study door, the smell of breakfast still lingers.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years, 5 months and 3 weeks  
+**Date:** 20/01/0069 AC43 — mid-morning, Orsival estate near Serravonne  
+**Reputation:** Royal Advisor; successful technical commissioner; privately, founding Director of the VAA  
+**Weapons (Equipped):** None. Vouressan-bone sword mounted in the study  
+**Armor/Clothing (Equipped):** Pale shirt, dark trousers and leather boots; woodland dirt partly cleaned away  
+**Gear/Inventory:** Private research expanded by several dozen ciphered pages on psychic detection, sightless evasion, destructive discharge, mass telekinesis and plant restoration; five House rifles and 100 rounds at the estate  
+**Currency:** 923 personal lorrats; household funds 1,194, including 148 reserved. No separate expenditure.
+
+### Player
+
+Over the next few days I assist Corva and Veskan with Estate Management, deposit 500 of my personal Lorrats to the Household Funds for investment, get a fresh change of clothes tailored in the same design as my current ones and leave my dirty clothes here to be washed. Then I walk back into the woodlands, orientate myself and begin my run back to the construction site of the VAA to check on progress. Slowing down only when in view of people or civilization.
+
+### Assistant — progress note
+
+I’ll check the estate accounts, tailoring prices and headquarters schedule, then carry the visit forward and record the transfer before Galahad returns to the site.
+
+### Assistant
+
+The next four days settle into a rhythm of household work and time with your parents.
+
+You sit with Corva over the accounts, tracing receipts back to their entries and separating money already promised from money available for investment. Veskan joins you for walks around the property, looking over access tracks, outbuildings and the wet ground where any larger drainage work still needs proper assessment. You help them compare prospective improvements by what they would actually earn or save, rather than how impressive they might look once built.
+
+The additional **500 lorrats** goes into the household account.
+
+Corva enters the transfer, checks her addition and turns the book towards you.
+
+“That makes sixteen hundred and ninety-four. The hundred and forty-eight we’ve already put aside stays aside.”
+
+Veskan draws one of the estimates closer.
+
+“We’ll get proper prices before committing the rest. There’s no sense spending it just because we have it.”
+
+The money gives them more room to act under the authority you have already entrusted to them. No particular new venture is purchased during the visit.
+
+In Serravonne, the tailor takes fresh measurements. Your proportions are now stable, but accommodating your shoulders and reach still requires careful cutting. You retain the same appearance: a pale shirt, dark trousers and a long charcoal coat. The complete replacement set costs **24 lorrats**, including the additional cloth and bespoke work. Your existing boots remain serviceable.
+
+The finished clothes are ready before you leave. Lucette takes the woodland-stained set for washing and cleaning; nothing is discarded.
+
+On the morning of **24/01/0069**, you say your goodbyes and set out. Once beyond the occupied grounds, you turn into the woods, establish your direction and begin to run.
+
+The first few strides lengthen into a sustained pace. Cold air moves through your hair; the skirts of your new coat stream behind you. You choose your footing through the trees, clear fallen timber and climb out of hollows without breaking rhythm. Where a farm, road or working party comes into view, you slow to a walk until you have passed beyond sight, then accelerate again.
+
+By early afternoon, the sounds of the construction site reach you through the uplands.
+
+The camp is busy. Smoke rises above its service buildings, and a loaded spoil wagon jolts along a temporary track. Farther in, machinery labours beneath a steady undertone of hammering. The site has advanced while you were away, though five days have produced increments of a vast undertaking rather than a transformation.
+
+Fresh spoil marks the continued excavation. Another section of initial supporting work is in place, and materials have been brought forward for the following sections. Work continues at the remote railway yards; the underground supply connections remain unfinished. The future landing strip is still a construction area.
+
+At the site office, the duty engineer recognises you and clears a space on the table for the latest plans.
+
+“Afternoon, my lord. We’ve marked the new work here. I can take you through the workings first, or show you the returns.”
+
+He places the progress sheets beside the drawings. They distinguish excavated ground from supported sections and work still awaiting completion. The latest fully reconciled capital statement remains the earlier **1.36 million spent**; subsequent site vouchers are awaiting reconciliation, rather than being presented as a new certified total.
+
+There is no reported incident requiring an emergency decision. The established completion date remains on the programme, and the work is continuing under the arrangements you left in place.
+
+Outside the office, another wagon rattles past. The engineer waits beside the plans, ready to accompany your inspection.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years and 5 months, approaching 6 months  
+**Date:** 24/01/0069 AC43 — early afternoon, VAA headquarters construction site near Auvrienne  
+**Reputation:** Royal Advisor; successful technical commissioner; privately, founding Director of the VAA  
+**Weapons (Equipped):** None. Vouressan-bone sword remains mounted in the estate study  
+**Armor/Clothing (Equipped):** Newly tailored pale shirt, dark trousers and long charcoal coat; existing leather boots  
+**Gear/Inventory:** Personal effects; private research and previous clothing remain at the estate; five House rifles and 100 rounds remain there  
+**Currency:** **399 personal lorrats**; **1,694 household lorrats**, including 148 reserved and 1,546 available for investment and other authorised household needs. Transfer: 500; tailoring: 24. Restricted VAA funds remain separate.
+
+### Player
+
+I spend the remainder of the night looking over the plans and designs to find improvements I can make and inefficiencies I can remove. I also readjust tolerances assigned to training areas based on my experimentation in the woods
+
+### Assistant — progress note
+
+I’ll carry the design review through the night, using the woodland experiment to revise the training areas without treating its unmeasured force as a precise engineering figure.
+
+### Assistant
+
+You take the drawings into the site office and spread them across the long table. Before the working day ends, you walk the active sections with the engineer, comparing the neat lines on paper with the actual movements of workers, materials and spoil.
+
+By evening, the plans are covered in your annotations.
+
+Several improvements concern the order of work rather than the design of the finished installation. Material needed by one crew is being stored beyond another crew’s working space. Some inspections occur late enough that a small correction interrupts the following shift. Temporary services have been arranged for the first excavation fronts and now need revising as those fronts advance.
+
+You trace each delay through the programme, then reorganise the dependencies. Delivery points move closer to their next use. Inspection and handover requirements become clearer. Work that can proceed independently is separated from work that genuinely must wait. You preserve access for maintenance instead of accepting arrangements that would make a future repair disrupt half a working area.
+
+The engineer studies one of your marked sequences.
+
+“We’ve been carrying the first-stage arrangement forward,” he says. “That made sense when we only had the first crews down there.”
+
+He follows your revisions with a fingertip.
+
+“I can change the stores and handovers tomorrow. These others need the section foremen to go through them with me.”
+
+You continue after he leaves, with the construction camp settling into its night routine beyond the walls. Machinery runs intermittently. Boots pass outside; somewhere nearby, a door closes against the cold.
+
+The training areas occupy you longest.
+
+Your experiment has exposed a serious mismatch between an ordinary practice room and the forces you might eventually release inside it. The woodland gave you direct experience of the breadth of a shockwave, the violence of displaced material and the effort required to repair its effects. It did not provide a measured load that could simply be written into a structural calculation.
+
+You revise the design accordingly. Routine instruction remains close enough to the occupied areas for practical daily use. Exercises involving substantial destructive force receive separate treatment: greater isolation from accommodation and essential services, provision for controlled testing, and replaceable practice surfaces whose damage would not compromise the surrounding installation.
+
+You also distinguish protection against an attack from outside from containing a release originating within a chamber. Depth alone does not make those the same problem.
+
+Beside the higher-output training provision, you record that its eventual operating limits must follow measured trials. Your own strenuous discharge is excluded from ordinary indoor practice until an appropriate facility has actually demonstrated that it can contain it. The design allows for that future work without quietly assuming that any underground room will withstand whatever you choose to do inside it.
+
+Other alterations concern precision rather than destruction. You make room for tracking exercises with concealed movement, simultaneous manipulation of separate objects, and observation of living repairs over time. The latter needs somewhere specimens can remain undisturbed between sessions. Your night in the woods has supplied several useful forms of practice that do not require demolishing the surroundings.
+
+As the hours pass, the revised plans become more coherent. You distinguish immediate changes to site organisation from alterations that need checking against ground conditions, drawings and cost. The improvements remain compatible with the existing project’s purpose; anything that might enlarge its cost or excavation scope is marked for assessment before construction.
+
+At first light, the engineer returns carrying a mug and stops beside the table.
+
+“You’ve been here all night?”
+
+He sets the mug down well clear of the papers and begins reading.
+
+After a while, he pulls a fresh sheet towards him.
+
+“I’ll take the foremen through the working changes this morning. For the training section, I’ll get you a separate cost and programme return. Better to settle it while we’re still opening the ground.”
+
+The original completion date remains in place. Your review has produced a practical set of changes and exposed where the training design needs more work; it has not yet produced an audited saving or a new completion forecast.
+
+Outside, the next shift begins to assemble. On the table, the revised drawings are ready to be checked and put into use.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years and 5 months, approaching 6 months  
+**Date:** 25/01/0069 AC43 — early morning, VAA headquarters construction site near Auvrienne  
+**Reputation:** Royal Advisor; successful technical commissioner; privately, founding Director of the VAA  
+**Weapons (Equipped):** None. Vouressan-bone sword remains at the estate  
+**Armor/Clothing (Equipped):** Pale shirt, dark trousers, charcoal coat and leather boots  
+**Gear/Inventory:** Annotated site plans and revised training-area requirements at the project office; personal research remains at the estate  
+**Currency:** 399 personal lorrats; household funds 1,694, including 148 reserved. No new personal expenditure; construction revisions await costing within the separate Crown programme.
+
+### Player
+
+I spend the next month on site observing, supervising and improving the construction in any way I can whether that is improving the build, saving costs to be put elsewhere or saving time. I ensure the telecommunication infastructure is set up on site so I can relay my approximate position to the Margrave and the Marshall.
+
+### Assistant — progress note
+
+I’ll advance the month’s construction and accounts, including the payday, and resolve the site telephone connection and your reports to the Margrave and Marshal.
+
+### Assistant
+
+Over the following month, your presence becomes part of the site’s daily rhythm. Crews grow accustomed to finding you beside the workings before their shift begins, or at the drawing table long after the office lamps should have been extinguished.
+
+You watch complete cycles of work. A delay that looks insignificant in one shift becomes conspicuous when repeated across several crews. You follow it back to its cause, change the arrangement and watch again.
+
+The results accumulate. Materials arrive where they will be used. Survey checks precede work that depends on them. Crews stop waiting for equipment another section has finished using but failed to release. Repeated fittings and service arrangements become consistent, reducing the number of small discrepancies that previously required someone to stop and improvise.
+
+Your improvements also reach the finished design. You catch awkward maintenance access before it is enclosed and reconcile service routes before separate trades begin competing for the same space. The foremen learn that your questions usually lead somewhere useful. Increasingly, they bring problems to you while they are still small.
+
+The revised training section returns for review during the first part of the month. Its separation and supporting services can be incorporated at this stage without rebuilding completed accommodation. The engineers work those alterations into the programme. The more ambitious containment provisions remain subject to testing; nobody stamps your maximum output as safe merely because the revised drawings look substantial.
+
+By the month’s end, the planning return identifies approximately **180,000 lorrats in avoided future costs** from the revised arrangements. Those are reductions against the previous estimate, rather than cash recovered from expenditure already made. Around **120,000** is assigned within the existing ceiling to the revised training provision, leaving **60,000** as additional forecast headroom.
+
+The programme has also gained roughly **two weeks of working margin**. You retain the established completion deadline rather than spending that margin before the deeper works are finished.
+
+The telephone installation proceeds alongside the construction services. A working instrument is fitted in the site office, with internal connections to the principal construction offices and an external connection arranged under the Crown works designation. Its installation and service costs belong to the headquarters programme.
+
+On **04/02**, the external connection is tested successfully. You can reach the appropriate offices in Auvrienne and give the Margrave and Marshal your approximate whereabouts: supervising the inland Crown works, available through the site office. Their offices acknowledge the arrangement. Routine calls carry that limited description; the Agency’s purpose and concealed membership do not become telephone conversation for intermediaries.
+
+For the first time, a message need not wait for your next journey to the capital.
+
+You also hear from home. Corva confirms that the new clothes left behind have been cleaned and put away. She and Veskan continue investigating investments, with no substantial purchase yet committed. The household remains well.
+
+On **01/02**, your regular **150-lorrat commission payment** is credited. Site accommodation and ordinary meals are covered by the existing construction arrangements. You incur no additional personal purchase during the month.
+
+By **25/02**, the change on the ground is unmistakable. Excavation has advanced, more supporting structure is in place, and initial service routes are being installed in completed sections while work continues beyond them. The remote railway works have progressed too. The underground supply route is still unfinished, and the airstrip remains closed.
+
+The reconciled capital return now records **2.8 million lorrats released** and **2.1 million spent**, leaving **700,000** released but unspent. The remaining **11.2 million** of the authorised ceiling is undrawn. The expenditure includes the previously outstanding vouchers and this month’s works, including telecommunications; it is not an additional charge on top of them.
+
+At the final review, the engineer lays the revised programme beside the original.
+
+“We’re getting more work out of the same shifts,” he says. “And we’re catching mistakes before they become concrete.”
+
+He taps the remaining excavation sequence.
+
+“There’s still plenty of ground to open. But we’ve got room in the programme now.”
+
+Beyond the office window, another crew takes over at the workings. The telephone sits within reach of your papers. The headquarters is still a construction site, but it is advancing more efficiently, and you can now supervise it without becoming unreachable to the Crown.
+
+---
+
+**Name:** Lord Galahad Orsival  
+**Age:** Approximately 3 local years and 7 months  
+**Date:** 25/02/0069 AC43 — afternoon, VAA headquarters construction site near Auvrienne  
+**Reputation:** Royal Advisor; successful technical commissioner; founding Director of the VAA, known only within its restricted circle  
+**Weapons (Equipped):** None. Vouressan-bone sword remains at the estate  
+**Armor/Clothing (Equipped):** Pale shirt, dark trousers, charcoal coat and leather boots  
+**Gear/Inventory:** Working construction plans and review papers on site; private research remains at the estate; site telephone operational  
+**Currency:** **549 personal lorrats**. Household **1,678 lorrats**, including 148 reserved, after 50 in receipts and 66 in operating payments. Headquarters: 14 million authorised, 2.8 million released, 2.1 million spent; entirely separate from personal and household funds.

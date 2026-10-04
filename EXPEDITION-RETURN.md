@@ -18,7 +18,7 @@ Hunter studies added supervised fragments and records to the Drossane emitter hy
 
 Two original collections were recovered and retained: wrapped practical psychic observations from a ruined teaching house near Ossendrienne, and engraved plates with commentary from a disused mountain repository near Grevallier. Telekinesis enabled access through unstable masonry. Neither collection has proven Ambros authorship. Visits and comparisons in Veldrassen and Ostrevain expanded knowledge of his legacy without resolving the circumstances of his sword killing or recovering his sword.
 
-On return, private manuscripts, both recovered collections and the wrapped greatsword were secured in new ground-floor Collegium quarters. Following resignation on 20/10, personal belongings were delivered to the estate on 22/10 against Corva’s receipt; the room was released and institutional property returned. Working rifle/carrier papers and retained reports accompany Galahad in Auvrienne in his Royal Advisor’s chambers. Original station papers and the incomplete station prototype remain in Corva’s custody.
+On return, private manuscripts, both recovered collections and the wrapped greatsword were secured in new ground-floor Collegium quarters. Following resignation on 20/10, personal belongings were delivered to the estate on 22/10 against Corva’s receipt; the room was released and institutional property returned. Working rifle/carrier papers and retained reports remain under Galahad's control; his present working location is the VAA construction site near Auvrienne, with Royal Advisor chambers retained. Original station papers and the incomplete station prototype remain in Corva’s custody.
 
 ## Contacts and the unnamed Order
 
@@ -43,7 +43,7 @@ Galahad reached bodily maturity at approximately three metres during the expedit
 
 The final operating cost was **11,855 lorrats**. Both sponsors approved disposal of the **2,645** remainder: **500** transferred to the pay office for five scholar bonuses, **645** leadership award paid, **1,000** refunded to the Chancery and **500** to the Collegium. No expedition funds remain under Galahad’s control. The pay-office transfer does not certify that every scholar has collected the award. Separate ordinary payroll for twelve paydays was **2,820**, including Galahad’s **720**. Final institutional expenditure including awards and payroll is **15,820** against **17,320** provision, with **1,500 returned**.
 
-At the 11/10 settlement personal funds were **1,197** and estate funds **314**. Those are historical opening balances. The current 19/01/0069 AC43 balances are **923 personal** and **1,194 household**; Collegium employment ended 20/10 and its final settlement was paid 01/11. See [current ledger](ESTATE-ACCOUNTS.md), [closed expedition accounts](expedition-accounts.json) and [executed commission](ROYAL-COMMISSION.md). Do not reapply historical payments.
+At the 11/10 settlement personal funds were **1,197** and estate funds **314**. Those are historical opening balances. The current 25/02/0069 AC43 balances are **549 personal** and **1,678 household**; Collegium employment ended 20/10 and its final settlement was paid 01/11. See [current ledger](ESTATE-ACCOUNTS.md), [closed expedition accounts](expedition-accounts.json) and [executed commission](ROYAL-COMMISSION.md). Do not reapply historical payments.
 
 ## Later Order contact — 12/11/0068 AC43
 

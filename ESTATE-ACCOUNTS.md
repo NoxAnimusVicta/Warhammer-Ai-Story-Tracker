@@ -1,6 +1,6 @@
 # House Orsival — estate accounts
 
-Revision 78 · Reviewed 19/01/0069 AC43 · Pricing baseline: transcript439; subsequent payments: transcript443
+Revision 79 · Reviewed 25/02/0069 AC43 · Pricing baseline: transcript439; subsequent payments: transcript443
 
 The established land account remains **20 ha tenanted arable + 12 meadow/pasture + 14 woodland + 6 orchard/market ground + 4 buildings/tracks/domestic ground = 56 ha**. Existing occupancies and tenancies remain protected.
 
@@ -151,7 +151,7 @@ The **18,000 state programme** is separate: **14,304 recognised cost + 180 outst
 
 The Royal Advisor appointment is effective on 12/11, with no new salary or resource appropriation settled. Personal and household cash have not moved during the completed training and return. Incremental programme return-transport valuation remains unpriced; it may reduce the recorded headroom and is not a personal fare.
 
-## Current accounts — 19/01/0069 AC43
+## Historical accounts — 19/01/0069 AC43
 
 The preceding 12/11 balances are historical. The period since then is reconciled once in commission-accounts.json.
 
@@ -165,3 +165,17 @@ Personal receipts are the 150 commission payments on 01/12/0068 and 01/01/0069; 
 Corva and Veskan remain safe and in regular telephone contact. Five House rifles and 100 ordinary rounds have now arrived. No brewery, new investment, armed staff appointment or equipped estate workshop is enacted. Dorlac receivable remains zero; one consignment charm remains without a new confirmed sale.
 
 The state rifle programme now recognises 16,877, with zero outstanding commitments and 1,123 headroom. Return transport and House delivery are included. Crown/military administration handles workshop funding. The VAA's 6,000 opening authority and separate 14-million capital ceiling are restricted state funds, never household or personal cash. See VAA-REFERENCE.md and vaa-accounts.json.
+
+
+## Current accounts — 25/02/0069 AC43
+
+| Account | Opening 19/01 | Receipts | Payments | Closing |
+|---|---:|---:|---:|---:|
+| Personal | 923 | 150 | 524 | **549** |
+| Household | 1,194 | 550 | 66 | **1,678** |
+
+Personal payments: 500 transferred to the household during 20–24/01 and 24 for bespoke replacement coat, shirt and trousers. Existing boots retained. The 150 received on 01/02 pays Month 01; next payday 01/03. Month 02 accrued unpaid remuneration is 125. Site food and lodging are project costs, not another personal payment.
+
+House receipts: the matching 500 contribution, rents 20 and produce 30. Payments: Lucette 14, telephone 2, domestic 22, hounds 4, maintenance 6 and handling 18. This reconciles the interval after 19/01, including previously unposted short-visit operating costs; no duplicate wages or forecast harvest credited. Cash includes **148 reserved and 1,530 uncommitted**. No new investment purchase is enacted; the delegated investment review is an explicit outstanding narrator task, not parental reluctance.
+
+The dated rifle pilot return remains 16,877 at 19/01. Continuing ordinary Crown payroll is separately estimated at 1,260 through 25/02; it is neither household expense nor an invented new rifle order. Agency opening funding has reached its review date; capital is separately 14 million authorised, 2.8 million released and 2.1 million spent. See the controlling ledgers.

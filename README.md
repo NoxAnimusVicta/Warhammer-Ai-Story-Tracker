@@ -1,8 +1,8 @@
 The app now groups commission work under Research, completed expedition and pod history under Chronicle, and household context beside the estate. [Organisation audit](APP-AUDIT.md) records the changes; [retained source records](APP-RECORD-REFERENCE.md) preserve consolidated prose. All 43 national/territorial profiles include [living standards and public sentiment](SOCIAL-CONDITIONS.md), household-budget estimates, evidence ranges and everyday-life descriptions. Their inputs and common formulas are recorded in the linked reference.
 
-The **Research** tab brings the existing research record together with collapsible guidance on cumulative discoveries, development stages and Hunter plasma adaptations. [Full narrator reference](RESEARCH-PROGRESSION.md). Revision 78 reconciles the app through the Agency instruction period, headquarters construction and homeward departure of its six members.
+The **Research** tab brings the existing research record together with collapsible guidance on cumulative discoveries, development stages and Hunter plasma adaptations. [Full narrator reference](RESEARCH-PROGRESSION.md). Revision 79 reconciles the app through the estate visit, woodland research and construction supervision ending 25/02/0069.
 
-Published overview date: **19/01/0069 AC43** (day/month/year after Culling 43). See [the calendar](CALENDAR-REFERENCE.md).
+Published overview date: **25/02/0069 AC43** (day/month/year after Culling 43). See [the calendar](CALENDAR-REFERENCE.md).
 
 # Malaspina — data-slate
 
@@ -26,17 +26,17 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the last major culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition — revision 78
+## Current edition — revision 79
 
-**19/01/0069 AC43, Auvrienne.** Galahad is Royal Advisor and founding Director of the VAA. His advisory instrument is signed and delivered, with departmental notices issued. All six Order members arrived and trained; they have now departed for their home societies, without assuming instant arrival. [Agency record](VAA-REFERENCE.md) preserves names, arrival dates, individual abilities, assignments and knowledge boundaries.
+**25/02/0069 AC43, VAA construction site near Auvrienne.** Galahad is Royal Advisor and founding Director of the VAA. His advisory instrument is signed and delivered, with departmental notices issued. All six Order members arrived and trained; they have now departed for their home societies, without assuming instant arrival. [Agency record](VAA-REFERENCE.md) preserves names, arrival dates, individual abilities, assignments and knowledge boundaries.
 
-The isolated headquarters is under construction, due **19/11/0069**. Capital: **14 million authorised, 1.8 million released, 1.36 million spent, 440,000 restricted cash**. Opening Agency expenses are **1,460 of 6,000**. Neither account is personal money. [Construction](UNDERGROUND-COMPLEX.md) and [Agency accounts](vaa-accounts.json).
+The isolated headquarters is under construction, due **19/11/0069**. Capital: **14 million authorised, 2.8 million released, 2.1 million spent, 700,000 restricted cash**. Opening Agency expenses are **1,460 of 6,000**; its three-month period has elapsed and renewal or closure remains unresolved. Neither account is personal money. [Construction](UNDERGROUND-COMPLEX.md) and [Agency accounts](vaa-accounts.json).
 
-[Royal commission](ROYAL-COMMISSION.md): **195 rifles**, with 187 at Cressault, five delivered to the estate and three retained for development. House ammunition is a separate 100-round depot issue. Cressault's 6,758 rounds remain the last verified 12/11 return, not a fresh stock count. The autonomous workshop awaits Crown/military production instructions; Galahad owes it no new task or personal funding. Programme **16,877 recognised, zero commitments, 1,123 headroom** within 18,000.
+[Royal commission](ROYAL-COMMISSION.md): **195 rifles**, with 187 at Cressault, five delivered to the estate and three retained for development. House ammunition is a separate 100-round depot issue. Cressault's 6,758 rounds remain the last verified 12/11 return, not a fresh stock count. The autonomous workshop awaits Crown/military production instructions; Galahad owes it no new task or personal funding. Pilot return dated 19/01: **16,877 recognised, zero commitments, 1,123 headroom** within 18,000. Subsequent Crown payroll is separately estimated at **1,260**.
 
-Personal **923**; household **1,194**, including 148 reserved. Commission pay remains 150/month; full payments arrived 01/12 and 01/01. No additional Advisor salary. [Accounts](ESTATE-ACCOUNTS.md). Both parents remain safe in regular telephone contact. The brewery and aviation city remain deferred.
+Personal **549**; household **1,678**, including 148 reserved. Commission pay remains 150/month; latest full payment arrived 01/02. No additional Advisor salary. [Accounts](ESTATE-ACCOUNTS.md). Both parents remain safe in regular telephone contact. The brewery and aviation city remain deferred.
 
-Galahad is approximately **three local years and five months, plus roughly three weeks**. At planetfall he was about one month old but appeared five to six; exact birthday is unknown. Mature height remains about three metres. [Age tracking](CALENDAR-REFERENCE.md#chronological-age-and-physical-development).
+Galahad is approximately **three local years and seven months**. At planetfall he was about one month old but appeared five to six; exact birthday is unknown. Mature height remains about three metres. [Age tracking](CALENDAR-REFERENCE.md#chronological-age-and-physical-development).
 
 The annual review covers all 43 polities and 140 recorded officeholders; the original outcomes are preserved. Population and national estimates advance over the actual elapsed interval, with no extra full year of growth. [Audit](DOCUMENTATION-AUDIT.md) and [methods](LIVING-WORLD-REFERENCE.md).
 
@@ -44,9 +44,9 @@ The [completed expedition](EXPEDITION-RETURN.md) remains a 355-day journey with 
 
 [Economic reference](ECONOMIC-REFERENCE.md) dates wages and prices to the Year 67 AC43 baseline, reviewed on the current story date, with regional variation and recorded event-driven changes. [Monumental architecture](ARCHITECTURE-REFERENCE.md) records Galahad’s unbuilt national-wonder designs and current-price estimates. [Estate accounts](ESTATE-ACCOUNTS.md) separates paid expenses, allocations and projected returns.
 
-Ceralte now includes Bellavara and Montelisse, with sea connections to Dalmor. The atlas contains 970 settlements and 2,210 routes, with 134 sea passages connecting 72 harbours. [Ten outer island regions](ISLAND-CHAINS.md) add seven self-governing societies and three colonial administrations across 63 previously unassigned islands. The two Ceralte additions remain within its existing census. The outer chains correct earlier omitted coverage. The current 508-day full-coverage estimate is 1,229,695,568 on 19/01/0069 AC43; earlier estimates remain historical.
+Ceralte now includes Bellavara and Montelisse, with sea connections to Dalmor. The atlas contains 970 settlements and 2,210 routes, with 134 sea passages connecting 72 harbours. [Ten outer island regions](ISLAND-CHAINS.md) add seven self-governing societies and three colonial administrations across 63 previously unassigned islands. The two Ceralte additions remain within its existing census. The outer chains correct earlier omitted coverage. The current 545-day full-coverage estimate is 1,230,125,829 on 25/02/0069 AC43; earlier estimates remain historical.
 
-Galahad reached bodily maturity during the expedition at approximately 3 metres. He is now about three years and five months plus roughly three weeks old, with a short white beard. The departure artwork remains his clothing reference; the formal leadership portrait remains a future reference.
+Galahad reached bodily maturity during the expedition at approximately 3 metres. He is now about three years and seven months old, with a short white beard. The departure artwork remains his clothing reference; the formal leadership portrait remains a future reference.
 
 Current summaries supersede older checkpoints. The exact transcript preserves historical wording, including superseded proposals. The private handover must not be uploaded to this public repository.
 
@@ -70,7 +70,7 @@ The dossier portrait now shows Galahad in his current expedition clothes. The ea
 
 [Historical continuity and Ambros](HISTORY-REFERENCE.md) describes surviving industrial civilisation, oral traditions, hidden archives and the older imperial hero tradition. Substantial reference sections use consistent dropdowns; core state and the map remain visible.
 
-[Year 68 developments](WORLD-YEAR68.md) resolves the expedition-year background: all 43 polities, eight conflict theatres, military inventory movements, industrial and diplomatic changes, the completed authorised pumping stage and ongoing NPC work. That historical review remains dated 11/10; the current commission, estate and employment records carry the story through 19/01/0069. [Documentation audit](DOCUMENTATION-AUDIT.md) records the current checks and the limits of the estimates. No further story time advances.
+[Year 68 developments](WORLD-YEAR68.md) resolves the expedition-year background: all 43 polities, eight conflict theatres, military inventory movements, industrial and diplomatic changes, the completed authorised pumping stage and ongoing NPC work. That historical review remains dated 11/10; the current commission, estate and employment records carry the story through 25/02/0069. [Documentation audit](DOCUMENTATION-AUDIT.md) records the current checks and the limits of the estimates. No further story time advances.
 
 [Governments and leadership](GOVERNMENT-REGISTER.md) covers all 43 societies and 140 principal figures, including civil representatives, military leadership, deputies and recognised heirs. Select a nation and open **Government & leadership** for powers, ages, appearance and personality. Annual review rules track aging, vacancies and fully profiled successors without automatically changing government type or national statistics.
 
@@ -79,3 +79,10 @@ The presentation now uses consistent record spacing, nested disclosures and subj
 ## Agency and deferred infrastructure
 
 [Veyrasse Arcane Agency](VAA-REFERENCE.md) records its authority, opening allocation, residence chambers, six-member instruction and homeward departures. [Agency accounts](vaa-accounts.json) separate undrawn Crown authority from personal cash. [Underground complex](UNDERGROUND-COMPLEX.md) records the approved isolated-site construction programme. [Research progression](RESEARCH-PROGRESSION.md) separates research, validation and production according to available industry.
+
+
+## Latest enacted work and outstanding returns
+
+Read VAA-REFERENCE.md and vaa-accounts.json. Six trained members departed homeward on 19/01; individual return confirmations have not yet been narrated and must be resolved against travel time before another substantial skip, not left indefinitely in transit. Study and discreet infiltration remain their remit. Opening expenditure is 1,460 against the original 6,000; its three-month period has elapsed and the remaining 4,540 is not a newly renewed operating allocation. Capital is separate: 14 million authorised, 2.8 million released, 2.1 million spent, 700,000 restricted cash. Telephone operational 04/02; headquarters still under construction, due 19/11/0069. Forecast savings are 180,000 avoided future cost, with 120,000 reassigned to training provision and 60,000 extra forecast headroom; these are not cash receipts. Roughly two weeks of working float, not a changed deadline. Carrier research and aviation-city construction remain deferred.
+
+Estate sword retained on the study wall; private woodland research is documented in PHYSIOLOGY-REFERENCE.md. Personal 549; household 1,678. The rifle pilot costs remain a dated 19/01 return, with subsequent Crown payroll separately estimated at 1,260. Corva and Veskan’s investment review remains explicitly unresolved; maintenance has not invented a backdated purchase. The annual 01/01 review remains preserved; no second annual mortality roll or full-year increment is applied.

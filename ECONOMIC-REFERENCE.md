@@ -1,8 +1,8 @@
 # Malaspina Economic Reference
 
-Price review: **19/01/0069 AC43**. Year 67 AC43 reference bands remain the baseline; no blanket new-year inflation is enacted. Apply recorded regional conditions and actual invoices, not automatic repricing.
+Price review: **25/02/0069 AC43**. Year 67 AC43 reference bands remain the baseline; no blanket new-year inflation is enacted. Apply recorded regional conditions and actual invoices, not automatic repricing.
 
-Version 1.9 · Year 67 price baseline, reviewed 19/01/0069 AC43 · Capital and estate-enterprise estimates recorded 27 September 2026
+Version 1.9 · Year 67 price baseline, reviewed 25/02/0069 AC43 · Capital and estate-enterprise estimates recorded 27 September 2026
 
 Additional references: [capital purchases](#8-capital-purchases-and-industrial-projects), [estate crop and tenancy planning](#9-orsival-estate-production-and-tenant-purchases), and [shelved brewery-and-orchard-drinks proposal](#10-orchard-drinks-and-brewery-feasibility--shelved-proposal). These preserve the economic discussion without enacting a business, purchases, harvests or changes to balances.
 
@@ -224,7 +224,7 @@ During the expedition Galahad’s established salary was 60 per pay month: the e
 
 **Price basis: 11/10/0068 AC43, ordinary Veyrassian conditions.** These are newly calibrated fictional reference bands from the economic discussion, not quotations or completed purchases. Apply the same dated market-change rules as everyday goods. No universal Terran currency conversion is implied.
 
-**1,000 lorrats = 40 skilled-worker pay months = 3⅓ years of gross skilled wages, or 6⅔ months of Galahad’s current 150-lorrat commission pay.** This is gross income, not disposable savings. Current personal cash is 923; separate household funds are 1,194, including 148 reserved and 1,046 uncommitted. Dorlac’s former 60 receivable was relinquished. The state’s 18,000 programme ceiling is not personally spendable. Land and buildings are assets outside these cash balances. The 1,000 household contribution has already been paid once.
+**1,000 lorrats = 40 skilled-worker pay months = 3⅓ years of gross skilled wages, or 6⅔ months of Galahad’s current 150-lorrat commission pay.** This is gross income, not disposable savings. Current personal cash is 549; separate household funds are 1,678, including 148 reserved and 1,530 uncommitted. Dorlac’s former 60 receivable was relinquished. The state’s 18,000 programme ceiling is not personally spendable. Land and buildings are assets outside these cash balances. The 1,000 household contribution has already been paid once.
 
 ### Property and small businesses
 
@@ -416,7 +416,7 @@ Pressure-rated sparkling packaging needs its own specification and price. The in
 
 Assumes shared premises/distribution and contract malting, not an estate maltings. Additional barley, malting, hops, yeast, fuel and labour need a separate beer operating budget before any profit is asserted. The orchard's 586 surplus contains no beer contribution.
 
-The orchard-only provision of 4,810 exceeds current personal cash of 923. Simple recovery of that funding provision at 586/year is roughly eight years after retaining the modelled replacement reserve, before financing or ramp-up effects. This is a comparison, not a discounted investment appraisal or promise. Smaller production, using only part of the harvest, or paid processing elsewhere remain possible options; none is commissioned. The business remains **shelved**.
+The orchard-only provision of 4,810 exceeds current personal cash of 549. Simple recovery of that funding provision at 586/year is roughly eight years after retaining the modelled replacement reserve, before financing or ramp-up effects. This is a comparison, not a discounted investment appraisal or promise. Smaller production, using only part of the harvest, or paid processing elsewhere remain possible options; none is commissioned. The business remains **shelved**.
 
 ### Technical sources and limits
 
@@ -437,4 +437,9 @@ Estate telephone installation and Month 10 service cost 48; rental is two/month 
 
 Commission remuneration remains 150/month, paid first of month for the preceding month; the 900 trial licence was paid once. The 18,000 programme now records **16,877 recognised, zero commitments and 1,123 headroom**, including the return transport and separate House delivery. These include development, equipment and accrued labour, not a normal factory unit price. Five House rifles and 100 separately issued ordinary rounds have been delivered.
 
-Personal cash is **923**; household **1,194**, including 148 reserved. See [personal/household ledger](ESTATE-ACCOUNTS.md) and [commission accounts](commission-accounts.json). The Advisor appointment creates no additional salary. Agency opening authority is **6,000, with 1,460 spent**. The separate headquarters ceiling is **14 million, with 1.8 million released and 1.36 million spent**; undrawn authority and released cash are not expense. [Agency accounts](vaa-accounts.json) and [construction scope](UNDERGROUND-COMPLEX.md) govern these restricted funds.
+At 19/01 personal cash was **923**; household **1,194**, including 148 reserved. See [personal/household ledger](ESTATE-ACCOUNTS.md) and [commission accounts](commission-accounts.json). The Advisor appointment creates no additional salary. Agency opening authority is **6,000, with 1,460 spent**. The separate headquarters ceiling is **14 million, with 1.8 million released and 1.36 million spent**; undrawn authority and released cash are not expense. [Agency accounts](vaa-accounts.json) and [construction scope](UNDERGROUND-COMPLEX.md) govern these restricted funds.
+
+
+## Current review — 25/02/0069
+
+Personal cash 549; household 1,678, including 148 reserved. The 24-lorrat replacement coat, shirt and trousers are a dated bespoke invoice for Galahad’s size, not a new ordinary-clothing tariff. Capital released 2.8 million, spent 2.1 million; forecast avoidance of 180,000 is not cash income. Continuing Crown payroll after the 19/01 pilot return is separately estimated at 1,260; no new rifle production or extra personal funding. The original Agency opening period has elapsed with 4,540 unspent; renewal is unresolved. All general price bands remain subject to the dated index and regional/seasonal modifiers.

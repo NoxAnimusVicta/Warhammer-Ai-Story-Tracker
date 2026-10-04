@@ -1,6 +1,6 @@
 # Malaspina — culling calendar
 
-**Current date: 19/01/0069 AC43.** In speech: Day 19 of Month 01, **69 AC43**. Dates are **day / numbered month / year after the numbered major culling**.
+**Current date: 25/02/0069 AC43.** In speech: Day 25 of Month 02, **69 AC43**. Dates are **day / numbered month / year after the numbered major culling**.
 
 **AC43 means After Culling 43.** The current year is the sixty-ninth year of the era following the last major culling. “About 67 years since its end” was the earlier Year 67–68 rounded historical description, not an exact anniversary. The count follows the surviving common reckoning; it does not prove that only 43 cullings have ever occurred.
 
@@ -43,23 +43,26 @@ The civil new year falls near northern winter solstice; northern summer is aroun
 | Full Month 11 commission pay | 01/12/0068 AC43 |
 | Annual review; full Month 12 commission pay | 01/01/0069 AC43 |
 | Six trained Agency members depart homeward | 19/01/0069 AC43 |
-| Next commission payday | 01/02/0069 AC43 |
+| Full Month 01 commission pay | 01/02/0069 AC43 |
+| Site telephone operational | 04/02/0069 AC43 |
+| Current construction return | 25/02/0069 AC43 |
+| Next commission payday | 01/03/0069 AC43 |
 | Headquarters completion deadline | 19/11/0069 AC43 |
 
-Approval is 35 days after the census; predeparture evening was 55 days after it. The current evening is **508 days after the census**, **452 elapsed days after expedition departure** and **98 days after the actual return**. The expedition itself remains completed at day 355, with 231 travel and 124 visiting days and ten reserve days unused. Day 1 is departure, so day 365 is departure plus 364 elapsed days; post-return time does not extend the completed itinerary.
+Approval is 35 days after the census; predeparture evening was 55 days after it. The current afternoon is **545 days after the census**, **489 elapsed days after expedition departure** and **135 days after the actual return**. The expedition itself remains completed at day 355, with 231 travel and 124 visiting days and ten reserve days unused. Day 1 is departure, so day 365 is departure plus 364 elapsed days; post-return time does not extend the completed itinerary.
 
 ## Pay, age and living records
 
-Galahad’s commission pays **150/month on the first for the preceding month**. The 01/11/0068 payments were 70 partial commission and 40 final Collegium salary. Full payments of 150 followed on 01/12/0068 and 01/01/0069. Next payday **01/02/0069**, thirteen local days after this date. Month 01 accrued unpaid: 95. Partial-month accounting uses thirty pay units at five each, capped at 150; the 31st civil day adds no extra unit. Current cash **923 personal, 1,194 household**. The closed expedition payroll remains 720 for Galahad and 2,100 for five scholars; no future pay is prepaid.
+Galahad’s commission pays **150/month on the first for the preceding month**. The 01/11/0068 payments were 70 partial commission and 40 final Collegium salary. Full payments of 150 followed on 01/12/0068, 01/01/0069 and 01/02/0069. Next payday **01/03/0069**, six local days after this date. Month 02 accrued unpaid: 125. Partial-month accounting uses thirty pay units at five each, capped at 150; the 31st civil day adds no extra unit. Current cash **549 personal, 1,678 household**. The closed expedition payroll remains 720 for Galahad and 2,100 for five scholars; no future pay is prepaid.
 
 ### Chronological age and physical development
 
 At planetfall (story Day 0), Galahad was approximately one local month old chronologically, while his accelerated development made him appear about five to six human years old. Chronological age is that starting month plus elapsed local story time; apparent age and bodily maturity never add lived years. No exact birthday or civil-calendar planetfall date is established. The current age label is a rounded estimate, not an exact age. Review it against elapsed time at each dated scene rather than copying the previous label. Do not invent an exact day count or convert local ageing through the offworld clock ratio.
 
-The predeparture age estimate was about two years and three months on 21/10/0067. The current date is 453 elapsed local days later, including 98 days since return. This supports roughly three years and five months plus roughly three weeks, but that extra precision is only an estimate inherited from an approximate starting age and earlier intervals. It is not a newly established birthday. Full bodily maturity at about **3 m** was reached during the expedition, around chronological age three.
+The predeparture age estimate was about two years and three months on 21/10/0067. The current date is 490 elapsed local days later, including 135 days since return. This supports roughly three years and seven months, but that extra precision is only an estimate inherited from an approximate starting age and earlier intervals. It is not a newly established birthday. Full bodily maturity at about **3 m** was reached during the expedition, around chronological age three.
 
 `calendar.json.age_tracking` records this distinction and dates the age review. Before advancing the story date, reassess the estimate from recorded intervals; do not silently freeze age or turn a rounded checkpoint into an exact birth date.
 
-Census **1,223,820,000** on 27/08/0067 remains unchanged. The **508-day projection is 1,229,695,568**, from separately rounded group trends, not a new enumeration. Earlier projections remain historical snapshots. Price bands retain their Year 67 basis with 01/01/0069 annual review, current review and specific invoices. All national and settlement projections share 19/01/0069 AC43. Population/production use 508 days; treasury estimates use **453 days** from 21/10/0067. The 11/10 Year 68 background review is preserved, with a separately dated post-return assessment and commission record. See LIVING-WORLD-REFERENCE.md.
+Census **1,223,820,000** on 27/08/0067 remains unchanged. The **545-day projection is 1,230,125,829**, from separately rounded group trends, not a new enumeration. Earlier projections remain historical snapshots. Price bands retain their Year 67 basis with 01/01/0069 annual review, current review and specific invoices. All national and settlement projections share 25/02/0069 AC43. Population/production use 545 days; treasury estimates use **490 days** from 21/10/0067. The 11/10 Year 68 background review is preserved, with a separately dated post-return assessment and commission record. See LIVING-WORLD-REFERENCE.md.
 
 Record occurrence dates, report dates and forecast periods separately. Advance living records only with story time or established events, preserve prior snapshots and apply payments and growth once. Editorial dates are not story dates. `calendar.json` is the shared date reference.

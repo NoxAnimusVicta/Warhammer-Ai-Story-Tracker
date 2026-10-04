@@ -1,6 +1,6 @@
 # Malaspina — living-world estimates
 
-**Current estimate: 19/01/0069 AC43.** The current scene is the departure of six trained Agency members from Auvrienne, with the headquarters under construction. This maintenance advances no further time. Estimates are modelled returns, not newly received enumerations or audited national cash accounts.
+**Current estimate: 25/02/0069 AC43.** The current scene is Galahad supervising the headquarters site after his estate visit and woodland research. This maintenance advances no further time. Estimates are modelled returns, not newly received enumerations or audited national cash accounts.
 
 ## Revenue, receipts and money held
 
@@ -12,13 +12,13 @@ Borrowing is financing, not revenue or receipts. Liquid reserves and outstanding
 
 | Record | Basis | Current presentation |
 |---|---|---|
-| National and settlement population | Census 27/08/0067; 508 elapsed local days | All 43 disjoint geographic returns and all 970 settlements at 19/01/0069 |
-| Output and ordinary production | Capacity baseline 27/08/0067; 508 days | Current constant-price annual run-rate using the recorded national output trend |
-| Opening treasury stocks | 21/10/0067; 453 days | Estimated debt and reserves with an explicit opening-to-current financing bridge |
-| Current public budget | Existing policy and shares | Annual run-rate at 19/01/0069; separate from elapsed cash movement |
-| Military inventory and technology | Preserved capacity return plus dated Year 68 review | Explicit deliveries, repair returns and withdrawals; individual industrial changes beneath stable broad ratings |
-| Prices and wages | Year 67 reference bands | Reviewed at 19/01/0069; unchanged time indices, regional adjustments still apply |
-| Court ages and tenure | 21/10/0067 biographical return | Ranges after 453 days, because exact birthdays and anniversaries are unknown |
+| National and settlement population | Census 27/08/0067; 545 elapsed local days | All 43 disjoint geographic returns and all 970 settlements at 25/02/0069 |
+| Output and ordinary production | Capacity baseline 27/08/0067; 545 days | Current constant-price annual run-rate using the recorded national output trend |
+| Opening treasury stocks | 21/10/0067; 490 days | Estimated debt and reserves with an explicit opening-to-current financing bridge |
+| Current public budget | Existing policy and shares | Annual run-rate at 25/02/0069; separate from elapsed cash movement |
+| Military inventory and technology | Preserved capacity return plus dated Year 68 review | Explicit deliveries, repair returns and withdrawals; named capabilities and deployment states, without a universal technology rating |
+| Prices and wages | Year 67 reference bands | Reviewed at 25/02/0069; unchanged time indices, regional adjustments still apply |
+| Court ages and tenure | 21/10/0067 biographical return | Ranges after 490 days, because exact birthdays and anniversaries are unknown |
 
 `demography.json`, `world-map.json` and `national-register.json` preserve the original dated baselines. `calendar.json` supplies story time. The build derives `world-current.json` and `national-current.json` through `living_world.py`. The map, settlement descriptions, national comparisons, rankings and regional population tables all use these current estimates. The downloadable NATIONAL-REGISTER.md and SETTLEMENT-REGISTER.md use the same calculation.
 
@@ -28,7 +28,7 @@ The longer malaspina-world.txt remains an explicitly dated predeparture referenc
 
 ## Population method and reconciliation
 
-The corrected census contains **1,223,820,000** people. Current projection over **508 days** is **1,229,695,568**, an increase of **5,875,568**. Complete local years separately round births and deaths; partial periods apply the dated net trend. The historical 05/11/0068 and 12/11/0068 snapshots remain 1,228,835,572 and 1,228,916,908. The 01/01/0069 vital-rate review retains the latest gross birth/death/migration assumptions for all 43 returns, applying boundaries prospectively rather than backdating a new rate.
+The corrected census contains **1,223,820,000** people. Current projection over **545 days** is **1,230,125,829**, an increase of **6,305,829**. Complete local years separately round births and deaths; partial periods apply the dated net trend. The historical 05/11/0068 and 12/11/0068 snapshots remain 1,228,835,572 and 1,228,916,908. The 01/01/0069 vital-rate review retains the latest gross birth/death/migration assumptions for all 43 returns, applying boundaries prospectively rather than backdating a new rate.
 
 Each geographic group's current total is apportioned between its recorded settlements and remaining rural/uncharted residents in their baseline proportions. Integer largest-remainder allocation keeps every group exact. No unrecorded urbanisation, local migration boom or exceptional casualty event is invented. Settlements inherit their census group's trend; they are subsets, not additional population. Annual headcount changes are recomputed from current population rather than left at the old base.
 
@@ -46,7 +46,7 @@ Own-source public revenue and non-interest domestic spending use the same real-o
 
 ## Treasury bridge
 
-The separate 453-day interval starts at the actual opening-stock date, 21/10/0067. The preserved annual financing plan is apportioned by 453/365 to estimate borrowing, principal repayment, reserve accumulation and reserve drawdown during that interval. Opening debt plus estimated borrowing minus estimated principal payments gives current debt. Opening liquid reserves plus estimated accumulation minus drawdown gives current reserves. Each profile exposes these opening figures and flows.
+The separate 490-day interval starts at the actual opening-stock date, 21/10/0067. The preserved annual financing plan is apportioned by 490/365 to estimate borrowing, principal repayment, reserve accumulation and reserve drawdown during that interval. Opening debt plus estimated borrowing minus estimated principal payments gives current debt. Opening liquid reserves plus estimated accumulation minus drawdown gives current reserves. Each profile exposes these opening figures and flows.
 
 This intentionally simple unchanged-plan bridge does not pretend to know intra-year timing, revised appropriations or audited receipts. The forward annual budget is a separate current run-rate. Its financing plan retains the previous deficit/surplus financing mix where applicable, caps reserve drawdown and debt retirement at the available stocks, and reconciles to its budget balance. It has not already been booked into current stocks.
 
@@ -54,11 +54,11 @@ Routine national education, administration and defence envelopes already include
 
 ## Military personnel correction
 
-[Personnel reconciliation](PERSONNEL-REVIEW.md) and personnel-review.json correct the omitted 431-day staffing review for all 43 returns at 02/11. The 19/01/0069 review retains the latest dated muster estimate; no newer quantified headcount return has been established. This is explicitly a last-known estimate, not evidence that no recruitment, discharge or casualties occurred. Standing forces mean actual serving estimates, not authorised establishments; staffing ceilings remain unknown. The ledger explicitly reconciles trained entry, departures, transfers and reserve eligibility, and reassesses sustainable field capacity. Existing ordinary spending and mortality already encompass these movements. No population loss or cost is charged twice. Equipment movements remain separately reconciled. The broader [statistics audit](STATISTICS-AUDIT.md) records which other figures changed, remain reviewed assumptions, or are historical snapshots.
+[Personnel reconciliation](PERSONNEL-REVIEW.md) and personnel-review.json correct the omitted 431-day staffing review for all 43 returns at 02/11. The 25/02/0069 review retains the latest dated muster estimate; no newer quantified headcount return has been established. This is explicitly a last-known estimate, not evidence that no recruitment, discharge or casualties occurred. Standing forces mean actual serving estimates, not authorised establishments; staffing ceilings remain unknown. The ledger explicitly reconciles trained entry, departures, transfers and reserve eligibility, and reassesses sustainable field capacity. Existing ordinary spending and mortality already encompass these movements. No population loss or cost is charged twice. Equipment movements remain separately reconciled. The broader [statistics audit](STATISTICS-AUDIT.md) records which other figures changed, remain reviewed assumptions, or are historical snapshots.
 
 ## Other living records and future updates
 
-Revision 68 resolves the elapsed year in world-year68.json and WORLD-YEAR68.md: 43 individual polity reviews, eight theatre developments, local project and NPC progress, and a separately reconciled merchant receivable. The data layer applies equipment movements once from opening counts. The current conflict return preserves its prior snapshots. Traditional schools report increasing first manifestations; the private reference reconciles broad stock and flow scenarios without treating them as a public census. Ordinary national programme costs, routine attrition and local raid mortality are already within the projected budget, output and mortality envelopes. No supplementary national charge, exceptional demographic deduction or generic price multiplier is added. Current cash is 923 personal, 1,194 household and zero expedition. Dorlac’s former receivable is extinguished for goodwill. These actual accounts are separate from modelled national returns.
+Revision 68 resolves the elapsed year in world-year68.json and WORLD-YEAR68.md: 43 individual polity reviews, eight theatre developments, local project and NPC progress, and a separately reconciled merchant receivable. The data layer applies equipment movements once from opening counts. The current conflict return preserves its prior snapshots. Traditional schools report increasing first manifestations; the private reference reconciles broad stock and flow scenarios without treating them as a public census. Ordinary national programme costs, routine attrition and local raid mortality are already within the projected budget, output and mortality envelopes. No supplementary national charge, exceptional demographic deduction or generic price multiplier is added. Current cash is 549 personal, 1,678 household and zero expedition. Dorlac’s former receivable is extinguished for goodwill. These actual accounts are separate from modelled national returns.
 
 At each substantial story-time advance, regenerate every current surface from the preserved baseline and shared date. Never compound today's derived estimate onto itself. Preserve snapshots. An accepted exceptional event needs an occurrence date, affected groups and markets, and one shared event ID before adding casualties, migration, spending, infrastructure changes or price shocks. Captured and displaced people are not automatically dead. Do not charge ordinary mortality or existing warfare a second time. Newly established actual returns supersede projections through a documented reconciliation, not silent replacement.
 
@@ -69,10 +69,17 @@ Run the demographic, national, fiscal, calendar and living-world checks together
 A long time skip requires outcomes for ongoing institutions and NPC work, not merely new dates on old returns. The player has authorised retrospective Year 68 developments within existing story boundaries. These are explicitly introduced campaign decisions, not events recovered from earlier prose. world_year.py applies the ledger to the preserved national and geographic inputs; build.py derives the current conflict publication from the historical source. Existing expenditures and growth estimates encompass these ordinary programmes rather than adding them again. Material exceptional consequences need their own reconciliation. Character knowledge still depends on observation or delivery.
 
 
-## Current interval review — 19/01/0069
+## Current interval review — 25/02/0069
 
 The 11/10 expedition-year developments remain historical. All 43 polities have a separate 01/01/0069 review of household conditions, mortality, technology and demographic assumptions. These cover the short interval since their last assessment; they do not award another full year of progress. All 140 recorded ordinary human officeholders were reviewed with the preserved once-only outcomes; all continue. No new invention, life extension, general war, territorial transfer or price shock is enacted. Eight conflict classifications remain in force, without implying the absence of routine local incidents.
 
-Veyrasse's new Agency headquarters is an exceptional capital programme: **14 million authorised, 1.8 million released and 1.36 million spent** by this date. Only the **1.36 million** expense reduces consolidated national liquid reserves. Releasing money to the restricted project account is an internal transfer, not another expense; **440,000 remains public cash**. This dated capital movement is additional to the ordinary unchanged-plan treasury bridge. The ordinary annual budget run-rate is not silently raised by fourteen million; future draws and construction spending need subsequent dated returns. No new borrowing is established.
+Veyrasse's new Agency headquarters is an exceptional capital programme: **14 million authorised, 2.8 million released and 2.1 million spent** by this date. Only the **2.1 million** expense reduces consolidated national liquid reserves. Releasing money to the restricted project account is an internal transfer, not another expense; **700,000 remains public cash**. This dated capital movement is additional to the ordinary unchanged-plan treasury bridge. The ordinary annual budget run-rate is not silently raised by fourteen million; future draws and construction spending need subsequent dated returns. No new borrowing is established.
 
 The rifle workshop remains autonomous under Ordel pending Crown/military report and production instructions; no new task or personal funding from Galahad is required. Its completed pilot output, House delivery and payroll are recorded in commission-accounts.json within ordinary defence expenditure. The aviation city remains deferred. The six Order members have trained and departed homeward; the headquarters is still unfinished. These specific outcomes do not automatically change national technology, force totals or output trends.
+
+
+## Latest enacted work and outstanding returns
+
+Read VAA-REFERENCE.md and vaa-accounts.json. Six trained members departed homeward on 19/01; individual return confirmations have not yet been narrated and must be resolved against travel time before another substantial skip, not left indefinitely in transit. Study and discreet infiltration remain their remit. Opening expenditure is 1,460 against the original 6,000; its three-month period has elapsed and the remaining 4,540 is not a newly renewed operating allocation. Capital is separate: 14 million authorised, 2.8 million released, 2.1 million spent, 700,000 restricted cash. Telephone operational 04/02; headquarters still under construction, due 19/11/0069. Forecast savings are 180,000 avoided future cost, with 120,000 reassigned to training provision and 60,000 extra forecast headroom; these are not cash receipts. Roughly two weeks of working float, not a changed deadline. Carrier research and aviation-city construction remain deferred.
+
+Estate sword retained on the study wall; private woodland research is documented in PHYSIOLOGY-REFERENCE.md. Personal 549; household 1,678. The rifle pilot costs remain a dated 19/01 return, with subsequent Crown payroll separately estimated at 1,260. Corva and Veskan’s investment review remains explicitly unresolved; maintenance has not invented a backdated purchase. The annual 01/01 review remains preserved; no second annual mortality roll or full-year increment is applied.

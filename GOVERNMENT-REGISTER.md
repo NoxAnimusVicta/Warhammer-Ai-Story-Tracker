@@ -52,7 +52,7 @@ Odrienne Orcemont remains a competent but unequal and possessive patron. Maurell
 Each person entry includes mortality_review with period_days, age_range, baseline_percent (the calculated historical band), annual_probability, period_probability, health_and_exposure_basis and resolution_basis. The age range must describe the review period, and local lifespan/health conditions must inform the choice. Very large reductions require a recorded longevity_exception: type, event_id and effect. Only Hunter intervention, a psychic feat, invented longevity treatment or acquired xenos treatment qualify. No event is implied by a placeholder. Ordinary clinical care and privilege can improve outcomes without conferring agelessness. National life expectancy is recalculated from annually reviewed household/health conditions; it is never used as a compulsory death age.
 
 
-## Current register — 19/01/0069 AC43
+## Current register — 25/02/0069 AC43
 
 ## Veldrassen
 
