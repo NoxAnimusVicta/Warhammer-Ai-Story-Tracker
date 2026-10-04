@@ -3323,7 +3323,7 @@ These are dated initial assessments, with uncertainty retained. No imported mach
 
 | Conventional arms repair | Established practice | Practical working knowledge | Local practice and repair | Established in relevant communities; coverage unmeasured | Initial inference from preserved industrial return; exact capability survey pending |
 
-| Conventional arsenal production | Established in the record | Practical working knowledge; full theory unverified | Auvrienne 762 pilot manufacture completed; trained workshop, not nationwide deployment | 160 issued to trial company; 27 military reserve; not a general service rollout | ROYAL-COMMISSION.md: 195 finished rifles; 187 military, five House, three development. Field evaluation active. |
+| Conventional arsenal production | Established in the record | Practical working knowledge; full theory unverified | Auvrienne 762 pilot manufacture completed; trained workshop, not nationwide deployment | 160 issued to trial company; 27 military reserve; not a general service rollout | Completed pilot: 195 finished rifles, including 187 military, five House and three development. Seven company instruction days concluded 11/11/0068; the report was accepted on 12/11. No hostile demonstration occurred. The autonomous workshop awaits Crown production orders; no further batch is recorded. |
 
 | Armoured-vehicle production | Not independently documented | Not independently documented | Not established by this return | No rollout recorded | Initial inference from preserved industrial return; exact capability survey pending |
 

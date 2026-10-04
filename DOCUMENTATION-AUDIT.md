@@ -1,4 +1,4 @@
-# Documentation audit — revision 79
+# Documentation audit — revision 80
 
 Checkpoint: **25/02/0069 AC43, afternoon at the VAA construction site.** No additional story time advances during maintenance.
 
@@ -24,6 +24,18 @@ Documents changed were read in full before editing. Exact transcript history, pr
 
 Release checks and publication evidence are recorded after execution. Private narrator checkpoints and source packages remain excluded from the public upload. No physical-phone verification is claimed.
 
-## Completed local verification
+## Revision 79 verification — historical, insufficient content coverage
 
 All 22 release suites passed, including narrative preservation, accounts, demographic and annual coverage, government succession rules, technology records, fiscal reconciliation, transport geometry, app content, disclosure controls, publication recovery and viewer interactions. Rebuilding at this same date produced identical output. After the connection was restored, all six tabs were checked at desktop and phone viewport widths (1440 and 430 pixels), with no page-level horizontal overflow. The 44 prepared public files were uploaded through signed-in GitHub. Deployment and live-file hash verification are tracked separately in the private publication receipt; local tests alone do not establish live deployment.
+
+## Revision 80 — rendered-content repair
+
+The preceding checks did not establish complete rendered coverage. An incomplete heading whitelist caused newer estate and research paragraphs to inherit an omitted section and disappear. Agency notes also inherited Major Vauzel’s heading. These were presentation defects despite correct newer information elsewhere in the files.
+
+The renderer now recognises labelled paragraphs without a fixed whitelist. Broad mind sensing, woodland destruction/living repair, construction optimisation, official chambers and study/clothing updates have their intended app homes. The family summary includes the January visit and additional 500 contribution; the Order summary reflects completed instruction and homeward departure. Agency oversight is no longer inside Vauzel’s entry. The mounted sword and mature toxin-resistance wording are current.
+
+The Agency panel contains all six members, assessed abilities, assignments, arrival history, operating-account status and headquarters scope. The carrier panel contains the deferred scale, capacity, lift problem, city costs, output ambitions and separate research/construction schedules. The commission includes the dated corridor equipment and reinforcement appreciation. National returns explain their calculations inline, display personnel movements and technological ages, and no longer instruct the reader to locate raw filenames for the answer. Supporting links remain.
+
+The source records, complete historical journal and exact transcript are retained. Duplicate court age ranges have one generated home in the national leadership panel. No additional elapsed time, new event, invented investment, fresh ammunition count, technology unlock or mortality roll is introduced. Unresolved investment reporting, member arrival confirmations and operating-authority renewal remain explicitly unresolved; this maintenance pass does not manufacture their outcomes.
+
+The 22 existing release suites and the new record-section regression check pass. Rebuilding is repeatable. All 43 national profiles were inspected for complete sections, malformed values and raw document-name deferrals. All six tabs were checked at 430- and 1440-pixel viewport widths without page-level horizontal overflow; repaired research and Agency layouts were visually inspected. This is browser viewport testing, not a physical iPhone test. Publication and live hashes are recorded separately. These checks do not establish that every possible narrative issue has been eliminated.
