@@ -63,6 +63,11 @@ The predeparture age estimate was about two years and three months on 21/10/0067
 
 `calendar.json.age_tracking` records this distinction and dates the age review. Before advancing the story date, reassess the estimate from recorded intervals; do not silently freeze age or turn a rounded checkpoint into an exact birth date.
 
-Census **1,223,820,000** on 27/08/0067 remains unchanged. The **545-day projection is 1,230,125,829**, from separately rounded group trends, not a new enumeration. Earlier projections remain historical snapshots. Price bands retain their Year 67 basis with 01/01/0069 annual review, current review and specific invoices. All national and settlement projections share 25/02/0069 AC43. Population/production use 545 days; treasury estimates use **490 days** from 21/10/0067. The 11/10 Year 68 background review is preserved, with a separately dated post-return assessment and commission record. See LIVING-WORLD-REFERENCE.md.
+Census **1,223,820,000** on 27/08/0067 remains unchanged. The public annual return is **01/01/0069 AC43**, 490 days after census: **1,229,486,253**. Treasury stocks use the separate **435-day** interval from 21/10/0067. The former February projection is retained as history, not shown as the annual return. All 43 nations and 970 settlements share this cutoff. Personal accounts, age and project events continue to the live 25/02 scene. Price indices were reviewed at the annual tick and retain their reference bands; actual dated invoices remain valid. Year 68 developments stay untouched; completed Year 69 developments are published at 01/01/0070.
 
 Record occurrence dates, report dates and forecast periods separately. Advance living records only with story time or established events, preserve prior snapshots and apply payments and growth once. Editorial dates are not story dates. `calendar.json` is the shared date reference.
+
+
+## Annual world-return policy — revision 81
+
+Public world statistics use 01/01/0069 AC43 as the opening-year snapshot. Update the complete world return once at each 01/01, reporting completed prior-year developments. Preserve Year 68 developments unchanged. Population, military personnel/equipment, output, budgets, treasury stocks, household conditions, prices, lifespans, leadership and technology must all be reviewed together. Later enacted local and personal records retain their own dates; do not rewind the story or reveal uncompleted annual outcomes. At 01/01/0070 reconcile actual Year 69 outcomes and publish the next return.

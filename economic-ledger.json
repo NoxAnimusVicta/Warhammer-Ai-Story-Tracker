@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 79,
+  "revision": 81,
   "baseline": {
     "label": "Year 67 AC43 \u2014 21/10/0067 AC43",
     "scene": "Auvrienne Collegium, evening before departure",
@@ -102,5 +102,7 @@
       ],
       "finding": "Regional/category bands retained; no broad price shock enacted. Bespoke clothing 24 and all construction/household movements recorded in actual ledgers. Forecast avoided construction costs are not a negative price index or cash refund."
     }
-  ]
+  ],
+  "annual_snapshot_date": "01/01/0069 AC43",
+  "annual_snapshot_basis": "All seven category indices reviewed and retained at 1.00 for the opening-year return, with established regional, seasonal and quality modifiers. Later dated invoices and reviews do not reprice this snapshot or past transactions."
 }

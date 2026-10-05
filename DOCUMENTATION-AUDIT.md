@@ -1,4 +1,4 @@
-# Documentation audit — revision 80
+# Documentation audit — revision 81
 
 Checkpoint: **25/02/0069 AC43, afternoon at the VAA construction site.** No additional story time advances during maintenance.
 
@@ -12,7 +12,7 @@ The pilot rifle budget remains a dated 19/01 return, not a perpetually current p
 
 ## Annual and periodic records
 
-The existing 01/01/0069 reviews of all 43 societies and 140 officeholders are preserved, without a second mortality roll or full-year increment. Population is projected over 545 days from census to **1,230,125,829**, across all 970 settlement subsets and 43 disjoint groups. Treasury estimates cover their separate 490-day interval. Current forecasts, evidence dates and last-known muster returns remain distinct. No unsupported new technology, general war or price shock is added.
+The existing 01/01/0069 reviews of all 43 societies and 140 officeholders are preserved, without a second mortality roll or full-year increment. The annual population return is projected over 490 days from census to **1,229,486,253**, dated 01/01/0069, across all 970 settlement subsets and 43 disjoint groups. Treasury estimates cover their separate 435-day interval. The January capital deduction is an explicitly uncertain 889,000 estimate; February actual accounts are unchanged. All 43 military returns include reconciled personnel and equipment movements to the annual cutoff. Evidence dates and later actual local reports remain distinct. No unsupported new technology, general war or price shock is added.
 
 ## Explicit unresolved continuity
 
@@ -39,3 +39,9 @@ The Agency panel contains all six members, assessed abilities, assignments, arri
 The source records, complete historical journal and exact transcript are retained. Duplicate court age ranges have one generated home in the national leadership panel. No additional elapsed time, new event, invented investment, fresh ammunition count, technology unlock or mortality roll is introduced. Unresolved investment reporting, member arrival confirmations and operating-authority renewal remain explicitly unresolved; this maintenance pass does not manufacture their outcomes.
 
 The 22 existing release suites and the new record-section regression check pass. Rebuilding is repeatable. All 43 national profiles were inspected for complete sections, malformed values and raw document-name deferrals. All six tabs were checked at 430- and 1440-pixel viewport widths without page-level horizontal overflow; repaired research and Agency layouts were visually inspected. This is browser viewport testing, not a physical iPhone test. Publication and live hashes are recorded separately. These checks do not establish that every possible narrative issue has been eliminated.
+
+## Revision 81 — annual statistical cutoff
+
+World statistics now share the opening-year cutoff 01/01/0069 AC43. The live scene and actual personal, household and construction ledgers remain at their enacted dates. All 43 national and 970 settlement population estimates reconcile; military flows reconcile from the preserved preceding returns. Existing annual reviews of households, vital rates, lifespans, leadership, prices and technology are retained, rather than rolled or compounded twice. Year 68 source developments are preserved unchanged. Year 69 completed developments are not published before 01/01/0070. Verification and deployment receipts are recorded separately after execution.
+
+Revision 81 verification: all 24 suites passed, including annual-cutoff conservation and private-plan exclusion, with identical output on a repeated build. All 43 rendered national profiles have their eight expected sections, the January date and no malformed values. Browser-width checks cover the changed annual and military presentation; physical-phone testing is not claimed. Live publication is verified separately against file hashes.

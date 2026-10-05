@@ -1,6 +1,6 @@
 The app now groups commission work under Research, completed expedition and pod history under Chronicle, and household context beside the estate. [Organisation audit](APP-AUDIT.md) records the changes; [retained source records](APP-RECORD-REFERENCE.md) preserve consolidated prose. All 43 national/territorial profiles include [living standards and public sentiment](SOCIAL-CONDITIONS.md), household-budget estimates, evidence ranges and everyday-life descriptions. Their inputs and common formulas are recorded in the linked reference.
 
-The **Research** tab brings the existing research record together with collapsible guidance on cumulative discoveries, development stages and Hunter plasma adaptations. [Full narrator reference](RESEARCH-PROGRESSION.md). Revision 79 reconciles the app through the estate visit, woodland research and construction supervision ending 25/02/0069.
+The **Research** tab brings the existing research record together with collapsible guidance on cumulative discoveries, development stages and Hunter plasma adaptations. [Full narrator reference](RESEARCH-PROGRESSION.md). Revision 81 reconciles the app through the estate visit, woodland research and construction supervision ending 25/02/0069.
 
 Published overview date: **25/02/0069 AC43** (day/month/year after Culling 43). See [the calendar](CALENDAR-REFERENCE.md).
 
@@ -26,7 +26,7 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the last major culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition — revision 79
+## Current edition — revision 81
 
 **25/02/0069 AC43, VAA construction site near Auvrienne.** Galahad is Royal Advisor and founding Director of the VAA. His advisory instrument is signed and delivered, with departmental notices issued. All six Order members arrived and trained; they have now departed for their home societies, without assuming instant arrival. [Agency record](VAA-REFERENCE.md) preserves names, arrival dates, individual abilities, assignments and knowledge boundaries.
 
@@ -38,13 +38,13 @@ Personal **549**; household **1,678**, including 148 reserved. Commission pay re
 
 Galahad is approximately **three local years and seven months**. At planetfall he was about one month old but appeared five to six; exact birthday is unknown. Mature height remains about three metres. [Age tracking](CALENDAR-REFERENCE.md#chronological-age-and-physical-development).
 
-The annual review covers all 43 polities and 140 recorded officeholders; the original outcomes are preserved. Population and national estimates advance over the actual elapsed interval, with no extra full year of growth. [Audit](DOCUMENTATION-AUDIT.md) and [methods](LIVING-WORLD-REFERENCE.md).
+The annual review covers all 43 polities and 140 recorded officeholders; the original outcomes are preserved. Public world figures use the 01/01/0069 annual snapshot; the next statistical tick and completed Year 69 review are due 01/01/0070. Live character and project records remain dated 25/02. [Audit](DOCUMENTATION-AUDIT.md) and [methods](LIVING-WORLD-REFERENCE.md).
 
 The [completed expedition](EXPEDITION-RETURN.md) remains a 355-day journey with ten reserve days unused, forty recurring correspondents, six Order practitioners and two recovered collections. Its 14,500 operating fund is closed; full institutional expense was 15,820 including separate payroll. Historical itinerary and transaction records are preserved. [Drossane follow-up](DROSSANE-INCIDENT.md) retains knowledge boundaries and the limited corroboration of the cell.
 
 [Economic reference](ECONOMIC-REFERENCE.md) dates wages and prices to the Year 67 AC43 baseline, reviewed on the current story date, with regional variation and recorded event-driven changes. [Monumental architecture](ARCHITECTURE-REFERENCE.md) records Galahad’s unbuilt national-wonder designs and current-price estimates. [Estate accounts](ESTATE-ACCOUNTS.md) separates paid expenses, allocations and projected returns.
 
-Ceralte now includes Bellavara and Montelisse, with sea connections to Dalmor. The atlas contains 970 settlements and 2,210 routes, with 134 sea passages connecting 72 harbours. [Ten outer island regions](ISLAND-CHAINS.md) add seven self-governing societies and three colonial administrations across 63 previously unassigned islands. The two Ceralte additions remain within its existing census. The outer chains correct earlier omitted coverage. The current 545-day full-coverage estimate is 1,230,125,829 on 25/02/0069 AC43; earlier estimates remain historical.
+Ceralte now includes Bellavara and Montelisse, with sea connections to Dalmor. The atlas contains 970 settlements and 2,210 routes, with 134 sea passages connecting 72 harbours. [Ten outer island regions](ISLAND-CHAINS.md) add seven self-governing societies and three colonial administrations across 63 previously unassigned islands. The two Ceralte additions remain within its existing census. The outer chains correct earlier omitted coverage. The annual 490-day full-coverage estimate is 1,229,486,253 on 01/01/0069 AC43; earlier projections remain historical.
 
 Galahad reached bodily maturity during the expedition at approximately 3 metres. He is now about three years and seven months old, with a short white beard. The departure artwork remains his clothing reference; the formal leadership portrait remains a future reference.
 
@@ -86,3 +86,8 @@ The presentation now uses consistent record spacing, nested disclosures and subj
 Read VAA-REFERENCE.md and vaa-accounts.json. Six trained members departed homeward on 19/01; individual return confirmations have not yet been narrated and must be resolved against travel time before another substantial skip, not left indefinitely in transit. Study and discreet infiltration remain their remit. Opening expenditure is 1,460 against the original 6,000; its three-month period has elapsed and the remaining 4,540 is not a newly renewed operating allocation. Capital is separate: 14 million authorised, 2.8 million released, 2.1 million spent, 700,000 restricted cash. Telephone operational 04/02; headquarters still under construction, due 19/11/0069. Forecast savings are 180,000 avoided future cost, with 120,000 reassigned to training provision and 60,000 extra forecast headroom; these are not cash receipts. Roughly two weeks of working float, not a changed deadline. Carrier research and aviation-city construction remain deferred.
 
 Estate sword retained on the study wall; private woodland research is documented in PHYSIOLOGY-REFERENCE.md. Personal 549; household 1,678. The rifle pilot costs remain a dated 19/01 return, with subsequent Crown payroll separately estimated at 1,260. Corva and Veskan’s investment review remains explicitly unresolved; maintenance has not invented a backdated purchase. The annual 01/01 review remains preserved; no second annual mortality roll or full-year increment is applied.
+
+
+## Annual world-return policy — revision 81
+
+Public world statistics use 01/01/0069 AC43 as the opening-year snapshot. Update the complete world return once at each 01/01, reporting completed prior-year developments. Preserve Year 68 developments unchanged. Population, military personnel/equipment, output, budgets, treasury stocks, household conditions, prices, lifespans, leadership and technology must all be reviewed together. Later enacted local and personal records retain their own dates; do not rewind the story or reveal uncompleted annual outcomes. At 01/01/0070 reconcile actual Year 69 outcomes and publish the next return.

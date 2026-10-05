@@ -1,18 +1,18 @@
-# Statistical audit — revision 79
+# Statistical audit — revision 81
 
-**Current date: 25/02/0069 AC43.** Population and national projections cover 545 days since census; the treasury bridge covers 490 days since its opening return. The 01/01/0069 review covers all 43 societies and all 140 ordinary human officeholders. Existing annual survival resolutions are retained, not rerolled.
+**Current date: 25/02/0069 AC43.** Annual world statistics are frozen at 01/01/0069: 490 days since census and 435 days since the treasury opening. The live story remains 25/02. The 01/01/0069 review covers all 43 societies and all 140 ordinary human officeholders. Existing annual survival resolutions are retained, not rerolled.
 
 | Record | Current treatment |
 |---|---|
-| Population | 1,230,125,829 across 43 disjoint groups and 970 settlement subsets. Dated vital-rate boundaries apply prospectively. No double-counted military deaths. |
+| Population | 1,229,486,253 across 43 disjoint groups and 970 settlement subsets. Dated vital-rate boundaries apply prospectively. No double-counted military deaths. |
 | Household living conditions | Full annual review of incomes, essential costs, employment, distribution, public confidence, protection and unrest; retained short-interval assumptions are explicit, not a second full year of growth. |
 | Lifespans and leadership | National mortality inputs reviewed; 140 officeholders continue. Age ranges use unknown birthdays and actual elapsed time. No life extension. |
 | Technology | Named capabilities, prerequisites and deployment states; annual review retains established capabilities without automatic inventions. Research and physical delivery remain distinct. |
 | Output and supply | Constant-price projections; steel, food and fuel follow the stated sector-share model, not invented factories. Coverage and per-person figures recalculate. |
-| Fiscal | Current annual run-rate and separate stock bridge. Veyrasse's 2.1-million actual Agency capital expense reduces reserves once; 2.8-million release is not a second expense and the undrawn ceiling is not expenditure. |
+| Fiscal | Current annual run-rate and separate stock bridge. Opening-year capital expense is estimated at 0.889 million with explicit uncertainty; February actual accounts remain separately recorded and are not backdated into January. |
 | Prices | Year 67 reference bands retained at 01/01 and 25/02 reviews; actual dated invoices take precedence. No automatic inflation. |
-| Personnel | The 02/11/0068 reconciled muster remains the latest quantified estimate. No newer gross movement return has been established; current display must retain that observation date. Population shares update, but a modelled population rise does not create soldiers. |
-| Equipment | Established dated deliveries, repairs and withdrawals apply once. No additional rifle batch or national equipment increase follows from the Agency time skip. |
+| Personnel | 43 reconciled annual returns at 01/01, including the 59-day bridge after 02/11. Entries, exits and reserve transfers count once. |
+| Equipment | 80-day continuation after the historical Year 68 review, with delivery/repair and withdrawal flows, including balanced maintenance where no net expansion is supported. No new weapon type or rifle batch. |
 | Conflict | Eight theatres reviewed; no new general war, territorial transfer or exceptional casualty event. Routine incidents remain possible. |
 | Psychic population | Existing broad scenarios remain estimates, not a census. Six Agency members are already within the world's practitioners, not six newly manifested people added again. |
 | Personal and household | 549 and 1,678; the latter includes 148 reserved. Period receipts and expenses reconcile once. |

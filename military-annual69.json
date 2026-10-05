@@ -1,0 +1,2461 @@
+{
+  "schema": 1,
+  "date": "01/01/0069 AC43",
+  "personnel_opening_date": "02/11/0068 AC43",
+  "equipment_opening_date": "11/10/0068 AC43",
+  "method": "Campaign planning estimates, not recovered musters. Personnel gross flows continue each jurisdiction’s previously documented 431-day average for the remaining 59 days; they are not population multipliers. Equipment programmes continue their own recorded delivery/repair and withdrawal rates for 80 days. Categories without a net programme receive balanced maintenance turnover (annual aircraft 8%, armour 4%, artillery 2.5%, fleet tonnage 1.5%). Fleet figures are serviceable tonnes, not invented new ship counts. Field capacity retains its constrained share of serving strength. These are explicit neutral carry-forward assumptions with the prior approximately 15% personnel uncertainty, wider for fragmented returns. New events replace assumptions, rather than adding duplicate flows.",
+  "accounting": "Ordinary turnover, maintenance and procurement remain within existing national budget envelopes and demographic mortality. Other departures are not all deaths. No general mobilisation, new invasion, exceptional casualty event, technology unlock or new rifle batch is invented. Historical Year 68 development files and prior returns remain untouched.",
+  "profiles": [
+    {
+      "id": "veldrassen",
+      "name": "Veldrassen",
+      "reason": "Provincial replacement intakes slightly exceed departures; depot coordination supports a modest increase without unifying provincial commands. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Provincial consent slows concentration; major arsenals and railway junctions remain irreplaceable targets.",
+      "standing": {
+        "opening": 1754000,
+        "new_entries": 20700,
+        "reserve_to_active": 0,
+        "to_reserve": 13100,
+        "other_departures": 6000,
+        "closing": 1755600
+      },
+      "additional_reserves": {
+        "opening": 5047000,
+        "direct_training": 10300,
+        "eligibility_losses": 20400,
+        "closing": 5050000
+      },
+      "field": {
+        "previous_review": 598000,
+        "closing": 598500,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 4600,
+          "accepted_or_restored": 31,
+          "withdrawn_or_lost": 21,
+          "closing": 4610,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "serviceable_aircraft": {
+          "opening": 3420,
+          "accepted_or_restored": 25,
+          "withdrawn_or_lost": 18,
+          "closing": 3427,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "serviceable_artillery": {
+          "opening": 9090,
+          "accepted_or_restored": 47,
+          "withdrawn_or_lost": 35,
+          "closing": 9102,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 1405000,
+          "accepted_or_restored": 4619,
+          "withdrawn_or_lost": 4619,
+          "closing": 1405000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "ostrevain",
+      "name": "Ostrevain",
+      "reason": "Replacement recruitment modestly exceeds discharge; transport shortages constrain how many additional personnel can deploy. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Mass manpower outstrips motor transport; imported precision machinery constrains arsenal expansion.",
+      "standing": {
+        "opening": 1523000,
+        "new_entries": 17700,
+        "reserve_to_active": 0,
+        "to_reserve": 11400,
+        "other_departures": 5200,
+        "closing": 1524100
+      },
+      "additional_reserves": {
+        "opening": 3899000,
+        "direct_training": 8000,
+        "eligibility_losses": 16900,
+        "closing": 3901500
+      },
+      "field": {
+        "previous_review": 486000,
+        "closing": 486400,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 4185,
+          "accepted_or_restored": 19,
+          "withdrawn_or_lost": 16,
+          "closing": 4188,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "serviceable_aircraft": {
+          "opening": 1550,
+          "accepted_or_restored": 27,
+          "withdrawn_or_lost": 27,
+          "closing": 1550,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 7200,
+          "accepted_or_restored": 27,
+          "withdrawn_or_lost": 20,
+          "closing": 7207,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 257000,
+          "accepted_or_restored": 845,
+          "withdrawn_or_lost": 845,
+          "closing": 257000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "rovessara",
+      "name": "Rovessara",
+      "reason": "Naval and technical intakes support escort replacement and yard rotations; commercial labour competition restrains expansion. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Trade interruption threatens fuel and food imports; its skilled workforce is difficult to replace.",
+      "standing": {
+        "opening": 491500,
+        "new_entries": 6000,
+        "reserve_to_active": 0,
+        "to_reserve": 3700,
+        "other_departures": 1700,
+        "closing": 492100
+      },
+      "additional_reserves": {
+        "opening": 1554000,
+        "direct_training": 3200,
+        "eligibility_losses": 5700,
+        "closing": 1555200
+      },
+      "field": {
+        "previous_review": 158000,
+        "closing": 158200,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 1830,
+          "accepted_or_restored": 16,
+          "withdrawn_or_lost": 16,
+          "closing": 1830,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 1150,
+          "accepted_or_restored": 11,
+          "withdrawn_or_lost": 7,
+          "closing": 1154,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "serviceable_artillery": {
+          "opening": 2310,
+          "accepted_or_restored": 13,
+          "withdrawn_or_lost": 13,
+          "closing": 2310,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 520500,
+          "accepted_or_restored": 1268,
+          "withdrawn_or_lost": 780,
+          "closing": 520988,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "brannervaux",
+      "name": "Brannervaux",
+      "reason": "Routine discharge slightly exceeds replacement intake; the water compact improves predictability without enlarging the federal army. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Water allocation and estate vetoes complicate mobilisation; river freight is sensitive to damaged locks.",
+      "standing": {
+        "opening": 359500,
+        "new_entries": 3800,
+        "reserve_to_active": 0,
+        "to_reserve": 2700,
+        "other_departures": 1200,
+        "closing": 359400
+      },
+      "additional_reserves": {
+        "opening": 1016500,
+        "direct_training": 2100,
+        "eligibility_losses": 4200,
+        "closing": 1017100
+      },
+      "field": {
+        "previous_review": 94000,
+        "closing": 94000,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 430,
+          "accepted_or_restored": 4,
+          "withdrawn_or_lost": 4,
+          "closing": 430,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 380,
+          "accepted_or_restored": 7,
+          "withdrawn_or_lost": 7,
+          "closing": 380,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 1960,
+          "accepted_or_restored": 11,
+          "withdrawn_or_lost": 11,
+          "closing": 1960,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 12000,
+          "accepted_or_restored": 39,
+          "withdrawn_or_lost": 39,
+          "closing": 12000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "cervaud",
+      "name": "Cervaud",
+      "reason": "Shorter reserve rotations and harvest labour needs reduce active commitments while returning trained people to the reserve. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Arms and credit depend on competing patrons; prolonged mobilisation drains agricultural labour.",
+      "standing": {
+        "opening": 443500,
+        "new_entries": 4300,
+        "reserve_to_active": 0,
+        "to_reserve": 3400,
+        "other_departures": 1500,
+        "closing": 442900
+      },
+      "additional_reserves": {
+        "opening": 1010500,
+        "direct_training": 2100,
+        "eligibility_losses": 4400,
+        "closing": 1011600
+      },
+      "field": {
+        "previous_review": 173500,
+        "closing": 173300,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 420,
+          "accepted_or_restored": 4,
+          "withdrawn_or_lost": 4,
+          "closing": 420,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 310,
+          "accepted_or_restored": 5,
+          "withdrawn_or_lost": 5,
+          "closing": 310,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 2380,
+          "accepted_or_restored": 13,
+          "withdrawn_or_lost": 13,
+          "closing": 2380,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 0,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 0,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "veylac",
+      "name": "Veylac",
+      "reason": "Disruption after the recorded Hunter strike slows replacement training and eligibility retention; the reduction includes departures, not just deaths. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Exposed frontier factories and food imports limit a long war despite excellent machine-tool output.",
+      "standing": {
+        "opening": 325500,
+        "new_entries": 4200,
+        "reserve_to_active": 0,
+        "to_reserve": 2700,
+        "other_departures": 2000,
+        "closing": 325000
+      },
+      "additional_reserves": {
+        "opening": 790500,
+        "direct_training": 1600,
+        "eligibility_losses": 4700,
+        "closing": 790100
+      },
+      "field": {
+        "previous_review": 113500,
+        "closing": 113300,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 1575,
+          "accepted_or_restored": 9,
+          "withdrawn_or_lost": 12,
+          "closing": 1572,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "serviceable_aircraft": {
+          "opening": 606,
+          "accepted_or_restored": 5,
+          "withdrawn_or_lost": 6,
+          "closing": 605,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "serviceable_artillery": {
+          "opening": 1640,
+          "accepted_or_restored": 9,
+          "withdrawn_or_lost": 9,
+          "closing": 1640,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 72000,
+          "accepted_or_restored": 237,
+          "withdrawn_or_lost": 237,
+          "closing": 72000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "ossavren",
+      "name": "Ossavren successor territories",
+      "reason": "Fragmented recruitment and retention fail to replace all departures during internal fighting. The existing 445,000 logistical field ceiling remains controlling. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Combined rival returns; no common treasury, staff or army. Rail gauges, tolls and civil fighting fragment capacity.",
+      "standing": {
+        "opening": 1976000,
+        "new_entries": 25700,
+        "reserve_to_active": 0,
+        "to_reserve": 16400,
+        "other_departures": 12300,
+        "closing": 1973000
+      },
+      "additional_reserves": {
+        "opening": 4521000,
+        "direct_training": 9300,
+        "eligibility_losses": 28200,
+        "closing": 4518500
+      },
+      "field": {
+        "previous_review": 445000,
+        "closing": 444300,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 5230,
+          "accepted_or_restored": 23,
+          "withdrawn_or_lost": 51,
+          "closing": 5202,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "serviceable_aircraft": {
+          "opening": 2140,
+          "accepted_or_restored": 14,
+          "withdrawn_or_lost": 23,
+          "closing": 2131,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "serviceable_artillery": {
+          "opening": 10180,
+          "accepted_or_restored": 35,
+          "withdrawn_or_lost": 59,
+          "closing": 10156,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 357000,
+          "accepted_or_restored": 1174,
+          "withdrawn_or_lost": 1174,
+          "closing": 357000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "rovengard",
+      "name": "Rovengard",
+      "reason": "Seasonal discharge slightly exceeds replacement intake; fixed valley commitments absorb the restored vehicle capacity. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Winter supply and dispersed valley garrisons consume most available transport.",
+      "standing": {
+        "opening": 241800,
+        "new_entries": 2500,
+        "reserve_to_active": 0,
+        "to_reserve": 1800,
+        "other_departures": 800,
+        "closing": 241700
+      },
+      "additional_reserves": {
+        "opening": 714500,
+        "direct_training": 1500,
+        "eligibility_losses": 3000,
+        "closing": 714800
+      },
+      "field": {
+        "previous_review": 58000,
+        "closing": 58000,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 304,
+          "accepted_or_restored": 3,
+          "withdrawn_or_lost": 2,
+          "closing": 305,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "serviceable_aircraft": {
+          "opening": 150,
+          "accepted_or_restored": 3,
+          "withdrawn_or_lost": 3,
+          "closing": 150,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 1310,
+          "accepted_or_restored": 7,
+          "withdrawn_or_lost": 7,
+          "closing": 1310,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 69000,
+          "accepted_or_restored": 227,
+          "withdrawn_or_lost": 227,
+          "closing": 69000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "varnesk",
+      "name": "Varnesk",
+      "reason": "Specialist replacement training and completed maintenance support small gains while imported grain constrains expansion. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Specialist foundries are strong; grain imports and seasonal routes make an extended blockade dangerous.",
+      "standing": {
+        "opening": 183900,
+        "new_entries": 2100,
+        "reserve_to_active": 0,
+        "to_reserve": 1400,
+        "other_departures": 600,
+        "closing": 184000
+      },
+      "additional_reserves": {
+        "opening": 518800,
+        "direct_training": 1100,
+        "eligibility_losses": 2200,
+        "closing": 519100
+      },
+      "field": {
+        "previous_review": 49500,
+        "closing": 49500,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 500,
+          "accepted_or_restored": 4,
+          "withdrawn_or_lost": 4,
+          "closing": 500,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 200,
+          "accepted_or_restored": 4,
+          "withdrawn_or_lost": 4,
+          "closing": 200,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 898,
+          "accepted_or_restored": 6,
+          "withdrawn_or_lost": 5,
+          "closing": 899,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 45000,
+          "accepted_or_restored": 148,
+          "withdrawn_or_lost": 148,
+          "closing": 45000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "galdresk",
+      "name": "Galdresk",
+      "reason": "Medical and support training improves retention and replacement capacity without creating a new mass army. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Small arsenals and scattered teaching houses constrain scale; trained wardens excel locally rather than in mass campaigns.",
+      "standing": {
+        "opening": 112600,
+        "new_entries": 1300,
+        "reserve_to_active": 0,
+        "to_reserve": 800,
+        "other_departures": 400,
+        "closing": 112700
+      },
+      "additional_reserves": {
+        "opening": 254500,
+        "direct_training": 500,
+        "eligibility_losses": 1200,
+        "closing": 254600
+      },
+      "field": {
+        "previous_review": 29300,
+        "closing": 29300,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 130,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 130,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 70,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 70,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 610,
+          "accepted_or_restored": 3,
+          "withdrawn_or_lost": 3,
+          "closing": 610,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 0,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 0,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "halskert",
+      "name": "Halskert",
+      "reason": "Replacement militia cycles broadly maintain strength; slight active contraction accompanies reserve accumulation. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Seasonal navigation and dependence on imported fuels limit sustained operations away from rivers.",
+      "standing": {
+        "opening": 129400,
+        "new_entries": 1300,
+        "reserve_to_active": 0,
+        "to_reserve": 1000,
+        "other_departures": 400,
+        "closing": 129300
+      },
+      "additional_reserves": {
+        "opening": 414700,
+        "direct_training": 800,
+        "eligibility_losses": 1600,
+        "closing": 414900
+      },
+      "field": {
+        "previous_review": 32000,
+        "closing": 32000,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 140,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 140,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 70,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 70,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 710,
+          "accepted_or_restored": 4,
+          "withdrawn_or_lost": 4,
+          "closing": 710,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 5000,
+          "accepted_or_restored": 16,
+          "withdrawn_or_lost": 16,
+          "closing": 5000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "tervayne",
+      "name": "Tervayne",
+      "reason": "Naval training rotations and replacement marine machinery support a modest increase in staffed and supportable forces. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Sea lanes carry its power; inland movement is slow and there is no through railway to eastern Vesalius.",
+      "standing": {
+        "opening": 261300,
+        "new_entries": 3100,
+        "reserve_to_active": 0,
+        "to_reserve": 1900,
+        "other_departures": 900,
+        "closing": 261600
+      },
+      "additional_reserves": {
+        "opening": 765200,
+        "direct_training": 1600,
+        "eligibility_losses": 3100,
+        "closing": 765600
+      },
+      "field": {
+        "previous_review": 76200,
+        "closing": 76300,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 720,
+          "accepted_or_restored": 6,
+          "withdrawn_or_lost": 6,
+          "closing": 720,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 415,
+          "accepted_or_restored": 4,
+          "withdrawn_or_lost": 3,
+          "closing": 416,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "serviceable_artillery": {
+          "opening": 1280,
+          "accepted_or_restored": 7,
+          "withdrawn_or_lost": 7,
+          "closing": 1280,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 328500,
+          "accepted_or_restored": 976,
+          "withdrawn_or_lost": 683,
+          "closing": 328793,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "vardol",
+      "name": "Vardol",
+      "reason": "Regular intake maintains reinforced frontier commitments; no general mobilisation is assumed from the exercise. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: The Averholt frontier and northern garrisons tie down formations; large armies cannot simply redeploy to the Marches.",
+      "standing": {
+        "opening": 816500,
+        "new_entries": 9800,
+        "reserve_to_active": 0,
+        "to_reserve": 6100,
+        "other_departures": 2800,
+        "closing": 817400
+      },
+      "additional_reserves": {
+        "opening": 2304000,
+        "direct_training": 4700,
+        "eligibility_losses": 9400,
+        "closing": 2305400
+      },
+      "field": {
+        "previous_review": 277000,
+        "closing": 277300,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 1735,
+          "accepted_or_restored": 15,
+          "withdrawn_or_lost": 10,
+          "closing": 1740,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "serviceable_aircraft": {
+          "opening": 880,
+          "accepted_or_restored": 15,
+          "withdrawn_or_lost": 15,
+          "closing": 880,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 4340,
+          "accepted_or_restored": 20,
+          "withdrawn_or_lost": 16,
+          "closing": 4344,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 130000,
+          "accepted_or_restored": 427,
+          "withdrawn_or_lost": 427,
+          "closing": 130000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "averholt",
+      "name": "Averholt",
+      "reason": "Precautionary staffing and improved vehicle repair slightly raise sustainable capacity without a wartime call-up. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Provincial bargains and the Vardol frontier absorb resources; interior transport has limited spare capacity.",
+      "standing": {
+        "opening": 482800,
+        "new_entries": 5800,
+        "reserve_to_active": 0,
+        "to_reserve": 3600,
+        "other_departures": 1600,
+        "closing": 483400
+      },
+      "additional_reserves": {
+        "opening": 1459200,
+        "direct_training": 3000,
+        "eligibility_losses": 5700,
+        "closing": 1460100
+      },
+      "field": {
+        "previous_review": 145500,
+        "closing": 145700,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 570,
+          "accepted_or_restored": 5,
+          "withdrawn_or_lost": 5,
+          "closing": 570,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 540,
+          "accepted_or_restored": 9,
+          "withdrawn_or_lost": 9,
+          "closing": 540,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 2640,
+          "accepted_or_restored": 13,
+          "withdrawn_or_lost": 11,
+          "closing": 2642,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 0,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 0,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "serevask",
+      "name": "Serevask Republic",
+      "reason": "Debt constrains active replacement; improved supply coordination offsets the small manpower reduction in field support. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: The republic controls only its own districts. Varnelle, Kelbrun and Gavrel have separate forces and revenues; old charter claims confer no authority over them.",
+      "standing": {
+        "opening": 145800,
+        "new_entries": 1500,
+        "reserve_to_active": 0,
+        "to_reserve": 1100,
+        "other_departures": 500,
+        "closing": 145700
+      },
+      "additional_reserves": {
+        "opening": 305000,
+        "direct_training": 600,
+        "eligibility_losses": 1500,
+        "closing": 305200
+      },
+      "field": {
+        "previous_review": 37300,
+        "closing": 37300,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 190,
+          "accepted_or_restored": 2,
+          "withdrawn_or_lost": 2,
+          "closing": 190,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 80,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 80,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 710,
+          "accepted_or_restored": 4,
+          "withdrawn_or_lost": 4,
+          "closing": 710,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 3000,
+          "accepted_or_restored": 10,
+          "withdrawn_or_lost": 10,
+          "closing": 3000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "varnelle",
+      "name": "Varnelle",
+      "reason": "Local recruitment and more predictable supply allow small gains without pooling the basin armies. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Delta channels, customs dependence and disputed upstream water access constrain resilience.",
+      "standing": {
+        "opening": 189500,
+        "new_entries": 2300,
+        "reserve_to_active": 0,
+        "to_reserve": 1400,
+        "other_departures": 600,
+        "closing": 189800
+      },
+      "additional_reserves": {
+        "opening": 494500,
+        "direct_training": 1000,
+        "eligibility_losses": 1900,
+        "closing": 495000
+      },
+      "field": {
+        "previous_review": 53700,
+        "closing": 53800,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 180,
+          "accepted_or_restored": 2,
+          "withdrawn_or_lost": 2,
+          "closing": 180,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 120,
+          "accepted_or_restored": 2,
+          "withdrawn_or_lost": 2,
+          "closing": 120,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 880,
+          "accepted_or_restored": 5,
+          "withdrawn_or_lost": 5,
+          "closing": 880,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 48000,
+          "accepted_or_restored": 158,
+          "withdrawn_or_lost": 158,
+          "closing": 48000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "kelbrun",
+      "name": "Kelbrun",
+      "reason": "Replacement intake edges above departures; imported equipment limits field growth. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Plantation levies are numerous but unevenly equipped; imported engines and fuel remain essential.",
+      "standing": {
+        "opening": 160600,
+        "new_entries": 1800,
+        "reserve_to_active": 0,
+        "to_reserve": 1200,
+        "other_departures": 500,
+        "closing": 160700
+      },
+      "additional_reserves": {
+        "opening": 437300,
+        "direct_training": 900,
+        "eligibility_losses": 1800,
+        "closing": 437600
+      },
+      "field": {
+        "previous_review": 37300,
+        "closing": 37300,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 190,
+          "accepted_or_restored": 2,
+          "withdrawn_or_lost": 2,
+          "closing": 190,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 40,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 40,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 820,
+          "accepted_or_restored": 4,
+          "withdrawn_or_lost": 4,
+          "closing": 820,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 5000,
+          "accepted_or_restored": 16,
+          "withdrawn_or_lost": 16,
+          "closing": 5000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "gavrel",
+      "name": "Gavrel",
+      "reason": "Household turnover produces a small net contraction; participating courts retain separate forces. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Household loyalties divide command; repair workshops cannot replace large losses of imported equipment.",
+      "standing": {
+        "opening": 82600,
+        "new_entries": 860,
+        "reserve_to_active": 0,
+        "to_reserve": 630,
+        "other_departures": 290,
+        "closing": 82540
+      },
+      "additional_reserves": {
+        "opening": 191100,
+        "direct_training": 380,
+        "eligibility_losses": 860,
+        "closing": 191250
+      },
+      "field": {
+        "previous_review": 23000,
+        "closing": 22980,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 90,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 90,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 20,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 20,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 410,
+          "accepted_or_restored": 2,
+          "withdrawn_or_lost": 2,
+          "closing": 410,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 0,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 0,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "other-otranto-400",
+      "name": "Bellacosta Cantons",
+      "reason": "Harvest labour and separate toll jurisdictions favour reserve retention over additional active service. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Canton tolls and planter credit divide the export trade. Escort flotillas answer to their sponsors; the combined manpower is not one army.",
+      "standing": {
+        "opening": 221900,
+        "new_entries": 2300,
+        "reserve_to_active": 0,
+        "to_reserve": 1700,
+        "other_departures": 800,
+        "closing": 221700
+      },
+      "additional_reserves": {
+        "opening": 591100,
+        "direct_training": 1200,
+        "eligibility_losses": 2600,
+        "closing": 591400
+      },
+      "field": {
+        "previous_review": 40000,
+        "closing": 40000,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 270,
+          "accepted_or_restored": 2,
+          "withdrawn_or_lost": 2,
+          "closing": 270,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 40,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 40,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 1140,
+          "accepted_or_restored": 6,
+          "withdrawn_or_lost": 6,
+          "closing": 1140,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 76000,
+          "accepted_or_restored": 250,
+          "withdrawn_or_lost": 250,
+          "closing": 76000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "other-otranto-700",
+      "name": "Cavressa Principalities",
+      "reason": "Seasonal household service and mountain supply slightly reduce the combined active and field returns. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Rights of passage change between courts. Winter fodder and incompatible toll privileges limit concentration more than nominal levy strength.",
+      "standing": {
+        "opening": 157100,
+        "new_entries": 1600,
+        "reserve_to_active": 0,
+        "to_reserve": 1200,
+        "other_departures": 500,
+        "closing": 157000
+      },
+      "additional_reserves": {
+        "opening": 379800,
+        "direct_training": 800,
+        "eligibility_losses": 1700,
+        "closing": 380100
+      },
+      "field": {
+        "previous_review": 27900,
+        "closing": 27900,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 200,
+          "accepted_or_restored": 2,
+          "withdrawn_or_lost": 2,
+          "closing": 200,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 30,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 30,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 760,
+          "accepted_or_restored": 4,
+          "withdrawn_or_lost": 4,
+          "closing": 760,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 46000,
+          "accepted_or_restored": 151,
+          "withdrawn_or_lost": 151,
+          "closing": 46000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "other-otranto-1100",
+      "name": "Vaulcerre Basin Leagues",
+      "reason": "Local replacement intakes maintain broadly level forces; reserve eligibility increases through discharged service personnel. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Water commands hold separate troops. A damaged gate or withheld release can disable production without an invading army taking the towns.",
+      "standing": {
+        "opening": 201300,
+        "new_entries": 2100,
+        "reserve_to_active": 0,
+        "to_reserve": 1500,
+        "other_departures": 700,
+        "closing": 201200
+      },
+      "additional_reserves": {
+        "opening": 548600,
+        "direct_training": 1100,
+        "eligibility_losses": 2300,
+        "closing": 548900
+      },
+      "field": {
+        "previous_review": 36000,
+        "closing": 36000,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 190,
+          "accepted_or_restored": 2,
+          "withdrawn_or_lost": 2,
+          "closing": 190,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 40,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 40,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 1000,
+          "accepted_or_restored": 5,
+          "withdrawn_or_lost": 5,
+          "closing": 1000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 68000,
+          "accepted_or_restored": 224,
+          "withdrawn_or_lost": 224,
+          "closing": 68000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "other-otranto-1450",
+      "name": "Seravelle Littoral",
+      "reason": "Participating escort and harbour services increase staffing modestly; no unified regional command results. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Port conventions facilitate cargo, not military command. Inland debt disputes and foreign shipping insurance expose the region to commercial pressure.",
+      "standing": {
+        "opening": 365800,
+        "new_entries": 4200,
+        "reserve_to_active": 0,
+        "to_reserve": 2700,
+        "other_departures": 1200,
+        "closing": 366100
+      },
+      "additional_reserves": {
+        "opening": 885200,
+        "direct_training": 1800,
+        "eligibility_losses": 4100,
+        "closing": 885600
+      },
+      "field": {
+        "previous_review": 66800,
+        "closing": 66900,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 390,
+          "accepted_or_restored": 3,
+          "withdrawn_or_lost": 3,
+          "closing": 390,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 90,
+          "accepted_or_restored": 2,
+          "withdrawn_or_lost": 2,
+          "closing": 90,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 1720,
+          "accepted_or_restored": 9,
+          "withdrawn_or_lost": 9,
+          "closing": 1720,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 104000,
+          "accepted_or_restored": 342,
+          "withdrawn_or_lost": 342,
+          "closing": 104000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "other-morholt-1880",
+      "name": "Haldrevik Concessions",
+      "reason": "Concession fighting and the remote Hunter strike disrupt retention and support; unavailable personnel are not automatically fatalities. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Company forces protect particular assets. Charter disputes, imported food and dependence on Varnesk equipment undermine any combined mobilisation.",
+      "standing": {
+        "opening": 65100,
+        "new_entries": 840,
+        "reserve_to_active": 0,
+        "to_reserve": 550,
+        "other_departures": 410,
+        "closing": 64980
+      },
+      "additional_reserves": {
+        "opening": 154800,
+        "direct_training": 310,
+        "eligibility_losses": 1030,
+        "closing": 154630
+      },
+      "field": {
+        "previous_review": 11600,
+        "closing": 11580,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 66,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 2,
+          "closing": 65,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "serviceable_aircraft": {
+          "opening": 20,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 20,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 310,
+          "accepted_or_restored": 3,
+          "withdrawn_or_lost": 5,
+          "closing": 308,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 19000,
+          "accepted_or_restored": 62,
+          "withdrawn_or_lost": 62,
+          "closing": 19000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "other-morholt-2190",
+      "name": "Dreissen Wardholds",
+      "reason": "Mutual stores and hospice access assist small replacement and support gains across separate wardholds. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Most personnel guard their own supply districts. Winter fuel and food reserves impose strict limits on campaigning beyond the wardholds.",
+      "standing": {
+        "opening": 92300,
+        "new_entries": 1050,
+        "reserve_to_active": 0,
+        "to_reserve": 700,
+        "other_departures": 310,
+        "closing": 92340
+      },
+      "additional_reserves": {
+        "opening": 224000,
+        "direct_training": 450,
+        "eligibility_losses": 1010,
+        "closing": 224140
+      },
+      "field": {
+        "previous_review": 17200,
+        "closing": 17210,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 120,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 120,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 20,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 20,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 460,
+          "accepted_or_restored": 3,
+          "withdrawn_or_lost": 3,
+          "closing": 460,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 28000,
+          "accepted_or_restored": 92,
+          "withdrawn_or_lost": 92,
+          "closing": 28000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "other-morholt-2630",
+      "name": "Varneselle Estates",
+      "reason": "Harbour maintenance supports a small service intake; seasonal restrictions remain. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Port and estate forces obey different officers. Agricultural limits and dependence on Halskert grain make freight disruption especially costly.",
+      "standing": {
+        "opening": 76200,
+        "new_entries": 860,
+        "reserve_to_active": 0,
+        "to_reserve": 570,
+        "other_departures": 260,
+        "closing": 76230
+      },
+      "additional_reserves": {
+        "opening": 192600,
+        "direct_training": 400,
+        "eligibility_losses": 890,
+        "closing": 192680
+      },
+      "field": {
+        "previous_review": 14100,
+        "closing": 14110,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 80,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 80,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 20,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 20,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 400,
+          "accepted_or_restored": 2,
+          "withdrawn_or_lost": 2,
+          "closing": 400,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 26180,
+          "accepted_or_restored": 35,
+          "withdrawn_or_lost": 0,
+          "closing": 26215,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "other-vesalius-2790",
+      "name": "Bressavelle Marches",
+      "reason": "Active turnover is slightly negative; predictable warehouse support marginally improves sustainable deployment. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Foreign clients subsidise rival toll houses. Local garrisons cannot be added together as an expeditionary force without renegotiating their obligations.",
+      "standing": {
+        "opening": 199500,
+        "new_entries": 2100,
+        "reserve_to_active": 0,
+        "to_reserve": 1500,
+        "other_departures": 700,
+        "closing": 199400
+      },
+      "additional_reserves": {
+        "opening": 511200,
+        "direct_training": 1000,
+        "eligibility_losses": 2200,
+        "closing": 511500
+      },
+      "field": {
+        "previous_review": 36200,
+        "closing": 36200,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 190,
+          "accepted_or_restored": 2,
+          "withdrawn_or_lost": 2,
+          "closing": 190,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 130,
+          "accepted_or_restored": 2,
+          "withdrawn_or_lost": 2,
+          "closing": 130,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 1080,
+          "accepted_or_restored": 6,
+          "withdrawn_or_lost": 6,
+          "closing": 1080,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 57000,
+          "accepted_or_restored": 187,
+          "withdrawn_or_lost": 187,
+          "closing": 57000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "other-vesalius-2790-1410",
+      "name": "Vallessia Cantons",
+      "reason": "Harvest and requisition limits encourage transfer back to civilian and reserve status; supply improvements maintain field capacity. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Military governors and elected market boards compete for transport and stores. Requisition disputes can immobilise a nominally available reserve.",
+      "standing": {
+        "opening": 149800,
+        "new_entries": 1500,
+        "reserve_to_active": 0,
+        "to_reserve": 1100,
+        "other_departures": 500,
+        "closing": 149700
+      },
+      "additional_reserves": {
+        "opening": 376800,
+        "direct_training": 800,
+        "eligibility_losses": 1700,
+        "closing": 377000
+      },
+      "field": {
+        "previous_review": 27000,
+        "closing": 27000,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 170,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 170,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 80,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 80,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 810,
+          "accepted_or_restored": 4,
+          "withdrawn_or_lost": 4,
+          "closing": 810,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 49000,
+          "accepted_or_restored": 161,
+          "withdrawn_or_lost": 161,
+          "closing": 49000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "other-vesalius-3160",
+      "name": "Rivessac Coast",
+      "reason": "Coastal service and pilot coordination support modest recruitment and support gains. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Small communes lack a shared naval command. Poorly charted harbours, seasonal labour and interrupted inland roads limit the usable export surplus.",
+      "standing": {
+        "opening": 118400,
+        "new_entries": 1400,
+        "reserve_to_active": 0,
+        "to_reserve": 900,
+        "other_departures": 400,
+        "closing": 118500
+      },
+      "additional_reserves": {
+        "opening": 292900,
+        "direct_training": 600,
+        "eligibility_losses": 1400,
+        "closing": 293000
+      },
+      "field": {
+        "previous_review": 21200,
+        "closing": 21200,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 120,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 120,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 70,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 70,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 630,
+          "accepted_or_restored": 3,
+          "withdrawn_or_lost": 3,
+          "closing": 630,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 35000,
+          "accepted_or_restored": 115,
+          "withdrawn_or_lost": 115,
+          "closing": 35000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "karsenne",
+      "name": "Karsenne Compact",
+      "reason": "Routine intake and gun refurbishment modestly improve capacity; no railway construction or mobilisation is assumed. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Strong pass defence and mining; food and coastal export access depend on neighbours. Councils control separate contingents.",
+      "standing": {
+        "opening": 94500,
+        "new_entries": 1110,
+        "reserve_to_active": 0,
+        "to_reserve": 710,
+        "other_departures": 330,
+        "closing": 94570
+      },
+      "additional_reserves": {
+        "opening": 255400,
+        "direct_training": 520,
+        "eligibility_losses": 1040,
+        "closing": 255590
+      },
+      "field": {
+        "previous_review": 23200,
+        "closing": 23220,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 60,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 60,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 60,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 60,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 708,
+          "accepted_or_restored": 5,
+          "withdrawn_or_lost": 4,
+          "closing": 709,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 0,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 0,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "caldrienne",
+      "name": "Duchy of Caldrienne",
+      "reason": "Regular recruiting sustains reinforced frontier posts and replacement equipment crews; this is modest expansion under the armed truce. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Largest eastern tank arm, but fuel imports and the armed truce impose costs; offensive forces cannot strip all garrisons.",
+      "standing": {
+        "opening": 301200,
+        "new_entries": 4000,
+        "reserve_to_active": 0,
+        "to_reserve": 2200,
+        "other_departures": 1000,
+        "closing": 302000
+      },
+      "additional_reserves": {
+        "opening": 735500,
+        "direct_training": 1500,
+        "eligibility_losses": 2600,
+        "closing": 736600
+      },
+      "field": {
+        "previous_review": 108800,
+        "closing": 109100,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 1540,
+          "accepted_or_restored": 18,
+          "withdrawn_or_lost": 12,
+          "closing": 1546,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "serviceable_aircraft": {
+          "opening": 366,
+          "accepted_or_restored": 4,
+          "withdrawn_or_lost": 3,
+          "closing": 367,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "serviceable_artillery": {
+          "opening": 1885,
+          "accepted_or_restored": 12,
+          "withdrawn_or_lost": 9,
+          "closing": 1888,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 53000,
+          "accepted_or_restored": 174,
+          "withdrawn_or_lost": 174,
+          "closing": 53000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "veyrasse",
+      "name": "March of Veyrasse",
+      "reason": "Regular recruiting and improved conventional maintenance slightly increase serving and field strength. The pilot rifles do not create additional soldiers. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Chartered houses, municipal funding and freight bottlenecks constrain command; machinery and fuel imports matter.",
+      "standing": {
+        "opening": 158400,
+        "new_entries": 2000,
+        "reserve_to_active": 0,
+        "to_reserve": 1200,
+        "other_departures": 500,
+        "closing": 158700
+      },
+      "additional_reserves": {
+        "opening": 445600,
+        "direct_training": 900,
+        "eligibility_losses": 1500,
+        "closing": 446200
+      },
+      "field": {
+        "previous_review": 45900,
+        "closing": 46000,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 396,
+          "accepted_or_restored": 4,
+          "withdrawn_or_lost": 2,
+          "closing": 398,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "serviceable_aircraft": {
+          "opening": 184,
+          "accepted_or_restored": 2,
+          "withdrawn_or_lost": 2,
+          "closing": 184,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "serviceable_artillery": {
+          "opening": 720,
+          "accepted_or_restored": 6,
+          "withdrawn_or_lost": 4,
+          "closing": 722,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 31000,
+          "accepted_or_restored": 102,
+          "withdrawn_or_lost": 102,
+          "closing": 31000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "calvernis",
+      "name": "Calvernis Republic",
+      "reason": "Replacement escort and engine programmes support additional trained crews and support staff. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Strong finance and convoy support; imported food and fuel expose it to interdiction and merchant-family disputes.",
+      "standing": {
+        "opening": 138200,
+        "new_entries": 1700,
+        "reserve_to_active": 0,
+        "to_reserve": 1000,
+        "other_departures": 500,
+        "closing": 138400
+      },
+      "additional_reserves": {
+        "opening": 423100,
+        "direct_training": 900,
+        "eligibility_losses": 1600,
+        "closing": 423400
+      },
+      "field": {
+        "previous_review": 38500,
+        "closing": 38600,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 360,
+          "accepted_or_restored": 3,
+          "withdrawn_or_lost": 3,
+          "closing": 360,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 245,
+          "accepted_or_restored": 3,
+          "withdrawn_or_lost": 2,
+          "closing": 246,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        },
+        "serviceable_artillery": {
+          "opening": 690,
+          "accepted_or_restored": 4,
+          "withdrawn_or_lost": 4,
+          "closing": 690,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 166800,
+          "accepted_or_restored": 449,
+          "withdrawn_or_lost": 293,
+          "closing": 166956,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "ceralte",
+      "name": "Ceralte Admiralty",
+      "reason": "Small naval intakes support replacement patrol tonnage and coordinated port services. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Experienced coastal crews and minelayers; small population, grain imports and fuel dependence rule out a large land war.",
+      "standing": {
+        "opening": 33250,
+        "new_entries": 390,
+        "reserve_to_active": 0,
+        "to_reserve": 250,
+        "other_departures": 110,
+        "closing": 33280
+      },
+      "additional_reserves": {
+        "opening": 72550,
+        "direct_training": 150,
+        "eligibility_losses": 320,
+        "closing": 72630
+      },
+      "field": {
+        "previous_review": 7100,
+        "closing": 7110,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 10,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 10,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 40,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 40,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 170,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 170,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 30200,
+          "accepted_or_restored": 117,
+          "withdrawn_or_lost": 78,
+          "closing": 30239,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "varessan",
+      "name": "Varessan Sea League",
+      "reason": "Patrol restoration supports a small service increase under separate island votes. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Imported engines, medicine and bunker fuel; island votes limit emergency taxation.",
+      "standing": {
+        "opening": 9050,
+        "new_entries": 110,
+        "reserve_to_active": 0,
+        "to_reserve": 70,
+        "other_departures": 30,
+        "closing": 9060
+      },
+      "additional_reserves": {
+        "opening": 25130,
+        "direct_training": 50,
+        "eligibility_losses": 100,
+        "closing": 25150
+      },
+      "field": {
+        "previous_review": 2220,
+        "closing": 2220,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 6,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 6,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 18,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 18,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 40,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 40,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 14660,
+          "accepted_or_restored": 31,
+          "withdrawn_or_lost": 0,
+          "closing": 14691,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "talasca",
+      "name": "Talascan Charter Islands",
+      "reason": "Levy disputes and legal suspension discourage expanded active obligations; no armed uprising is invented. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: External firms dominate commercial credit and shipping; contested leases and imported machinery.",
+      "standing": {
+        "opening": 6920,
+        "new_entries": 70,
+        "reserve_to_active": 0,
+        "to_reserve": 50,
+        "other_departures": 20,
+        "closing": 6920
+      },
+      "additional_reserves": {
+        "opening": 14120,
+        "direct_training": 30,
+        "eligibility_losses": 60,
+        "closing": 14140
+      },
+      "field": {
+        "previous_review": 1480,
+        "closing": 1480,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 12,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 12,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 15,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 15,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 36,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 36,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 7800,
+          "accepted_or_restored": 26,
+          "withdrawn_or_lost": 26,
+          "closing": 7800,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "nemerai",
+      "name": "Nemerai Crown",
+      "reason": "Navigation and engine-school intakes support limited staffed patrol and support growth. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: No integrated heavy steel industry; outer-island levies require compact consent.",
+      "standing": {
+        "opening": 17140,
+        "new_entries": 210,
+        "reserve_to_active": 0,
+        "to_reserve": 130,
+        "other_departures": 60,
+        "closing": 17160
+      },
+      "additional_reserves": {
+        "opening": 58350,
+        "direct_training": 120,
+        "eligibility_losses": 200,
+        "closing": 58400
+      },
+      "field": {
+        "previous_review": 4860,
+        "closing": 4870,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 15,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 15,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 24,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 24,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 65,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 65,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 22000,
+          "accepted_or_restored": 72,
+          "withdrawn_or_lost": 72,
+          "closing": 22000,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "ordelune",
+      "name": "Ordelune Overseas Districts",
+      "reason": "Seasonal rotation slightly reduces active strength; grain and spares agreements sustain the existing field allocation. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Storm-season isolation, limited machine shops and disputed crown leases.",
+      "standing": {
+        "opening": 5460,
+        "new_entries": 50,
+        "reserve_to_active": 0,
+        "to_reserve": 40,
+        "other_departures": 20,
+        "closing": 5450
+      },
+      "additional_reserves": {
+        "opening": 17090,
+        "direct_training": 40,
+        "eligibility_losses": 60,
+        "closing": 17110
+      },
+      "field": {
+        "previous_review": 1300,
+        "closing": 1300,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 4,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 4,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 8,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 8,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 24,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 24,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 4200,
+          "accepted_or_restored": 14,
+          "withdrawn_or_lost": 14,
+          "closing": 4200,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "skeldra",
+      "name": "Skeldran Hearth Confederacy",
+      "reason": "Small hearth-service rotations favour reserve status; pooled stores sustain the existing field capacity. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Short growing season, scarce imported fuel and little heavy repair capacity.",
+      "standing": {
+        "opening": 2180,
+        "new_entries": 20,
+        "reserve_to_active": 0,
+        "to_reserve": 20,
+        "other_departures": 10,
+        "closing": 2170
+      },
+      "additional_reserves": {
+        "opening": 14080,
+        "direct_training": 30,
+        "eligibility_losses": 30,
+        "closing": 14100
+      },
+      "field": {
+        "previous_review": 450,
+        "closing": 450,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 0,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 0,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 2,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 2,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 12,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 12,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 1600,
+          "accepted_or_restored": 5,
+          "withdrawn_or_lost": 5,
+          "closing": 1600,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "merovia",
+      "name": "Merovian Island Republic",
+      "reason": "Restored patrol tonnage and workshop activity support a small net trained-service intake. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Imported plate and refined fuel; merchant finance and outer-island representation remain contentious.",
+      "standing": {
+        "opening": 10600,
+        "new_entries": 130,
+        "reserve_to_active": 0,
+        "to_reserve": 80,
+        "other_departures": 40,
+        "closing": 10610
+      },
+      "additional_reserves": {
+        "opening": 30180,
+        "direct_training": 60,
+        "eligibility_losses": 120,
+        "closing": 30200
+      },
+      "field": {
+        "previous_review": 2940,
+        "closing": 2940,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 22,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 22,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 35,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 35,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 58,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 58,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 24750,
+          "accepted_or_restored": 49,
+          "withdrawn_or_lost": 0,
+          "closing": 24799,
+          "basis": "Continuation of the recorded national delivery/repair and withdrawal programme over the remaining interval."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "ashalai",
+      "name": "Ashalai Reef Covenant",
+      "reason": "Kin-based rotations return more members to reserve while improved supply access maintains field support. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Limited heavy industry and medical imports; dispersed councils cannot mobilise as a centralised mass army.",
+      "standing": {
+        "opening": 7960,
+        "new_entries": 80,
+        "reserve_to_active": 0,
+        "to_reserve": 60,
+        "other_departures": 30,
+        "closing": 7950
+      },
+      "additional_reserves": {
+        "opening": 45230,
+        "direct_training": 90,
+        "eligibility_losses": 120,
+        "closing": 45260
+      },
+      "field": {
+        "previous_review": 1800,
+        "closing": 1800,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 0,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 0,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 9,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 9,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 28,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 28,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 5600,
+          "accepted_or_restored": 18,
+          "withdrawn_or_lost": 18,
+          "closing": 5600,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "istrana",
+      "name": "Kingdom of Istrana",
+      "reason": "Limited contract renewal supports modest replacement intake without a new military-industrial branch. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Imported machinery and fuel; royal borrowing requires assembly consent.",
+      "standing": {
+        "opening": 10060,
+        "new_entries": 120,
+        "reserve_to_active": 0,
+        "to_reserve": 80,
+        "other_departures": 30,
+        "closing": 10070
+      },
+      "additional_reserves": {
+        "opening": 31160,
+        "direct_training": 60,
+        "eligibility_losses": 120,
+        "closing": 31180
+      },
+      "field": {
+        "previous_review": 2620,
+        "closing": 2620,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 14,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 14,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 20,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 20,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 44,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 44,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 17800,
+          "accepted_or_restored": 59,
+          "withdrawn_or_lost": 59,
+          "closing": 17800,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "edrask",
+      "name": "Edrask Governorate",
+      "reason": "Seasonal local service rotation slightly reduces active personnel; visiting mainland forces are not added to the colonial return. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Seasonal northern access, disputed concessions and dependence on imported grain and machinery.",
+      "standing": {
+        "opening": 8440,
+        "new_entries": 80,
+        "reserve_to_active": 0,
+        "to_reserve": 60,
+        "other_departures": 30,
+        "closing": 8430
+      },
+      "additional_reserves": {
+        "opening": 18110,
+        "direct_training": 40,
+        "eligibility_losses": 90,
+        "closing": 18120
+      },
+      "field": {
+        "previous_review": 1900,
+        "closing": 1900,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 10,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 10,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 18,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 18,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 42,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 42,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 11500,
+          "accepted_or_restored": 38,
+          "withdrawn_or_lost": 38,
+          "closing": 11500,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    },
+    {
+      "id": "norrakai",
+      "name": "Norrakai Moots",
+      "reason": "A small seasonal service rotation changes headcount without adding aircraft, armour or a central army. Remaining-year estimate continues that jurisdiction’s recorded programme and constraints: Short shipping season, imported grain and almost no industrial depth.",
+      "standing": {
+        "opening": 445,
+        "new_entries": 4,
+        "reserve_to_active": 0,
+        "to_reserve": 3,
+        "other_departures": 1,
+        "closing": 445
+      },
+      "additional_reserves": {
+        "opening": 2515,
+        "direct_training": 5,
+        "eligibility_losses": 7,
+        "closing": 2516
+      },
+      "field": {
+        "previous_review": 90,
+        "closing": 90,
+        "reason": "Existing transport, supply and fixed-duty share retained; personnel change only, no new logistical breakthrough."
+      },
+      "equipment": {
+        "serviceable_armour": {
+          "opening": 0,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 0,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_aircraft": {
+          "opening": 0,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 0,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "serviceable_artillery": {
+          "opening": 4,
+          "accepted_or_restored": 0,
+          "withdrawn_or_lost": 0,
+          "closing": 4,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        },
+        "fleet_displacement_tonnes": {
+          "opening": 250,
+          "accepted_or_restored": 1,
+          "withdrawn_or_lost": 1,
+          "closing": 250,
+          "basis": "Balanced maintenance return and withdrawal allowance; no evidence of net expansion. Zero holdings remain zero."
+        }
+      },
+      "authorised_establishment": null,
+      "personnel_interval_days": 59,
+      "equipment_interval_days": 80
+    }
+  ]
+}

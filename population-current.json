@@ -1,229 +1,229 @@
 {
-  "revision": 80,
-  "basis": "27/08/0067 AC43 to 25/02/0069 AC43; 545 elapsed local days",
-  "elapsed_local_days": 545,
+  "revision": 81,
+  "basis": "27/08/0067 AC43 to 01/01/0069 AC43; 490 elapsed local days",
+  "elapsed_local_days": 490,
   "census_epoch": "27/08/0067 AC43",
-  "estimate_epoch": "25/02/0069 AC43",
+  "estimate_epoch": "01/01/0069 AC43",
   "census_population": 1223820000,
-  "estimated_population": 1230125829,
+  "estimated_population": 1229486253,
   "groups": [
     {
       "id": "veldrassen",
       "name": "Veldrassen",
-      "population": 163232388
+      "population": 163097218
     },
     {
       "id": "ostrevain",
       "name": "Ostrevain",
-      "population": 117452689
+      "population": 117325399
     },
     {
       "id": "rovessara",
       "name": "Rovessara",
-      "population": 71001168
+      "population": 70960536
     },
     {
       "id": "brannervaux",
       "name": "Brannervaux",
-      "population": 47854077
+      "population": 47807972
     },
     {
       "id": "cervaud",
       "name": "Cervaud",
-      "population": 31565883
+      "population": 31559225
     },
     {
       "id": "veylac",
       "name": "Veylac",
-      "population": 29998302
+      "population": 29988361
     },
     {
       "id": "ossavren",
       "name": "Ossavren successor territories",
-      "population": 167000373
+      "population": 167030576
     },
     {
       "id": "rovengard",
       "name": "Rovengard",
-      "population": 29479656
+      "population": 29461454
     },
     {
       "id": "varnesk",
       "name": "Varnesk",
-      "population": 19752983
+      "population": 19747627
     },
     {
       "id": "galdresk",
       "name": "Galdresk",
-      "population": 11255257
+      "population": 11249663
     },
     {
       "id": "halskert",
       "name": "Halskert",
-      "population": 18848288
+      "population": 18833247
     },
     {
       "id": "tervayne",
       "name": "Tervayne",
-      "population": 36459928
+      "population": 36433576
     },
     {
       "id": "vardol",
       "name": "Vardol",
-      "population": 64296594
+      "population": 64266574
     },
     {
       "id": "averholt",
       "name": "Averholt",
-      "population": 49221810
+      "population": 49189197
     },
     {
       "id": "serevask",
       "name": "Serevask Republic",
-      "population": 13033021
+      "population": 13029683
     },
     {
       "id": "varnelle",
       "name": "Varnelle",
-      "population": 20911962
+      "population": 20900624
     },
     {
       "id": "kelbrun",
       "name": "Kelbrun",
-      "population": 17752761
+      "population": 17737259
     },
     {
       "id": "gavrel",
       "name": "Gavrel",
-      "population": 7012549
+      "population": 7011281
     },
     {
       "id": "other-otranto-400",
       "name": "Bellacosta Cantons",
-      "population": 32511368
+      "population": 32500104
     },
     {
       "id": "other-otranto-700",
       "name": "Cavressa Principalities",
-      "population": 21835821
+      "population": 21832202
     },
     {
       "id": "other-otranto-1100",
       "name": "Vaulcerre Basin Leagues",
-      "population": 29719456
+      "population": 29707370
     },
     {
       "id": "other-otranto-1450",
       "name": "Seravelle Littoral",
-      "population": 48486763
+      "population": 48477997
     },
     {
       "id": "other-morholt-1880",
       "name": "Haldrevik Concessions",
-      "population": 8736412
+      "population": 8732728
     },
     {
       "id": "other-morholt-2190",
       "name": "Dreissen Wardholds",
-      "population": 13190136
+      "population": 13181000
     },
     {
       "id": "other-morholt-2630",
       "name": "Varneselle Estates",
-      "population": 11168060
+      "population": 11161165
     },
     {
       "id": "other-vesalius-2790",
       "name": "Bressavelle Marches",
-      "population": 28075250
+      "population": 28057493
     },
     {
       "id": "other-vesalius-2790-1410",
       "name": "Vallessia Cantons",
-      "population": 20236210
+      "population": 20232552
     },
     {
       "id": "other-vesalius-3160",
       "name": "Rivessac Coast",
-      "population": 16299332
+      "population": 16289268
     },
     {
       "id": "karsenne",
       "name": "Karsenne Compact",
-      "population": 8023909
+      "population": 8021492
     },
     {
       "id": "caldrienne",
       "name": "Duchy of Caldrienne",
-      "population": 24028649
+      "population": 24015621
     },
     {
       "id": "veyrasse",
       "name": "March of Veyrasse",
-      "population": 15810379
+      "population": 15799190
     },
     {
       "id": "calvernis",
       "name": "Calvernis Republic",
-      "population": 18240817
+      "population": 18226535
     },
     {
       "id": "ceralte",
       "name": "Ceralte Admiralty",
-      "population": 2912571
+      "population": 2911299
     },
     {
       "id": "varessan",
       "name": "Varessan Sea League",
-      "population": 1811307
+      "population": 1810161
     },
     {
       "id": "talasca",
       "name": "Talascan Charter Islands",
-      "population": 1105098
+      "population": 1104582
     },
     {
       "id": "nemerai",
       "name": "Nemerai Crown",
-      "population": 3226335
+      "population": 3223663
     },
     {
       "id": "ordelune",
       "name": "Ordelune Overseas Districts",
-      "population": 1005532
+      "population": 1004972
     },
     {
       "id": "skeldra",
       "name": "Skeldran Hearth Confederacy",
-      "population": 451210
+      "population": 451088
     },
     {
       "id": "merovia",
       "name": "Merovian Island Republic",
-      "population": 1611009
+      "population": 1609893
     },
     {
       "id": "ashalai",
       "name": "Ashalai Reef Covenant",
-      "population": 2422271
+      "population": 2420010
     },
     {
       "id": "istrana",
       "name": "Kingdom of Istrana",
-      "population": 1762828
+      "population": 1761527
     },
     {
       "id": "edrask",
       "name": "Edrask Governorate",
-      "population": 1205202
+      "population": 1204676
     },
     {
       "id": "norrakai",
       "name": "Norrakai Moots",
-      "population": 120215
+      "population": 120193
     }
   ],
-  "method": "Generated from the preserved census and dated vital-rate reviews at the shared current calendar date. Historical checkpoints retained; national and settlement subsets reconcile without compounding prior projections.",
+  "method": "Generated from the preserved census and dated vital-rate reviews at the shared annual statistical cutoff. Historical checkpoints retained; national and settlement subsets reconcile without compounding prior projections.",
   "historical_projection": {
     "revision": 72,
     "basis": "27/08/0067 AC43 to 05/11/0068 AC43; 434 elapsed local days",
@@ -4901,6 +4901,238 @@
         }
       ],
       "method": "Preserve population through the 05/11 vital-rate review, then apply the dated reviewed rates for one further local day. No new exceptional loss or migration. National and settlement subsets reconcile; do not compound independently generated projections.",
+      "detail_sources": {
+        "national": "national-current.json",
+        "settlements": "world-current.json",
+        "method": "LIVING-WORLD-REFERENCE.md"
+      }
+    },
+    {
+      "revision": 80,
+      "basis": "27/08/0067 AC43 to 25/02/0069 AC43; 545 elapsed local days",
+      "elapsed_local_days": 545,
+      "census_epoch": "27/08/0067 AC43",
+      "estimate_epoch": "25/02/0069 AC43",
+      "census_population": 1223820000,
+      "estimated_population": 1230125829,
+      "groups": [
+        {
+          "id": "veldrassen",
+          "name": "Veldrassen",
+          "population": 163232388
+        },
+        {
+          "id": "ostrevain",
+          "name": "Ostrevain",
+          "population": 117452689
+        },
+        {
+          "id": "rovessara",
+          "name": "Rovessara",
+          "population": 71001168
+        },
+        {
+          "id": "brannervaux",
+          "name": "Brannervaux",
+          "population": 47854077
+        },
+        {
+          "id": "cervaud",
+          "name": "Cervaud",
+          "population": 31565883
+        },
+        {
+          "id": "veylac",
+          "name": "Veylac",
+          "population": 29998302
+        },
+        {
+          "id": "ossavren",
+          "name": "Ossavren successor territories",
+          "population": 167000373
+        },
+        {
+          "id": "rovengard",
+          "name": "Rovengard",
+          "population": 29479656
+        },
+        {
+          "id": "varnesk",
+          "name": "Varnesk",
+          "population": 19752983
+        },
+        {
+          "id": "galdresk",
+          "name": "Galdresk",
+          "population": 11255257
+        },
+        {
+          "id": "halskert",
+          "name": "Halskert",
+          "population": 18848288
+        },
+        {
+          "id": "tervayne",
+          "name": "Tervayne",
+          "population": 36459928
+        },
+        {
+          "id": "vardol",
+          "name": "Vardol",
+          "population": 64296594
+        },
+        {
+          "id": "averholt",
+          "name": "Averholt",
+          "population": 49221810
+        },
+        {
+          "id": "serevask",
+          "name": "Serevask Republic",
+          "population": 13033021
+        },
+        {
+          "id": "varnelle",
+          "name": "Varnelle",
+          "population": 20911962
+        },
+        {
+          "id": "kelbrun",
+          "name": "Kelbrun",
+          "population": 17752761
+        },
+        {
+          "id": "gavrel",
+          "name": "Gavrel",
+          "population": 7012549
+        },
+        {
+          "id": "other-otranto-400",
+          "name": "Bellacosta Cantons",
+          "population": 32511368
+        },
+        {
+          "id": "other-otranto-700",
+          "name": "Cavressa Principalities",
+          "population": 21835821
+        },
+        {
+          "id": "other-otranto-1100",
+          "name": "Vaulcerre Basin Leagues",
+          "population": 29719456
+        },
+        {
+          "id": "other-otranto-1450",
+          "name": "Seravelle Littoral",
+          "population": 48486763
+        },
+        {
+          "id": "other-morholt-1880",
+          "name": "Haldrevik Concessions",
+          "population": 8736412
+        },
+        {
+          "id": "other-morholt-2190",
+          "name": "Dreissen Wardholds",
+          "population": 13190136
+        },
+        {
+          "id": "other-morholt-2630",
+          "name": "Varneselle Estates",
+          "population": 11168060
+        },
+        {
+          "id": "other-vesalius-2790",
+          "name": "Bressavelle Marches",
+          "population": 28075250
+        },
+        {
+          "id": "other-vesalius-2790-1410",
+          "name": "Vallessia Cantons",
+          "population": 20236210
+        },
+        {
+          "id": "other-vesalius-3160",
+          "name": "Rivessac Coast",
+          "population": 16299332
+        },
+        {
+          "id": "karsenne",
+          "name": "Karsenne Compact",
+          "population": 8023909
+        },
+        {
+          "id": "caldrienne",
+          "name": "Duchy of Caldrienne",
+          "population": 24028649
+        },
+        {
+          "id": "veyrasse",
+          "name": "March of Veyrasse",
+          "population": 15810379
+        },
+        {
+          "id": "calvernis",
+          "name": "Calvernis Republic",
+          "population": 18240817
+        },
+        {
+          "id": "ceralte",
+          "name": "Ceralte Admiralty",
+          "population": 2912571
+        },
+        {
+          "id": "varessan",
+          "name": "Varessan Sea League",
+          "population": 1811307
+        },
+        {
+          "id": "talasca",
+          "name": "Talascan Charter Islands",
+          "population": 1105098
+        },
+        {
+          "id": "nemerai",
+          "name": "Nemerai Crown",
+          "population": 3226335
+        },
+        {
+          "id": "ordelune",
+          "name": "Ordelune Overseas Districts",
+          "population": 1005532
+        },
+        {
+          "id": "skeldra",
+          "name": "Skeldran Hearth Confederacy",
+          "population": 451210
+        },
+        {
+          "id": "merovia",
+          "name": "Merovian Island Republic",
+          "population": 1611009
+        },
+        {
+          "id": "ashalai",
+          "name": "Ashalai Reef Covenant",
+          "population": 2422271
+        },
+        {
+          "id": "istrana",
+          "name": "Kingdom of Istrana",
+          "population": 1762828
+        },
+        {
+          "id": "edrask",
+          "name": "Edrask Governorate",
+          "population": 1205202
+        },
+        {
+          "id": "norrakai",
+          "name": "Norrakai Moots",
+          "population": 120215
+        }
+      ],
+      "method": "Generated from the preserved census and dated vital-rate reviews at the shared current calendar date. Historical checkpoints retained; national and settlement subsets reconcile without compounding prior projections.",
       "detail_sources": {
         "national": "national-current.json",
         "settlements": "world-current.json",

@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "snapshot_date": "01/01/0069 AC43",
+  "next_tick": "01/01/0070 AC43",
+  "rule": "Public national and settlement statistics are opening-year snapshots, refreshed once annually on day 1 month 1. Completed prior-year developments appear at that tick. Later enacted local, personal and project records retain their own occurrence dates. No future-year outcome is exposed by a forecast.",
+  "military_return": "military-annual69.json",
+  "preserve": "world-year68.json and WORLD-YEAR68.md remain unchanged; prior projections are historical snapshots.",
+  "veyrasse_capital_cutoff": {
+    "date": "01/01/0069 AC43",
+    "authorised_million": 14,
+    "spent_million_estimate": 0.889,
+    "uncertainty_million": [
+      0,
+      1.36
+    ],
+    "basis": "Itemised year-end vouchers have not been recorded. Neutral time apportionment of the first 19/01 cumulative construction return from mobilisation to cutoff, rounded to 1,000. This is an annual treasury estimate, not a new transaction. Full later project accounts stay unchanged. A later cumulative actual expense replaces this estimate rather than being added to it."
+  }
+}
