@@ -1,5 +1,3 @@
-[Historical national records and frozen snapshots](NATIONAL-ARCHIVE.md)
-
 # Malaspina — national staff returns
 
 Return: 01/01/0069 AC43 — modelled current estimates

@@ -1,6 +1,6 @@
 The app now groups commission work under Research, completed expedition and pod history under Chronicle, and household context beside the estate. [Organisation audit](APP-AUDIT.md) records the changes; [retained source records](APP-RECORD-REFERENCE.md) preserve consolidated prose. All 43 national/territorial profiles include [living standards and public sentiment](SOCIAL-CONDITIONS.md), household-budget estimates, evidence ranges and everyday-life descriptions. Their inputs and common formulas are recorded in the linked reference.
 
-The **Research** tab brings the existing research record together with collapsible guidance on cumulative discoveries, development stages and Hunter plasma adaptations. [Full narrator reference](RESEARCH-PROGRESSION.md). Revision 81 reconciles the app through the estate visit, woodland research and construction supervision ending 25/02/0069.
+The **Research** tab brings the existing research record together with collapsible guidance on cumulative discoveries, development stages and Hunter plasma adaptations. [Full narrator reference](RESEARCH-PROGRESSION.md). Revision 82 presents current national returns and reconciles the app through the estate visit, woodland research and construction supervision ending 25/02/0069.
 
 Published overview date: **25/02/0069 AC43** (day/month/year after Culling 43). See [the calendar](CALENDAR-REFERENCE.md).
 
@@ -26,7 +26,7 @@ Independent fan work. Warhammer 40,000 and its established characters belong to 
 
 The [food and historical record](CULTURE-AND-HISTORY.md) describes regional tables, everyday provisions and the last major culling. Editable sources are food-cultures.json and purge-history.json.
 
-## Current edition — revision 81
+## Current edition — revision 82
 
 **25/02/0069 AC43, VAA construction site near Auvrienne.** Galahad is Royal Advisor and founding Director of the VAA. His advisory instrument is signed and delivered, with departmental notices issued. All six Order members arrived and trained; they have now departed for their home societies, without assuming instant arrival. [Agency record](VAA-REFERENCE.md) preserves names, arrival dates, individual abilities, assignments and knowledge boundaries.
 
@@ -91,3 +91,7 @@ Estate sword retained on the study wall; private woodland research is documented
 ## Annual world-return policy — revision 81
 
 Public world statistics use 01/01/0069 AC43 as the opening-year snapshot. Update the complete world return once at each 01/01, reporting completed prior-year developments. Preserve Year 68 developments unchanged. Population, military personnel/equipment, output, budgets, treasury stocks, household conditions, prices, lifespans, leadership and technology must all be reviewed together. Later enacted local and personal records retain their own dates; do not rewind the story or reveal uncompleted annual outcomes. At 01/01/0070 reconcile actual Year 69 outcomes and publish the next return.
+
+## National history archive
+
+[Nation archive index](NATIONAL-ARCHIVE.md) locates preserved baselines, Year 68 developments, personnel movements and an immutable full revision-81 national return. The app displays current national figures; historical inventory tables, opening troop counts and treasury balances remain available in the indexed documents rather than alongside current values. Current facts and numerical estimates are unchanged by this presentation update.
